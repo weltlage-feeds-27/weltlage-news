@@ -1,0 +1,23 @@
+name: Karte holen
+on:
+  push:
+    branches: [tex]
+    paths: [".github/workflows/tex.yml"]
+permissions:
+  contents: write
+jobs:
+  tex:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: tex
+      - run: |
+          mkdir -p tex
+          curl -fsSL -o tex/day8k.jpg https://cdn.jsdelivr.net/gh/618coffee/interactive-globe@v0.16.0/react/public/textures/earth-blue-marble-8k.jpg
+          ls -la tex
+          git config user.name "weltlage-bot"
+          git config user.email "weltlage-bot@users.noreply.github.com"
+          git add tex
+          git commit -m "Karte"
+          git push
