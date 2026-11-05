@@ -11,9 +11,11 @@ FEEDS = {
         "The Guardian": "https://www.theguardian.com/world/rss",
         "Deutsche Welle": "https://rss.dw.com/xml/rss-de-all",
     },
-    "Deutschland & Polen": {
+    "Deutschland": {
         "Tagesschau": "https://www.tagesschau.de/inland/index~rss2.xml",
         "SWR": "https://www.swr.de/~rss/swraktuell/swraktuell-bw-100.xml",
+    },
+    "Polen": {
         "Notes from Poland": "https://notesfrompoland.com/feed/",
     },
     "Wirtschaft & Börse": {
