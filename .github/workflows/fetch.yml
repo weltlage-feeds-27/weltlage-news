@@ -1,0 +1,21 @@
+name: Feeds holen
+on:
+  schedule:
+    - cron: "5 5 * * *"
+    - cron: "35 15 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/fetch_feeds.py
+      - name: Ergebnis speichern
+        run: |
+          git config user.name "weltlage-bot"
+          git config user.email "weltlage-bot@users.noreply.github.com"
+          git add feed.json
+          git commit -m "Feeds aktualisiert" || exit 0
+          git push
