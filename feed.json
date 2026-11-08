@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-08T22:52:47+00:00",
+ "fetchedAt": "2026-11-08T22:53:17+00:00",
  "topics": {
   "Welt & Politik": [
    {
@@ -890,7 +890,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.28,
+    "score": 3.27,
     "items": [
      {
       "title": "FC Bayern München: Manuel Neuer erleidet Sehnenteilriss",
@@ -936,19 +936,6 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
-      "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
-      "source": "The Guardian",
-      "date": "2026-11-08T22:27+00:00",
-      "teaser": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and holding the doubts at bay for another day. A fortnight in which they were defeated by Pris Saint-Germain and Real Madrid, in which they "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
     "score": 1.96,
     "items": [
      {
@@ -957,6 +944,19 @@
       "source": "kicker",
       "date": "2026-11-08T22:21+00:00",
       "teaser": "Es ist kein Geheimnis, dass Hannover 96 nach einem neuen starken Mann für die sportliche Leitung fahndet - und auch, dass Ralf Becker keine echte Zukunft bei den Roten hat. Jetzt soll sich der Zweitligist von seinem Sportdirektor getrennt haben."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Barcelona move clear at the top after Fermín López’s double stuns Atlético Madrid",
+      "url": "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report",
+      "source": "The Guardian",
+      "date": "2026-11-08T22:27+00:00",
+      "teaser": "They had been in a battle, they had been behind and they had been on edge, but Barcelona found a way through, holding on to their place at the top of the table and holding the doubts at bay for another day. A fortnight in which they were defeated by Pris Saint-Germain and Real Madrid, in which they "
      }
     ]
    },
@@ -1076,7 +1076,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.93,
     "items": [
      {
       "title": "Jensen Huang gesteht Affäre ein, Nvidia beginnt Untersuchung",
@@ -1473,13 +1473,6 @@
    "source": "The Guardian",
    "ok": true,
    "items": 10
-  },
-  {
-   "topic": "Sport",
-   "source": "ESPN",
-   "ok": false,
-   "items": 0,
-   "error": "ParseError: no element found: line 1, column 0"
   },
   {
    "topic": "Sport",
