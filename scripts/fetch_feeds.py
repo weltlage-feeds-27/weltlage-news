@@ -21,12 +21,10 @@ FEEDS = {
         "NPR": "https://feeds.npr.org/1004/rss.xml",
         "NPR (Politik)": "https://feeds.npr.org/1014/rss.xml",
         "PBS NewsHour": "https://www.pbs.org/newshour/feeds/rss/headlines",
-        "Wall Street Journal": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
         "Politico": "https://rss.politico.com/politics-news.xml",
         "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
         "France 24": "https://www.france24.com/en/rss",
         "CBC": "https://www.cbc.ca/webfeed/rss/rss-world",
-        "UN News": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
         "The Hindu": "https://www.thehindu.com/news/international/feeder/default.rss",
         "South China Morning Post": "https://www.scmp.com/rss/91/feed",
         "ABC Australia": "https://www.abc.net.au/news/feed/51120/rss.xml",
@@ -40,16 +38,11 @@ FEEDS = {
         "Süddeutsche": "https://rss.sueddeutsche.de/rss/Politik",
         "ZDF": "https://www.zdf.de/rss/zdf/nachrichten",
         "SWR": "https://www.swr.de/~rss/swraktuell/swraktuell-bw-100.xml",
-        "Mannheimer Morgen": "https://www.mannheimer-morgen.de/feed/index.rss",
-        "RNZ": "https://www.rnz.de/feed/index.rss",
     },
     "Polen": {
         "Notes from Poland": "https://notesfrompoland.com/feed/",
-        "PAP": "https://www.pap.pl/en/rss.xml",
-        "Polskie Radio": "https://www.polskieradio.pl/395/7784/rss",
         "Rzeczpospolita": "https://www.rp.pl/rss_main",
         "Gazeta Wyborcza": "https://rss.gazeta.pl/pub/rss/wiadomosci.xml",
-        "TVN24": "https://tvn24.pl/najnowsze.xml",
         "Deutsche Welle (Polen)": "https://rss.dw.com/xml/rss-pol-all",
     },
     "Wirtschaft & Börse": {
@@ -62,9 +55,7 @@ FEEDS = {
         "BBC": "https://feeds.bbci.co.uk/news/business/rss.xml",
         "The Guardian": "https://www.theguardian.com/uk/business/rss",
         "New York Times": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-        "Wall Street Journal": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
         "CNBC": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
-        "NPR": "https://feeds.npr.org/1006/rss.xml",
         "Financial Times": "https://www.ft.com/world?format=rss",
     },
     "Tech & KI": {
@@ -75,11 +66,10 @@ FEEDS = {
         "New York Times": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
         "Ars Technica": "https://feeds.arstechnica.com/arstechnica/index",
         "The Verge": "https://www.theverge.com/rss/index.xml",
-        "MIT Technology Review": "https://www.technologyreview.com/feed/",
         "Wired": "https://www.wired.com/feed/rss",
     },
 }
-MAX_PER_FEED, MAX_AGE, MAX_CLUSTERS, MAX_PER_CLUSTER = 10, timedelta(hours=36), 14, 3
+MAX_PER_FEED, MAX_AGE, MAX_CLUSTERS, MAX_PER_CLUSTER = 10, timedelta(hours=36), 12, 3
 NOW = datetime.now(timezone.utc)
 STOP = set("""der die das und oder aber ein eine einer eines einem den dem des mit von vom für fuer auf aus bei nach über ueber unter vor zum zur ist sind war wird werden hat haben nicht noch auch nur wie was wer als bis seit gegen ohne mehr neue neuer neues jetzt heute soll will sich sein ihre ihr sie wir ich man doch schon sehr
 the a an and or but of in on at to for from with by about after over under into is are was were be been has have had not no new says said will would could more than that this these those its their his her they it as up out amid how why what who what's report reports live update latest""".split())
@@ -145,7 +135,7 @@ def fetch(job):
             if not u.startswith("https://") or not t or (d and NOW - d > MAX_AGE):
                 continue
             items.append({"title": t, "url": u, "source": source, "date": d.isoformat(timespec="minutes") if d else "",
-                          "teaser": clean(text(e, "description", "summary", "content"), 320), "_k": keys(t), "_d": d})
+                          "teaser": clean(text(e, "description", "summary", "content"), 300), "_k": keys(t), "_d": d})
             if len(items) >= MAX_PER_FEED:
                 break
         return topic, source, url, items, None
