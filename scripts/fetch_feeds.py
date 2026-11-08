@@ -58,6 +58,18 @@ FEEDS = {
         "CNBC": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
         "Financial Times": "https://www.ft.com/world?format=rss",
     },
+    "Sport": {
+        "kicker": "https://newsfeed.kicker.de/news/fussball",
+        "Sportschau": "https://www.sportschau.de/fussball/index~rss2.xml",
+        "Spiegel": "https://www.spiegel.de/sport/fussball/index.rss",
+        "Zeit": "https://newsfeed.zeit.de/sport/index",
+        "FAZ": "https://www.faz.net/rss/aktuell/sport/fussball/",
+        "11 Freunde": "https://11freunde.de/feed",
+        "BBC": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "The Guardian": "https://www.theguardian.com/football/rss",
+        "ESPN": "https://www.espn.com/espn/rss/soccer/news",
+        "Sportschau (alle Sportarten)": "https://www.sportschau.de/index~rss2.xml",
+    },
     "Tech & KI": {
         "heise online": "https://www.heise.de/rss/heise-top-atom.xml",
         "Golem": "https://rss.golem.de/rss.php?feed=RSS2.0",
