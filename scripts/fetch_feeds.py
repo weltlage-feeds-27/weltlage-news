@@ -40,7 +40,7 @@ def text(node, *names):
     return ""
 
 
-def clean(s, limit=200):
+def clean(s, limit=420):
     s = html.unescape(re.sub(r"<[^>]+>", " ", s or ""))
     s = re.sub(r"\s+", " ", s).strip()
     return s[:limit]
@@ -90,7 +90,8 @@ def main():
                     if not u.startswith("https://") or not t or u in seen or (d and NOW - d > MAX_AGE):
                         continue
                     seen.add(u)
-                    items.append({"title": t, "url": u, "source": source, "date": d.isoformat(timespec="minutes") if d else ""})
+                    items.append({"title": t, "url": u, "source": source, "date": d.isoformat(timespec="minutes") if d else "",
+                                  "teaser": clean(text(e, "description", "summary", "content"), 420)})
                     n += 1
                     if n >= MAX_PER_FEED:
                         break
