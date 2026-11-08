@@ -67,7 +67,6 @@ FEEDS = {
         "11 Freunde": "https://11freunde.de/feed",
         "BBC": "https://feeds.bbci.co.uk/sport/football/rss.xml",
         "The Guardian": "https://www.theguardian.com/football/rss",
-        "ESPN": "https://www.espn.com/espn/rss/soccer/news",
         "Sportschau (alle Sportarten)": "https://www.sportschau.de/index~rss2.xml",
     },
     "Tech & KI": {
