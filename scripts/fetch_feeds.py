@@ -70,7 +70,6 @@ FEEDS = {
         "Sportschau (alle Sportarten)": "https://www.sportschau.de/index~rss2.xml",
         "The Guardian (Barcelona)": "https://www.theguardian.com/football/barcelona/rss",
         "Mundo Deportivo (Barça)": "https://www.mundodeportivo.com/rss/futbol/fc-barcelona.xml",
-        "Sport (Barça)": "https://www.sport.es/es/rss/barca/rss.xml",
     },
     "Tech & KI": {
         "heise online": "https://www.heise.de/rss/heise-top-atom.xml",
@@ -185,7 +184,10 @@ def cluster(items):
             if len(picked) >= MAX_PER_CLUSTER:
                 break
         fav = any(FAVORITE.search(i["title"] + " " + i["teaser"]) for i in g["items"])
-        out.append({"sourceCount": len(srcs), "score": round(len(srcs) * 2 - age / 12 + (6 if fav else 0), 2), **({"favorite": True} if fav else {}), "items": picked})
+        out.append({"sourceCount": len(srcs), "score": round(len(srcs) * 2 - age / 12, 2), **({"favorite": True} if fav else {}), "items": picked})
+    out.sort(key=lambda c: -c["score"])
+    for c in [c for c in out if c.get("favorite")][:3]:  # Die drei stärksten Barça-Geschichten bleiben immer drin.
+        c["score"] += 6
     return sorted(out, key=lambda c: -c["score"])[:MAX_CLUSTERS]
 
 
