@@ -68,6 +68,9 @@ FEEDS = {
         "BBC": "https://feeds.bbci.co.uk/sport/football/rss.xml",
         "The Guardian": "https://www.theguardian.com/football/rss",
         "Sportschau (alle Sportarten)": "https://www.sportschau.de/index~rss2.xml",
+        "The Guardian (Barcelona)": "https://www.theguardian.com/football/barcelona/rss",
+        "Mundo Deportivo (Barça)": "https://www.mundodeportivo.com/rss/futbol/fc-barcelona.xml",
+        "Sport (Barça)": "https://www.sport.es/es/rss/barca/rss.xml",
     },
     "Tech & KI": {
         "heise online": "https://www.heise.de/rss/heise-top-atom.xml",
@@ -82,6 +85,7 @@ FEEDS = {
 }
 MAX_PER_FEED, MAX_AGE, MAX_CLUSTERS, MAX_PER_CLUSTER = 10, timedelta(hours=36), 12, 3
 NOW = datetime.now(timezone.utc)
+FAVORITE = re.compile(r"barcelona|barça|barca\b|bar\u00e7a", re.I)  # Florians Lieblingsverein
 STOP = set("""der die das und oder aber ein eine einer eines einem den dem des mit von vom für fuer auf aus bei nach über ueber unter vor zum zur ist sind war wird werden hat haben nicht noch auch nur wie was wer als bis seit gegen ohne mehr neue neuer neues jetzt heute soll will sich sein ihre ihr sie wir ich man doch schon sehr
 the a an and or but of in on at to for from with by about after over under into is are was were be been has have had not no new says said will would could more than that this these those its their his her they it as up out amid how why what who what's report reports live update latest""".split())
 SYN = {"russland": "russia", "russische": "russia", "russischen": "russia", "russian": "russia", "ukrainische": "ukraine", "ukrainischen": "ukraine", "ukrainian": "ukraine",
@@ -180,7 +184,8 @@ def cluster(items):
             seen.add(base); picked.append({k: v for k, v in i.items() if not k.startswith("_")})
             if len(picked) >= MAX_PER_CLUSTER:
                 break
-        out.append({"sourceCount": len(srcs), "score": round(len(srcs) * 2 - age / 12, 2), "items": picked})
+        fav = any(FAVORITE.search(i["title"] + " " + i["teaser"]) for i in g["items"])
+        out.append({"sourceCount": len(srcs), "score": round(len(srcs) * 2 - age / 12 + (6 if fav else 0), 2), **({"favorite": True} if fav else {}), "items": picked})
     return sorted(out, key=lambda c: -c["score"])[:MAX_CLUSTERS]
 
 
