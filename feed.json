@@ -1,11 +1,18 @@
 {
- "fetchedAt": "2026-11-11T19:02:01+00:00",
+ "fetchedAt": "2026-11-11T20:05:20+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 5,
-    "score": 9.92,
+    "score": 9.93,
     "items": [
+     {
+      "title": "Ukraine war latest: 'Large-scale' prisoner exchange agreed as 2nd day of Abu Dhabi talks concludes, Umerov says",
+      "url": "https://kyivindependent.com/ukraine-war-latest-large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-11T19:15+00:00",
+      "teaser": "Key developments on Nov. 11: 'Large-scale' prisoner exchange agreed as 2nd day of Abu Dhabi talks concludes, Umerov says Zelensky reveals when Ukraine expects first delivery of Swedish Gripen fighter jets Russia strikes 6 major power substations, causing outages across Ukraine Hackers target Ukraine"
+     },
      {
       "title": "Russia, Ukraine agree on prisoner exchange as talks end without major breakthrough",
       "url": "https://www.scmp.com/news/world/europe/article/3374117/russia-ukraine-agree-prisoner-exchange-talks-end-without-major-breakthrough",
@@ -19,19 +26,12 @@
       "source": "NPR",
       "date": "2026-11-11T08:30-05:00",
       "teaser": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022."
-     },
-     {
-      "title": "Russia, Ukraine agree to major prisoner swap after U.S.-brokered talks in Abu Dhabi",
-      "url": "https://www.thehindu.com/news/international/russia-ukraine-agree-to-prisoner-swap-at-us-brokered-talks/article71689267.ece",
-      "source": "The Hindu",
-      "date": "2026-11-11T17:57+05:30",
-      "teaser": "The two sides have exchanged thousands of captured soldiers throughout the almost five-year war, started by Russia’s 2022 invasion"
      }
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.24,
+    "sourceCount": 2,
+    "score": 9.65,
     "favorite": true,
     "items": [
      {
@@ -40,39 +40,60 @@
       "source": "NPR",
       "date": "2026-11-11T04:54-05:00",
       "teaser": "Millions of Spanish workers have shut down businesses and disrupted transportation in a protest over housing costs. The strike on Wednesday was the first general strike in Spain in 14 years, culminating in huge marches of tens of thousands of workers and average citizens in downtown Barcelona and Ma"
+     },
+     {
+      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+      "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+      "source": "New York Times",
+      "date": "2026-11-11T15:54+00:00",
+      "teaser": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign."
      }
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.93,
+    "sourceCount": 1,
+    "score": 7.99,
+    "favorite": true,
     "items": [
      {
-      "title": "Russia’s ambassador to the US dies ‘suddenly’, foreign ministry says",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374121/russias-ambassador-us-dies-suddenly-foreign-ministry-says",
-      "source": "South China Morning Post",
-      "date": "2026-11-11T17:27+00:00",
-      "teaser": "Russia’s ambassador to the United States, Alexander Darchiev, has died “suddenly” at the age of 66 after just one and a half years in the job, Moscow’s foreign ministry announced on Wednesday. The ministry called Darchiev an “outstanding diplomat, an experienced leader and a kind colleague”. He was "
-     },
-     {
-      "title": "Russian ambassador to Washington dies at 66",
-      "url": "https://kyivindependent.com/russian-ambassador-to-washington-dies-at-66/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-11T16:34+00:00",
-      "teaser": "Alexander Darchiev, Russia's ambassador to the U.S., died unexpectedly at the age of 66, Russia's Foreign Ministry announced on Nov. 11, without commenting on the cause of death."
-     },
-     {
-      "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
-      "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-11T18:13+00:00",
-      "teaser": "Moscow announces the veteran diplomat's sudden passing without further details."
+      "title": "Clashes in Barcelona as thousands join Spain general strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T19:59+00:00",
+      "teaser": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.86,
+    "score": 5.95,
+    "items": [
+     {
+      "title": "Missing Baby Is Rescued After Being Buried Alive in Dog Crate",
+      "url": "https://www.nytimes.com/2026/11/11/us/baby-buried-alive-south-carolina.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-11T17:04+00:00",
+      "teaser": "Investigators in South Carolina rescued the baby on Tuesday after he had been buried in the woods for 24 hours. His father was in police custody."
+     },
+     {
+      "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T18:10+00:00",
+      "teaser": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital."
+     },
+     {
+      "title": "Missing baby rescued after being buried alive in a dog crate in South Carolina",
+      "url": "https://www.cbc.ca/news/world/baby-found-buried-alive-south-carolina-9.7418243?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-11T14:28-05:00",
+      "teaser": "A missing 11-month-old infant was rescued Tuesday after being buried alive in a dog crate in South Carolina."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.78,
     "items": [
      {
       "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
@@ -99,7 +120,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.25,
+    "score": 5.16,
     "items": [
      {
       "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
@@ -129,6 +150,66 @@
     "score": 3.98,
     "items": [
      {
+      "title": "Generalstreik in Spanien für bezahlbares Wohnen",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-wohnungskrise-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-11T15:01+01:00",
+      "teaser": "Seit dem Morgen läuft in Spanien ein Generalstreik. Die Hauptforderungen: bessere Löhne und bezahlbare Wohnungen. Der Verkehr ist eingeschränkt, Blockaden wurden errichtet und mehrere Menschen festgenommen."
+     },
+     {
+      "title": "Generalstreik in Spanien: Zehntausende Menschen protestieren in Spanien gegen Wohnkrise",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/generalstreik-spanien-madrid-barcelona-gewerkschaften-wohnungsnot",
+      "source": "Zeit",
+      "date": "2026-11-11T19:51+00:00",
+      "teaser": "Am ersten Generalstreik in Spanien seit 14 Jahren nahmen Zehntausende Menschen teil. Die Beteiligung wird von Gewerkschaften und Arbeitgebern unterschiedlich gewertet."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+      "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+      "source": "The Guardian",
+      "date": "2026-11-11T19:00+00:00",
+      "teaser": "74-year-old Leonardo Bertulazzi, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina , the country’s security ministry confirmed on Wednesday, after he reporte"
+     },
+     {
+      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T14:56+00:00",
+      "teaser": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+      "source": "The Guardian",
+      "date": "2026-11-11T05:33+00:00",
+      "teaser": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort Ukraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nati"
+     },
+     {
+      "title": "Ukraine captures first Indonesian prisoner of war as Russia steps up foreign recruitment",
+      "url": "https://kyivindependent.com/ukraine-captures-first-indonesian-prisoner-of-war-as-russia-steps-up-foreign-recruitment/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-11T19:03+00:00",
+      "teaser": "The man, originally from the Indonesian island of Java, was sent to participate in a Russian assault in southern Ukraine. After his unit came under a Ukrainian drone attack, he managed to reach Ukrainian-held territory, where he was taken prisoner, according to the I Want to Live project."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.89,
+    "items": [
+     {
       "title": "Liveblog Nahost: Iran droht Europa mit Angriffen",
       "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-iran-droht-europa-mit-angriffen-faz-200583539.html",
       "source": "FAZ",
@@ -146,7 +227,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.89,
+    "items": [
+     {
+      "title": "Sheikh Hasina’s plan for return to Bangladesh fuels fears of renewed unrest",
+      "url": "https://www.scmp.com/week-asia/politics/article/3374108/sheikh-hasinas-plan-return-bangladesh-fuels-fears-renewed-unrest",
+      "source": "South China Morning Post",
+      "date": "2026-11-11T12:39+00:00",
+      "teaser": "Former Bangladeshi prime minister Sheikh Hasina’s plan to return from exile in India could fuel renewed unrest and test Dhaka’s ability to maintain stability and pursue national reconciliation, analysts have warned. The prospect of her return has raised questions about how Prime Minister Tarique Rah"
+     },
+     {
+      "title": "Will Sheikh Hasina return to Bangladesh?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/11/will-sheikh-hasina-return-to-bangladesh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-11T18:43+00:00",
+      "teaser": "The former Bangladeshi PM says she is planning to go back, despite a death sentence."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.88,
     "items": [
      {
       "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
@@ -163,112 +264,12 @@
       "teaser": "Italian Premier Giorgia Meloni said there was no indication of any “concrete danger” to schools and that the threats appeared aimed at “generating alarm and concern”"
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.93,
-    "items": [
-     {
-      "title": "Missing Baby Is Rescued After Being Buried Alive in Dog Crate",
-      "url": "https://www.nytimes.com/2026/11/11/us/baby-buried-alive-south-carolina.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-11T17:04+00:00",
-      "teaser": "Investigators in South Carolina rescued the baby on Tuesday after he had been buried in the woods for 24 hours. His father was in police custody."
-     },
-     {
-      "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T18:10+00:00",
-      "teaser": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.89,
-    "items": [
-     {
-      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-      "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
-      "source": "New York Times",
-      "date": "2026-11-11T15:54+00:00",
-      "teaser": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign."
-     },
-     {
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T17:44+00:00",
-      "teaser": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.88,
-    "items": [
-     {
-      "title": "Tens of thousands attend Polish nationalist march days afer shootings",
-      "url": "https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings",
-      "source": "France 24",
-      "date": "2026-11-11T17:08+00:00",
-      "teaser": "Tens of thousands of Polish nationalist sympathisers gathered in Warsaw Wednesday for an annual Independence Day March, just days after a deadly shooting spree in Krakow that shook the country. The event is held each November 11 to commemorate the ending in 1918 of 123 years of partition by Russia, "
-     },
-     {
-      "title": "Tens of thousands join Poland’s nationalist Independence Day march",
-      "url": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-11T17:38+00:00",
-      "teaser": "Polish PM Donald Tusk calls for restraint, urging unity after deadly Krakow attack linked to far-right ideology."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.87,
-    "items": [
-     {
-      "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
-      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
-      "source": "Tagesschau",
-      "date": "2026-11-11T18:30+01:00",
-      "teaser": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Morgen wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden."
-     },
-     {
-      "title": "Russland und Ukraine vereinbaren großen Gefangenenaustausch - Gespräche in Abu Dhabi",
-      "url": "https://www.spiegel.de/ausland/russland-und-ukraine-vereinbaren-grossen-gefangenenaustausch-gespraeche-in-abu-dhabi-a-ac5871d0-5d90-41d1-a1f6-2a2b78462bd6#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-11T12:47+01:00",
-      "teaser": "Der zweite Tag der Verhandlungen zwischen Russland und der Ukraine ist beendet. Die Kriegsparteien verständigen sich auf einen Gefangenenaustausch. US-Gesandte sollen zudem in den kommenden Tagen nach Russland reisen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.85,
-    "items": [
-     {
-      "title": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
-      "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-11T17:13+00:00",
-      "teaser": "An expanding legal fight over the proposed site of President Trump’s 250-foot triumphal arch looms over his visit to Arlington National Cemetery on Veterans Day."
-     },
-     {
-      "title": "Kennedys sue to block Trump's arch",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch",
-      "source": "NPR (Politik)",
-      "date": "2026-11-11T05:02-05:00",
-      "teaser": "Descendants of President John F. Kennedy are asking a judge to block President Trump's monumental arch near Arlington National Cemetery."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.92,
+    "score": 5.83,
     "items": [
      {
       "title": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
@@ -295,7 +296,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.71,
     "items": [
      {
       "title": "Bundeskabinett beschließt Aufbau einer Gasreserve",
@@ -315,7 +316,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.67,
     "items": [
      {
       "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
@@ -335,7 +336,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.62,
+    "score": 3.53,
     "items": [
      {
       "title": "Autoritarismus-Studie in Deutschland: Zustimmung für Demokratie sinkt auf Tiefstwert",
@@ -355,7 +356,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.42,
+    "score": 3.33,
     "items": [
      {
       "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
@@ -374,67 +375,74 @@
     ]
    },
    {
+    "sourceCount": 2,
+    "score": 3.16,
+    "items": [
+     {
+      "title": "Pistorius über sexuelle Belästigung in der Bundeswehr",
+      "url": "https://www.zdfheute.de/video/pistorius-bundeswehr-belaestigung-100.html",
+      "source": "ZDF",
+      "date": "2026-11-11T11:03+01:00",
+      "teaser": "Verteidigungsminister Boris Pistorius veröffentlicht Ergebnisse zu einer Studie über sexuelle Belästigung in der Bundeswehr. Diese würden \"unerfreuliche Ergebnisse\" zutage fördern."
+     },
+     {
+      "title": "Sexuelle Belästigung in der Bundeswehr: Grüne fordern Meldestelle für sexualisierte Belästigung in Bundeswehr",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/sexuelle-belaestigung-bundeswehr-dunkelfeldstudie-sara-nanni-boris-pistorius-gxe",
+      "source": "Zeit",
+      "date": "2026-11-11T09:59+00:00",
+      "teaser": "Verteidigungsminister Pistorius will eine Studie zu sexualisiertem Fehlverhalten in der Bundeswehr vorstellen. Die Grünen fordern eine Meldestelle außerhalb der Truppe."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
     "score": 1.99,
     "items": [
      {
-      "title": "Unabhängigkeitsmarsch in Polen: Wie der Präsident das Land am höchsten staatlichen Feiertag spaltet",
-      "url": "https://www.sueddeutsche.de/politik/polen-unabhaengigkeitsmarsch-warschau-unabhaengigkeitstag-li.3578923",
-      "source": "Süddeutsche",
-      "date": "2026-11-11T18:51+00:00",
-      "teaser": "Karol Nawrocki überzieht die Regierung Tusk am Unabhängigkeitstag mit Vorwürfen. Dann nimmt er an einem Marsch teil, den auch Rechtsextreme für ihre Parolen nutzen."
+      "title": "Haushalt 2027: Bundesregierung will Stromsteuer für Privathaushalte vorerst nicht senken",
+      "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-bundesregierung-senkt-stromsteuer-fuer-privathaushalte-nicht-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-11T20:56+01:00",
+      "teaser": "Die schwarz-rote Koalition ringt um den Haushalt für das kommende Jahr. Kanzler Merz wollte die Stromsteuer abmildern. Mit dieser Entlastung für Bürger ist er einstweilen gescheitert."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.97,
     "items": [
      {
-      "title": "Live: Wo die Wirtschaft wirklich wächst",
-      "url": "https://www.zdfheute.de/video/zdfheute-live/konjunktur-gutachten-ki-deutschland-video-100.html",
-      "source": "ZDF",
-      "date": "2026-11-11T19:30+01:00",
-      "teaser": "Ein Gutachten, das Mut macht, und ein Hightech-Unternehmen aus Baden-Württemberg, dessen KI-Roboter global begehrt sind – ist die deutsche Wirtschaft im Aufwind? Analyse bei ZDFheute live."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Akademiker und arbeitslos: Warum immer mehr Menschen trotz Studium keinen Job finden",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/akademiker-arbeitslos-trotz-studium-102.html",
-      "source": "SWR",
-      "date": "2026-11-11T19:30+01:00",
-      "teaser": "Die Zahl arbeitsloser Akademiker hat einen neuen Rekord erreicht. Ein Grund dürfte die schlechte Wirtschaftslage in der Autobranche sein. Immerhin: BW schneidet besser ab."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Explosion vor internationalem Supermarkt in Lörrach: Kriminalpolizei ermittelt",
+      "title": "Explosion vor Supermarkt in Lörrach: Kriminalpolizei ermittelt",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/explosion-vor-loerracher-lebensmittelgeschaeft-100.html",
       "source": "SWR",
-      "date": "2026-11-11T19:31+01:00",
+      "date": "2026-11-11T20:43+01:00",
       "teaser": "Nach der Explosion vor einem internationalen Supermarkt in einem Lörracher Stadtteil sucht die Polizei nach einer geflüchteten Person. Verletzt wurde niemand."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.94,
     "items": [
      {
-      "title": "Boris Pistorius: Schafft der Verteidigungsminister die Wende beim Kampf gegen sexuelles Fehlverhalten in der Bundeswehr?",
-      "url": "https://www.spiegel.de/politik/deutschland/boris-pistorius-schafft-der-verteidigungsminister-die-wende-beim-kampf-gegen-sexuelles-fehlverhalten-in-der-bundeswehr-a-375d7184-5ee3-4aaa-8eaa-edc21847a3de#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-11T19:04+01:00",
-      "teaser": "Sexualisiertes Fehlverhalten in der Bundeswehr ist weitverbreitet, das belegt eine neue Studie. Verteidigungsminister Boris Pistorius zeigt sich schockiert, ungewohnt dünnhäutig. Sein Aktionsplan zielt auf eine Schwachstelle der Truppe."
+      "title": "Bombendrohungen in Italien: Erst der Flugverkehr, nun die Schulen",
+      "url": "https://www.sueddeutsche.de/politik/italien-bombendrohungen-schulen-evakuierungen-li.3578973",
+      "source": "Süddeutsche",
+      "date": "2026-11-11T19:24+00:00",
+      "teaser": "Nach Bombendrohungen gegen 6000 Schulen in Italien werden zahlreiche Einrichtungen evakuiert. Und die Politik rätselt, ob feindliche Mächte hinter dem Angriff stecken - oder „Verrückte“."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Nach Boris Palmers Rückzug aus der Öffentlichkeit: Das fordern die Gemeinderäte",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/wegen-ermittlungen-boris-palmer-verzichtet-auf-oeffentliche-auftritte-100.html",
+      "source": "SWR",
+      "date": "2026-11-11T20:14+01:00",
+      "teaser": "Der OB von Tübingen will vorerst nicht öffentlich auftreten - zumindest, so lange wegen der bislang unbestätigten Vorwürfe ermittelt wird. Mehrere Gemeinderäte gaben jetzt Statements ab."
      }
     ]
    },
@@ -443,11 +451,52 @@
     "score": 1.92,
     "items": [
      {
-      "title": "Nach Boris Palmers Rückzug aus der Öffentlichkeit: Das fordern die Gemeinderäte",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/wegen-ermittlungen-boris-palmer-verzichtet-auf-oeffentliche-auftritte-100.html",
-      "source": "SWR",
-      "date": "2026-11-11T19:03+01:00",
-      "teaser": "Der OB von Tübingen will vorerst nicht öffentlich auftreten - zumindest, so lange wegen der bislang unbestätigten Vorwürfe ermittelt wird. Mehrere Gemeinderäte gaben jetzt Statements ab."
+      "title": "Deutsches Start-up bringt KI aufs Gefechtsfeld",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/helsing-ki-krieg-militaer-software-100.html",
+      "source": "ZDF",
+      "date": "2026-11-11T20:06+01:00",
+      "teaser": "Das Rüstungsunternehmen Helsing hat eine neue KI-Software für das Gefechtsfeld vorgestellt. Sie soll schneller Ziele erkennen und Europa unabhängiger von US-Technologie machen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-11T20:07+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+     }
+    ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Tłumy na Marszu Niepodległości. Organizatorzy: \"Może być nas nawet milion\". Ratusz podał inne dane",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33128488,tlumy-na-marszu-niepodleglosci-organizatorzy-moze-byc-nas.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-11T19:15+00:00",
+      "teaser": "- Rozmawiałem z policją i według naszych szacunków mogło być nawet 250 tysięcy osób - powiedział dyrektor Stołecznego Centrum Bezpieczeństwa Jarosław Misztal. Konfederacja przekazała, że podczas tegorocznego Marszu Niepodległości padł rekord frekwencji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Iran grozi bazom USA w Europie. „To dopiero początek”",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45476981-iran-grozi-bazom-usa-w-europie-to-dopiero-poczatek",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T20:09+01:00",
+      "teaser": "Iran zagroził atakami na amerykańskie bazy wojskowe w Europie, jeśli Donald Trump wznowi działania zbrojne przeciwko Teheranowi. Irańscy dowódcy zapowiadają, że w zasięgu ich rakiet mogą znaleźć się także odległe cele - informuje brytyjski dziennik „The Guardian”."
      }
     ]
    },
@@ -456,19 +505,17 @@
     "score": 1.9,
     "items": [
      {
-      "title": "Kündigungsschutz für Spitzenverdiener: Bundesarbeitsministerium will Kündigungsschutz frühestens 2028 lockern",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/kuendigungsschutz-spitzenverdiener-arbeitsrecht-reform-spd-cdu",
-      "source": "Zeit",
-      "date": "2026-11-11T17:50+00:00",
-      "teaser": "Mit einer Reform des Arbeitsrechts sollen Kündigungen von Spitzenverdienern erleichtert werden. Auch Befristungen und Sonntagsarbeit sollen künftig einfacher werden."
+      "title": "Poznań. Mężczyzna z nożem zatrzymany podczas obchodów 11 listopada",
+      "url": "https://www.rp.pl/policja/art45476941-poznan-mezczyzna-z-nozem-zatrzymany-podczas-obchodow-11-listopada",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T19:53+01:00",
+      "teaser": "Niepokojące zdarzenie w centrum Poznania podczas obchodów Narodowego Święta Niepodległości. Policjantka zauważyła mężczyznę idącego z nożem w ręku. Został zatrzymany przez funkcjonariuszy - podały poznańskie media."
      }
     ]
-   }
-  ],
-  "Polen": [
+   },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.89,
     "items": [
      {
       "title": "Zakopany żywcem niemowlak przeżył dobę pod ziemią. Życie mógł mu uratować ręcznik",
@@ -481,7 +528,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
       "title": "Komentarze po przemówieniu Nawrockiego. \"Troll i dno dna\", \"tylko w Moskwie mogło się podobać\"",
@@ -494,7 +541,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.8,
     "items": [
      {
       "title": "Rosja rozszerza werbunek za granicą. Ukraina pojmała Indonezyjczyka",
@@ -507,7 +554,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Niemcy przyspieszają. PKB wzrośnie",
@@ -520,7 +567,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.75,
     "items": [
      {
       "title": "Rosja mogła stracić trzy śmigłowce. Tak twierdzą wojskowi blogerzy",
@@ -533,20 +580,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.74,
     "items": [
      {
-      "title": "Marsz Niepodległości zgromadził tłumy. Stołeczna policja szacuje je na ćwierć miliona osób",
-      "url": "https://www.rp.pl/spoleczenstwo/art45476601-marsz-niepodleglosci-zgromadzil-tlumy-stoleczna-policja-szacuje-je-na-cwierc-miliona-osob",
+      "title": "Marsz Niepodległości w Warszawie. Policja zatrzymała 59 osób",
+      "url": "https://www.rp.pl/spoleczenstwo/art45474071-marsz-niepodleglosci-w-warszawie-policja-zatrzymala-59-osob",
       "source": "Rzeczpospolita",
-      "date": "2026-11-11T17:56+01:00",
-      "teaser": "Tegoroczny Marsz Niepodległości zgromadził w Warszawie tłumy. Organizatorzy zapowiadali rekordową liczbę uczestników, szacując ją na pół miliona. Stołeczne Centrum Bezpieczeństwa na podstawie danych policji oszacowało, że uczestników było ok. 250 tys."
+      "date": "2026-11-11T04:53+01:00",
+      "teaser": "11 listopada obchodzimy w Polsce Narodowe Święto Niepodległości. Tego dnia przypada 108. rocznica odzyskania przez Polskę niepodległości po I wojnie światowej. 11 listopada 1918 roku w wagonie kolejowym w lesie Compiègne we Francji podpisano rozejm między państwami Ententy a Cesarstwem Niemieckim, k"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.74,
     "items": [
      {
       "title": "Brytyjczyk postrzelony w Krakowie jest w stabilnym stanie. Bliscy nastolatka podziękowali Polakom",
@@ -559,7 +606,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.72,
     "items": [
      {
       "title": "Szwajcaria nie ma prezydenta i premiera i radzi sobie z propagandą. „Niska polaryzacja”",
@@ -572,33 +619,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "Nagła śmierć ambasadora Rosji w USA. Aleksandr Darczijew pełnił misję niecałe dwa lata",
-      "url": "https://www.rp.pl/dyplomacja/art45475941-nagla-smierc-ambasadora-rosji-w-usa-aleksandr-darczijew-pelnil-misje-niecale-dwa-lata",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T17:21+01:00",
-      "teaser": "Zmarł ambasador Rosji w Stanach Zjednoczonych Aleksandr Darczijew. O śmierci dyplomaty poinformowało Ministerstwo Spraw Zagranicznych Rosji."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "Kaczyński: będziemy działali, by była jedna lista do Sejmu",
-      "url": "https://www.rp.pl/polityka/art45475951-kaczynski-bedziemy-dzialali-by-byla-jedna-lista-do-sejmu",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T17:24+01:00",
-      "teaser": "Prezes PiS Jarosław Kaczyński stwierdził, że zależy mu, aby podczas przyszłorocznych wyborów była \"jedna wielka lista\", ale nie tylko do izby wyższej. - Senat to ma mniejsze znaczenie, chodzi o listę do Sejmu - powiedział w rozmowie z Onetem."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
+    "score": 1.7,
     "items": [
      {
       "title": "Ewakuacje szkół we Włoszech po mailach z groźbami. Premierka zwołuje specjalną naradę",
@@ -608,52 +629,12 @@
       "teaser": "Co najmniej 300 szkół we Włoszech ewakuowano w środę po e-mailach z informacją o rzekomo podłożonych ładunkach wybuchowych. Według Reutersa ostrzeżenia dotarły do około 6,3 tys. placówek w całym kraju. Podobne wiadomości dostały szkoły w Wielkiej Brytanii (w Szkocji i Irlandii Północnej) oraz w Irla"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "W końcu Tomahawki dla Polski? Słowa szefa MON o bazach przykryły ważną informację",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33127674,w-koncu-tomahawki-dla-polski-slowa-szefa-mon-o-bazach-przykryly.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-11T16:25+00:00",
-      "teaser": "Pentagon miał wydać \"pozytywną rekomendację\" w sprawie polskiej prośby o możliwość zakupu rakiet manewrujących Tomahawk - oznajmił szef MON Władysław Kosiniak-Kamysz. Informacja niespodziewana i przykryta jednoczesną deklaracją na temat stałej bazy USA w Polsce. Tomahawki to broń, którą Amerykanie o"
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.85,
-    "items": [
-     {
-      "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-      "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-      "source": "The Guardian",
-      "date": "2026-11-11T11:49+00:00",
-      "teaser": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Business live – latest updates Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an "
-     },
-     {
-      "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
-      "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-      "source": "New York Times",
-      "date": "2026-11-11T17:11+00:00",
-      "teaser": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed."
-     },
-     {
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-10T22:52+00:00",
-      "teaser": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.63,
+    "score": 5.54,
     "items": [
      {
       "title": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
@@ -680,7 +661,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.63,
+    "score": 3.54,
     "items": [
      {
       "title": "Volkswagen: VW stoppt Projekt „Gamechanger“: Was wirklich dahintersteckt",
@@ -700,7 +681,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.54,
+    "score": 3.45,
     "items": [
      {
       "title": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
@@ -720,7 +701,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.49,
+    "score": 3.4,
     "items": [
      {
       "title": "Tonies ruft Kinderliederfigur mit Musik von Helene Fischer zurück",
@@ -740,7 +721,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.33,
+    "score": 3.31,
+    "items": [
+     {
+      "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+      "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+      "source": "The Guardian",
+      "date": "2026-11-11T11:49+00:00",
+      "teaser": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy . The $4.1t"
+     },
+     {
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-10T22:52+00:00",
+      "teaser": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.24,
     "items": [
      {
       "title": "\"Tankrabatt\" drückt Inflation im Oktober",
@@ -760,79 +761,79 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Cum-ex-Skandal: Die vergebliche Jagd nach Hanno Bergers Millionen",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/cum-ex-skandal-die-vergebliche-jagd-nach-hanno-bergers-millionen/100267884.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-11T19:27+00:00",
+      "teaser": "Als Steueranwalt verdiente Hanno Berger Millionen, als Angeklagter gab er sich mittellos. Selbst vier Jahre nach dem Cum-Ex-Urteil kommt die Staatsanwaltschaft an sein Geld nicht heran."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
+      "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+      "source": "New York Times",
+      "date": "2026-11-11T19:32+00:00",
+      "teaser": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T19:15+00:00",
+      "teaser": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Halbleiterbranche in Europa: „Uns fehlt eine Gesamtstrategie“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chips-act-2-0-wie-europa-den-anschluss-in-der-halbleiterindustrie-schaffen-will-201673391.html",
+      "source": "FAZ",
+      "date": "2026-11-11T19:10+00:00",
+      "teaser": "Auf den Märkten für Computerchips will Europa die Lücke zu Asien und Amerika schließen, tut sich aber schwer damit. Nun muss Brüssel ausgerechnet das machen, was es am schlechtesten kann: auf Tempo setzen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
+      "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
+      "source": "The Guardian",
+      "date": "2026-11-11T19:10+00:00",
+      "teaser": "Retailer’s management to seek two-week extension of legal protection from creditors in high court MPs have accused the owner of Poundland of extracting millions of pounds from the budget retailer when it was on a “knife-edge” as it seeks extra time to secure a rescue deal. The management of Poundlan"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Versicherer: Allianz erhöht Gewinnprognose – Rekordgewinn nach neun Monaten",
       "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherung-allianz-erhoeht-gewinnprognose-rekordgewinn-nach-neun-monaten/100266550.html",
-      "source": "Handelsblatt (Finanzen)",
+      "source": "Handelsblatt",
       "date": "2026-11-11T18:58+00:00",
       "teaser": "Der Versicherer hat in den ersten drei Quartalen mehr als 14 Milliarden Euro Gewinn gemacht. Finanzvorständin Coste-Lepoutre gibt ihre zuletzt vorsichtige Haltung bei der Prognose auf."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "CoreWeave wants to sit with the credit-market grown-ups",
-      "url": "https://www.ft.com/content/16d4593e-b9ce-4eab-90af-9835c79eb9f2?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-11T18:57+00:00",
-      "teaser": "The cloud computing group has benefited from a hitherto forgiving junk bond market"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-11T19:46+01:00",
-      "teaser": "Klagen gegen Impfstoffhersteller sind seit der Corona-Pandemie keine Seltenheit. Häufig wollen Versicherungen diese nicht unterstützen - wegen vermeintlich geringer Erfolgschancen. Oft zu Unrecht, urteilte nun der BGH. Von A. Stein."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T18:48+00:00",
-      "teaser": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Healey says Treasury discussing ‘worst-case’ energy support for UK households",
-      "url": "https://www.ft.com/content/22798c90-e999-4564-924a-4f04343cac3d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-11T18:47+00:00",
-      "teaser": "Chancellor prepares for deepening energy crisis and says end to Iran war would be biggest boost to Britain’s economy"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Neue Kraftwerke: Peinliche Erdgas-Flickschusterei",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/kraftwerksstrategie-peinliche-schlamperei-im-ministerium-von-katherina-reiche-201672918.html",
-      "source": "FAZ",
-      "date": "2026-11-11T18:41+00:00",
-      "teaser": "Es wäre unentschuldbar, wenn die wichtige Kraftwerksstrategie und Reiches an sich vernünftige Energiepolitik wegen der Schlamperei bei den Ausschreibungen Schaden nähmen."
      }
     ]
    }
@@ -840,7 +841,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.95,
+    "score": 7.86,
     "favorite": true,
     "items": [
      {
@@ -854,7 +855,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.88,
+    "score": 7.8,
     "favorite": true,
     "items": [
      {
@@ -868,7 +869,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.77,
+    "score": 7.68,
     "favorite": true,
     "items": [
      {
@@ -881,35 +882,8 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.57,
-    "items": [
-     {
-      "title": "Theologe zu Torjubel: „Felix Nmecha ist mit seiner Popularität ein wichtiger Türöffner“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/felix-nmecha-theologe-erklaert-ballers-of-god-und-jubel-geste-von-bvb-spieler-201673244.html",
-      "source": "FAZ",
-      "date": "2026-11-11T13:53+00:00",
-      "teaser": "Der Theologe Jan Christian Pinsch erklärt, warum die „Ballers in God“ einem erfolgreichen Trend entsprechen, was Nmechas Jubel wirklich bedeutet und weshalb Religionsfreiheit kein Freifahrtschein ist."
-     },
-     {
-      "title": "„Ballers in God“: Felix Nmecha äußert sich zu umstrittenem Torjubel",
-      "url": "https://www.11freunde.de/bundesliga/ballers-in-god-felix-nmecha-aeussert-sich-zu-umstrittenem-torjubel-a-cf34366b-2837-4d79-9a97-efa3cfab7622#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-10T08:44+01:00",
-      "teaser": "Nach erneuter Kritik an seiner Jubelgeste bezieht Nationalspieler Felix Nmecha nun selbst Stellung. Auch bei der deutschen Nationalmannschaft ist das Thema präsent."
-     },
-     {
-      "title": "Felix Nmecha: BVB-Spieler Nmecha äußert sich zu umstrittenem Torjubel",
-      "url": "https://www.zeit.de/sport/2026-11/felix-nmecha-torjubel-krone-ballers-in-god-bvb-gxe",
-      "source": "Zeit",
-      "date": "2026-11-10T15:20+00:00",
-      "teaser": "Felix Nmecha hat seinen Torjubel verteidigt, der mit einem evangelikalen Netzwerk in Verbindung gebracht wird. Der BVB soll ihn gebeten haben, anders zu jubeln."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.74,
     "items": [
      {
       "title": "Scherhant und Treu - mit Demut auf der Überholspur",
@@ -929,7 +903,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 3.61,
+    "score": 3.52,
     "items": [
      {
       "title": "Nach Zusammenbruch: Vincent Kompany ist zurück auf dem Bayern-Gelände",
@@ -956,7 +930,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.3,
+    "score": 3.48,
+    "items": [
+     {
+      "title": "Theologe zu Torjubel: „Felix Nmecha ist mit seiner Popularität ein wichtiger Türöffner“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/felix-nmecha-theologe-erklaert-ballers-of-god-und-jubel-geste-von-bvb-spieler-201673244.html",
+      "source": "FAZ",
+      "date": "2026-11-11T13:53+00:00",
+      "teaser": "Der Theologe Jan Christian Pinsch erklärt, warum die „Ballers in God“ einem erfolgreichen Trend entsprechen, was Nmechas Jubel wirklich bedeutet und weshalb Religionsfreiheit kein Freifahrtschein ist."
+     },
+     {
+      "title": "Felix Nmecha: BVB-Spieler Nmecha äußert sich zu umstrittenem Torjubel",
+      "url": "https://www.zeit.de/sport/2026-11/felix-nmecha-torjubel-krone-ballers-in-god-bvb-gxe",
+      "source": "Zeit",
+      "date": "2026-11-10T15:20+00:00",
+      "teaser": "Felix Nmecha hat seinen Torjubel verteidigt, der mit einem evangelikalen Netzwerk in Verbindung gebracht wird. Der BVB soll ihn gebeten haben, anders zu jubeln."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.21,
     "items": [
      {
       "title": "Champions League: FC Bayern dringt in Spitzengruppe vor",
@@ -976,101 +970,74 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.95,
     "items": [
      {
-      "title": "Tuchel über Kane: Ballon d'Or \"ist in guten Händen\"",
-      "url": "https://www.kicker.de/tuchel-ueber-kane-ballon-d-or-ist-in-guten-haenden-1270798/video#omrss",
+      "title": "Dezimierte PSV letztlich ohne Chance: Frankfurt erreicht Europa-Cup-Viertelfinale",
+      "url": "https://www.kicker.de/frankfurt-gegen-psv-2026-uefa-women-s-europa-cup-5269654/spielbericht#omrss",
       "source": "kicker",
-      "date": "2026-11-11T18:50+00:00",
-      "teaser": "Thomas Tuchel schwärmt von Ballon-d'Or-Sieger Harry Kane. Englands Nationaltrainer ist sich sicher, dass der Stürmer auch in Zukunft Rekorde brechen wird."
+      "date": "2026-11-11T19:25+00:00",
+      "teaser": "Die Frauen von Eintracht Frankfurt haben das Viertelfinale des Women's Europa Cup erreicht. Nach dem 2:0-Erfolg im Achtelfinal-Hinspiel feierte die SGE im Rückspiel gegen die PSV Eindhoven einen 2:1-Sieg. Eine frühe Rote Karte sorgte für klare Verhältnisse."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.93,
     "items": [
      {
-      "title": "LIVE! Blomqvist kontert Rijsbergen postwendend: Frankfurt wieder vorne",
-      "url": "https://www.kicker.de/live-blomqvist-kontert-rijsbergen-postwendend-frankfurt-wieder-vorne-1270760/artikel#omrss",
+      "title": "Bleibt Meffert Kapitän? Kniat kann sich Änderungen vorstellen",
+      "url": "https://www.kicker.de/bleibt-meffert-kapitaen-kniat-kann-sich-aenderungen-vorstellen-1270805/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-11T18:48+00:00",
-      "teaser": "Nach dem 2:0-Erfolg im Hinspiel gehen die Frauen von Eintracht Frankfurt am Mittwochabend mit einer guten Ausgangslage in das Achtelfinal-Rückspiel des Women's Europa Cup gegen PSV Eindhoven."
+      "date": "2026-11-11T19:18+00:00",
+      "teaser": "Holstein Kiel hat am Mittwoch Mitch Kniat als neuen Trainer offiziell vorgestellt. Der 40-Jährige legt Wert auf Struktur - und könnte bei den Störchen eine neue implementieren."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.91,
     "items": [
      {
-      "title": "Trotz schneller Karius-Rückkehr: Schalke auf der Intensivstation",
-      "url": "https://www.kicker.de/trotz-schneller-karius-rueckkehr-schalke-auf-der-intensivstation-1270728/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-11T17:50+00:00",
-      "teaser": "Schalke 04 befindet sich im Herbst 2026 in sportlicher Hinsicht auf der Intensivstation, personell hängt der Vorletzte am Tropf. Loris Karius ist zwar schon wieder ins Mannschaftstraining zurückgekehrt, doch etliche weitere Kräfte fehlen derzeit. Der kicker erklärt die Lage."
+      "title": "Niederlande ohne van Dijk gegen Deutschland",
+      "url": "https://www.sportschau.de/fussball/nationsleague/niederlande-ohne-van-dijk-gegen-deutschland,niederelande-van-dijk-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-11T20:01+01:00",
+      "teaser": "Die Niederlande müssen in der Nations League gegen Deutschland auf Kapitän Virgil van Dijk verzichten."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.91,
     "items": [
      {
-      "title": "DFB-Elf will sich gegen Serbien Endspiel erarbeiten",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-elf-will-sich-gegen-serbien-endspiel-erarbeiten,video-dfb-adidas-abschied-100.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-11T18:51+01:00",
-      "teaser": "Das DFB-Team bereitet sich in Herzogenaurach auf die Partie gegen Serbien vor. Mit einem Sieg will sich Deutschland ein Endspiel um den Halbfinaleinzug in der Nations League erarbeiten."
+      "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino’s housekeeper",
+      "url": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
+      "source": "The Guardian",
+      "date": "2026-11-11T19:00+00:00",
+      "teaser": "It calls for inquiry into claims she was on Fifa payroll Fifa: Infantino personally pays for ‘any domestic staff’ A complaint has been filed to the United States Internal Revenue Service calling for an investigation into claims an individual on the Fifa payroll was working privately as a housekeeper"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.91,
     "items": [
      {
-      "title": "Fußball in Türkei: Warum kurdische Fans mit Galatasaray brechen",
-      "url": "https://www.faz.net/aktuell/sport/fussball/galatasaray-istanbul-darum-wandern-die-kurdischen-fans-ab-201667795.html",
-      "source": "FAZ",
-      "date": "2026-11-11T17:35+00:00",
-      "teaser": "Mit einem Instagram-Post provoziert der Istanbuler Großklub Galatasaray seine kurdischen Anhänger. Viele wenden sich dem Verein der Stunde zu: Amedspor."
+      "title": "‘I’ve had to prove people wrong’: Kane still striving before record England cap",
+      "url": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
+      "source": "The Guardian",
+      "date": "2026-11-11T19:00+00:00",
+      "teaser": "Captain’s 126th cap against Croatia will top Shilton’s record Kane aims to increase record for younger players to catch Harry Kane says he still feels a pressure to prove his worth, even as he prepares to become England’s most capped men’s player, as he outlined his determination to set records that"
      }
     ]
    }
   ],
   "Tech & KI": [
    {
-    "sourceCount": 3,
-    "score": 5.71,
-    "items": [
-     {
-      "title": "The Jensen Huang Affair",
-      "url": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
-      "source": "New York Times",
-      "date": "2026-11-10T11:00+00:00",
-      "teaser": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next."
-     },
-     {
-      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
-      "source": "Wired",
-      "date": "2026-11-11T15:30+00:00",
-      "teaser": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?"
-     },
-     {
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T07:44+00:00",
-      "teaser": "The billionaire tech executive finds himself mired in a personal and national security scandal."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.85,
+    "score": 3.76,
     "items": [
      {
       "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
@@ -1090,7 +1057,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
+    "score": 3.75,
     "items": [
      {
       "title": "The best early Black Friday deals you can already shop",
@@ -1113,6 +1080,26 @@
     "score": 3.62,
     "items": [
      {
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "source": "Wired",
+      "date": "2026-11-11T15:30+00:00",
+      "teaser": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?"
+     },
+     {
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T07:44+00:00",
+      "teaser": "The billionaire tech executive finds himself mired in a personal and national security scandal."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.53,
+    "items": [
+     {
       "title": "Patchday bei Microsoft: Dieses Outlook-Update solltest du schnell installieren",
       "url": "https://t3n.de/news/patchday-bei-microsoft-dieses-outlook-update-solltest-du-schnell-installieren-1772937/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n",
@@ -1130,7 +1117,59 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "source": "Wired",
+      "date": "2026-11-11T19:55+00:00",
+      "teaser": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Samsung Galaxy Watch: Bald kannst du dein Bauchfett via Smartwatch messen",
+      "url": "https://t3n.de/news/galaxy-watch-bauchfett-messen-1773105/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-11T20:43+01:00",
+      "teaser": "Samsung hat eine Methode patentiert, wie zukünftige Galaxy-Watch-Modelle das gefährliche viszerale Bauchfett präziser messen können sollen. Dabei soll ein Ultrabreitband-Radar statt des bisher bekannten BIA-Sensors zum Einsatz kommen. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
+      "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+      "source": "New York Times",
+      "date": "2026-11-11T19:32+00:00",
+      "teaser": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "source": "Ars Technica",
+      "date": "2026-11-11T19:00+00:00",
+      "teaser": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\""
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "FTTH: Telefónica und Deutsche Glasfaser arbeiten zusammen",
@@ -1143,7 +1182,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
+    "items": [
+     {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "source": "Ars Technica",
+      "date": "2026-11-11T18:16+00:00",
+      "teaser": "Latest example of the AI boom’s circular financing comes as AI trade wobbles."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.85,
     "items": [
      {
       "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
@@ -1156,7 +1208,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
       "title": "Anzeige: KI-Agenten mit Claude für Büroaufgaben einsetzen",
@@ -1164,71 +1216,6 @@
       "source": "Golem",
       "date": "2026-11-11T19:08+01:00",
       "teaser": "KI-Agenten können wiederkehrende Büroaufgaben übernehmen. Ein Online-Workshop zeigt, wie sich mit Claude Arbeitsabläufe automatisieren und kontrollieren lassen. ( Golem Karrierewelt , Programmiersprachen )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-      "source": "Ars Technica",
-      "date": "2026-11-11T17:37+00:00",
-      "teaser": "Any amount of AI coding is too much for many Indie Game Festival judges."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Single-Player-Kampagne von Star Citizen: Mark Hamill spielt Squadron 42 in VR",
-      "url": "https://www.golem.de/news/single-player-kampagne-von-star-citizen-mark-hamill-spielt-squadron-42-in-vr-2611-215104.html",
-      "source": "Golem",
-      "date": "2026-11-11T18:32+01:00",
-      "teaser": "Die Macher von Star Citizen zeigen im Video neues Gameplay von Squadron 42. Auch Mark Hamill persönlich durfte hinters Steuer. ( Star Citizen , Spiele )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Silicon Valley Tech Allies Support Jensen Huang",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
-      "source": "New York Times",
-      "date": "2026-11-11T17:29+00:00",
-      "teaser": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
-      "url": "https://www.golem.de/news/produktion-des-id-golf-vw-stoppt-projekt-gamechanger-fuer-wolfsburg-2611-215105.html",
-      "source": "Golem",
-      "date": "2026-11-11T18:13+01:00",
-      "teaser": "Aus Kostengründen verzichtet VW auf ein neues Gussverfahren für den Elektro-Golf. Der ID.3 wird länger in Zwickau produziert. ( Volkswagen ID. , Elektroauto )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Apple is shuttering its 28-year-old online community forum",
-      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-      "source": "Ars Technica",
-      "date": "2026-11-11T17:04+00:00",
-      "teaser": "Apple has already made the forum read-only."
      }
     ]
    }
@@ -1527,7 +1514,7 @@
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "topic": "Sport",
