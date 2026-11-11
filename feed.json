@@ -1,24 +1,73 @@
 {
- "fetchedAt": "2026-11-11T20:05:20+00:00",
+ "fetchedAt": "2026-11-11T22:57:07+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 5,
-    "score": 9.93,
+    "sourceCount": 3,
+    "score": 11.91,
+    "favorite": true,
     "items": [
+     {
+      "title": "Spain's workers hold a general strike over housing costs before national election",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+      "source": "NPR",
+      "date": "2026-11-11T04:54-05:00",
+      "teaser": "Millions of Spanish workers have shut down businesses and disrupted transportation in a protest over housing costs. The strike on Wednesday was the first general strike in Spain in 14 years, culminating in huge marches of tens of thousands of workers and average citizens in downtown Barcelona and Ma"
+     },
+     {
+      "title": "Millions of workers strike across Spain as citizens protest soaring housing costs",
+      "url": "https://www.cbc.ca/news/world/spain-strike-protest-march-housing-costs-9.7418346?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-11T16:20-05:00",
+      "teaser": "Millions of Spanish workers shut down businesses and public transportation across the eurozone's fourth largest economy on Wednesday before thousands took to the streets of major cities in a nationwide protest over soaring rents and real estate prices."
+     },
+     {
+      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+      "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+      "source": "New York Times",
+      "date": "2026-11-11T21:53+00:00",
+      "teaser": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 9.93,
+    "favorite": true,
+    "items": [
+     {
+      "title": "General strike over housing brings out hundreds of thousands in Spain",
+      "url": "https://www.france24.com/en/general-strike-over-housing-brings-out-hundreds-of-thousands-in-spain",
+      "source": "France 24",
+      "date": "2026-11-11T21:31+00:00",
+      "teaser": "Millions of workers in Spain shut down businesses and public transport on Wednesday, as part of the country's first general strike in 14 years. Following a peaceful march in Barcelona over soaring rents and property prices, and the rising cost of living, protesters smashed storefronts, set off small"
+     },
+     {
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T22:07+00:00",
+      "teaser": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
+     }
+    ]
+   },
+   {
+    "sourceCount": 5,
+    "score": 9.9,
+    "items": [
+     {
+      "title": "Russia and Ukraine agree to major prisoner swap as peace talks end",
+      "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end",
+      "source": "France 24",
+      "date": "2026-11-11T21:46+00:00",
+      "teaser": "Kyiv and Moscow on Wednesday agreed to a large-scale prisoner exchange as the final day of peace talks in Abu Dhabi came to an end, though neither side gave a concrete figure. US envoys Steve Witkoff and Jared Kushner will meet separately with Russian President Vladimir Putin and his Ukrainian count"
+     },
      {
       "title": "Ukraine war latest: 'Large-scale' prisoner exchange agreed as 2nd day of Abu Dhabi talks concludes, Umerov says",
       "url": "https://kyivindependent.com/ukraine-war-latest-large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/",
       "source": "Kyiv Independent",
       "date": "2026-11-11T19:15+00:00",
       "teaser": "Key developments on Nov. 11: 'Large-scale' prisoner exchange agreed as 2nd day of Abu Dhabi talks concludes, Umerov says Zelensky reveals when Ukraine expects first delivery of Swedish Gripen fighter jets Russia strikes 6 major power substations, causing outages across Ukraine Hackers target Ukraine"
-     },
-     {
-      "title": "Russia, Ukraine agree on prisoner exchange as talks end without major breakthrough",
-      "url": "https://www.scmp.com/news/world/europe/article/3374117/russia-ukraine-agree-prisoner-exchange-talks-end-without-major-breakthrough",
-      "source": "South China Morning Post",
-      "date": "2026-11-11T14:54+00:00",
-      "teaser": "Russia and Ukraine agreed to a large exchange of prisoners of war, both sides said Wednesday as two days of US mediated talks concluded, but they announced no major breakthrough on ending the conflict that began after Moscow’s full-scale invasion nearly five years ago. Hopes had been low for any sig"
      },
      {
       "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
@@ -30,50 +79,103 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 9.65,
-    "favorite": true,
+    "sourceCount": 4,
+    "score": 7.84,
     "items": [
      {
-      "title": "Spain's workers hold a general strike over housing costs before national election",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
-      "source": "NPR",
-      "date": "2026-11-11T04:54-05:00",
-      "teaser": "Millions of Spanish workers have shut down businesses and disrupted transportation in a protest over housing costs. The strike on Wednesday was the first general strike in Spain in 14 years, culminating in huge marches of tens of thousands of workers and average citizens in downtown Barcelona and Ma"
+      "title": "Schools evacuated across Italy after bomb threats",
+      "url": "https://www.france24.com/en/schools-evacuated-across-italy-after-bomb-threats",
+      "source": "France 24",
+      "date": "2026-11-11T19:29+00:00",
+      "teaser": "Schools were evacuated across Italy on Wednesday following a series of hoax bomb threats, but Italian Prime Minister Giorgia Meloni said there was no \"concrete danger\". Similar hoax threats were reported in schools in Britain and Ireland, which reportedly prompted some evacuations in Scotland. Melon"
      },
      {
-      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-      "url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
-      "source": "New York Times",
-      "date": "2026-11-11T15:54+00:00",
-      "teaser": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.99,
-    "favorite": true,
-    "items": [
+      "title": "Italy evacuates over 300 schools due to bomb alert, with threats in Scotland and Ireland",
+      "url": "https://www.thehindu.com/news/national/italy-evacuates-over-300-schools-due-to-bomb-alert-with-threats-in-scotland-and-ireland/article71690995.ece",
+      "source": "The Hindu",
+      "date": "2026-11-11T22:52+05:30",
+      "teaser": "Italian Premier Giorgia Meloni said there was no indication of any “concrete danger” to schools and that the threats appeared aimed at “generating alarm and concern”"
+     },
      {
-      "title": "Clashes in Barcelona as thousands join Spain general strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-11T19:59+00:00",
-      "teaser": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
+      "date": "2026-11-11T18:38+00:00",
+      "teaser": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.95,
+    "score": 5.93,
     "items": [
      {
-      "title": "Missing Baby Is Rescued After Being Buried Alive in Dog Crate",
-      "url": "https://www.nytimes.com/2026/11/11/us/baby-buried-alive-south-carolina.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-11T17:04+00:00",
-      "teaser": "Investigators in South Carolina rescued the baby on Tuesday after he had been buried in the woods for 24 hours. His father was in police custody."
+      "title": "Judge Allows Trump’s Defamation Lawsuit Against the BBC to Proceed",
+      "url": "https://www.nytimes.com/2026/11/11/world/europe/trump-bbc-lawsuit.html",
+      "source": "New York Times (Politik)",
+      "date": "2026-11-11T21:14+00:00",
+      "teaser": "President Trump is seeking damages from the British broadcaster over a documentary it conceded was misleadingly edited."
+     },
+     {
+      "title": "Judge allows Trump defamation case against BBC to proceed but tosses 1 claim",
+      "url": "https://www.pbs.org/newshour/politics/judge-allows-trump-defamation-case-against-bbc-to-proceed-but-tosses-1-claim",
+      "source": "PBS NewsHour",
+      "date": "2026-11-11T16:32-05:00",
+      "teaser": "President Donald Trump's $10 billion defamation case against the BBC remains on track, for the moment."
+     },
+     {
+      "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+      "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-11T22:10+00:00",
+      "teaser": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.93,
+    "items": [
+     {
+      "title": "Biden says he wouldn’t have run for second term if he’d known he had cancer",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374126/biden-says-he-wouldnt-have-run-second-term-if-hed-known-he-had-cancer",
+      "source": "South China Morning Post",
+      "date": "2026-11-11T20:55+00:00",
+      "teaser": "Joe Biden says he did not know he had cancer while he was US president and would not have sought a second term if he already had been diagnosed. The former Democratic president’s comments came in an interview with People magazine before the release of his White House memoir on Tuesday. “If I had kno"
+     },
+     {
+      "title": "Biden says he wouldn't have run for a second term in 2024 if he knew he had cancer",
+      "url": "https://www.pbs.org/newshour/politics/biden-says-he-wouldnt-have-run-for-a-second-term-in-2024-if-he-knew-he-had-cancer",
+      "source": "PBS NewsHour",
+      "date": "2026-11-11T17:04-05:00",
+      "teaser": "Joe Biden says he did not know he had cancer while he was president and would not have sought a second term if he already had been diagnosed."
+     },
+     {
+      "title": "Biden says he wouldn't have run in 2024 if he knew about his cancer",
+      "url": "https://www.politico.com/news/2026/11/11/biden-2024-cancer-diagnosis-debate-performance-01160750",
+      "source": "Politico",
+      "date": "2026-11-11T10:29-05:00",
+      "teaser": "The former president also called his debate performance “not very consequential” in an interview with People magazine."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.84,
+    "items": [
+     {
+      "title": "Missing South Carolina infant rescued after being buried alive in a dog crate for 24 hours",
+      "url": "https://www.pbs.org/newshour/nation/missing-south-carolina-infant-rescued-after-being-buried-alive-in-a-dog-crate-for-24-hours",
+      "source": "PBS NewsHour",
+      "date": "2026-11-11T15:59-05:00",
+      "teaser": "When an 11-month-old infant was reported missing in South Carolina, dozens of first responders combed the countryside for the \"bright boy with reddish blond hair\" who, the sheriff's office said, had disappeared while his grandmother ran errands."
+     },
+     {
+      "title": "Father charged with attempted murder after baby buried alive rescued in South Carolina",
+      "url": "https://www.cbc.ca/news/world/baby-found-buried-alive-south-carolina-9.7418243?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-11T14:28-05:00",
+      "teaser": "A missing 11-month-old infant was rescued Tuesday after being buried alive in a dog crate in South Carolina. His father has been charged with attempted murder."
      },
      {
       "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
@@ -81,19 +183,12 @@
       "source": "BBC",
       "date": "2026-11-11T18:10+00:00",
       "teaser": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital."
-     },
-     {
-      "title": "Missing baby rescued after being buried alive in a dog crate in South Carolina",
-      "url": "https://www.cbc.ca/news/world/baby-found-buried-alive-south-carolina-9.7418243?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-11T14:28-05:00",
-      "teaser": "A missing 11-month-old infant was rescued Tuesday after being buried alive in a dog crate in South Carolina."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.78,
+    "score": 5.54,
     "items": [
      {
       "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
@@ -119,149 +214,82 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.16,
-    "items": [
-     {
-      "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
-      "url": "https://www.pbs.org/newshour/show/a-breakdown-of-the-impeachment-articles-filed-against-pete-hegseth",
-      "source": "PBS NewsHour",
-      "date": "2026-11-10T18:50-05:00",
-      "teaser": "For a legal perspective on the effort to impeach Defense Secretary Pete Hegseth, Geoff Bennett spoke with Eugene Fidell. He's a longtime military law expert who served as a Coast Guard lawyer and later practiced military law in the private sector. He also co-founded the National Institute of Militar"
-     },
-     {
-      "title": "House votes to end the impeachment effort against Pete Hegseth",
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6035797/house-votes-to-end-the-impeachment-effort-against-pete-hegseth",
-      "source": "NPR (Politik)",
-      "date": "2026-11-11T05:02-05:00",
-      "teaser": "The House was on course for a floor vote Wednesday on whether to impeach Pete Hegseth. That is until House Republicans used a procedural vote to effectively end the impeachment effort."
-     },
-     {
-      "title": "Republicans block impeachment push against Pete Hegseth",
-      "url": "https://www.cbc.ca/news/world/hegseth-impeachment-resolution-reaction-9.7416083?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-10T09:42-05:00",
-      "teaser": "Republicans in the U.S. House of Representatives voted Tuesday to sideline a resolution that aimed to impeach Secretary of War Pete Hegseth."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
     "score": 3.98,
     "items": [
      {
-      "title": "Generalstreik in Spanien für bezahlbares Wohnen",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-wohnungskrise-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-11T15:01+01:00",
-      "teaser": "Seit dem Morgen läuft in Spanien ein Generalstreik. Die Hauptforderungen: bessere Löhne und bezahlbare Wohnungen. Der Verkehr ist eingeschränkt, Blockaden wurden errichtet und mehrere Menschen festgenommen."
-     },
-     {
-      "title": "Generalstreik in Spanien: Zehntausende Menschen protestieren in Spanien gegen Wohnkrise",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/generalstreik-spanien-madrid-barcelona-gewerkschaften-wohnungsnot",
-      "source": "Zeit",
-      "date": "2026-11-11T19:51+00:00",
-      "teaser": "Am ersten Generalstreik in Spanien seit 14 Jahren nahmen Zehntausende Menschen teil. Die Beteiligung wird von Gewerkschaften und Arbeitgebern unterschiedlich gewertet."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.91,
-    "items": [
-     {
-      "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-      "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-      "source": "The Guardian",
-      "date": "2026-11-11T19:00+00:00",
-      "teaser": "74-year-old Leonardo Bertulazzi, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina , the country’s security ministry confirmed on Wednesday, after he reporte"
-     },
-     {
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T14:56+00:00",
-      "teaser": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.91,
-    "items": [
-     {
-      "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
-      "source": "The Guardian",
-      "date": "2026-11-11T05:33+00:00",
-      "teaser": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort Ukraine says it has captured its first Indonesian prisoner of war, amid what it says is a spike in recruitment by Russia from the south-east Asian nati"
-     },
-     {
-      "title": "Ukraine captures first Indonesian prisoner of war as Russia steps up foreign recruitment",
-      "url": "https://kyivindependent.com/ukraine-captures-first-indonesian-prisoner-of-war-as-russia-steps-up-foreign-recruitment/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-11T19:03+00:00",
-      "teaser": "The man, originally from the Indonesian island of Java, was sent to participate in a Russian assault in southern Ukraine. After his unit came under a Ukrainian drone attack, he managed to reach Ukrainian-held territory, where he was taken prisoner, according to the I Want to Live project."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.89,
-    "items": [
-     {
-      "title": "Liveblog Nahost: Iran droht Europa mit Angriffen",
-      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-iran-droht-europa-mit-angriffen-faz-200583539.html",
-      "source": "FAZ",
-      "date": "2026-11-11T18:17+00:00",
-      "teaser": "Amerikanische Stützpunkte könnten Ziele werden +++ Netanjahu will US-Militärhilfe schrittweise auslaufen lassen +++ Wieder Tanker auf Seemine gefahren +++ alle Entwicklungen im Liveblog"
-     },
-     {
-      "title": "Irankrieg: Iran droht mit Angriffen auf US-Stützpunkte auch in Europa",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "source": "Zeit",
-      "date": "2026-11-11T18:48+00:00",
-      "teaser": "Der Iran will bei neuen US-Angriffen alle Stützpunkte angreifen, von denen das Land bombardiert wird – auch in Europa. Öltanker brennt in Straße von Hormus. Das Liveblog"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.89,
-    "items": [
-     {
-      "title": "Sheikh Hasina’s plan for return to Bangladesh fuels fears of renewed unrest",
-      "url": "https://www.scmp.com/week-asia/politics/article/3374108/sheikh-hasinas-plan-return-bangladesh-fuels-fears-renewed-unrest",
+      "title": "Hegseth and staff scolded by guard after laughter heard at Tomb of the Unknown Soldier",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374128/hegseth-and-staff-scolded-guard-after-laughter-heard-tomb-unknown-soldier",
       "source": "South China Morning Post",
-      "date": "2026-11-11T12:39+00:00",
-      "teaser": "Former Bangladeshi prime minister Sheikh Hasina’s plan to return from exile in India could fuel renewed unrest and test Dhaka’s ability to maintain stability and pursue national reconciliation, analysts have warned. The prospect of her return has raised questions about how Prime Minister Tarique Rah"
+      "date": "2026-11-11T22:40+00:00",
+      "teaser": "A soldier guarding the Tomb of the Unknown Soldier issued a verbal reprimand to a group of advisers and staff with Defence Secretary Pete Hegseth following a Veterans Day ceremony at Arlington National Cemetery. Video shows Hegseth taking photos on the empty steps in front of the tomb with his wife,"
      },
      {
-      "title": "Will Sheikh Hasina return to Bangladesh?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/11/will-sheikh-hasina-return-to-bangladesh?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-11T18:43+00:00",
-      "teaser": "The former Bangladeshi PM says she is planning to go back, despite a death sentence."
+      "title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
+      "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-11T22:33+00:00",
+      "teaser": "A Pentagon spokesman said the sentinel had “reminded everyone to maintain decorum” after laughter was heard from a group visiting the burial site with the Defense Secretary on Wednesday."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.97,
     "items": [
      {
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T18:38+00:00",
-      "teaser": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked."
+      "title": "Trump defends Iran war in Veterans Day speech",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374123/trump-defends-iran-war-veterans-day-speech",
+      "source": "South China Morning Post",
+      "date": "2026-11-11T20:30+00:00",
+      "teaser": "US President Donald Trump used a Veterans Day commemoration on Wednesday to defend the war against Iran – an increasingly unpopular conflict that helped trigger a Democratic takeover of Congress in last week’s midterm elections. “The bravery and skill of our amazing American warriors has absolutely "
      },
      {
-      "title": "Italy evacuates over 300 schools due to bomb alert, with threats in Scotland and Ireland",
-      "url": "https://www.thehindu.com/news/national/italy-evacuates-over-300-schools-due-to-bomb-alert-with-threats-in-scotland-and-ireland/article71690995.ece",
+      "title": "Trump defends Iran war in Veterans Day address",
+      "url": "https://www.thehindu.com/news/international/usa-president-donald-trump-veterans-day-address-iran-war/article71691407.ece",
       "source": "The Hindu",
-      "date": "2026-11-11T22:52+05:30",
-      "teaser": "Italian Premier Giorgia Meloni said there was no indication of any “concrete danger” to schools and that the threats appeared aimed at “generating alarm and concern”"
+      "date": "2026-11-12T04:07+05:30",
+      "teaser": "Mr. Trump said in his remarks that the conflict was started not by Washington but by Tehran, which “has been waging war on America since 1979”"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "Demokraten im US-Kongress: US-Regierung warnt Demokraten wegen geplanter Untersuchungen",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/demokraten-us-kongress-donald-trump-zwischenwahlen-weisses-haus",
+      "source": "Zeit",
+      "date": "2026-11-11T21:57+00:00",
+      "teaser": "Der Rechtsberater im Weißen Haus warnt Demokraten vor Schikane gegenüber der Regierung. Es scheine, als habe der US-Präsident etwas zu verbergen, antwortet Robert Garcia."
+     },
+     {
+      "title": "USA unter Trump: Weißes Haus warnt Demokraten wegen geplanter Untersuchungen",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-weisses-haus-warnt-demokraten-wegen-geplanter-untersuchungen-faz-19444916.html",
+      "source": "FAZ",
+      "date": "2026-11-11T20:35+00:00",
+      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.86,
+    "items": [
+     {
+      "title": "Russia’s ambassador to the US dies ‘suddenly’, foreign ministry says",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374121/russias-ambassador-us-dies-suddenly-foreign-ministry-says",
+      "source": "South China Morning Post",
+      "date": "2026-11-11T17:27+00:00",
+      "teaser": "Russia’s ambassador to the United States, Alexander Darchiev, has died “suddenly” at the age of 66 after just one and a half years in the job, Moscow’s foreign ministry announced on Wednesday. The ministry called Darchiev an “outstanding diplomat, an experienced leader and a kind colleague”. He was "
+     },
+     {
+      "title": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
+      "url": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
+      "source": "New York Times",
+      "date": "2026-11-11T21:14+00:00",
+      "teaser": "The death of Alexander Darchiev was announced by Russia’s foreign ministry. He was appointed to his post in Washington in 2025, as relations between the Kremlin and the White House warmed."
      }
     ]
    }
@@ -269,7 +297,7 @@
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.83,
+    "score": 5.59,
     "items": [
      {
       "title": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
@@ -296,7 +324,47 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.71,
+    "score": 3.88,
+    "items": [
+     {
+      "title": "Schwarz-Rot verschiebt Zuckersteuer - keine Einigung bei Stromsteuer",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-11T22:30+01:00",
+      "teaser": "Im Ringen um den Haushalt hat sich die Koalition nach ARD-Informationen auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer wohl vorerst nicht für alle gesenkt."
+     },
+     {
+      "title": "Deutschland Liveblog: Koalition verschiebt Einführung von Zuckersteuer – vorerst keine Stromsteuersenkung für alle",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-koalition-verschiebt-einfuehrung-von-zuckersteuer-faz-110093143.html",
+      "source": "FAZ",
+      "date": "2026-11-11T20:23+00:00",
+      "teaser": "Ringen um Haushalt: Vorerst auch keine Plastiksteuer +++ Bundesinnenminister: Konsequenz, Risiko und Preis muss für hybride Akteure erhöht werden +++ alle Entwicklungen im Liveblog"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.87,
+    "items": [
+     {
+      "title": "Haushalt 2027: Regierung kann sich vorerst nicht auf Senkung der Stromsteuer einigen",
+      "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-regierung-kann-sich-vorerst-nicht-auf-senkung-der-stromsteuer-einigen-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-11T22:24+01:00",
+      "teaser": "Die schwarz-rote Koalition ringt um den Haushalt für das kommende Jahr: Die von Bundeskanzler Merz geforderte Senkung der Stromsteuer kommt nach SPIEGEL-Informationen vorerst nicht. Die Zuckersteuer wird auf 2028 verschoben. Auch die Plastiksteuer ist erst einmal vom Tisch."
+     },
+     {
+      "title": "Haushalt 2027: Stromsteuer wird nicht gesenkt, Zuckersteuer verschoben",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/haushalt-2027-keine-senkung-stromsteuer-zuckersteuer-verschoben",
+      "source": "Zeit",
+      "date": "2026-11-11T20:31+00:00",
+      "teaser": "Die Zuckersteuer soll erst Anfang 2028 greifen, eine Plastiksteuer ist vorerst vom Tisch. Zudem lässt sich eine Senkung der Stromsteuer für alle bisher nicht finanzieren."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.47,
     "items": [
      {
       "title": "Bundeskabinett beschließt Aufbau einer Gasreserve",
@@ -316,7 +384,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.67,
+    "score": 3.43,
     "items": [
      {
       "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
@@ -336,7 +404,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.53,
+    "score": 3.29,
     "items": [
      {
       "title": "Autoritarismus-Studie in Deutschland: Zustimmung für Demokratie sinkt auf Tiefstwert",
@@ -355,55 +423,95 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.33,
+    "sourceCount": 1,
+    "score": 1.98,
     "items": [
      {
-      "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-11T02:17+01:00",
-      "teaser": "Freundlich und überparteilich präsentiert sich die wohl künftige Bundespräsidentin Ilse Aigner bei den Fraktionen im Bundestag. Nur bei zwei Parteien lässt sie sich nicht blicken. Von Uwe Berndt."
-     },
-     {
-      "title": "Ilse Aigner: CSU-Politikerin soll sich auch der AfD als Bundespräsidentin stellen",
-      "url": "https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-soll-sich-auch-der-afd-als-bundespraesidentin-stellen-a-ce13a8fe-bd6a-41b1-b264-aa148d264541#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-11T13:06+01:00",
-      "teaser": "Die AfD wird Ilse Aigners Kandidatur als Bundespräsidentin nicht unterstützen. Dennoch hätte sich die CSU-Politikerin der rechtsextremen Fraktion vorstellen sollen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.16,
-    "items": [
-     {
-      "title": "Pistorius über sexuelle Belästigung in der Bundeswehr",
-      "url": "https://www.zdfheute.de/video/pistorius-bundeswehr-belaestigung-100.html",
-      "source": "ZDF",
-      "date": "2026-11-11T11:03+01:00",
-      "teaser": "Verteidigungsminister Boris Pistorius veröffentlicht Ergebnisse zu einer Studie über sexuelle Belästigung in der Bundeswehr. Diese würden \"unerfreuliche Ergebnisse\" zutage fördern."
-     },
-     {
-      "title": "Sexuelle Belästigung in der Bundeswehr: Grüne fordern Meldestelle für sexualisierte Belästigung in Bundeswehr",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/sexuelle-belaestigung-bundeswehr-dunkelfeldstudie-sara-nanni-boris-pistorius-gxe",
-      "source": "Zeit",
-      "date": "2026-11-11T09:59+00:00",
-      "teaser": "Verteidigungsminister Pistorius will eine Studie zu sexualisiertem Fehlverhalten in der Bundeswehr vorstellen. Die Grünen fordern eine Meldestelle außerhalb der Truppe."
+      "title": "Steuern: Existenzminimum wird angehoben",
+      "url": "https://www.sueddeutsche.de/politik/existenzminimum-kalte-progression-lars-klingbeil-li.3579126",
+      "source": "Süddeutsche",
+      "date": "2026-11-11T22:43+00:00",
+      "teaser": "Das Finanzamt muss Bürgern im kommenden Jahr mindestens 12 504 Euro an steuerfreiem Einkommen lassen, Minister Klingbeil hat schon Vorsorge getroffen. Dafür schlägt aber die kalte Progression zu."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.95,
     "items": [
      {
-      "title": "Haushalt 2027: Bundesregierung will Stromsteuer für Privathaushalte vorerst nicht senken",
-      "url": "https://www.spiegel.de/politik/deutschland/haushalt-2027-bundesregierung-senkt-stromsteuer-fuer-privathaushalte-nicht-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-11T20:56+01:00",
-      "teaser": "Die schwarz-rote Koalition ringt um den Haushalt für das kommende Jahr. Kanzler Merz wollte die Stromsteuer abmildern. Mit dieser Entlastung für Bürger ist er einstweilen gescheitert."
+      "title": "Mehrere Busse brennen auf Firmengelände: Feuerwehr im Einsatz",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/brennende-busse-auf-firmengelaende-100.html",
+      "source": "SWR",
+      "date": "2026-11-11T23:23+01:00",
+      "teaser": "Feuerwehr, Rettungsdienst und Polizei sind auf einem Firmengelände in Ladenburg im Einsatz."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "Zuckersteuer kommt später, Plastiksteuer vom Tisch",
+      "url": "https://www.zdfheute.de/politik/deutschland/haushalt-zuckersteuer-plastiksteuer-stromsteuer-100.html",
+      "source": "ZDF",
+      "date": "2026-11-11T22:27+01:00",
+      "teaser": "Die Verhandlungen über den Bundeshaushalt 2027 gehen in die entscheidende Phase. Bei Zucker- und Plastiksteuer gibt es eine Einigung. Über die Stromsteuer wird weiter verhandelt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-11T22:26+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.85,
+    "items": [
+     {
+      "title": "Pistorius: \"Es geht um Sicherheit für alle in der Truppe\"",
+      "url": "https://www.zdfheute.de/politik/deutschland/pistorius-bundeswehr-sexuelle-belaestigung-studie-100.html",
+      "source": "ZDF",
+      "date": "2026-11-11T22:11+01:00",
+      "teaser": "Eine Studie zeigt: Drei von vier Bundeswehrsoldatinnen sind in ihrer Dienstzeit schon einmal sexuell belästigt worden. Wie will Verteidigungsminister Pistorius dagegen vorgehen?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.8,
+    "items": [
+     {
+      "title": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/karneval-start-koeln-duesseldorf-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-11T21:29+01:00",
+      "teaser": "In den Karnevalshochburgen Köln und Düsseldorf haben die Jecken die fünfte Jahreszeit eingeläutet. Laut Polizei verliefen die Feiern auf den Straßen und in den Kneipen meist friedlich. Nur das Wetter machte nicht mit."
+     }
+    ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Transformacja sieci energetycznych: nie marnujmy potencjału, który już mamy",
+      "url": "https://energia.rp.pl/energianews/art45477151-transformacja-sieci-energetycznych-nie-marnujmy-potencjalu-ktory-juz-mamy",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T23:40+01:00",
+      "teaser": "Sieci energetyczne są krwiobiegiem polskiej gospodarki. Aby przyspieszyć elektryfikację kraju, trzeba jednak spełnić wiele warunków."
      }
     ]
    },
@@ -412,71 +520,108 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Explosion vor Supermarkt in Lörrach: Kriminalpolizei ermittelt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/explosion-vor-loerracher-lebensmittelgeschaeft-100.html",
-      "source": "SWR",
-      "date": "2026-11-11T20:43+01:00",
-      "teaser": "Nach der Explosion vor einem internationalen Supermarkt in einem Lörracher Stadtteil sucht die Polizei nach einer geflüchteten Person. Verletzt wurde niemand."
+      "title": "HR przestaje być administracją. Staje się też partnerem biznesu",
+      "url": "https://www.rp.pl/praca/art45477141-hr-przestaje-byc-administracja-staje-sie-tez-partnerem-biznesu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T23:35+01:00",
+      "teaser": "Działy HR, które do niedawna kojarzyły się głównie z dokumentacją pracowniczą, dziś coraz częściej dostarczają menedżerom pogłębionych danych, pomagają w przewidywaniu ryzyk i zdobywają sobie miejsce przy stole, gdzie zapadają decyzje biznesowe."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.95,
     "items": [
      {
-      "title": "Bombendrohungen in Italien: Erst der Flugverkehr, nun die Schulen",
-      "url": "https://www.sueddeutsche.de/politik/italien-bombendrohungen-schulen-evakuierungen-li.3578973",
-      "source": "Süddeutsche",
-      "date": "2026-11-11T19:24+00:00",
-      "teaser": "Nach Bombendrohungen gegen 6000 Schulen in Italien werden zahlreiche Einrichtungen evakuiert. Und die Politik rätselt, ob feindliche Mächte hinter dem Angriff stecken - oder „Verrückte“."
+      "title": "11 listopada w cieniu politycznej rywalizacji. Sukces Marszu Niepodległości",
+      "url": "https://www.rp.pl/polityka/art45477091-11-listopada-w-cieniu-politycznej-rywalizacji-sukces-marszu-niepodleglosci",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T23:23+01:00",
+      "teaser": "Marsz Niepodległości był nie tylko udany pod względem frekwencji, ale również wyjątkowo spokojny. Nie zabrakło jednak dzisiaj politycznych akcentów. Premier zaprosił Nawrockiego na wspólne spotkanie. Prezydent z kolei skrytykował ministra finansów."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.89,
     "items": [
      {
-      "title": "Nach Boris Palmers Rückzug aus der Öffentlichkeit: Das fordern die Gemeinderäte",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/wegen-ermittlungen-boris-palmer-verzichtet-auf-oeffentliche-auftritte-100.html",
-      "source": "SWR",
-      "date": "2026-11-11T20:14+01:00",
-      "teaser": "Der OB von Tübingen will vorerst nicht öffentlich auftreten - zumindest, so lange wegen der bislang unbestätigten Vorwürfe ermittelt wird. Mehrere Gemeinderäte gaben jetzt Statements ab."
+      "title": "Nowe informacje o policjancie rannym w zamachu w Krakowie. Przeszedł operację ortopedyczną",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33128633,nowe-informacje-o-policjancie-rannym-w-zamachu-w-krakowie-przeszedl.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-11T21:41+00:00",
+      "teaser": "Artur Morański przeszedł operację rewizji ran i zespolenia łokcia. - To przygotowanie pacjenta do kolejnych zabiegów - powiedział ortopeda Paweł Maleta, który bierze udział w leczeniu policjanta."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.87,
     "items": [
      {
-      "title": "Deutsches Start-up bringt KI aufs Gefechtsfeld",
-      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/helsing-ki-krieg-militaer-software-100.html",
-      "source": "ZDF",
-      "date": "2026-11-11T20:06+01:00",
-      "teaser": "Das Rüstungsunternehmen Helsing hat eine neue KI-Software für das Gefechtsfeld vorgestellt. Sie soll schneller Ziele erkennen und Europa unabhängiger von US-Technologie machen."
+      "title": "Wystarczy opisać pomysł, a AI stworzy aplikację. Polski start-up robi furorę",
+      "url": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art45426021-wystarczy-opisac-pomysl-a-ai-stworzy-aplikacje-polski-start-up-robi-furore",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T22:25+01:00",
+      "teaser": "Wystarczy opisać pomysł, by sztuczna inteligencja pomogła stworzyć aplikację na smartfon. Polski start-up Primio, założony przez byłych menedżerów Huuuge Games, wykorzystuje boom na tzw. vibe coding. Zdobywa klientów w USA i Wielkiej Brytanii, szybko zwiększa przychody i przyciąga inwestorów."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "source": "ZDF",
-      "date": "2026-11-11T20:07+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+      "title": "USA chcą nowego układu bezpieczeństwa z Rosją. Stawiają Moskwie warunek",
+      "url": "https://www.rp.pl/dyplomacja/art45477081-usa-chca-nowego-ukladu-bezpieczenstwa-z-rosja-stawiaja-moskwie-warunek",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T22:02+01:00",
+      "teaser": "Stany Zjednoczone chcą, by Rosja przedstawiła nową propozycję porozumienia o bezpieczeństwie w Europie i wskazała, jakie działania jest gotowa podjąć, by zmniejszyć napięcia z europejskimi państwami. W zamian Waszyngton dopuszcza rozmowy o nowym układzie bezpieczeństwa, ale stawia warunek: Europa i "
      }
     ]
-   }
-  ],
-  "Polen": [
+   },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.82,
+    "items": [
+     {
+      "title": "Zapytał Nawrockiego o zaproszenie od Tuska. \"Nie wiem, co się dzieje\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33128574,zapytal-nawrockiego-o-zaproszenie-od-tuska-nie-wiem-co-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-11T20:51+00:00",
+      "teaser": "Donald Tusk zaprosił Karola Nawrockiego do swojego domu w Sopocie. Szef Gabinetu Prezydenta Paweł Szefernaker stwierdził, że premier \"zawsze gra rolę kogoś, kim nie jest\". Dziennikarz TVP Info zapytał prezydenta o zaproszenie podczas Marszu Niepodległości."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.8,
+    "items": [
+     {
+      "title": "Biały Dom szykuje się na starcie z Kongresem. Trump wzmacnia zaplecze prawne",
+      "url": "https://www.rp.pl/polityka/art45477041-bialy-dom-szykuje-sie-na-starcie-z-kongresem-trump-wzmacnia-zaplecze-prawne",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T21:30+01:00",
+      "teaser": "Biały Dom przygotowuje się na konfrontację z kontrolowanym przez demokratów Kongresem. Administracja Donalda Trumpa wzmacnia zaplecze prawne i zapowiada kwestionowanie wezwań do przekazywania dokumentów - pisze „The Washington Post”."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.78,
+    "items": [
+     {
+      "title": "\"Noc, gdy zapłonął Bałtyk\". Ukraina potwierdza: Zaatakowaliśmy rosyjski port naftowy",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33128549,noc-gdy-zaplonal-baltyk-ukraina-potwierdza-zaatakowalismy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-11T20:16+00:00",
+      "teaser": "Siły Obrony Ukrainy uderzyły w infrastrukturę naftową rosyjskiego portu Ust-Ługa, głównego ośrodka eksportowego w północno-zachodniej Rosji - poinformował Sztab Generalny ukraińskiego wojska."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.69,
     "items": [
      {
       "title": "Tłumy na Marszu Niepodległości. Organizatorzy: \"Może być nas nawet milion\". Ratusz podał inne dane",
@@ -489,7 +634,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.68,
     "items": [
      {
       "title": "Iran grozi bazom USA w Europie. „To dopiero początek”",
@@ -502,7 +647,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.66,
     "items": [
      {
       "title": "Poznań. Mężczyzna z nożem zatrzymany podczas obchodów 11 listopada",
@@ -512,129 +657,39 @@
       "teaser": "Niepokojące zdarzenie w centrum Poznania podczas obchodów Narodowego Święta Niepodległości. Policjantka zauważyła mężczyznę idącego z nożem w ręku. Został zatrzymany przez funkcjonariuszy - podały poznańskie media."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Zakopany żywcem niemowlak przeżył dobę pod ziemią. Życie mógł mu uratować ręcznik",
-      "url": "https://www.rp.pl/przestepczosc/art45476701-zakopany-zywcem-niemowlak-przezyl-dobe-pod-ziemia-zycie-mogl-mu-uratowac-recznik",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T19:47+01:00",
-      "teaser": "Policjantom z Karoliny Południowej udało się uratować 11-miesięczne dziecko, które w klatce dla psa zostało zakopane w lesie. Według służb niemowlę, które wcześniej zabrał od babci ojciec, mogło spędzić pod ziemią nawet 24 godziny."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Komentarze po przemówieniu Nawrockiego. \"Troll i dno dna\", \"tylko w Moskwie mogło się podobać\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33128380,komentarze-po-przemowieniu-nawrockiego-troll-i-dno-dna-tylko.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-11T18:07+00:00",
-      "teaser": "Karol Nawrocki podczas wystąpienia z okazji Święta Niepodległości skrytykował rząd. Nawiązał m.in. do kryzysu w Trybunale Konstytucyjnym oraz sytuacji polskich finansów publicznych. Politycy obozu rządzącego stwierdzili, że takie przemówienie jest niegodne prezydenta."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Rosja rozszerza werbunek za granicą. Ukraina pojmała Indonezyjczyka",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45476761-rosja-rozszerza-werbunek-za-granica-ukraina-pojmala-indonezyjczyka",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T18:44+01:00",
-      "teaser": "Ukraina poinformowała o pojmaniu pierwszego obywatela Indonezji walczącego w rosyjskiej armii. Według ukraińskich źródeł w ostatnich miesiącach wyraźnie wzrosła liczba Indonezyjczyków werbowanych przez Moskwę. Władze w Dżakarcie obawiają się, że za częścią rekrutacji może stać proceder handlu ludźmi"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Niemcy przyspieszają. PKB wzrośnie",
-      "url": "https://www.dw.com/pl/niemcy-przyspieszają-pkb-wzrośnie/a-79922468?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-11T17:39+00:00",
-      "teaser": "Eksperci zwiększają prognozę PKB Niemiec na ten rok do 1,3 proc. mimo kryzysu paliwowego."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.75,
-    "items": [
-     {
-      "title": "Rosja mogła stracić trzy śmigłowce. Tak twierdzą wojskowi blogerzy",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45476621-rosja-mogla-stracic-trzy-smiglowce-tak-twierdza-wojskowi-blogerzy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T18:06+01:00",
-      "teaser": "Rosyjskie kanały wojskowe na Telegramie informują o utracie kilku śmigłowców podczas ataku ukraińskich dronów na obwód leningradzki. Moskwa na razie tego nie potwierdza."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.74,
-    "items": [
-     {
-      "title": "Marsz Niepodległości w Warszawie. Policja zatrzymała 59 osób",
-      "url": "https://www.rp.pl/spoleczenstwo/art45474071-marsz-niepodleglosci-w-warszawie-policja-zatrzymala-59-osob",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T04:53+01:00",
-      "teaser": "11 listopada obchodzimy w Polsce Narodowe Święto Niepodległości. Tego dnia przypada 108. rocznica odzyskania przez Polskę niepodległości po I wojnie światowej. 11 listopada 1918 roku w wagonie kolejowym w lesie Compiègne we Francji podpisano rozejm między państwami Ententy a Cesarstwem Niemieckim, k"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.74,
-    "items": [
-     {
-      "title": "Brytyjczyk postrzelony w Krakowie jest w stabilnym stanie. Bliscy nastolatka podziękowali Polakom",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33128210,brytyjczyk-postrzelony-w-krakowie-jest-w-stabilnym-stanie-bliscy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-11T16:56+00:00",
-      "teaser": "\"Nie potrafimy wyrazić, jak bardzo jesteśmy wdzięczni służbom ratunkowym, personelowi medycznemu oraz mieszkańcom Polski za pomoc i opiekę, jaką otoczono Harry'ego\" - przekazała rodzina 19-latka z Yorku."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.72,
-    "items": [
-     {
-      "title": "Szwajcaria nie ma prezydenta i premiera i radzi sobie z propagandą. „Niska polaryzacja”",
-      "url": "https://cyfrowa.rp.pl/bezpieczenstwo/art45473291-szwajcaria-nie-ma-prezydenta-i-premiera-i-radzi-sobie-z-propaganda-niska-polaryzacja",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T17:44+01:00",
-      "teaser": "Nie ma lepszej pożywki dla dezinformacji niż podzielone społeczeństwo. Naszą tarczą nie są zakazy, lecz niska polaryzacja – mówi Igor Basic z SRF, szwajcarskiego publicznego nadawcy radiowo-telewizyjnego. Dziennikarz ma receptę na to, jak zachować odporność na manipulację."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.7,
-    "items": [
-     {
-      "title": "Ewakuacje szkół we Włoszech po mailach z groźbami. Premierka zwołuje specjalną naradę",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33127871,ewakuacje-szkol-we-wloszech-po-mailach-z-grozbami-premierka.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-11T16:27+00:00",
-      "teaser": "Co najmniej 300 szkół we Włoszech ewakuowano w środę po e-mailach z informacją o rzekomo podłożonych ładunkach wybuchowych. Według Reutersa ostrzeżenia dotarły do około 6,3 tys. placówek w całym kraju. Podobne wiadomości dostały szkoły w Wielkiej Brytanii (w Szkocji i Irlandii Północnej) oraz w Irla"
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.54,
+    "score": 5.96,
+    "items": [
+     {
+      "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+      "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+      "source": "The Guardian",
+      "date": "2026-11-11T21:59+00:00",
+      "teaser": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy . The $4.1t"
+     },
+     {
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "source": "New York Times",
+      "date": "2026-11-11T22:27+00:00",
+      "teaser": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy."
+     },
+     {
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-10T22:52+00:00",
+      "teaser": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.3,
     "items": [
      {
       "title": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
@@ -661,7 +716,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.54,
+    "score": 3.3,
     "items": [
      {
       "title": "Volkswagen: VW stoppt Projekt „Gamechanger“: Was wirklich dahintersteckt",
@@ -681,7 +736,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.45,
+    "score": 3.21,
     "items": [
      {
       "title": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
@@ -701,7 +756,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.4,
+    "score": 3.16,
     "items": [
      {
       "title": "Tonies ruft Kinderliederfigur mit Musik von Helene Fischer zurück",
@@ -721,27 +776,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.31,
-    "items": [
-     {
-      "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-      "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-      "source": "The Guardian",
-      "date": "2026-11-11T11:49+00:00",
-      "teaser": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy . The $4.1t"
-     },
-     {
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-10T22:52+00:00",
-      "teaser": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.24,
+    "score": 3.0,
     "items": [
      {
       "title": "\"Tankrabatt\" drückt Inflation im Oktober",
@@ -764,24 +799,24 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Cum-ex-Skandal: Die vergebliche Jagd nach Hanno Bergers Millionen",
-      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/cum-ex/cum-ex-skandal-die-vergebliche-jagd-nach-hanno-bergers-millionen/100267884.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-11T19:27+00:00",
-      "teaser": "Als Steueranwalt verdiente Hanno Berger Millionen, als Angeklagter gab er sich mittellos. Selbst vier Jahre nach dem Cum-Ex-Urteil kommt die Staatsanwaltschaft an sein Geld nicht heran."
+      "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+      "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+      "source": "CNBC",
+      "date": "2026-11-11T22:20+00:00",
+      "teaser": "American Airlines' first-class food options include sandwiches, fruit and chia bowls"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.94,
     "items": [
      {
-      "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
-      "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
-      "source": "New York Times",
-      "date": "2026-11-11T19:32+00:00",
-      "teaser": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator."
+      "title": "JetBlue unveils new first-class seats to bring back profits",
+      "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+      "source": "CNBC",
+      "date": "2026-11-11T22:10+00:00",
+      "teaser": "JetBlue gave reporters a look at its new first-class seats on Wednesday."
      }
     ]
    },
@@ -790,50 +825,50 @@
     "score": 1.93,
     "items": [
      {
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T22:08+00:00",
+      "teaser": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
       "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
       "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-11T19:15+00:00",
+      "date": "2026-11-11T21:42+00:00",
       "teaser": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.88,
     "items": [
      {
-      "title": "Halbleiterbranche in Europa: „Uns fehlt eine Gesamtstrategie“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chips-act-2-0-wie-europa-den-anschluss-in-der-halbleiterindustrie-schaffen-will-201673391.html",
-      "source": "FAZ",
-      "date": "2026-11-11T19:10+00:00",
-      "teaser": "Auf den Märkten für Computerchips will Europa die Lücke zu Asien und Amerika schließen, tut sich aber schwer damit. Nun muss Brüssel ausgerechnet das machen, was es am schlechtesten kann: auf Tempo setzen."
+      "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+      "url": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+      "source": "CNBC",
+      "date": "2026-11-11T21:33+00:00",
+      "teaser": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.85,
     "items": [
      {
-      "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
-      "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
-      "source": "The Guardian",
-      "date": "2026-11-11T19:10+00:00",
-      "teaser": "Retailer’s management to seek two-week extension of legal protection from creditors in high court MPs have accused the owner of Poundland of extracting millions of pounds from the budget retailer when it was on a “knife-edge” as it seeks extra time to secure a rescue deal. The management of Poundlan"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Versicherer: Allianz erhöht Gewinnprognose – Rekordgewinn nach neun Monaten",
-      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherung-allianz-erhoeht-gewinnprognose-rekordgewinn-nach-neun-monaten/100266550.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-11T18:58+00:00",
-      "teaser": "Der Versicherer hat in den ersten drei Quartalen mehr als 14 Milliarden Euro Gewinn gemacht. Finanzvorständin Coste-Lepoutre gibt ihre zuletzt vorsichtige Haltung bei der Prognose auf."
+      "title": "Ukraine peace talks end with prisoner swap but no breakthrough",
+      "url": "https://www.ft.com/content/39254048-0d84-47b8-bb97-4b9d9e1f2b92?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-11T21:09+00:00",
+      "teaser": "Discussions involving Kyiv as well as Russia and the US focus on postwar security guarantees"
      }
     ]
    }
@@ -841,7 +876,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.86,
+    "score": 7.62,
     "favorite": true,
     "items": [
      {
@@ -855,7 +890,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.8,
+    "score": 7.5600000000000005,
     "favorite": true,
     "items": [
      {
@@ -869,7 +904,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.68,
+    "score": 7.4399999999999995,
     "favorite": true,
     "items": [
      {
@@ -883,7 +918,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.5,
     "items": [
      {
       "title": "Scherhant und Treu - mit Demut auf der Überholspur",
@@ -902,35 +937,8 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 3.52,
-    "items": [
-     {
-      "title": "Nach Zusammenbruch: Vincent Kompany ist zurück auf dem Bayern-Gelände",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-vincent-kompany-ist-zurueck-auf-dem-gelaende-201669729.html",
-      "source": "FAZ",
-      "date": "2026-11-10T13:06+00:00",
-      "teaser": "Vor mehr als zwei Wochen war Bayern-Trainer Vincent Kompany zusammengebrochen. Nun ist er zurück auf dem Trainingsgelände. Ein Zeitpunkt für die Rückkehr auf die Trainerbank wird bereits diskutiert."
-     },
-     {
-      "title": "Kompany-Comeback beim FC Bayern",
-      "url": "https://www.sportschau.de/regional/br/br-kompany-comeback-beim-fcb-coach-zurueck-an-saebener-strasse-102.html",
-      "source": "Sportschau",
-      "date": "2026-11-10T15:17+01:00",
-      "teaser": "Vincent Kompany ist zurück beim FC Bayern. Der Cheftrainer besuchte am Montag nach seiner überstandenen Hirnhautreizung übereinstimmenden Medienberichten zufolge sein Büro an der Säbener Straße."
-     },
-     {
-      "title": "Vincent Kompany: FC Bayern-Trainer nach Hirnhautreizung zurück",
-      "url": "https://www.spiegel.de/sport/fussball/vincent-kompany-fc-bayern-trainer-nach-hirnhautreizung-offenbar-zurueck-a-e9a326ad-212b-4414-b4c7-2cc5aa40c471#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-10T11:47+01:00",
-      "teaser": "Bayern-Trainer Vincent Kompany laborierte an einer Hirnhautreizung. Nun scheint es gesundheitlich aber bergauf zu gehen: Kompany weilt wieder am Trainingsgelände an der Säbener Straße."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.48,
+    "score": 3.25,
     "items": [
      {
       "title": "Theologe zu Torjubel: „Felix Nmecha ist mit seiner Popularität ein wichtiger Türöffner“",
@@ -950,7 +958,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.21,
+    "score": 1.97,
     "items": [
      {
       "title": "Champions League: FC Bayern dringt in Spitzengruppe vor",
@@ -973,24 +981,37 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Dezimierte PSV letztlich ohne Chance: Frankfurt erreicht Europa-Cup-Viertelfinale",
-      "url": "https://www.kicker.de/frankfurt-gegen-psv-2026-uefa-women-s-europa-cup-5269654/spielbericht#omrss",
+      "title": "US-Boy Castaneda vor Nationalelf-Debüt: \"Da gibt's gerade ganz viele Gefühle\"",
+      "url": "https://www.kicker.de/us-boy-castaneda-vor-nationalelf-debuet-da-gibt-s-gerade-ganz-viele-gefuehle-1270645/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-11T19:25+00:00",
-      "teaser": "Die Frauen von Eintracht Frankfurt haben das Viertelfinale des Women's Europa Cup erreicht. Nach dem 2:0-Erfolg im Achtelfinal-Hinspiel feierte die SGE im Rückspiel gegen die PSV Eindhoven einen 2:1-Sieg. Eine frühe Rote Karte sorgte für klare Verhältnisse."
+      "date": "2026-11-11T22:24+00:00",
+      "teaser": "Dieser Mann lebt seinen Traum. Aufstieg in die Bundesliga, Vertragsverlängerung - und nun eine Einladung, die in mehrerlei Hinsicht Emotionen auslöste. Bisher lief das Jahr für Santiago Castaneda sportlich \"wahnsinnig\" positiv."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.94,
     "items": [
      {
-      "title": "Bleibt Meffert Kapitän? Kniat kann sich Änderungen vorstellen",
-      "url": "https://www.kicker.de/bleibt-meffert-kapitaen-kniat-kann-sich-aenderungen-vorstellen-1270805/artikel#omrss",
+      "title": "Sicherheitsbedenken: USA ziehen Team von U-17-WM zurück",
+      "url": "https://www.kicker.de/sicherheitsbedenken-usa-ziehen-team-von-u-17-wm-zurueck-1270865/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-11T19:18+00:00",
-      "teaser": "Holstein Kiel hat am Mittwoch Mitch Kniat als neuen Trainer offiziell vorgestellt. Der 40-Jährige legt Wert auf Struktur - und könnte bei den Störchen eine neue implementieren."
+      "date": "2026-11-11T22:13+00:00",
+      "teaser": "Die bald startende U-17-WM wird ohne die USA stattfinden. Der US-Verband hat sein Team aufgrund von Sicherheitsbedenken vom Turnier zurückgezogen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "ManUnited: Vereinbarung mit Pochettino? - Milan hat Tresoldi auf dem Zettel",
+      "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-11T21:59+00:00",
+      "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden."
      }
     ]
    },
@@ -999,37 +1020,37 @@
     "score": 1.91,
     "items": [
      {
-      "title": "Niederlande ohne van Dijk gegen Deutschland",
-      "url": "https://www.sportschau.de/fussball/nationsleague/niederlande-ohne-van-dijk-gegen-deutschland,niederelande-van-dijk-100.html",
-      "source": "Sportschau",
-      "date": "2026-11-11T20:01+01:00",
-      "teaser": "Die Niederlande müssen in der Nations League gegen Deutschland auf Kapitän Virgil van Dijk verzichten."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Complaint filed to IRS in relation to Fifa head Gianni Infantino’s housekeeper",
-      "url": "https://www.theguardian.com/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
+      "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+      "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
       "source": "The Guardian",
-      "date": "2026-11-11T19:00+00:00",
-      "teaser": "It calls for inquiry into claims she was on Fifa payroll Fifa: Infantino personally pays for ‘any domestic staff’ A complaint has been filed to the United States Internal Revenue Service calling for an investigation into claims an individual on the Fifa payroll was working privately as a housekeeper"
+      "date": "2026-11-11T21:54+00:00",
+      "teaser": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a letter sent to players explaining the decision, the US Soccer Federation cited"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.89,
     "items": [
      {
-      "title": "‘I’ve had to prove people wrong’: Kane still striving before record England cap",
-      "url": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
-      "source": "The Guardian",
-      "date": "2026-11-11T19:00+00:00",
-      "teaser": "Captain’s 126th cap against Croatia will top Shilton’s record Kane aims to increase record for younger players to catch Harry Kane says he still feels a pressure to prove his worth, even as he prepares to become England’s most capped men’s player, as he outlined his determination to set records that"
+      "title": "Arsenal join Scott chase - Thursday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T21:38+00:00",
+      "teaser": "Arsenal contact Bournemouth about midfielder Alex Scott, Manchester United add two defenders to list of potential targets, Aston Villa weigh up move for Chelsea midfielder Romeo Lavia, plus more."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "Upamecano hält sich bedeckt: \"Mal sehen, was die Zukunft bringt\"",
+      "url": "https://www.kicker.de/upamecano-haelt-sich-bedeckt-mal-sehen-was-die-zukunft-bringt-1270858/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-11T21:31+00:00",
+      "teaser": "Bayern Münchens Dayot Upamecano spricht vor dem Duell Frankreichs in der Nations League mit Italien über seine Zukunft."
      }
     ]
    }
@@ -1037,27 +1058,27 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.98,
     "items": [
      {
-      "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
-      "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-      "source": "New York Times",
-      "date": "2026-11-11T17:11+00:00",
-      "teaser": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed."
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "source": "The Verge",
+      "date": "2026-11-11T17:44-05:00",
+      "teaser": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was wit"
      },
      {
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-10T22:52+00:00",
-      "teaser": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
+      "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+      "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+      "source": "New York Times",
+      "date": "2026-11-10T21:12+00:00",
+      "teaser": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.75,
+    "score": 3.52,
     "items": [
      {
       "title": "The best early Black Friday deals you can already shop",
@@ -1077,7 +1098,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.62,
+    "score": 3.38,
     "items": [
      {
       "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
@@ -1097,7 +1118,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.53,
+    "score": 3.3,
     "items": [
      {
       "title": "Patchday bei Microsoft: Dieses Outlook-Update solltest du schnell installieren",
@@ -1120,37 +1141,37 @@
     "score": 1.99,
     "items": [
      {
-      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-      "source": "Wired",
-      "date": "2026-11-11T19:55+00:00",
-      "teaser": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Samsung Galaxy Watch: Bald kannst du dein Bauchfett via Smartwatch messen",
-      "url": "https://t3n.de/news/galaxy-watch-bauchfett-messen-1773105/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-11T20:43+01:00",
-      "teaser": "Samsung hat eine Methode patentiert, wie zukünftige Galaxy-Watch-Modelle das gefährliche viszerale Bauchfett präziser messen können sollen. Dabei soll ein Ultrabreitband-Radar statt des bisher bekannten BIA-Sensors zum Einsatz kommen. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
-      "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+      "title": "Nvidia’s Board Is Expected to Meet to Discuss Jensen Huang’s Future",
+      "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
       "source": "New York Times",
-      "date": "2026-11-11T19:32+00:00",
-      "teaser": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator."
+      "date": "2026-11-11T22:48+00:00",
+      "teaser": "Mr. Huang has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as a relationship with an executive at his A.I. chip company."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+      "source": "The Verge",
+      "date": "2026-11-11T17:00-05:00",
+      "teaser": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Pete Hegseth Is About to Get His Ass Kicked",
+      "url": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
+      "source": "Wired",
+      "date": "2026-11-11T22:00+00:00",
+      "teaser": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible."
      }
     ]
    },
@@ -1159,63 +1180,63 @@
     "score": 1.91,
     "items": [
      {
-      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
-      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
-      "source": "Ars Technica",
-      "date": "2026-11-11T19:00+00:00",
-      "teaser": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\""
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "FTTH: Telefónica und Deutsche Glasfaser arbeiten zusammen",
-      "url": "https://www.golem.de/news/ftth-telefonica-und-deutsche-glasfaser-arbeiten-zusammen-2611-215108.html",
-      "source": "Golem",
-      "date": "2026-11-11T19:51+01:00",
-      "teaser": "Telefónica Deutschland baut die Reichweite des eigenen Festnetzangebots massiv aus und kooperiert künftig mit Deutsche Glasfaser. ( Deutsche Glasfaser , Glasfaser )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "source": "Ars Technica",
-      "date": "2026-11-11T18:16+00:00",
-      "teaser": "Latest example of the AI boom’s circular financing comes as AI trade wobbles."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+      "title": "United won’t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
       "source": "The Verge",
-      "date": "2026-11-11T13:13-05:00",
-      "teaser": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers i"
+      "date": "2026-11-11T16:54-05:00",
+      "teaser": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like "
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.85,
     "items": [
      {
-      "title": "Anzeige: KI-Agenten mit Claude für Büroaufgaben einsetzen",
-      "url": "https://www.golem.de/news/anzeige-ki-agenten-mit-claude-fuer-bueroaufgaben-einsetzen-2611-215107.html",
-      "source": "Golem",
-      "date": "2026-11-11T19:08+01:00",
-      "teaser": "KI-Agenten können wiederkehrende Büroaufgaben übernehmen. Ein Online-Workshop zeigt, wie sich mit Claude Arbeitsabläufe automatisieren und kontrollieren lassen. ( Golem Karrierewelt , Programmiersprachen )"
+      "title": "Stimmprobe statt Captcha: Wie ein Startup Menschen sicher von Bots unterscheiden will",
+      "url": "https://t3n.de/news/stimmprobe-captcha-bots-1773110/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-11T22:07+01:00",
+      "teaser": "Statt auf Captcha, Ausweisfotos oder Videoident setzt das US-Startup Helix auf Stimmproben, um Nutzer:innen vor dem Besuch von Websites zu verifizieren. Neben dem Bot-Schutz soll die Voice-ID-Lösung auch eine Alterserkennung ermöglichen. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.83,
+    "items": [
+     {
+      "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
+      "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
+      "source": "New York Times",
+      "date": "2026-11-11T20:51+00:00",
+      "teaser": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.8,
+    "items": [
+     {
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "source": "Ars Technica",
+      "date": "2026-11-11T20:32+00:00",
+      "teaser": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.78,
+    "items": [
+     {
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "source": "Ars Technica",
+      "date": "2026-11-11T20:22+00:00",
+      "teaser": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\""
      }
     ]
    }
@@ -1304,7 +1325,7 @@
    "topic": "Welt & Politik",
    "source": "Politico",
    "ok": true,
-   "items": 8
+   "items": 6
   },
   {
    "topic": "Welt & Politik",
@@ -1394,7 +1415,7 @@
    "topic": "Polen",
    "source": "Notes from Poland",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Polen",
@@ -1472,7 +1493,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "CNBC",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1496,7 +1517,7 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 5
+   "items": 3
   },
   {
    "topic": "Sport",
@@ -1508,13 +1529,13 @@
    "topic": "Sport",
    "source": "FAZ",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Sport",
@@ -1550,7 +1571,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "topic": "Tech & KI",
@@ -1568,7 +1589,7 @@
    "topic": "Tech & KI",
    "source": "BBC",
    "ok": true,
-   "items": 8
+   "items": 6
   },
   {
    "topic": "Tech & KI",
