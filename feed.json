@@ -1,18 +1,38 @@
 {
- "fetchedAt": "2026-11-11T16:23:40+00:00",
+ "fetchedAt": "2026-11-11T17:59:09+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 4,
-    "score": 7.96,
+    "sourceCount": 6,
+    "score": 11.92,
     "items": [
      {
-      "title": "Spain: General strike over housing costs before national election",
-      "url": "https://www.france24.com/en/spain-general-strike-over-housing-costs-before-national-election",
-      "source": "France 24",
-      "date": "2026-11-11T15:54+00:00",
-      "teaser": "Millions of Spanish workers shut down businesses and public transportation in a protest on Wednesday over housing costs that the government hopes to leverage before a national election later this month. The walkout — under the slogan “Salaries. Housing. Prices.” — was the first general strike in Spa"
+      "title": "Russia, Ukraine agree on prisoner exchange as talks end without major breakthrough",
+      "url": "https://www.scmp.com/news/world/europe/article/3374117/russia-ukraine-agree-prisoner-exchange-talks-end-without-major-breakthrough",
+      "source": "South China Morning Post",
+      "date": "2026-11-11T14:54+00:00",
+      "teaser": "Russia and Ukraine agreed to a large exchange of prisoners of war, both sides said Wednesday as two days of US mediated talks concluded, but they announced no major breakthrough on ending the conflict that began after Moscow’s full-scale invasion nearly five years ago. Hopes had been low for any sig"
      },
+     {
+      "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+      "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+      "source": "NPR",
+      "date": "2026-11-11T08:30-05:00",
+      "teaser": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022."
+     },
+     {
+      "title": "Russia, Ukraine agree to major prisoner swap after U.S.-brokered talks in Abu Dhabi",
+      "url": "https://www.thehindu.com/news/international/russia-ukraine-agree-to-prisoner-swap-at-us-brokered-talks/article71689267.ece",
+      "source": "The Hindu",
+      "date": "2026-11-11T17:57+05:30",
+      "teaser": "The two sides have exchanged thousands of captured soldiers throughout the almost five-year war, started by Russia’s 2022 invasion"
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.98,
+    "items": [
      {
       "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
       "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
@@ -26,39 +46,73 @@
       "source": "New York Times",
       "date": "2026-11-11T15:54+00:00",
       "teaser": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign."
-     }
-    ]
-   },
-   {
-    "sourceCount": 4,
-    "score": 7.88,
-    "items": [
-     {
-      "title": "Russia, Ukraine agree on prisoner exchange as talks end without major breakthrough",
-      "url": "https://www.scmp.com/news/world/europe/article/3374117/russia-ukraine-agree-prisoner-exchange-talks-end-without-major-breakthrough",
-      "source": "South China Morning Post",
-      "date": "2026-11-11T14:54+00:00",
-      "teaser": "Russia and Ukraine agreed to a large exchange of prisoners of war, both sides said Wednesday as two days of US mediated talks concluded, but they announced no major breakthrough on ending the conflict that began after Moscow’s full-scale invasion nearly five years ago. Hopes had been low for any sig"
      },
      {
-      "title": "Trump's envoys to travel to Moscow as Abu Dhabi talks end without breakthrough",
-      "url": "https://kyivindependent.com/2nd-day-of-trilateral-peace-talks-begins-between-ukraine-russia-us-in-abu-dhabi/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-11T10:01+00:00",
-      "teaser": "\"We see some openings and some opportunities,\" Jared Kushner told the press, adding that the U.S. envoys would then travel to Dublin to debrief President Volodymyr Zelensky, who will be attending an informal meeting of EU leaders scheduled for Nov. 13."
-     },
-     {
-      "title": "Russia, Ukraine agree to major prisoner swap after U.S.-brokered talks in Abu Dhabi",
-      "url": "https://www.thehindu.com/news/international/russia-ukraine-agree-to-prisoner-swap-at-us-brokered-talks/article71689267.ece",
-      "source": "The Hindu",
-      "date": "2026-11-11T17:57+05:30",
-      "teaser": "The two sides have exchanged thousands of captured soldiers throughout the almost five-year war, started by Russia’s 2022 invasion"
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T17:44+00:00",
+      "teaser": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.47,
+    "score": 5.95,
+    "items": [
+     {
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T12:30+00:00",
+      "teaser": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked."
+     },
+     {
+      "title": "Italy evacuates over 300 schools due to bomb alert, with threats in Scotland and Ireland",
+      "url": "https://www.thehindu.com/news/national/italy-evacuates-over-300-schools-due-to-bomb-alert-with-threats-in-scotland-and-ireland/article71690995.ece",
+      "source": "The Hindu",
+      "date": "2026-11-11T22:52+05:30",
+      "teaser": "Italian Premier Giorgia Meloni said there was no indication of any “concrete danger” to schools and that the threats appeared aimed at “generating alarm and concern”"
+     },
+     {
+      "title": "Hoax bomb alerts sent to schools in Italy, UK and Ireland",
+      "url": "https://www.abc.net.au/news/2026-11-12/european-bomb-hoaxes-italy-uk/107375742",
+      "source": "ABC Australia",
+      "date": "2026-11-11T15:05+00:00",
+      "teaser": "European officials suspect Russia or Iran may be behind a campaign of disruption to everyday life."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.95,
+    "items": [
+     {
+      "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+      "source": "NPR",
+      "date": "2026-11-11T04:16-05:00",
+      "teaser": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease."
+     },
+     {
+      "title": "Congo's Ebola outbreak tops 11,000 cases as disease keeps spreading",
+      "url": "https://www.cbc.ca/news/health/congo-ebola-outbreak-cases-9.7417666?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-11T04:54-05:00",
+      "teaser": "The latest Health Ministry data showed 11,042 people have been infected by the deadly virus that has now killed 5,387, nearly half of those infected, in the country's deadliest outbreak."
+     },
+     {
+      "title": "DR Congo Ebola outbreak exceeds 11,000 cases, causes 5,387 deaths",
+      "url": "https://www.thehindu.com/news/international/dr-congo-ebola-outbreak-exceeds-11000-cases-causes-5387-deaths/article71691022.ece",
+      "source": "The Hindu",
+      "date": "2026-11-11T22:53+05:30",
+      "teaser": "The 17th outbreak of the virus in the DRC's history was officially declared in May, but experts believe it emerged weeks or even months earlier"
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.34,
     "items": [
      {
       "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
@@ -85,13 +139,73 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Tens of thousands attend Polish nationalist march days afer shootings",
+      "url": "https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings",
+      "source": "France 24",
+      "date": "2026-11-11T17:08+00:00",
+      "teaser": "Tens of thousands of Polish nationalist sympathisers gathered in Warsaw Wednesday for an annual Independence Day March, just days after a deadly shooting spree in Krakow that shook the country. The event is held each November 11 to commemorate the ending in 1918 of 123 years of partition by Russia, "
+     },
+     {
+      "title": "Tens of thousands join Poland’s nationalist Independence Day march",
+      "url": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-11T17:38+00:00",
+      "teaser": "Polish PM Donald Tusk calls for restraint, urging unity after deadly Krakow attack linked to far-right ideology."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+      "source": "Tagesschau",
+      "date": "2026-11-11T18:30+01:00",
+      "teaser": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Morgen wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden."
+     },
+     {
+      "title": "Russland und Ukraine vereinbaren großen Gefangenenaustausch - Gespräche in Abu Dhabi",
+      "url": "https://www.spiegel.de/ausland/russland-und-ukraine-vereinbaren-grossen-gefangenenaustausch-gespraeche-in-abu-dhabi-a-ac5871d0-5d90-41d1-a1f6-2a2b78462bd6#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-11T12:47+01:00",
+      "teaser": "Der zweite Tag der Verhandlungen zwischen Russland und der Ukraine ist beendet. Die Kriegsparteien verständigen sich auf einen Gefangenenaustausch. US-Gesandte sollen zudem in den kommenden Tagen nach Russland reisen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Russia’s ambassador to the US dies ‘suddenly’, foreign ministry says",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374121/russias-ambassador-us-dies-suddenly-foreign-ministry-says",
+      "source": "South China Morning Post",
+      "date": "2026-11-11T17:27+00:00",
+      "teaser": "Russia’s ambassador to the United States, Alexander Darchiev, has died “suddenly” at the age of 66 after just one and a half years in the job, Moscow’s foreign ministry announced on Wednesday. The ministry called Darchiev an “outstanding diplomat, an experienced leader and a kind colleague”. He was "
+     },
+     {
+      "title": "Russian ambassador to Washington dies at 66",
+      "url": "https://kyivindependent.com/russian-ambassador-to-washington-dies-at-66/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-11T16:34+00:00",
+      "teaser": "Alexander Darchiev, Russia's ambassador to the U.S., died unexpectedly at the age of 66, Russia's Foreign Ministry announced on Nov. 11, without commenting on the cause of death."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.94,
     "items": [
      {
       "title": "Trump Visits Arlington Cemetery as His Proposed Arch Faces Growing Opposition",
       "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html",
       "source": "New York Times (USA)",
-      "date": "2026-11-11T16:12+00:00",
+      "date": "2026-11-11T17:13+00:00",
       "teaser": "An expanding legal fight over the proposed site of President Trump’s 250-foot triumphal arch looms over his visit to Arlington National Cemetery on Veterans Day."
      },
      {
@@ -105,7 +219,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.85,
+    "items": [
+     {
+      "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
+      "url": "https://www.thehindu.com/news/international/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/article71689942.ece",
+      "source": "The Hindu",
+      "date": "2026-11-11T20:17+05:30",
+      "teaser": "Meta told the Court last month it had adopted ​measures to ensure equal treatment of ‌the two campaigns"
+     },
+     {
+      "title": "Brazil electoral court fines Meta $1.3 MN, sees no deliberate election bias",
+      "url": "https://www.france24.com/en/brazil-electoral-court-fines-meta-1-3-mn-sees-no-deliberate-election-bias",
+      "source": "France 24",
+      "date": "2026-11-11T16:08+00:00",
+      "teaser": "Jan Onoszko, our correspondent in Rio, has more."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.83,
     "items": [
      {
       "title": "Russia bans two French lawmakers and two journalists from entry",
@@ -125,7 +259,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.8,
     "items": [
      {
       "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
@@ -142,132 +276,59 @@
       "teaser": "Health Minister Aden Duale says Kenya will continue to exercise prevention measures until December 23."
      }
     ]
+   }
+  ],
+  "Deutschland": [
+   {
+    "sourceCount": 3,
+    "score": 5.9,
+    "items": [
+     {
+      "title": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-11T17:45+01:00",
+      "teaser": "Einkommensgrenze, statt verkürzter Zahlung: Familienministerin Prien hat einen Gesetzentwurf zum Unterhaltsvorschuss vorgelegt. Elternteile, die nicht zahlen, sollen stärker in die Pflicht genommen werden - etwa mit Fahrverboten."
+     },
+     {
+      "title": "Unterhaltsvorschuss: Karin Prien plant Vorschuss nur noch bis 40.000 Euro",
+      "url": "https://www.spiegel.de/politik/deutschland/unterhaltsvorschuss-karin-prien-plant-vorschuss-nur-noch-bis-40-000-euro-a-520a2ba7-effe-47f7-a4dc-a376d96a3f2e#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-11T16:46+01:00",
+      "teaser": "Wenn ein Elternteil keinen Unterhalt zahlt, springt der Staat ein. Das Familienministerium will dafür nun eine Einkommensgrenze einführen. Säumige Elternteile sollen mehr in die Pflicht genommen werden."
+     },
+     {
+      "title": "Familienpolitik: Unterhaltsvorschuss soll an Einkommensgrenze gebunden werden",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/unterhaltsvorschuss-alleinerziehende-einkommensgrenze-gesetz-karin-prien",
+      "source": "Zeit",
+      "date": "2026-11-11T15:14+00:00",
+      "teaser": "Staatliche Unterhaltszahlungen für Alleinerziehende mit Kind sollen an eine Grenze von 40.000 Euro geknüpft werden. Die Leistung soll doch bis zum 18. Lebensjahr gelten."
+     }
+    ]
    },
    {
     "sourceCount": 2,
     "score": 3.89,
     "items": [
      {
-      "title": "Spionage: Österreich erhöht Strafmaß für Spionage",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/spionage-oesterreich-gesetz-agententaetigkeit-internationale-organisationen",
-      "source": "Zeit",
-      "date": "2026-11-11T15:02+00:00",
-      "teaser": "Österreich verdoppelt das Strafmaß für Agententätigkeiten gegen den Staat auf zehn Jahre. Auch Spionage gegen internationale Organisationen soll künftig strafbar sein."
-     },
-     {
-      "title": "Drehscheibe Wien: Österreich will härter gegen Spionage vorgehen",
-      "url": "https://www.faz.net/aktuell/politik/ausland/neues-gesetz-oesterreich-will-haerter-gegen-spione-vorgehen-accg-201672361.html",
-      "source": "FAZ",
-      "date": "2026-11-11T13:09+00:00",
-      "teaser": "Wien gilt als Tummelplatz für Agenten, auch weil die Gesetze lax und die Strafen gering sind. Nun kündigt die Regierung eine härtere Gangart an."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.81,
-    "items": [
-     {
-      "title": "Russland und Ukraine vereinbaren Gefangenenaustausch",
-      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+      "title": "Bundeskabinett beschließt Aufbau einer Gasreserve",
+      "url": "https://www.tagesschau.de/inland/gasreserve-126.html",
       "source": "Tagesschau",
-      "date": "2026-11-11T15:09+01:00",
-      "teaser": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Morgen wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden."
+      "date": "2026-11-11T17:38+01:00",
+      "teaser": "Mit einer nationalen Gasreserve will die Bundesregierung die Versorgung in Krisensituationen sichern - dabei geht es ausdrücklich nicht um hohe Preise, sondern um Ausnahmefälle wie etwa Sabotage. Auf die Gaskunden kommen dadurch Mehrkosten zu."
      },
      {
-      "title": "Russland und Ukraine vereinbaren großen Gefangenenaustausch - Gespräche in Abu Dhabi",
-      "url": "https://www.spiegel.de/ausland/russland-und-ukraine-vereinbaren-grossen-gefangenenaustausch-gespraeche-in-abu-dhabi-a-ac5871d0-5d90-41d1-a1f6-2a2b78462bd6#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-11T12:47+01:00",
-      "teaser": "Der zweite Tag der Verhandlungen zwischen Russland und der Ukraine ist beendet. Die Kriegsparteien verständigen sich auf einen Gefangenenaustausch. US-Gesandte sollen zudem in den kommenden Tagen nach Russland reisen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.8,
-    "items": [
-     {
-      "title": "Italien, Schottland und Nordirland: Schulen nach Bombenalarm evakuiert",
-      "url": "https://www.dw.com/de/italien-schottland-und-nordirland-schulen-nach-bombenalarm-evakuiert/a-79919504?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-11T13:59+00:00",
-      "teaser": "Die Serie der Bombendrohungen in Europa setzt sich fort. Diesmal gab es falschen Alarm an Hunderten Schulen. Waren es staatliche Akteure, Trittbrettfahrer oder Scherzbolde?"
-     },
-     {
-      "title": "Italien: Mindestens 300 italienische Schulen nach Bombenwarnung evakuiert",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/italien-bombendrohungen-schulen-evakuierung-hybride-kriegsfuehrung-gxe",
+      "title": "Gasreserve: Bundeskabinett beschließt Aufbau einer nationalen Gasreserve",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/gasreserve-katherina-reiche-cdu-gasmangellage-umlage",
       "source": "Zeit",
-      "date": "2026-11-11T13:32+00:00",
-      "teaser": "Laut Italiens Bildungsminister haben etwa 6.300 Schulen eine Bombenwarnung per E-Mail erhalten. Mehr als 300 Schulen wurden geräumt. Die Schüler seien in Sicherheit."
+      "date": "2026-11-11T14:46+00:00",
+      "teaser": "Um in Krisensituationen die Gasversorgung zu sichern, soll es künftig eine nationale Sicherheitsreserve geben. Finanziert werden soll sie über eine Umlage für Gaskunden."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.66,
-    "items": [
-     {
-      "title": "US House votes to derail impeachment of Defense Secretary Hegseth",
-      "url": "https://www.france24.com/en/us-house-votes-to-derail-impeachment-of-defense-secretary-hegseth",
-      "source": "France 24",
-      "date": "2026-11-11T12:17+00:00",
-      "teaser": "Republicans in ​the US House ​of Representatives banded together on Tuesday ​to ‌derail ⁠aneffort to impeach ‌Defense Secretary Pete Hegseth. Fraser Jackson, our correspondant in Washington DC, has more."
-     },
-     {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T11:47+00:00",
-      "teaser": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.5,
-    "items": [
-     {
-      "title": "US-Republikaner stoppen Impeachment gegen Hegseth",
-      "url": "https://www.dw.com/de/us-republikaner-stoppen-impeachment-gegen-hegseth/a-79916312?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-11T10:21+00:00",
-      "teaser": "US-Präsident Donald Trump zeigt sich hocherfreut: Vorerst gibt es kein Parlamentsverfahren, Verteidigungsminister Pete Hegseth aus dem Amt zu drängen. Ein entsprechender Versuch scheiterte bereits im Anfangsstadium."
-     },
-     {
-      "title": "USA unter Trump: Republikaner stoppen Amtsenthebungsantrag gegen Hegseth",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-amtsenthebung-von-hegseth-im-us-repraesentantenhaus-gestoppt-faz-19444916.html",
-      "source": "FAZ",
-      "date": "2026-11-11T06:12+00:00",
-      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.37,
-    "items": [
-     {
-      "title": "Who is Alice Huang? Alleged Chinese spy, businesswoman involved with Nvidia CEO",
-      "url": "https://www.cbc.ca/news/world/alice-huang-nvidia-9.7416909?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-10T15:16-05:00",
-      "teaser": "Chinese businesswoman Alice Huang has been thrust into the spotlight because of her links with Nvidia CEO Jensen Huang. U.S. authorities had concluded she was a Chinese intelligence asset who passed information to Beijing"
-     },
-     {
-      "title": "Alice Huang, who reportedly had affair with Nvidia CEO, is Chinese banker turned tech exec",
-      "url": "https://www.thehindu.com/news/international/alice-huang-who-reportedly-had-affair-with-nvidia-ceo-is-chinese-banker-turned-tech-exec/article71688893.ece",
-      "source": "The Hindu",
-      "date": "2026-11-11T14:23+05:30",
-      "teaser": "An affair between Nvidia's Jensen Huang and Alice Huang, who reportedly was suspected of working as a spy for Beijing, has rocked the tech and political worlds"
-     }
-    ]
-   }
-  ],
-  "Deutschland": [
-   {
-    "sourceCount": 2,
-    "score": 3.84,
+    "score": 3.7,
     "items": [
      {
       "title": "Autoritarismus-Studie in Deutschland: Zustimmung für Demokratie sinkt auf Tiefstwert",
@@ -287,7 +348,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.64,
+    "score": 3.51,
     "items": [
      {
       "title": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
@@ -310,11 +371,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Reform der Nachrichtendienste: Verfassungsschutz soll einzelne Bundesländer isolieren dürfen",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/verfassungsschutzverbund-nachrichtendienstreform-bundesamt-afd",
+      "title": "Kündigungsschutz für Spitzenverdiener: Bundesarbeitsministerium will Kündigungsschutz frühestens 2028 lockern",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/kuendigungsschutz-spitzenverdiener-arbeitsrecht-reform-spd-cdu",
       "source": "Zeit",
-      "date": "2026-11-11T16:18+00:00",
-      "teaser": "Der Verfassungsschutz soll für den Fall, dass die AfD Regierungsverantwortung übernimmt, vorbereitet werden. Künftig könnte es Beschränkungen für einzelne Länder geben."
+      "date": "2026-11-11T17:50+00:00",
+      "teaser": "Mit einer Reform des Arbeitsrechts sollen Kündigungen von Spitzenverdienern erleichtert werden. Auch Befristungen und Sonntagsarbeit sollen künftig einfacher werden."
      }
     ]
    },
@@ -323,89 +384,24 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Kollektiv Zwickau: Weitere Razzien bei mutmaßlichen Mitgliedern von Kollektiv Zwickau",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/kollektiv-zwickau-linksextremismus-sachsen-staatsanwaltschaft",
-      "source": "Zeit",
-      "date": "2026-11-11T16:16+00:00",
-      "teaser": "Nach Festnahmen mutmaßlicher Mitglieder des Kollektivs Zwickau gibt es weitere Razzien. Die Gruppe wollte ihre Ziele laut Ermittlern mit Straftaten durchsetzen."
+      "title": "Soldatin Gille: \"Ich spürte, wie er sich auf mich drückte\"",
+      "url": "https://www.zdfheute.de/politik/soldatin-dunkelfeldstudie-bundeswehr-interview-100.html",
+      "source": "ZDF",
+      "date": "2026-11-11T18:50+01:00",
+      "teaser": "Laura Gille hat als Soldatin sexualisierte Gewalt erlebt. Im Interview mit ZDFheute spricht sie über ihre Erlebnisse als Frau in der Bundeswehr."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "Zustand der Wälder in Baden-Württemberg weiter verschlechtert",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/verschnaufpause-vorbei-hitze-setzt-dem-wald-wieder-zu-100.html",
+      "title": "Nach Boris Palmers Rückzug aus der Öffentlichkeit: Das fordern die Gemeinderäte",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/wegen-ermittlungen-boris-palmer-verzichtet-auf-oeffentliche-auftritte-100.html",
       "source": "SWR",
-      "date": "2026-11-11T17:18+01:00",
-      "teaser": "Nach kurzer Erholung im Vorjahr verlieren die Bäume wieder mehr Blätter und Nadeln. Besonders Buchen leiden. Der neue Waldzustandsbericht zeigt noch nicht das ganze Ausmaß."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Niedersachsen: Gericht weist Eilanträge gegen Fertigung russischer Brennelemente ab",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/niedersachsen-brennelemente-lingen-atom-rosatom-reaktoren-russland",
-      "source": "Zeit",
-      "date": "2026-11-11T16:09+00:00",
-      "teaser": "In einer Fabrik in Lingen sollen künftig Brennelemente für Reaktoren russischer Bauart hergestellt werden. Eilanträge gegen die Genehmigung sind vor Gericht gescheitert."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Deutschland Liveblog: Dobrindt will im „Cyberraum zurückschlagen“",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-dobrindt-will-im-cyberraum-zurueckschlagen-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-11T16:07+00:00",
-      "teaser": "Bundesinnenminister: Konsequenz, Risiko und Preis muss für hybride Akteure erhöht werden +++ Viel mehr sexuelle Belästigung in Bundeswehr als bisher bekannt +++ Mehr Kriegsdienstverweigerer +++ alle Entwicklungen im Liveblog"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Mietprotest vor der Wahl - Spanien im Streikmodus",
-      "url": "https://www.zdfheute.de/politik/ausland/spanien-streik-wohnung-miete-bezahlbar-generalstreik-100.html",
-      "source": "ZDF",
-      "date": "2026-11-11T17:11+01:00",
-      "teaser": "Wohnungspreise und Mieten steigen, es gibt zu wenig Wohnraum für die wachsende Bevölkerung und kaum soziale Absicherung. Für das Recht auf würdiges Wohnen gehen sie auf die Straße."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Podcast: „Auf den Punkt“: Ausmaß sexualisierter Gewalt bei Bundeswehr größer als gedacht",
-      "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-bundeswehr-sexualisierte-gewalt-dunkelfeldstudie-li.3578712",
-      "source": "Süddeutsche",
-      "date": "2026-11-11T16:01+00:00",
-      "teaser": "Sexuelle Übergriffe sind laut einer Dunkelfeldstudie in der Bundeswehr viel häufiger als bisher gedacht. Was sich ändern muss."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Experten-Appell: \"Erhebliche Wachstumspotenziale ungenutzt\"",
-      "url": "https://www.zdfheute.de/wirtschaft/wirtschaftsweise-staatsschulden-prognose-100.html",
-      "source": "ZDF",
-      "date": "2026-11-11T17:05+01:00",
-      "teaser": "Die deutsche Wirtschaft wächst wieder, doch die Wirtschaftsweisen sehen dringenden Reformbedarf: Die Staatsschulden steigen, und Wachstumspotenziale bleiben ungenutzt."
+      "date": "2026-11-11T18:42+01:00",
+      "teaser": "Der OB von Tübingen will vorerst nicht öffentlich auftreten - zumindest, so lange wegen der bislang unbestätigten Vorwürfe ermittelt wird. Mehrere Gemeinderäte gaben jetzt Statements ab."
      }
     ]
    },
@@ -414,24 +410,63 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Kündigungsschutz für Spitzenverdiener: Bundesarbeitsministerium will Kündigungsschutz frühestens 2028 lockern",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/kuendigungsschutz-spitzenverdiener-arbeitsrecht-reform-spd-cdu",
-      "source": "Zeit",
-      "date": "2026-11-11T15:56+00:00",
-      "teaser": "Unternehmen sollen mehr Mitarbeitende anstellen, heißt es im neuen Gesetzesentwurf. Dafür soll ihnen die Kündigung von Hochverdienenden erleichtert werden."
+      "title": "Vergrämung soll bald beginnen: Es wird ernst für den Wolf im Nordschwarzwald",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/wolf-im-nordschwarzwald-vergraemen-als-letzte-chance-100.html",
+      "source": "SWR",
+      "date": "2026-11-11T18:33+01:00",
+      "teaser": "Die Vergrämung des verhaltensauffälligen Wolfes im Nordschwarzwald soll nun beginnen. Experten haben jedoch Zweifel, ob es gelingen könnte, dem Wolf seine Neugier gegenüber Menschen abzutrainieren."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.94,
     "items": [
      {
-      "title": "Weniger Kündigungsschutz, mehr Befristungen - das plant die Koalition",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/arbeitsrecht-kuendigungsschutz-befristungen-reform-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-11T16:44+01:00",
-      "teaser": "Mehr Befristungen, weniger Kündigungsschutz für Hochverdiener und mehr Spielraum für Bäckereien am Sonntag: Die Regierung will das Arbeitsrecht reformieren. Was sich ändern soll und was noch offen ist."
+      "title": "SZ am Abend: Nachrichten vom 11. November 2026",
+      "url": "https://www.sueddeutsche.de/politik/news-bundeswehr-wirtschaftsweise-fuer-hoehere-steuern-bombendrohungen-li.3579061",
+      "source": "Süddeutsche",
+      "date": "2026-11-11T17:13+00:00",
+      "teaser": "Was heute wichtig war."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Niedersachsen: Gericht weist Eilanträge gegen Fertigung russischer Brennelemente ab",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/niedersachsen-brennelemente-lingen-atom-rosatom-reaktoren-russland",
+      "source": "Zeit",
+      "date": "2026-11-11T17:12+00:00",
+      "teaser": "In einer Fabrik in Lingen sollen künftig Brennelemente für Reaktoren russischer Bauart hergestellt werden. Eilanträge gegen die Genehmigung sind vor Gericht gescheitert."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Zustand der Wälder in Baden-Württemberg hat sich weiter verschlechtert",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/verschnaufpause-vorbei-hitze-setzt-dem-wald-wieder-zu-100.html",
+      "source": "SWR",
+      "date": "2026-11-11T18:10+01:00",
+      "teaser": "Nach kurzer Erholung im Vorjahr verlieren die Bäume wieder mehr Blätter und Nadeln. Besonders Buchen leiden. Der neue Waldzustandsbericht zeigt noch nicht das ganze Ausmaß."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Taten von Hamburg und Eningen: Polizei veröffentlicht genauen Ablauf und Hintergründe",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/schuesse-in-hamburg-und-tote-in-eningen-mann-wegen-betrugs-vor-gericht-100.html",
+      "source": "SWR",
+      "date": "2026-11-11T17:56+01:00",
+      "teaser": "Gegen den mutmaßlichen Schützen von Hamburg und Eningen unter Achalm lief zum Zeitpunkt der Taten ein Berufungsverfahren wegen Betrugs."
      }
     ]
    }
@@ -439,7 +474,98 @@
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Niemcy przyspieszają. PKB wzrośnie",
+      "url": "https://www.dw.com/pl/niemcy-przyspieszają-pkb-wzrośnie/a-79922468?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-11T17:39+00:00",
+      "teaser": "Eksperci zwiększają prognozę PKB Niemiec na ten rok do 1,3 proc. mimo kryzysu paliwowego."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Rosja mogła stracić trzy śmigłowce. Tak twierdzą wojskowi blogerzy",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45476621-rosja-mogla-stracic-trzy-smiglowce-tak-twierdza-wojskowi-blogerzy",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T18:06+01:00",
+      "teaser": "Rosyjskie kanały wojskowe na Telegramie informują o utracie kilku śmigłowców podczas ataku ukraińskich dronów na obwód leningradzki. Moskwa na razie tego nie potwierdza."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Marsz Niepodległości zgromadził tłumy. Stołeczna policja szacuje je na ćwierć miliona osób",
+      "url": "https://www.rp.pl/spoleczenstwo/art45476601-marsz-niepodleglosci-zgromadzil-tlumy-stoleczna-policja-szacuje-je-na-cwierc-miliona-osob",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T17:56+01:00",
+      "teaser": "Tegoroczny Marsz Niepodległości zgromadził w Warszawie tłumy. Organizatorzy zapowiadali rekordową liczbę uczestników, szacując ją na pół miliona. Stołeczne Centrum Bezpieczeństwa na podstawie danych policji oszacowało, że uczestników było ok. 250 tys."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "Szwajcaria nie ma prezydenta i premiera i radzi sobie z propagandą. „Niska polaryzacja”",
+      "url": "https://cyfrowa.rp.pl/bezpieczenstwo/art45473291-szwajcaria-nie-ma-prezydenta-i-premiera-i-radzi-sobie-z-propaganda-niska-polaryzacja",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T17:44+01:00",
+      "teaser": "Nie ma lepszej pożywki dla dezinformacji niż podzielone społeczeństwo. Naszą tarczą nie są zakazy, lecz niska polaryzacja – mówi Igor Basic z SRF, szwajcarskiego publicznego nadawcy radiowo-telewizyjnego. Dziennikarz ma receptę na to, jak zachować odporność na manipulację."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "Kaczyński: będziemy działali, by była jedna lista do Sejmu",
+      "url": "https://www.rp.pl/polityka/art45475951-kaczynski-bedziemy-dzialali-by-byla-jedna-lista-do-sejmu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-11T17:24+01:00",
+      "teaser": "Prezes PiS Jarosław Kaczyński stwierdził, że zależy mu, aby podczas przyszłorocznych wyborów była \"jedna wielka lista\", ale nie tylko do izby wyższej. - Senat to ma mniejsze znaczenie, chodzi o listę do Sejmu - powiedział w rozmowie z Onetem."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "Ewakuacje szkół we Włoszech po mailach z groźbami. Premierka zwołuje specjalną naradę",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33127871,ewakuacje-szkol-we-wloszech-po-mailach-z-grozbami-premierka.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-11T16:27+00:00",
+      "teaser": "Co najmniej 300 szkół we Włoszech ewakuowano w środę po e-mailach z informacją o rzekomo podłożonych ładunkach wybuchowych. Według Reutersa ostrzeżenia dotarły do około 6,3 tys. placówek w całym kraju. Podobne wiadomości dostały szkoły w Wielkiej Brytanii (w Szkocji i Irlandii Północnej) oraz w Irla"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "W końcu Tomahawki dla Polski? Słowa szefa MON o bazach przykryły ważną informację",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33127674,w-koncu-tomahawki-dla-polski-slowa-szefa-mon-o-bazach-przykryly.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-11T16:25+00:00",
+      "teaser": "Pentagon miał wydać \"pozytywną rekomendację\" w sprawie polskiej prośby o możliwość zakupu rakiet manewrujących Tomahawk - oznajmił szef MON Władysław Kosiniak-Kamysz. Informacja niespodziewana i przykryta jednoczesną deklaracją na temat stałej bazy USA w Polsce. Tomahawki to broń, którą Amerykanie o"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.86,
     "items": [
      {
       "title": "Nagła śmierć ambasadora Rosji w USA. Aleksandr Darczijew pełnił misję niecałe dwa lata",
@@ -452,7 +578,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.86,
     "items": [
      {
       "title": "Rusłan Szoszyn: Abu Zabi jak Monachium 1938 r. Zachód znów próbuje udobruchać dyktatora OK",
@@ -465,7 +591,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.85,
     "items": [
      {
       "title": "Święczkowski zapowiada kolejną próbę wejścia do TK. „Bardziej stanowczą”",
@@ -478,7 +604,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.85,
     "items": [
      {
       "title": "Kaczyński chce jednej listy prawicy w wyborach. \"Trzeba przekonywać polityków trzech Konfederacji\"",
@@ -491,7 +617,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.83,
     "items": [
      {
       "title": "Witold M. Orłowski: Polska w świecie terroru",
@@ -501,116 +627,25 @@
       "teaser": "Sobotni zamach w Krakowie oznacza prawdopodobnie koniec pewnej ery i początek nowej: ery, w której rozwojowi Polski będzie towarzyszyć zagrożenie terroryzmem – pisze prof. Witold M. Orłowski."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Roch Zygmunt: Tusk zaprasza Nawrockiego. Cyniczna deeskalacja czy wspólnotowy gest?",
-      "url": "https://www.rp.pl/komentarze/art45475581-roch-zygmunt-tusk-zaprasza-nawrockiego-cyniczna-deeskalacja-czy-wspolnotowy-gest",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T16:47+01:00",
-      "teaser": "Zaproszenie Donalda Tuska dla Karola Nawrockiego trudno traktować inaczej niż jako polityczną zagrywkę. Mimo tej kalkulacji bardzo potrzebujemy wspólnotowych gestów."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Pakt o nieagresji Rosja-NATO. Rosyjski dyplomata o nowej architekturze bezpieczeństwa w Europie",
-      "url": "https://www.rp.pl/dyplomacja/art45475181-pakt-o-nieagresji-rosja-nato-rosyjski-dyplomata-o-nowej-architekturze-bezpieczenstwa-w-europie",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T16:46+01:00",
-      "teaser": "W ramach nowej architektury bezpieczeństwa Europy, omawianej przy okazji rozmów dotyczących zakończenia wojny na Ukrainie, Rosja mogłaby zawrzeć pakt o nieagresji z państwami NATO – wynika ze słów rosyjskiego dyplomaty, przytaczanych przez agencję Reutera."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Alarm w Mołdawii. Dwa pociski wleciały w przestrzeń powietrzną",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45475801-alarm-w-moldawii-dwa-pociski-wlecialy-w-przestrzen-powietrzna",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T16:40+01:00",
-      "teaser": "Dwa pociski manewrujące wleciały w przestrzeń powietrzną Mołdawii. Kiszyniów wzywa Rosję do zaprzestania ataków na Ukrainę."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Annual Polish Independence March passes through Warsaw",
-      "url": "https://notesfrompoland.com/2026/11/11/annual-polish-independence-march-passes-through-warsaw/",
-      "source": "Notes from Poland",
-      "date": "2026-11-11T15:34+00:00",
-      "teaser": "This year's event took place amid heightened security following the deadly terrorist attack in Kraków four days earlier."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Groźby wobec Kierwińskiego i jego dzieci. Służby zabezpieczyły broń. Policja postawiła zarzuty",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33127870,grozby-wobec-kierwinskiego-i-jego-dzieci-sluzby-zabezpieczyly.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-11T15:15+00:00",
-      "teaser": "Sprawa dotyczy wpisu opublikowanego na Facebooku. Jego autor twierdzi, że choć ma odmienne poglądy polityczne od ministra, nie chciał wyrządzić krzywdy ani jemu, ani członkom rodziny szefa MSWiA."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Juan nie zastąpił Rosji dolara. Fiasko planu Kremla",
-      "url": "https://www.rp.pl/waluty/art45475211-juan-nie-zastapil-rosji-dolara-fiasko-planu-kremla",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-11T16:04+01:00",
-      "teaser": "Wojna Putina odcięła Rosjan i gospodarkę kraju od dolara i euro. Import obu walut do kraju agresora i handel w tych walutach został zakazany sankcjami. Kreml ogłosił, że dolara zastąpi juan. Teraz już wiadomo, że nic z tego nie wyszło."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Berlin nie ma pieniędzy na „gest humanitarny”. Pomóc chcą zwykli Niemcy",
-      "url": "https://www.dw.com/pl/berlin-nie-ma-pieniędzy-na-gest-humanitarny-pomóc-chcą-zwykli-niemcy/a-79920765?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-11T15:08+00:00",
-      "teaser": "Zwykli Niemcy zaczynają wpłacać pieniądze na rzecz polskich ofiar wojny. W budżecie państwa brakuje środków na „gest humanitarny”."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 6.0,
+    "score": 5.93,
     "items": [
      {
-      "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – business live",
-      "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+      "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+      "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
       "source": "The Guardian",
-      "date": "2026-11-11T16:12+00:00",
-      "teaser": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia’s stock is expected to recover some lost ground today. Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time. “The FTSE 100 advanced 0.8% to 10,835"
+      "date": "2026-11-11T11:49+00:00",
+      "teaser": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Business live – latest updates Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an "
      },
      {
       "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
       "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
       "source": "New York Times",
-      "date": "2026-11-11T16:23+00:00",
+      "date": "2026-11-11T17:11+00:00",
       "teaser": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed."
      },
      {
@@ -624,7 +659,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.85,
+    "score": 5.72,
     "items": [
      {
       "title": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
@@ -651,7 +686,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.85,
+    "score": 3.72,
     "items": [
      {
       "title": "Volkswagen: VW stoppt Projekt „Gamechanger“: Was wirklich dahintersteckt",
@@ -671,7 +706,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.63,
     "items": [
      {
       "title": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
@@ -691,7 +726,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.71,
+    "score": 3.57,
     "items": [
      {
       "title": "Tonies ruft Kinderliederfigur mit Musik von Helene Fischer zurück",
@@ -711,7 +746,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.55,
+    "score": 3.42,
     "items": [
      {
       "title": "\"Tankrabatt\" drückt Inflation im Oktober",
@@ -731,14 +766,27 @@
    },
    {
     "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Wall Street: KI-Euphorie ist zurück – Tech-Aktien legen deutlich zu",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-ki-euphorie-ist-zurueck-tech-aktien-legen-deutlich-zu/100269138.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-11T17:56+00:00",
+      "teaser": "Die hohe Inflation drückt die Stimmung nicht allzu lange: Der offenbar hohe Andrang auf den Börsengang von Anthropic sowie starke Quartalszahlen motivieren Anleger zum Kauf von Tech-Aktien."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
     "score": 1.99,
     "items": [
      {
-      "title": "Nach guten Quartalszahlen: RWE hat weitere Kapazitäten fertig für Gaskraftwerksauktion",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rwe-steigert-gewinn-und-greift-bei-naechster-gaskraftwerksauktion-an-201672841.html",
+      "title": "Business-Ticker: Lufthansa fliegt wieder nach Dubai - aber stark abgespeckt",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lufthansa-fliegt-wieder-nach-dubai-faz-200452404.html",
       "source": "FAZ",
-      "date": "2026-11-11T16:15+00:00",
-      "teaser": "RWE hat in den ersten drei Quartalen gut verdient. Anlässlich der positiven Zahlen äußert sich der Finanzchef auch zu möglichen Ambitionen in den Kraftwerksauktionen und im Verkaufsprozess des Energiekonzerns Uniper."
+      "date": "2026-11-11T17:52+00:00",
+      "teaser": "Unterbrechung beendet +++ Fresenius baut die Beteiligung an FMC weiter ab +++ Kündigungsschutz-Lockerung soll erst 2028 greifen +++ IG Metall will eine Verschärfung nach ergebnislosen ‌Verhandlungen +++ alle Neuigkeiten im Unternehmen-Liveblog"
      }
     ]
    },
@@ -747,71 +795,100 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Schufa passt alte Scores zur Bewertung der Kreditwürdigkeit an neue Datenschutzvorgaben an",
-      "url": "https://www.spiegel.de/wirtschaft/schufa-passt-alte-scores-zur-bewertung-der-kreditwuerdigkeit-an-neue-datenschutzvorgaben-an-a-7613c691-0b88-45ef-8d8e-b2ee39ceae46#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-11T17:06+01:00",
-      "teaser": "Wessen Bonität von der Auskunftei Schufa als schlecht bewertet wird, hat meist große Schwierigkeiten, einen Handy- oder Mietvertrag abzuschließen. Nun werden bei den Scores strengere Vorgaben umgesetzt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Energie: Falls das Gas im Winter ausgeht: Bundesregierung bereitet Kohlekraftwerke auf Notfall-Einsatz vor",
-      "url": "https://www.handelsblatt.com/politik/deutschland/energie-bundesregierung-bereitet-kohlekraftwerke-fuer-notfall-vor/100268899.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-11T16:03+00:00",
-      "teaser": "Die Bundesregierung will nach Handelsblatt-Informationen per Gesetz Kraftwerksbetreiber verpflichten, sich für einen Notfallbetrieb bereitzuhalten. Sie sollen schon Kohle und Öl beschaffen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Sachverständigenrat: Heilige Kühe opfern",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftsweise-warnen-merz-und-klingbeil-heilige-kuehe-opfern-201673025.html",
-      "source": "FAZ",
-      "date": "2026-11-11T16:03+00:00",
-      "teaser": "Die Wirtschaftsweisen präsentieren eine Rechnung für die Schuldentürme auch der schwarz-roten Koalition. Doch Steuererhöhungen sind tunlichst zu vermeiden. Besser wäre etwas anderes."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
-      "url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-      "source": "CNBC",
-      "date": "2026-11-11T15:57+00:00",
-      "teaser": "JetBlue will give reporters a look at its new first class seats on Wednesday."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
       "title": "US tech stocks surge as AI trade revives",
       "url": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-11T15:54+00:00",
+      "date": "2026-11-11T17:42+00:00",
       "teaser": "Nasdaq erases last week’s losses as better-than-expected CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "dm ruft Proteinriegel zurück – wegen möglicher Kunststoffteile",
+      "url": "https://www.spiegel.de/wirtschaft/service/dm-ruft-proteinriegel-zurueck-wegen-moeglicher-kunststoffteile-a-4f68ea74-d97c-4191-86f6-3d99bd373d5a#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-11T18:38+01:00",
+      "teaser": "Die Drogeriemarktkette dm ruft den »Sportness 50% Proteinriegel mit Crispy-White-Chocolate-Geschmack, 45 Gramm« zurück, weil sich möglicherweise Kunststoffteile darin befinden. Betroffen sind allerdings nur bestimmte Chargen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+      "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+      "source": "CNBC",
+      "date": "2026-11-11T17:34+00:00",
+      "teaser": "American Airlines' first class food options include sandwiches, fruit and chia bowls"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Silicon Valley Tech Allies Support Jensen Huang",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+      "source": "New York Times",
+      "date": "2026-11-11T17:29+00:00",
+      "teaser": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure."
      }
     ]
    }
   ],
   "Sport": [
    {
-    "sourceCount": 5,
-    "score": 7.91,
+    "sourceCount": 1,
+    "score": 7.86,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Seguimiento desigual de la huelga en el Barça",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249943/seguimiento-desigual-huelga-barca.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-11T17:16+01:00",
+      "teaser": "La huelga general convocada por los principales sindicatos del país para este miércoles 11 de Noviembre tuvo un seguimiento desigual en el FC Barcelona . El club dio libertad a sus empleados para que pudieran ejercer su derecho a huelga y también dio facilidades a los empleados que trabajan en ofici"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.76,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Laporta estará el sábado en el homenaje a Johan Cruyff en Nueva York",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249917/laporta-estara-sabado-homenaje-johan-cruyff-nueva-york.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-11T16:03+01:00",
+      "teaser": "Joan Laporta, presidente del FC Barcelona, viajará este viernes a Nueva York para participar el sábado en la 3ª Edición del Memorial Johan Cruyff , organizado por la Fundació Veterans de Sitges y por el Catalan Institute of America con el objetivo de homenajear el legado y la figura de la leyenda az"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.71,
+    "favorite": true,
+    "items": [
+     {
+      "title": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
+      "url": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
+      "source": "The Guardian",
+      "date": "2026-11-11T14:30+00:00",
+      "teaser": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes Lifelong supporters of Barcelona football club will soon be able to cheer on the club from beyond the grave – but, like everything else at Barça, eternal devotion comes at a p"
+     }
+    ]
+   },
+   {
+    "sourceCount": 4,
+    "score": 5.78,
     "items": [
      {
       "title": "Felix Nmecha: Dortmund-Profi äußert sich zu umstrittenen Torjubel",
@@ -828,79 +905,37 @@
       "teaser": "Nach erneuter Kritik an seiner Jubelgeste bezieht Nationalspieler Felix Nmecha nun selbst Stellung. Auch bei der deutschen Nationalmannschaft ist das Thema präsent."
      },
      {
-      "title": "Felix Nmecha: „Mein Torjubel hat zu Missverständnissen geführt“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/felix-nmecha-erklaert-umstrittenen-torjubel-auf-instagram-accg-201668163.html",
-      "source": "FAZ",
-      "date": "2026-11-10T06:24+00:00",
-      "teaser": "Nach wiederkehrender Kritik an seiner Jubelgeste bezieht Nationalspieler Felix Nmecha nun selbst Stellung. Der Dortmunder erklärt sich in einer Story bei Instagram."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.89,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Laporta estará el sábado en el homenaje a Johan Cruyff en Nueva York",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249917/laporta-estara-sabado-homenaje-johan-cruyff-nueva-york.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-11T16:03+01:00",
-      "teaser": "Joan Laporta, presidente del FC Barcelona, viajará este viernes a Nueva York para participar el sábado en la 3ª Edición del Memorial Johan Cruyff , organizado por la Fundació Veterans de Sitges y por el Catalan Institute of America con el objetivo de homenajear el legado y la figura de la leyenda az"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.84,
-    "favorite": true,
-    "items": [
-     {
-      "title": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
-      "url": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
-      "source": "The Guardian",
-      "date": "2026-11-11T14:30+00:00",
-      "teaser": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes Lifelong supporters of Barcelona football club will soon be able to cheer on the club from beyond the grave – but, like everything else at Barça, eternal devotion comes at a p"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.8,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Ter Stegen habla de su relación con Flick y su futuro en el Barça",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249904/ter-stegen-habla-relacion-flick-futuro-barca.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-11T14:59+01:00",
-      "teaser": "Marc ter Stegen , guardameta del FC Barcelona cedido en el Ajax y con contrato con el equiop azulgrana hasta 2028, habló de su futuro en el Spotify Camp Nou y de su relación con Hansi Flick ."
+      "title": "Felix Nmecha: BVB-Spieler Nmecha äußert sich zu umstrittenem Torjubel",
+      "url": "https://www.zeit.de/sport/2026-11/felix-nmecha-torjubel-krone-ballers-in-god-bvb-gxe",
+      "source": "Zeit",
+      "date": "2026-11-10T15:20+00:00",
+      "teaser": "Felix Nmecha hat seinen Torjubel verteidigt, der mit einem evangelikalen Netzwerk in Verbindung gebracht wird. Der BVB soll ihn gebeten haben, anders zu jubeln."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.91,
     "items": [
-     {
-      "title": "Scherhant und Treu: Zwei Aufsteiger im Gleichschritt",
-      "url": "https://www.kicker.de/scherhant-und-treu-zwei-aufsteiger-im-gleichschritt-1270715/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-11T14:20+00:00",
-      "teaser": "Zum Einstand des neuen Bundestrainers Jürgen Klopp gaben auch Philipp Treu und Derry Scherhant ihre Debüts in der Nationalmannschaft. Vor dem nun anstehenden Doppelpack in der Nations League bekleiden beide bereits wichtige Rollen."
-     },
      {
       "title": "Scherhant und Treu - mit Demut auf der Überholspur",
       "url": "https://www.sportschau.de/fussball/nationalmannschaft/treu-und-scherhant-mit-demut-auf-der-ueberholspur,dfb-team-nations-league-treu-scherhant-100.html",
       "source": "Sportschau",
       "date": "2026-11-11T15:22+01:00",
       "teaser": "Die beiden Freiburger Derry Scherhant und Philipp Treu haben in der Nations League bisher voll überzeugt. Sie sind auf der Überholspur - mit viel Demut und Bescheidenheit."
+     },
+     {
+      "title": "DFB-Team: Wie Philipp Treu und Derry Scherhant die Herausforderungen des DFB zeigen",
+      "url": "https://www.spiegel.de/sport/fussball/dfb-team-wie-philipp-treu-und-derry-scherhant-die-herausforderungen-des-dfb-zeigen-a-0827eff1-7d20-4a65-80a1-84995a05226e#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-11T17:56+01:00",
+      "teaser": "Die hochgelobten Freiburger Philipp Treu und Derry Scherhant sind über Umwege Nationalspieler geworden. Sie zeigen, vor welchen Herausforderungen das DFB-Team steht."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 3.83,
+    "score": 3.69,
     "items": [
      {
       "title": "Nach Zusammenbruch: Vincent Kompany ist zurück auf dem Bayern-Gelände",
@@ -927,7 +962,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.52,
+    "score": 2.38,
     "items": [
      {
       "title": "Champions League: FC Bayern dringt in Spitzengruppe vor",
@@ -947,66 +982,66 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
     "items": [
      {
-      "title": "Nationalmannschaft: Die fünf wichtigsten Fragen für Jürgen Klopp",
-      "url": "https://www.11freunde.de/em/nationalmannschaft-die-fuenf-wichtigsten-fragen-fuer-juergen-klopp-a-9a2d2e75-c506-43c5-924d-2a2ecec46e62#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-11T17:00+01:00",
-      "teaser": "Louis blickt auf die fünf wichtigsten Fragen vor Klopps nächster Länderspielpause: Wie sieht das Mittelfeld aus, bleibt Scherhant gesetzt und bekommt Mohya sein Debüt?"
+      "title": "Trotz schneller Karius-Rückkehr: Schalke auf der Intensivstation",
+      "url": "https://www.kicker.de/trotz-schneller-karius-rueckkehr-schalke-auf-der-intensivstation-1270728/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-11T17:50+00:00",
+      "teaser": "Schalke 04 befindet sich im Herbst 2026 in sportlicher Hinsicht auf der Intensivstation, personell hängt der Vorletzte am Tropf. Loris Karius ist zwar schon wieder ins Mannschaftstraining zurückgekehrt, doch etliche weitere Kräfte fehlen derzeit. Der kicker erklärt die Lage."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
     "items": [
      {
-      "title": "Pochettino ready to accept Man Utd offer to replace Carrick",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T16:03+00:00",
-      "teaser": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Top four teams in Fifa rankings set to be kept apart until semi-finals at 2027 Women’s World Cup",
-      "url": "https://www.theguardian.com/football/2026/nov/11/womens-world-cup-top-four-groups",
-      "source": "The Guardian",
-      "date": "2026-11-11T16:03+00:00",
-      "teaser": "Team must win World Cup group to trigger rule Spain, US, Germany and England currently in top four The top four-ranked teams will be separated until the semi-finals at the 2027 Women’s World Cup, provided they each win their group, after a change to the tournament’s draw procedure was confirmed by F"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Bristol City give Skubala opportunity to improve form",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c54gnev0ydnno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T15:52+00:00",
-      "teaser": "Bristol City chief executive Charlie Boss says head coach Michael Skubala will be given more time to improve their results."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Fünf Jahre nach Sturzflut: Eiskanal am Königssee wiedereröffnet",
-      "url": "https://www.sportschau.de/regional/br/br-fuenf-jahre-nach-sturzflut-eiskanal-am-koenigssee-wiedereroeffnet-102.html",
+      "title": "DFB-Elf will sich gegen Serbien Endspiel erarbeiten",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-elf-will-sich-gegen-serbien-endspiel-erarbeiten,video-dfb-adidas-abschied-100.html",
       "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-11T16:53+01:00",
-      "teaser": "Fünf Jahre nach der Zerstörung durch eine Sturzflut wurde die Bob- und Rodelbahn am Königssee am Mittwoch offiziell wieder in Betrieb genommen. Viele Kufensportler hatten lange auf diesen Tag gewartet – doch es gibt auch Kritik an dem Großprojekt."
+      "date": "2026-11-11T18:51+01:00",
+      "teaser": "Das DFB-Team bereitet sich in Herzogenaurach auf die Partie gegen Serbien vor. Mit einem Sieg will sich Deutschland ein Endspiel um den Halbfinaleinzug in der Nations League erarbeiten."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "LIVE! Turbulenter Beginn: Eindhovens Hendriks sieht nach Foul an Freigang Rot",
+      "url": "https://www.kicker.de/live-turbulenter-beginn-eindhovens-hendriks-sieht-nach-foul-an-freigang-rot-1270760/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-11T17:40+00:00",
+      "teaser": "Nach dem 2:0-Erfolg im Hinspiel gehen die Frauen von Eintracht Frankfurt am Mittwochabend mit einer guten Ausgangslage in das Achtelfinal-Rückspiel des Women's Europa Cup gegen PSV Eindhoven."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Fußball in Türkei: Warum kurdische Fans mit Galatasaray brechen",
+      "url": "https://www.faz.net/aktuell/sport/fussball/galatasaray-istanbul-darum-wandern-die-kurdischen-fans-ab-201667795.html",
+      "source": "FAZ",
+      "date": "2026-11-11T17:35+00:00",
+      "teaser": "Mit einem Instagram-Post provoziert der Istanbuler Großklub Galatasaray seine kurdischen Anhänger. Viele wenden sich dem Verein der Stunde zu: Amedspor."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Legally restrict heading a football in training, says MP",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1ewpjyy3dzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T17:38+00:00",
+      "teaser": "An MP is calling for legal safeguards to limit repetitive heading in football training, amid growing concerns about the risk of brain injury."
      }
     ]
    }
@@ -1014,7 +1049,7 @@
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 5.93,
+    "score": 5.79,
     "items": [
      {
       "title": "The Jensen Huang Affair",
@@ -1041,13 +1076,13 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.93,
     "items": [
      {
       "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
       "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
       "source": "New York Times",
-      "date": "2026-11-11T16:00+00:00",
+      "date": "2026-11-11T17:11+00:00",
       "teaser": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed."
      },
      {
@@ -1061,7 +1096,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge",
+      "date": "2026-11-11T10:53-05:00",
+      "teaser": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t ne"
+     },
+     {
+      "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/",
+      "source": "Wired",
+      "date": "2026-11-11T17:08+00:00",
+      "teaser": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.71,
     "items": [
      {
       "title": "Patchday bei Microsoft: Dieses Outlook-Update solltest du schnell installieren",
@@ -1081,79 +1136,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Anzeige: Xiaomi Poco F8 Ultra zum niedrigsten Preis seit Monaten bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-xiaomi-poco-f8-ultra-zum-niedrigsten-preis-seit-monaten-bei-amazon-2611-215103.html",
-      "source": "Golem",
-      "date": "2026-11-11T17:18+01:00",
-      "teaser": "Im frühen Black Friday Angebot verkauft Amazon das Xiaomi Poco F8 Ultra mit 12+256 GByte Speicher so günstig wie lange nicht. ( Black Friday , Smartphone )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
-      "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
-      "source": "Wired",
-      "date": "2026-11-11T16:13+00:00",
-      "teaser": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Militärische KI-Plattform: Helsing stellt europäische Alternative zu Palantir vor",
-      "url": "https://www.golem.de/news/militaerische-ki-plattform-helsing-stellt-europaeische-alternative-zu-palantir-vor-2611-215099.html",
-      "source": "Golem",
-      "date": "2026-11-11T17:08+01:00",
-      "teaser": "Die KI-Plattform Clarity soll große Datenmengen parallel verarbeiten können. Laut Helsing wurden die KI-Modelle und -Agenten in Europa entwickelt. ( Militär , Wirtschaft )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
     "score": 1.97,
     "items": [
      {
-      "title": "Anzeige: Logitech MX Master 4 jetzt so günstig wie noch niemals zuvor bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-logitech-mx-master-4-jetzt-so-guenstig-wie-noch-niemals-zuvor-bei-amazon-2611-215094.html",
-      "source": "Golem",
-      "date": "2026-11-11T17:05+01:00",
-      "teaser": "Die Logitech MX Master 4 vibriert unter dem Daumen und scrollt rasend schnell. Mit Coupon und Cashback wird sie jetzt richtig günstig. ( Technik/Hardware , Mac )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Sicherheitsroboter für dein Zuhause: Ring bringt Drohne und Rover auf den Markt",
-      "url": "https://t3n.de/news/neue-sicherheitsroboter-fuer-dein-zuhause-ring-bringt-drohne-und-rover-auf-den-markt-1773001/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-11T17:00+01:00",
-      "teaser": "Ring steigt ins Roboter-Business ein. Eine Drohne und ein Rover sollen Häuser und Büros rund um die Uhr per Video überwachen. Zumindest bei Fluggeräten ist es nicht der erste Versuch der Amazon-Tochter. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "source": "The Verge",
-      "date": "2026-11-11T11:00-05:00",
-      "teaser": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature tha"
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "source": "Ars Technica",
+      "date": "2026-11-11T17:37+00:00",
+      "teaser": "Any amount of AI coding is too much for many Indie Game Festival judges."
      }
     ]
    },
@@ -1162,11 +1152,11 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Start im Januar 2027 geplant: Delos übernimmt operativen Betrieb von Microsoft",
-      "url": "https://www.golem.de/news/start-im-januar-2027-geplant-delos-uebernimmt-operativen-betrieb-von-microsoft-2611-215096.html",
+      "title": "Single-Player-Kampagne von Star Citizen: Mark Hamill spielt Squadron 42 in VR",
+      "url": "https://www.golem.de/news/single-player-kampagne-von-star-citizen-mark-hamill-spielt-squadron-42-in-vr-2611-215104.html",
       "source": "Golem",
-      "date": "2026-11-11T16:52+01:00",
-      "teaser": "Die Delos Cloud ermöglicht es Behörden, mit Microsoft-Produkten weiterzuarbeiten. Die Kritik daran bleibt. ( Souveränität , Microsoft )"
+      "date": "2026-11-11T18:32+01:00",
+      "teaser": "Die Macher von Star Citizen zeigen im Video neues Gameplay von Squadron 42. Auch Mark Hamill persönlich durfte hinters Steuer. ( Star Citizen , Spiele )"
      }
     ]
    },
@@ -1175,11 +1165,24 @@
     "score": 1.96,
     "items": [
      {
-      "title": "The best early Black Friday deals you can already shop",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "source": "The Verge",
-      "date": "2026-11-11T10:53-05:00",
-      "teaser": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t ne"
+      "title": "Silicon Valley Tech Allies Support Jensen Huang",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+      "source": "New York Times",
+      "date": "2026-11-11T17:29+00:00",
+      "teaser": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
+      "url": "https://www.golem.de/news/produktion-des-id-golf-vw-stoppt-projekt-gamechanger-fuer-wolfsburg-2611-215105.html",
+      "source": "Golem",
+      "date": "2026-11-11T18:13+01:00",
+      "teaser": "Aus Kostengründen verzichtet VW auf ein neues Gussverfahren für den Elektro-Golf. Der ID.3 wird länger in Zwickau produziert. ( Volkswagen ID. , Elektroauto )"
      }
     ]
    },
@@ -1188,11 +1191,50 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Teardown des Macbook Pro mit Touchscreen zeigt: Diese Hürden gibt es bei Reparaturen",
-      "url": "https://t3n.de/news/macbook-pro-touchscreen-teardown-1772983/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+      "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+      "source": "The Verge",
+      "date": "2026-11-11T12:09-05:00",
+      "teaser": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which a"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "(g+) Opinion: 'Delayering' Is the New Code Word for 'AI Took Your Job'",
+      "url": "https://www.golem.de/news/opinion-delayering-is-the-new-code-word-for-ai-took-your-job-2611-215102.html",
+      "source": "Golem",
+      "date": "2026-11-11T18:00+01:00",
+      "teaser": "Financial technology firm Chime Financial Corp. boasted this year that it was using artificial intelligence tools to transition to smaller teams with \"fewer layers.\" What unholy strain of consultant-speak is delayering? Von Jonathan Levin ( KI , Software )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Schlafanalyse: Wie eine Open-Source-KI deinen Schlaf auf die Sekunde genau auswertet",
+      "url": "https://t3n.de/news/schlafanalyse-wie-eine-open-source-ki-deinen-schlaf-auf-die-sekunde-genau-auswertet-1773027/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n",
-      "date": "2026-11-11T16:30+01:00",
-      "teaser": "Wie gut lässt sich das neue Macbook Pro mit Touchscreen wirklich reparieren, sollte es einen Schaden erleiden? Diese Frage haben die Expert:innen von iFixit in einem Teardown geklärt und dabei spannende Details aus dem Innenleben des Apple-Laptops offenbart. weiterlesen auf t3n.de"
+      "date": "2026-11-11T18:00+01:00",
+      "teaser": "In einer halben Minute Schlaf kann eine Menge passieren, was Messungen bisher entgeht. Ein Forschungsteam der FH Aachen hat mit AnySleep jetzt ein Open-Source-Modell entwickelt, das Gehirnströme sekundengenau analysiert. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "source": "Ars Technica",
+      "date": "2026-11-11T17:04+00:00",
+      "teaser": "Apple has already made the forum read-only."
      }
     ]
    }
@@ -1281,7 +1323,7 @@
    "topic": "Welt & Politik",
    "source": "Politico",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "topic": "Welt & Politik",
@@ -1449,7 +1491,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "CNBC",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1473,13 +1515,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 2
+   "items": 4
   },
   {
    "topic": "Sport",
@@ -1545,7 +1587,7 @@
    "topic": "Tech & KI",
    "source": "BBC",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "topic": "Tech & KI",
