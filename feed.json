@@ -1,10 +1,37 @@
 {
- "fetchedAt": "2026-11-12T19:00:11+00:00",
+ "fetchedAt": "2026-11-12T19:59:18+00:00",
  "topics": {
   "Welt & Politik": [
    {
+    "sourceCount": 7,
+    "score": 13.99,
+    "items": [
+     {
+      "title": "Putin indicates he will not compromise on Ukraine in meeting with US envoys",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374265/putin-indicates-he-will-not-compromise-ukraine-meeting-us-envoys",
+      "source": "South China Morning Post",
+      "date": "2026-11-12T19:05+00:00",
+      "teaser": "Vladimir Putin indicated on Thursday that Russia will not compromise on its hardline demands to end the Ukraine offensive but offered a short-term ceasefire in a key frontline city during a Kremlin meeting with US envoys. The Russian president said he would not water down his demands to control part"
+     },
+     {
+      "title": "U.S. envoys Kushner, Witkoff meet with Putin at Kremlin in talks to end Russia-Ukraine war",
+      "url": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-12T09:48-05:00",
+      "teaser": "U.S. President Donald Trump's envoys met with Russian President Vladimir Putin on Thursday as Washington sought new momentum in peace efforts after two days of U.S.-mediated negotiations between Russian and Ukrainian delegations."
+     },
+     {
+      "title": "Trump, Putin to discuss Ukraine peace settlement during meeting in China, Kremlin says",
+      "url": "https://kyivindependent.com/trump-putin-to-discuss-ukraine-peace-settlement-during-meeting-in-china-kremlin-says/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-12T19:49+00:00",
+      "teaser": "\"Naturally, during the planned meeting with (Trump) at the APEC summit in Shenzhen, we will continue to discuss the full range of issues related to the settlement,\" Kremlin aide Yuri Ushakov claimed."
+     }
+    ]
+   },
+   {
     "sourceCount": 6,
-    "score": 11.96,
+    "score": 11.88,
     "items": [
      {
       "title": "Israeli strike on Gaza hospital kills 11 in deadliest attack since election",
@@ -30,35 +57,8 @@
     ]
    },
    {
-    "sourceCount": 5,
-    "score": 9.96,
-    "items": [
-     {
-      "title": "U.S. envoys Kushner, Witkoff meet with Putin at Kremlin in talks to end Russia-Ukraine war",
-      "url": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-12T09:48-05:00",
-      "teaser": "U.S. President Donald Trump's envoys met with Russian President Vladimir Putin on Thursday as Washington sought new momentum in peace efforts after two days of U.S.-mediated negotiations between Russian and Ukrainian delegations."
-     },
-     {
-      "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
-      "source": "NPR",
-      "date": "2026-11-12T04:38-05:00",
-      "teaser": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday."
-     },
-     {
-      "title": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy",
-      "url": "https://www.pbs.org/newshour/world/u-s-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-head-for-dublin-to-see-zelenskyy",
-      "source": "PBS NewsHour",
-      "date": "2026-11-12T12:22-05:00",
-      "teaser": "Kushner and Witkoff met with Putin in a meeting that lasted about two hours. They then headed for Dublin for talks with Zelenskyy as the conflict stretches toward the five-year mark."
-     }
-    ]
-   },
-   {
     "sourceCount": 4,
-    "score": 7.87,
+    "score": 7.79,
     "items": [
      {
       "title": "Nvidia CEO Jensen Huang resigns after revelations on extramarital affairs",
@@ -85,7 +85,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.46,
+    "score": 7.38,
     "favorite": true,
     "items": [
      {
@@ -98,8 +98,82 @@
     ]
    },
    {
+    "sourceCount": 3,
+    "score": 5.99,
+    "items": [
+     {
+      "title": "Gaza: Mehrere Tote nach israelischem Angriff auf Nasser-Krankenhaus",
+      "url": "https://www.spiegel.de/ausland/gaza-mehrere-tote-nach-israelischem-angriff-auf-nasser-krankenhaus-a-38b81b5b-b4ea-4d0b-978c-b50bf1a43084#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-12T20:49+01:00",
+      "teaser": "Israels Armee hat einen Angriff auf das Nasser-Krankenhaus im südlichen Gazastreifen ausgeführt, man habe einen Hamas-Anführer treffen wollen. Die Hamas spricht ihrerseits von einem »Kriegsverbrechen«. Sechs Menschen wurden demnach getötet, Dutzende verletzt."
+     },
+     {
+      "title": "Mehrere Tote bei Hauseinsturz in New York",
+      "url": "https://www.dw.com/de/mehrere-tote-bei-hauseinsturz-in-new-york/a-79927649?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-12T10:34+00:00",
+      "teaser": "\"Das ganze Gebäude fing an zu schwanken, und dann ist es einfach eingestürzt\", sagt eine Zeugin des Unglücks. Für die Feuerwehrleute ist es ein gefährlicher Einsatz. Suchhunde sollen mögliche Verschüttete finden."
+     },
+     {
+      "title": "Nasser-Krankenhaus im Gazastreifen: Elf Tote bei israelischen Angriffen im Gazastreifen",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/nasser-krankenhaus-gazastreifen-chan-junis-israel-hamas-angriff",
+      "source": "Zeit",
+      "date": "2026-11-12T19:00+00:00",
+      "teaser": "Israel hat laut dem Zivilschutz der Hamas erneut den Gazastreifen angegriffen und dabei ein Krankenhaus getroffen. Mehrere Menschen starben, viele wurden verletzt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.92,
+    "items": [
+     {
+      "title": "Trump says US does not ‘need a deal with Iran’",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374257/trump-says-us-does-not-need-deal-iran",
+      "source": "South China Morning Post",
+      "date": "2026-11-12T14:17+00:00",
+      "teaser": "US President Donald Trump said Thursday that he was directing Vice-President J.D. Vance to focus completely on domestic anti-fraud efforts and not negotiations towards a deal to end war with Tehran. “We don’t need a deal with Iran. Those days have long since passed. We’ve got their money, Hundreds o"
+     },
+     {
+      "title": "Trump says U.S. does not ‘need a deal with Iran’",
+      "url": "https://www.thehindu.com/news/international/trump-says-us-does-not-need-a-deal-with-iran/article71695103.ece",
+      "source": "The Hindu",
+      "date": "2026-11-12T23:02+05:30",
+      "teaser": "His comments came shortly after the Wall Street Journal reported that Vice-President J.D. Vance was mulling face-to-face talks with a top Iranian security official"
+     },
+     {
+      "title": "Trump says US does not 'need' Iran deal",
+      "url": "https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892",
+      "source": "ABC Australia",
+      "date": "2026-11-12T19:01+00:00",
+      "teaser": "Donald Trump's comments come after reports his vice-president was considering face-to-face peace talks with a hard-line Iranian security official."
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "Donald Trump weist JD Vance zurecht – Vize soll sich nicht um Iran kümmern",
+      "url": "https://www.spiegel.de/ausland/donald-trump-weist-jd-vance-zurecht-vize-soll-sich-nicht-um-iran-kuemmern-a-1b62d01a-55fd-4a6d-85c3-44b4558eed82#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-12T19:57+01:00",
+      "teaser": "JD Vance machte den Irankrieg für die Midterm-Schlappe der Republikaner verantwortlich und warb für Verhandlungen mit dem Land. Jetzt pfeift Trump seinen Vize brüsk zurück."
+     },
+     {
+      "title": "USA unter Trump: Trump weist Vance zurecht: Aufmerksamkeit nicht auf Iran richten",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-weist-vance-zurecht-aufmerksamkeit-nicht-auf-iran-richten-faz-19444916.html",
+      "source": "FAZ",
+      "date": "2026-11-12T14:23+00:00",
+      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.88,
     "items": [
      {
       "title": "Hegseth, wife and aides spark scolding from guard at Tomb of the Unknown Soldier",
@@ -119,14 +193,14 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.84,
     "items": [
      {
       "title": "Suspect shoots himself after killing 1 and wounding 4 in Washington",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3374259/5-people-shot-neighbourhood-north-us-white-house",
       "source": "South China Morning Post",
       "date": "2026-11-12T14:23+00:00",
-      "teaser": "Five people were shot early on Thursday in a trendy Washington neighbourhood within walking distance of the White House, police said, and the suspected gunman later shot himself as a swarm of officers responded to a nearby block of flats where he was barricaded. One victim died in the shooting, said"
+      "teaser": "A gunman killed a man inside a busy gym during morning workouts on Thursday before fleeing and shooting four more people, shocking a popular Washington neighbourhood and attracting a swarm of police officers who ascended to the roof of a residential building during the search and chaos. The gunman f"
      },
      {
       "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
@@ -139,10 +213,10 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.89,
+    "score": 3.81,
     "items": [
      {
-      "title": "One Shot Dead and Four Wounded Around Washington, D.C., Condo Building",
+      "title": "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
       "url": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
       "source": "New York Times (USA)",
       "date": "2026-11-12T17:42+00:00",
@@ -159,47 +233,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.89,
-    "items": [
-     {
-      "title": "Israel to ban far-left French politician Jean-Luc Mélenchon from entry",
-      "url": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry",
-      "source": "France 24",
-      "date": "2026-11-12T17:43+00:00",
-      "teaser": "The Israeli government said Thursday that it would ban far-left French leader Jean-Luc Mélenchon from entering the country after the French presidential contender said he would use French vessels to force aid into Gaza if he were elected. The announcement comes a day after France confirmed it had re"
-     },
-     {
-      "title": "Prominent Israeli settler denied entry into France",
-      "url": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-12T16:44+00:00",
-      "teaser": "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.88,
-    "items": [
-     {
-      "title": "Trump says US does not ‘need a deal with Iran’",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374257/trump-says-us-does-not-need-deal-iran",
-      "source": "South China Morning Post",
-      "date": "2026-11-12T14:17+00:00",
-      "teaser": "US President Donald Trump said Thursday that he was directing Vice-President J.D. Vance to focus completely on domestic anti-fraud efforts and not negotiations towards a deal to end war with Tehran. “We don’t need a deal with Iran. Those days have long since passed. We’ve got their money, Hundreds o"
-     },
-     {
-      "title": "Trump says U.S. does not ‘need a deal with Iran’",
-      "url": "https://www.thehindu.com/news/international/trump-says-us-does-not-need-a-deal-with-iran/article71695103.ece",
-      "source": "The Hindu",
-      "date": "2026-11-12T23:02+05:30",
-      "teaser": "His comments came shortly after the Wall Street Journal reported that Vice-President J.D. Vance was mulling face-to-face talks with a top Iranian security official"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.72,
     "items": [
      {
       "title": "Death toll climbs to 8 in Brooklyn building collapse",
@@ -219,27 +253,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.62,
-    "items": [
-     {
-      "title": "Erneut Bombendrohungen gegen hunderte Schulen in Italien",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-schulen-bombendrohungen-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-12T15:25+01:00",
-      "teaser": "In Italien sind erneut Bombendrohungen an Schulen gesendet worden. Es sollen etwa 1.600 Einrichtungen betroffen sein. Die Regierung will Gebäude künftig nur noch räumen lassen, wenn konkrete Hinweise auf eine Gefahr vorliegen."
-     },
-     {
-      "title": "Italien: Hunderte Schulen in Italien melden Erhalt von Bombendrohungen",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/bombendrohungen-schulen-italien-e-mail-evakuierung-giorgia-meloni",
-      "source": "Zeit",
-      "date": "2026-11-12T13:09+00:00",
-      "teaser": "In Italien sind wiederholt Bombendrohungen an Schulen eingegangen, mehrere wurden geräumt. Die Regierung von Giorgia Meloni warnt vor einer Überreaktion."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.61,
+    "score": 3.53,
     "items": [
      {
       "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
@@ -261,7 +275,7 @@
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.66,
+    "score": 5.57,
     "items": [
      {
       "title": "Frühe Bildung: Bundestag beschließt verbindliche Sprachtests für Kinder",
@@ -288,27 +302,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
-    "items": [
-     {
-      "title": "Live: So verbünden sich Putin und Trump",
-      "url": "https://www.zdfheute.de/video/zdfheute-live/ukraine-verhandlungen-kushner-witkoff-100.html",
-      "source": "ZDF",
-      "date": "2026-11-12T19:30+01:00",
-      "teaser": "Trumps Unterhändler haben Putin in Moskau getroffen. Bei den Gesprächen geht es auch um Europas Sicherheitsarchitektur. Welchen Deal streben die USA und Russland an? ZDFheute live analysiert."
-     },
-     {
-      "title": "Ukraine-Gespräche: Putin gibt nichts, bekommt aber wieder etwas von Trump",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/europas-sicherheitsordnung-warum-europa-bei-den-verhandlungen-dabei-sein-muss-201677106.html",
-      "source": "FAZ",
-      "date": "2026-11-12T17:52+00:00",
-      "teaser": "Jetzt soll auch über die Sicherheitsordnung Europas verhandelt werden. Die Europäer müssen dabei sein."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.92,
     "items": [
      {
       "title": "Mercedes stoppt alle neuen Investitionen in Deutschland",
@@ -321,14 +315,138 @@
       "title": "Mercedes prüft Werksschließungen und stoppt Investitionen",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mercedes-prueft-moegliche-werksschliessungen-in-deutschland-102.html",
       "source": "SWR",
-      "date": "2026-11-12T18:04+01:00",
+      "date": "2026-11-12T20:03+01:00",
       "teaser": "Mercedes-Benz erhöht den Druck auf Betriebsrat und IG Metall. Wegen hoher Arbeitskosten stoppt der Autobauer Investitionen in deutsche Standorte."
      }
     ]
    },
    {
+    "sourceCount": 2,
+    "score": 3.74,
+    "items": [
+     {
+      "title": "News des Tages: Nvidia-Chef Jensen Huang tritt zurück, Startchancengesetz für Kitakinder, Hype um Grand Theft Auto 6",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-nvidia-chef-jensen-huang-tritt-zurueck-startchancengesetz-fuer-kitakinder-hype-um-grand-theft-auto-6-a-0b48fa44-e908-4c2c-a96b-b8e54d42e674#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-12T17:51+01:00",
+      "teaser": "Der Nvidia-Chef tritt zurück. Der Bundestag beschließt ein wichtiges Kitagesetz. Und seit heute kann man das gehypteste Videospiel aller Zeiten kaufen, aber noch nicht zocken. Das ist die Lage am Donnerstagabend."
+     },
+     {
+      "title": "Spionage-Affäre: Nvidia-Chef Huang tritt zurück",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-chef-huang-ruecktritt-100.html",
+      "source": "ZDF",
+      "date": "2026-11-12T15:23+01:00",
+      "teaser": "Nvidia-Chef Huang gibt nach einer Affäre mit einer möglichen chinesischen Spionin seinen Posten auf. Finanzchefin Kress übernimmt vorübergehend."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Thüringen: Und jetzt: Fünfzehn Minuten für die Verfassung",
+      "url": "https://www.faz.net/aktuell/politik/inland/verfassungsviertelstunde-christian-tischners-idee-fuer-thueringens-schulen-201676423.html",
+      "source": "FAZ",
+      "date": "2026-11-12T19:37+00:00",
+      "teaser": "In Thüringen sollen Schüler aktuelle Themen im Licht des Grundgesetzes diskutieren. Wie die „Verfassungsviertelstunde“ funktioniert, zeigt eine Klasse in Erfurt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Nervenkitzel: Wenn aus Krawallen ein Event wird",
+      "url": "https://www.faz.net/aktuell/politik/inland/krawalle-als-event-eine-psychologin-ueber-das-sensation-seeking-201659488.html",
+      "source": "FAZ",
+      "date": "2026-11-12T19:36+00:00",
+      "teaser": "Die Krawalle im Zuge der Gen-Z-Demonstration zogen nicht nur Randalierer, sondern auch Schaulustige an. Eine forensische Psychologin ordnet ein."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Zwei Gardisten brechen fast gleichzeitig zusammen",
+      "url": "https://www.zdfheute.de/video/elyseepalast-gardisten-zusammenbruch-video-100.html",
+      "source": "ZDF",
+      "date": "2026-11-12T20:36+01:00",
+      "teaser": "In Anwesenheit des französischen Präsidenten sind zwei Mitglieder der Republikanischen Garde vor dem Élysée-Palast zusammengebrochen. Sie müssen oft sehr lange stillstehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Koalition: Die CDU sieht ihrem Niedergang tatenlos zu",
+      "url": "https://www.faz.net/aktuell/politik/inland/cdu-kann-stromsteuer-nicht-senken-wie-lange-laesst-sich-merz-von-der-spd-vorfuehren-201676923.html",
+      "source": "FAZ",
+      "date": "2026-11-12T19:22+00:00",
+      "teaser": "Die SPD lässt den Kanzler auflaufen. Das ist eine Antwort auf die Vertrauensfrage, ohne dass sie gestellt werden müsste."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Newsblog zu Nahost: Trump: Iran-Deal ist unnötig, Vance soll sich um anderes kümmern",
+      "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-trump-vance-deal-li.3579157",
+      "source": "Süddeutsche",
+      "date": "2026-11-12T19:25+00:00",
+      "teaser": "Die diplomatischen Gespräche stocken, da sagt der US-Präsident, dass eine Übereinkunft mit Teheran eh nicht mehr gebraucht werde. Sein Vize solle sich lieber um Innenpolitik kümmern."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Haushaltsstreit: „Wir kommen in die Hitzezone der Koalition“",
+      "url": "https://www.faz.net/aktuell/politik/inland/haushaltskrach-in-der-unionsfraktion-kommt-die-stromsteuer-doch-noch-201676500.html",
+      "source": "FAZ",
+      "date": "2026-11-12T19:18+00:00",
+      "teaser": "Die Einigung auf den nächsten Haushalt rückt näher. Doch vor allem der CDU fehlen große Reformschritte. Das sorgt für eine wilde Sitzung der Unionsfraktion."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "CDU: Die CDU kann es nicht fassen",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/cdu-bundeshaushalt-lars-klingbeil-bundesregierung-csu",
+      "source": "Zeit",
+      "date": "2026-11-12T19:06+00:00",
+      "teaser": "So viel Wut war selten. In der CDU herrscht nach dem Haushaltskompromiss Entsetzen: über Lars Klingbeil, die CSU – und die eigene Führung."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kann-ihr-kanzler-gut-verhandeln-eher-nicht-finden-sie-in-der-cdu-a-30ef26a9-93f9-4714-84ad-8f353e28d4fc#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-12T20:02+01:00",
+      "teaser": "Friedrich Merz hat sich festgelegt: Die Senkung der Stromsteuer für alle soll kommen. Doch es fehlt die Finanzierung, die SPD lässt den Kanzler auflaufen. In der eigenen Partei wachsen schon wieder Wut und Frust über den Chef."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Hitzesommer: Erzieherinnen und Erzieher fordern mehr Schutz für Kitas",
@@ -338,116 +456,12 @@
       "teaser": "Hitze kann für kleine Kinder zur Gesundheitsgefahr werden. Der Verband der Kitafachkräfte fordert deshalb, jetzt schon an den nächsten Sommer zu denken."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Deutschland Liveblog: Backhaus bleibt Minister in Mecklenburg-Vorpommern",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-backhaus-bleibt-minister-in-mecklenburg-vorpommern-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-12T18:40+00:00",
-      "teaser": "Till Backhaus behält Amt trotz Kritik an Umgang mit Wal „Timmy“ +++ CSU und Freie Wähler schwächen bayerisches Klimagesetz ab +++ Studie enttarnt versteckten Antisemitismus in sozialen Medien +++ alle Entwicklungen im Liveblog"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Seit mehreren Jahrzehnten auf Grund gelegen: Polizei holt Oldtimer aus Baggersee",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/polizei-birgt-altes-auto-aus-baggersee-in-pfullendorf-100.html",
-      "source": "SWR",
-      "date": "2026-11-12T19:31+01:00",
-      "teaser": "Im Baggersee im Seepark Pfullendorf (Kreis Sigmaringen) ist ein jahrzehntealter BMW entdeckt und geborgen worden. Jetzt sucht die Polizei nach der Geschichte hinter dem Auto."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "source": "ZDF",
-      "date": "2026-11-12T19:24+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Sangerhausen: Israelische Rüstungsfirma kommt doch nicht nach Sachsen-Anhalt",
-      "url": "https://www.faz.net/aktuell/politik/inland/elbit-zieht-plaene-fuer-ansiedlung-in-sangerhausen-zurueck-201677034.html",
-      "source": "FAZ",
-      "date": "2026-11-12T17:53+00:00",
-      "teaser": "Das BSW wollte keine „israelische Rüstungsschmiede“ im Harz. AfD-Spitzenkandidat Siegmund dagegen freute sich auf Produkte für die „Abschiebeoffensive“. Jetzt gibt Elbit die Pläne auf."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Bundestag: Bundestag gibt Sicherheitsbehörden neue Cyberabwehr-Befugnisse",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/cyberabwehr-gesetz-bsi-bundespolizei-bka",
-      "source": "Zeit",
-      "date": "2026-11-12T17:47+00:00",
-      "teaser": "Sicherheitsbehörden sollen sich künftig aktiv gegen Hackerangriffe wehren können. Ein entsprechendes Gesetz passierte den Bundestag. Die Opposition warnt vor den Folgen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Entschärfung vor Ort nicht möglich: Bomben in Heilbronn müssen gesprengt werden",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/bomben-heilbronn-entschaerfung-100.html",
-      "source": "SWR",
-      "date": "2026-11-12T18:48+01:00",
-      "teaser": "Die Bomben aus der Heilbronner Kiesgrube werden abtransportiert, um sie in einem Sicherheitsgebiet zu sprengen. Am Freitagmorgen geht es los."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Koalition in Berlin: Scheitert eine rot-grün-rote Koalition an dieser Frau?",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/koalition-berlin-die-linke-die-gruenen-vanessa-emde",
-      "source": "Zeit",
-      "date": "2026-11-12T17:32+00:00",
-      "teaser": "Ein Linksbündnis in Berlin wäre eine Grenzüberschreitung, sagt der Grüne Danyal Bayaz aus Baden-Württemberg. Sein Parteifreund Daniel Eliasson widerspricht."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Stuttgart 21: Schalterhalle im Hauptbahnhof öffnet wieder",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/s21-schalterhalle-bonatzbau-oeffnet-hauptbahnhof-100.html",
-      "source": "SWR",
-      "date": "2026-11-12T18:17+01:00",
-      "teaser": "Seit eineinhalb Jahren müssen vor allem Stadtbahn-Fahrgäste am Hauptbahnhof in Stuttgart umständliche Umwege zu den Fernbahngleisen in Kauf nehmen. Ab Freitag wird es etwas einfacher."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.9,
     "items": [
      {
       "title": "Śledztwo ws. kawalerki pana Jerzego. Karol Nawrocki ma zostać przesłuchany",
@@ -461,33 +475,65 @@
       "url": "https://www.rp.pl/prawo-karne/art45482281-karol-nawrocki-ma-byc-przesluchany-chodzi-o-kawalarke-p-jerzego",
       "source": "Rzeczpospolita",
       "date": "2026-11-12T19:48+01:00",
-      "teaser": "Prokuratura Okręgowa w Gdańsku chce przesłuchać prezydenta Karola Nawrockiego w śledztwie dotyczącym kawalerki przejętej od p. Jerzego Ż. Do Kancelarii Prezydenta RP trafiło już pismo w tej sprawie."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.9,
-    "items": [
-     {
-      "title": "Sąd w Dreźnie uznał kontrole na granicy z Polską za niezgodne z prawem",
-      "url": "https://www.dw.com/pl/sąd-w-dreźnie-uznał-kontrole-na-granicy-z-polską-za-niezgodne-z-prawem/a-79933223?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-12T15:50+00:00",
-      "teaser": "Sąd administracyjny w Dreźnie pozytywnie rozpatrzył skargę Polaka, który pozwał niemiecki rząd za kontrole graniczne. To pierwszy wyrok, który mówi o niezgodności z prawem kontroli na granicy polsko-niemieckiej."
-     },
-     {
-      "title": "Sąd w Dreźnie: niemieckie kontrole na granicy z Polską łamały prawo",
-      "url": "https://www.rp.pl/prawo-na-swiecie/art45482081-sad-w-dreznie-niemieckie-kontrole-na-granicy-z-polska-lamaly-prawo",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-12T18:49+01:00",
-      "teaser": "Sąd Administracyjny w Dreźnie orzekł w czwartek, że kontrole graniczne zarządzone przez niemieckie ministerstwo spraw wewnętrznych na granicach z Polską i Czechami były niezgodne z prawem."
+      "teaser": "Prokuratura chce przesłuchać prezydenta Karola Nawrockiego w śledztwie dotyczącym przejęcia kawalerki p. Jerzego Ż. - podaje Onet. Do Kancelarii Prezydenta RP trafiło już pismo w tej sprawie."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Żołnierz skarcił sekretarza wojny i jego towarzyszy. Teraz Pete Hegseth przyznał mu medal",
+      "url": "https://www.rp.pl/spoleczenstwo/art45478151-zolnierz-skarcil-sekretarza-wojny-i-jego-towarzyszy-teraz-pete-hegseth-przyznal-mu-medal",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-12T20:45+01:00",
+      "teaser": "Pete Hegseth, sekretarz wojny USA, został upomniany przez żołnierza pełniącego wartę przy Grobie Nieznanego Żołnierza na cmentarzu Arlington. Do zdarzenia doszło po uroczystościach z okazji Dnia Weteranów. Następnego dnia Hegseth przyznał żołnierzowi wysokie odznaczenie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "„Carnaval De Luz” U2. Bono zbił lustro w pokoiku sławy, grupa złapała nowy oddech",
+      "url": "https://www.rp.pl/muzyka-popularna/art45482291-carnaval-de-luz-u2-bono-zbil-lustro-w-pokoiku-slawy-grupa-zlapala-nowy-oddech",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-12T20:37+01:00",
+      "teaser": "Wszyscy ci, którzy zwątpili w U2, powinni dać szansę nowej płycie „Carnaval De Luz”. Na początku podobają się tylko już znane single, ale warto poczekać, aż całość się ułoży. To pierwsza od 2017 roku płyta z nowym materiałem. Premiera 13 listopada."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Święczkowski chce zablokować konta Trybunału Konstytucyjnego. Napisał do Glapińskiego",
+      "url": "https://www.rp.pl/banki/art45482431-swieczkowski-chce-zablokowac-konta-trybunalu-konstytucyjnego-napisal-do-glapinskiego",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-12T20:36+01:00",
+      "teaser": "Bogdan Święczkowski chce zablokowania dostępu do pieniędzy Trybunału Konstytucyjnego swoim przeciwnikom. W tej sprawie zwrócił się bezpośrednio do Adama Glapińskiego, a NBP wstrzymał realizację dyspozycji finansowych obu stron konfliktu. Decyzja może sparaliżować TK."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Mały atom będzie później i drożej. Rośnie ryzyko dla Polski",
+      "url": "https://energia.rp.pl/atom/art45479081-maly-atom-bedzie-pozniej-i-drozej-rosnie-ryzyko-dla-polski",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-12T20:25+01:00",
+      "teaser": "Kanadyjska firma Ontario Power Generation poinformowała, że pierwszy z czterech małych reaktorów modułowych BWRX-300 nie zostanie ukończony w planowanym terminie ani w zakładanym budżecie. Powstanie takich reaktorów w Polsce już w 2032 r. staje się wątpliwe."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Prezydent zwleka z nominacjami. Wszystko przez Andrzeja Domańskiego",
@@ -500,7 +546,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Na zewnątrz udany związek, w domu koszmar. Joanna nie wytrzymała tamtej nocy",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33128893,na-zewnatrz-udany-zwiazek-w-domu-koszmar-joanna-nie-wytrzymala.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-12T19:00+00:00",
+      "teaser": "Była Niedziela Wielkanocna. - Goście wyszli, a Bogdan znów zaczął się awanturować, wyzywał mnie. Był pod wpływem alkoholu - opowiada 53-letnia Joanna w \"Gotowych na wolność?\". Tamtego wieczoru trzymała w ręku nóż, kroiła pomidory. Dziś odbywa karę pozbawienia wolności za zabójstwo konkubenta."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Szafir ostatnich carów Rosji sprzedany za 19,4 mln zł. Cena przebiła wszelkie oczekiwania",
@@ -513,7 +572,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Ukraiński parlament utworzył Radę Współpracy z Polską. \"Sprawa niezwykle ważna dla naszej przyszłości\"",
@@ -526,7 +585,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Na koniec sezonu przewozy lotnicze tracą dynamikę",
@@ -539,7 +598,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "PZU mocno sięga po AI. „Trwała zmiana sposobu pracy”",
@@ -552,7 +611,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
       "title": "Prof. Kowalski: Po słowach Sakiewicza, do KRRiT wpłynęło 7 tys. skarg na TV Republika",
@@ -562,64 +621,12 @@
       "teaser": "Redaktor naczelny Telewizji Republika, relacjonując wydarzenia z Krakowa, naruszył wszystkie standardy pracy dziennikarza i standardy zawodu – twierdzi prof. Tadeusz Kowalski, członek Krajowej Rady Radiofonii i Telewizji."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Estera Flieger: Czego po tragedii w Krakowie możemy nauczyć się od Amerykanów",
-      "url": "https://www.rp.pl/publicystyka/art45477551-estera-flieger-czego-po-tragedii-w-krakowie-mozemy-nauczyc-sie-od-amerykanow",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-12T19:00+01:00",
-      "teaser": "Warto zastanowić się nad wdrożeniem w Polsce amerykańskiej praktyki: nie podawać imienia i nazwiska lub inicjałów oraz nie upowszechniać wizerunku zamachowca. Historia ataku w Krakowie ma swoich bohaterów, na których powinniśmy się skoncentrować – w jakimś sensie uratowali nas wszystkich."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Policjanci z Nowego Jorku oddali hołd rannym funkcjonariuszom z Krakowa. \"Najgłębszy szacunek i uznanie\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33130126,policjanci-z-nowego-jorku-oddali-hold-rannym-funkcjonariuszom.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-12T18:01+00:00",
-      "teaser": "Amerykańscy funkcjonariusze polskiego pochodzenia przesłali wyrazy uznania dla rannych policjantów Jakuba Kulika oraz Artura Morańskiego. \"Ich postawa jest przykładem najwyższych wartości\" - napisał w liście przekazanym PAP sierżant nowojorskiej policji i przewodniczący Stowarzyszenia NYPD Pulaski R"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Michał Szułdrzyński: Donald Trump dał Władimirowi Putinowi palec, Rosja chce całej ręki",
-      "url": "https://www.rp.pl/komentarze/art45478721-michal-szuldrzynski-donald-trump-dal-wladimirowi-putinowi-palec-rosja-chce-calej-reki",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-12T18:58+01:00",
-      "teaser": "Rozmowy pokojowe w Abu Zabi pokazały, że Władimirowi Putinowi nie chodzi wyłącznie o zakończenie wojny na Ukrainie. Rosja chce wymusić ustępstwa NATO, skłócić Europę i wrócić do podziału wpływów sprzed 1997 r. Uległość Donalda Trumpa może tylko wzmocnić pozycję Moskwy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Czechy szykują 16 samolotów dla Ukrainy. Mają być postrachem rosyjskich dronów",
-      "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art45482151-czechy-szykuja-16-samolotow-dla-ukrainy-maja-byc-postrachem-rosyjskich-dronow",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-12T18:52+01:00",
-      "teaser": "Czechy odmówiły Ukrainie przekazania samolotów bojowych L-159 ALCA, ale proponują inne rozwiązanie. Kijów może otrzymać 16 maszyn L-39 Skyfox, które w specjalnej wersji mają zwalczać rosyjskie drony. Ich największym atutem będą znacznie niższe koszty eksploatacji."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 5,
-    "score": 9.98,
+    "score": 9.9,
     "items": [
      {
       "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
@@ -646,13 +653,13 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.99,
+    "score": 7.97,
     "items": [
      {
       "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
       "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
       "source": "The Guardian",
-      "date": "2026-11-12T18:29+00:00",
+      "date": "2026-11-12T19:38+00:00",
       "teaser": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang doe"
      },
      {
@@ -672,8 +679,22 @@
     ]
    },
    {
-    "sourceCount": 4,
-    "score": 7.92,
+    "sourceCount": 1,
+    "score": 6.18,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-11T22:07+00:00",
+      "teaser": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.84,
     "items": [
      {
       "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
@@ -690,31 +711,37 @@
       "teaser": "Er ist die zentrale Figur beim weltgrößten Chiphersteller, doch nun räumt Nvidia-Chef Jensen Huang seinen Posten. Hintergrund ist seine Affäre mit einer mutmaßlichen chinesischen Spionin. Eine vorübergehende Nachfolgerin steht bereits fest."
      },
      {
-      "title": "KI-Chipkonzern: Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
-      "url": "https://www.handelsblatt.com/technik/ki/nvidia-jensen-huang-tritt-nach-mehreren-affaeren-zurueck/100269321.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-12T16:16+00:00",
-      "teaser": "Der Nvidia-Verwaltungsrat reagiert auf die Krise des Konzerns und beruft die bisherige Finanzchefin zur Interims-CEO. Parallel wird extern gesucht. Die Aktie gibt nach."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 6.26,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T22:07+00:00",
-      "teaser": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
+      "title": "Jensen Huang: Nvidia-Chef Jensen Huang tritt nach Spionageaffäre zurück",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/nvidia-chef-jensen-huang-tritt-nach-spionageaffaere-zurueck",
+      "source": "Zeit",
+      "date": "2026-11-12T14:11+00:00",
+      "teaser": "Der Druck war wegen einer Affäre mit einer mutmaßlichen Spionin zu groß: Jensen Huang legt alle Posten bei Nvidia nieder. Der Aktienkurs des Konzerns bricht weiter ein."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.89,
+    "score": 3.84,
+    "items": [
+     {
+      "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
+      "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+      "source": "The Guardian",
+      "date": "2026-11-12T17:26+00:00",
+      "teaser": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by record-high mortgage rates and rising inflation, according to new data released on Wednesday. Sa"
+     },
+     {
+      "title": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+      "url": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-12T18:03+00:00",
+      "teaser": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.81,
     "items": [
      {
       "title": "Nvidia-Affäre: Der jähe Fall von Jensen Huang",
@@ -724,17 +751,17 @@
       "teaser": "Der Nvidia-Chef war offenbar von seiner vermeintlichen Unantastbarkeit verblendet. Seine Ablösung war unvermeidlich. Für das Unternehmen ist das ein Schock – aber es muss keine Katastrophe sein."
      },
      {
-      "title": "Nvidia: Diese Manager gelten als potenzielle Nachfolger von Jensen Huang",
-      "url": "https://www.handelsblatt.com/technik/ki/nvidia-diese-manager-gelten-als-potenzielle-huang-nachfolger/100269410.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-12T16:57+00:00",
-      "teaser": "Der Nvidia-Chef tritt zurück. Seine Aufgaben übernimmt vorübergehend Finanzchefin Colette Kress. Als technische Visionärin gilt sie nicht – langfristig gibt es weitere CEO-Kandidaten."
+      "title": "Nvidia-Affäre: Sprecher des US-Repräsentantenhauses bringt nach Aus von Jensen Huang Exportbeschränkungen nach China ins Spiel",
+      "url": "https://www.spiegel.de/wirtschaft/nvidia-affaere-sprecher-des-us-repraesentantenhauses-bringt-nach-aus-von-jensen-huang-exportbeschraenkungen-nach-china-ins-spiel-a-57708f11-fca9-4140-ae71-495c4c9b1781#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-12T16:28+01:00",
+      "teaser": "In den USA werden mögliche Folgen aus dem Rücktritt von Nvidia-Chef Huang diskutiert. Einige Demokraten bereiten sich schon auf eine Untersuchung vor. Auch die Börse reagiert."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.79,
     "items": [
      {
       "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
@@ -754,7 +781,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.36,
+    "score": 3.28,
     "items": [
      {
       "title": "AI helps UK economy grow at fastest pace for more than two years",
@@ -777,24 +804,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Wall Street: Nvidia-Aktie im Minus – US-Börsen erholen sich",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-aktie-im-minus-us-boersen-erholen-sich/100269457.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-12T18:51+00:00",
-      "teaser": "Die neuen Enthüllungen über Nvidia-Chef Jensen Huang und sein Abgang kosten Aktionäre des Chipherstellers Milliarden. Doch die Verluste fallen geringer aus als in der Vorwoche."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
-      "url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+      "title": "The Face of the A.I. Boom Powering the U.S. Economy Is Gone",
+      "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
       "source": "New York Times",
-      "date": "2026-11-12T18:51+00:00",
-      "teaser": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates."
+      "date": "2026-11-12T19:50+00:00",
+      "teaser": "Jensen Huang, Nvidia’s ousted leader, was a unique rhetorical and financial booster for investments that are driving economic growth."
      }
     ]
    },
@@ -803,36 +817,36 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
-      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
-      "source": "The Guardian",
-      "date": "2026-11-12T18:46+00:00",
-      "teaser": "CEO was viewed as ‘irreplaceable’, but recklessness of affair with a woman regarded by US officials as a Chinese spy made him a political liability Half the tech world made up its mind before the facts could be assessed properly. Jensen Huang was “irreplaceable”, said the chorus at the start of this"
+      "title": "Börse: Weniger Fasern, mehr Marge: Das spricht für die Aktie des Faserherstellers Lenzing",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boerse-weniger-fasern-mehr-marge-das-spricht-fuer-die-lenzing-aktie/100269243.html",
+      "source": "Handelsblatt (Finanzen)",
+      "date": "2026-11-12T19:43+00:00",
+      "teaser": "Im Oktober musste das Unternehmen erneut Geld einsammeln. Dabei verdient Lenzing besser und könnte Millionen aus Lager und offenen Rechnungen heben. Analysten sehen Aufwärtspotenzial."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.98,
     "items": [
      {
-      "title": "Bundeshaushalt: CDU-Vorschlag zu Stromsteuersenkung sorgt für Streit mit CSU",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/mathias-middelberg-cdu-stromsteuer-muetterrente",
-      "source": "Zeit",
-      "date": "2026-11-12T18:22+00:00",
-      "teaser": "Mathias Middelberg hält eine Stromsteuersenkung für wichtiger als eine Ausweitung der Mütterrente. Damit geht der CDU-Politiker auf Konfrontationskurs zur CSU."
+      "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
+      "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+      "source": "New York Times",
+      "date": "2026-11-12T19:45+00:00",
+      "teaser": "Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.98,
     "items": [
      {
       "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
       "url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
       "source": "New York Times",
-      "date": "2026-11-12T18:15+00:00",
+      "date": "2026-11-12T19:42+00:00",
       "teaser": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve."
      }
     ]
@@ -841,21 +855,21 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 8.0,
+    "score": 7.97,
     "favorite": true,
     "items": [
      {
-      "title": "Barcelona v Arsenal: Women’s Champions League – live",
+      "title": "Barcelona 1-1 Arsenal: Women’s Champions League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/12/barcelona-v-arsenal-womens-champions-league-live",
       "source": "The Guardian",
-      "date": "2026-11-12T18:59+00:00",
+      "date": "2026-11-12T19:40+00:00",
       "teaser": "⚽️ WCL updates from 5.45pm GMT kick-off ⚽️ Live scoreboard | And email Simon 2 mins: They kept the ball for about 15 seconds and haven’t seen it since. Eventually Caroline Graham Hansen plays a pass infield from the right and Ewa Pajor is so close to getting sent through on goal. Instead it runs thr"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.82,
+    "score": 7.73,
     "favorite": true,
     "items": [
      {
@@ -869,21 +883,61 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.79,
+    "score": 7.55,
     "favorite": true,
     "items": [
      {
-      "title": "El Barça sigue perdonando",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004249546/barca-arsenal-directo-champions-league-futbol-femenino.html",
+      "title": "2-0: Jesse Bisiwu gana a Kosovo con la Sub-19 de Bélgica",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250259/2-0-jesse-bisiwu-juega-sub-19-belgica.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-12T17:28+01:00",
-      "teaser": ""
+      "date": "2026-11-12T15:35+01:00",
+      "teaser": "Jesse Bisiwu , extremo del Barça de 18 años, ha pasado de ser reclamado por la opinión pública belga para la selección absoluta tras su ilusionante pretemporada a las órdenes de Hansi Flick , a ser convocado por la Sub-21 de Bélgica en el anterior parón de las competiciones de clubs y a jugar en la "
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.85,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "England v Croatia: Nations League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
+      "source": "The Guardian",
+      "date": "2026-11-12T19:36+00:00",
+      "teaser": "⚽️ Nations League updates from 7.45pm GMT ⚽️ Kane sets cap record | Live scoreboard | Email Scott Pre-match postbag. “With tonight’s record being broken, spare a thought for the holder of a more unwanted record, Emlyn Hughes. He won 62 caps and never got to go to the World Cup or Euros finals” – Rog"
+     },
+     {
+      "title": "Nations League: Türkei verliert trotz Güler-Traumtor gegen Belgien",
+      "url": "https://www.sportschau.de/fussball/nationsleague/tuerkei-verliert-trotz-gueler-traumtor-gegen-belgien,spielbericht-nl-tuerkei-belgien-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-12T20:11+01:00",
+      "teaser": "Arda Güler hat beim Debüt des neuen türkischen Nationaltrainers Sergen Yalcin direkt per Freistoß gezaubert. Gereicht hat das aber nicht. Die Türkei verliert gegen Belgien und rückt dem Abstieg aus der Liga A der Nations League damit immer näher."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "Klopp nach Gespräch mit Nmecha: \"Er wird so nicht mehr jubeln\"",
+      "url": "https://www.kicker.de/klopp-nach-gespraech-mit-nmecha-er-wird-so-nicht-mehr-jubeln-1271091/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-12T18:55+00:00",
+      "teaser": "Der Torjubel von Felix Nmecha hat für große Wellen gesorgt. Jetzt äußerte sich auch Bundestrainer Jürgen Klopp dazu - und verriet, wie sein Gespräch mit dem Dortmunder gelaufen ist."
+     },
+     {
+      "title": "Fußball-Liveblog: Watzke über Nmecha-Gespräch: „Er wird darüber nachdenken“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/liveticker-nationalmannschaft-hans-joachim-watzke-spricht-mit-felix-nmecha-faz-201651368.html",
+      "source": "FAZ",
+      "date": "2026-11-12T14:45+00:00",
+      "teaser": "Verfolgen Sie die Fußball-Nationalmannschaft von Jürgen Klopp und Spiele der UEFA Nations League ▷ Alle aktuellen Ergebnisse im Liveblog!"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.77,
     "items": [
      {
       "title": "Pierre Sage’s failure to fix defensive flaws leaves Crystal Palace seeking new solution",
@@ -903,7 +957,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.74,
     "items": [
      {
       "title": "Fußball: Marco Materazzi stichelt gegen Zinédine Zidane",
@@ -923,7 +977,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.03,
+    "score": 2.95,
     "items": [
      {
       "title": "Sepp Blatter über Gianni Infantino: »Vielleicht sollte man ihn einmal in die Psychiatrie schicken«",
@@ -943,40 +997,40 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
     "items": [
      {
-      "title": "Klopp berichtet von Gespräch mit Nmecha - Wirtz über den Austausch mit dem Bundestrainer",
-      "url": "https://www.kicker.de/klopp-berichtet-von-gespraech-mit-nmecha-wirtz-ueber-den-austausch-mit-dem-bundestrainer-1270918/artikel#omrss",
+      "title": "Tadic verspricht \"ein anderes Serbien\" - und stichelt etwas gegen das DFB-Team",
+      "url": "https://www.kicker.de/tadic-verspricht-ein-anderes-serbien-und-stichelt-etwas-gegen-das-dfb-team-1271107/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-12T17:40+00:00",
-      "teaser": "Heute absolviert Jürgen Klopp seine erste Pressekonferenz in dieser Länderspielphase - auch Florian Wirtz stellt sich den Fragen. Welche Botschaften sendet der Bundestrainer vor dem Gastspiel in Serbien? Und was sagt er zur Causa Felix Nmecha? Die wichtigsten Aussagen im LIVE!-Ticker."
+      "date": "2026-11-12T19:57+00:00",
+      "teaser": "Vier Spiele, vier Niederlagen, aber auch vier unterschiedliche Vorstellungen, die schlechteste gab's aus serbischer Sicht in München - jetzt wollen die Adler Wiedergutmachung leisten."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
     "items": [
      {
-      "title": "Arda Gülers Traumfreistoß reicht nicht: Belgien siegt in der Türkei",
-      "url": "https://www.kicker.de/arda-guelers-traumfreistoss-reicht-nicht-belgien-siegt-in-der-tuerkei-1270216/artikel#omrss",
+      "title": "LIVE! Donnarumma rettet gegen Rabiot - Kroatien startet druckvoll",
+      "url": "https://www.kicker.de/live-donnarumma-rettet-gegen-rabiot-kroatien-startet-druckvoll-1270216/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-12T18:51+00:00",
-      "teaser": "Die Türkei hat auch unter einem neuen Trainer das Ruder nicht herumreißen können. Die Türken gingen zwar gegen Belgien sehenswert in Führung, verkauften sich auch über weite Strecken gut, unterlagen am Ende aber dennoch mit 1:2 - fünfte Niederlage im fünften Spiel."
+      "date": "2026-11-12T19:56+00:00",
+      "teaser": "Die Türkei gingen gegen Belgien sehenswert in Führung, unterlag am Ende aber dennoch mit 1:2 - fünfte Niederlage im fünften Spiel. Frankreich gastiert am Abend in Italien, Kroatien hofft in England auf eine Revanche für das 0:7. Spanien ist in Tschechien Favorit."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
     "items": [
      {
-      "title": "\"Das ist unangenehm\": Klopp witzelt wegen serbischen Kindern",
-      "url": "https://www.kicker.de/das-ist-unangenehm-klopp-witzelt-wegen-serbischen-kindern-1271094/video#omrss",
+      "title": "Wirtz' Aufschwung und Klopps Anteil als Mentor",
+      "url": "https://www.kicker.de/wirtz-aufschwung-und-klopps-anteil-als-mentor-1271079/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-12T18:50+00:00",
-      "teaser": "Jürgen Klopp wurde auf der Pressekonferenz vor dem Spiel darauf angesprochen, dass beim DFB-Spiel nur Kinder als Zuschauer zugelassen sind und scherzte über die Situation."
+      "date": "2026-11-12T19:56+00:00",
+      "teaser": "Florian Wirtz war beim 2:0 gegen Serbien vor sechs Wochen der überragende Mann auf dem Platz. Dieses erste Spiel unter Jürgen Klopp scheint den Offensiv-Allrounder nachhaltig beflügelt zu haben. Vor dem Rückspiel sprach der 23-Jährige über den Austausch mit dem Bundestrainer."
      }
     ]
    },
@@ -985,37 +1039,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Trainerwechsel noch ohne Effekt: Türkei verliert gegen Belgien",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-nations-league-a/ma11903995/tuerkei_belgien/liveticker",
-      "source": "Sportschau",
-      "date": "2026-11-12T19:55+01:00",
-      "teaser": "Die Türkei hat ihr erstes Spiel unter dem neuen Trainer Sergen Yalcin gegen Belgien verloren. Die Türken fingen stark an und gingen in Führung, kassierten aber schnell zwei Gegentore und konnten den Rückstand nicht mehr aufholen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "SFA in talks with Boston officials over biannual friendly match",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
+      "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-12T18:35+00:00",
-      "teaser": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Harry Kane wins record 126th England cap, pulling clear of Peter Shilton",
-      "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap",
-      "source": "The Guardian",
-      "date": "2026-11-12T18:35+00:00",
-      "teaser": "Kane gets England men’s record cap against Croatia Striker starts Nations League game on record 91 goals Harry Kane has broken the England men’s appearance record after being selected to start the Nations League match against Croatia at Wembley. The striker drew level with Peter Shilton last month a"
+      "date": "2026-11-12T19:53+00:00",
+      "teaser": "From the 21-year-old who scored 79 seconds into his debut to breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career."
      }
     ]
    }
@@ -1023,7 +1051,7 @@
   "Tech & KI": [
    {
     "sourceCount": 5,
-    "score": 9.79,
+    "score": 9.71,
     "items": [
      {
       "title": "Jensen Huang is out. What did China want from him?",
@@ -1053,18 +1081,18 @@
     "score": 5.93,
     "items": [
      {
-      "title": "Jensen Huang Resigns as Nvidia CEO",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-      "source": "Wired",
-      "date": "2026-11-12T13:58+00:00",
-      "teaser": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset."
+      "title": "Jensen Huang Resigns From Nvidia After Affairs",
+      "url": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html",
+      "source": "New York Times",
+      "date": "2026-11-12T19:07+00:00",
+      "teaser": "The chief executive has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with a subordinate at his A.I. chip company. Nvidia’s finance chief, Colette Kress, was named interim leader."
      },
      {
-      "title": "Nvidia Stock Plunges After Jensen Huang Resigns as CEO",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
-      "source": "New York Times",
-      "date": "2026-11-12T18:09+00:00",
-      "teaser": "News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly."
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+      "source": "Wired",
+      "date": "2026-11-12T18:59+00:00",
+      "teaser": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry."
      },
      {
       "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
@@ -1077,7 +1105,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.89,
+    "score": 3.81,
     "items": [
      {
       "title": "The Jensen Huang scandal is hardly over",
@@ -1097,7 +1125,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.68,
+    "score": 3.6,
     "items": [
      {
       "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
@@ -1117,7 +1145,98 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+      "source": "Ars Technica",
+      "date": "2026-11-12T19:49+00:00",
+      "teaser": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "The Verge",
+      "date": "2026-11-12T14:42-05:00",
+      "teaser": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked cr"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "source": "Ars Technica",
+      "date": "2026-11-12T19:23+00:00",
+      "teaser": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "source": "Ars Technica",
+      "date": "2026-11-12T19:09+00:00",
+      "teaser": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Microsoft Outlook is down",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "source": "The Verge",
+      "date": "2026-11-12T14:07-05:00",
+      "teaser": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing ele"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Climate Change Has Pushed the World's Ice Out of Its Safe Zone",
+      "url": "https://www.wired.com/story/climate-change-abolishes-ice/",
+      "source": "Wired",
+      "date": "2026-11-12T19:00+00:00",
+      "teaser": "Humanity has thrived thanks to a stable cryosphere, but burning fossil fuels has increased the risk of “accelerating and partly irreversible” harm to the planet’s cold places."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "source": "Ars Technica",
+      "date": "2026-11-12T18:57+00:00",
+      "teaser": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Netflix releases new trailer for Ray Gunn",
@@ -1125,97 +1244,6 @@
       "source": "Ars Technica",
       "date": "2026-11-12T18:38+00:00",
       "teaser": "\"It's hard being the only honest players in a crooked game.\""
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
-      "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
-      "source": "Ars Technica",
-      "date": "2026-11-12T18:28+00:00",
-      "teaser": "\"We're not doing this thing because we like rockets.\""
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
-      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
-      "source": "Ars Technica",
-      "date": "2026-11-12T18:17+00:00",
-      "teaser": "Doctors warn that such life-threatening cases are becoming more common."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Quartalsbericht: 1&1 investiert weiter wenig in sein Mobilfunknetz",
-      "url": "https://www.golem.de/news/quartalsbericht-1-1-investiert-weiter-wenig-in-sein-mobilfunknetz-2611-215159.html",
-      "source": "Golem",
-      "date": "2026-11-12T19:08+01:00",
-      "teaser": "Trotz steigender Gewinne hält 1&1 die Ausgaben für sein 5G-Netz niedrig. Durch das Ende von Billigtarifen sinkt die Zahl der Kunden. ( 1&1 , Mobilfunk )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "source": "The Verge",
-      "date": "2026-11-12T13:06-05:00",
-      "teaser": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" […]"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Wissenschaftler entdecken unsichtbares Objekt im Weltall, das es eigentlich nicht geben dürfte",
-      "url": "https://t3n.de/news/unsichtbares-objekt-weltall-1773307/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-12T19:01+01:00",
-      "teaser": "Forschende haben ein Doppelsternsystem entdeckt, das aus einem Roten Riesen und einem „unsichtbaren“ Begleiter besteht. Dieser mysteriöse Gefährte gibt Rätsel auf, denn seine Masse liegt zwischen der von Neutronensternen und Schwarzen Löchern. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
-      "url": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
-      "source": "New York Times",
-      "date": "2026-11-12T18:05+00:00",
-      "teaser": "New York Times journalists want to answer your questions about how we’re using artificial intelligence in our report."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "source": "Wired",
-      "date": "2026-11-12T18:05+00:00",
-      "teaser": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize."
      }
     ]
    }
