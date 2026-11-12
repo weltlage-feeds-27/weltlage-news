@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-12T21:53:17+00:00",
+ "fetchedAt": "2026-11-12T22:53:13+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 7,
-    "score": 13.98,
+    "sourceCount": 6,
+    "score": 11.89,
     "items": [
      {
       "title": "Putin indicates he will not compromise on Ukraine in meeting with US envoys",
@@ -14,24 +14,24 @@
       "teaser": "Vladimir Putin indicated on Thursday that Russia will not compromise on its hardline demands to end the Ukraine offensive but offered a short-term ceasefire in a key frontline city during a Kremlin meeting with US envoys. The Russian president said he would not water down his demands to control part"
      },
      {
+      "title": "Zelensky meets with Trump's envoys in Dublin after their summit with Putin",
+      "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-12T21:35+00:00",
+      "teaser": "In a briefing alongside Witkoff and Kushner after the meeting, Zelensky told reporters that Europe would be represented in the next round of peace talks and that the upcoming Russia-Ukraine prisoner exchange would be the largest swap yet."
+     },
+     {
       "title": "U.S. envoys head to Dublin to talk to Zelenskyy, after prior sitdown with Putin",
       "url": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss",
       "source": "CBC",
       "date": "2026-11-12T09:48-05:00",
       "teaser": "U.S. envoys met Thursday with Russian President Vladimir Putin in the Kremlin before heading to Ireland for talks with Ukrainian President Volodymyr Zelenskyy as Washington sought new momentum for its peace efforts."
-     },
-     {
-      "title": "Trump, Putin to discuss Ukraine peace settlement during meeting in China, Kremlin says",
-      "url": "https://kyivindependent.com/trump-putin-to-discuss-ukraine-peace-settlement-during-meeting-in-china-kremlin-says/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-12T19:49+00:00",
-      "teaser": "\"Naturally, during the planned meeting with (Trump) at the APEC summit in Shenzhen, we will continue to discuss the full range of issues related to the settlement,\" Kremlin aide Yuri Ushakov claimed."
      }
     ]
    },
    {
     "sourceCount": 5,
-    "score": 9.85,
+    "score": 9.97,
     "items": [
      {
       "title": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
@@ -57,8 +57,35 @@
     ]
    },
    {
+    "sourceCount": 4,
+    "score": 7.98,
+    "items": [
+     {
+      "title": "What we know after Jensen Huang's resignation as Nvidia's CEO",
+      "url": "https://www.pbs.org/newshour/nation/what-we-know-after-jensen-huangs-resignation-as-nvidias-ceo",
+      "source": "PBS NewsHour",
+      "date": "2026-11-12T17:37-05:00",
+      "teaser": "Nvidia announced Huang's resignation on Thursday, effective immediately. The California-based company said that Colette Kress — who has been Nvidia's chief financial officer and executive vice president since 2013 — will step into the role of interim CEO."
+     },
+     {
+      "title": "Nvidia-Chef Jensen Huang tritt nach Affären zurück",
+      "url": "https://www.dw.com/de/nvidia-chef-jensen-huang-tritt-nach-affären-zurück/a-79932950?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-12T15:35+00:00",
+      "teaser": "Der CEO des wichtigsten Herstellers für KI-Prozessoren räumt seinen Stuhl. Auch wenn das US-Unternehmen offiziell keine Gründe nennt, ist die Sachlage klar. Im Kongress in Washington dürfte ein Nachspiel folgen."
+     },
+     {
+      "title": "Nvidia CEO Jensen Huang resigns amid spy scandal",
+      "url": "https://www.thehindu.com/news/international/nvidia-ceo-jensen-huang-resigns-amid-scandal/article71694271.ece",
+      "source": "The Hindu",
+      "date": "2026-11-12T21:26+05:30",
+      "teaser": "Chief financial officer Colette Kress will serve as interim CEO while keeping her finance role, and the board will consider internal and external candidates for a permanent replacement"
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
-    "score": 7.22,
+    "score": 7.14,
     "favorite": true,
     "items": [
      {
@@ -72,7 +99,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.83,
+    "score": 5.74,
     "items": [
      {
       "title": "Gaza: Mehrere Tote nach israelischem Angriff auf Nasser-Krankenhaus",
@@ -99,14 +126,34 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.96,
     "items": [
      {
-      "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
+      "title": "Hegseth gives top award to soldier who scolded him at war cemetery",
+      "url": "https://www.abc.net.au/news/2026-11-13/hegseth-awards-soldier-who-scolded-him/107381222",
+      "source": "ABC Australia",
+      "date": "2026-11-12T22:27+00:00",
+      "teaser": "The soldier reprimanded US Defense Secretary Pete Hegseth and a group of his staffers when a loud laugh was heard after they took photos at the site, following a ceremony that included President Donald Trump and Vice-President JD Vance."
+     },
+     {
+      "title": "Hegseth presents award to soldier who scolded him and his aides at Tomb of the Unknown Soldier",
+      "url": "https://www.pbs.org/newshour/world/hegseth-presents-award-to-soldier-who-scolded-him-and-his-aides-at-tomb-of-the-unknown-soldier",
+      "source": "PBS NewsHour",
+      "date": "2026-11-12T13:35-05:00",
+      "teaser": "The scolding drew attention once more to the embattled defense secretary, who had survived an impeachment attempt the day before."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "Global Microsoft outage affects Outlook and Teams users, with company ‘restarting’ servers",
       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
       "source": "The Guardian",
-      "date": "2026-11-12T21:14+00:00",
-      "teaser": "An alert on Microsoft’s site said it was ‘aggressively pursuing all pathways to reduce impact’ and blamed a server issue Microsoft says its servers are beginning to return to service after a global outage resulted in nearly 130,000 users globally reporting issues accessing its 365 suite of software,"
+      "date": "2026-11-12T21:51+00:00",
+      "teaser": "Alert on Microsoft’s site says it is ‘aggressively pursuing all pathways to reduce impact’ and blames server issue Microsoft says its servers are beginning to return to service after a global outage resulted in nearly 130,000 users globally reporting issues accessing its 365 suite of software, inclu"
      },
      {
       "title": "Microsoft outage hits tens of thousands of users",
@@ -119,7 +166,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.87,
     "items": [
      {
       "title": "Washington DC shooting: One dead, four people injured",
@@ -139,7 +186,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.83,
     "items": [
      {
       "title": "Israel verbietet Jean-Luc Mélenchon wegen antiisraelischer Haltung Einreise",
@@ -159,7 +206,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.79,
     "items": [
      {
       "title": "White House reportedly discussing Howard Lutnick's future as Commerce secretary",
@@ -179,27 +226,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "Nvidia-Chef Jensen Huang tritt nach Affären zurück",
-      "url": "https://www.dw.com/de/nvidia-chef-jensen-huang-tritt-nach-affären-zurück/a-79932950?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-12T15:35+00:00",
-      "teaser": "Der CEO des wichtigsten Herstellers für KI-Prozessoren räumt seinen Stuhl. Auch wenn das US-Unternehmen offiziell keine Gründe nennt, ist die Sachlage klar. Im Kongress in Washington dürfte ein Nachspiel folgen."
-     },
-     {
-      "title": "Nvidia-Chef: Der tiefe Fall des Jensen Huang",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/nvidia-chef-ruecktritt-jensen-huang-affaere-spionage-wall-street",
-      "source": "Zeit",
-      "date": "2026-11-12T19:58+00:00",
-      "teaser": "Mit dem Rücktritt von Jensen Huang als Nvidia-Chef beginnt für die globale KI-Branche eine extrem riskante Phase. Jetzt kommt es ausgerechnet auf seine Ehefrau an."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.67,
     "items": [
      {
       "title": "Donald Trump weist JD Vance zurecht – Vize soll sich nicht um Iran kümmern",
@@ -219,7 +246,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.66,
     "items": [
      {
       "title": "Hegseth awards medal to Arlington soldier who scolded his group on decorum",
@@ -236,32 +263,12 @@
       "teaser": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.73,
-    "items": [
-     {
-      "title": "Hegseth, wife and aides spark scolding from guard at Tomb of the Unknown Soldier",
-      "url": "https://www.cbc.ca/news/world/hegseth-veterans-day-arlington-tomb-laughter-guard-yells-9.7418661?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-11T20:14-05:00",
-      "teaser": "A soldier guarding the Tomb of the Unknown Soldier at Arlington National Cemetery issued a verbal reprimand to a group of advisers and staffers with U.S. War Secretary Pete Hegseth following a Veterans Day ceremony."
-     },
-     {
-      "title": "Hegseth presents award to soldier who scolded him and his aides at Tomb of the Unknown Soldier",
-      "url": "https://www.pbs.org/newshour/world/hegseth-presents-award-to-soldier-who-scolded-him-and-his-aides-at-tomb-of-the-unknown-soldier",
-      "source": "PBS NewsHour",
-      "date": "2026-11-12T13:35-05:00",
-      "teaser": "The scolding drew attention once more to the embattled defense secretary, who had survived an impeachment attempt the day before."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.42,
+    "score": 5.33,
     "items": [
      {
       "title": "Frühe Bildung: Bundestag beschließt verbindliche Sprachtests für Kinder",
@@ -288,7 +295,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.94,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "News des Tages: Nvidia-Chef Jensen Huang tritt zurück, Startchancengesetz für Kitakinder, Hype um Grand Theft Auto 6",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-nvidia-chef-jensen-huang-tritt-zurueck-startchancengesetz-fuer-kitakinder-hype-um-grand-theft-auto-6-a-0b48fa44-e908-4c2c-a96b-b8e54d42e674#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-12T17:51+01:00",
+      "teaser": "Der Nvidia-Chef tritt zurück. Der Bundestag beschließt ein wichtiges Kitagesetz. Und seit heute kann man das gehypteste Videospiel aller Zeiten kaufen, aber noch nicht zocken. Das ist die Lage am Donnerstagabend."
+     },
+     {
+      "title": "Spionage-Affäre: Nvidia-Chef Huang tritt zurück",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-chef-huang-ruecktritt-100.html",
+      "source": "ZDF",
+      "date": "2026-11-12T22:50+01:00",
+      "teaser": "Nvidia-Chef Huang gibt nach einer Affäre mit einer möglichen chinesischen Spionin seinen Posten auf. Finanzchefin Kress übernimmt vorübergehend."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.86,
     "items": [
      {
       "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
@@ -307,28 +334,8 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "News des Tages: Nvidia-Chef Jensen Huang tritt zurück, Startchancengesetz für Kitakinder, Hype um Grand Theft Auto 6",
-      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-nvidia-chef-jensen-huang-tritt-zurueck-startchancengesetz-fuer-kitakinder-hype-um-grand-theft-auto-6-a-0b48fa44-e908-4c2c-a96b-b8e54d42e674#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-12T17:51+01:00",
-      "teaser": "Der Nvidia-Chef tritt zurück. Der Bundestag beschließt ein wichtiges Kitagesetz. Und seit heute kann man das gehypteste Videospiel aller Zeiten kaufen, aber noch nicht zocken. Das ist die Lage am Donnerstagabend."
-     },
-     {
-      "title": "Spionage-Affäre: Nvidia-Chef Huang tritt zurück",
-      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-chef-huang-ruecktritt-100.html",
-      "source": "ZDF",
-      "date": "2026-11-12T20:56+01:00",
-      "teaser": "Nvidia-Chef Huang gibt nach einer Affäre mit einer möglichen chinesischen Spionin seinen Posten auf. Finanzchefin Kress übernimmt vorübergehend."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.89,
     "items": [
      {
       "title": "Schlagzeilen",
@@ -341,7 +348,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.83,
     "items": [
      {
       "title": "Hauseinsturz in New York: Zahl der Toten steigt weiter",
@@ -354,7 +361,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.81,
     "items": [
      {
       "title": "Hodges: \"Unterhändler verstehen nicht, worum es geht\"",
@@ -367,7 +374,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Wie es nach dem Rückzug Huangs weitergehen könnte",
@@ -380,7 +387,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Thüringen: Und jetzt: Fünfzehn Minuten für die Verfassung",
@@ -393,7 +400,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Nervenkitzel: Wenn aus Krawallen ein Event wird",
@@ -406,7 +413,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Zwei Gardisten brechen fast gleichzeitig zusammen",
@@ -419,7 +426,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.71,
     "items": [
      {
       "title": "Koalition: Die CDU sieht ihrem Niedergang tatenlos zu",
@@ -432,14 +439,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.71,
     "items": [
      {
-      "title": "Haushaltsstreit: Wenn die zentrale Forderung des Kanzlers verpufft",
-      "url": "https://www.faz.net/aktuell/politik/inland/haushaltskrach-in-der-unionsfraktion-kommt-die-stromsteuer-doch-noch-201676500.html",
-      "source": "FAZ",
-      "date": "2026-11-12T19:18+00:00",
-      "teaser": "Die Einigung auf den nächsten Haushalt rückt näher. Doch vor allem der CDU fehlen große Reformschritte. Das sorgt für eine wilde Sitzung der Unionsfraktion."
+      "title": "Newsblog zu Nahost: Trump: Iran-Deal ist unnötig, Vance soll sich um anderes kümmern",
+      "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-trump-vance-deal-li.3579157",
+      "source": "Süddeutsche",
+      "date": "2026-11-12T19:25+00:00",
+      "teaser": "Die diplomatischen Gespräche stocken, da sagt der US-Präsident, dass eine Übereinkunft mit Teheran eh nicht mehr gebraucht werde. Sein Vize solle sich lieber um Innenpolitik kümmern."
      }
     ]
    }
@@ -447,7 +454,20 @@
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Święto w Mediolanie. Włosi lepsi od Francuzów w Lidze Narodów",
+      "url": "https://sport.rp.pl/pilka-nozna/art45482911-swieto-w-mediolanie-wlosi-lepsi-od-francuzow-w-lidze-narodow",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-12T23:26+01:00",
+      "teaser": "Kibice na San Siro, w tym nowy mistrz świata Formuły 1 Kimi Antonelli, obejrzeli świetny mecz, a Włosi niespodziewanie pokonali Francję 3:1. Bez Kyliana Mbappe drużynie Zinedine’a Zidane’a trudno zdobywać bramki."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
     "items": [
      {
       "title": "Norwegia przygotowuje się na rosyjski sabotaż. Kontrwywiad nie wyklucza ofiar śmiertelnych",
@@ -460,7 +480,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Czarzasty zwraca się do Nawrockiego ws. TK. \"Pan nie jest Święczkowskim\"",
@@ -473,7 +493,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.84,
     "items": [
      {
       "title": "Paweł Rożyński: Pycha kroczy przed upadkiem. Szefów takich firm jak Nvidia nie stać na słabości",
@@ -486,7 +506,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "Sędzia Korwin-Piotrowska zmieniła swoje zarządzenie. „W celu stabilizacji pracy TK”",
@@ -499,7 +519,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.81,
     "items": [
      {
       "title": "Londyn uderza w Rosję nowymi sankcjami",
@@ -512,7 +532,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.8,
     "items": [
      {
       "title": "We władzy Świętowita",
@@ -525,7 +545,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Duża awaria usług Microsoft. Użytkownicy mają problemy z dostępem do e-mail",
@@ -538,20 +558,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Polskie Porozumienie Niepodległościowe: program dla Polski",
-      "url": "https://historia.rp.pl/historia-polski/art45481311-polskie-porozumienie-niepodleglosciowe-program-dla-polski",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-12T21:18+01:00",
-      "teaser": "W 1976 r. grupa polskich intelektualistów zaczęła zastanawiać się, jak powinna wyglądać Polska po komunizmie. Tak uformowało się środowisko PPN, które postawiło na programy, analizy i pracę nad wizją suwerennego państwa."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.79,
     "items": [
      {
       "title": "Prezydent Rumunii ma propozycję dla USA. \"Chcemy mieć więcej amerykańskich żołnierzy\"",
@@ -564,7 +571,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.78,
+    "items": [
+     {
+      "title": "Polskie Porozumienie Niepodległościowe: program dla Polski",
+      "url": "https://historia.rp.pl/historia-polski/art45481311-polskie-porozumienie-niepodleglosciowe-program-dla-polski",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-12T21:18+01:00",
+      "teaser": "W 1976 r. grupa polskich intelektualistów zaczęła zastanawiać się, jak powinna wyglądać Polska po komunizmie. Tak uformowało się środowisko PPN, które postawiło na programy, analizy i pracę nad wizją suwerennego państwa."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.78,
     "items": [
      {
       "title": "Polacy i Żydzi: tysiąc lat wspólnej historii",
@@ -577,20 +597,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Stała baza USA w Polsce. MON wskazuje datę ogłoszenia decyzji. \"Jeszcze przed świętami\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33130248,stala-baza-usa-w-polsce-mon-wskazuje-date-ogloszenia-decyzji.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-12T20:09+00:00",
-      "teaser": "Decyzji w sprawie stałej bazy amerykańskiej w Polsce powinniśmy spodziewać się 3 lub 4 grudnia - zapowiedziała wiceszefowa Ministerstwa Obrony Narodowej Magdalena Sobkowiak-Czarnecka. Zaznaczyła, że wybór konkretnego miejsca jest już na finiszu. \"Nic więcej nie powiem\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.77,
     "items": [
      {
       "title": "Patagonia: podróż dla koneserów",
@@ -605,7 +612,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 6,
-    "score": 11.9,
+    "score": 11.82,
     "items": [
      {
       "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
@@ -632,34 +639,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.97,
-    "items": [
-     {
-      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "source": "The Guardian",
-      "date": "2026-11-12T21:33+00:00",
-      "teaser": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang doe"
-     },
-     {
-      "title": "Nvidia – Jensen Huang: Colette Kress übernimmt vorerst Konzernspitze – wer ist sie?",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-steht-beim-chip-konzern-vor-dem-aus-wer-auf-ihn-folgen-koennte-a-ab681d07-4346-42de-810e-15b6e63c4568#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-12T15:46+01:00",
-      "teaser": "Der Techgigant Nvidia galt als One-Man-Show des Jensen Huang. Jetzt ist der Superstar der IT-Branche über zwei Affären gestürzt. Mit Colette Kress ist eine Interimslösung gefunden, langfristig gibt es auch andere Kandidaten."
-     },
-     {
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-12T15:10+00:00",
-      "teaser": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
-     }
-    ]
-   },
-   {
-    "sourceCount": 4,
-    "score": 7.84,
+    "score": 7.92,
     "items": [
      {
       "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
@@ -686,7 +666,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 6.02,
+    "score": 5.94,
     "favorite": true,
     "items": [
      {
@@ -699,8 +679,35 @@
     ]
    },
    {
+    "sourceCount": 3,
+    "score": 5.89,
+    "items": [
+     {
+      "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "source": "The Guardian",
+      "date": "2026-11-12T21:33+00:00",
+      "teaser": "This live blog is now closed. Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vani"
+     },
+     {
+      "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+      "source": "New York Times",
+      "date": "2026-11-12T18:04+00:00",
+      "teaser": "News of the Nvidia co-founder’s relationship with a suspected Chinese spy, and his affair with an executive who reports to him, prompted his exit from the multi-trillion-dollar company."
+     },
+     {
+      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-12T15:26+00:00",
+      "teaser": "The billionaire tech executive has left the company following reports of a second extramarital affair."
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.81,
     "items": [
      {
       "title": "Drohnenhersteller: Cyberangriff auf Quantum Systems",
@@ -720,7 +727,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.68,
+    "score": 3.6,
     "items": [
      {
       "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
@@ -740,7 +747,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.65,
+    "score": 3.56,
     "items": [
      {
       "title": "Nvidia-Affäre: Der jähe Fall von Jensen Huang",
@@ -760,27 +767,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.64,
+    "score": 3.36,
     "items": [
      {
-      "title": "Bundesbank warnt vor erhöhten Risiken für das deutsche Finanzsystem",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-12T18:31+01:00",
-      "teaser": "Die Bundesbank sieht wachsende Gefahren für die Finanzbranche, weil Kredite zunehmend nicht zurückgezahlt werden. Aber auch Künstliche Intelligenz berge Risiken - und die Aggressivität von Cyberangriffen. Von Ursula Mayer."
+      "title": "Nvidia – Jensen Huang: Colette Kress übernimmt vorerst Konzernspitze – wer ist sie?",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-steht-beim-chip-konzern-vor-dem-aus-wer-auf-ihn-folgen-koennte-a-ab681d07-4346-42de-810e-15b6e63c4568#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-12T15:46+01:00",
+      "teaser": "Der Techgigant Nvidia galt als One-Man-Show des Jensen Huang. Jetzt ist der Superstar der IT-Branche über zwei Affären gestürzt. Mit Colette Kress ist eine Interimslösung gefunden, langfristig gibt es auch andere Kandidaten."
      },
      {
-      "title": "Bundesbank warnt vor wachsenden Risiken für Deutschlands Banken",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-warnt-vor-wachsenden-risiken-fuer-deutschlands-banken-a-b53aea9b-ff04-4b9f-a3e5-59f07fd19cdc#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-12T12:26+01:00",
-      "teaser": "Geringes Wirtschaftswachstum, hohe Staatsschulden sowie Risiken am Aktien- und Immobilienmarkt: Laut dem Finanzstabilitätsbericht der Bundesbank stehen Deutschlands Banken vor gleich mehreren Herausforderungen."
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-12T15:10+00:00",
+      "teaser": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.12,
+    "score": 3.04,
     "items": [
      {
       "title": "AI helps UK economy grow at fastest pace for more than two years",
@@ -800,40 +807,40 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 2.0,
     "items": [
      {
-      "title": "Musk-Konzern: Musk könnte offenbar noch im Dezember Fusion SpaceX und Tesla ankündigen",
-      "url": "https://www.handelsblatt.com/technik/it-internet/musk-konzern-musk-koennte-offenbar-noch-im-dezember-fusion-spacex-und-tesla-ankuendigen/100269540.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-12T21:27+00:00",
-      "teaser": "Laut einem Medienbericht könnte der Musk-Megakonzern bereits in wenigen Wochen bekannt gegeben werden. Der Tesla-Gründer hatte das Vorhaben im Oktober als „gute Idee“ bezeichnet."
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-12T22:51+00:00",
+      "teaser": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.98,
     "items": [
      {
-      "title": "Burnham targets deal with EU that will deliver ‘real benefits’ for UK",
-      "url": "https://www.ft.com/content/291248d4-b8f0-4b88-b847-d2ae4262d351?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-12T21:18+00:00",
-      "teaser": "British premier insists that ‘no one is talking’ about rejoining the bloc as summit nears"
+      "title": "Spionage-Affäre: Nvidia-Aktien büßen nach Jensen Huangs Rücktritt an Wert ein",
+      "url": "https://www.spiegel.de/wirtschaft/spionage-affaere-nvidia-aktien-buessen-nach-jensen-huangs-ruecktritt-an-wert-ein-a-a7155d5a-d0f2-43d4-b287-1f89bcb863ea#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-12T23:39+01:00",
+      "teaser": "Der Rücktritt von Jensen Huang hat die Wall Street am Donnerstag ins Minus gedrückt. Der Wert der Nvidia-Aktie sank deutlich, was auch in den großen Aktien-Indizes spürbar ist. Doch es gibt auch Profiteure."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.98,
     "items": [
      {
-      "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
-      "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+      "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
       "source": "New York Times",
-      "date": "2026-11-12T21:05+00:00",
-      "teaser": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth."
+      "date": "2026-11-12T22:40+00:00",
+      "teaser": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop."
      }
     ]
    }
@@ -841,69 +848,49 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.9,
+    "score": 7.95,
     "favorite": true,
     "items": [
      {
-      "title": "Sonora pitada a Ona Batlle en su vuelta al Spotify Camp Nou",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250382/sonora-pitada-ona-batlle-vuelta-spotify-camp-nou.html",
+      "title": "Ona Batlle, sobre los pitos: \"Entran por un lado y salen por otro\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250413/ona-batlle-sobre-silbidos-entran-lado-salen.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-12T21:42+01:00",
-      "teaser": "Una de las grandes dudas en la previa del Barça - Arsenal de este jueves era la presencia de Ona Batlle . La lateral catalana regresaba a Barcelona después de acabar contrato el pasado verano, decidir no renovar y firmar por el equipo británico, volviendo así a Inglaterra tras su paso por el Manches"
+      "date": "2026-11-12T23:17+01:00",
+      "teaser": "Ona Batlle no tuvo el retorno deseado a Barcelona. La jugadora del Maresme, que llegó 'entre algodones' a la Ciudad Condal por unas molestias musculares, salió en el ecuador de la media parte poco después de que el Barça hiciera el empate ante el Arsenal. Ona, que se despidió del club culé este pasa"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.84,
+    "score": 7.92,
     "favorite": true,
     "items": [
      {
-      "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
-      "url": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
-      "source": "The Guardian",
-      "date": "2026-11-12T20:00+00:00",
-      "teaser": "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, digging deep to hold on to a draw here. Frida Maanum put the Gunners ahead despite a hugely dominant performance from Barcelona, but Caroline Graham Hansen’s equaliser ensured the spoils would be shared. The last "
+      "title": "Juventud con galones y presente contrastado",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250409/juventud-galones-presente-contrastado.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-12T22:52+01:00",
+      "teaser": "El Barça se quedó con la sensación amarga de haber podido llevarse un premio mayor contra el Arsenal , pero el empate en el Spotify Camp Nou también dejó notas positivas que invitan a pensar en un futuro espléndido. Pere Romeu apostó de inicio por las jóvenes Sydney Schertenleib (19 años), Renee van"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.82,
+    "score": 7.91,
     "favorite": true,
     "items": [
      {
-      "title": "1-1: Un Arsenal combativo deja al Barça sin revancha",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250370/1-1-arsenal-combativo-deja-barca-revancha.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-12T20:46+01:00",
-      "teaser": "Empate sufrido del Barça femenino en el Spotify Camp Nou que deja a las azulgrana sin poder tomarse la revancha con el Arsenal (1-1). El esperado duelo entre los dos últimos campeones de la Champions League con las inglesas, verdugos de las azulgrana en la final de Lisboa en 2025, no defraudó pero e"
+      "title": "Gritty Arsenal show different side in Barcelona draw",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-12T21:50+00:00",
+      "teaser": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
-    "items": [
-     {
-      "title": "England 2-1 Croatia: Nations League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
-      "source": "The Guardian",
-      "date": "2026-11-12T21:37+00:00",
-      "teaser": "⚽️ Nations League updates from 7.45pm GMT ⚽️ Kane sets cap record | Live scoreboard | Email Scott Pre-match postbag. “With tonight’s record being broken, spare a thought for the holder of a more unwanted record, Emlyn Hughes. He won 62 caps and never got to go to the World Cup or Euros finals” – Rog"
-     },
-     {
-      "title": "Nations League: Türkei verliert trotz Güler-Traumtor gegen Belgien",
-      "url": "https://www.sportschau.de/fussball/nationsleague/tuerkei-verliert-trotz-gueler-traumtor-gegen-belgien,spielbericht-nl-tuerkei-belgien-100.html",
-      "source": "Sportschau",
-      "date": "2026-11-12T21:44+01:00",
-      "teaser": "Arda Güler hat beim Debüt des neuen türkischen Nationaltrainers Sergen Yalcin direkt per Freistoß gezaubert. Gereicht hat das aber nicht. Die Türkei verliert gegen Belgien und rückt dem Abstieg aus der Liga A der Nations League damit immer näher."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.79,
     "items": [
      {
       "title": "Klopp nach Gespräch mit Nmecha: \"Er wird so nicht mehr jubeln\"",
@@ -923,7 +910,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.61,
+    "score": 3.53,
     "items": [
      {
       "title": "Pierre Sage’s failure to fix defensive flaws leaves Crystal Palace seeking new solution",
@@ -943,7 +930,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.59,
+    "score": 3.5,
     "items": [
      {
       "title": "Fußball: Marco Materazzi stichelt gegen Zinédine Zidane",
@@ -963,7 +950,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.79,
+    "score": 2.71,
     "items": [
      {
       "title": "Sepp Blatter über Gianni Infantino: »Vielleicht sollte man ihn einmal in die Psychiatrie schicken«",
@@ -986,11 +973,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Kane scores winner but who else made an impression? England player ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-12T21:47+00:00",
-      "teaser": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict."
+      "title": "Kane nach Rekordspiel: \"Es waren ein paar verrückte Wochen\"",
+      "url": "https://www.kicker.de/kane-nach-rekordspiel-es-waren-ein-paar-verrueckte-wochen-1271130/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-12T22:45+00:00",
+      "teaser": "Gegen Kroatien avancierte Harry Kane zu Englands Rekord-Nationalspieler - dieses besondere Spiel entschied er dann, wie hätte es auch anders sein können, mit dem Siegtreffer zum 2:1. Kane äußerte sich nach Abpfiff in typischer Manier über den tollen Empfang in Wembley."
      }
     ]
    },
@@ -999,11 +986,24 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Italien schlägt überraschend Frankreich, Kane führt England zum Sieg",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-nations-league-a/spiele-und-ergebnisse",
+      "title": "Rekordnationalspieler Kane krönt unvergesslichen Abend",
+      "url": "https://www.sportschau.de/fussball/nationsleague/rekordnationalspieler-kane-kroent-unvergesslichen-abend,spielbericht-nl-england-kroatien-100.html",
       "source": "Sportschau",
-      "date": "2026-11-12T22:42+01:00",
-      "teaser": "Überraschung in Mailand: Italien gewinnt gegen Frankreich und beschert Zinedine Zidane die erste Niederlage als Nationaltrainer. England gewinnt dank Rekordspieler Harry Kane gegen Kroatien."
+      "date": "2026-11-12T23:38+01:00",
+      "teaser": "Frischgebackener Rekordnationalspieler Englands, nachträgliche Ehrung für den Ballon d'Or-Sieg, Viertelfinal-Einzug in der Nations League und ein Tor - Harry Kanes Abend beim Sieg gegen Kroatien hätte kaum besser verlaufen können."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
+      "url": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
+      "source": "The Guardian",
+      "date": "2026-11-12T22:31+00:00",
+      "teaser": "Loss is Zinedine Zidane’s first as France head coach Spain beat Czechia 2-0 to maintain 100% record Pio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed back to win 3-1 at San Siro and go top of their Nations League group. Michael Olise profite"
      }
     ]
    },
@@ -1012,32 +1012,59 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Kane trifft im Rekordspiel - Italien sorgt für erste Zidane-Niederlage als Frankreich-Coach",
-      "url": "https://www.kicker.de/kane-trifft-im-rekordspiel-italien-sorgt-fuer-erste-zidane-niederlage-als-frankreich-coach-1270216/artikel#omrss",
+      "title": "Messi in der MLS erneut für MVP-Titel nominiert - auch ein Deutscher steht zur Wahl",
+      "url": "https://www.kicker.de/messi-in-der-mls-erneut-fuer-mvp-titel-nominiert-auch-ein-deutscher-steht-zur-wahl-1271123/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-12T21:21+00:00",
-      "teaser": "Die Türkei konnte auch unter Neu-Trainer Yalcin nicht gewinnen, unterlag Belgien mit 1:2. Zinedine Zidane verlor in Italien erstmals als Frankreich-Coach, während sich Kroatien in England gut verkaufte, letztlich aber in Kanes Rekordspiel mit leeren Händen da stand. Spanien gab sich in Tschechien ke"
+      "date": "2026-11-12T22:24+00:00",
+      "teaser": "Lionel Messi strebt nach einem weiteren Novum in seiner Karriere. Als erster Spieler überhaupt darf der Argentinier in der Major League Soccer auf eine dritte MVP-Auszeichnung hoffen. Neben dem Superstar steht auch ein Deutscher zur Wahl."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.96,
     "items": [
      {
-      "title": "SFA in talks with Boston officials over biennial friendly match",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-12T21:16+00:00",
-      "teaser": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup."
+      "title": "Nations League: Italiens Comeback sorgt für erste Zidane-Niederlage",
+      "url": "https://www.sportschau.de/fussball/nationsleague/italiens-comeback-gegen-frankreich-entzaubert-zindane,spielbericht-nl-italien-frankreich-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-12T23:21+01:00",
+      "teaser": "Italien hat dem frühen Rückstand getrotzt und sich im Top-Duell gegen Frankreich durchgesetzt und damit für die erste Niederlage von Zinedine Zidane gesorgt. Matchwinner für die Italiener war der Youngster Francesco Esposito."
      }
     ]
    }
   ],
   "Tech & KI": [
    {
+    "sourceCount": 4,
+    "score": 7.95,
+    "items": [
+     {
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+      "source": "Wired",
+      "date": "2026-11-12T22:14+00:00",
+      "teaser": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here."
+     },
+     {
+      "title": "Nvidia-Chef Jensen Huang tritt nach Affären zurück - vorläufige Nachfolgerin steht schon fest",
+      "url": "https://t3n.de/news/nvidia-chef-jensen-huang-tritt-nach-affaeren-zurueck-1773333/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-12T15:22+01:00",
+      "teaser": "Nvidia-Chef Jensen Huang ist das Gesicht des KI-Booms. Er stürzt nun über außereheliche Affären, darunter auch eine mit politischem Zündstoff. weiterlesen auf t3n.de"
+     },
+     {
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "source": "New York Times",
+      "date": "2026-11-12T01:57+00:00",
+      "teaser": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy."
+     }
+    ]
+   },
+   {
     "sourceCount": 3,
-    "score": 5.95,
+    "score": 5.86,
     "items": [
      {
       "title": "Jensen Huang Resigns From Nvidia After Affairs",
@@ -1063,55 +1090,8 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.37,
-    "items": [
-     {
-      "title": "Nvidia-Chef Jensen Huang tritt nach Affären zurück - vorläufige Nachfolgerin steht schon fest",
-      "url": "https://t3n.de/news/nvidia-chef-jensen-huang-tritt-nach-affaeren-zurueck-1773333/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-12T15:22+01:00",
-      "teaser": "Nvidia-Chef Jensen Huang ist das Gesicht des KI-Booms. Er stürzt nun über außereheliche Affären, darunter auch eine mit politischem Zündstoff. weiterlesen auf t3n.de"
-     },
-     {
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "source": "New York Times",
-      "date": "2026-11-12T01:57+00:00",
-      "teaser": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy."
-     },
-     {
-      "title": "Außereheliche Affären: Nvidia-CEO Jensen Huang tritt mit sofortiger Wirkung ab",
-      "url": "https://www.heise.de/news/Nach-Bekanntwerden-einer-zweiten-Affaere-Nvidia-CEO-Jensen-Huang-abgetreten-11522193.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "source": "heise online",
-      "date": "2026-11-12T15:08+01:00",
-      "teaser": "Nachdem Jensen Huang am Wochenende eine außereheliche Affäre eingestanden hat, konnte er sich noch halten. Über die Zweite ist er nun gestolpert und tritt ab."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.99,
-    "items": [
-     {
-      "title": "‘It’s a mistake for Nvidia to let Jensen resign’: reactions from tech leaders on Jensen Huang’s resignation",
-      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-      "source": "The Verge",
-      "date": "2026-11-12T16:45-05:00",
-      "teaser": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the susp"
-     },
-     {
-      "title": "Jensen Huang’s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
-      "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
-      "source": "New York Times",
-      "date": "2026-11-12T17:26+00:00",
-      "teaser": "Mr. Huang, the company’s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.96,
     "items": [
      {
       "title": "Microsoft Outlook is down",
@@ -1121,17 +1101,17 @@
       "teaser": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing ele"
      },
      {
-      "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
-      "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
-      "source": "Wired",
-      "date": "2026-11-12T20:01+00:00",
-      "teaser": "Microsoft says its systems are experiencing “elevated loads” as the company races to end an outage impacting its business and enterprise customers."
+      "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+      "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+      "source": "New York Times",
+      "date": "2026-11-12T22:21+00:00",
+      "teaser": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.65,
+    "score": 3.57,
     "items": [
      {
       "title": "The Jensen Huang scandal is hardly over",
@@ -1150,22 +1130,28 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.44,
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
-      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "title": "Mint Mobile Will Give You $500 off Select New Phones When You Sign Up for a Year",
+      "url": "https://www.wired.com/story/mint-mobile-phone-deal-november-2026/",
       "source": "Wired",
-      "date": "2026-11-12T14:14+00:00",
-      "teaser": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday."
-     },
+      "date": "2026-11-12T22:47+00:00",
+      "teaser": "The limited-time offer applies to the latest phones from Google and Samsung, but you must be a new customer who signs up for 12 months of the unlimited plan."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
      {
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-12T15:10+00:00",
-      "teaser": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
+      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+      "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+      "source": "New York Times",
+      "date": "2026-11-12T22:40+00:00",
+      "teaser": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop."
      }
     ]
    },
@@ -1174,11 +1160,24 @@
     "score": 1.97,
     "items": [
      {
-      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
-      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
-      "source": "The Verge",
-      "date": "2026-11-12T16:28-05:00",
-      "teaser": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price […]"
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "date": "2026-11-12T22:28+00:00",
+      "teaser": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Silicon Valley Is Still Defending Jensen Huang",
+      "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+      "source": "Wired",
+      "date": "2026-11-12T22:29+00:00",
+      "teaser": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial."
      }
     ]
    },
@@ -1197,53 +1196,40 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.92,
     "items": [
      {
-      "title": "Here are the 25 original Xbox games you can now play on PC",
-      "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
       "source": "The Verge",
-      "date": "2026-11-12T16:00-05:00",
-      "teaser": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally laun"
+      "date": "2026-11-12T16:55-05:00",
+      "teaser": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available startin"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.91,
     "items": [
      {
-      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
-      "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
-      "source": "Wired",
-      "date": "2026-11-12T20:35+00:00",
-      "teaser": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "source": "Ars Technica",
-      "date": "2026-11-12T19:59+00:00",
-      "teaser": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Meet the people who want peptides to be made in America",
-      "url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
+      "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
+      "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
       "source": "The Verge",
-      "date": "2026-11-12T15:00-05:00",
-      "teaser": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th. Opt in for Optimizer here. The SS Jeremiah"
+      "date": "2026-11-12T16:45-05:00",
+      "teaser": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the susp"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "url": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-12T16:28-05:00",
+      "teaser": "The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price […]"
      }
     ]
    }
