@@ -1,18 +1,38 @@
 {
- "fetchedAt": "2026-11-12T23:50:32+00:00",
+ "fetchedAt": "2026-11-13T01:15:39+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 6,
-    "score": 11.81,
+    "sourceCount": 5,
+    "score": 9.93,
     "items": [
      {
-      "title": "Putin indicates he will not compromise on Ukraine in meeting with US envoys",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374265/putin-indicates-he-will-not-compromise-ukraine-meeting-us-envoys",
-      "source": "South China Morning Post",
-      "date": "2026-11-12T19:05+00:00",
-      "teaser": "Vladimir Putin indicated on Thursday that Russia will not compromise on its hardline demands to end the Ukraine offensive but offered a short-term ceasefire in a key frontline city during a Kremlin meeting with US envoys. The Russian president said he would not water down his demands to control part"
+      "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
+      "url": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
+      "source": "France 24",
+      "date": "2026-11-12T22:10+00:00",
+      "teaser": "Jensen Huang, long considered the face of the AI revolution, has resigned as Nvidia's President, CEO and board member as sandals over his romantic affairs wiped hundreds of billions of dollars from the company's market value in a matter of days. US lawmakers signal they'll likely push for tighter ex"
      },
+     {
+      "title": "Nvidia-Chef Jensen Huang tritt nach Affären zurück",
+      "url": "https://www.dw.com/de/nvidia-chef-jensen-huang-tritt-nach-affären-zurück/a-79932950?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-12T15:35+00:00",
+      "teaser": "Der CEO des wichtigsten Herstellers für KI-Prozessoren räumt seinen Stuhl. Auch wenn das US-Unternehmen offiziell keine Gründe nennt, ist die Sachlage klar. Im Kongress in Washington dürfte ein Nachspiel folgen."
+     },
+     {
+      "title": "Nvidia CEO Jensen Huang resigns amid spy scandal",
+      "url": "https://www.thehindu.com/news/international/nvidia-ceo-jensen-huang-resigns-amid-scandal/article71694271.ece",
+      "source": "The Hindu",
+      "date": "2026-11-12T21:26+05:30",
+      "teaser": "Chief financial officer Colette Kress will serve as interim CEO while keeping her finance role, and the board will consider internal and external candidates for a permanent replacement"
+     }
+    ]
+   },
+   {
+    "sourceCount": 5,
+    "score": 9.69,
+    "items": [
      {
       "title": "Zelensky meets with Trump's envoys in Dublin after their summit with Putin",
       "url": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/",
@@ -26,39 +46,19 @@
       "source": "CBC",
       "date": "2026-11-12T09:48-05:00",
       "teaser": "U.S. envoys met Thursday with Russian President Vladimir Putin in the Kremlin before heading to Ireland for talks with Ukrainian President Volodymyr Zelenskyy as Washington sought new momentum for its peace efforts."
+     },
+     {
+      "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
+      "source": "NPR",
+      "date": "2026-11-12T04:38-05:00",
+      "teaser": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday."
      }
     ]
    },
    {
-    "sourceCount": 5,
-    "score": 9.9,
-    "items": [
-     {
-      "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
-      "url": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
-      "source": "France 24",
-      "date": "2026-11-12T22:10+00:00",
-      "teaser": "Jensen Huang, long considered the face of the AI revolution, has resigned as Nvidia's President, CEO and board member as sandals over his romantic affairs wiped hundreds of billions of dollars from the company's market value in a matter of days. US lawmakers signal they'll likely push for tighter ex"
-     },
-     {
-      "title": "What we know after Jensen Huang's resignation as Nvidia's CEO",
-      "url": "https://www.pbs.org/newshour/nation/what-we-know-after-jensen-huangs-resignation-as-nvidias-ceo",
-      "source": "PBS NewsHour",
-      "date": "2026-11-12T17:37-05:00",
-      "teaser": "Nvidia announced Huang's resignation on Thursday, effective immediately. The California-based company said that Colette Kress — who has been Nvidia's chief financial officer and executive vice president since 2013 — will step into the role of interim CEO."
-     },
-     {
-      "title": "Nvidia-Chef Jensen Huang tritt nach Affären zurück",
-      "url": "https://www.dw.com/de/nvidia-chef-jensen-huang-tritt-nach-affären-zurück/a-79932950?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-12T15:35+00:00",
-      "teaser": "Der CEO des wichtigsten Herstellers für KI-Prozessoren räumt seinen Stuhl. Auch wenn das US-Unternehmen offiziell keine Gründe nennt, ist die Sachlage klar. Im Kongress in Washington dürfte ein Nachspiel folgen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 5,
-    "score": 9.89,
+    "sourceCount": 4,
+    "score": 7.57,
     "items": [
      {
       "title": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
@@ -68,24 +68,24 @@
       "teaser": "Israeli fire killed 11 people in Gaza on Thursday, six of them in the bombing of Nasser hospital in south Gaza early in the day, health officials said, the deadliest single strike since Israel's elections last month. FRANCE 24's Mark Owen speaks with Dr Goher Rahbour, a surgeon working at the Nasser"
      },
      {
-      "title": "Israeli strike on Gaza hospital kills 11 in deadliest attack since election",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3374264/israeli-strike-gaza-hospital-kills-11-deadliest-attack-election",
-      "source": "South China Morning Post",
-      "date": "2026-11-12T18:32+00:00",
-      "teaser": "Israeli fire killed 11 people in Gaza on Thursday, six of them in the bombing of Nasser hospital in south Gaza early in the day, health officials said, the deadliest single strike since Israel’s elections last month. The Israeli military confirmed the attack, saying they targeted “the commander of H"
-     },
-     {
       "title": "Israeli strike on a Gaza hospital kills 6 people, including surgeon, health authorities say",
       "url": "https://www.cbc.ca/news/world/israeli-strike-on-gaza-hospital-kills-six-people-9.7418729?cmp=rss",
       "source": "CBC",
       "date": "2026-11-12T04:53-05:00",
       "teaser": "An Israeli airstrike on southern Gaza's main hospital overnight killed at least six Palestinians, including a surgeon and a teenage boy, medics said, the latest Israeli attack to undermine a year-old ceasefire in the war-shattered territory."
+     },
+     {
+      "title": "An Israeli strike on a Gaza hospital kills 6 people, including a doctor and a child",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+      "source": "NPR",
+      "date": "2026-11-12T04:29-05:00",
+      "teaser": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants. The commander was not found among the dead."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.0600000000000005,
+    "score": 6.9399999999999995,
     "favorite": true,
     "items": [
      {
@@ -99,34 +99,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.98,
-    "items": [
-     {
-      "title": "Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories",
-      "url": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories",
-      "source": "PBS NewsHour",
-      "date": "2026-11-12T18:15-05:00",
-      "teaser": "Holscher, a state senator, promised to halt new data centers and overcame a flood of money that Republicans poured behind Ty Masterson, the president of the GOP-controlled state Senate."
-     },
-     {
-      "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
-      "url": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-      "source": "NPR (Politik)",
-      "date": "2026-11-12T18:36-05:00",
-      "teaser": "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races."
-     },
-     {
-      "title": "Holscher Wins Kansas Governor Race, Retaining Seat for Democrats",
-      "url": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-12T23:16+00:00",
-      "teaser": "State Senator Cindy Holscher won the race. Though Kansas is reliably Republican in presidential elections, its voters often break for Democrats in midterms."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.89,
+    "score": 5.77,
     "items": [
      {
       "title": "Hegseth gives top award to soldier who scolded him at war cemetery",
@@ -153,7 +126,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.66,
+    "score": 5.55,
     "items": [
      {
       "title": "Gaza: Mehrere Tote nach israelischem Angriff auf Nasser-Krankenhaus",
@@ -179,33 +152,6 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.09,
-    "items": [
-     {
-      "title": "How Scott Colom defied the odds to go from DA to Mississippi's Democratic U.S. senator",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
-      "source": "NPR (Politik)",
-      "date": "2026-11-12T05:00-05:00",
-      "teaser": "In a state that hasn't had a Democrat in office since 1980 and hasn't sent a Black senator to Washington since the 1870s, Colom's win represents a massive upset in state politics."
-     },
-     {
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-12T12:56+00:00",
-      "teaser": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom to Senate in massive upset",
-      "url": "https://www.politico.com/news/2026/11/11/scott-colom-wins-mississippi-senate-01161555",
-      "source": "Politico",
-      "date": "2026-11-11T18:01-05:00",
-      "teaser": "Colom's win is a boost to the Democratic Party as it seeks to gain a larger foothold in the South."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
     "score": 3.99,
     "items": [
@@ -220,68 +166,108 @@
       "title": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
       "url": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
       "source": "New York Times (USA)",
-      "date": "2026-11-12T23:45+00:00",
+      "date": "2026-11-13T01:11+00:00",
       "teaser": "The Fire Department said the search for victims on Flatbush Avenue was over, while city investigators began looking into an excavation occurring next door."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.97,
     "items": [
      {
-      "title": "Washington DC shooting: One dead, four people injured",
-      "url": "https://www.thehindu.com/news/international/washington-dc-shooting-logan-circle-near-white-house-people-dead-and-several-injured/article71695104.ece",
-      "source": "The Hindu",
-      "date": "2026-11-12T22:56+05:30",
-      "teaser": "A officer said the suspect shot himself while barricaded inside an apartment. He added that the man apparently had a dispute with the building’s homeowners association"
+      "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
+      "source": "The Guardian",
+      "date": "2026-11-13T00:57+00:00",
+      "teaser": "Cummins speaks about allegations in Usman Khawaja’s book about the 2018 ball-tampering incident ‘Complete and utter nonsense’: Australia captain Pat Cummins hits back at Khawaja ‘sandpapergate’ claims Cummins says there’s a ‘proper way to do things’ Cummins says he believes there was a proper way to"
      },
      {
-      "title": "Deadly shooting in Washington DC",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-12T21:18+00:00",
-      "teaser": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed"
+      "title": "Cummins hits out at Khawaja in passionate hour-long press conference",
+      "url": "https://www.abc.net.au/news/2026-11-13/pat-cummins-says-usman-khawaja-casual-with-peoples-lives/107381770",
+      "source": "ABC Australia",
+      "date": "2026-11-13T00:39+00:00",
+      "teaser": "Australian Test cricket captain Pat Cummins rubbishes Usman Khawaja's ball tampering claims in a long and passionate press conference."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.75,
+    "score": 3.95,
     "items": [
      {
-      "title": "Israel verbietet Jean-Luc Mélenchon wegen antiisraelischer Haltung Einreise",
-      "url": "https://www.spiegel.de/ausland/israel-verbietet-jean-luc-melenchon-wegen-antiisraelischer-haltung-einreise-a-61502964-7e0f-412a-9b40-b41a9754bf01#ref=rss",
+      "title": "Ukrainekrieg: Witkoff kündigt Beteiligung Europas an Verhandlungen an",
+      "url": "https://www.spiegel.de/ausland/ukrainekrieg-witkoff-kuendigt-beteiligung-europas-an-verhandlungen-an-a-aa8619e7-7ea6-4b1d-bf03-3bf4cf42e0a1#ref=rss",
       "source": "Spiegel",
-      "date": "2026-11-12T21:54+01:00",
-      "teaser": "Wegen »Ritualmordlegenden gegen Israel« hat Außenminister Gideon Sa’ar dem französischen Präsidentschaftskandidaten Jean-Luc Mélenchon die Einreise verboten. Der reagiert trotzig."
+      "date": "2026-11-12T22:46+01:00",
+      "teaser": "Nach direkten Verhandlungen zwischen Russland, der Ukraine und den USA hat der US-Sondergesandte Witkoff einen weiteren Termin angekündigt, an dem auch die Europäer teilnehmen sollen. Unklar ist aber, wer genau Europa vertreten soll."
      },
      {
-      "title": "Israel: Israel verbietet französischem Präsidentschaftskandidaten Einreise",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/israel-einreiseverbot-jean-luc-melenchon-mathilde-panot",
-      "source": "Zeit",
-      "date": "2026-11-12T19:27+00:00",
-      "teaser": "Israel wirft Jean-Luc Mélenchon vor, »Ritualmordlegenden« zu verbreiten. Der französische Linkspopulist könnte kommendes Jahr in der Stichwahl gegen Marine Le Pen stehen."
+      "title": "US-Unterhändler kündigen Europas Beteiligung bei Ukraine-Verhandlungen an",
+      "url": "https://www.tagesschau.de/ausland/europa/epg-ukraine-usa-europa-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-13T01:40+01:00",
+      "teaser": "Von Putin zu Selenskyj - die US-Unterhändler Kushner und Witkoff kommen mit einer Ankündigung aus Moskau nach Dublin. Bei den Verhandlungen sollen künftig auch die Europäer teilnehmen."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.59,
+    "score": 3.88,
     "items": [
      {
-      "title": "Donald Trump weist JD Vance zurecht – Vize soll sich nicht um Iran kümmern",
-      "url": "https://www.spiegel.de/ausland/donald-trump-weist-jd-vance-zurecht-vize-soll-sich-nicht-um-iran-kuemmern-a-1b62d01a-55fd-4a6d-85c3-44b4558eed82#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-12T19:57+01:00",
-      "teaser": "JD Vance machte den Irankrieg für die Midterm-Schlappe der Republikaner verantwortlich und warb für Verhandlungen mit dem Land. Jetzt pfeift Trump seinen Vize brüsk zurück."
+      "title": "Eight killed, including two children, in New York building collapse",
+      "url": "https://www.france24.com/en/americas/20261112-eight-killed-including-two-children-in-new-york-building-collapse",
+      "source": "France 24",
+      "date": "2026-11-12T22:58+00:00",
+      "teaser": "Eight people, including two children, were killed when a residential building collapsed into an adjacent construction site in Brooklyn on Wednesday. Firefighters spent hours searching the rubble overnight before declaring the operation over on Thursday, as authorities launched an investigation into "
      },
      {
-      "title": "USA unter Trump: Trump weist Vance zurecht: Aufmerksamkeit nicht auf Iran richten",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-weist-vance-zurecht-aufmerksamkeit-nicht-auf-iran-richten-faz-19444916.html",
-      "source": "FAZ",
-      "date": "2026-11-12T14:23+00:00",
-      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
+      "title": "New York building collapse kills 8, including 2 children",
+      "url": "https://www.pbs.org/newshour/show/new-york-building-collapse-kills-8-including-2-children",
+      "source": "PBS NewsHour",
+      "date": "2026-11-12T18:50-05:00",
+      "teaser": "New York officials say they've ended their rescue operations at the site of a collapsed building in Brooklyn and that there are no more victims inside. The collapse killed at least eight people, including two children, and injured dozens more. William Brangham reports."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.88,
+    "items": [
+     {
+      "title": "Teen missing for six days recounts ordeal from hospital",
+      "url": "https://www.abc.net.au/news/2026-11-13/teen-william-recovers-in-hospital-after-six-days-lost-in-bush/107381438",
+      "source": "ABC Australia",
+      "date": "2026-11-12T23:48+00:00",
+      "teaser": "William, 17, says he sang John Denver's Take Me Home, Country Roads to keep his spirits up while he desperately hoped to be rescued in Victoria's east."
+     },
+     {
+      "title": "Missing teen found alive after 6 days in the Australian woodlands",
+      "url": "https://www.cbc.ca/news/world/missing-teen-found-australia-9.7418731?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-12T04:54-05:00",
+      "teaser": "A 17-year-old boy with autism was found alive Thursday after six days lost in eastern Australian woodlands."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.87,
+    "items": [
+     {
+      "title": "How Scott Colom won his longshot bid to flip Mississippi's Senate seat",
+      "url": "https://www.pbs.org/newshour/show/how-scott-colom-won-his-longshot-bid-to-flip-mississippis-senate-seat",
+      "source": "PBS NewsHour",
+      "date": "2026-11-12T18:40-05:00",
+      "teaser": "In Mississippi, Democrat Scott Colom won his longshot bid to oust incumbent Republican Sen. Cindy Hyde-Smith. Colom's victory is a stunning reversal in the deeply conservative state that hasn't been represented by a Black senator since the Reconstruction era following the Civil War. Liz Landers repo"
+     },
+     {
+      "title": "Mississippi elects Democrat Scott Colom to Senate in massive upset",
+      "url": "https://www.politico.com/news/2026/11/11/scott-colom-wins-mississippi-senate-01161555",
+      "source": "Politico",
+      "date": "2026-11-11T18:01-05:00",
+      "teaser": "Colom's win is a boost to the Democratic Party as it seeks to gain a larger foothold in the South."
      }
     ]
    }
@@ -289,7 +275,7 @@
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.25,
+    "score": 5.14,
     "items": [
      {
       "title": "Frühe Bildung: Bundestag beschließt verbindliche Sprachtests für Kinder",
@@ -316,27 +302,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.83,
-    "items": [
-     {
-      "title": "News des Tages: Nvidia-Chef Jensen Huang tritt zurück, Startchancengesetz für Kitakinder, Hype um Grand Theft Auto 6",
-      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-nvidia-chef-jensen-huang-tritt-zurueck-startchancengesetz-fuer-kitakinder-hype-um-grand-theft-auto-6-a-0b48fa44-e908-4c2c-a96b-b8e54d42e674#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-12T17:51+01:00",
-      "teaser": "Der Nvidia-Chef tritt zurück. Der Bundestag beschließt ein wichtiges Kitagesetz. Und seit heute kann man das gehypteste Videospiel aller Zeiten kaufen, aber noch nicht zocken. Das ist die Lage am Donnerstagabend."
-     },
-     {
-      "title": "Spionage-Affäre: Nvidia-Chef Huang tritt zurück",
-      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-chef-huang-ruecktritt-100.html",
-      "source": "ZDF",
-      "date": "2026-11-12T22:50+01:00",
-      "teaser": "Nvidia-Chef Huang gibt nach einer Affäre mit einer möglichen chinesischen Spionin seinen Posten auf. Finanzchefin Kress übernimmt vorübergehend."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.66,
     "items": [
      {
       "title": "Bayerischer Drohnenhersteller Quantum Systems meldet Cyberangriff",
@@ -356,7 +322,59 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Laschet: \"Selbstverständlich soll Merz mit Putin reden\"",
+      "url": "https://www.zdfheute.de/politik/ausland/illner-laschet-mohamed-ali-ukraine-krieg-russland-100.html",
+      "source": "ZDF",
+      "date": "2026-11-13T02:10+01:00",
+      "teaser": "Laschet (CDU) will mehr Klarheit in der EU-Außenpolitik, Mohamed Ali (BSW) ein Ende der Waffenhilfe für die Ukraine und der ukrainische Ex-Außenminister einen raschen EU-Beitritt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "EU-Emissionshandel: Industrie in der EU soll weniger für Emissionen bezahlen müssen",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/emissionshandel-eu-industrie-ets-kostenlose-zertifikate",
+      "source": "Zeit",
+      "date": "2026-11-13T00:49+00:00",
+      "teaser": "Unternehmen in der EU sollen zeitlich begrenzt mehr kostenlose Emissionszertifikate bekommen. Das soll die Industrie finanziell entlasten und Abwanderung vermeiden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Johannes Winkel: Haushaltspläne \"auf Dauer nicht tragfähig\"",
+      "url": "https://www.zdfheute.de/politik/deutschland/lanz-winkel-audretsch-finanzdebatte-bundeshaushalt-100.html",
+      "source": "ZDF",
+      "date": "2026-11-13T01:28+01:00",
+      "teaser": "\"Politischer Fehler\", \"völlig überflüssige Ankündigung\" - Unionsfraktionsvize Winkel kritisiert Merz. Grünen-Fraktionsvize Audretsch prophezeit eine \"finanzpolitische Explosion\"."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Microsoft-Dienste weltweit mit Störungen",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
+      "source": "SWR",
+      "date": "2026-11-13T01:15+01:00",
+      "teaser": "Ein großflächiger Ausfall von Microsoft-Diensten, darunter Outlook: Innerhalb der Anwendungspalette des Technologiekonzerns kommt es weltweit zu Störungen. Das Unternehmen arbeite…"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.63,
     "items": [
      {
       "title": "Hauseinsturz in New York: Zahl der Toten steigt weiter",
@@ -369,20 +387,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.73,
-    "items": [
-     {
-      "title": "Hodges: \"Unterhändler verstehen nicht, worum es geht\"",
-      "url": "https://www.zdfheute.de/politik/ausland/ukraine-krieg-putin-verhandlungen-usa-trump-100.html",
-      "source": "ZDF",
-      "date": "2026-11-12T21:35+01:00",
-      "teaser": "Trumps Unterhändler waren bei Putin, jetzt reisen sie zu Selenskyj. Ex-US-General Hodges erwartet davon wenig: Die USA hätten in den Gesprächen längst Russlands Sicht übernommen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.6,
     "items": [
      {
       "title": "Wie es nach dem Rückzug Huangs weitergehen könnte",
@@ -395,7 +400,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.53,
     "items": [
      {
       "title": "Thüringen: Und jetzt: Fünfzehn Minuten für die Verfassung",
@@ -408,7 +413,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.53,
     "items": [
      {
       "title": "Nervenkitzel: Wenn aus Krawallen ein Event wird",
@@ -421,7 +426,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.53,
     "items": [
      {
       "title": "Zwei Gardisten brechen fast gleichzeitig zusammen",
@@ -434,7 +439,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.51,
     "items": [
      {
       "title": "Koalition: Die CDU sieht ihrem Niedergang tatenlos zu",
@@ -444,38 +449,12 @@
       "teaser": "Die SPD lässt den Kanzler auflaufen. Das ist eine Antwort auf die Vertrauensfrage, ohne dass sie gestellt werden müsste."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.63,
-    "items": [
-     {
-      "title": "Newsblog zu Nahost: Trump: Iran-Deal ist unnötig, Vance soll sich um anderes kümmern",
-      "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-iran-usa-trump-vance-deal-li.3579157",
-      "source": "Süddeutsche",
-      "date": "2026-11-12T19:25+00:00",
-      "teaser": "Die diplomatischen Gespräche stocken, da sagt der US-Präsident, dass eine Übereinkunft mit Teheran eh nicht mehr gebraucht werde. Sein Vize solle sich lieber um Innenpolitik kümmern."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.62,
-    "items": [
-     {
-      "title": "Haushaltsstreit: Wenn die zentrale Forderung des Kanzlers verpufft",
-      "url": "https://www.faz.net/aktuell/politik/inland/haushaltskrach-in-der-unionsfraktion-kommt-die-stromsteuer-doch-noch-201676500.html",
-      "source": "FAZ",
-      "date": "2026-11-12T19:18+00:00",
-      "teaser": "Die Einigung auf den nächsten Haushalt rückt näher. Doch vor allem der CDU fehlen große Reformschritte. Das sorgt für eine wilde Sitzung der Unionsfraktion."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.81,
     "items": [
      {
       "title": "Elastyczność, czyli jak kupować gaz i na tym zyskać",
@@ -488,7 +467,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.81,
     "items": [
      {
       "title": "Drga Ci powieka lub łapią Cię skurcze? Przyczyna nie zawsze jest oczywista",
@@ -501,7 +480,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.81,
     "items": [
      {
       "title": "PGE szykuje grunt pod inwestycje z udziałem polskich firm",
@@ -514,7 +493,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.77,
     "items": [
      {
       "title": "Święto w Mediolanie. Włosi lepsi od Francuzów w Lidze Narodów",
@@ -527,7 +506,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.67,
     "items": [
      {
       "title": "Norwegia przygotowuje się na rosyjski sabotaż. Kontrwywiad nie wyklucza ofiar śmiertelnych",
@@ -540,7 +519,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.78,
+    "score": 1.66,
     "items": [
      {
       "title": "Czarzasty zwraca się do Nawrockiego ws. TK. \"Pan nie jest Święczkowskim\"",
@@ -553,7 +532,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.64,
     "items": [
      {
       "title": "Paweł Rożyński: Pycha kroczy przed upadkiem. Szefów takich firm jak Nvidia nie stać na słabości",
@@ -566,7 +545,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.64,
     "items": [
      {
       "title": "Sędzia Korwin-Piotrowska zmieniła swoje zarządzenie. „W celu stabilizacji pracy TK”",
@@ -579,7 +558,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.73,
+    "score": 1.61,
     "items": [
      {
       "title": "Londyn uderza w Rosję nowymi sankcjami",
@@ -592,7 +571,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.6,
     "items": [
      {
       "title": "We władzy Świętowita",
@@ -605,7 +584,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.6,
     "items": [
      {
       "title": "Duża awaria usług Microsoft. Użytkownicy mają problemy z dostępem do e-mail",
@@ -618,7 +597,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.59,
     "items": [
      {
       "title": "Prezydent Rumunii ma propozycję dla USA. \"Chcemy mieć więcej amerykańskich żołnierzy\"",
@@ -633,7 +612,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 6,
-    "score": 11.74,
+    "score": 11.62,
     "items": [
      {
       "title": "Mercedes stoppt Investitionen in Deutschland - und prüft Schließungen",
@@ -660,7 +639,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.84,
+    "score": 7.72,
     "items": [
      {
       "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
@@ -686,22 +665,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 5.86,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-11T22:07+00:00",
-      "teaser": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
-     }
-    ]
-   },
-   {
     "sourceCount": 3,
-    "score": 5.81,
+    "score": 5.91,
     "items": [
      {
       "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
@@ -711,11 +676,11 @@
       "teaser": "This live blog is now closed. Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vani"
      },
      {
-      "title": "Jensen Huang’s Affairs That Upended Nvidia: Timeline of Events",
-      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
-      "source": "New York Times",
-      "date": "2026-11-12T18:04+00:00",
-      "teaser": "News of the Nvidia co-founder’s relationship with a suspected Chinese spy, and his affair with an executive who reports to him, prompted his exit from the multi-trillion-dollar company."
+      "title": "Nvidia chief Jensen Huang toppled by revelations of extramarital affairs",
+      "url": "https://www.ft.com/content/83474218-387c-4f93-a27b-ffdfee624029?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-13T00:07+00:00",
+      "teaser": "Departure marks stunning end to three-decade tenure of executive who built chip company into an engine of the AI boom"
      },
      {
       "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
@@ -728,7 +693,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.87,
+    "items": [
+     {
+      "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+      "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+      "source": "New York Times",
+      "date": "2026-11-12T23:40+00:00",
+      "teaser": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online."
+     },
+     {
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-12T20:25+00:00",
+      "teaser": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\"."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.8,
     "items": [
      {
       "title": "Huang’s fall is an indictment of founder mode at Big Tech",
@@ -748,7 +733,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.49,
+    "score": 3.37,
     "items": [
      {
       "title": "Nvidia-Affäre: Der jähe Fall von Jensen Huang",
@@ -768,7 +753,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.28,
+    "score": 3.16,
     "items": [
      {
       "title": "Nvidia – Jensen Huang: Colette Kress übernimmt vorerst Konzernspitze – wer ist sie?",
@@ -788,7 +773,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.96,
+    "score": 2.84,
     "items": [
      {
       "title": "AI helps UK economy grow at fastest pace for more than two years",
@@ -811,50 +796,50 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
-      "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+      "title": "Huang and Lutnick Summoned to Testify Before Congress",
+      "url": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
       "source": "New York Times",
-      "date": "2026-11-12T23:40+00:00",
-      "teaser": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online."
+      "date": "2026-11-13T01:10+00:00",
+      "teaser": "Senator Tim Scott said he had requested that the Nvidia co-founder and the commerce secretary appear before the Senate Banking Committee."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
     "items": [
      {
-      "title": "Ukraine-Krieg: Laut Kushner ist Putin bereit für Europäer am Verhandlungstisch",
-      "url": "https://www.handelsblatt.com/politik/international/ukraine-krieg-laut-kushner-ist-putin-bereit-fuer-europaeer-am-verhandlungstisch/100269545.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-12T23:34+00:00",
-      "teaser": "Im Ringen um ein Ende des Ukraine-Kriegs reisen die US-Unterhändler Kushner und Witkoff von Kremlchef Putin zu einem Gespräch mit dem ukrainischen Präsidenten Selenskyj – samt einer Ankündigung."
+      "title": "Lutnick Took a Softer Line on Nvidia as Calls for Tougher Controls Grew",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+      "source": "New York Times",
+      "date": "2026-11-13T01:06+00:00",
+      "teaser": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.91,
     "items": [
      {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-12T23:34+00:00",
-      "teaser": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy."
+      "date": "2026-11-13T00:13+00:00",
+      "teaser": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.9,
     "items": [
      {
-      "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
-      "url": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
+      "title": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
+      "url": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-12T23:26+00:00",
-      "teaser": "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO"
+      "date": "2026-11-13T00:00+00:00",
+      "teaser": "American envoy’s comments come as European leaders reject Russian push to overhaul continent’s security"
      }
     ]
    }
@@ -862,7 +847,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.87,
+    "score": 7.75,
     "favorite": true,
     "items": [
      {
@@ -876,21 +861,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.84,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Juventud con galones y presente contrastado",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250409/juventud-galones-presente-contrastado.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-12T22:52+01:00",
-      "teaser": "El Barça se quedó con la sensación amarga de haber podido llevarse un premio mayor contra el Arsenal , pero el empate en el Spotify Camp Nou también dejó notas positivas que invitan a pensar en un futuro espléndido. Pere Romeu apostó de inicio por las jóvenes Sydney Schertenleib (19 años), Renee van"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.83,
+    "score": 7.72,
     "favorite": true,
     "items": [
      {
@@ -903,8 +874,22 @@
     ]
    },
    {
+    "sourceCount": 1,
+    "score": 7.72,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Juventud con galones y presente contrastado",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250409/juventud-galones-presente-contrastado.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-12T22:52+01:00",
+      "teaser": "El Barça se quedó con la sensación amarga de haber podido llevarse un premio mayor contra el Arsenal , pero el empate en el Spotify Camp Nou también dejó notas positivas que invitan a pensar en un futuro espléndido. Pere Romeu apostó de inicio por las jóvenes Sydney Schertenleib (19 años), Renee van"
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.84,
     "items": [
      {
       "title": "Morgan Rogers says ‘it’s a lie’ that Cole Palmer does not want to play for England",
@@ -924,7 +909,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.45,
+    "score": 3.33,
     "items": [
      {
       "title": "Pierre Sage’s failure to fix defensive flaws leaves Crystal Palace seeking new solution",
@@ -944,7 +929,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.42,
+    "score": 3.3,
     "items": [
      {
       "title": "Fußball: Marco Materazzi stichelt gegen Zinédine Zidane",
@@ -964,7 +949,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.63,
+    "score": 2.51,
     "items": [
      {
       "title": "Sepp Blatter über Gianni Infantino: »Vielleicht sollte man ihn einmal in die Psychiatrie schicken«",
@@ -984,7 +969,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "It’s Happy Harry Kane day as England’s finest seizes his moment in style | Barney Ronay",
+      "url": "https://www.theguardian.com/football/2026/nov/13/happy-harry-kane-day-englands-finest-seizes-his-moment-croatia-nations-league",
+      "source": "The Guardian",
+      "date": "2026-11-13T00:01+00:00",
+      "teaser": "The Ballon d’Or validated the forward’s career and he extended his incredible record for England with yet another goal on his 126th appearance Happy Harry Kane day! And many happy Harry returns. There is a process in clinical psychology known as semantic satiation. Subjects are asked to repeat a wor"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.85,
     "items": [
      {
       "title": "Pio Esposito und die Elfmeter: \"Ich dachte an Zenica und Bosnien zurück\"",
@@ -997,7 +995,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.79,
     "items": [
      {
       "title": "Kane nach Rekordspiel: \"Es waren ein paar verrückte Wochen\"",
@@ -1010,7 +1008,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.78,
     "items": [
      {
       "title": "Rekordnationalspieler Kane krönt unvergesslichen Abend",
@@ -1023,27 +1021,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.77,
     "items": [
      {
-      "title": "Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
-      "url": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
-      "source": "The Guardian",
-      "date": "2026-11-12T22:31+00:00",
-      "teaser": "Loss is Zinedine Zidane’s first as France head coach Spain beat Czechia 2-0 to maintain 100% record Pio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed back to win 3-1 at San Siro and go top of their Nations League group. Michael Olise profite"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Messi in der MLS erneut für MVP-Titel nominiert - auch ein Deutscher steht zur Wahl",
-      "url": "https://www.kicker.de/messi-in-der-mls-erneut-fuer-mvp-titel-nominiert-auch-ein-deutscher-steht-zur-wahl-1271123/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-12T22:24+00:00",
-      "teaser": "Lionel Messi strebt nach einem weiteren Novum in seiner Karriere. Als erster Spieler überhaupt darf der Argentinier in der Major League Soccer auf eine dritte MVP-Auszeichnung hoffen. Neben dem Superstar steht auch ein Deutscher zur Wahl."
+      "title": "Nations League mit Tuchel und Co.: Diese Topspiele stehen jetzt an",
+      "url": "https://www.sportschau.de/fussball/nationsleague/topspiele-mit-bellinghams-neuen-portugiesen-und-co,nations-league-top-partien-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-12T23:27+01:00",
+      "teaser": "In der Nations League stehen neben den Partien des DFB-Teams einige echte Topspiele an. Mit dabei: die Bellinghams, die neue Türkei, Schweizer vor dem Aufstieg. Nicht dabei: \"CR7\"."
      }
     ]
    }
@@ -1051,7 +1036,7 @@
   "Tech & KI": [
    {
     "sourceCount": 4,
-    "score": 7.94,
+    "score": 7.82,
     "items": [
      {
       "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
@@ -1078,7 +1063,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.61,
+    "score": 5.49,
     "items": [
      {
       "title": "Jensen Huang Resigns From Nvidia After Affairs",
@@ -1105,7 +1090,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.87,
     "items": [
      {
       "title": "Microsoft Outlook is still down",
@@ -1125,7 +1110,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.86,
     "items": [
      {
       "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
@@ -1139,13 +1124,91 @@
       "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "date": "2026-11-12T23:34+00:00",
-      "teaser": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy."
+      "teaser": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
      }
     ]
    },
    {
     "sourceCount": 1,
     "score": 1.99,
+    "items": [
+     {
+      "title": "Lutnick Took a Softer Line on Nvidia as Calls for Tougher Controls Grew",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+      "source": "New York Times",
+      "date": "2026-11-13T01:06+00:00",
+      "teaser": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Donald Trump really wants Tim Cook to run Nvidia",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "source": "The Verge",
+      "date": "2026-11-12T19:46-05:00",
+      "teaser": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking g"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-13T00:13+00:00",
+      "teaser": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Xbox announces Wolfenstein 3",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "source": "The Verge",
+      "date": "2026-11-12T19:11-05:00",
+      "teaser": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington",
+      "url": "https://www.nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html",
+      "source": "New York Times",
+      "date": "2026-11-13T00:03+00:00",
+      "teaser": "Nvidia’s chief executive, a confidant of President Trump, successfully pushed for less regulation and open borders for chip sales."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+      "source": "Wired",
+      "date": "2026-11-12T23:54+00:00",
+      "teaser": "The brand’s official Black Friday sales start next week, but some of its best vacuums are already discounted."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
     "items": [
      {
       "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
@@ -1158,7 +1221,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.85,
     "items": [
      {
       "title": "Humble Bundle redesign removes two-factor verification from settings",
@@ -1166,84 +1229,6 @@
       "source": "The Verge",
       "date": "2026-11-12T18:30-05:00",
       "teaser": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-fa"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "7 People Nvidia Could Consider for Its Next C.E.O.",
-      "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html",
-      "source": "New York Times",
-      "date": "2026-11-12T23:02+00:00",
-      "teaser": "President Trump suggested Tim Cook, Apple’s former C.E.O., to replace Jensen Huang at Nvidia. Here are others with experience in chips or A.I."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
-      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-      "source": "Ars Technica",
-      "date": "2026-11-12T22:59+00:00",
-      "teaser": "Men aged 50–69 and at average risk should get PSA screening every two years."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
-      "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
-      "source": "The Verge",
-      "date": "2026-11-12T18:00-05:00",
-      "teaser": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can now save favorite dynam"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
-      "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
-      "source": "New York Times",
-      "date": "2026-11-12T22:54+00:00",
-      "teaser": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year",
-      "url": "https://www.wired.com/story/mint-mobile-phone-deal-november-2026/",
-      "source": "Wired",
-      "date": "2026-11-12T22:47+00:00",
-      "teaser": "The limited-time offer applies to the latest phones from Google and Samsung, but you must be a new customer who signs up for 12 months of the unlimited plan."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "source": "Ars Technica",
-      "date": "2026-11-12T22:28+00:00",
-      "teaser": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
      }
     ]
    }
@@ -1524,7 +1509,7 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Sport",
@@ -1596,7 +1581,7 @@
    "topic": "Tech & KI",
    "source": "BBC",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "topic": "Tech & KI",
