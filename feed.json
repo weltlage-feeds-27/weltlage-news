@@ -1,23 +1,23 @@
 {
- "fetchedAt": "2026-11-13T21:52:44+00:00",
+ "fetchedAt": "2026-11-13T22:50:40+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.98,
+    "score": 7.96,
     "items": [
      {
-      "title": "Tanker hits New Orleans cruise boat carrying 129 passengers",
+      "title": "Miracle on the Mississippi: everyone safe after tanker hits and sinks New Orleans cruise",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3374410/tanker-hits-new-orleans-cruise-boat-carrying-129-passengers",
       "source": "South China Morning Post",
       "date": "2026-11-13T20:49+00:00",
-      "teaser": "A tanker struck a New Orleans river cruise with 129 passengers on board on Friday, partially submerging the boat. Rescues were under way on the Mississippi River, officials said in the US state of Louisiana. Authorities did not immediately release whether there were injuries or deaths. Video from th"
+      "teaser": "At least 180 passengers and crew members were rescued Friday after a tanker lost control, hit and sank a paddleboat on the Mississippi River, the mayor of New Orleans said. Video from the scene showed the much larger Atlantic Asphalt tanker hit the cruise boat while it was docked as metal and glass "
      },
      {
       "title": "Tanker hits a river cruise boat on Mississippi River in New Orleans; rescue operations under way",
       "url": "https://www.thehindu.com/news/international/new-orleans-usa-tanker-ship-river-cruise-crash-updates/article71699607.ece",
       "source": "The Hindu",
-      "date": "2026-11-14T03:05+05:30",
+      "date": "2026-11-14T03:50+05:30",
       "teaser": "Authorities did not immediately release whether there were injuries or deaths; video from the scene showed the much larger Atlantic Asphalt tanker hit the paddlewheel cruise boat while it appeared to be docked as metal and glass crashed and crunched"
      },
      {
@@ -32,6 +32,33 @@
    {
     "sourceCount": 4,
     "score": 7.95,
+    "items": [
+     {
+      "title": "Live: All US departing flights grounded due to communication issues",
+      "url": "https://www.abc.net.au/news/2026-11-14/follow-live-us-aviation-authority-grounds-all-flights/107385742",
+      "source": "ABC Australia",
+      "date": "2026-11-13T22:12+00:00",
+      "teaser": "Flights departing from across the US have been grounded, following a national order from the country's aviation body. Follow live."
+     },
+     {
+      "title": "FAA orders nationwide ground stop for all US flight departures",
+      "url": "https://kyivindependent.com/faa-orders-nationwide-ground-stop-for-all-us-flight-departures/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-13T22:14+00:00",
+      "teaser": "The Nov. 13 incident marks only the second nationwide ground stop of U.S. departures since Sept. 11, 2001."
+     },
+     {
+      "title": "FAA grounds US flights nationwide after ‘communication issue’",
+      "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-13T21:32+00:00",
+      "teaser": "US Transportation Secretary Sean Duffy says federal aviation agency is 'investigating the issue'."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.87,
     "items": [
      {
       "title": "Bessent blames US Commerce Department for not restricting Nvidia chip exports to China",
@@ -58,34 +85,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.94,
-    "items": [
-     {
-      "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-      "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-      "source": "NPR",
-      "date": "2026-11-13T07:07-05:00",
-      "teaser": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader."
-     },
-     {
-      "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
-      "source": "New York Times (Politik)",
-      "date": "2026-11-13T04:11+00:00",
-      "teaser": "Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win."
-     },
-     {
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T19:03+00:00",
-      "teaser": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.92,
+    "score": 5.84,
     "items": [
      {
       "title": "Peruvians flock to mass with Pope Leo in city he served as bishop",
@@ -112,7 +112,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.56,
+    "score": 5.48,
     "items": [
      {
       "title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
@@ -139,7 +139,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.08,
+    "score": 5.0,
     "items": [
      {
       "title": "Nvidia-Affäre: Jensen Huang und Trumps Handelsminister Lutnick müssen sich im Senat erklären",
@@ -166,21 +166,41 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 4.0,
     "items": [
      {
-      "title": "Flights grounded across US due to ‘extraordinary circumstances’, FAA says",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374411/flights-stopped-across-us-due-extraordinary-circumstances-faa-says",
-      "source": "South China Morning Post",
-      "date": "2026-11-13T21:33+00:00",
-      "teaser": "The US Federal Aviation Administration (FAA) grounded all flights nationwide on Friday afternoon “due to extraordinary circumstances and for reasons of safety”. The FAA notice said the ground stop was being imposed because of communications problems at regional air traffic control centres. Transport"
+      "title": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
+      "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice",
+      "source": "PBS NewsHour",
+      "date": "2026-11-13T13:22-05:00",
+      "teaser": "European Council President Antonio Costa said the continent will be represented by officials from the 27-nation EU bloc and five members of the \"Coalition of the Willing\" that backs Ukraine: the U.K., France, Germany, Italy and Poland."
      },
      {
-      "title": "Flights grounded across U.S. due to outage affecting air traffic control, FAA says",
-      "url": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-13T16:37-05:00",
-      "teaser": ""
+      "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+      "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+      "source": "New York Times",
+      "date": "2026-11-13T22:47+00:00",
+      "teaser": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Scott Colom: Er schreibt Geschichte",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/scott-colom-mississippi-us-senat-demokraten",
+      "source": "Zeit",
+      "date": "2026-11-13T13:02+00:00",
+      "teaser": "Der Bundesstaat Mississippi bekommt seinen ersten Schwarzen Senator seit 145 Jahren: Warum Scott Coloms Wahlsieg wichtiger ist als jeder andere Erfolg der Demokraten."
+     },
+     {
+      "title": "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
+      "url": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-13T22:30+00:00",
+      "teaser": "To win a Senate seat in a highly polarized, deeply Republican state, Scott Colom needed a perfect storm. He got it."
      }
     ]
    },
@@ -192,7 +212,7 @@
       "title": "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
       "url": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html",
       "source": "New York Times (USA)",
-      "date": "2026-11-13T20:06+00:00",
+      "date": "2026-11-13T22:24+00:00",
       "teaser": "Eileen Laubacher, a retired rear admiral, defeated one of the highest-profile supporters of President Trump in a deep-red district that she knows will be tough to hold."
      },
      {
@@ -206,7 +226,47 @@
    },
    {
     "sourceCount": 2,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Flights grounded across US due to ‘extraordinary circumstances’, FAA says",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374411/flights-stopped-across-us-due-extraordinary-circumstances-faa-says",
+      "source": "South China Morning Post",
+      "date": "2026-11-13T21:33+00:00",
+      "teaser": "The US Federal Aviation Administration grounded all flights nationwide on Friday afternoon because of communications problems at regional air traffic control centres. The FAA notice said the ground stop was being imposed “due to extraordinary circumstances and for reasons of safety”. Transport Secre"
+     },
+     {
+      "title": "Flights grounded across U.S. due to outage affecting air traffic control, FAA says",
+      "url": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-13T17:18-05:00",
+      "teaser": ""
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
     "score": 3.95,
+    "items": [
+     {
+      "title": "US Congress widens Nvidia probe, seeking testimony from Jensen Huang and Trump officials",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374412/us-congress-widens-nvidia-probe-seeking-testimony-jensen-huang-and-trump-officials",
+      "source": "South China Morning Post",
+      "date": "2026-11-13T22:16+00:00",
+      "teaser": "US lawmakers have been demanding answers about potential national security risks and White House oversight of advanced chip exports to China following revelations that former Nvidia chief executive Jensen Huang was in a relationship with a businesswoman suspected of working for Chinese intelligence."
+     },
+     {
+      "title": "What the Jensen Huang scandal means for Trump and his administration",
+      "url": "https://www.cbc.ca/news/world/jensen-huang-nvidia-trump-congress-investigations-9.7419755?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-13T04:00-05:00",
+      "teaser": "Jensen Huang's 33-year tenure as the CEO of chip-making giant Nvidia is now finished, but the political repercussions of his affair with an alleged Chinese spy are only just beginning."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.87,
     "items": [
      {
       "title": "Microsoft ‘deeply sorry’ for global outage, says issue not caused by cyber or AI agents",
@@ -223,72 +283,32 @@
       "teaser": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.9,
-    "items": [
-     {
-      "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
-      "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
-      "source": "PBS NewsHour",
-      "date": "2026-11-13T14:16-05:00",
-      "teaser": "The Trump administration is asking the justices to overturn lower court decisions that found it was illegal to block asylum applications following an executive order that called the situation at the southern border an \"invasion.\""
-     },
-     {
-      "title": "Supreme Court Set to Hear Trump’s Ban on Asylum Claims at Border",
-      "url": "https://www.nytimes.com/2026/11/13/us/politics/supreme-court-trump-asylum-border.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-13T20:37+00:00",
-      "teaser": "Lower courts have ruled against the policy, which has effectively shut down avenues for people seeking asylum protections and to remain in the United States."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.87,
-    "items": [
-     {
-      "title": "Microsoft reports progress in reviving some services amid global outage disrupting businesses, governments",
-      "url": "https://www.cbc.ca/news/world/microsoft-outage-friday-activity-9.7420313?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-13T05:55-05:00",
-      "teaser": "Microsoft said progress is being made in bringing its popular workplace software back online as a global outage enters its second day, disrupting business communications, police crime reporting, court operations, AI tools and many other services."
-     },
-     {
-      "title": "Microsoft says services still returning amid widespread outage",
-      "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-13T20:16+00:00",
-      "teaser": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.85,
-    "items": [
-     {
-      "title": "Turkey and Qatar pledge unified stance against attacks in mutual defence pact",
-      "url": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact",
-      "source": "France 24",
-      "date": "2026-11-13T20:06+00:00",
-      "teaser": "Turkey and Qatar signed a mutual defence agreement Friday, pledging a unified response to any attack on either country, the two leaders said in a joint statement. The defence pact follows the Mecca Joint Defence Agreement signed by Turkey, Pakistan and Saudi Arabia in August."
-     },
-     {
-      "title": "Turkiye, Qatar sign mutual defence agreement, Turkish presidency says",
-      "url": "https://www.thehindu.com/news/international/turkiye-qatar-sign-mutual-defence-agreement-turkish-presidency-says/article71699542.ece",
-      "source": "The Hindu",
-      "date": "2026-11-14T00:32+05:30",
-      "teaser": "Turkiye and Qatar were working to develop and diversify their energy partnership, and that their cooperation ‌in the defence industry would ​continue to grow, a statement from the Turkish presidency quoted President Erdogan as saying"
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "USA: Luftfahrtbehörde verhängt landesweites Startverbot",
+      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-flugsicherheit-flugstop-landesweit-sicherheit-li.3578585",
+      "source": "Süddeutsche",
+      "date": "2026-11-13T22:34+00:00",
+      "teaser": "Ursachen seien Sicherheitsgründe. Es ist das zweite Mal seit dem 11. September 2001, dass diese Maßnahme getroffen wird. Eine Bedrohung der nationalen Sicherheit sieht US-Heimatschutzminister Mullin nicht."
+     },
+     {
+      "title": "US-Luftfahrtbehörde verhängt landesweiten Flugstopp",
+      "url": "https://www.zdfheute.de/politik/ausland/usa-flugstopp-landesweit-100.html",
+      "source": "ZDF",
+      "date": "2026-11-13T23:28+01:00",
+      "teaser": "Die US-Luftfahrtbehörde FAA hält landesweit alle Flüge am Boden an. Aufgrund außergewöhnlicher Umstände und aus Sicherheitsgründen sei ein Startverbot verhängt worden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.48,
     "items": [
      {
       "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
@@ -308,7 +328,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.55,
+    "score": 3.47,
     "items": [
      {
       "title": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU",
@@ -328,7 +348,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.41,
+    "score": 3.33,
     "items": [
      {
       "title": "Klimastreik: Fridays for Future warnt auf Weltklimakonferenz vor „Hitzehölle“",
@@ -348,7 +368,59 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Özdemir vor Eröffnungswalzer des Landespresseballs: \"Ich setze auf mein Rhythmusgefühl\"",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/landespresseball-stuttgart-100.html",
+      "source": "SWR",
+      "date": "2026-11-13T23:34+01:00",
+      "teaser": "Zum ersten Mal hat Ministerpräsident Cem Özdemir (Grüne) mit seiner Ehefrau Flavia Zaka den Landespresseball eröffnet. Wie er und die First Lady den ersten Walzer gemeistert haben."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Frachter rammt Kreuzfahrtschiff",
+      "url": "https://www.zdfheute.de/video/panorama-kreuzfahrtschiff-tanker-video-100.html",
+      "source": "ZDF",
+      "date": "2026-11-13T23:27+01:00",
+      "teaser": "In New Orleans ist ein Frachter mit einem Kreuzfahrtschiff zusammengestoßen. Das Schiff kippte. An Bord der \"American Heritage\" befanden sich rund 130 Passagiere."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Erst Finale verpasst, jetzt deutscher Fahnenträger",
+      "url": "https://www.zdfheute.de/sport/video/youth-olympic-games-abschlussfeier-fahnentraeger-100.html",
+      "source": "ZDF",
+      "date": "2026-11-13T23:06+01:00",
+      "teaser": "Mads Krüger konnte beim Gold-Triumph seines Beachhandball-Teams nicht mitspielen. Bei der Abschlussfeier wartete dafür eine besondere Aufgabe auf ihn."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Ausstellung zeigt die besten Cartoons des Jahres",
+      "url": "https://www.zdfheute.de/video/panorama-cartoon-caricatura-kassel-100.html",
+      "source": "ZDF",
+      "date": "2026-11-13T22:52+01:00",
+      "teaser": "Es sind vor allem aktuelle politische Themen wie Tabaksteuer und Benzinpreise, die die Cartoonisten der Caricatura aufgreifen. Im Januar werden die Sieger des Wettbewerbs gekürt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Auto fährt mit voller Wucht auf Traktor auf - Traktorfahrer stirbt",
@@ -361,20 +433,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "US-Luftfahrtbehörde verhängt landesweiten Flugstopp",
-      "url": "https://www.zdfheute.de/politik/ausland/usa-flugstopp-landesweit-100.html",
-      "source": "ZDF",
-      "date": "2026-11-13T22:39+01:00",
-      "teaser": "Die US-Luftfahrtbehörde FAA hält landesweit alle Flüge am Boden an. Aufgrund außergewöhnlicher Umstände und aus Sicherheitsgründen sei ein Startverbot verhängt worden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
       "title": "DFB-Elf mit wichtigem Sieg gegen Serbien",
@@ -387,7 +446,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.83,
     "items": [
      {
       "title": "New Orleans: Tanker kollidiert mit Kreuzfahrtschiff",
@@ -400,7 +459,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.77,
     "items": [
      {
       "title": "Mecklenburg-Vorpommern: Linke stimmt Koalitionsvertrag in Mecklenburg-Vorpommern zu",
@@ -410,64 +469,12 @@
       "teaser": "Mit der Linken macht die erste von drei Parteien in Mecklenburg-Vorpommern den Weg für eine neue Regierung frei. Die Delegierten stimmen für den Koalitionsvertrag."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Genossenschaft rettet Dorfkneipe in Thüringen",
-      "url": "https://www.zdfheute.de/video/panorama-kneipen-sterben-corona-video-100.html",
-      "source": "ZDF",
-      "date": "2026-11-13T20:53+01:00",
-      "teaser": "In Neukirchen bei Eisenach hat eine Genossenschaft die Dorfkneipe gerettet. Mit Eigenkapital und Fördermitteln wurde sie wieder hergerichtet - und so der Dorfmittelpunkt erhalten."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.82,
-    "items": [
-     {
-      "title": "Fridays for Future: Demonstranten fordern mehr Geld für internationalen Klimaschutz",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/fridays-for-future-demo-berlin-cop31-klimawandel-deutschland",
-      "source": "Zeit",
-      "date": "2026-11-13T19:40+00:00",
-      "teaser": "Wer die Klimakrise verursacht, muss auch für ihre Folgen zahlen: Für Forderungen nach mehr Klimaschutz gingen in Berlin laut Polizei rund 700 Menschen auf die Straße."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Geheimdienstreform: Der Spion, der nicht nur liebt",
-      "url": "https://www.faz.net/aktuell/politik/inland/geheimdienstreform-der-spion-der-nicht-nur-liebt-201680691.html",
-      "source": "FAZ",
-      "date": "2026-11-13T19:31+00:00",
-      "teaser": "Gut, dass die Koalition Handlungsfähigkeit bewiesen hat. Der Praxistest steht noch aus, aber die Dienste haben nun mehr Möglichkeiten, Deutschland zu schützen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.79,
-    "items": [
-     {
-      "title": "Mercedes-Werk Rastatt in Gefahr - Sorge und Wut in der Belegschaft",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/mercedes-werk-rastatt-sorgen-mitarbeiter-und-gewerkschaft-100.html",
-      "source": "SWR",
-      "date": "2026-11-13T20:20+01:00",
-      "teaser": "Mercedes-Benz stoppt alle Investitionen in deutsche Standorte. Ganze Werke sollen geschlossen werden. Zu den bedrohten Standorten gehört auch das Mercedes-Werk in Rastatt."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 2,
-    "score": 3.94,
+    "score": 3.86,
     "items": [
      {
       "title": "Korwin-Piotrowska nie przyjęła wniosku Żurka ws. uchylenia immunitetu Święczkowskiemu",
@@ -487,7 +494,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.79,
     "items": [
      {
       "title": "Darowizny na rzecz ofiar ataku w Krakowie i ich rodzin – bez podatku",
@@ -506,28 +513,47 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.69,
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
-      "title": "Donald Tusk: Polska będzie odgrywała kluczową rolę w rozmowach USA, Ukrainy i Rosji",
-      "url": "https://www.rp.pl/swiat/art45487381-donald-tusk-polska-bedzie-odgrywala-kluczowa-role-w-rozmowach-usa-ukrainy-i-rosji",
+      "title": "Niepokojący incydent w bazie USA. Drony nad jednym z najważniejszych obiektów NATO",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45487821-niepokojacy-incydent-w-bazie-usa-drony-nad-jednym-z-najwazniejszych-obiektow-nato",
       "source": "Rzeczpospolita",
-      "date": "2026-11-13T19:08+01:00",
-      "teaser": "Premier Donald Tusk zapowiedział, że Polska odegra kluczową rolę w rozmowach USA, Ukrainy i Rosji. Ostrzegł, że Władimir Putin zamierza „wykończyć tej zimy Ukrainę”. Ostro skrytykował też prezydenta Karola Nawrockiego za weto wobec ustawy o bezpieczeństwie dzieci w internecie."
-     },
-     {
-      "title": "Polska przy stole negocjacyjnym ws. Ukrainy. Tusk: Będziemy odgrywali kluczową rolę",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33131446,polska-przy-stole-negocjacyjnym-ws-ukrainy-tusk-bedziemy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-13T17:55+00:00",
-      "teaser": "Szef Rady Europejskiej Antonio Costa ogłosił po szczycie w Dublinie, że Polska dołączy do grona państw, które wezmą udział w negocjacjach w sprawie zakończenia rosyjskiej wojny przeciw Ukrainie. Będzie to również Francja, Niemcy, Wielka Brytania, Włochy oraz instytucje UE."
+      "date": "2026-11-13T23:41+01:00",
+      "teaser": "Siły Powietrzne Stanów Zjednoczonych poinformowały, że w piątek wieczorem podjęły działania w związku z „podejrzeniem nieautoryzowanej aktywności dronów” nad bazą RAF Lakenheath w hrabstwie Suffolk we wschodniej Anglii."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "USA. Tankowiec zderzył się ze statkiem wycieczkowym. \"Jak scena z 'Titanica'\"",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33131721,usa-tankowiec-zderzyl-sie-ze-statkiem-wycieczkowym-jak-scena.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-13T22:04+00:00",
+      "teaser": "Tankowiec zderzył się ze statkiem wycieczkowym na rzece Missisipi w amerykańskim stanie Luizjana - donosi Associated Press."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Czarzasty zawiesił Kusznieruka i skierował wniosek do sądu partyjnego o jego wykluczenie",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131699,czarzasty-zawiesil-kusznieruka-i-skierowal-wniosek-do-sadu-partyjnego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-13T21:54+00:00",
+      "teaser": "Przewodniczący Nowej Lewicy Włodzimierz Czarzasty zawiesił Piotra Kusznieruka w prawach i obowiązkach członka partii. Skierował także wniosek do sądu partyjnego o jego wykluczenie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "Po 160 latach wrócili do zapomnianych grobowców. Odkryli szczątki egipskiego dostojnika",
@@ -540,7 +566,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Napis \"Slawa UPA\" na kilkunastu pomnikach w Polsce. Zarzuty dla 17-letniego Ukraińca",
@@ -553,20 +579,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "USA wstrzymują wszystkie starty samolotów. FAA wydała nadzwyczajny nakaz",
       "url": "https://www.rp.pl/transport/art45487771-usa-wstrzymuja-wszystkie-starty-samolotow-faa-wydala-nadzwyczajny-nakaz",
       "source": "Rzeczpospolita",
       "date": "2026-11-13T22:10+01:00",
-      "teaser": "USA wstrzymują starty samolotów w całym kraju. FAA wydała nadzwyczajny nakaz w związku z rozległą awarią systemów łączności. Według NBC News to dopiero drugi taki przypadek od zamachów terrorystycznych z 11 września 2001 roku."
+      "teaser": "USA wstrzymują starty samolotów w całym kraju. FAA wydała nadzwyczajny nakaz w związku z rozległą awarią systemów łączności. Według NBC News to dopiero drugi taki przypadek od zamachów terrorystycznych z 11 września 2001 roku. Władze zapewniają, że to nie był cyberatak."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Pakistan stawia na płatności bezgotówkowe. Koniec gotówki w stolicy",
@@ -579,7 +605,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Bliski Wschód uderza w Rosję ropą. Urals z największymi zniżkami",
@@ -592,7 +618,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.79,
     "items": [
      {
       "title": "Rumunia – Polska. Występ Piotra Zielińskiego w Bukareszcie niepewny",
@@ -605,7 +631,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.76,
     "items": [
      {
       "title": "USA: kolizja tankowca i statku na rzece Missisipi",
@@ -615,38 +641,12 @@
       "teaser": "Na rzece Missisipi, w pobliżu portu w Nowym Orleanie doszło w piątek około południa do zderzenia tankowca i statku rzecznego ze 129 osobami na pokładzie. 12 osób znalazło się w wodzie. Trwa akcja ratunkowa."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Tusk grzmi po szczycie w Dublinie. „Panie prezydencie, tu nie ma się co zastanawiać”",
-      "url": "https://www.rp.pl/kraj/art45487561-tusk-grzmi-po-szczycie-w-dublinie-panie-prezydencie-tu-nie-ma-sie-co-zastanawiac",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T20:54+01:00",
-      "teaser": "Donald Tusk ostro skrytykował Karola Nawrockiego za blokowanie zmian w Ministerstwie Funduszy. Premier ostrzega, że paraliż resortu może zagrozić miliardom euro dla Polski. „Prezydent utrzymuje sytuację idiotyczną” – stwierdził szef rządu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Tusk odpowiada na zaproszenie do Pałacu Prezydenckiego. \"Ja się nie wybieram\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131635,tusk-odpowiada-na-zaproszenie-do-palacu-prezydenckiego-ja.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-13T19:59+00:00",
-      "teaser": "Premier Donald Tusk oświadczył, że nie weźmie udziału w poniedziałkowym spotkaniu w Pałacu Prezydenckim, które będzie poświęcone przyszłości TK. - Sprawa Trybunału Konstytucyjnego jest rozstrzygnięta - powiedział szef rządu."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.95,
+    "score": 5.97,
     "items": [
      {
       "title": "Microsoft outage: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
@@ -659,7 +659,7 @@
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
       "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
       "source": "New York Times",
-      "date": "2026-11-13T19:04+00:00",
+      "date": "2026-11-13T22:30+00:00",
       "teaser": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services."
      },
      {
@@ -673,7 +673,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.86,
+    "score": 5.78,
     "items": [
      {
       "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
@@ -700,7 +700,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.79,
     "items": [
      {
       "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
@@ -720,27 +720,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.6,
-    "items": [
-     {
-      "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
-      "url": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
-      "source": "New York Times",
-      "date": "2026-11-13T17:05+00:00",
-      "teaser": "The Treasury secretary blamed the department for not sanctioning the Singaporean firm and said that Nvidia employees should be held accountable if they sidestepped the law."
-     },
-     {
-      "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
-      "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-13T17:06+00:00",
-      "teaser": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.48,
     "items": [
      {
       "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
@@ -760,7 +740,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.51,
+    "score": 3.43,
     "items": [
      {
       "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
@@ -783,17 +763,43 @@
     "score": 1.99,
     "items": [
      {
+      "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
+      "url": "https://www.nytimes.com/2026/11/13/business/anthropic-ipo-roadshow.html",
+      "source": "New York Times",
+      "date": "2026-11-13T22:46+00:00",
+      "teaser": "As market uncertainty deepens, investment banks are on a roadshow to sell investors on what could be the largest public offering ever."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
       "title": "Kommunikationsstörung: Luftfahrtbehörde FAA verhängt landesweites Startverbot in den USA",
       "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/us-luftfahrtbehoerde-faa-stoppt-fluege-in-den-gesamten-usa-201682407.html",
       "source": "FAZ",
-      "date": "2026-11-13T21:42+00:00",
+      "date": "2026-11-13T22:20+00:00",
       "teaser": "Eine Kommunikationsstörung legt den Luftverkehr in den USA lahm. Die FAA stoppt sämtliche Starts im Land – erst zum zweiten Mal seit den Anschlägen vom 11. September 2001."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "US Treasuries record worst week since Trump’s ‘liberation day’",
+      "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-13T22:12+00:00",
+      "teaser": "Higher than expected inflation and hawkish remarks by Fed officials have stung investors who bet a global bond rout was over"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
@@ -806,7 +812,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.89,
     "items": [
      {
       "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
@@ -819,7 +825,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "USA: US‑Luftfahrtbehörde stoppt Flugverkehr im gesamten Land",
@@ -832,27 +838,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.82,
     "items": [
      {
-      "title": "IT-Störungen: Microsoft sieht \"deutliche Verbesserung\" der Lage",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-stoerung-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-13T21:21+01:00",
-      "teaser": "Nach den weltweiten IT-Störungen scheint sich die Lage vor allem in Nordamerika und Europa zu entspannen. Das US-Technologieunternehmen Microsoft spricht von zum Teil \"umfassenden Verbesserungen\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Business-Ticker: Von der Leyen: Europa braucht 500 Milliarden Euro Investitionen für KI",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-von-der-leyen-europa-braucht-500-milliarden-euro-investitionen-fuer-ki-faz-200452404.html",
-      "source": "FAZ",
-      "date": "2026-11-13T20:19+00:00",
-      "teaser": "Einblick in Jensen Huangs letzte Stunden als Nvidia-CEO +++ Die Hälfte der Beschäftigten bekommt Weihnachtsgeld +++ Mercedes stoppt alle neuen Investitionen in deutsche Standorte +++ alle Neuigkeiten im Unternehmen-Liveblog"
+      "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry",
+      "url": "https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-13T20:40+00:00",
+      "teaser": "Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south"
      }
     ]
    }
@@ -860,7 +853,35 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.79,
+    "score": 7.9,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Hay precedentes: dos partidos aplazados al Castilla, uno al Madrid C y otro al Barça Atlètic",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250691/precedentes.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-13T22:39+01:00",
+      "teaser": "La Real Federación Española de Fútbol (RFEF) no fallará hasta es sábado por la mañana tras la solicitud que hizo el FC Barcelona de aplazar el Barça Atlètic-Girona B , partido correspondiente a la 11ª jornada del Grupo 2 de la Segunda RFEF, que finalmente se disputará este sábado a las 18.00 horas e"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.89,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Suspense total: el Barça Atlètic-Girona B (18 h.), pendiente de una decisión matinal",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250266/aplazado-barca-atletic-girona-b.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-13T22:34+01:00",
+      "teaser": "Suspense total hasta último momento con la petición de aplazamiento del Barça Atlètic-Girona B por parte del FC Barcelona debido a la falta de jugadores. El juez de competición de la Real Federación Española de Fútbol (RFEF) comunicó al club azulgrana pasadas las 22 horas de este viernes que no fall"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.71,
     "favorite": true,
     "items": [
      {
@@ -873,36 +894,35 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.74,
-    "favorite": true,
+    "sourceCount": 3,
+    "score": 5.94,
     "items": [
      {
-      "title": "Compromiso y apoyo de Eric Garcia con el reto de la Fundació AVAN",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250741/compromiso-apoyo-eric-garcia-reto-solidario-fundacio-avan.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-13T19:46+01:00",
-      "teaser": "Eric Garcia (25 años) fue el padrino de la última edición del libro 'Relats Solidaris de l'Esport' y este viernes visitó la Fundació AVAN , entidad a la que fueron destinados los fondos recaudados de esta iniciativa solidaria. El jugador del primer equipo del Barça estuvo en Sabadell para conocer a "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.67,
-    "favorite": true,
-    "items": [
+      "title": "Nations League: Drei Erkenntnisse zu Deutschlands Sieg in Serbien",
+      "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-serbien-im-liveticker-a-326c5e73-0078-4453-a674-74f4b8a81771#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-13T23:09+01:00",
+      "teaser": "Im zweiten Sieg unter Jürgen Klopp überzeugte vor allem Debütant Brajan Gruda. Der Bundestrainer scheint einen größeren Teil seiner ersten Elf gefunden zu haben. Das Spiel im Minutenprotokoll."
+     },
      {
-      "title": "Vinculan al Barça con un central de futuro de Brasil",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250723/vinculan-barca-central-futuro-brasil.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-13T18:53+01:00",
-      "teaser": "El FC Barcelona está rastreando el mercado en busca de un central que pueda subir la competencia en la plantilla. En las últimas fechas han aparecido multitud de nombres vinculados como posibles refuerzos azulgranas, como son los casos de Ruud Nijstad (Twente), Levi Colwill (Chelsea) o Alessandro Ba"
+      "title": "Nations League, 5. Spieltag: Deutschland schlägt Serbien",
+      "url": "https://www.zeit.de/sport/2026-11/nations-league-deutschland-serbien-klopp",
+      "source": "Zeit",
+      "date": "2026-11-13T21:51+00:00",
+      "teaser": "Deutschland besiegt Serbien in der Nations League. Die DFB-Elf geht früh durch ein Eigentor in Führung, nach zwei roten Karten spielt sie in Überzahl. Der Spielbericht"
+     },
+     {
+      "title": "Nations League: Serbien vs. Deutschland im Liveticker – Gruda, muss los!",
+      "url": "https://www.11freunde.de/em/nations-league-serbien-vs-deutschland-im-liveticker-belgradmesser-a-e33a4a89-babd-44ec-a278-ab84d85d4faf#ref=rss",
+      "source": "11 Freunde",
+      "date": "2026-11-13T20:30+01:00",
+      "teaser": "Auch dank eines bestens aufgelegten Debütanten gewinnt Deutschland ohne große Mühen mit 3:1 in Serbien. Macht zeitig Feierabend: der Ticker."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.42,
+    "score": 5.34,
     "items": [
      {
       "title": "Rheinmetall: Borussia Dortmund beendet umstrittene Partnerschaft",
@@ -929,67 +949,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.93,
     "items": [
      {
-      "title": "Wirtz-Heber und Gruda-Debüttor: DFB-Team schlägt schwaches Serbien",
-      "url": "https://www.kicker.de/wirtz-heber-und-gruda-debuettor-dfb-team-schlaegt-schwaches-serbien-1270832/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-13T21:39+00:00",
-      "teaser": "In der Gruppenphase der Nations League geht es auf die Zielgerade - oder anders formuliert: Fürs Weiterkommen hat sich die deutsche Auswahl ein Endspiel erarbeitet. Denn Serbien war beim verdienten 3:1-Erfolg kein Gradmesser. Nun steht am Montagabend das große Duell mit den Niederlanden (7:0 gegen G"
+      "title": "Tod von De Miguel: Zwölf Spiele Sperre für Torhüter Owono",
+      "url": "https://www.faz.net/aktuell/sport/fussball/nach-tod-von-de-miguel-zwoelf-spiele-sperre-fuer-torhueter-owono-201682373.html",
+      "source": "FAZ",
+      "date": "2026-11-13T21:19+00:00",
+      "teaser": "Die Bewertung des Foulspiels, das zum Tod von Jesús de Miguel führte, ist abgeschlossen. Jesús Owono erhält von seinem Verein jeglichen „Freiraum“, um über die Fortsetzung seiner Karriere zu entscheiden."
      },
      {
-      "title": "DFB-Elf: Wie schlägt sich Deutschland in Serbien?",
-      "url": "https://www.11freunde.de/international/dfb-elf-wie-schlaegt-sich-deutschland-in-serbien-a-6481ce4e-4568-4f48-ab54-85156c7a8c29#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-13T17:09+01:00",
-      "teaser": "Die DFB-Elf ist zu Gast in Serbien. Das Themenfrühstück bespricht, was bei dem Spiel wichtig wird."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.98,
-    "items": [
-     {
-      "title": "Niederlande feiert hohen Kantersieg gegen Griechenland",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-nations-league-a/ma11904037/niederlande_griechenland/liveticker",
-      "source": "Sportschau",
-      "date": "2026-11-13T22:39+01:00",
-      "teaser": "Die Niederlande haben sich für das abschließende Gruppenspiel in der Nations League gegen Deutschland warm geschossen und ihr Heimspiel gegen Griechenland mit 7:0 gewonnen."
-     },
-     {
-      "title": "Vor Duell mit DFB-Elf: Oranje feiert 7:0-Kantersieg gegen Griechenland",
-      "url": "https://www.kicker.de/niederlande-gegen-griechenland-2026-uefa-nations-league-5193272/spielbericht#omrss",
-      "source": "kicker",
-      "date": "2026-11-13T21:36+00:00",
-      "teaser": "Die Niederlande haben Griechenland am 5. Spieltag der Nations League überrannt und 7:0 gewonnen. Die entscheidenden Spieler waren Tijani Reijnders und Jurrien Timber."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.98,
-    "items": [
-     {
-      "title": "Nations League: Deutschland gegen Serbien im Liveticker",
-      "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-serbien-im-liveticker-a-326c5e73-0078-4453-a674-74f4b8a81771#ref=rss",
+      "title": "Jesús de Miguel: Zwölf Spiele Sperre für Torwart Owono nach Todesfall in Spanien",
+      "url": "https://www.spiegel.de/sport/fussball/jesus-de-miguel-zwoelf-spiele-sperre-fuer-torwart-owono-nach-todesfall-in-spanien-a-31308e21-c436-44f9-acad-29bd49f60c3a#ref=rss",
       "source": "Spiegel",
-      "date": "2026-11-13T22:35+01:00",
-      "teaser": "Das fünfte Spiel unter dem neuen Bundestrainer war wichtig für die Chancen aufs Weiterkommen in der Nations League. In Serbien dominierte Deutschland wie lange nicht. Verfolgen Sie den Nachbericht live."
-     },
-     {
-      "title": "Nations League: Serbien vs. Deutschland im Liveticker – Gruda, muss los!",
-      "url": "https://www.11freunde.de/em/nations-league-serbien-vs-deutschland-im-liveticker-belgradmesser-a-e33a4a89-babd-44ec-a278-ab84d85d4faf#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-13T20:30+01:00",
-      "teaser": "Auch dank eines bestens aufgelegten Debütanten gewinnt Deutschland ohne große Mühen mit 3:1 in Serbien. Macht zeitig Feierabend: der Ticker."
+      "date": "2026-11-13T22:59+01:00",
+      "teaser": "Nach einem harten Foul von Torhüter Jesús Owono erlitt Fußballprofi Jesús de Miguel einen Herzstillstand und starb wenig später. Nun gab der spanische Verband das Strafmaß gegen Owono bekannt."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.58,
+    "score": 3.5,
     "items": [
      {
       "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
@@ -1009,14 +989,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.99,
     "items": [
      {
-      "title": "DFB-Team sichert sich gegen Serbien sein Endspiel gegen Niederlande",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-team-sichert-sich-sein-endspiel-gegen-niederlande,serbien-deutschland-spielbericht-100.html",
-      "source": "Sportschau",
-      "date": "2026-11-13T22:49+01:00",
-      "teaser": "Deutschland hat in der Nations League das Weiterkommen wieder in der eigenen Hand. Ursächlich dafür ist ein souveräner Sieg des Teams von Jürgen Klopp in Serbien."
+      "title": "\"Das war Instinkt\": Nur einer toppte Gruda in den letzten zehn Jahren",
+      "url": "https://www.kicker.de/das-war-instinkt-nur-einer-toppte-gruda-in-den-letzten-zehn-jahren-1271407/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-13T22:40+00:00",
+      "teaser": "Brajan Gruda erlebte am Freitag ein traumhaftes DFB-Debüt. Der Offensivmann war anschließend natürlich sehr glücklich - und beschrieb sein tolles Tor."
      }
     ]
    },
@@ -1025,11 +1005,24 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Einzelkritik Serbien gegen Deutschland: Gruda zockt, ter Stegen wackelt",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/der-geile-zocker-zockt-ter-stegen-wackelt,einzelkritik-serbien-deutschland-100.html",
+      "title": "Nations League: So kommt das DFB-Team ins Viertelfinale",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/so-erreicht-klopp-mit-dem-dfb-team-noch-viertelfinale,artikel-nations-league-viertelfinale-100.html",
       "source": "Sportschau",
-      "date": "2026-11-13T22:45+01:00",
-      "teaser": "Debütant Brajan Gruda hat nicht nur wegen seines wunderbaren Treffers beim deutschen Sieg gegen Serbien überzeugt. Weiter hinten gab es nicht nur Licht. Die DFB-Elf in der Einzelkritik."
+      "date": "2026-11-13T23:46+01:00",
+      "teaser": "Nach dem Sieg in Serbien kann Deutschland aus eigener Kraft die Gruppenphase überstehen. Komplizierte Rechenspiele gibt es nicht mehr, aber zwei Möglichkeiten."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Bundestrainer Klopp über Gruda - \"Außergewöhnliches Debüt\"",
+      "url": "https://www.sportschau.de/fussball/nationsleague/bundestrainer-klopp-ueber-gruda-aussergewoehnliches-debuet,o-ton-klopp-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-13T23:43+01:00",
+      "teaser": "Nach dem Sieg in der Nations League gegen Serbien spricht Bundestrainer Jürgen Klopp über die Leistung seiner Mannschaft und besonders über das Debüt von Brajan Gruda."
      }
     ]
    },
@@ -1038,24 +1031,24 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Scotland v North Macedonia: Nations League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/13/scotland-v-north-macedonia-nations-league-live",
-      "source": "The Guardian",
-      "date": "2026-11-13T21:37+00:00",
-      "teaser": "Nations League updates from 7.45pm GMT kick-off Live scores | Follow us on BlueSky | And email Scott 3 min: Robertson is into the action quickly. He crosses from the left. The ball’s deflected and sent on a strange arc towards the top-left corner, but Musliu heads away so keeper Dimitrievski doesn’t"
+      "title": "\"Der arme Kerl\": Klopp zeigt Mitleid für Grudas Gegenspieler",
+      "url": "https://www.kicker.de/der-arme-kerl-klopp-zeigt-mitleid-fuer-grudas-gegenspieler-1271414/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-13T22:36+00:00",
+      "teaser": "Jürgen Klopp zeigte sich vom Tor von Brajan Gruda beeindruckt und fühlte sich sogar in alte Mainzer Zeiten zurückversetzt."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.98,
     "items": [
      {
-      "title": "Vorahnung des Co-Trainers, dann Jubel mit Balljungen: Damars ereignisreicher Abend",
-      "url": "https://www.kicker.de/vorahnung-des-co-trainers-dann-jubel-mit-balljungen-damars-ereignisreicher-abend-1271378/artikel#omrss",
+      "title": "Kimmich zufrieden: \"Die erste Halbzeit war schon sehr gut\"",
+      "url": "https://www.kicker.de/kimmich-zufrieden-die-erste-halbzeit-war-schon-sehr-gut-1271413/video#omrss",
       "source": "kicker",
-      "date": "2026-11-13T21:18+00:00",
-      "teaser": "Muhammed Damar wurde mit einem frechen Freistoßtreffer, aber doppeltem Alu-Pech zum tragischen Helden der U-21-Nationalmannschaft bei der 1:2-Niederlage gegen Belgien. Während sich eine Vorahnung des Co-Trainers und Förderers Ovid Hajou bestätigte, hat sein Schützling Lust auf \"vielleicht zwei, drei"
+      "date": "2026-11-13T22:35+00:00",
+      "teaser": "DFB-Kapitän Joshua Kimmich zeigte sich nach den 90 Minuten im Regen von Belgrad zufrieden mit der Vorstellung der Mannschaft. Besonders die erste Halbzeit hob er hervor."
      }
     ]
    }
@@ -1063,13 +1056,13 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.97,
     "items": [
      {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
       "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
       "source": "New York Times",
-      "date": "2026-11-13T19:04+00:00",
+      "date": "2026-11-13T22:30+00:00",
       "teaser": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services."
      },
      {
@@ -1083,7 +1076,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.66,
+    "score": 3.57,
     "items": [
      {
       "title": "Jensen Huang was reckless with the environment, too",
@@ -1103,7 +1096,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.64,
+    "score": 3.56,
     "items": [
      {
       "title": "The Microsoft Outage Is a Warning for the World",
@@ -1123,7 +1116,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.59,
+    "score": 3.51,
     "items": [
      {
       "title": "(g+) Opinion: Anthropic's Dario Amodei Can't Always Have His Way",
@@ -1143,33 +1136,85 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
+      "url": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
+      "source": "Wired",
+      "date": "2026-11-13T19:58+00:00",
+      "teaser": "For Black Friday, a new quarterly option delivers three bags at a time, each from a different country."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "USA: Alle Flughäfen gesperrt",
+      "url": "https://www.heise.de/news/USA-Alle-Flughaefen-gesperrt-11525181.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-13T23:05+01:00",
+      "teaser": "In den USA müssen derzeit alle Luftfahrzeuge auf dem Boden bleiben. Grund ist der Ausfall eines Kommunikationssystems."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "source": "Ars Technica",
+      "date": "2026-11-13T21:59+00:00",
+      "teaser": "Cost and access barriers are pushing people to modified use and unapproved versions."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "FAA Grounds All US Flights Until Further Notice",
       "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
       "source": "Wired",
       "date": "2026-11-13T21:42+00:00",
-      "teaser": "The government cited a nationwide communications failure among air traffic control system as the reason for the sudden grounding on Friday."
+      "teaser": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
       "title": "FAA ground stop shuts down flights nationwide",
       "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
       "source": "The Verge",
       "date": "2026-11-13T16:38-05:00",
-      "teaser": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety.\" US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground stop for all U.S. airports following a communicatio"
+      "teaser": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground st"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "source": "Ars Technica",
+      "date": "2026-11-13T21:20+00:00",
+      "teaser": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
     "items": [
      {
       "title": "What happened overnight with the Microsoft global outage?",
@@ -1182,7 +1227,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
@@ -1190,58 +1235,6 @@
       "source": "New York Times",
       "date": "2026-11-13T21:04+00:00",
       "teaser": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge",
-      "date": "2026-11-13T15:45-05:00",
-      "teaser": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "source": "The Verge",
-      "date": "2026-11-13T15:30-05:00",
-      "teaser": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "In elephants, the resilience of communities has its limits",
-      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
-      "source": "Ars Technica",
-      "date": "2026-11-13T20:03+00:00",
-      "teaser": "In Sri Lanka, ecological change is shrinking a park's elephant population."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T19:53+00:00",
-      "teaser": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
      }
     ]
    }
@@ -1420,7 +1413,7 @@
    "topic": "Polen",
    "source": "Notes from Poland",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Polen",
@@ -1528,7 +1521,7 @@
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "topic": "Sport",
