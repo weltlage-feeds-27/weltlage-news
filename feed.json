@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-13T22:50:40+00:00",
+ "fetchedAt": "2026-11-13T23:46:01+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 4,
-    "score": 7.96,
+    "sourceCount": 5,
+    "score": 9.92,
     "items": [
      {
       "title": "Miracle on the Mississippi: everyone safe after tanker hits and sinks New Orleans cruise",
@@ -30,15 +30,15 @@
     ]
    },
    {
-    "sourceCount": 4,
-    "score": 7.95,
+    "sourceCount": 3,
+    "score": 6.0,
     "items": [
      {
-      "title": "Live: All US departing flights grounded due to communication issues",
-      "url": "https://www.abc.net.au/news/2026-11-14/follow-live-us-aviation-authority-grounds-all-flights/107385742",
-      "source": "ABC Australia",
-      "date": "2026-11-13T22:12+00:00",
-      "teaser": "Flights departing from across the US have been grounded, following a national order from the country's aviation body. Follow live."
+      "title": "Flight Canceled During the FAA Ground Stop? Here’s What to Do.",
+      "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-13T23:42+00:00",
+      "teaser": "Travelers are entitled to a refund if your flight is canceled, regardless of the reason, or if a flight is significantly delayed or changed and you decide not to take it."
      },
      {
       "title": "FAA orders nationwide ground stop for all US flight departures",
@@ -48,17 +48,71 @@
       "teaser": "The Nov. 13 incident marks only the second nationwide ground stop of U.S. departures since Sept. 11, 2001."
      },
      {
-      "title": "FAA grounds US flights nationwide after ‘communication issue’",
-      "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+      "title": "🔴 US flight authority orders national ground stop over air traffic control 'communication issue'",
+      "url": "https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue",
+      "source": "France 24",
+      "date": "2026-11-13T21:29+00:00",
+      "teaser": ""
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.98,
+    "items": [
+     {
+      "title": "What to know about Microsoft's outage and why it takes so long to restore email services",
+      "url": "https://www.pbs.org/newshour/science/what-to-know-about-microsofts-outage-and-why-it-takes-so-long-to-restore-email-services",
+      "source": "PBS NewsHour",
+      "date": "2026-11-13T18:33-05:00",
+      "teaser": "Unlike modern web apps or authentication gatekeepers, email wasn't designed to fail fast, meaning to immediately halt when a problem arises."
+     },
+     {
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-13T18:36+00:00",
+      "teaser": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
+     },
+     {
+      "title": "Microsoft says services still returning amid widespread outage",
+      "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
       "source": "Al Jazeera",
-      "date": "2026-11-13T21:32+00:00",
-      "teaser": "US Transportation Secretary Sean Duffy says federal aviation agency is 'investigating the issue'."
+      "date": "2026-11-13T20:16+00:00",
+      "teaser": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day."
      }
     ]
    },
    {
     "sourceCount": 3,
     "score": 5.87,
+    "items": [
+     {
+      "title": "All US flights grounded due to communication issues: homeland security head",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374411/flights-stopped-across-us-due-extraordinary-circumstances-faa-says",
+      "source": "South China Morning Post",
+      "date": "2026-11-13T21:33+00:00",
+      "teaser": "Air travel across the United States came to a halt on Friday afternoon after the Federal Aviation Administration (FAA) ordered all flights grounded because of a communications breakdown at the regional centres that manage the country’s air traffic. Citing “extraordinary circumstances” and “reasons o"
+     },
+     {
+      "title": "Live: All US departing flights grounded due to communication issues",
+      "url": "https://www.abc.net.au/news/2026-11-14/follow-live-us-aviation-authority-grounds-all-flights/107385742",
+      "source": "ABC Australia",
+      "date": "2026-11-13T22:12+00:00",
+      "teaser": "Flights departing from across the US have been grounded, following a national order from the country's aviation body. Follow live."
+     },
+     {
+      "title": "FAA grounds US flights nationwide after ‘communication issue’",
+      "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-13T21:32+00:00",
+      "teaser": "US Transportation Secretary Sean Duffy says federal aviation agency is ‘investigating the issue’."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.79,
     "items": [
      {
       "title": "Bessent blames US Commerce Department for not restricting Nvidia chip exports to China",
@@ -85,7 +139,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.84,
+    "score": 5.76,
     "items": [
      {
       "title": "Peruvians flock to mass with Pope Leo in city he served as bishop",
@@ -112,7 +166,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.48,
+    "score": 5.4,
     "items": [
      {
       "title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
@@ -139,7 +193,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.0,
+    "score": 4.92,
     "items": [
      {
       "title": "Nvidia-Affäre: Jensen Huang und Trumps Handelsminister Lutnick müssen sich im Senat erklären",
@@ -166,27 +220,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 4.0,
+    "score": 3.97,
     "items": [
      {
-      "title": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
-      "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice",
-      "source": "PBS NewsHour",
-      "date": "2026-11-13T13:22-05:00",
-      "teaser": "European Council President Antonio Costa said the continent will be represented by officials from the 27-nation EU bloc and five members of the \"Coalition of the Willing\" that backs Ukraine: the U.K., France, Germany, Italy and Poland."
+      "title": "SpaceX’s bid for Starship double catch thwarted, as booster ends up in ocean",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374413/spacexs-bid-starship-double-catch-thwarted-booster-ends-ocean",
+      "source": "South China Morning Post",
+      "date": "2026-11-13T23:23+00:00",
+      "teaser": "SpaceX launched Starship towards orbit on Friday in its boldest test yet: a 22-hour flight that aimed to capture the entire rocket in a move meant to accelerate moon and Mars travel. But Elon Musk’s company had to lower its expectations when the first part of the double catch flopped. The first-stag"
      },
      {
-      "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
-      "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
-      "source": "New York Times",
-      "date": "2026-11-13T22:47+00:00",
-      "teaser": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team."
+      "title": "SpaceX to attempt double catch of huge Starship rocket",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-13T20:12+00:00",
+      "teaser": "Elon Musk’s company will try to grab both parts of the rocket for the first time."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.96,
     "items": [
      {
       "title": "Scott Colom: Er schreibt Geschichte",
@@ -199,54 +253,34 @@
       "title": "The Numbers Behind Scott Colom’s Stunning Upset in the Mississippi Senate Race",
       "url": "https://www.nytimes.com/2026/11/13/us/elections/scott-colom-senate-upset-history-mississippi.html",
       "source": "New York Times (USA)",
-      "date": "2026-11-13T22:30+00:00",
+      "date": "2026-11-13T23:18+00:00",
       "teaser": "To win a Senate seat in a highly polarized, deeply Republican state, Scott Colom needed a perfect storm. He got it."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.93,
     "items": [
      {
-      "title": "Meet Eileen Laubacher, the Navy Veteran Who Beat Lauren Boebert",
-      "url": "https://www.nytimes.com/2026/11/13/us/elections/eileen-laubacher-defeated-lauren-boebert.html",
+      "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+      "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+      "source": "NPR",
+      "date": "2026-11-12T07:15-05:00",
+      "teaser": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration."
+     },
+     {
+      "title": "Democrats Vie for Support in Race for Top Senate Job",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/democrats-senate-leader.html",
       "source": "New York Times (USA)",
-      "date": "2026-11-13T22:24+00:00",
-      "teaser": "Eileen Laubacher, a retired rear admiral, defeated one of the highest-profile supporters of President Trump in a deep-red district that she knows will be tough to hold."
-     },
-     {
-      "title": "GOP Rep. Lauren Boebert of Colorado loses U.S. House seat to Democrat Eileen Laubacher",
-      "url": "https://www.pbs.org/newshour/politics/gop-rep-lauren-boebert-of-colorado-loses-u-s-house-seat-to-democrat-eileen-laubacher",
-      "source": "PBS NewsHour",
-      "date": "2026-11-13T16:32-05:00",
-      "teaser": "Democrat Eileen Laubacher defeated Rep. Lauren Boebert for a Colorado U.S. House seat on Friday, ousting a three-term Republican and staple of conservative media."
+      "date": "2026-11-13T22:53+00:00",
+      "teaser": "Senator Chris Van Hollen of Maryland said he wouldn’t run for president to focus on his leadership challenge to Senator Chuck Schumer, who remained confident he would prevail."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
-    "items": [
-     {
-      "title": "Flights grounded across US due to ‘extraordinary circumstances’, FAA says",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374411/flights-stopped-across-us-due-extraordinary-circumstances-faa-says",
-      "source": "South China Morning Post",
-      "date": "2026-11-13T21:33+00:00",
-      "teaser": "The US Federal Aviation Administration grounded all flights nationwide on Friday afternoon because of communications problems at regional air traffic control centres. The FAA notice said the ground stop was being imposed “due to extraordinary circumstances and for reasons of safety”. Transport Secre"
-     },
-     {
-      "title": "Flights grounded across U.S. due to outage affecting air traffic control, FAA says",
-      "url": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-13T17:18-05:00",
-      "teaser": ""
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.88,
     "items": [
      {
       "title": "US Congress widens Nvidia probe, seeking testimony from Jensen Huang and Trump officials",
@@ -263,32 +297,12 @@
       "teaser": "Jensen Huang's 33-year tenure as the CEO of chip-making giant Nvidia is now finished, but the political repercussions of his affair with an alleged Chinese spy are only just beginning."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.87,
-    "items": [
-     {
-      "title": "Microsoft ‘deeply sorry’ for global outage, says issue not caused by cyber or AI agents",
-      "url": "https://www.scmp.com/news/world/article/3374408/microsoft-deeply-sorry-global-outage-says-issue-not-caused-cyber-or-ai-agents",
-      "source": "South China Morning Post",
-      "date": "2026-11-13T18:43+00:00",
-      "teaser": "Microsoft on Friday apologised for a global outage that disrupted public services and businesses around the world, as it reported a “broad recovery” for Outlook email and other services. The company ruled out any malicious “cyber or AI” activity as the cause of the outage, which affected several Mic"
-     },
-     {
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T21:14+00:00",
-      "teaser": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.9,
     "items": [
      {
       "title": "USA: Luftfahrtbehörde verhängt landesweites Startverbot",
@@ -308,7 +322,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.48,
+    "score": 3.4,
     "items": [
      {
       "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
@@ -328,7 +342,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.47,
+    "score": 3.4,
     "items": [
      {
       "title": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU",
@@ -348,7 +362,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.33,
+    "score": 3.26,
     "items": [
      {
       "title": "Klimastreik: Fridays for Future warnt auf Weltklimakonferenz vor „Hitzehölle“",
@@ -368,7 +382,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
       "title": "Özdemir vor Eröffnungswalzer des Landespresseballs: \"Ich setze auf mein Rhythmusgefühl\"",
@@ -381,7 +395,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.89,
     "items": [
      {
       "title": "Frachter rammt Kreuzfahrtschiff",
@@ -394,7 +408,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Erst Finale verpasst, jetzt deutscher Fahnenträger",
@@ -407,7 +421,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
       "title": "Ausstellung zeigt die besten Cartoons des Jahres",
@@ -420,7 +434,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
       "title": "Auto fährt mit voller Wucht auf Traktor auf - Traktorfahrer stirbt",
@@ -433,7 +447,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.82,
     "items": [
      {
       "title": "DFB-Elf mit wichtigem Sieg gegen Serbien",
@@ -446,7 +460,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.76,
     "items": [
      {
       "title": "New Orleans: Tanker kollidiert mit Kreuzfahrtschiff",
@@ -459,7 +473,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.77,
+    "score": 1.7,
     "items": [
      {
       "title": "Mecklenburg-Vorpommern: Linke stimmt Koalitionsvertrag in Mecklenburg-Vorpommern zu",
@@ -474,7 +488,7 @@
   "Polen": [
    {
     "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.78,
     "items": [
      {
       "title": "Korwin-Piotrowska nie przyjęła wniosku Żurka ws. uchylenia immunitetu Święczkowskiemu",
@@ -494,7 +508,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.72,
     "items": [
      {
       "title": "Darowizny na rzecz ofiar ataku w Krakowie i ich rodzin – bez podatku",
@@ -514,20 +528,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Liga Narodów. Grecka tragedia w Amsterdamie, Portugalia odda hołd Cristiano Ronaldo",
+      "url": "https://sport.rp.pl/pilka-nozna/art45487841-liga-narodow-grecka-tragedia-w-amsterdamie-portugalia-odda-hold-cristiano-ronaldo",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T00:11+01:00",
+      "teaser": "Grecy ponieśli pierwszą porażkę w Lidze Narodów. I to jak bolesną. Przegrali w Amsterdamie aż 0:7 z Holendrami."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Niepokojący incydent w bazie USA. Drony nad jednym z najważniejszych obiektów NATO",
       "url": "https://www.rp.pl/konflikty-zbrojne/art45487821-niepokojacy-incydent-w-bazie-usa-drony-nad-jednym-z-najwazniejszych-obiektow-nato",
       "source": "Rzeczpospolita",
       "date": "2026-11-13T23:41+01:00",
-      "teaser": "Siły Powietrzne Stanów Zjednoczonych poinformowały, że w piątek wieczorem podjęły działania w związku z „podejrzeniem nieautoryzowanej aktywności dronów” nad bazą RAF Lakenheath w hrabstwie Suffolk we wschodniej Anglii."
+      "teaser": "Podejrzane drony nad jedną z najważniejszych amerykańskich baz myśliwskich w Europie. Wojsko USA potwierdziło incydent w RAF Lakenheath w Wielkiej Brytanii. Mieszkańcy pobliskiej miejscowości informowali o syrenach alarmowych. W tle pojawiają się obawy o bezpieczeństwo baz USA."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "USA. Tankowiec zderzył się ze statkiem wycieczkowym. \"Jak scena z 'Titanica'\"",
@@ -540,7 +567,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
       "title": "Czarzasty zawiesił Kusznieruka i skierował wniosek do sądu partyjnego o jego wykluczenie",
@@ -553,7 +580,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Po 160 latach wrócili do zapomnianych grobowców. Odkryli szczątki egipskiego dostojnika",
@@ -566,7 +593,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.79,
     "items": [
      {
       "title": "Napis \"Slawa UPA\" na kilkunastu pomnikach w Polsce. Zarzuty dla 17-letniego Ukraińca",
@@ -579,20 +606,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.78,
     "items": [
      {
       "title": "USA wstrzymują wszystkie starty samolotów. FAA wydała nadzwyczajny nakaz",
       "url": "https://www.rp.pl/transport/art45487771-usa-wstrzymuja-wszystkie-starty-samolotow-faa-wydala-nadzwyczajny-nakaz",
       "source": "Rzeczpospolita",
       "date": "2026-11-13T22:10+01:00",
-      "teaser": "USA wstrzymują starty samolotów w całym kraju. FAA wydała nadzwyczajny nakaz w związku z rozległą awarią systemów łączności. Według NBC News to dopiero drugi taki przypadek od zamachów terrorystycznych z 11 września 2001 roku. Władze zapewniają, że to nie był cyberatak."
+      "teaser": "Nadzwyczajna sytuacja na amerykańskich lotniskach. FAA wstrzymała starty samolotów w całych Stanach Zjednoczonych z powodu rozległej awarii łączności. Do końca dnia zaplanowano jeszcze ponad 30 tys. startów i lądowań. Nie wiadomo, kiedy ruch lotniczy wróci do normy."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.78,
     "items": [
      {
       "title": "Pakistan stawia na płatności bezgotówkowe. Koniec gotówki w stolicy",
@@ -605,7 +632,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.73,
     "items": [
      {
       "title": "Bliski Wschód uderza w Rosję ropą. Urals z największymi zniżkami",
@@ -618,7 +645,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.71,
     "items": [
      {
       "title": "Rumunia – Polska. Występ Piotra Zielińskiego w Bukareszcie niepewny",
@@ -628,28 +655,15 @@
       "teaser": "Kontuzjowany Przemysław Frankowski musiał opuścić zgrupowanie kadry, a Piotr Zieliński i Marcel Reguła zmagają się z wirusem. Nie wiadomo, czy będą gotowi na sobotni mecz z Rumunią w Lidze Narodów."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "USA: kolizja tankowca i statku na rzece Missisipi",
-      "url": "https://www.rp.pl/swiat/art45487631-usa-kolizja-tankowca-i-statku-na-rzece-missisipi",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T20:56+01:00",
-      "teaser": "Na rzece Missisipi, w pobliżu portu w Nowym Orleanie doszło w piątek około południa do zderzenia tankowca i statku rzecznego ze 129 osobami na pokładzie. 12 osób znalazło się w wodzie. Trwa akcja ratunkowa."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.97,
+    "score": 5.9,
     "items": [
      {
-      "title": "Microsoft outage: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
+      "title": "Microsoft ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
       "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
       "source": "The Guardian",
       "date": "2026-11-13T20:37+00:00",
@@ -673,7 +687,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.78,
+    "score": 5.71,
     "items": [
      {
       "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
@@ -700,7 +714,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.72,
     "items": [
      {
       "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
@@ -720,7 +734,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.48,
+    "score": 3.41,
     "items": [
      {
       "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
@@ -740,7 +754,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.43,
+    "score": 3.35,
     "items": [
      {
       "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
@@ -760,7 +774,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+      "source": "New York Times",
+      "date": "2026-11-13T23:10+00:00",
+      "teaser": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "US aviation regulator grounds all departing flights",
+      "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-13T23:00+00:00",
+      "teaser": "Airports across the country ordered by Federal Aviation Administration to halt all take-offs"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Reform UK pays for Nigel Farage’s security despite £5mn gift",
+      "url": "https://www.ft.com/content/a088c380-216e-4fc3-8b76-483504fd18c2?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-13T22:52+00:00",
+      "teaser": "Party leader had claimed that undeclared donation from crypto billionaire was needed to ensure his protection"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Wall Street Makes Its Pitch for Anthropic’s I.P.O.",
@@ -773,7 +826,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "US military responds to ‘suspicious drone activity’ at UK air base",
+      "url": "https://www.ft.com/content/cf902a58-b694-4357-b1b0-07cf8e36c94e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-13T22:30+00:00",
+      "teaser": "RAF Lakenheath incident is fourth recent security alert related to a UK air base being used by the American military"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "Kommunikationsstörung: Luftfahrtbehörde FAA verhängt landesweites Startverbot in den USA",
@@ -786,7 +852,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "US Treasuries record worst week since Trump’s ‘liberation day’",
@@ -796,113 +862,61 @@
       "teaser": "Higher than expected inflation and hawkish remarks by Fed officials have stung investors who bet a global bond rout was over"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
-      "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
-      "source": "The Guardian",
-      "date": "2026-11-13T21:34+00:00",
-      "teaser": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to bring shoppers back The long decline of the high street is a problem that has gripped British governments for years. But what if there was a solution no one had considered before – doing it all on the cheap"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
-      "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-      "source": "New York Times",
-      "date": "2026-11-13T21:28+00:00",
-      "teaser": "A prolonged outage left many without email and other services, the most recent reminder that the world’s technological underpinnings rely on just a few companies."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "USA: US‑Luftfahrtbehörde stoppt Flugverkehr im gesamten Land",
-      "url": "https://www.handelsblatt.com/politik/international/usa-usluftfahrtbehoerde-stoppt-flugverkehr-im-gesamten-land/100269817.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-13T21:19+00:00",
-      "teaser": "Nach Anordnung der FAA dürfen bis auf Weiteres keine Flugzeuge in den USA starten. Zu den Gründen nannte die Behörde „außergewöhnliche Umstände und Sicherheit“."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.82,
-    "items": [
-     {
-      "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry",
-      "url": "https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-13T20:40+00:00",
-      "teaser": "Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south"
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.9,
+    "score": 7.96,
     "favorite": true,
     "items": [
      {
-      "title": "Hay precedentes: dos partidos aplazados al Castilla, uno al Madrid C y otro al Barça Atlètic",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250691/precedentes.html",
+      "title": "Ya a la venta el calendario oficial del Barça 2027",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/secciones/20261114/1004249540/venta-calendario-oficial-barca.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-13T22:39+01:00",
-      "teaser": "La Real Federación Española de Fútbol (RFEF) no fallará hasta es sábado por la mañana tras la solicitud que hizo el FC Barcelona de aplazar el Barça Atlètic-Girona B , partido correspondiente a la 11ª jornada del Grupo 2 de la Segunda RFEF, que finalmente se disputará este sábado a las 18.00 horas e"
+      "date": "2026-11-14T00:15+01:00",
+      "teaser": "¡El calendario oficial del Barça 2027 ya está aquí! Una oportunidad perfecta para acompañar al equipo azulgrana durante todo el año y tener a sus protagonistas siempre presentes. También es una excelente opción de regalo para cualquier aficionado culé. El calendario oficial del FC Barcelona para 202"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.89,
+    "score": 7.95,
     "favorite": true,
     "items": [
      {
-      "title": "Suspense total: el Barça Atlètic-Girona B (18 h.), pendiente de una decisión matinal",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250266/aplazado-barca-atletic-girona-b.html",
+      "title": "Pere Romeu da las claves del éxito del Barça femenino junto a su staff",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250814/pere-romeu-da-claves-exito-barca-femenino-staff.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-13T22:34+01:00",
-      "teaser": "Suspense total hasta último momento con la petición de aplazamiento del Barça Atlètic-Girona B por parte del FC Barcelona debido a la falta de jugadores. El juez de competición de la Real Federación Española de Fútbol (RFEF) comunicó al club azulgrana pasadas las 22 horas de este viernes que no fall"
+      "date": "2026-11-14T00:08+01:00",
+      "teaser": "Un día después del empate 1-1 ante el Arsenal en la fase Liga de la Champions League, partido que el Barça femenino mereció ganar en el Spotify Camp Nou por la cantidad de ocasiones creadas, Pere Romeu fue protagonista en la 14ª edición del Día del Entrenador/a organizada por la Federació Catalana d"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.71,
+    "score": 7.93,
     "favorite": true,
     "items": [
      {
-      "title": "Ponencia de Sergio Busquets y Bojan Krkic",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250753/sergio-busquets-bojan-krkic.html",
+      "title": "Arnau Blanco explica su relación con Hansi Flick",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250811/arnau-blanco-explica-relacion-hansi-flick.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-13T20:23+01:00",
-      "teaser": "Sergio Busquets y Bojan Krkic , exjugadores del Barça, participaron este viernes en la 14ª edición del Día del Entrenador/a que organizó la Federació Catalana de Futbol (FCF) en el Auditori del Hyatt Regency Barcelona Tower. Compartieron la ponencia 'Proceso de desarrollo de jóvenes talentos' con do"
+      "date": "2026-11-13T23:52+01:00",
+      "teaser": "A mediados de agosto de 2024, Arnau Blanco , que había trabajado en el fútbol formativo del FC Barcelona durante once temporadas, se incorporó al staff técnico de Hansi Flick , que se había quedado sin el apoyo de Thiago Alcantara en sus primeras semanas en el club. Este viernes, en una ponencia ('P"
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.94,
+    "score": 5.92,
     "items": [
      {
-      "title": "Nations League: Drei Erkenntnisse zu Deutschlands Sieg in Serbien",
-      "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-serbien-im-liveticker-a-326c5e73-0078-4453-a674-74f4b8a81771#ref=rss",
+      "title": "Nations League: Deutschland gewinnt in Serbien – Brajan Gruda trifft bei Debüt",
+      "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gewinnt-in-serbien-brajan-gruda-trifft-bei-debuet-a-f3e8c5e0-da5a-4d31-8711-8fc4b4dce49a#ref=rss",
       "source": "Spiegel",
-      "date": "2026-11-13T23:09+01:00",
-      "teaser": "Im zweiten Sieg unter Jürgen Klopp überzeugte vor allem Debütant Brajan Gruda. Der Bundestrainer scheint einen größeren Teil seiner ersten Elf gefunden zu haben. Das Spiel im Minutenprotokoll."
+      "date": "2026-11-13T23:51+01:00",
+      "teaser": "In Belgrad spielt Jürgen Klopps DFB-Team Serbien an die Wand, bis der Regen zu stark wird. Brajan Gruda dribbelt wie ein Großer. In der Nations League verdient sich Deutschland so ein Endspiel gegen die Niederlande."
      },
      {
       "title": "Nations League, 5. Spieltag: Deutschland schlägt Serbien",
@@ -922,7 +936,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.34,
+    "score": 5.27,
     "items": [
      {
       "title": "Rheinmetall: Borussia Dortmund beendet umstrittene Partnerschaft",
@@ -949,7 +963,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.85,
     "items": [
      {
       "title": "Tod von De Miguel: Zwölf Spiele Sperre für Torhüter Owono",
@@ -969,7 +983,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.5,
+    "score": 3.43,
     "items": [
      {
       "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
@@ -989,40 +1003,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "\"Das war Instinkt\": Nur einer toppte Gruda in den letzten zehn Jahren",
-      "url": "https://www.kicker.de/das-war-instinkt-nur-einer-toppte-gruda-in-den-letzten-zehn-jahren-1271407/artikel#omrss",
+      "title": "Füllkrug zum neuen DFB-Ritual: \"Passt genau bei mir rein\"",
+      "url": "https://www.kicker.de/fuellkrug-zum-neuen-dfb-ritual-passt-genau-bei-mir-rein-1271428/video#omrss",
       "source": "kicker",
-      "date": "2026-11-13T22:40+00:00",
-      "teaser": "Brajan Gruda erlebte am Freitag ein traumhaftes DFB-Debüt. Der Offensivmann war anschließend natürlich sehr glücklich - und beschrieb sein tolles Tor."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Nations League: So kommt das DFB-Team ins Viertelfinale",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/so-erreicht-klopp-mit-dem-dfb-team-noch-viertelfinale,artikel-nations-league-viertelfinale-100.html",
-      "source": "Sportschau",
-      "date": "2026-11-13T23:46+01:00",
-      "teaser": "Nach dem Sieg in Serbien kann Deutschland aus eigener Kraft die Gruppenphase überstehen. Komplizierte Rechenspiele gibt es nicht mehr, aber zwei Möglichkeiten."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Bundestrainer Klopp über Gruda - \"Außergewöhnliches Debüt\"",
-      "url": "https://www.sportschau.de/fussball/nationsleague/bundestrainer-klopp-ueber-gruda-aussergewoehnliches-debuet,o-ton-klopp-100.html",
-      "source": "Sportschau",
-      "date": "2026-11-13T23:43+01:00",
-      "teaser": "Nach dem Sieg in der Nations League gegen Serbien spricht Bundestrainer Jürgen Klopp über die Leistung seiner Mannschaft und besonders über das Debüt von Brajan Gruda."
+      "date": "2026-11-13T23:34+00:00",
+      "teaser": "Nach seinem Comeback im DFB-Trikot zeigte sich Niclas Füllkrug gut aufgelegt und sprach auch über das neu eingeführte Ritual von Jürgen Klopp vor dem Spiel."
      }
     ]
    },
@@ -1031,24 +1019,50 @@
     "score": 1.98,
     "items": [
      {
-      "title": "\"Der arme Kerl\": Klopp zeigt Mitleid für Grudas Gegenspieler",
-      "url": "https://www.kicker.de/der-arme-kerl-klopp-zeigt-mitleid-fuer-grudas-gegenspieler-1271414/video#omrss",
+      "title": "Klopp: \"Wir wollten ein Endspiel in Berlin, das haben wir jetzt\"",
+      "url": "https://www.kicker.de/klopp-wir-wollten-ein-endspiel-in-berlin-das-haben-wir-jetzt-1271406/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-13T22:36+00:00",
-      "teaser": "Jürgen Klopp zeigte sich vom Tor von Brajan Gruda beeindruckt und fühlte sich sogar in alte Mainzer Zeiten zurückversetzt."
+      "date": "2026-11-13T23:34+00:00",
+      "teaser": "Dank des Erfolgs in Serbien hat Deutschland seine Chancen gewahrt, in der Nations League ins Viertelfinale einzuziehen. Jürgen Klopp zog nach der Partie am Freitagabend ein positives Fazit."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
     "items": [
      {
-      "title": "Kimmich zufrieden: \"Die erste Halbzeit war schon sehr gut\"",
-      "url": "https://www.kicker.de/kimmich-zufrieden-die-erste-halbzeit-war-schon-sehr-gut-1271413/video#omrss",
+      "title": "Später Joker-Doppelschlag sichert der deutschen U 20 in Polen den Sieg",
+      "url": "https://www.kicker.de/polen-gegen-deutschland-2026-u-nationalteams-freundschaftsspiele-5268993/spielbericht#omrss",
       "source": "kicker",
-      "date": "2026-11-13T22:35+00:00",
-      "teaser": "DFB-Kapitän Joshua Kimmich zeigte sich nach den 90 Minuten im Regen von Belgrad zufrieden mit der Vorstellung der Mannschaft. Besonders die erste Halbzeit hob er hervor."
+      "date": "2026-11-13T23:27+00:00",
+      "teaser": "Die deutsche U-20-Nationalmannschaft hat das erste von zwei Testspielen zum Jahresabschluss für sich entscheiden können. In Polen stand dank späten Treffern zweier Joker am Ende ein knappes 2:1 zu Buche."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "\"Haben gerade erst angefangen\": Xavi lobt Reijnders nach Hattrick und mahnt",
+      "url": "https://www.kicker.de/haben-gerade-erst-angefangen-xavi-lobt-reijnders-nach-hattrick-und-mahnt-1271410/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-13T23:24+00:00",
+      "teaser": "Das 7:0 der Niederlande gegen Griechenland am 5. Spieltag der Nations League war für Oranje ein wahres Fußballfest. Trainer Xavi will den Kantersieg nun genießen. Tijjani Reijnders lobt nach seinem Hattrick derweil die Teamleistung."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Treu beendet Interview für Füllkrug: \"Hat eine kurze Hose an\"",
+      "url": "https://www.kicker.de/treu-beendet-interview-fuer-fuellkrug-hat-eine-kurze-hose-an-1271427/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-13T23:17+00:00",
+      "teaser": "Philipp Treu achtete nach dem Sieg in Serbien auf die Gesundheit von Niclas Füllkrug und ließ den Stürmer nicht allzu lange warten."
      }
     ]
    }
@@ -1056,7 +1070,67 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "(g+) Opinion: Anthropic's Dario Amodei Can't Always Have His Way",
+      "url": "https://www.golem.de/news/opinion-anthropic-s-dario-amodei-can-t-always-have-his-way-2611-215204.html",
+      "source": "Golem",
+      "date": "2026-11-13T18:00+01:00",
+      "teaser": "Anthropic PBC has benefited from the single-minded focus of a leader who doesn't waver from his decisions. But that advantage could become a liability. Von Parmy Olson ( Anthropic , Silicon Valley )"
+     },
+     {
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+      "source": "New York Times",
+      "date": "2026-11-13T23:20+00:00",
+      "teaser": "Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "FAA ground stop shuts down flights nationwide",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "date": "2026-11-13T16:38-05:00",
+      "teaser": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecomm"
+     },
+     {
+      "title": "FAA orders third nationwide ground stop in its history",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "source": "Ars Technica",
+      "date": "2026-11-13T23:17+00:00",
+      "teaser": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "Jensen Huang was reckless with the environment, too",
+      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "source": "The Verge",
+      "date": "2026-11-13T12:44-05:00",
+      "teaser": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set th"
+     },
+     {
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-13T23:00+00:00",
+      "teaser": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.9,
     "items": [
      {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
@@ -1076,27 +1150,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.57,
-    "items": [
-     {
-      "title": "Jensen Huang was reckless with the environment, too",
-      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-      "source": "The Verge",
-      "date": "2026-11-13T12:44-05:00",
-      "teaser": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set th"
-     },
-     {
-      "title": "Jensen Huang’s Resignation From Nvidia Worries the A.I. Start-Up World",
-      "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
-      "source": "New York Times",
-      "date": "2026-11-13T16:36+00:00",
-      "teaser": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.48,
     "items": [
      {
       "title": "The Microsoft Outage Is a Warning for the World",
@@ -1115,28 +1169,8 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.51,
-    "items": [
-     {
-      "title": "(g+) Opinion: Anthropic's Dario Amodei Can't Always Have His Way",
-      "url": "https://www.golem.de/news/opinion-anthropic-s-dario-amodei-can-t-always-have-his-way-2611-215204.html",
-      "source": "Golem",
-      "date": "2026-11-13T18:00+01:00",
-      "teaser": "Anthropic PBC has benefited from the single-minded focus of a leader who doesn't waver from his decisions. But that advantage could become a liability. Von Parmy Olson ( Anthropic , Silicon Valley )"
-     },
-     {
-      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
-      "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
-      "source": "New York Times",
-      "date": "2026-11-13T16:11+00:00",
-      "teaser": "Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.9,
     "items": [
      {
       "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
@@ -1149,7 +1183,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "USA: Alle Flughäfen gesperrt",
@@ -1162,7 +1196,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
@@ -1175,7 +1209,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.83,
     "items": [
      {
       "title": "FAA Grounds All US Flights Until Further Notice",
@@ -1188,20 +1222,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "FAA ground stop shuts down flights nationwide",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "date": "2026-11-13T16:38-05:00",
-      "teaser": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground st"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
@@ -1214,20 +1235,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.79,
     "items": [
      {
-      "title": "What happened overnight with the Microsoft global outage?",
-      "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-13T07:18+00:00",
-      "teaser": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
+      "date": "2026-11-13T21:14+00:00",
+      "teaser": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.78,
     "items": [
      {
       "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
@@ -1533,7 +1554,7 @@
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Sport",
