@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-13T18:58:31+00:00",
+ "fetchedAt": "2026-11-13T19:58:47+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 6,
-    "score": 11.92,
+    "sourceCount": 5,
+    "score": 9.24,
     "items": [
      {
       "title": "Nvidia-Affäre: Jensen Huang und Trumps Handelsminister Lutnick müssen sich im Senat erklären",
@@ -31,34 +31,61 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.99,
+    "score": 5.97,
     "items": [
      {
-      "title": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
-      "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice",
-      "source": "PBS NewsHour",
-      "date": "2026-11-13T13:22-05:00",
-      "teaser": "European Council President Antonio Costa said the continent will be represented by the EU and five members of the \"coalition of the willing\" that backs Ukraine: the U.K., France, Germany, Italy and Poland."
+      "title": "Microsoft ‘deeply sorry’ for global outage, says issue not caused by cyber or AI agents",
+      "url": "https://www.scmp.com/news/world/article/3374408/microsoft-deeply-sorry-global-outage-says-issue-not-caused-cyber-or-ai-agents",
+      "source": "South China Morning Post",
+      "date": "2026-11-13T18:43+00:00",
+      "teaser": "Microsoft on Friday apologised for a global outage that disrupted public services and businesses around the world, as it reported a “broad recovery” for Outlook email and other services. The company ruled out any malicious “cyber or AI” activity as the cause of the outage, which affected several Mic"
      },
      {
-      "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
-      "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
-      "source": "New York Times",
-      "date": "2026-11-13T18:52+00:00",
-      "teaser": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team."
+      "title": "Microsoft 'deeply sorry' for global outage, reports 'broad recovery' of services",
+      "url": "https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540",
+      "source": "ABC Australia",
+      "date": "2026-11-13T19:34+00:00",
+      "teaser": "Microsoft rules out any malicious \"cyber or AI\" activity after a worldwide outage disrupted healthcare services, delayed corporate earnings reports and left schools struggling to communicate."
      },
      {
-      "title": "Europe warned against falling for Russia's 'traps' on Ukraine talks",
-      "url": "https://www.thehindu.com/news/international/europe-warned-against-falling-for-russias-traps-on-ukraine-talks/article71697837.ece",
+      "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
+      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
       "source": "The Hindu",
-      "date": "2026-11-13T17:59+05:30",
-      "teaser": "The hawkish former Prime Minister of Estonia Kaja Kallas said it was not up to Russia to decide who would represent Europe"
+      "date": "2026-11-13T22:32+05:30",
+      "teaser": "Microsoft services are beginning to come back online after a massive global outage left millions of users without access for nearly 18 hours"
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.8,
+    "score": 5.92,
+    "items": [
+     {
+      "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+      "source": "NPR",
+      "date": "2026-11-13T07:07-05:00",
+      "teaser": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader."
+     },
+     {
+      "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "source": "New York Times (Politik)",
+      "date": "2026-11-13T04:11+00:00",
+      "teaser": "Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win."
+     },
+     {
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-13T19:03+00:00",
+      "teaser": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.72,
     "items": [
      {
       "title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
@@ -84,55 +111,88 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.74,
+    "sourceCount": 2,
+    "score": 3.93,
     "items": [
      {
-      "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-      "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-      "source": "NPR",
-      "date": "2026-11-13T07:07-05:00",
-      "teaser": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader."
+      "title": "Nvidia-Skandal: US-Handelsminister Lutnick wegen Chip-Exporten unter Druck",
+      "url": "https://www.tagesschau.de/ausland/usa-nvidia-finanzminister-handelminister-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-13T20:06+01:00",
+      "teaser": "US-Handelsminister Lutnick steht in der Kritik. Sein Ministerium soll Warnungen vor der in den Nvidia-Skandal verwickelten Firma Megaspeed ignoriert haben. Kabinettskollege Bessent warf ihm Versäumnisse vor."
      },
      {
-      "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+      "title": "How will the US deal with Nvidia scandal?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-13T18:57+00:00",
+      "teaser": "Tech giant CEO resigned and will testify before Congress."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "U.K. police launch sex offence investigation into children’s author and comedian David Walliams",
+      "url": "https://www.cbc.ca/news/entertainment/david-walliams-investigation-9.7420901?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-13T13:13-05:00",
+      "teaser": "London police said on Friday they are investigating children’s author and TV personality David Walliams for serious sexual offences, after news outlets reported that he used his fame to groom girls and young women for sex. The Metropolitan Police said it had received a number of allegations of past "
+     },
+     {
+      "title": "UK police launch sex offense investigation into children's author and TV personality David Walliams",
+      "url": "https://www.pbs.org/newshour/world/uk-police-launch-sex-offense-investigation-into-childrens-author-and-tv-personality-david-walliams",
+      "source": "PBS NewsHour",
+      "date": "2026-11-13T14:05-05:00",
+      "teaser": "The Metropolitan Police said it had received a number of allegations of past abuse following the joint investigation this week by ITV News and the Guardian newspaper."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "Trump Signals New Strategy on Iran: A Waiting Game",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html",
       "source": "New York Times (USA)",
-      "date": "2026-11-13T04:11+00:00",
-      "teaser": "Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win."
+      "date": "2026-11-13T18:20+00:00",
+      "teaser": "The administration appears to be moving toward a long-term economic pressure campaign as President Trump expresses little urgency in securing a nuclear agreement."
      },
      {
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T15:48+00:00",
-      "teaser": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
+      "title": "What's Trump's strategy now with Iran? To keep things as they are",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "source": "NPR",
+      "date": "2026-11-13T14:02-05:00",
+      "teaser": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.91,
     "items": [
      {
-      "title": "Microsoft ‘deeply sorry’ for global outage, says issue not caused by cyber or AI agents",
-      "url": "https://www.scmp.com/news/world/article/3374408/microsoft-deeply-sorry-global-outage-says-issue-not-caused-cyber-or-ai-agents",
-      "source": "South China Morning Post",
-      "date": "2026-11-13T18:43+00:00",
-      "teaser": "Microsoft on Friday apologised for a global outage that disrupted public services and businesses around the world, as it reported a “broad recovery” for Outlook email and other services. The company ruled out any malicious “cyber or AI” activity as the cause of the outage, which affected several Mic"
+      "title": "Europe to send a diplomat team to Ukraine talks as leaders push for a voice",
+      "url": "https://www.pbs.org/newshour/world/europe-to-send-a-diplomat-team-to-ukraine-talks-as-leaders-push-for-a-voice",
+      "source": "PBS NewsHour",
+      "date": "2026-11-13T13:22-05:00",
+      "teaser": "European Council President Antonio Costa said the continent will be represented by officials from the 27-nation EU bloc and five members of the \"Coalition of the Willing\" that backs Ukraine: the U.K., France, Germany, Italy and Poland."
      },
      {
-      "title": "Microsoft Outage LIVE: Microsoft apologises for outage, says it was not linked to cyber or AI",
-      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
-      "source": "The Hindu",
-      "date": "2026-11-13T22:32+05:30",
-      "teaser": "Microsoft services are beginning to come back online after a massive global outage left millions of users without access for nearly 18 hours"
+      "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+      "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+      "source": "New York Times",
+      "date": "2026-11-13T18:52+00:00",
+      "teaser": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.89,
     "items": [
      {
       "title": "US-China Board of Trade holds first meeting days before Trump-Xi summit",
@@ -152,7 +212,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.89,
     "items": [
      {
       "title": "No emails, no problem? Workers joke about Microsoft outage",
@@ -172,7 +232,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.88,
     "items": [
      {
       "title": "Peruvians flock to mass with Pope Leo in city he served as bishop",
@@ -192,7 +252,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.87,
     "items": [
      {
       "title": "Eisenkot Accuses Netanyahu of Fueling ‘Racist’ Hostility Against Arabs",
@@ -209,72 +269,12 @@
       "teaser": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.96,
-    "items": [
-     {
-      "title": "Russell Brand accused by 6 women of sexual misconduct, assault following rape conviction",
-      "url": "https://www.cbc.ca/news/entertainment/russell-brand-sexual-assault-more-allegations-9.7420884?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-13T13:30-05:00",
-      "teaser": "Six more women have come forward alleging sexual misconduct and predatory behaviour by ex-comedian Russell Brand, according to an investigation by the U.K.-based The Times, following his conviction on rape and sexual assault earlier this week."
-     },
-     {
-      "title": "Six more women accuse Russell Brand of sexual offences",
-      "url": "https://www.abc.net.au/news/2026-11-14/six-more-women-accuse-russell-brand-of-sexual-offences/107385408",
-      "source": "ABC Australia",
-      "date": "2026-11-13T16:59+00:00",
-      "teaser": "Convicted rapist Russell Brand is facing fresh allegations of predatory behaviour and committing sexual offences, after six new accusers went public on Friday."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.94,
-    "items": [
-     {
-      "title": "U.K. police launch sex offence investigation into children’s author and comedian David Walliams",
-      "url": "https://www.cbc.ca/news/entertainment/david-walliams-investigation-9.7420901?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-13T13:13-05:00",
-      "teaser": "London police said on Friday they are investigating children’s author and TV personality David Walliams for serious sexual offences, after news outlets reported that he used his fame to groom girls and young women for sex. The Metropolitan Police said it had received a number of allegations of past "
-     },
-     {
-      "title": "UK police launch investigation into children's author David Walliams",
-      "url": "https://www.abc.net.au/news/2026-11-14/uk-police-launch-investigation-into-david-walliams/107385506",
-      "source": "ABC Australia",
-      "date": "2026-11-13T16:20+00:00",
-      "teaser": "London's Metropolitan Police have launched an investigation into actor and comedian David Walliams, after the entertainer was accused of serious sexual offences earlier this week."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.89,
-    "items": [
-     {
-      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-      "source": "The Guardian",
-      "date": "2026-11-13T17:41+00:00",
-      "teaser": "Tech firm says it is ‘deeply sorry’ for disruption and has now addressed the underlying issue Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft has said it is “deeply sorry” for a widespread outage tha"
-     },
-     {
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T11:43+00:00",
-      "teaser": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.8,
+    "score": 5.72,
     "items": [
      {
       "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
@@ -301,7 +301,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "News des Tages: Störung bei Microsoft, Issa Rammo im EU-Parlament, Katherina Reiche plant Notfall-Gesetz für Gasmangel",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-13T17:15+01:00",
+      "teaser": "Microsoft hat ein massives Problem, Millionen Mails blieben ungelesen. Clanboss Rammo tritt im EU-Parlament auf, und Katherina Reiche hat offenbar immer noch Schwierigkeiten mit ihrem Rollenwechsel. Das ist die Lage am Freitagabend."
+     },
+     {
+      "title": "Microsoft-Störung: \"Das zeigt, wie sehr wir abhängig sind\"",
+      "url": "https://www.zdfheute.de/politik/microsoft-digitalministerium-digitale-unabhaengigkeit-100.html",
+      "source": "ZDF",
+      "date": "2026-11-13T20:10+01:00",
+      "teaser": "Nach der Microsoft-Störung rät das Digitalministerium, sich nicht von einzelnen Anbietern abhängig zu machen. Der Vorfall wirft Fragen zur digitalen Souveränität Europas auf."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.84,
     "items": [
      {
       "title": "EU einig bei Verhandlern für Ukraine-Gespräche - Deutschland dabei",
@@ -321,7 +341,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.65,
+    "score": 3.71,
+    "items": [
+     {
+      "title": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kann-ihr-kanzler-gut-verhandeln-eher-nicht-finden-sie-in-der-cdu-a-30ef26a9-93f9-4714-84ad-8f353e28d4fc#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-12T20:02+01:00",
+      "teaser": "Friedrich Merz hat sich festgelegt: Die Senkung der Stromsteuer für alle soll kommen. Doch es fehlt die Finanzierung, die SPD lässt den Kanzler auflaufen. In der eigenen Partei wachsen schon wieder Wut und Frust über den Chef."
+     },
+     {
+      "title": "Sollte Kanzler Merz für die EU mit Putin verhandeln?",
+      "url": "https://www.zdfheute.de/video/politik-illner-laschet-100.html",
+      "source": "ZDF",
+      "date": "2026-11-13T17:32+01:00",
+      "teaser": "Bei \"maybrit illner\" forderte Armin Laschet (CDU) mehr Gespräche mit Moskau. Es sei \"eine Selbstverständlichkeit, dass ein deutscher Kanzler auch mit Putin redet\"."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.57,
     "items": [
      {
       "title": "Klimastreik: Fridays for Future warnt auf Weltklimakonferenz vor „Hitzehölle“",
@@ -341,7 +381,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.52,
+    "score": 3.43,
     "items": [
      {
       "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
@@ -361,7 +401,59 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Genossenschaft rettet Dorfkneipe in Thüringen",
+      "url": "https://www.zdfheute.de/video/panorama-kneipen-sterben-corona-video-100.html",
+      "source": "ZDF",
+      "date": "2026-11-13T20:53+01:00",
+      "teaser": "In Neukirchen bei Eisenach hat eine Genossenschaft die Dorfkneipe gerettet. Mit Eigenkapital und Fördermitteln wurde sie wieder hergerichtet - und so der Dorfmittelpunkt erhalten."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Fridays for Future: Demonstranten fordern mehr Geld für internationalen Klimaschutz",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/fridays-for-future-demo-berlin-cop31-klimawandel-deutschland",
+      "source": "Zeit",
+      "date": "2026-11-13T19:40+00:00",
+      "teaser": "Wer die Klimakrise verursacht, muss auch für ihre Folgen zahlen: Für Forderungen nach mehr Klimaschutz gingen in Berlin laut Polizei rund 700 Menschen auf die Straße."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Geheimdienstreform: Der Spion, der nicht nur liebt",
+      "url": "https://www.faz.net/aktuell/politik/inland/geheimdienstreform-der-spion-der-nicht-nur-liebt-201680691.html",
+      "source": "FAZ",
+      "date": "2026-11-13T19:31+00:00",
+      "teaser": "Gut, dass die Koalition Handlungsfähigkeit bewiesen hat. Der Praxistest steht noch aus, aber die Dienste haben nun mehr Möglichkeiten, Deutschland zu schützen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Mercedes-Werk Rastatt in Gefahr - Sorge und Wut in der Belegschaft",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/mercedes-werk-rastatt-sorgen-mitarbeiter-und-gewerkschaft-100.html",
+      "source": "SWR",
+      "date": "2026-11-13T20:20+01:00",
+      "teaser": "Mercedes-Benz stoppt alle Investitionen in deutsche Standorte. Ganze Werke sollen geschlossen werden. Zu den bedrohten Standorten gehört auch das Mercedes-Werk in Rastatt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Mehr Geld für schnellere und sichere Strafprozesse in BW",
@@ -374,7 +466,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.88,
     "items": [
      {
       "title": "In Baden-Württemberg stirbt statistisch jeden Tag ein Mensch im Straßenverkehr",
@@ -384,90 +476,12 @@
       "teaser": "Autos werden immer sicherer, Straßen werden umgebaut - und trotzdem sind in BW im Jahr 367 Menschen bei Verkehrsunfällen gestorben. Deutlich mehr als im Vorjahr."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "BVB und Rheinmetall: Aus für umstrittenen Sponsoring-Deal",
-      "url": "https://www.zdfheute.de/sport/bvb-rheinmetall-sponsoring-deal-ende-100.html",
-      "source": "ZDF",
-      "date": "2026-11-13T19:28+01:00",
-      "teaser": "Borussia Dortmund und der Rüstungskonzern Rheinmetall beenden kommendes Jahr ihre umstrittene Partnerschaft. Ausschlaggebend war die anhaltende Kritik der BVB-Fans an dem Deal."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "GTA-6-Premiere treibt Urlaubsanträge in die Höhe",
-      "url": "https://www.zdfheute.de/video/panorama-gta-urlaub-antraege-video-100.html",
-      "source": "ZDF",
-      "date": "2026-11-13T19:06+01:00",
-      "teaser": "Viele Menschen wollen am Erscheinungstag des Computerspiels GTA 6 zocken statt arbeiten: Daten zeigen, dass 38 Prozent mehr Menschen Urlaub beantragt haben als im Jahr zuvor."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Fridays for Future: Demonstranten fordern mehr Geld für internationalen Klimaschutz",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/fridays-for-future-demo-berlin-cop31-klimawandel-deutschland",
-      "source": "Zeit",
-      "date": "2026-11-13T17:39+00:00",
-      "teaser": "Wer die Klimakrise verursacht, muss auch für ihre Folgen zahlen: Für Forderungen nach mehr Klimaschutz gingen in Berlin laut Polizei rund 700 Menschen auf die Straße."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Ex-VfB-Profi Berthold könnte AfD-Kandidat für Bundespräsidentenamt werden",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ex-vfb-profi-berthold-koennte-afd-kandidat-fuer-bundespraesident-werden-100.html",
-      "source": "SWR",
-      "date": "2026-11-13T18:36+01:00",
-      "teaser": "Der frühere VfB-Profi und Weltmeister Thomas Berthold wird möglicherweise AfD-Kandidat für das Amt des Bundespräsidenten. Seine Aussichten: eher schlecht."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Prozessauftakt wegen Bankraubes: Rund 865.000 Euro Beute",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/prozess-gegen-mutmassliche-bankraeuber-nach-ueberfall-in-oftersheim-100.html",
-      "source": "SWR",
-      "date": "2026-11-13T18:39+01:00",
-      "teaser": "In Mannheim hat der Prozess gegen einen Mann und eine Frau begonnen, denen drei Banküberfälle vorgeworfen werden. Alleine in Oftersheim sollen sie 600.000 Euro erbeutet haben."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Wolf Biermann: „Nichts anderes als kritische Solidarität mit der DDR“",
-      "url": "https://www.faz.net/aktuell/politik/inland/vor-50-jahren-wie-die-ddr-wolf-biermann-ausbuergerte-201680380.html",
-      "source": "FAZ",
-      "date": "2026-11-13T17:31+00:00",
-      "teaser": "Vor 50 Jahren bürgerte das SED-Regime den Liedermacher Wolf Biermann aus. Der geballte Protest von Künstlern und Intellektuellen traf das Regime unvorbereitet."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.85,
     "items": [
      {
       "title": "Donald Tusk: Polska będzie odgrywała kluczową rolę w rozmowach USA, Ukrainy i Rosji",
@@ -490,6 +504,84 @@
     "score": 1.99,
     "items": [
      {
+      "title": "Ministerstwo sparaliżowane, miliardy euro na szali. Tusk apeluje do prezydenta",
+      "url": "https://www.rp.pl/kraj/art45487561-ministerstwo-sparalizowane-miliardy-euro-na-szali-tusk-apeluje-do-prezydenta",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T20:54+01:00",
+      "teaser": "Donald Tusk ostro skrytykował Karola Nawrockiego za blokowanie zmian w Ministerstwie Funduszy. Premier ostrzega, że paraliż resortu może zagrozić miliardom euro dla Polski. „Prezydent utrzymuje sytuację idiotyczną” – stwierdził szef rządu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Tragiczny wypadek na S12. Zderzyło się sześć pojazdów, w tym wojskowe ciężarówki",
+      "url": "https://www.rp.pl/wypadki/art45487611-tragiczny-wypadek-na-s12-zderzylo-sie-szesc-pojazdow-w-tym-wojskowe-ciezarowki",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T20:53+01:00",
+      "teaser": "Na drodze ekspresowej S12 w miejscowości Janówek na Lubelszczyźnie doszło do zderzenia sześciu pojazdów. Jedna osoba zginęła, a przejazd w kierunku Chełma i Zamościa jest wyłączony z ruchu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Zakaz reklamy aptek zniesiony, ale kary będą wyższe. Decyzja prezydenta",
+      "url": "https://www.rp.pl/prawo-w-polsce/art45487551-zakaz-reklamy-aptek-zniesiony-ale-kary-beda-wyzsze-decyzja-prezydenta",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T20:46+01:00",
+      "teaser": "Prezydent Karol Nawrocki podpisał ustawę znoszącą całkowity zakaz reklamy aptek. Będą jednak ograniczenia dotyczące reklam, za których złamanie mają grozić kary do miliona złotych."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Hakerzy zaatakowali Autopay. Firma ostrzega klientów przed zagrożeniem",
+      "url": "https://cyfrowa.rp.pl/bezpieczenstwo/art45487531-hakerzy-zaatakowali-autopay-firma-ostrzega-klientow-przed-zagrozeniem",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T20:17+01:00",
+      "teaser": "Cyberatak na Autopay. Zagrożone mogą być dane dotyczące płatności klientów popularnego operatora. Firma potwierdziła nieautoryzowany dostęp do swoich systemów i ostrzega przed możliwym wykorzystaniem informacji. Sprawą zajmują się policja i instytucje nadzorcze."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Kreml przejął zachodni biznes. Miliony rubli na sprzęt dla armii",
+      "url": "https://www.rp.pl/biznes/art45487511-kreml-przejal-zachodni-biznes-miliony-rubli-na-sprzet-dla-armii",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T20:17+01:00",
+      "teaser": "Rosja wykorzystuje przejęte aktywa zachodnich przedsiębiorstw do wspierania własnej armii. Środki są przeznaczane m.in. na zakup dronów, pojazdów terenowych i sprzętu łączności – ustalił Bloomberg."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Ustawa o wychowaniu patriotycznym podpisana. Prezydent: to nie zamyka sprawy",
+      "url": "https://www.rp.pl/edukacja-i-wychowanie/art45487491-ustawa-o-wychowaniu-patriotycznym-podpisana-prezydent-to-nie-zamyka-sprawy",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T20:10+01:00",
+      "teaser": "Prezydent Karol Nawrocki podpisał ustawę o wychowaniu patriotycznym, która m.in. wprowadza obowiązek organizowania przez szkoły wycieczek i wyjść do miejsc związanych z historią i polskimi tradycjami. Zapowiedział, że będzie chciał zaproponować rozwiązania, które uzupełnią te przepisy."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
       "title": "Ceny gazu zamrożone na kolejny rok. Jest projekt ustawy",
       "url": "https://energia.rp.pl/gaz/art45487461-ceny-gazu-zamrozone-na-kolejny-rok-jest-projekt-ustawy",
       "source": "Rzeczpospolita",
@@ -500,7 +592,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.89,
     "items": [
      {
       "title": "Proces Grzegorza Brauna. Były oględziny choinki, potwierdziły wartość zbitych bombek",
@@ -513,7 +605,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.86,
     "items": [
      {
       "title": "Zarzuty dla mężczyzny, który strzelał z broni gazowej do policjantów w Krakowie. \"Jest recydywistą\"",
@@ -526,7 +618,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
       "title": "Polska weźmie udział w negocjacjach dotyczących zakończenia wojny w Ukrainie",
@@ -539,92 +631,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Rusłan Szoszyn: Rosja poczuła słabość Europy osieroconej przez Amerykę",
-      "url": "https://www.rp.pl/opinie-polityczno-spoleczne/art45487271-ruslan-szoszyn-rosja-poczula-slabosc-europy-osieroconej-przez-ameryke",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T18:57+01:00",
-      "teaser": "Absurdalne żądania Kremla wykraczają już daleko poza granice Ukrainy. Nie można jednak dać się sprowokować. Ale przy stole Europa powinna zasiąść. I najlepiej, by negocjator pochodził z naszej części świata i dobrze rozumiał Rosję."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "Tusk komentuje weto Nawrockiego. \"Myślałem, że prezydent nie jest w stanie mnie już niczym zaskoczyć\"",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131586,tusk-ochrona-dzieci-przed-internetowymi-przestepcami-powinna.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "source": "Gazeta Wyborcza",
       "date": "2026-11-13T17:59+00:00",
-      "teaser": "Ochrona dzieci przed internetowymi przestępcami powinna łączyć ponad politycznymi podziałami - ocenił premier Donald Tusk. - Jeśli chce toczyć wojnę z rządem kosztem polskiego bezpieczeństwa, to jest to po prostu wstyd - dodał szef rządu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Prawica chwali Nawrockiego po zablokowaniu ustawy cyfrowej. Bosak: Zagrożenie dla wolności słowa",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131578,prawica-chwali-nawrockiego-po-zablokowaniu-ustawy-cyfrowej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-13T17:58+00:00",
-      "teaser": "Decyzja Karola Nawrockiego o zablokowaniu ustawy cyfrowej spotkała się z entuzjastycznym przyjęciem prawicy, która określa odrzucony projekt mianem narzędzia do cenzury. \"Nie można pozwalać na ograniczanie wolności słowa\" - napisał lider Konfederacji Sławomir Mentzen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Bogusław Chrabota: Agenty AI przejmą świat. Roboty już istnieją",
-      "url": "https://www.rp.pl/plus-minus/art45483481-boguslaw-chrabota-agenty-ai-przejma-swiat-roboty-juz-istnieja",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T18:44+01:00",
-      "teaser": "Humanoidalne roboty i agenty AI już istnieją. Nie doświadczamy tylko ich powszechności."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Nawrocki podpisał sześć ustaw. Wśród nich zniesienie całkowitego zakazu reklamy aptek",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131546,nawrocki-podpisal-szesc-ustaw-wsrod-nich-m-in-zniesienie-calkowitego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-13T17:35+00:00",
-      "teaser": "Prezydent Karol Nawrocki zdecydował o podpisaniu sześciu ustaw. Dotyczą m.in. wychowania patriotycznego w szkołach, zniesienia całkowitego zakazu reklamy aptek czy działań antyterrorystycznych."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Rosja uderzyła w blok mieszkalny w Zaporożu. 50 osób rannych, w tym ośmioro dzieci",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45487301-rosja-uderzyla-w-blok-mieszkalny-w-zaporozu-50-osob-rannych-w-tym-osmioro-dzieci",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T18:27+01:00",
-      "teaser": "Do 50 wzrosła liczba rannych w rosyjskim ataku na Zaporoże. Wśród poszkodowanych jest ośmioro dzieci. Pocisk trafił w czteropiętrowy budynek mieszkalny, uszkodzeniu uległy mieszkania na trzech piętrach."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Nawrocki zablokował przepisy o nielegalnych treściach w sieci. Ekspert wskazuje konsekwencje",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131531,nawrocki-zablokowal-przepisy-o-nielegalnych-tresciach-w-sieci.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-13T17:15+00:00",
-      "teaser": "- Zawetowana przez prezydenta nowela, wdrażająca akt o usługach cyfrowych, mogła poprawić responsywność platform i przyspieszyć usuwanie treści, w tym prezentujących seksualne wykorzystanie dzieci - powiedział PAP Maciej Groń, radca prawny z działającego w ramach NASK zespołu Dyżurnet.pl."
+      "teaser": "Ochrona dzieci przed internetowymi przestępcami powinna łączyć ponad politycznymi podziałami - ocenił premier Donald Tusk. - Jeśli [prezydent] chce toczyć wojnę z rządem kosztem polskiego bezpieczeństwa, to jest to po prostu wstyd - dodał szef rządu."
      }
     ]
    }
@@ -632,21 +646,21 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.71,
+    "score": 5.96,
     "items": [
+     {
+      "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
+      "url": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
+      "source": "New York Times",
+      "date": "2026-11-13T19:32+00:00",
+      "teaser": "Jensen Huang was the driving force at Nvidia, with 60 direct reports and no clear succession plan. Tripp Mickle, one of our technology reporters, examines Mr. Huang’s central role in the company and the artificial intelligence industry."
+     },
      {
       "title": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rolle-100.html",
       "source": "Tagesschau",
       "date": "2026-11-12T17:17+01:00",
       "teaser": "Er war nicht nur Chef, sondern auch Gesicht von Nvidia: Jensen Huang formte den Chip-Riesen maßgeblich - als \"sympathischer Tech-Bro\" mit guten Kontakten zur Trump-Regierung. Bis er zum Risiko wurde. Von Gabi Biesinger."
-     },
-     {
-      "title": "Jensen Huang’s Fall Costs Asia an A.I. Ambassador to the U.S.",
-      "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html",
-      "source": "New York Times",
-      "date": "2026-11-13T15:29+00:00",
-      "teaser": "The ex-Nvidia C.E.O. was a bridge between companies and governments. His exit will reverberate, especially in China where it could accelerate a self-reliance drive."
      },
      {
       "title": "Nvidia-Chef: Der tiefe Fall des Jensen Huang",
@@ -659,27 +673,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.92,
     "items": [
      {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
       "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
       "source": "New York Times",
-      "date": "2026-11-13T17:52+00:00",
+      "date": "2026-11-13T19:04+00:00",
       "teaser": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services."
      },
      {
-      "title": "Microsoft says services experiencing ‘broad recovery’ after global outage",
-      "url": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
+      "title": "Microsoft outage exposes global reliance on core tech providers",
+      "url": "https://www.ft.com/content/f385935b-2bb4-4e34-8127-16517e8ceecb?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-13T18:25+00:00",
-      "teaser": "German government says it ‘anticipates a very big impact’ on economy"
+      "date": "2026-11-13T18:55+00:00",
+      "teaser": "Impact of global incident affects users ranging from banks and governments to county sheriffs and pharmacies"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
+    "score": 3.76,
     "items": [
      {
       "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
@@ -699,7 +713,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.81,
+    "score": 3.72,
     "items": [
      {
       "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
@@ -719,7 +733,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.75,
+    "score": 3.67,
     "items": [
      {
       "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
@@ -739,27 +753,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.72,
-    "items": [
-     {
-      "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-      "source": "The Guardian",
-      "date": "2026-11-13T09:41+00:00",
-      "teaser": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spy"
-     },
-     {
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T15:40+00:00",
-      "teaser": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.65,
+    "score": 3.56,
     "items": [
      {
       "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
@@ -778,61 +772,54 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.3,
-    "items": [
-     {
-      "title": "Urenco: Bund offenbar an Beteiligung an Atomfirma interessiert",
-      "url": "https://www.spiegel.de/wirtschaft/urenco-bund-offenbar-an-beteiligung-an-atomfirma-interessiert-a-28840dc3-d226-4424-bd1b-d250f20efd0d#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-13T11:31+01:00",
-      "teaser": "Der Brennelemente-Hersteller Urenco ist nach dem Atomausstieg in Deutschland ein wenig aus dem Blick geraten. Inzwischen jedoch betrachtet Berlin das Unternehmen als wichtigen Faktor, wenn es um Atomwaffen geht."
-     },
-     {
-      "title": "Energie: Bund plant Milliarden-Staatseinstieg in Atomtechnik-Konzern – offenbar um US-Beteiligung zu verhindern",
-      "url": "https://www.handelsblatt.com/politik/deutschland/energie-bund-plant-milliarden-staatseinstieg-in-atomtechnik-konzern/100269531.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-13T10:16+00:00",
-      "teaser": "Plötzlich stehen vier Milliarden Euro im Haushalt: Sie sind laut Insidern für die Beteiligung am Brennelemente-Hersteller Urenco vorgesehen. Es geht um Sicherheitssorgen – und Atom-U-Boote."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
     "items": [
      {
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-13T18:36+00:00",
-      "teaser": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
+      "date": "2026-11-13T19:53+00:00",
+      "teaser": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.99,
     "items": [
      {
-      "title": "Putin-Gespräche: Die EU hat sich für ein Ukraine-Team entschieden – Deutschland ist dabei",
-      "url": "https://www.handelsblatt.com/politik/international/putin-gespraeche-die-eu-hat-sich-fuer-ein-ukraine-team-entschieden-deutschland-ist-dabei/100268657.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-13T18:20+00:00",
-      "teaser": "Spott aus Washington, tagelanger Streit in Brüssel, dann die Lösung in Dublin: Die EU hat entschieden, wer sie bei möglichen Verhandlungen über den Krieg in der Ukraine vertritt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
-      "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+      "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+      "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
       "source": "New York Times",
-      "date": "2026-11-13T18:24+00:00",
-      "teaser": "A drop in Nvidia shares after the ouster of the company’s chief executive has not spread to the rest of the market, as stocks have held their ground broadly."
+      "date": "2026-11-13T19:52+00:00",
+      "teaser": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Global oil markets swing to surplus as Gulf shipments rebound",
+      "url": "https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-13T19:45+00:00",
+      "teaser": "IEA analysts warn it will take months to rebuild stockpiles depleted by US-Iran war"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "US securities watchdog plans to loosen rules for executive pay disclosure",
+      "url": "https://www.ft.com/content/de634392-47bd-4a21-938a-77620aeb3d17?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-13T19:20+00:00",
+      "teaser": "Only CEOs and CFOs would be required to disclose pay packages under Securities and Exchange Commission’s proposal"
      }
     ]
    },
@@ -841,11 +828,24 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Änderungen im Arbeitsrecht: Ein befristeter Job ist besser als gar keiner",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/aenderungen-arbeitsrecht-befristungen-kuendigungsschutz-arbeitsplaetze",
-      "source": "Zeit",
-      "date": "2026-11-13T18:13+00:00",
-      "teaser": "Der neue Arbeitsminister will längere Befristungen erlauben und den Kündigungsschutz lockern. Das klingt unsozial, ist aber in der jetzigen Lage sinnvoll."
+      "title": "Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "source": "The Guardian",
+      "date": "2026-11-13T19:15+00:00",
+      "teaser": "Microsoft says services are improving after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will it be fixed? There are plenty of essential se"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
+      "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
+      "source": "The Guardian",
+      "date": "2026-11-13T19:17+00:00",
+      "teaser": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to entice shoppers The long decline of the high street is a problem that has gripped British governments for years. But what if there was a solution no one had considered before – doing it all on the cheap? Sp"
      }
     ]
    }
@@ -853,7 +853,35 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.91,
+    "score": 7.95,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Ponencia de Sergio Busquets y Bojan Krkic",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250753/sergio-busquets-bojan-krkic.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-13T20:23+01:00",
+      "teaser": "Sergio Busquets y Bojan Krkic , exjugadores del Barça, participaron este viernes en la 14ª edición del Día del Entrenador/a que organizó la Federació Catalana de Futbol (FCF) en el Auditori del Hyatt Regency Barcelona Tower. Compartieron la ponencia 'Proceso de desarrollo de jóvenes talentos' con do"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.9,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Compromiso y apoyo de Eric Garcia con el reto de la Fundació AVAN",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250741/compromiso-apoyo-eric-garcia-reto-solidario-fundacio-avan.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-13T19:46+01:00",
+      "teaser": "Eric Garcia (25 años) fue el padrino de la última edición del libro 'Relats Solidaris de l'Esport' y este viernes visitó la Fundació AVAN , entidad a la que fueron destinados los fondos recaudados de esta iniciativa solidaria. El jugador del primer equipo del Barça estuvo en Sabadell para conocer a "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.83,
     "favorite": true,
     "items": [
      {
@@ -866,36 +894,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.74,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Más de medio millón de recaudación en el Barça-Arsenal",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250675/medio-millon-recaudacion-barca-arsenal.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-13T16:51+01:00",
-      "teaser": "El Barça y el Arsenal firmaron tablas (1-1) tras un competido duelo de Champions League femenina en el Spotify Camp Nou , un partido que supuso una inyección económica importante para el club azulgrana. Según avanzó la 'Cadena SER' y pudo confirmar Mundo Deportivo, la recaudación del encuentro super"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.73,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Convocatorias de lujo para el Ajax-Barça de Legends del domingo",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250668/convocatorias-lujo-ajax-barca-legends-domingo.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-13T16:42+01:00",
-      "teaser": "Este domingo (14.30 h./Barça Play y Youtube del Ajax) tendrá lugar un partidazo de Legends entre el Barça y el Ajax en el Johan Cruyff Arena para hermanar aún más a dos clubs que han tenido 27 jugadores defendiendo ambas camisetas a lo largo de la historia. El primero fue el propio Cruyff en 1973. E"
-     }
-    ]
-   },
-   {
     "sourceCount": 3,
-    "score": 5.67,
+    "score": 5.58,
     "items": [
      {
       "title": "Rheinmetall: Borussia Dortmund beendet umstrittene Partnerschaft",
@@ -922,47 +922,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.96,
     "items": [
      {
-      "title": "Serbien gegen Deutschland:",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/gruda-beim-dfb-debuet-gleich-in-der-startelf,serbien-deutschland-spielbericht-100.html",
-      "source": "Sportschau",
-      "date": "2026-11-13T19:47+01:00",
-      "teaser": "Brajan Gruda kommt gegen Serbien zu seinem Debüt in der Fußball-Nationalmannschaft - und spielt direkt von Beginn an. Außerdem startet Malick Thiaw in der Innenverteidigung."
+      "title": "Nations League: Deutschland gegen Serbien im Liveticker",
+      "url": "https://www.spiegel.de/sport/fussball/nations-league-deutschland-gegen-serbien-im-liveticker-a-326c5e73-0078-4453-a674-74f4b8a81771#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-13T20:15+01:00",
+      "teaser": "Im fünften Spiel unter Bundestrainer Jürgen Klopp steht die DFB-Elf unter Druck. Auswärts in Belgrad schauen fast nur Kinder zu wegen einer Strafe gegen die Serben. Verfolgen Sie die Partie live."
      },
      {
       "title": "Nations League: Serbien vs. Deutschland im Liveticker",
       "url": "https://www.11freunde.de/em/nations-league-serbien-vs-deutschland-im-liveticker-belgradmesser-a-e33a4a89-babd-44ec-a278-ab84d85d4faf#ref=rss",
       "source": "11 Freunde",
-      "date": "2026-11-13T14:31+01:00",
+      "date": "2026-11-13T20:30+01:00",
       "teaser": "Nach Klopps XXL-Casting wird das Auswärtsspiel in Serbien für die deutsche Nationalmannschaft zu einer echten Standortbestimmung. Holt den Diercke-Atlas raus: der Ticker."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
-    "items": [
-     {
-      "title": "LIVE! DFB-Gegner im Duell: Niederlande empfangen Griechenland",
-      "url": "https://www.kicker.de/niederlande-gegen-griechenland-2026-uefa-nations-league-5193272/spielbericht#omrss",
-      "source": "kicker",
-      "date": "2026-11-13T18:42+00:00",
-      "teaser": "Mit acht Punkten stehen die Niederlande und Griechenland punktgleich an der Spitze der deutschen Gruppe. Nun treffen beide erneut im direkten Duell aufeinander - und wollen sich eine gute Ausgangslage vor dem letzten Spieltag verschaffen."
-     },
-     {
-      "title": "Ab 20.45 Uhr live - Topspiel zwischen Niederlande und Griechenland",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-nations-league-a/ma11904037/niederlande_griechenland/liveticker",
-      "source": "Sportschau",
-      "date": "2026-11-13T16:51+01:00",
-      "teaser": "Am 5. Spieltag der Nations League geht es im Duell zwischen der Niederlande und Griechenland um die Tabellenführung in Gruppe 2."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.74,
     "items": [
      {
       "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
@@ -982,7 +962,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.12,
+    "score": 2.04,
     "items": [
      {
       "title": "Felix Nmecha: Watzke fordert Verzicht auf umstrittenen Kronenjubel",
@@ -1002,53 +982,66 @@
    },
    {
     "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Jetzt live - Babic fälscht Havertz-Kopfball ab, DFB-Team führt",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-nations-league-a/ma11904031/serbien_deutschland/liveticker",
+      "source": "Sportschau",
+      "date": "2026-11-13T20:56+01:00",
+      "teaser": "Deutschland will gegen Serbien gewinnen und die Chance aufs Weiterkommen in der Nations League wahren. Bereits nach drei Minuten führt die DFB-Elf mit 1:0."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "HSV-Frauen gewinnen mühelos gegen Mainz",
+      "url": "https://www.sportschau.de/regional/ndr/klarer-sieg-im-kellerduell-hsv-frauen-gewinnen-muehelos-gegen-mainz,hsv-frauen-400.html",
+      "source": "Sportschau",
+      "date": "2026-11-13T20:57+01:00",
+      "teaser": "Die Hamburgerinnen bauten am Freitagabend ihre gute Heimbilanz aus und verließen in der Tabelle einen Abstiegsrang."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
     "score": 1.99,
     "items": [
      {
-      "title": "LIVE! DFB-Elf unter Zugzwang: Klopp setzt auf Mittelstädt und Thiaw - Debüt für Gruda",
-      "url": "https://www.kicker.de/live-dfb-elf-unter-zugzwang-klopp-setzt-auf-mittelstaedt-und-thiaw-debuet-fuer-gruda-1270832/artikel#omrss",
+      "title": "LIVE! Im Dauerregen von Belgrad: DFB-Elf führt nach Babic-Eigentor",
+      "url": "https://www.kicker.de/live-im-dauerregen-von-belgrad-dfb-elf-fuehrt-nach-babic-eigentor-1270832/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-13T18:50+00:00",
+      "date": "2026-11-13T19:55+00:00",
       "teaser": "In der Gruppenphase der Nations League geht es auf die Zielgerade. Für Deutschland ist ein Sieg in Serbien Pflicht, um den Nations-League-Endrundeneinzug am Montag gegen die Niederlande in der eigenen Hand zu haben."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
     "items": [
      {
-      "title": "Wintersport: Auch Schweden will russischen Sportlern die Einreise verweigern",
-      "url": "https://www.zeit.de/sport/2026-11/russische-athleten-schweden-einreiseverbot-sport-wettkaempfe-jakob-forssmed",
-      "source": "Zeit",
-      "date": "2026-11-13T18:47+00:00",
-      "teaser": "Bei der Nordischen Ski-WM in Falun dürfen auch russische Athleten starten. Schwedens Regierung will das verhindern, um Russland kein Propagandamaterial zu liefern."
+      "title": "Jetzt live - Frühe Führung für die Niederlande gegen Griechenland",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-nations-league-a/ma11904037/niederlande_griechenland/liveticker",
+      "source": "Sportschau",
+      "date": "2026-11-13T20:54+01:00",
+      "teaser": "Am 5. Spieltag der Nations League geht es im Duell zwischen der Niederlande und Griechenland um die Tabellenführung in Gruppe 2."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
     "items": [
      {
       "title": "Scotland v North Macedonia: Nations League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/scotland-v-north-macedonia-nations-league-live",
       "source": "The Guardian",
-      "date": "2026-11-13T18:43+00:00",
-      "teaser": "Nations League updates from 7.45pm GMT kick-off Live scores | Follow us on BlueSky | And email Scott Andy Robertson starts for Scotland and so will win his record-equalling 102nd cap. He’s on a booking, though, so will have to avoid picking up another yellow if he’s to have the chance of taking top "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "EFL warns clubs over social media posts",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmqj5r8edvneo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T18:20+00:00",
-      "teaser": "The English Football League (EFL) warns its members about their usage of posts on social media."
+      "date": "2026-11-13T19:48+00:00",
+      "teaser": "Nations League updates from 7.45pm GMT kick-off Live scores | Follow us on BlueSky | And email Scott 2 min: The Hampden Roar segues into a chant in honour of Andy Robertson, who is now officially joint top of Scotland’s all-time record appearances list. Other than that, there’s not been any early ac"
      }
     ]
    }
@@ -1056,7 +1049,7 @@
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 5.9,
+    "score": 5.81,
     "items": [
      {
       "title": "Jensen Huang was reckless with the environment, too",
@@ -1066,11 +1059,11 @@
       "teaser": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set th"
      },
      {
-      "title": "Jensen Huang Resigns From Nvidia After Affairs",
-      "url": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html",
+      "title": "Who Could Replace Jensen Huang as Nvidia’s CEO? Here Are 7 Candidates.",
+      "url": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html",
       "source": "New York Times",
-      "date": "2026-11-12T19:07+00:00",
-      "teaser": "The chief executive has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with a subordinate at his A.I. chip company. Nvidia’s finance chief, Colette Kress, was named interim leader."
+      "date": "2026-11-12T23:02+00:00",
+      "teaser": "President Trump suggested Tim Cook, Apple’s former C.E.O., to replace Jensen Huang at Nvidia. Here are others with experience in chips or A.I."
      },
      {
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
@@ -1083,13 +1076,13 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.92,
     "items": [
      {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
       "url": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
       "source": "New York Times",
-      "date": "2026-11-13T17:52+00:00",
+      "date": "2026-11-13T19:04+00:00",
       "teaser": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services."
      },
      {
@@ -1103,7 +1096,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.8,
     "items": [
      {
       "title": "The Microsoft Outage Is a Warning for the World",
@@ -1123,7 +1116,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
+    "score": 3.75,
     "items": [
      {
       "title": "(g+) Opinion: Anthropic's Dario Amodei Can't Always Have His Way",
@@ -1143,7 +1136,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.71,
+    "score": 3.62,
     "items": [
      {
       "title": "What happened overnight with the Microsoft global outage?",
@@ -1166,6 +1159,71 @@
     "score": 1.99,
     "items": [
      {
+      "title": "Studie zu Energiewende: Bedeutung fossiler Energien wird systematisch überschätzt",
+      "url": "https://www.golem.de/news/studie-zu-energiewende-bedeutung-fossiler-energien-wird-systematisch-ueberschaetzt-2611-215198.html",
+      "source": "Golem",
+      "date": "2026-11-13T20:50+01:00",
+      "teaser": "Weil die Energieverluste bei fossilen Energien häufig ignoriert werden, kann die Energiewende unrealistisch wirken. Eine andere Energiepolitik ist nötig. ( Energiewende , Solarenergie )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-13T19:53+00:00",
+      "teaser": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Trump Jr. out as Kalshi advisor after his firm's big investment in Polymarket",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "source": "Ars Technica",
+      "date": "2026-11-13T19:49+00:00",
+      "teaser": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-13T14:14-05:00",
+      "teaser": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Micros"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+      "source": "Wired",
+      "date": "2026-11-13T19:08+00:00",
+      "teaser": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
       "title": "Wall Street Braces for Anthropic’s Spending",
       "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
       "source": "New York Times",
@@ -1176,7 +1234,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
@@ -1184,71 +1242,6 @@
       "source": "The Verge",
       "date": "2026-11-13T13:10-05:00",
       "teaser": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensingt"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Forscher simulieren unseren Planeten: Wie eine Erde ohne Leben bei der Suche nach Aliens helfen soll",
-      "url": "https://t3n.de/news/simulieren-erde-ohne-leben-aliens-1773522/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-13T19:02+01:00",
-      "teaser": "Wie unterscheidet man tatsächlich belebte Welten von nur potenziell bewohnbaren Planeten? Ganz einfach: Man erstellt ein Modell unserer Erde – aber bereinigt um alles Leben. Dies hat ein Forschungsteam getan. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Anzeige: Bosch Pro Drehschlagschrauber bei Amazon nun klar unter Vergleichspreis",
-      "url": "https://www.golem.de/news/anzeige-bosch-pro-deahschlagschrauber-bei-amazon-nun-klar-unter-vergleichspreis-2611-215209.html",
-      "source": "Golem",
-      "date": "2026-11-13T18:50+01:00",
-      "teaser": "Der Bosch Professional GDX 18V-285 ist ein Akku-Drehschlagschrauber. Amazon verkauft ihn nun günstiger als anderswo und üblicherweise. ( Technik/Hardware )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Anzeige: ISO 27001: Grundlagen für ein sicheres ISMS",
-      "url": "https://www.golem.de/news/anzeige-iso-27001-grundlagen-fuer-ein-sicheres-isms-2611-215194.html",
-      "source": "Golem",
-      "date": "2026-11-13T18:45+01:00",
-      "teaser": "ISO 27001 definiert Anforderungen an das Informationssicherheitsmanagement. Ein zweitägiger Online-Workshop vermittelt die Grundlagen und bereitet auf die Zertifizierung vor. ( Golem Karrierewelt , Server-Applikationen )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-      "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T17:38+00:00",
-      "teaser": "Microsoft has apologised for the issue, which it said was due to a technical failure."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "source": "Ars Technica",
-      "date": "2026-11-13T17:25+00:00",
-      "teaser": "Researcher traces a path from AI reward hacking to potential human extinction."
      }
     ]
    }
@@ -1426,8 +1419,9 @@
   {
    "topic": "Polen",
    "source": "Notes from Poland",
-   "ok": true,
-   "items": 6
+   "ok": false,
+   "items": 0,
+   "error": "ParseError: no element found: line 1, column 0"
   },
   {
    "topic": "Polen",
@@ -1529,13 +1523,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Sport",
