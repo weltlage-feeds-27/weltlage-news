@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-13T15:54:54+00:00",
+ "fetchedAt": "2026-11-13T16:59:23+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 9,
-    "score": 17.99,
+    "score": 17.9,
     "items": [
      {
       "title": "Nvidia scandal: How close was ex-CEO to Trump?",
@@ -30,14 +30,41 @@
     ]
    },
    {
+    "sourceCount": 4,
+    "score": 7.93,
+    "items": [
+     {
+      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "source": "The Guardian",
+      "date": "2026-11-13T14:56+00:00",
+      "teaser": "Tech firm says it is making progress in attempts to restore services and there is no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft is scrambling to fix"
+     },
+     {
+      "title": "How the Microsoft outage is affecting Australia",
+      "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage-australians-hit/107381378",
+      "source": "ABC Australia",
+      "date": "2026-11-13T06:41+00:00",
+      "teaser": "Australians wake to empty inboxes due to an issue with Microsoft's products, leading to cancelled appointments, grounded flights and School of Air's closure."
+     },
+     {
+      "title": "Microsoft Outage LIVE: Microsoft begins restoring Outlook, Teams and other services after global outage",
+      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+      "source": "The Hindu",
+      "date": "2026-11-13T21:42+05:30",
+      "teaser": "Microsoft services are beginning to come back online after a massive global outage left millions of users without access for nearly 18 hours"
+     }
+    ]
+   },
+   {
     "sourceCount": 3,
-    "score": 5.98,
+    "score": 5.97,
     "items": [
      {
       "title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html",
       "source": "Tagesschau",
-      "date": "2026-11-13T16:39+01:00",
+      "date": "2026-11-13T17:36+01:00",
       "teaser": "Der Krieg gegen die Ukraine steht im Fokus des EU-Treffens in Dublin. Kanzler Merz erhält für seinen Vorstoß zur Finanzierung neuer Ukraine-Hilfen Rückendeckung - bei Gesprächen über ein Kriegsende sieht er Deutschland als \"gesetzt\" an."
      },
      {
@@ -58,34 +85,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.92,
-    "items": [
-     {
-      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-      "source": "The Guardian",
-      "date": "2026-11-13T14:56+00:00",
-      "teaser": "Tech firm says it is making progress in attempts to restore services and there is no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft is scrambling to fix"
-     },
-     {
-      "title": "How the Microsoft outage is affecting Australia",
-      "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage-australians-hit/107381378",
-      "source": "ABC Australia",
-      "date": "2026-11-13T06:41+00:00",
-      "teaser": "Australians wake to empty inboxes due to an issue with Microsoft's products, leading to cancelled appointments, grounded flights and School of Air's closure."
-     },
-     {
-      "title": "Why is the Microsoft outage lasting so long?",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T14:21+00:00",
-      "teaser": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.88,
+    "score": 5.79,
     "items": [
      {
       "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
@@ -112,7 +112,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.72,
+    "score": 5.63,
     "items": [
      {
       "title": "Europe Haggles Over Who Will Represent It in Talks With Russia",
@@ -139,7 +139,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.54,
+    "score": 5.46,
     "items": [
      {
       "title": "Hegseth awards medal to Arlington soldier who scolded his group on decorum",
@@ -166,7 +166,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "India road crash between bus, container truck kills 23",
+      "url": "https://www.scmp.com/news/asia/south-asia/article/3374386/india-road-crash-between-bus-container-truck-kills-23",
+      "source": "South China Morning Post",
+      "date": "2026-11-13T13:02+00:00",
+      "teaser": "A head-on collision between a container truck and a passenger bus killed at least 23 people, including three children, in eastern India on Friday, a police official said The crash took place on a highway bordering Kaziranga National Park in the northeastern state of Assam. The road is a designated a"
+     },
+     {
+      "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+      "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-13T16:01+00:00",
+      "teaser": "Several children and the bus driver were among those killed, officials said, with the death toll expected to rise."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.82,
     "items": [
      {
       "title": "One of France’s Most Popular Athletes Is Running for President",
@@ -186,27 +206,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
-    "items": [
-     {
-      "title": "What does the 'Blue Tsunami' mean for US media?",
-      "url": "https://www.france24.com/en/tv-shows/scoop/20261113-what-does-the-blue-tsunami-mean-for-us-media",
-      "source": "France 24",
-      "date": "2026-11-13T14:22+00:00",
-      "teaser": "This week, FRANCE 24's media show Scoop looks at the impact of the midterm elections in the United States. While the results are being reckoned with by Republicans and celebrated by Democrats, what does it all mean for the press? Some media analysts wonder whether certain outlets, particularly ones "
-     },
-     {
-      "title": "What Does 2026 Mean for the Map in 2028?",
-      "url": "https://www.nytimes.com/2026/11/12/us/politics/midterm-elections-2028-presidential-map.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-12T23:14+00:00",
-      "teaser": "Mississippi and other states have created new uncertainty about what, exactly, a red state is."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.85,
+    "score": 3.76,
     "items": [
      {
       "title": "UN nuclear watchdog increasingly concerned about Iranian enrichment plant, report says",
@@ -226,7 +226,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.73,
     "items": [
      {
       "title": "China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts",
@@ -246,27 +246,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.77,
-    "items": [
-     {
-      "title": "New York building collapse kills 8, including 2 children",
-      "url": "https://www.pbs.org/newshour/show/new-york-building-collapse-kills-8-including-2-children",
-      "source": "PBS NewsHour",
-      "date": "2026-11-12T18:50-05:00",
-      "teaser": "New York officials say they've ended their rescue operations at the site of a collapsed building in Brooklyn and that there are no more victims inside. The collapse killed at least eight people, including two children, and injured dozens more. William Brangham reports."
-     },
-     {
-      "title": "Kenyan building collapse near Nairobi kills six people",
-      "url": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-13T13:11+00:00",
-      "teaser": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.67,
     "items": [
      {
       "title": "Scott Colom: Wie ein schwarzer Demokrat Mississippi erobert",
@@ -283,12 +263,52 @@
       "teaser": "Der Bundesstaat Mississippi bekommt seinen ersten Schwarzen Senator seit 145 Jahren: Warum Scott Coloms Wahlsieg wichtiger ist als jeder andere Erfolg der Demokraten."
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.",
+      "url": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-13T16:46+00:00",
+      "teaser": "When a popular restaurant agreed to serve as a campaign stop for G.O.P. candidates ahead of Election Day, longtime customers turned against it and Medina, Ohio, was left reeling."
+     }
+    ]
    }
   ],
   "Deutschland": [
    {
+    "sourceCount": 4,
+    "score": 7.97,
+    "items": [
+     {
+      "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/berthold-afd-wahl-bundespraesident-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-13T17:37+01:00",
+      "teaser": "Der ehemalige Fußballprofi Thomas Berthold soll nach ARD-Informationen für die AfD ins Rennen um das Amt des Bundespräsidenten gehen. Der Weltmeister von 1990 tat sich während der Corona-Pandemie als \"Querdenker\" hervor."
+     },
+     {
+      "title": "Deutschland Liveblog: AfD will Thomas Berthold zu Bundespräsidentenkandidat nominieren",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-hasselmann-wirft-merz-wortbruch-vor-faz-110093143.html",
+      "source": "FAZ",
+      "date": "2026-11-13T16:37+00:00",
+      "teaser": "Ex-Weltmeister und Eintracht Frankfurt-Spieler will in das Schloss Bellevue +++ Köpping begleitet Klingbeil anstelle von Bärbel Bas +++ Thüringen stärkt Geschichtsunterricht +++ alle Entwicklungen im Liveblog"
+     },
+     {
+      "title": "Thomas Berthold: AfD nominiert Ex-Fußballprofi Berthold für Bundespräsidentenwahl",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/afd-bundespraesident-kandidat-thomas-berthold",
+      "source": "Zeit",
+      "date": "2026-11-13T15:27+00:00",
+      "teaser": "Die AfD will offenbar Thomas Berthold für das Amt des Bundespräsidenten nominieren. Der frühere Fußball-Weltmeister wurde während der Coronapandemie politisch aktiv."
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.82,
     "items": [
      {
       "title": "Klimastreik: Fridays for Future warnt auf Weltklimakonferenz vor „Hitzehölle“",
@@ -308,7 +328,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.7,
     "items": [
      {
       "title": "Kritik auch aus der Union an ausbleibender Stromsteuer-Senkung",
@@ -328,7 +348,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.77,
+    "score": 3.68,
     "items": [
      {
       "title": "Bundestag beschließt Reform: Mehr Befugnisse für die Nachrichtendienste",
@@ -348,7 +368,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.71,
+    "score": 3.62,
     "items": [
      {
       "title": "Steffen Krach: Staatsanwaltschaft will Immunität von SPD-Fraktionschef aufheben",
@@ -371,11 +391,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Kommentar zum Haushalt: Die Koalition geht auf dem Zahnfleisch",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-koalition-geht-auf-zahnfleisch-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-13T16:40+01:00",
-      "teaser": "Der Bundeshaushalt für das kommende Jahr steht. Doch die Einigung ist ohne Richtung, ohne Ambition und ohne Vision, findet Sabine Henkel. Union und SPD fehlt nicht nur Geld, sondern vor allem Mut und eine Strategie."
+      "title": "Fridays for Future: Demonstranten fordern mehr Geld für internationalen Klimaschutz",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/fridays-for-future-demo-berlin-cop31-klimawandel-deutschland",
+      "source": "Zeit",
+      "date": "2026-11-13T16:47+00:00",
+      "teaser": "Wer die Klimakrise verursacht, muss auch für ihre Folgen zahlen: Für Forderungen nach mehr Klimaschutz gingen in Berlin laut Polizei rund 700 Menschen auf die Straße."
      }
     ]
    },
@@ -384,89 +404,76 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Neue Gen Z-Proteste: Das ist am Samstag in BW geplant",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/neue-gen-z-regelt-proteste-angekuendigt-100.html",
+      "title": "In Baden-Württemberg stirbt jeden Tag ein Mensch im Straßenverkehr",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/jeden-tag-ein-todesopfer-im-strassenverkehr-100.html",
       "source": "SWR",
-      "date": "2026-11-13T16:42+01:00",
-      "teaser": "In Baden-Württemberg ruft die Initiative \"Gen Z regelt\" am Samstag erneut zu Protesten auf. Geplant sind Demos unter anderem in Stuttgart und Karlsruhe. Ein Überblick."
+      "date": "2026-11-13T17:47+01:00",
+      "teaser": "Autos werden immer sicherer, Straßen werden umgebaut - und trotzdem sind in BW im Jahr 367 Menschen bei Verkehrsunfällen gestorben. Deutlich mehr als im Vorjahr."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.98,
     "items": [
      {
-      "title": "Thomas Berthold: AfD will wohl Fußballweltmeister bei Bundespräsidentinnen-Wahl aufstellen",
-      "url": "https://www.spiegel.de/politik/deutschland/thomas-berthold-afd-will-wohl-fussballweltmeister-bei-bundespraesidentinnen-wahl-aufstellen-a-87d7aa66-c8f6-40d7-80eb-dd5af14f5dd7#ref=rss",
+      "title": "Ist eine Gen Z-Demo ohne Anmeldung möglich?",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/genz-versammlungsrecht-anmeldung-spontandemo-protest-100.html",
+      "source": "SWR",
+      "date": "2026-11-13T17:46+01:00",
+      "teaser": "Die Stadt Stuttgart hat keine Anmeldung für eine Gen-Z-Demo am Samstag. Dennoch wird im Netz und auf Plakaten dafür geworben. Was bedeutet das für die Teilnehmenden?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "News des Tages: Störung bei Microsoft, Issa Rammo im EU-Parlament, Katherina Reiche plant Notfall-Gesetz für Gasmangel",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-stoerung-bei-microsoft-issa-rammo-im-eu-parlament-katherina-reiche-plant-notfall-gesetz-fuer-gasmangel-a-1c0b4764-61eb-438c-90aa-d262874a8fbf#ref=rss",
       "source": "Spiegel",
-      "date": "2026-11-13T16:35+01:00",
-      "teaser": "Ilse Aigner dürfte als kommende Bundespräsidentin so gut wie feststehen. Die AfD will trotzdem einen Gegenkandidaten ins Rennen schicken. Und scheint nun fündig geworden."
+      "date": "2026-11-13T17:15+01:00",
+      "teaser": "Microsoft hat ein massives Problem, Millionen Mails blieben ungelesen. Clanboss Rammo tritt im EU-Parlament auf, und Katherina Reiche hat offenbar immer noch Schwierigkeiten mit ihrem Rollenwechsel. Das ist die Lage am Freitagabend."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.94,
     "items": [
      {
-      "title": "Bundeswehr: Im misogynen Sumpf",
-      "url": "https://www.faz.net/aktuell/politik/inland/bundeswehr-der-umgang-mit-frauen-ist-auch-relevant-fuer-unsere-sicherheit-201672530.html",
-      "source": "FAZ",
-      "date": "2026-11-13T15:36+00:00",
-      "teaser": "Die Dunkelfeldstudie hat gezeigt, wie weit verbreitet sexuelle Übergriffe in der Bundeswehr sind. Das ist auch für die deutsche Sicherheit relevant."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Russland und die USA: Wohin mit Putins Diesel?",
-      "url": "https://www.sueddeutsche.de/politik/russland-usa-trump-putin-diesel-deal-oeltanker-li.3578803",
+      "title": "SZ am Abend: Nachrichten vom 13. November 2026",
+      "url": "https://www.sueddeutsche.de/politik/news-microsoft-stoerung-geheimdienste-reform-bundestag-ukraine-verhandlungen-europa-li.3580259",
       "source": "Süddeutsche",
-      "date": "2026-11-13T15:35+00:00",
-      "teaser": "Trump überrumpelte die Welt mit seiner Ankündigung, die USA würden Millionen Tonnen russischen Diesel kaufen. Doch die in See gestochenen Tanker drehten ab – sie fanden keine Abnehmer. Moskau profitiert trotzdem."
+      "date": "2026-11-13T16:15+00:00",
+      "teaser": "Was heute wichtig war."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.92,
     "items": [
      {
-      "title": "Thomas Berthold: AfD nominiert Ex-Fußballprofi Berthold für Bundespräsidentenwahl",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/afd-bundespraesident-kandidat-thomas-berthold",
-      "source": "Zeit",
-      "date": "2026-11-13T15:27+00:00",
-      "teaser": "Die AfD will offenbar Thomas Berthold für das Amt des Bundespräsidenten nominieren. Der frühere Fußball-Weltmeister wurde während der Coronapandemie politisch aktiv."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Podcast: „Auf den Punkt“: Ukraine-Verhandlungen: Wie eine Beteiligung Europas aussehen könnte",
-      "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-ukraine-frieden-europa-li.3579897",
+      "title": "Glosse: Das Streiflicht",
+      "url": "https://www.sueddeutsche.de/politik/glosse-das-streiflicht-li.3579759",
       "source": "Süddeutsche",
-      "date": "2026-11-13T15:23+00:00",
-      "teaser": "Und welcher Europäer würde mit Putin, Selenskij und Trump am Tisch sitzen?"
+      "date": "2026-11-13T16:04+00:00",
+      "teaser": "Sehr viele Briten finden es gut, nach dem Tod öffentlich ausgestellt zu werden. Ist das pietätlos? Im Gegenteil, denn nur das, was alle sehen, kann seinen Schrecken verlieren."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.92,
     "items": [
      {
-      "title": "Atomenergiebehörde: Iran gegen Wiederaufnahme von Inspektionen",
-      "url": "https://www.sueddeutsche.de/politik/atomenergiebehoerde-iran-gegen-wiederaufnahme-von-inspektionen-li.3580192",
-      "source": "Süddeutsche",
-      "date": "2026-11-13T15:17+00:00",
-      "teaser": ""
+      "title": "Mercedes-Werk Rastatt in Gefahr - Sorge und Wut in der Belegschaft",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/mercedes-werk-rastatt-sorgen-mitarbeiter-und-gewerkschaft-100.html",
+      "source": "SWR",
+      "date": "2026-11-13T17:01+01:00",
+      "teaser": "Mercedes-Benz stoppt alle Investitionen in deutsche Standorte. Ganze Werke sollen geschlossen werden. Zu den bedrohten Standorten gehört auch das Mercedes-Werk in Rastatt."
      }
     ]
    }
@@ -475,6 +482,123 @@
    {
     "sourceCount": 1,
     "score": 1.99,
+    "items": [
+     {
+      "title": "Weto Nawrockiego wywołało burzę. Gawkowski stawia prezydentowi „publiczny akt oskarżenia”",
+      "url": "https://www.rp.pl/kraj/art45487201-weto-nawrockiego-wywolalo-burze-gawkowski-stawia-prezydentowi-publiczny-akt-oskarzenia",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T17:51+01:00",
+      "teaser": "Przygotujemy kolejną ustawę, która będzie dawała bezpieczeństwo w internecie - zapowiiedział wicepremier i minister cyfryzacji Krzysztof Gawkowski. Dodał, że prezydent „może zawetować ustawę, ale nie zawetował problemu”."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Poland research hub launched at Oxford University",
+      "url": "https://notesfrompoland.com/2026/11/13/poland-research-hub-launched-at-oxford-university/",
+      "source": "Notes from Poland",
+      "date": "2026-11-13T16:38+00:00",
+      "teaser": "\"The Oxford-Poland Hub is an exciting new chapter in Oxford’s longstanding relationship with Poland,\" said the university's vice-chancellor."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Bezprecedensowa awaria Microsoftu. Problemy odczuły banki i urzędy na całym świecie",
+      "url": "https://cyfrowa.rp.pl/globalne-interesy/art45486641-bezprecedensowa-awaria-microsoftu-problemy-odczuly-banki-i-urzedy-na-calym-swiecie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T17:27+01:00",
+      "teaser": "Problemy z usługami Microsoftu sparaliżowały pracę firm, banków i instytucji publicznych w 74 krajach. Eksperci zauważają, że usunięcie usterki o tak dużym zasięgu zajęło wyjątkowo dużo czasu. Ich zdaniem mogła to być najpoważniejsza awaria firmowej poczty elektronicznej w historii."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Karol Nawrocki zawetował ustawę cyfrową. Gawkowski: Stawiam prezydentowi publiczny akt oskarżenia",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131492,prezydent-karol-nawrocki-zawetowal-ustawe-cyfrowa-gawkowski.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-13T16:24+00:00",
+      "teaser": "Prezydent Karol Nawrocki po raz drugi odrzucił rządową nowelizację przepisów, która miała ułatwić walkę z nielegalnymi treściami w sieci. - Przez prezydenta pedofile, szantażyści, oszuści, hejterzy dalej będą mogli grasować w internecie. Prezydent może zawetować ustawę, ale nie może zawetować proble"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Rozwój Plus w wyborach bez Kaczyńskiego. Morawiecki: Widzę te zachęty kierownictwa PiS",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131326,rozwoj-plus-w-wyborach-bez-kaczynskiego-morawiecki-widze-te.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-13T16:14+00:00",
+      "teaser": "- Nie chcesz Tuska, nie chcesz Brauna, wybierz Rozwój Plus - powiedział Mateusz Morawiecki w Poznaniu. Lider Stowarzyszenia Rozwój Plus zadeklarował: - Idziemy sami do wyborów."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Miasta po zamachu w Krakowie: między otwartą przestrzenią a ochroną przed zagrożeniem",
+      "url": "https://regiony.rp.pl/z-regionow/art45486261-miasta-po-zamachu-w-krakowie-miedzy-otwarta-przestrzenia-a-ochrona-przed-zagrozeniem",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T17:08+01:00",
+      "teaser": "Zamach w Krakowie może stać się punktem zwrotnym dla sposobu, w jaki polskie samorządy projektują i zarządzają przestrzenią publiczną."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Sędzia Korwin-Piotrowska: Gwarantuję Państwu, że Trybunał Konstytucyjny działa",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45486601-sedzia-korwin-piotrowska-gwarantuje-panstwu-ze-trybunal-konstytucyjny-dziala",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T17:08+01:00",
+      "teaser": "Gwarantuję Państwu, że Trybunał Konstytucyjny działa, będzie działał i po uporaniu się z tymi naszymi wewnętrznymi problemami sprawy państwa ze skarg konstytucyjnych będą sprawnie rozpoznawane – zapewniła w najnowszym oświadczenia sędzia Anna Korwin-Piotrowska."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "„Polityczne Michałki”: Pałac odbija piłeczkę ws. opłatka, Kaczyński woła o wspólną listę",
+      "url": "https://www.rp.pl/kraj/art45485711-polityczne-michalki-palac-odbija-pileczke-ws-oplatka-kaczynski-wola-o-wspolna-liste",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-13T17:00+01:00",
+      "teaser": "Po co Pałacowi Prezydenckiemu spotkanie w Belwederze, skoro premier zaprasza prezydenta na opłatek? Dlaczego Jarosław Kaczyński wzywa do wspólnej listy, na którą nikt na prawicy się nie zgodzi? O tym w najnowszym odcinku podcastu „Polityczne Michałki” rozmawiali Michał Kolanko i Michał Płociński."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Zarzuty po wyborach prezydenckich w 2025 roku. Prokuratura: Nierzetelnie przeliczyli głosy",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131408,zarzuty-po-wyborach-prezydenckich-w-2025-roku-prokuratura.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-13T15:57+00:00",
+      "teaser": "Ponad 130 członków obwodowych komisji wyborczych usłyszało zarzuty niedopełnienia obowiązków podczas ubiegłorocznych wyborów prezydenckich - poinformował rzecznik Prokuratury Okręgowej w Siedlcach Bartłomiej Świderski."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Reuters: Kreml nie zdecydował jeszcze o udziale Europy w kolejnej rundzie negocjacji ws. Ukrainy",
@@ -487,7 +611,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.89,
     "items": [
      {
       "title": "Referendum w Sanoku. Burmistrz z zarzutami korupcyjnymi walczy o stanowisko",
@@ -500,7 +624,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.86,
     "items": [
      {
       "title": "Nielegalne treści miały znikać z internetu szybciej. Nawrocki zawetował przepisy",
@@ -510,129 +634,39 @@
       "teaser": "Prezydent zawetował ustawę wdrażającą Akt o usługach cyfrowych (DSA), która miała pozwolić na blokowanie nielegalnych treści w internecie."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Marcin Kierwiński: Szybka reakcja w Krakowie to nie kwestia szczęścia, tylko specyfiki służby",
-      "url": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art45486381-marcin-kierwinski-szybka-reakcja-w-krakowie-to-nie-kwestia-szczescia-tylko-specyfiki-sluzby",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T16:18+01:00",
-      "teaser": "– Tragedia z Krakowa oznacza w pracy policji i służb potężną zmianę. Mamy nową rzeczywistość. Patroli z długą bronią będzie na polskich ulicach więcej – podkreślił szef MSWiA Marcin Kierwiński w rozmowie z „Gazetą Wyborczą”."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "„Dziki Koń Dziewięć”. Trudno sobie wyobrazić piękniejsze zakończenie tej historii",
-      "url": "https://www.rp.pl/plus-minus/art45484011-dziki-kon-dziewiec-trudno-sobie-wyobrazic-piekniejsze-zakonczenie-tej-historii",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T16:06+01:00",
-      "teaser": "W „Dzikim Koniu Dziewięć” jest wszystko: brud i bezwzględność polityki, ale też refleksja nad przemijaniem, tęsknota za prawdą. I czułość."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Rozmowy pokojowe i Donbas. Ukraiński oficer: Rosjanie szykują się na wojnę do końca 2028 r.",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45485111-rozmowy-pokojowe-i-donbas-ukrainski-oficer-rosjanie-szykuja-sie-na-wojne-do-konca-2028-r",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T16:04+01:00",
-      "teaser": "Władimir Putin nie zmienia żądań. Warunkiem Moskwy jest wycofanie ukraińskiej armii z obwodu donieckiego. – To otworzyłoby Rosjanom drogę do dalszego natarcia w głąb kraju – komentuje dla „Rzeczpospolitej” ukraiński oficer."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Ciechocinek: działacz KO trzyma u siebie groźną małpę. Zakazuje tego prawo",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131191,ciechocinek-dzialacz-ko-trzyma-u-siebie-grozna-malpe-zakazuje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-13T15:03+00:00",
-      "teaser": "Prokuratura we Włocławku prowadzi śledztwo ws. makaka rezusa, który znajdował się na terenie jednej z posesji w Ciechocinku w woj. kujawsko-pomorskim. Portal Wp.pl podał, że nieruchomość należy do lokalnego działacza Koalicji Obywatelskiej."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Nowe oświadczenie Korwin-Piotrowskiej. \"Przeglądamy sto najstarszych spraw w Trybunale\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131393,nowe-oswiadczenie-korwin-piotrowskiej-przegladamy-sto-najstarszych.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-13T15:01+00:00",
-      "teaser": "Coraz więcej pracowników przychodzi do pracy. Kolejne osoby przychodzą z wielką motywacją do tego, żeby naprawić Trybunał Konstytucyjny - poinformowała sędzia Anna Korwin-Piotrowska w nowym oświadczeniu. Zapowiedziała też m.in. weryfikację składów orzekających."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Europa zasiądzie przy stole negocjacyjnym ws. Ukrainy? Kreml stawia warunek",
-      "url": "https://www.rp.pl/polityka/art45486201-europa-zasiadzie-przy-stole-negocjacyjnym-ws-ukrainy-kreml-stawia-warunek",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T15:57+01:00",
-      "teaser": "Rzecznik Kremla Dmitrij Pieskow powiedział w piątek, że „jeśli Europejczycy wybiorą przedstawiciela do prowadzenia dialogu z Władimirem Putinem i są na to gotowi, to Rosja także jest gotowa”."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Chińczycy z Chery zabierają reklamy swoich aut z TV Republika",
-      "url": "https://www.rp.pl/biznes/art45486071-chinczycy-z-chery-zabieraja-reklamy-swoich-aut-z-tv-republika",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T15:57+01:00",
-      "teaser": "Kolejna firma rezygnuje z reklamowania się w TV Republika w odpowiedzi na osławioną relację Tomasza Sakiewicza po zamachu w Krakowie. Po sieci RTV Euro AGD i firmie Masterd swoje spoty reklamowe wycofuje Chery, chiński państwowy koncern motoryzacyjny."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Solaris wznosi nowe fabryki i wchodzi na nowe rynki",
-      "url": "https://logistyka.rp.pl/drogowy/art45486211-solaris-wznosi-nowe-fabryki-i-wchodzi-na-nowe-rynki",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T15:52+01:00",
-      "teaser": "Wielkopolski producent autobusów jest na ostatniej prostej do wejścia na europejski rynek autobusów międzymiastowych oraz północnoamerykański autobusów miejskich."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Wojna dobija gospodarkę Rosji. Inflacja rośnie, siła nabywcza Rosjan spada",
-      "url": "https://www.rp.pl/gospodarka/art45484971-wojna-dobija-gospodarke-rosji-inflacja-rosnie-sila-nabywcza-rosjan-spada",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-13T15:33+01:00",
-      "teaser": "Rosyjska gospodarka mocno hamuje. Kontrataki Ukrainy paraliżują zakłady przemysłowe, zakłócają łańcuchy dostaw i napędzają inflację. A nowe podatki niszczą mały i średni biznes. Zbrojeniówka już nie napędza wzrostu rosyjskiego PKB, bo popyt konsumencki maleje coraz szybciej."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.97,
+    "score": 5.99,
+    "items": [
+     {
+      "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
+      "url": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
+      "source": "New York Times",
+      "date": "2026-11-13T16:25+00:00",
+      "teaser": "The Treasury secretary blamed the department for not sanctioning Megaspeed and said that Nvidia employees should be held accountable if they sidestepped the law."
+     },
+     {
+      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-13T15:40+00:00",
+      "teaser": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
+     },
+     {
+      "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
+      "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-13T16:51+00:00",
+      "teaser": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal"
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.88,
     "items": [
      {
       "title": "Rücktritt von Nvidia-Chef Huang: Vom Sympathieträger zum Sicherheitsrisiko",
@@ -659,33 +693,13 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
-    "items": [
-     {
-      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T15:40+00:00",
-      "teaser": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
-     },
-     {
-      "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
-      "url": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-13T14:11+00:00",
-      "teaser": "Salvo from US Treasury secretary risks stoking tensions within Trump administration over Nvidia scandal"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.96,
     "items": [
      {
       "title": "Microsoft outage live: millions still affected as disruption stretches beyond 18 hours",
       "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
       "source": "The Guardian",
-      "date": "2026-11-13T15:32+00:00",
+      "date": "2026-11-13T16:32+00:00",
       "teaser": "Microsoft reports it is ‘continuing to see improvements in service availability’, after millions of customers around the world suffered disruption Tell us: have you been affected by the Microsoft outage? Microsoft struggles to fix huge outage affecting Outlook and Teams What happened and when will i"
      },
      {
@@ -699,7 +713,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.81,
     "items": [
      {
       "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
@@ -719,7 +733,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.7,
+    "score": 3.62,
     "items": [
      {
       "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
@@ -739,7 +753,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.65,
+    "score": 3.56,
     "items": [
      {
       "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
@@ -759,7 +773,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.0,
+    "score": 2.91,
     "items": [
      {
       "title": "Huang and Lutnick Summoned to Testify Before Congress",
@@ -779,66 +793,66 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
     "items": [
      {
-      "title": "Fewer Fed Meetings Raise Stakes of Warsh’s Communications",
-      "url": "https://www.nytimes.com/2026/11/13/business/federal-reserve-meetings-warsh.html",
-      "source": "New York Times",
-      "date": "2026-11-13T15:45+00:00",
-      "teaser": "The Federal Reserve will vote on interest rates less frequently beginning next year as part of a plan by the central bank’s chairman, Kevin M. Warsh, to overhaul how it operates."
+      "title": "Wall Street: US-Börsen legen leicht zu – Erzeugerpreise steigen weiter",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-leicht-im-minus-erzeugerpreise-steigen-weiter/100269764.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-13T16:37+00:00",
+      "teaser": "Die Aufregung rund um den Abgang des Nvidia-Chefs hat sich vorerst gelegt, sodass die Geldpolitik stärker in den Blick gerät. Die Großhandelspreise verfestigen die Zinserwartungen am Markt."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
     "items": [
      {
-      "title": "Looking Past Nvidia Turmoil, Stocks Set for Best Week in Months",
+      "title": "Jensen Huang ist narzisstisch wie Trump, schreibt der Biograf des Ex-Nvidia-Bosses",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/jensen-huang-ist-narzisstisch-wie-trump-schreibt-der-biograf-des-ex-nvidia-bosses-a-971f4125-2af3-4f22-8ad8-f59d6847c71e#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-13T17:39+01:00",
+      "teaser": "Vor einem Jahr habe er erstmals Gerüchte über die Seitensprünge von Jensen Huang gehört, schreibt sein Biograf Stephen Witt. Über den Charakter des Mannes, der als Visionär galt, fällt er ein hartes Urteil."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money",
+      "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+      "source": "New York Times",
+      "date": "2026-11-13T16:36+00:00",
+      "teaser": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Despite Nvidia’s Drop, Stocks Push Ahead",
       "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
       "source": "New York Times",
-      "date": "2026-11-13T15:45+00:00",
-      "teaser": "A drop in Nvidia shares after the ouster of the company’s chief executive has not spread to the rest of the market, as artificial intelligence stocks have broadly risen."
+      "date": "2026-11-13T16:34+00:00",
+      "teaser": "A drop in Nvidia shares after the ouster of the company’s chief executive has not spread to the rest of the market, as stocks have held their ground broadly."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.95,
     "items": [
      {
-      "title": "Kommentar: Putins Lieblingsgegner ist ein zerstrittenes Europa",
-      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-putins-lieblingsgegner-ist-ein-zerstrittenes-europa/100269399.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-13T15:38+00:00",
-      "teaser": "Der Kreml hat die Ukraine-Gespräche längst zu seiner Bühne gemacht. Wenn Europa nicht bald mit einer Stimme spricht, verhandelt Putin über die europäische Sicherheitsarchitektur."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Lagarde-Nachfolge: Deutschland will das Amt des EZB-Chefvolkswirtes",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/ezb-personalpoker-deutschland-will-den-chefvolkswirt-201680913.html",
-      "source": "FAZ",
-      "date": "2026-11-13T15:39+00:00",
-      "teaser": "Im Ringen um die EZB-Spitze läuft derzeit alles auf den Spanier Hernández de Cos hinaus. Deutschland will sich den zweitwichtigsten Posten sichern."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Global oil markets swing to surplus as Gulf shipments rebound",
-      "url": "https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-13T15:42+00:00",
-      "teaser": "IEA analysts warn it will take months to rebuild stockpiles depleted by US-Iran war"
+      "title": "Andreas Mattfeldt: Führender CDU-Haushaltspolitiker schickt Brandbrief an Merz",
+      "url": "https://www.spiegel.de/wirtschaft/andreas-mattfeldt-fuehrender-cdu-haushaltspolitiker-schickt-brandbrief-an-merz-a-93b08f3d-2bc3-4f2f-b0c4-2e6c8149d98f#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-13T17:26+01:00",
+      "teaser": "In ungewöhnlich scharfen Worten rechnet der Abgeordnete Andreas Mattfeldt nach dem schwarz-roten Kompromiss über einen Bundesetat mit dem Prozedere ab. Aus seiner Sicht trägt der gesamte Haushalt eine sozialdemokratische Handschrift."
      }
     ]
    }
@@ -846,7 +860,35 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.9399999999999995,
+    "score": 7.91,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Más de medio millón de recaudación en el Barça-Arsenal",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250675/medio-millon-recaudacion-barca-arsenal.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-13T16:51+01:00",
+      "teaser": "El Barça y el Arsenal firmaron tablas (1-1) tras un competido duelo de Champions League femenina en el Spotify Camp Nou , un partido que supuso una inyección económica importante para el club azulgrana. Según avanzó la 'Cadena SER' y pudo confirmar Mundo Deportivo, la recaudación del encuentro super"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.89,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Convocatorias de lujo para el Ajax-Barça de Legends del domingo",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250668/convocatorias-lujo-ajax-barca-legends-domingo.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-13T16:42+01:00",
+      "teaser": "Este domingo (14.30 h./Barça Play y Youtube del Ajax) tendrá lugar un partidazo de Legends entre el Barça y el Ajax en el Johan Cruyff Arena para hermanar aún más a dos clubs que han tenido 27 jugadores defendiendo ambas camisetas a lo largo de la historia. El primero fue el propio Cruyff en 1973. E"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.85,
     "favorite": true,
     "items": [
      {
@@ -859,36 +901,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.9,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Hamza no se plantea una salida en enero",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250644/hamza-no-plantea-salida-enero.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-13T15:43+01:00",
-      "teaser": "La aparición de rumores sobre una posible salida de Hamza Abdelkarim del Barça han agitando con fuerzo al jugador y a su entorno. La falta de minutos y la competencia en el primer equipo han alimentado las especulaciones sobre su futuro. Algunas informaciones apuntan a que el delantero egipcio podrí"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.74,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Jardel: \"Casi fui al Barcelona\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250602/jardel-barcelona.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-13T13:47+01:00",
-      "teaser": "Mario Jardel , ex goleador brasileño de 53 años, fue \"casi del Barça y del Milan\", según reveló en una interesante entrevista par La Gazzetta dello Sport , decano de la prensa deportiva europea junto a Mundo Deportivo. El ex delantero brasileño explicó lo avanzado que estuvo la posibilidad de acabar"
-     }
-    ]
-   },
-   {
     "sourceCount": 3,
-    "score": 5.92,
+    "score": 5.83,
     "items": [
      {
       "title": "Rheinmetall: Borussia Dortmund beendet umstrittene Partnerschaft",
@@ -915,13 +929,13 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.96,
     "items": [
      {
       "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
       "source": "The Guardian",
-      "date": "2026-11-13T15:47+00:00",
+      "date": "2026-11-13T16:30+00:00",
       "teaser": "Pochettino speaks in emotional press conference Today’s fixtures | Follow us on TikTok | Mail Simon Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star of this stage, the Ballon d’Or itself, wr"
      },
      {
@@ -935,27 +949,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.76,
-    "items": [
-     {
-      "title": "Manchester United: Maricio Pochettino Verpflichtung perfekt",
-      "url": "https://www.sportschau.de/fussball/premier-league/manunited-entlaesst-carrick-und-will-pochettino,manchester-united-pochettino-carrick-100.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-13T13:49+01:00",
-      "teaser": "Mauricio Pochettino wird wie erwartet neuer Cheftrainer von Manchester United. Das gab der kriselnde Premier-League-Club bekannt. Der 54 Jahre alte Argentinier folgt auf den kürzlich entlassenen Michael Carrick."
-     },
-     {
-      "title": "Transferticker: Mauricio Pochettino wird neuer Cheftrainer bei Manchester United",
-      "url": "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-mauricio-pochettino-neuer-trainer-bei-manchester-united-18134600.html",
-      "source": "FAZ",
-      "date": "2026-11-13T13:03+00:00",
-      "teaser": "Wie wichtigsten Transfer-News im Fußball ▷ Transfermarkt, Vereinswechsel und Vertragsverlängerungen in der Bundesliga und international im Überblick bei der F.A.Z."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.43,
+    "score": 3.34,
     "items": [
      {
       "title": "DFB: Felix Nmecha will auf Kronenjubel verzichten, sagt Jürgen Klopp",
@@ -975,7 +969,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.37,
+    "score": 2.29,
     "items": [
      {
       "title": "Felix Nmecha: Watzke fordert Verzicht auf umstrittenen Kronenjubel",
@@ -995,69 +989,75 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.98,
     "items": [
      {
-      "title": "Ab 20.45 Uhr live - Topspiel zwischen Niederlande und Griechenland",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-nations-league-a/ma11904037/niederlande_griechenland/liveticker",
-      "source": "Sportschau",
-      "date": "2026-11-13T16:51+01:00",
-      "teaser": "Am 5. Spieltag der Nations League geht es im Duell zwischen der Niederlande und Griechenland um die Tabellenführung in Gruppe 2."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Ab 20.45 Uhr live - Wahrt Deutschland die Chance aufs Weiterkommen?",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-nations-league-a/ma11904031/serbien_deutschland/liveticker",
-      "source": "Sportschau",
-      "date": "2026-11-13T16:48+01:00",
-      "teaser": "Am 5. Gruppenspieltag der Nations League ist das DFB-Team zu Gast in Serbien."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "\"Jede Serie geht irgendwann zu Ende\": So will Lerch die Bayern stoppen",
-      "url": "https://www.kicker.de/jede-serie-geht-irgendwann-zu-ende-so-will-lerch-die-bayern-stoppen-1271319/artikel#omrss",
+      "title": "Kramer und Höwedes schwärmen von Klopp: \"Kann mich identifizieren\"",
+      "url": "https://www.kicker.de/kramer-und-hoewedes-schwaermen-von-klopp-kann-mich-identifizieren-1271349/video#omrss",
       "source": "kicker",
-      "date": "2026-11-13T14:53+00:00",
-      "teaser": "Im Topspiel der Frauen-Bundesliga erwartet der VfL Wolfsburg am Samstag den FC Bayern München. Aber wie hält man die beste Offensive der Liga in Schach? Der kicker hat bei VfL-Coach Stephan Lerch nachgefragt."
+      "date": "2026-11-13T16:47+00:00",
+      "teaser": "Die beiden Weltmeister von 2014, Christoph Kramer und Benedikt Höwedes, gaben vor dem Spiel gegen Serbien ihre erste Einschätzung zur bisherigen Amtszeit von Bundestrainer Jürgen Klopp."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.98,
     "items": [
      {
-      "title": "\"Immer schon sehr bescheiden\": Modric schwärmt von Kane",
-      "url": "https://www.kicker.de/immer-schon-sehr-bescheiden-modric-schwaermt-von-kane-1271272/video#omrss",
+      "title": "LIVE! Debüt für Lenz und Behrens: Deutsche U 21 testet gegen Belgien",
+      "url": "https://www.kicker.de/live-debuet-fuer-lenz-und-behrens-deutsche-u-21-testet-gegen-belgien-1270838/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-13T14:33+00:00",
-      "teaser": "Kroatiens Luka Modric würdigte Harry Kane und freute sich für seinen einstigen Spurs-Kollegen über dessen jüngste Auszeichnungen. Harte Arbeit und Bescheidenheit zeichnen ihn aus."
+      "date": "2026-11-13T16:42+00:00",
+      "teaser": "Im kommenden Sommer steht für die deutsche U 21 die EM auf dem Programm. Auf dem Weg dahin stehen nun die ersten beiden Testspiele an. Den Auftakt macht die Partie gegen Belgien."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Alle mit der 7 und ein leeres Zimmer 201: Portugal ehrt Cristiano Ronaldo",
+      "url": "https://www.kicker.de/alle-mit-der-7-und-ein-leeres-zimmer-201-portugal-ehrt-cristiano-ronaldo-1271341/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-13T16:39+00:00",
+      "teaser": "Am Samstag wird der aus der Nationalmannschaft zurückgetretene Cristiano Ronaldo beim Nations-League-Spiel gegen Dänemark in Braga geehrt. Unter anderem werden sämtliche Spieler mit seiner Rückennummer 7 einlaufen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "In diesen Wintersportarten ist Russland dabei",
+      "url": "https://www.sportschau.de/wintersport/zugelassene-aktive-neutrale-flagge,russland-ski-eissport-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-13T17:33+01:00",
+      "teaser": "Die Debatte um die Teilnahme russischer Aktiver im Sport ist seit der Zulassung für die Eishockey-WM neu entfacht. Die Sportschau gibt einen Überblick für den Wintersport."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Abstimmung - Bundesliga soll 50+1 \"einheitlich umsetzen\"",
+      "url": "https://www.sportschau.de/fussball/50plus-soll-grundvoraussetzung-in-der-bundesliga-werden,50-plus-1-abstimmung-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-13T17:07+01:00",
+      "teaser": "Am 3. Dezember kommen die Klubs der Bundesliga und 2. Bundesliga zu einer Mitgliederversammlung zusammen. Dabei will das Präsidium des Ligaverbands eine Abstimmung zu 50+1 abhalten."
      }
     ]
    }
   ],
   "Tech & KI": [
    {
-    "sourceCount": 3,
-    "score": 5.77,
+    "sourceCount": 2,
+    "score": 3.68,
     "items": [
-     {
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "source": "The Verge",
-      "date": "2026-11-13T07:00-05:00",
-      "teaser": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singula"
-     },
      {
       "title": "Jensen Huang Resigns From Nvidia After Affairs",
       "url": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html",
@@ -1076,66 +1076,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
     "items": [
      {
-      "title": "Anzeige: Saugroboter mit Wischfunktion von Dreame reduziert bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-dreame-reduziert-bei-amazon-2611-215203.html",
-      "source": "Golem",
-      "date": "2026-11-13T16:50+01:00",
-      "teaser": "Den Saugroboter Dreame L40 Ultra A mit Wischfunktion, 24.000 Pa und Multifunktionsdock gibt es zum Sparpreis bei Amazon. ( Saugroboter , Technik/Hardware )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Why is the Microsoft outage lasting so long?",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T14:21+00:00",
-      "teaser": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Wall Street Braces for Anthropic’s Spending",
-      "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
-      "source": "New York Times",
-      "date": "2026-11-13T15:47+00:00",
-      "teaser": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
-      "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
-      "source": "New York Times",
-      "date": "2026-11-13T15:49+00:00",
-      "teaser": "Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "The best early Black Friday deals you can already shop",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "title": "The new Apple TV has a YouTube problem",
+      "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
       "source": "The Verge",
-      "date": "2026-11-13T10:49-05:00",
-      "teaser": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessar"
+      "date": "2026-11-13T11:55-05:00",
+      "teaser": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In […]"
      }
     ]
    },
@@ -1144,11 +1092,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T15:40+00:00",
-      "teaser": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
+      "title": "Japan: Sony und JR East wollen 40 Bahnhöfe mit UWB-Ticketgates ausstatten",
+      "url": "https://www.heise.de/news/Japan-Sony-und-JR-East-wollen-40-Bahnhoefe-mit-UWB-Ticketgates-ausstatten-11524971.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-13T17:47+01:00",
+      "teaser": "UWB kennt man vor allem von Apples Airtags. Die Präzision im Nahbereich lässt sich aber auch für Tickets nutzen. Das Smartphone kann dann in der Tasche bleiben."
      }
     ]
    },
@@ -1157,11 +1105,24 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Nvidia Lost Its Founding C.E.O. Can It Keep Its Momentum?",
-      "url": "https://www.nytimes.com/2026/11/13/technology/nvidia-ceo-jen-huang-loss.html",
+      "title": "Vorsicht, Umbruch: Word zerschießt bald das Layout alter Dokumente",
+      "url": "https://www.heise.de/news/Vorsicht-Umbruch-Word-zerschiesst-bald-das-Layout-alter-Dokumente-11524878.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-13T17:35+01:00",
+      "teaser": "Microsoft entfernt einige alte Kompatibilitätseinstellungen in Word. Bei älteren Dokumenten drohen deshalb ab Dezember 2026 Layout-Verschiebungen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money",
+      "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
       "source": "New York Times",
-      "date": "2026-11-13T15:31+00:00",
-      "teaser": "Throughout the years, tech giants have had mixed records after losing visionary founders who propelled their success. Successors with tech expertise helps."
+      "date": "2026-11-13T16:36+00:00",
+      "teaser": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July."
      }
     ]
    },
@@ -1170,24 +1131,11 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-      "source": "Ars Technica",
-      "date": "2026-11-13T15:26+00:00",
-      "teaser": "Governments, hospitals, courts scrambled by global Microsoft outage."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Microsoft’s massive Outlook outage continues",
-      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "source": "The Verge",
-      "date": "2026-11-13T10:29-05:00",
-      "teaser": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has"
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "source": "New York Times",
+      "date": "2026-11-13T16:28+00:00",
+      "teaser": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence."
      }
     ]
    },
@@ -1196,11 +1144,11 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Apple announces release dates for the first Apple Home Collection smart devices",
-      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-      "source": "The Verge",
-      "date": "2026-11-13T10:22-05:00",
-      "teaser": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery expected in mid-December. Apple announced the collection a month ago "
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "source": "Ars Technica",
+      "date": "2026-11-13T16:26+00:00",
+      "teaser": "\"SignDrop\" exploit lets local users gain all-powerful System rights."
      }
     ]
    },
@@ -1209,11 +1157,63 @@
     "score": 1.94,
     "items": [
      {
-      "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
-      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
-      "source": "Ars Technica",
-      "date": "2026-11-13T15:09+00:00",
-      "teaser": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death."
+      "title": "Microsoft’s massive Outlook outage continues",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "source": "The Verge",
+      "date": "2026-11-13T11:17-05:00",
+      "teaser": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Neue PC-Spiele im Dezember 2026: „Warhammer 40,000: Dawn of War IV“",
+      "url": "https://www.heise.de/news/Neue-PC-Spiele-im-Dezember-2026-Warhammer-40-000-Dawn-of-War-IV-11524600.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-13T17:12+01:00",
+      "teaser": "Im Dezember werden unter anderem „Warhammer 40,000: Dawn of War IV“ und „Thief: The Dark Project Remastered“ veröffentlicht."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
+      "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
+      "source": "New York Times",
+      "date": "2026-11-13T16:11+00:00",
+      "teaser": "Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "source": "The Verge",
+      "date": "2026-11-13T11:00-05:00",
+      "teaser": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated thi"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "My favorite recipe app just got a big upgrade — and a subscription fee",
+      "url": "https://www.theverge.com/tech/1032141/paprika-4-recipe-grocery-pantry-app-update-subscription-hands-on",
+      "source": "The Verge",
+      "date": "2026-11-13T11:00-05:00",
+      "teaser": "Nearly 10 years after the launch of Paprika 3, the recipe-managing, pantry-organizing, grocery list-making app has gotten a big upgrade that adds more functionality to nearly every corner of the experience. I tested Paprika 4 for several weeks while it was in open beta, and the update recently launc"
      }
     ]
    }
@@ -1392,7 +1392,7 @@
    "topic": "Polen",
    "source": "Notes from Poland",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Polen",
