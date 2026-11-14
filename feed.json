@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-14T02:08:46+00:00",
+ "fetchedAt": "2026-11-14T02:56:16+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.95,
+    "score": 7.88,
     "items": [
      {
       "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
@@ -14,14 +14,14 @@
       "teaser": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with cos"
      },
      {
-      "title": "Microsoft Outage LIVE: Microsoft apologises as global service outage eases",
-      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece",
+      "title": "Microsoft Outage updates: No ETA yet on full recovery, company says",
+      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
       "source": "The Hindu",
-      "date": "2026-11-14T07:01+05:30",
-      "teaser": "Microsoft is testing fixes, rerouting traffic and boosting server capacity as it works to stabilise its systems and restore services"
+      "date": "2026-11-14T06:48+05:30",
+      "teaser": "Microsoft services are beginning to come back online after a massive global outage left millions of users without access for nearly 18 hours"
      },
      {
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "date": "2026-11-13T21:14+00:00",
@@ -31,7 +31,34 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.96,
+    "score": 5.95,
+    "items": [
+     {
+      "title": "Donald Trump trifft Wladimir Putin und Xi Jinping kommende Woche in China",
+      "url": "https://www.spiegel.de/ausland/donald-trump-trifft-wladimir-putin-und-xi-jinping-kommende-woche-in-china-a-8c11f808-645a-48b5-b7a1-fb85768c7994#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-14T01:42+01:00",
+      "teaser": "Der US-Präsident möchte in Shenzhen mit seinen Amtskollegen aus China und Russland vor allem über Atomwaffen sprechen, nicht jedoch über die Ukraine. Kanzler Friedrich Merz hat eine klare Botschaft an Donald Trump: »Bitte keine Überraschungen«."
+     },
+     {
+      "title": "Xi-Putin-Trump-Gipfel in China?",
+      "url": "https://www.dw.com/de/xi-putin-trump-gipfel-in-china/a-79941737?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-13T14:20+00:00",
+      "teaser": "Peking agiert vorsichtig angesichts der Spekulationen über ein mögliches Gipfeltreffen zwischen Xi, Putin und Trump. China möchte den Eindruck vermeiden, sich zu stark in den Ukraine-Krieg einzumischen."
+     },
+     {
+      "title": "Dreiergipfel in China: USA kündigen Dreiertreffen von Trump mit Xi und Putin an",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-xi-jinping-wladimir-putin-china-apec-gipfel-atomwaffen",
+      "source": "Zeit",
+      "date": "2026-11-14T02:22+00:00",
+      "teaser": "Donald Trump will sich erstmals zu einem Dreiergespräch mit Xi Jinping und Wladimir Putin treffen. Es soll in dem Gespräch unter anderem um Atomwaffenbestände gehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.9,
     "items": [
      {
       "title": "FAA orders nationwide ground stop for all US flight departures",
@@ -58,61 +85,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.93,
-    "items": [
-     {
-      "title": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-      "source": "The Guardian",
-      "date": "2026-11-13T17:41+00:00",
-      "teaser": "Tech firm says it is ‘deeply sorry’ for disruption that took services down and has now addressed the underlying issue What caused the outage and when will it be fixed? Microsoft outage hits UK hospitals, GPs, schools and police Tell us: have you been affected by the outage? Microsoft has said it is "
-     },
-     {
-      "title": "Microsoft Outage updates: No ETA yet on full recovery, company says",
-      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
-      "source": "The Hindu",
-      "date": "2026-11-14T06:48+05:30",
-      "teaser": "Microsoft services are beginning to come back online after a massive global outage left millions of users without access for nearly 18 hours"
-     },
-     {
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T11:43+00:00",
-      "teaser": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.85,
-    "items": [
-     {
-      "title": "SpaceX’s bid for Starship double catch thwarted, as booster ends up in ocean",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374413/spacexs-bid-starship-double-catch-thwarted-booster-ends-ocean",
-      "source": "South China Morning Post",
-      "date": "2026-11-13T23:23+00:00",
-      "teaser": "SpaceX launched Starship towards orbit on Friday in its boldest test yet: a 22-hour flight that aimed to capture the entire rocket in a move meant to accelerate moon and Mars travel. But Elon Musk’s company had to lower its expectations when the first part of the double catch flopped. The first-stag"
-     },
-     {
-      "title": "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt",
-      "url": "https://www.pbs.org/newshour/science/spacexs-starship-soars-into-orbit-after-booster-malfunction-thwarts-double-catch-attempt",
-      "source": "PBS NewsHour",
-      "date": "2026-11-13T19:20-05:00",
-      "teaser": "SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster malfunctioned and ended up in the water Friday, but the spacecraft still soared into orbit in its boldest test yet."
-     },
-     {
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-14T00:01+00:00",
-      "teaser": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.8,
+    "score": 5.73,
     "items": [
      {
       "title": "'Miracle on the Mississippi': All aboard river cruise boat survive crash with tanker in New Orleans",
@@ -138,42 +111,35 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.21,
+    "sourceCount": 2,
+    "score": 3.99,
     "items": [
      {
-      "title": "Merz beansprucht Teilnahme an künftigen Ukraine-Gesprächen",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-gipfel-eu-dublin-merz-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-13T17:36+01:00",
-      "teaser": "Der Krieg gegen die Ukraine steht im Fokus des EU-Treffens in Dublin. Kanzler Merz erhält für seinen Vorstoß zur Finanzierung neuer Ukraine-Hilfen Rückendeckung - bei Gesprächen über ein Kriegsende sieht er Deutschland als \"gesetzt\" an."
+      "title": "US flights resume after nationwide ground stop lifted",
+      "url": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
+      "source": "France 24",
+      "date": "2026-11-14T02:35+00:00",
+      "teaser": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now \"opened up,\" and blamed \"old hardwar"
      },
      {
-      "title": "Ukrainekrieg: Merz geht von deutscher Teilnahme an Ukraine-Friedensgesprächen aus",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/verhandlungen-ukraine-russland-europa-kaja-kallas-ursula-von-der-leyen-gxe",
-      "source": "Zeit",
-      "date": "2026-11-13T13:10+00:00",
-      "teaser": "Möglicherweise wird sich die EU an Ukraine-Gesprächen beteiligen. Der Bundeskanzler sieht Deutschlands Teilnahme als gesetzt, die EU-Außenbeauftragte mahnt zur Vorsicht."
-     },
-     {
-      "title": "Streit über Ukraine: Mit Fäkalsprache gegen Merz",
-      "url": "https://www.faz.net/aktuell/politik/ausland/robert-fico-attackiert-friedrich-merz-wir-werden-uns-nicht-einkacken-201676422.html",
-      "source": "FAZ",
-      "date": "2026-11-12T20:07+00:00",
-      "teaser": "Der Kanzler fordert Unterstützung für Kiew. Der slowakische Ministerpräsident wettert dagegen. Prag und Budapest dagegen punkten mit diskreter Diplomatie."
+      "title": "US flights resume after FAA lifts hours-long nationwide ground stop",
+      "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-13T21:32+00:00",
+      "teaser": "US officials say air control centres affected by 'communication issues', but no threat detected."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.94,
     "items": [
      {
-      "title": "US-bound flights out of Australia grounded as telecommunications outage affects American travel",
+      "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
       "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
       "source": "The Guardian",
-      "date": "2026-11-14T01:54+00:00",
-      "teaser": "Sydney and Melbourne airports say grounding of planes from US airports led to delays for some flights US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US bound flights from Sydney Airport have been grounded in response to American authorities halting "
+      "date": "2026-11-14T02:15+00:00",
+      "teaser": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from Sydney airport were grounded or delayed on Saturday after American authorities halted "
      },
      {
       "title": "All departing U.S. flights grounded due to communication outage",
@@ -186,7 +152,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.87,
+    "items": [
+     {
+      "title": "Questions remain after Nvidia CEO's departure",
+      "url": "https://www.abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476",
+      "source": "ABC Australia",
+      "date": "2026-11-14T00:52+00:00",
+      "teaser": "While Jensen Huang's resignation puts an end to his long reign over Nvidia, questions about America's national security and Donald Trump's knowledge of the whole saga remain."
+     },
+     {
+      "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-14T01:22+00:00",
+      "teaser": "U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.85,
     "items": [
      {
       "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
@@ -206,7 +192,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.84,
     "items": [
      {
       "title": "Krieg in der Ukraine: Europäer einigen sich auf Verhandlungsteam für Gespräche mit Russland",
@@ -226,27 +212,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
-    "items": [
-     {
-      "title": "Donald Trump trifft Wladimir Putin und Xi Jinping kommende Woche in China",
-      "url": "https://www.spiegel.de/ausland/donald-trump-trifft-wladimir-putin-und-xi-jinping-kommende-woche-in-china-a-8c11f808-645a-48b5-b7a1-fb85768c7994#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-14T01:42+01:00",
-      "teaser": "Der US-Präsident möchte in Shenzhen mit seinen Amtskollegen aus China und Russland vor allem über Atomwaffen sprechen, nicht jedoch über die Ukraine. Kanzler Friedrich Merz hat eine klare Botschaft an Donald Trump: »Bitte keine Überraschungen«."
-     },
-     {
-      "title": "Xi-Putin-Trump-Gipfel in China?",
-      "url": "https://www.dw.com/de/xi-putin-trump-gipfel-in-china/a-79941737?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-13T14:20+00:00",
-      "teaser": "Peking agiert vorsichtig angesichts der Spekulationen über ein mögliches Gipfeltreffen zwischen Xi, Putin und Trump. China möchte den Eindruck vermeiden, sich zu stark in den Ukraine-Krieg einzumischen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.85,
+    "score": 3.79,
     "items": [
      {
       "title": "U.K. police launch sex offence investigation into children’s author and comedian David Walliams",
@@ -266,21 +232,41 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.78,
     "items": [
      {
-      "title": "News Wrap: Tanker crashes into river cruise boat in New Orleans",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-tanker-crashes-into-river-cruise-boat-in-new-orleans",
+      "title": "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt",
+      "url": "https://www.pbs.org/newshour/science/spacexs-starship-soars-into-orbit-after-booster-malfunction-thwarts-double-catch-attempt",
       "source": "PBS NewsHour",
-      "date": "2026-11-13T18:55-05:00",
-      "teaser": "In our news wrap Friday, a ship collided with a river cruise boat in New Orleans, causing it to sink in the Mississippi River, some Microsoft users were offline for a second day as the company scrambled to restore its widely used suite of workplace software and the White House is tightening rules on"
+      "date": "2026-11-13T19:20-05:00",
+      "teaser": "SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster malfunctioned and ended up in the water Friday, but the spacecraft still soared into orbit in its boldest test yet."
      },
      {
-      "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
-      "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-14T00:01+00:00",
+      "teaser": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.76,
+    "items": [
+     {
+      "title": "Turkiye, Qatar sign mutual defence agreement, Turkish presidency says",
+      "url": "https://www.thehindu.com/news/international/turkiye-qatar-sign-mutual-defence-agreement-turkish-presidency-says/article71699542.ece",
+      "source": "The Hindu",
+      "date": "2026-11-14T00:32+05:30",
+      "teaser": "Turkiye and Qatar were working to develop and diversify their energy partnership, and that their cooperation ‌in the defence industry would ​continue to grow, a statement from the Turkish presidency quoted President Erdogan as saying"
+     },
+     {
+      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
       "source": "Al Jazeera",
-      "date": "2026-11-13T22:47+00:00",
-      "teaser": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans."
+      "date": "2026-11-14T00:00+00:00",
+      "teaser": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians."
      }
     ]
    }
@@ -288,7 +274,27 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.21,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "Landesweiter Flugstopp in den USA wieder aufgehoben",
+      "url": "https://www.zdfheute.de/politik/ausland/usa-flugstopp-landesweit-100.html",
+      "source": "ZDF",
+      "date": "2026-11-14T02:39+01:00",
+      "teaser": "Die US-Luftfahrtbehörde FAA erlaubt den Start von Flugzeugen wieder. Nach technischen Problemen war ein Startverbot verhängt worden. Auch Reisende aus Europa sind betroffen."
+     },
+     {
+      "title": "USA: US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
+      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-flugsicherheit-flugstop-landesweit-sicherheit-li.3578585",
+      "source": "Süddeutsche",
+      "date": "2026-11-14T02:09+00:00",
+      "teaser": "Wegen technischer Probleme waren alle Abflüge untersagt. Zehntausende Passagiere saßen an Airports fest. Erst nach mehreren Stunden gibt es Entwarnung."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.14,
     "items": [
      {
       "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
@@ -308,7 +314,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.2,
+    "score": 3.13,
     "items": [
      {
       "title": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU",
@@ -328,7 +334,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.06,
+    "score": 2.99,
     "items": [
      {
       "title": "Klimastreik: Fridays for Future warnt auf Weltklimakonferenz vor „Hitzehölle“",
@@ -348,46 +354,46 @@
    },
    {
     "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Zwei unvereinbare Vorstellungen von Europa",
+      "url": "https://www.zdfheute.de/politik/ausland/analyse-russland-europa-sicherheit-ukraine-krieg-100.html",
+      "source": "ZDF",
+      "date": "2026-11-14T03:42+01:00",
+      "teaser": "Russland fordert eine neue \"Sicherheitsarchitektur\" für Europa. Dabei sind die Regeln längst vereinbart - und Moskau hat ihnen zugestimmt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Weißes Haus: Trump trifft sich mit Putin und Xi in China",
+      "url": "https://www.zdfheute.de/politik/ausland/usa-dreiertreffen-trump-xi-putin-china-100.html",
+      "source": "ZDF",
+      "date": "2026-11-14T03:38+01:00",
+      "teaser": "Erstmals sollen Trump, Xi und Putin nach Angaben des Weißen Hauses zu einem Dreiertreffen nächste Woche in China zusammenkommen. Es soll auch um Atomwaffen gehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
     "score": 1.96,
     "items": [
      {
-      "title": "Landesweiter Flugstopp in den USA wieder aufgehoben",
-      "url": "https://www.zdfheute.de/politik/ausland/usa-flugstopp-landesweit-100.html",
-      "source": "ZDF",
-      "date": "2026-11-14T02:39+01:00",
-      "teaser": "Die US-Luftfahrtbehörde FAA erlaubt den Start von Flugzeugen wieder. Nach technischen Problemen war ein Startverbot verhängt worden. Auch Reisende aus Europa sind betroffen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "USA: Landesweites Startverbot – keine Flüge aus Europa",
-      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-flugsicherheit-flugstop-landesweit-sicherheit-li.3578585",
+      "title": "Gipfel in China: USA kündigen kündigt Dreiertreffen Trumps mit Xi und Putin an",
+      "url": "https://www.sueddeutsche.de/politik/atomwaffen-abruestung-putin-trump-xi-jinping-apec-shenzhen-li.3580363",
       "source": "Süddeutsche",
-      "date": "2026-11-14T01:09+00:00",
-      "teaser": "Zehntausende Passagiere sitzen an Airports fest. Die US-Regierung spricht von einer Vorsichtsmaßnahme, Grund seien Probleme mit dem Flugkontrollsystem. Auch Flüge aus Europa werden gestoppt."
+      "date": "2026-11-14T02:23+00:00",
+      "teaser": "Bislang hatte es nur bilaterale Gespräche der Atommächte gegeben. Der US-Präsident hatte in der Vergangenheit einen neuen Abrüstungsvertrag ins Spiel gebracht."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "New Orleans: Tanker kollidiert mit Kreuzfahrtschiff",
-      "url": "https://www.zdfheute.de/panorama/unfall-frachter-kreuzfahrtschiff-new-orleans-100.html",
-      "source": "ZDF",
-      "date": "2026-11-14T02:07+01:00",
-      "teaser": "Nach der Kollision mit einem Tankschiff ist ein Flusskreuzfahrtschiff auf dem Mississippi teilweise gesunken. Alle 130 Menschen an Bord konnten in Sicherheit gebracht werden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.82,
     "items": [
      {
       "title": "Bundeshaushalt: Bundesrechnungshof mahnt Union und SPD zu härterem Sparkurs",
@@ -400,7 +406,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.64,
     "items": [
      {
       "title": "Özdemir vor Eröffnungswalzer des Landespresseballs: \"Ich setze auf mein Rhythmusgefühl\"",
@@ -413,7 +419,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.63,
     "items": [
      {
       "title": "Frachter rammt Kreuzfahrtschiff",
@@ -426,7 +432,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.6,
     "items": [
      {
       "title": "Erst Finale verpasst, jetzt deutscher Fahnenträger",
@@ -439,7 +445,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.58,
     "items": [
      {
       "title": "Ausstellung zeigt die besten Cartoons des Jahres",
@@ -449,25 +455,12 @@
       "teaser": "Es sind vor allem aktuelle politische Themen wie Tabaksteuer und Benzinpreise, die die Cartoonisten der Caricatura aufgreifen. Im Januar werden die Sieger des Wettbewerbs gekürt."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.64,
-    "items": [
-     {
-      "title": "Auto fährt mit voller Wucht auf Traktor auf - Traktorfahrer stirbt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/auto-faehrt-mit-voller-wucht-auf-traktor-auf-traktorfahrer-stirbt-100.html",
-      "source": "SWR",
-      "date": "2026-11-13T22:51+01:00",
-      "teaser": "Zwischen Ittersbach und Spielberg ist ein Auto auf einen Traktor aufgefahren. Der Traktorfahrer wurde tödlich verletzt, der Autofahrer kam ins Krankenhaus."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 2,
-    "score": 3.58,
+    "score": 3.51,
     "items": [
      {
       "title": "Korwin-Piotrowska nie przyjęła wniosku Żurka ws. uchylenia immunitetu Święczkowskiemu",
@@ -487,7 +480,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.52,
+    "score": 3.45,
     "items": [
      {
       "title": "Darowizny na rzecz ofiar ataku w Krakowie i ich rodzin – bez podatku",
@@ -507,7 +500,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.8,
     "items": [
      {
       "title": "Wszystkie starty samolotów w Stanach Zjednoczonych wstrzymane. Awaria systemu łączności",
@@ -520,7 +513,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.69,
     "items": [
      {
       "title": "Liga Narodów. Grecka tragedia w Amsterdamie, Portugalia odda hołd Cristiano Ronaldo",
@@ -533,7 +526,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.65,
     "items": [
      {
       "title": "Niepokojący incydent w bazie USA. Drony nad jednym z najważniejszych obiektów NATO",
@@ -546,7 +539,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.59,
     "items": [
      {
       "title": "USA. Tankowiec zderzył się ze statkiem wycieczkowym. \"Jak scena z 'Titanica'\"",
@@ -559,7 +552,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.58,
     "items": [
      {
       "title": "Czarzasty zawiesił Kusznieruka i skierował wniosek do sądu partyjnego o jego wykluczenie",
@@ -572,7 +565,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.53,
     "items": [
      {
       "title": "Po 160 latach wrócili do zapomnianych grobowców. Odkryli szczątki egipskiego dostojnika",
@@ -585,7 +578,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.52,
     "items": [
      {
       "title": "USA wstrzymują wszystkie starty samolotów. FAA wydała nadzwyczajny nakaz",
@@ -598,7 +591,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.52,
     "items": [
      {
       "title": "Pakistan stawia na płatności bezgotówkowe. Koniec gotówki w stolicy",
@@ -611,7 +604,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.52,
     "items": [
      {
       "title": "Napis \"Slawa UPA\" na kilkunastu pomnikach w Polsce. Zarzuty dla 17-letniego Ukraińca",
@@ -624,7 +617,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.53,
+    "score": 1.46,
     "items": [
      {
       "title": "Bliski Wschód uderza w Rosję ropą. Urals z największymi zniżkami",
@@ -639,7 +632,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.51,
+    "score": 5.44,
     "items": [
      {
       "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
@@ -666,7 +659,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.7,
+    "score": 3.63,
     "items": [
      {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
@@ -676,7 +669,7 @@
       "teaser": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services."
      },
      {
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "date": "2026-11-13T21:14+00:00",
@@ -686,7 +679,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.52,
+    "score": 3.45,
     "items": [
      {
       "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
@@ -706,7 +699,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.21,
+    "score": 3.14,
     "items": [
      {
       "title": "Nvidia: Huang-Affäre könnte zu Trump-Skandal werden",
@@ -726,7 +719,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.15,
+    "score": 3.09,
     "items": [
      {
       "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
@@ -746,7 +739,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "source": "The Guardian",
+      "date": "2026-11-14T02:37+00:00",
+      "teaser": "Sean Duffy says ‘it’s going to take us some time to unwind what’s happened’ but also points finger at Congress, claiming lack of funding for systems upgrades US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "US aviation regulator lifts order that grounded thousands of flights",
+      "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-14T02:37+00:00",
+      "teaser": "Airports had halted take-offs because of a temporary ‘telecommunications outage’"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+      "source": "New York Times",
+      "date": "2026-11-14T02:22+00:00",
+      "teaser": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Misserfolg für Musk: Fehlschlag bei Starship-Testflug – Fangversuch gescheitert",
@@ -759,33 +791,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.88,
     "items": [
      {
-      "title": "US flight outage live updates: FAA lifts nationwide ground stop as Trump officials holds press briefing",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-      "source": "The Guardian",
-      "date": "2026-11-14T01:56+00:00",
-      "teaser": "Sean Duffy says ‘it’s going to take us some time to unwind what’s happened’ but also points finger at Congress, claiming lack of funding for systems upgrades Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "US aviation regulator lifts order that grounded thousands of flights",
-      "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+      "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
+      "url": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-14T01:57+00:00",
-      "teaser": "Airports had halted take-offs because of a temporary ‘telecommunications outage’"
+      "date": "2026-11-14T01:28+00:00",
+      "teaser": "US president will hold trilateral meeting with Chinese leader and Russia’s Vladimir Putin next week"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.87,
     "items": [
      {
       "title": "Ukraine: Weißes Haus kündigt Dreiertreffen Trumps mit Xi und Putin an",
@@ -798,20 +817,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
-      "url": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-14T01:28+00:00",
-      "teaser": "US president will hold trilateral meeting with Chinese president and Russia’s Vladimir Putin next week"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.84,
     "items": [
      {
       "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
@@ -821,25 +827,12 @@
       "teaser": "Sarvam has received government backing to build native models in world’s most populous country"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Business-Ticker: Alkoholverbot an Bahnhöfen: Bahn zieht positive Bilanz",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-von-der-leyen-europa-braucht-500-milliarden-euro-investitionen-fuer-ki-faz-200452404.html",
-      "source": "FAZ",
-      "date": "2026-11-14T00:52+00:00",
-      "teaser": "Einblick in Jensen Huangs letzte Stunden als Nvidia-CEO +++ Von der Leyen: Halbe Billion Euro Investitionen für KI nötig +++ Mercedes stoppt alle neuen Investitionen in deutsche Standorte +++ alle Neuigkeiten im Unternehmen-Liveblog"
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.76,
+    "score": 7.6899999999999995,
     "favorite": true,
     "items": [
      {
@@ -853,7 +846,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.75,
+    "score": 7.68,
     "favorite": true,
     "items": [
      {
@@ -867,7 +860,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.73,
+    "score": 7.66,
     "favorite": true,
     "items": [
      {
@@ -881,7 +874,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.73,
+    "score": 5.66,
     "items": [
      {
       "title": "Nations League: Deutschland gewinnt in Serbien – Brajan Gruda trifft bei Debüt",
@@ -908,7 +901,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.07,
+    "score": 5.0,
     "items": [
      {
       "title": "Rheinmetall: Borussia Dortmund beendet umstrittene Partnerschaft",
@@ -935,7 +928,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.65,
+    "score": 3.59,
     "items": [
      {
       "title": "Tod von De Miguel: Zwölf Spiele Sperre für Torhüter Owono",
@@ -955,7 +948,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.23,
+    "score": 3.16,
     "items": [
      {
       "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
@@ -975,7 +968,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.73,
     "items": [
      {
       "title": "Kimmich zieht an Kroos vorbei: Die DFB-Nationalspieler mit den meisten Länderspielen",
@@ -988,7 +981,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.73,
     "items": [
      {
       "title": "Havertz: \"Erste Halbzeit fand ich überragend\"",
@@ -1001,7 +994,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.72,
     "items": [
      {
       "title": "Füllkrug zum neuen DFB-Ritual: \"Passt genau bei mir rein\"",
@@ -1014,7 +1007,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.72,
     "items": [
      {
       "title": "Klopp: \"Wir wollten ein Endspiel in Berlin, das haben wir jetzt\"",
@@ -1027,7 +1020,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.72,
     "items": [
      {
       "title": "De Jong explica su cambio con Países Bajos: \"No había necesidad de correr riesgos\"",
@@ -1042,7 +1035,7 @@
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 5.98,
+    "score": 5.91,
     "items": [
      {
       "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
@@ -1069,7 +1062,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.77,
+    "score": 3.7,
     "items": [
      {
       "title": "(g+) Opinion: Anthropic's Dario Amodei Can't Always Have His Way",
@@ -1089,7 +1082,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.67,
     "items": [
      {
       "title": "Jensen Huang was reckless with the environment, too",
@@ -1109,7 +1102,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.7,
+    "score": 3.63,
     "items": [
      {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
@@ -1129,7 +1122,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.29,
+    "score": 3.22,
     "items": [
      {
       "title": "The Microsoft Outage Is a Warning for the World",
@@ -1149,7 +1142,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.82,
     "items": [
      {
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
@@ -1162,7 +1155,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.81,
     "items": [
      {
       "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
@@ -1175,7 +1168,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.74,
     "items": [
      {
       "title": "Amazon has a plan to index the world’s online shopping data",
@@ -1188,7 +1181,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.63,
     "items": [
      {
       "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
@@ -1201,7 +1194,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.6,
     "items": [
      {
       "title": "USA: Alle Flughäfen gesperrt",
@@ -1214,7 +1207,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.59,
     "items": [
      {
       "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
@@ -1227,7 +1220,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.56,
     "items": [
      {
       "title": "FAA Grounds All US Flights Until Further Notice",
@@ -1305,7 +1298,7 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Welt & Politik",
