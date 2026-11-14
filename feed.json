@@ -1,37 +1,10 @@
 {
- "fetchedAt": "2026-11-14T10:49:10+00:00",
+ "fetchedAt": "2026-11-14T11:46:58+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.93,
-    "items": [
-     {
-      "title": "Microsoft says all services 'fully recovered' after global outage",
-      "url": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
-      "source": "France 24",
-      "date": "2026-11-14T06:07+00:00",
-      "teaser": "The tech giant confirmed on Saturday morning that all services have recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed ther"
-     },
-     {
-      "title": "Microsoft says services fully restored after hourslong global outage",
-      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece",
-      "source": "The Hindu",
-      "date": "2026-11-14T15:28+05:30",
-      "teaser": "The ‌technology giant said it was “monitoring the backlog of email messages ‌accrued during this ​event” before considering the issue with ⁠the enterprise services resolved."
-     },
-     {
-      "title": "What to know about Microsoft's outage and why it takes so long to restore email services",
-      "url": "https://www.pbs.org/newshour/science/what-to-know-about-microsofts-outage-and-why-it-takes-so-long-to-restore-email-services",
-      "source": "PBS NewsHour",
-      "date": "2026-11-13T18:33-05:00",
-      "teaser": "Unlike modern web apps or authentication gatekeepers, email wasn't designed to fail fast, meaning to immediately halt when a problem arises."
-     }
-    ]
-   },
-   {
-    "sourceCount": 4,
-    "score": 7.87,
+    "score": 7.79,
     "items": [
      {
       "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
@@ -58,34 +31,61 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.95,
+    "score": 5.99,
     "items": [
      {
-      "title": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
-      "url": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
+      "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+      "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
       "source": "France 24",
-      "date": "2026-11-14T10:14+00:00",
-      "teaser": "On Friday, the Federal Aviation Administration issued a rare nationwide ground stop. More than 8,200 flights, or over 31% of those scheduled in the United States, were canceled. The ground stop lasted nearly five hours and was the longest in the country since September 11, 2001. Officials blamed out"
+      "date": "2026-11-14T10:30+00:00",
+      "teaser": "President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and warned that the Kre"
      },
      {
-      "title": "FAA orders nationwide ground stop for all US flight departures",
-      "url": "https://kyivindependent.com/faa-orders-nationwide-ground-stop-for-all-us-flight-departures/",
+      "title": "US floats NATO membership for Ukraine in exchange for Donbas withdrawal, Zelensky says",
+      "url": "https://kyivindependent.com/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-withdrawal-zelensky-says/",
       "source": "Kyiv Independent",
-      "date": "2026-11-13T22:14+00:00",
-      "teaser": "The grounding was the first nationwide flight stoppage since January 2023, when an FAA computer system malfunctioned. Before that, the last nationwide grounding followed the terrorist attacks of Sept. 11, 2001."
+      "date": "2026-11-14T11:11+00:00",
+      "teaser": "\"The Americans raised the question: 'What if Ukraine joins NATO? Would Ukraine withdraw from Donbas?' This was the first time this issue had been raised,\" President Volodymyr Zelensky told journalists."
      },
      {
-      "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
-      "url": "https://www.thehindu.com/news/international/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/article71700826.ece",
-      "source": "The Hindu",
-      "date": "2026-11-14T12:00+05:30",
-      "teaser": "Thousands of flights and potentially over a million travellers were affected from coast to coast"
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-14T11:41+00:00",
+      "teaser": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.93,
+    "score": 5.85,
+    "items": [
+     {
+      "title": "Microsoft says services fully restored after hourslong global outage",
+      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece",
+      "source": "The Hindu",
+      "date": "2026-11-14T15:28+05:30",
+      "teaser": "The ‌technology giant said it was “monitoring the backlog of email messages ‌accrued during this ​event” before considering the issue with ⁠the enterprise services resolved."
+     },
+     {
+      "title": "What to know about Microsoft's outage and why it takes so long to restore email services",
+      "url": "https://www.pbs.org/newshour/science/what-to-know-about-microsofts-outage-and-why-it-takes-so-long-to-restore-email-services",
+      "source": "PBS NewsHour",
+      "date": "2026-11-13T18:33-05:00",
+      "teaser": "Unlike modern web apps or authentication gatekeepers, email wasn't designed to fail fast, meaning to immediately halt when a problem arises."
+     },
+     {
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-14T06:42+00:00",
+      "teaser": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.85,
     "items": [
      {
       "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
@@ -112,7 +112,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.74,
+    "score": 5.66,
     "items": [
      {
       "title": "FAA issues rare nationwide ground stop due to 'extraordinary circumstances'",
@@ -142,24 +142,64 @@
     "score": 3.97,
     "items": [
      {
-      "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
-      "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
-      "source": "France 24",
-      "date": "2026-11-14T10:30+00:00",
-      "teaser": "President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and warned that the Kre"
+      "title": "Papst Leo in Südamerika: Eine Million Gläubige feiern Besuch in Peru",
+      "url": "https://www.spiegel.de/ausland/papst-leo-xiv-eine-halbe-million-menschen-feiert-den-papstbesuch-an-seiner-alten-wirkungsstaette-in-peru-a-f9842331-d086-4295-a426-897b90139110#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-13T23:34+01:00",
+      "teaser": "An den Plänen für seine bislang längste Auslandsreise hat das Oberhaupt der katholischen Kirche trotz seiner Krebserkrankung festgehalten. Bei der Rückkehr in seine frühere Diözese spricht der Papst von einem »Moment der Prüfung«."
      },
      {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-14T10:30+00:00",
-      "teaser": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+      "title": "Papst Leo XIV. zu Besuch in seinem früheren Bistum in Peru",
+      "url": "https://www.dw.com/de/papst-leo-xiv-zu-besuch-in-seinem-früheren-bistum-in-peru/a-79947665?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-14T11:28+00:00",
+      "teaser": "Gut sieben Jahre war der heutige Papst Leo XIV. Bischof von Chiclayo in Peru. Im Rahmen seiner Südamerikareise kehrte er nun an seine alte Wirkungsstätte zurück - und wurde dort wie ein Popstar empfangen."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "Liveblog Ukrainekrieg: Selenskyj: USA bringen NATO-Beitritt für Gebietsverzicht ins Spiel",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-usa-bringen-nato-beitritt-fuer-gebietsverzicht-ins-spiel-faz-110683325.html",
+      "source": "FAZ",
+      "date": "2026-11-14T10:08+00:00",
+      "teaser": "Nach Gespräch mit Unterhändlern +++ US-Senatoren fordern Aufklärung über Starshield-Drosselung +++ Fünf Staaten sollen Europa bei Verhandlungen vertreten +++ alle Neuigkeiten im Liveblog"
+     },
+     {
+      "title": "Ukraine-Russland-Konflikt: US-Unterhändler bringen offenbar Nato-Beitritt der Ukraine ins Spiel",
+      "url": "https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-14T11:49+01:00",
+      "teaser": "Neue Bewegung in den Ukraineverhandlungen? Laut dem ukrainischen Präsidenten Selenskyj haben US-Verhandler überraschend eine Nato-Mitgliedschaft des Landes ins Spiel gebracht."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "What’s Behind the Trump-Huang Relationship?",
+      "url": "https://www.nytimes.com/video/us/politics/100000011272223/whats-behind-the-trump-huang-relationship.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-14T10:52+00:00",
+      "teaser": "President Trump’s show of support for Jensen Huang as he was under fire was a remarkable moment in a relationship that barely existed two years ago. Our White House correspondent Maggie Haberman explains how Mr. Trump came to see Mr. Huang as a modern-day Henry Ford."
+     },
+     {
+      "title": "What the Jensen Huang scandal means for Trump and his administration",
+      "url": "https://www.cbc.ca/news/world/jensen-huang-nvidia-trump-congress-investigations-9.7419755?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-13T04:00-05:00",
+      "teaser": "Jensen Huang's 33-year tenure as the CEO of chip-making giant Nvidia is now finished, but the political repercussions of his affair with an alleged Chinese spy are only just beginning."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.89,
     "items": [
      {
       "title": "South Sudan postpones first national elections until February",
@@ -179,7 +219,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.88,
     "items": [
      {
       "title": "Can Nvidia survive without tech titan Jensen Huang?",
@@ -199,7 +239,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.87,
+    "items": [
+     {
+      "title": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
+      "url": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
+      "source": "France 24",
+      "date": "2026-11-14T10:14+00:00",
+      "teaser": "On Friday, the Federal Aviation Administration issued a rare nationwide ground stop. More than 8,200 flights, or over 31% of those scheduled in the United States, were canceled. The ground stop lasted nearly five hours and was the longest in the country since September 11, 2001. Officials blamed out"
+     },
+     {
+      "title": "FAA orders nationwide ground stop for all US flight departures",
+      "url": "https://kyivindependent.com/faa-orders-nationwide-ground-stop-for-all-us-flight-departures/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-13T22:14+00:00",
+      "teaser": "The grounding was the first nationwide flight stoppage since January 2023, when an FAA computer system malfunctioned. Before that, the last nationwide grounding followed the terrorist attacks of Sept. 11, 2001."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.84,
     "items": [
      {
       "title": "Kuba: Führung bereitet sich auf Angriff der USA vor",
@@ -216,72 +276,32 @@
       "teaser": "Eine »ausländische Militäraggression« werde man abwehren, sagte Kubas Präsident Miguel Díaz-Canel. Zuvor hatte US-Präsident Donald Trump dem Inselstaat erneut gedroht."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.9,
-    "items": [
-     {
-      "title": "Live: France deploys 70,000 police for new wave of anti-government protests",
-      "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
-      "source": "France 24",
-      "date": "2026-11-14T07:09+00:00",
-      "teaser": "Between 50 and 60 marches are expected in France on Saturday, according to Interior Minister Laurent Nuñez, who plans to mobilise approximately 70,000 police officers and gendarmes across the country. In Paris, the march will commence at 1pm from Place de la République heading towards Place de la Na"
-     },
-     {
-      "title": "Riots in France: How anti-Government protests spiralled out of control",
-      "url": "https://www.thehindu.com/news/international/riots-in-france-how-anti-government-protests-spiralled-out-of-control/article71701195.ece",
-      "source": "The Hindu",
-      "date": "2026-11-14T15:03+05:30",
-      "teaser": "The French authorities’ heavy-handed response, including thousands of arrests, police beatings and curbs on marches, has added to the volatile mix of grievances fuelling an anti-Government groundswell that shows no sign of abating before next year’s presidential election"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.77,
-    "items": [
-     {
-      "title": "News kompakt: Landesweites Startverbot an US-Flughäfen aufgehoben",
-      "url": "https://www.dw.com/de/news-kompakt-landesweites-startverbot-an-us-flughäfen-aufgehoben/a-79946821?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-14T08:00+00:00",
-      "teaser": "Wegen technischer Probleme stoppt die US-Luftfahrtbehörde alle Starts an Flughäfen im Land. US-Präsident Trump plant einen historischen Dreiergipfel mit den Staatschefs Putin und Xi. Der DW-Nachrichtenüberblick."
-     },
-     {
-      "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-14T03:36+01:00",
-      "teaser": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.59,
-    "items": [
-     {
-      "title": "Historic first summit for Trump, Xi, Putin will not focus on Ukraine, White House says",
-      "url": "https://kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-14T02:04+00:00",
-      "teaser": "A U.S. official said that a trilateral meeting has been planned, but will focus on nuclear non-proliferation and the war in Iran."
-     },
-     {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-14T05:52+00:00",
-      "teaser": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+      "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-14T12:11+01:00",
+      "teaser": "In München haben zahlreiche Menschen am Trauerakt für den bayerischen Vize-Ministerpräsidenten und Freie-Wähler-Chef Aiwanger teilgenommen. Kardinal Marx sprach von einem \"Schock\". Er würdigte Aiwanger als \"außergewöhnliche Persönlichkeit\"."
+     },
+     {
+      "title": "München: Mehr als 1.000 Gäste nehmen Abschied von Hubert Aiwanger",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/hubert-aiwanger-beerdigung-trauerfeier-muenchen-requiem-gxe",
+      "source": "Zeit",
+      "date": "2026-11-14T10:25+00:00",
+      "teaser": "Mit einem Requiem und einem Staatsakt wird der kürzlich gestorbene bayerische Wirtschaftsminister Hubert Aiwanger gewürdigt. Zu dem Trauerakt kamen mehr als 1.000 Gäste."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.71,
     "items": [
      {
       "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
@@ -301,7 +321,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.46,
+    "score": 3.38,
     "items": [
      {
       "title": "USA: US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
@@ -321,20 +341,98 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
     "items": [
      {
-      "title": "München: Mehr als 1.000 Gäste nehmen Abschied von Hubert Aiwanger",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/hubert-aiwanger-beerdigung-trauerfeier-muenchen-requiem-gxe",
-      "source": "Zeit",
-      "date": "2026-11-14T10:25+00:00",
-      "teaser": "Mit einem Requiem und einem Staatsakt wird der kürzlich gestorbene bayerische Wirtschaftsminister Hubert Aiwanger gewürdigt. Zu dem Trauerakt kamen mehr als 1.000 Gäste."
+      "title": "\"Dunkler Norden\": Warum Leopard-Panzer durch den Neckar-Odenwald-Kreis rollen",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/bundeswehr-uebung-dunkler-norden-odenwald-100.html",
+      "source": "SWR",
+      "date": "2026-11-14T12:36+01:00",
+      "teaser": "Die Bundeswehr probt am Samstag den Katastrophenfall. Militärfahrzeuge fahren durch Städte und Gemeinden im Odenwald. Hunderte Einsatzkräfte üben."
      }
     ]
    },
    {
     "sourceCount": 1,
     "score": 1.97,
+    "items": [
+     {
+      "title": "Spritpreisdeckel: SPD kritisiert Reiches Vorschlag zum Spritpreisdeckel als unzureichend",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/spritpreisdeckel-katherina-reiche-cdu-spd-tankrabatt-gxe",
+      "source": "Zeit",
+      "date": "2026-11-14T11:23+00:00",
+      "teaser": "Katherina Reiches Vorschlag zum Spritpreisdeckel würde aktuell nicht greifen, bemängelt SPD-Fraktionschef Miersch. Er forderte Nachbesserungen bis Mitte Dezember."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Verweigern in der DDR: Frieden in Uniform",
+      "url": "https://www.faz.net/aktuell/politik/inland/bausoldaten-der-ddr-wie-pazifisten-den-kriegsdienst-verweigerten-accg-201340708.html",
+      "source": "FAZ",
+      "date": "2026-11-14T11:16+00:00",
+      "teaser": "In der DDR gab es die Wehrpflicht, aber keinen Zivildienst. Wer verweigerte, sollte als Bausoldat dienen. Das führte zu Konflikten. Zwei Ehemalige erzählen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Ilse Aigner, Angela Merkel, Ursula von der Leyen: Was konservative Frauen besser können – Kolumne",
+      "url": "https://www.spiegel.de/politik/deutschland/ilse-aigner-angela-merkel-ursula-von-der-leyen-was-konservative-frauen-besser-koennen-kolumne-a-5e73c08b-61f5-4cca-aaa4-06d1f74b6d8f#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-13T12:05+01:00",
+      "teaser": "Bundeskanzlerin, Bundespräsidentin, EU-Kommissionschefin: Es ist kein Zufall, dass es immer Frauen aus der Union sind, die es nach ganz oben schaffen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Selenskyj berichtet von US-Vorstoß in Friedensgesprächen",
+      "url": "https://www.zdfheute.de/politik/ausland/nato-mitgliedschaft-usa-ukraine-krieg-russland-100.html",
+      "source": "ZDF",
+      "date": "2026-11-14T12:05+01:00",
+      "teaser": "Gedankenspiel oder konkrete Überlegung? US-Unterhändler sprachen nach Angaben von Präsident Selenskyj über einen Rückzug aus der Region Donbass im Tausch für einen Nato-Beitritt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Papst in Lateinamerika: „Padre Roberto“ ist zurück in Peru",
+      "url": "https://www.sueddeutsche.de/politik/papst-leo-xiv-peru-li.3577629",
+      "source": "Süddeutsche",
+      "date": "2026-11-14T10:57+00:00",
+      "teaser": "Hier war er Missionar und Bischof: Papst Leo XIV. wird in der peruanischen Stadt Chiclayo emotional empfangen. Aber auch ein dunkles Kapitel der Kirche begleitet ihn bis hierher."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Mehr Geld für schnellere und sichere Strafprozesse in BW",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/gruen-schwarz-investiert-in-justiz-102.html",
+      "source": "SWR",
+      "date": "2026-11-14T11:50+01:00",
+      "teaser": "Gerichte und Staatsanwaltschaften in Baden-Württemberg sollen entlastet werden. Geplant sind neue Stellen, mehr Sicherheit und Investitionen in Gefängnisse."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Newsblog zur Bundespolitik: Bericht: Teile der SPD wollen erneute Kandidatur Klingbeils als Parteichef verhindern",
@@ -347,7 +445,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Deutschland Liveblog: Das BSW feiert sich selbst: „Wir haben mehr Macht als manche 40-Prozent-Partei“",
@@ -357,110 +455,19 @@
       "teaser": "Landesparteitag in Sachsen-Anhalt +++ Ökonomen warnen vor schwerer Haushaltskrise ab 2028 +++ CSU zurückhaltend bei Stromsteuersenkung +++ alle Entwicklungen im Liveblog"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "source": "ZDF",
-      "date": "2026-11-14T11:22+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Deutsches Straßenschild mitten in Italien: 1.599 Kilometer nach Fellbach",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/fellbach-schild-italien-cariati-100.html",
-      "source": "SWR",
-      "date": "2026-11-14T11:13+01:00",
-      "teaser": "Cariati ist ein kleiner Ort in der italienischen Region Kalabrien. Er ist etwa für sein historisches Zentrum und die Konkathedrale bekannt - und jetzt auch für ein kurioses Straßenschild."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-14T11:07+01:00",
-      "teaser": "Seit einem Monat ist bundesweit der Konsum von Alkohol an Bahnhöfen untersagt. Die Deutsche Bahn zeigt sich in einer ersten Bilanz zufrieden. Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Ein Wartehäuschen für Katze Cleo",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/katze-wartehaeuschen-bushaltestelle-100.html",
-      "source": "SWR",
-      "date": "2026-11-14T10:47+01:00",
-      "teaser": "Wenn Kleopatra Känzig nach Feierabend per Bus nach Hause kommt, wartet ihre Katze Cleo schon auf sie. Nicht in ihrer Wohnung, sondern im \"Wartehüsli\" direkt an der Bushaltestelle."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Koalitionsausschuss: Am roten Faden nach Berlin",
-      "url": "https://www.faz.net/aktuell/politik/inland/koalitionsausschuss-manuela-schwesig-draengt-es-nicht-nach-berlin-noch-nicht-201680738.html",
-      "source": "FAZ",
-      "date": "2026-11-14T09:38+00:00",
-      "teaser": "Geräuschlos hat Manuela Schwesig eine rot-rot-grüne Koalition geschmiedet. Es drängt sie aber nicht zu mehr Verantwortung – noch nicht."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Precht: Symptome für Krisen waren 2010 \"durchaus zu sehen\"",
-      "url": "https://www.zdfheute.de/video/politik-lanz-precht-krise-100.html",
-      "source": "ZDF",
-      "date": "2026-11-14T10:32+01:00",
-      "teaser": "2010 warnte Richard David Precht vor Gefahren, die Europas Demokratien ins Wanken bringen könnten. Er erklärt, warum die Symptome der heutigen Krisen schon damals sichtbar waren."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Migrantifa: Der Pakt von Neukölln",
-      "url": "https://www.faz.net/aktuell/politik/inland/der-berliner-pakt-zwischen-linksextremen-und-hamas-unterstuetzern-accg-201648148.html",
-      "source": "FAZ",
-      "date": "2026-11-14T09:20+00:00",
-      "teaser": "Der Triumph der Linken bei der Berlin-Wahl war auch Ergebnis eines abenteuerlichen Pakts: extreme Linke und migrantische Islamisten Seit an Seit. Droht ihnen jetzt der jähe Absturz?"
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.9,
     "items": [
      {
       "title": "Zełenski: USA zaoferowały Ukrainie członkostwo w NATO w zamian za wycofanie się z Donbasu",
       "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33131908,zelenski-usa-zaoferowaly-ukrainie-czlonkostwo-w-nato-w-zamian.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "source": "Gazeta Wyborcza",
       "date": "2026-11-14T10:33+00:00",
-      "teaser": "USA po raz pierwszy postawiły przed Ukrainą możliwość przystąpienia do NATO w zamian za wycofanie się z Donbasu - przekazał Wołodymyr Zełenski. - Ukraina omawia z partnerami kompleksowy pakiet gwarancji bezpieczeństwa, nie przedstawiono jednak konkretnej propozycji - dodał prezydent Ukrainy."
+      "teaser": "USA po raz pierwszy postawiły przed Ukrainą możliwość przystąpienia do NATO w zamian za wycofanie się z Donbasu - przekazał Wołodymyr Zełenski. Jeśli strona amerykańska i pozostali partnerzy z NATO potwierdzą taką propozycję, prezydent przedstawi ją ukraińskiemu społeczeństwu. Zaznaczył, że nie może"
      },
      {
       "title": "Ukraina w NATO w zamian za rezygnację z Donbasu. Zełenski o propozycji USA",
@@ -476,17 +483,82 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Jest zarzut dla pracownika TV Republika. Za \"wdarcie się\" do budynku Prokuratury Krajowej",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131835,jest-zarzut-dla-pracownika-tv-republika-za-wdarcie-sie-do.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-14T10:24+00:00",
-      "teaser": "Prokuratura przedstawiła pracownikowi TV Republika Jarosławowi Olechowskiemu zarzut naruszenia miru domowego. Chodzi o wydarzenia z 20 maja, gdy pracownicy stacji wdarli się do budynku Prokuratury Krajowej podczas przesłuchania Tomasza Sakiewicza. Olechowski uważa to za \"represje polityczne\"."
+      "title": "„Slava UPA” na pomniku żołnierzy 1. Armii Wojska Polskiego w Warszawie. Kolejny akt wandalizmu",
+      "url": "https://www.rp.pl/przestepczosc/art45488241-slava-upa-na-pomniku-zolnierzy-1-armii-wojska-polskiego-w-warszawie-kolejny-akt-wandalizmu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T12:26+01:00",
+      "teaser": "Na pomniku upamiętniającym żołnierzy 1. Armii Wojska Polskiego w Warszawie pojawił się napis „Slava UPA”, odwołujący się do Ukraińskiej Powstańczej Armii. To kolejny przypadek dewastacji miejsca pamięci w Polsce. W ostatnich dniach podobne hasła umieszczono na pomnikach w Warszawie, Gdańsku, Gdyni i"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Jędrzej Bielecki: Trump zrozumiał, że potrzebuje Europy. Polska wchodzi do gry",
+      "url": "https://www.rp.pl/komentarze/art45488091-jedrzej-bielecki-trump-zrozumial-ze-potrzebuje-europy-polska-wchodzi-do-gry",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T12:04+01:00",
+      "teaser": "Grupa pięciu najważniejszych krajów europejskich będzie równym partnerem dla USA i Rosji w razie podjęcia prawdziwych negocjacji w sprawie zakończenia ukraińskiej wojny. Wszystko to najwyraźniej dotarło do Pekinu. I słabość Rosji, i schyłek Trumpa, i europejska jedność."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Tajny plan ewakuacji ludności. Ważną rolę mogą odegrać ścieżki rowerowe",
+      "url": "https://www.rp.pl/spoleczenstwo/art45421941-tajny-plan-ewakuacji-ludnosci-wazna-role-moga-odegrac-sciezki-rowerowe",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T12:04+01:00",
+      "teaser": "Czy ewakuacja ludności cywilnej może odbywać się z wykorzystaniem ścieżek rowerowych? Resort infrastruktury uznaje, że mogą ją wspomagać. – To tajemnica – odpowiedziało „Rz” MSWiA. Ekspert tłumaczy, dlaczego tematu ścieżek nie można lekceważyć."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "AI wcale nie głupieje. Naukowcy: To z ludźmi dzieje się coś zaskakującego",
+      "url": "https://cyfrowa.rp.pl/ai/art45480701-ai-wcale-nie-glupieje-naukowcy-to-z-ludzmi-dzieje-sie-cos-zaskakujacego",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T12:04+01:00",
+      "teaser": "Coraz więcej użytkowników narzeka, że popularne chatboty stają się leniwe i udzielają gorszych odpowiedzi. Czy dostawcy po cichu tną koszty mocy obliczeniowej? Badacze wzięli temat pod lupę."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Paweł Rubcow wystąpił z Hiszpanem werbującym ludzi dla Rosji. Ujawniono sieć rekrutacji",
+      "url": "https://www.rp.pl/przestepczosc/art45488201-pawel-rubcow-wystapil-z-hiszpanem-werbujacym-ludzi-dla-rosji-ujawniono-siec-rekrutacji",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T12:03+01:00",
+      "teaser": "Paweł Rubcow, oskarżony w Polsce o szpiegostwo na rzecz rosyjskiego wywiadu wojskowego GRU, wystąpił w internetowej transmisji wspólnie z Hiszpanem poszukiwanym przez europejskie służby. Enrique Arias Gil, ukrywający się w Rosji, prowadzi kanały internetowe służące do werbowania ochotników do rosyjs"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Niemcy o krok od rekordu. 25 proc. prądu ze słońca.",
+      "url": "https://www.dw.com/pl/niemcy-o-krok-od-rekordu-25-proc-prądu-ze-słońca/a-79947490?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-14T10:50+00:00",
+      "teaser": "Produkcja energii słonecznej w Niemczech znów wzrosła i zmierza po nowy rekord."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "Po zakłóceniach w ruchu lotniczym w USA część rejsów LOT-u opóźniona",
@@ -499,7 +571,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "Jest zarzut dla pracownika TV Republika. Za \"wdarcie się\" do budynku Prokuratury Krajowej",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131835,jest-zarzut-dla-pracownika-tv-republika-za-wdarcie-sie-do.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-14T10:24+00:00",
+      "teaser": "Prokuratura przedstawiła pracownikowi TV Republika Jarosławowi Olechowskiemu zarzut naruszenia miru domowego. Chodzi o wydarzenia z 20 maja, gdy pracownicy stacji wdarli się do budynku Prokuratury Krajowej podczas przesłuchania Tomasza Sakiewicza. Olechowski uważa to za \"represje polityczne\"."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
     "items": [
      {
       "title": "Włodzimierz Czarzasty zawiesił polityka Lewicy. Piotr Kusznieruk może zostać wyrzucony z partii",
@@ -512,7 +597,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Hall: Nawrocki i Tusk mają skłonność do pokazywania, kto jest „królem podwórka”",
@@ -525,7 +610,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Papierosy na wojnie",
@@ -535,90 +620,12 @@
       "teaser": ""
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Paweł Rożyński: Kolejna pułapka na prezydenta? Weto, które może pomóc rządowi",
-      "url": "https://www.rp.pl/komentarze/art45487811-pawel-rozynski-kolejna-pulapka-na-prezydenta-weto-ktore-moze-pomoc-rzadowi",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T10:55+01:00",
-      "teaser": "Prezydent Karol Nawrocki znów powiedział rządowi „nie”. Problem w tym, że jego weto wobec ustawy o zwalczaniu nielegalnych treści w internecie może okazać się dla koalicji kolejnym po bitwie o CPN politycznym prezentem."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Rewolucja w prawie łowieckim trafi do Sejmu. Myśliwi przeciwni zmianom",
-      "url": "https://www.rp.pl/akty-prawne/art45488101-rewolucja-w-prawie-lowieckim-trafi-do-sejmu-mysliwi-przeciwni-zmianom",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T10:12+01:00",
-      "teaser": "Zakaz polowań z nagonką, obowiązkowe badania psychologiczne myśliwych i większa odległość strzałów od domów – to niektóre propozycje obywatelskiego projektu zmian w Prawie łowieckim. Pod inicjatywą podpisało się ponad 204 tys. osób, jednak większość uczestników konsultacji społecznych opowiedziała s"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Prof. Waldemar Karpa: Dlaczego po 36 latach obrońcy Balcerowicza wciąż nie potrafią przyznać się do błędów?",
-      "url": "https://www.rp.pl/publicystyka/art45478481-prof-waldemar-karpa-dlaczego-po-36-latach-obroncy-balcerowicza-wciaz-nie-potrafia-przyznac-sie-do-bledow",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T10:00+01:00",
-      "teaser": "Marcin Zieliński z FOR pyta, o co naprawdę chodzi profesorowi Kołodce, gdy ten krytykuje Leszka Balcerowicza. Odpowiem pytaniem, które wydaje mi się ważniejsze: dlaczego po 36 latach wciąż tak trudno przyznać, że to się udało, a tamto było błędem? – zastanawia się prof. Waldemar Karpa z Akademii Leo"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Oddałeś mieszkanie za długi? Będzie przychód i podatek",
-      "url": "https://www.rp.pl/podatki/art45485321-oddales-mieszkanie-za-dlugi-bedzie-przychod-i-podatek",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T10:00+01:00",
-      "teaser": "Jeśli właściciel nieruchomości przeniesie ją na wierzyciela w zamian za zwolnienie z długu, uzyska przychód, który musi rozliczyć w zeznaniu rocznym. Taka nowość ma trafić do ustawy o PIT."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Niemiecka prasa: Putin chce spełnić marzenie Stalina",
-      "url": "https://www.dw.com/pl/niemiecka-prasa-putin-chce-spełnić-marzenie-stalina/a-79947119?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-14T08:59+00:00",
-      "teaser": "„Putin marzy o tym samym co Stalin” – pisze „Die Welt”. I ostrzega, że pokój na jego warunkach byłby kapitulacją Europy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Microsoft przywrócił wszystkie usługi po globalnej awarii. Problemy były w 74 krajach",
-      "url": "https://cyfrowa.rp.pl/technologie/art45488051-microsoft-przywrocil-wszystkie-uslugi-po-globalnej-awarii-problemy-byly-w-74-krajach",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T09:44+01:00",
-      "teaser": "Microsoft poinformował w sobotę rano o całkowitym przywróceniu działania swoich usług po globalnej awarii, która sparaliżowała pracę firm i instytucji w co najmniej 74 krajach. Problemy dotyczyły m.in. poczty Outlook, komunikatora Teams, pakietu Microsoft 365 i narzędzi sztucznej inteligencji Copilo"
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 4.78,
+    "score": 4.7,
     "items": [
      {
       "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
@@ -645,7 +652,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.88,
     "items": [
      {
       "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
@@ -665,7 +672,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.85,
     "items": [
      {
       "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
@@ -685,7 +692,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.66,
+    "score": 3.58,
     "items": [
      {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
@@ -705,7 +712,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.43,
+    "score": 2.35,
     "items": [
      {
       "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
@@ -725,53 +732,27 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.97,
     "items": [
      {
-      "title": "+++ Ukraine-Krieg +++: USA schlagen laut Selnskyj Donbass-Rückzug gegen Nato-Beitritt vor",
-      "url": "https://www.handelsblatt.com/politik/international/ukraine-usa-schlagen-laut-selnskyj-donbass-rueckzug-gegen-nato-beitritt-vor/27982126.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-14T10:17+00:00",
-      "teaser": "Russland: Haben ukrainischen Orts Tersjanka eingenommen +++ Starlink-Störungen: Senatoren fordern Unterlagen von Musk +++ Dreiertreffen Trumps mit Xi und Putin angekündigt +++ Der Newsblog."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Letzter Ausweg Untermiete: Wie ein Gast in den eigenen vier Wänden",
-      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/untermiete-wie-ein-gast-in-den-eigenen-vier-waenden-accg-201281255.html",
+      "title": "Bundespräsidentin in spe: Die Mutter des bayerischen Start-up-Wunders",
+      "url": "https://www.faz.net/aktuell/wirtschaft/ilse-aigner-die-mutter-des-bayerischen-start-up-wunders-accg-201669728.html",
       "source": "FAZ",
-      "date": "2026-11-14T10:17+00:00",
-      "teaser": "Schmutz, Rauch, fehlende Privatsphäre: Weil sie kein Zimmer finden, wohnen junge Menschen oft zeitweise zur Untermiete. Doch die wird bisweilen zur Belastungsprobe, wie zwei junge Frauen berichten."
+      "date": "2026-11-14T11:25+00:00",
+      "teaser": "Im Januar könnte Ilse Aigner Bundespräsidentin werden. Als Wirtschaftsministerin hat sie viel erreicht."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.97,
     "items": [
      {
-      "title": "Immobilien: Bis zu 135 Jahre Preisvorteil – wo sich ein Immobilienkauf rund um Düsseldorf für Pendler lohnt",
-      "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wo-sich-ein-immobilienkauf-rund-um-duesseldorf-fuer-pendler-lohnt/100266843.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-14T10:14+00:00",
-      "teaser": "Die NRW-Landeshauptstadt gilt als eine der teuersten Metropolen Deutschlands. Eine exklusive Auswertung zeigt, welche umliegenden Städte für Pendler besonders attraktiv sind."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "This Man Stole $9 Million in Gold Bars on the Upper West Side, Police Say",
-      "url": "https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html",
-      "source": "New York Times",
-      "date": "2026-11-14T10:02+00:00",
-      "teaser": "The victim, who believed his financial assets had been compromised, was the target of an online fraud scheme and believed he had to buy the precious metal, the authorities said."
+      "title": "Reformen: Die Macht aus Bayern",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/csu-bestimmt-berliner-sozialpolitik-wie-markus-soeder-die-koalition-lenkt-accg-201678995.html",
+      "source": "FAZ",
+      "date": "2026-11-14T11:24+00:00",
+      "teaser": "Über die Wirtschafts- und Sozialpolitik der Regierung bestimmt in weiten Teilen die CSU. Der Unmut über den kleinsten Koalitionspartner wächst."
      }
     ]
    },
@@ -780,11 +761,11 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Reederei MSC steht vor Kauf der Meyer Werft",
-      "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-14T10:56+01:00",
-      "teaser": "Die letzte bedeutende deutsche Kreuzfahrtschiffwerft geht wohl an die weltgrößte Reederei: Der Bund will dem Konzern MSC ein Kaufrecht auf die Meyer Werft einräumen. Kommende Woche soll der Vertrag unterzeichnet werden."
+      "title": "Argentina’s Milei clashes with his government’s most popular leader",
+      "url": "https://www.ft.com/content/eb3613fa-81ec-4cad-884d-39a20400e147?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-14T11:00+00:00",
+      "teaser": "Tensions between the libertarian president and his senate chief test rightwing unity ahead of 2027 elections"
      }
     ]
    },
@@ -793,11 +774,11 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Guardian to follow lives of eight young people in their search for work",
-      "url": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
-      "source": "The Guardian",
-      "date": "2026-11-14T10:00+00:00",
-      "teaser": "How long will it take? What challenges will they face? Series to shine light on one of biggest crises facing UK ‘The social contract is broken’: young people on feeling shut out of careers Britain is at risk of creating a lost generation. Across the country, almost a million young people – one in ei"
+      "title": "Europe Express: opening a security can of worms",
+      "url": "https://www.ft.com/content/4f951f7e-5ea7-41bf-91f0-d550f2231a33?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-14T11:00+00:00",
+      "teaser": "Initiating a discussion about changing Nato before a ceasefire in Ukraine gives Moscow additional leverage"
      }
     ]
    },
@@ -806,11 +787,37 @@
     "score": 1.93,
     "items": [
      {
-      "title": "He Was China’s Man in Panama. Then He Became a Wanted Man.",
-      "url": "https://www.nytimes.com/2026/11/14/business/zhang-liang-china-panama.html",
-      "source": "New York Times",
-      "date": "2026-11-14T10:00+00:00",
-      "teaser": "A Chinese businessman arrived in Panama with money and power. Then he sold a port when his luck turned. Now China wants him sent back."
+      "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+      "url": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-14T11:00+00:00",
+      "teaser": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Germany suffers setback in joining fighter jet project",
+      "url": "https://www.ft.com/content/3ba2bcd1-b80c-48a2-91c7-35f25366f8aa?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-14T10:52+00:00",
+      "teaser": "Rome rejects push to explore inviting Berlin to enter UK-Japan-Italy next-generation aircraft programme as equal partner"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "Chart of the Week: The great market rotation",
+      "url": "https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-14T10:30+00:00",
+      "teaser": "Defensive sectors are the new winners"
      }
     ]
    }
@@ -818,7 +825,35 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.9399999999999995,
+    "score": 7.95,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Jordi Masip ya trabaja en el Barça como técnico de porteros",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250895/jordi-masip-trabaja-barca-tecnico-porteros.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-14T12:11+01:00",
+      "teaser": "Jordi Masip ha regresado al Barça , al fútbol formativo. El ex portero del primer equipo azulgrana ha dejado el CE Mercantil, donde estaba trabajando hasta ahora en el Juvenil A y en el que se formó en su etapa de jugador, para hacerse cargo de los entrenamientos de los metas de los equipos Cadete a"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.95,
+    "favorite": true,
+    "items": [
+     {
+      "title": "La 'máquina oranje' desata la Xavimanía y aplaude el retorno de Frenkie",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250888/maquina-oranje-desata-xavimania-aplaude-retorno-jong.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-14T12:09+01:00",
+      "teaser": "La selección neerlandesa se empieza a parecer a la Holanda de siempre. Xavi Hernández , ex futbolista y ex entrenador del Barça, está obteniendo en las pocas semanas que lleva como seleccionador 'oranje' el aplauso general de la opinión pública y publicada en Países Bajos, con esa impresionante gole"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.86,
     "favorite": true,
     "items": [
      {
@@ -831,36 +866,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.93,
-    "favorite": true,
-    "items": [
-     {
-      "title": "La confesión de Mikautadze sobre el Barça: \"Es el club de mi corazón\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250869/confesion-mikautadze-sobre-barca-club-mi-corazon.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-14T11:01+01:00",
-      "teaser": "Georges Mikautadze (26) ha vuelto a dejar patente su admiración por el Barça . El delantero georgiano del Villarreal , próximo rival en LaLiga , no ha ocultado que el azulgrana es el equipo de su vida. En unas declaraciones difundidas hoy sábado 14 de noviembre por DAZN, a escasos días del partido d"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.91,
-    "favorite": true,
-    "items": [
-     {
-      "title": "\"Lamine Yamal es un genio y lo que le hace más especial es su madurez\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250870/lamine-yamal-genio-le-especial-madurez.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-14T10:42+01:00",
-      "teaser": "El diario neerlendés 'De Telegraaf' ha publicado una entrevista a Joan Laporta , presidente del FC Barcelona, que se encuentra actualmente en Nueva York para participar en los actos del III memorial Johan Cruyff, que se celebra este sábado en la ciudad estadounidense. El Memorial, que en sus anterio"
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.68,
+    "sourceCount": 4,
+    "score": 7.84,
     "items": [
      {
       "title": "Nations League: Deutschland gewinnt in Serbien – Brajan Gruda trifft bei Debüt",
@@ -870,24 +877,24 @@
       "teaser": "In Belgrad spielt Jürgen Klopps DFB-Team Serbien an die Wand, bis der Regen zu stark wird. Brajan Gruda dribbelt wie ein Großer. In der Nations League verdient sich Deutschland so ein Endspiel gegen die Niederlande."
      },
      {
+      "title": "Tor von DFB-Debütant: Brajan Gruda und die Premiere mit Pointe",
+      "url": "https://www.faz.net/aktuell/sport/fussball/brajan-gruda-tor-bei-dfb-team-debuet-bei-3-1-sieg-in-serbien-accg-201682891.html",
+      "source": "FAZ",
+      "date": "2026-11-14T09:48+00:00",
+      "teaser": "Im ersten Länderspiel gelingt Brajan Gruda nach einem Solo über den halben Platz gleich sein erstes Tor. Sein Debüt beim deutschen 3:1-Sieg steht für mehrere Dinge – aber auch für einen Vorbehalt."
+     },
+     {
       "title": "Nations League, 5. Spieltag: Deutschland schlägt Serbien",
       "url": "https://www.zeit.de/sport/2026-11/nations-league-deutschland-serbien-klopp",
       "source": "Zeit",
       "date": "2026-11-13T21:51+00:00",
       "teaser": "Deutschland besiegt Serbien in der Nations League. Die DFB-Elf geht früh durch ein Eigentor in Führung, nach zwei Roten Karten spielt sie in Überzahl. Der Spielbericht"
-     },
-     {
-      "title": "Nations League: Serbien vs. Deutschland im Liveticker – Gruda, muss los!",
-      "url": "https://www.11freunde.de/em/nations-league-serbien-vs-deutschland-im-liveticker-belgradmesser-a-e33a4a89-babd-44ec-a278-ab84d85d4faf#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-13T20:30+01:00",
-      "teaser": "Auch dank eines bestens aufgelegten Debütanten gewinnt Deutschland ohne große Mühen mit 3:1 in Serbien. Macht zeitig Feierabend: der Ticker."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 4.34,
+    "score": 4.26,
     "items": [
      {
       "title": "Rheinmetall: Borussia Dortmund beendet umstrittene Partnerschaft",
@@ -914,27 +921,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
-    "items": [
-     {
-      "title": "Tor von DFB-Debütant: Brajan Gruda und die Premiere mit Pointe",
-      "url": "https://www.faz.net/aktuell/sport/fussball/brajan-gruda-tor-bei-dfb-team-debuet-bei-3-1-sieg-in-serbien-accg-201682891.html",
-      "source": "FAZ",
-      "date": "2026-11-14T09:48+00:00",
-      "teaser": "Im ersten Länderspiel gelingt Brajan Gruda nach einem Solo über den halben Platz gleich sein erstes Tor. Sein Debüt beim deutschen 3:1-Sieg steht für mehrere Dinge – aber auch für einen Vorbehalt."
-     },
-     {
-      "title": "DFB-Sieg über Serbien: Debütant Brajan Gruda ist der Gewinner des Abends",
-      "url": "https://www.spiegel.de/sport/fussball/dfb-sieg-ueber-serbien-debuetant-brajan-gruda-ist-der-gewinner-des-abends-a-8511b7bc-e807-44b9-b96d-247c854d6716#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-14T10:24+01:00",
-      "teaser": "Am Ende des Abends redeten alle über ihn: Debütant Brajan Gruda setzte beim Sieg über Serbien die Glanzpunkte. Für Bundestrainer Jürgen Klopp war es aber eher ein Anlass, die Euphorie zu dämpfen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.8,
     "items": [
      {
       "title": "Nach Sieg gegen Serbien: Deutschland bei EM-Auslosung in Topf 1",
@@ -954,7 +941,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.93,
+    "score": 2.85,
     "items": [
      {
       "title": "Tod von De Miguel: Zwölf Spiele Sperre für Torhüter Owono",
@@ -974,7 +961,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.51,
+    "score": 2.43,
     "items": [
      {
       "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
@@ -997,37 +984,50 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Fußball-Liveblog: 7:0 – Niederlande begeistert von „Monstersieg“ vor DFB-Duell",
-      "url": "https://www.faz.net/aktuell/sport/fussball/liveticker-nationalmannschaft-niederlande-nach-7-0-heiss-auf-dfb-team-faz-201651368.html",
-      "source": "FAZ",
-      "date": "2026-11-14T10:41+00:00",
-      "teaser": "Verfolgen Sie die Fußball-Nationalmannschaft von Jürgen Klopp und Spiele der UEFA Nations League ▷ Alle aktuellen Ergebnisse im Liveblog!"
+      "title": "Quarshie, Damar und die Hoffenheim-Connection",
+      "url": "https://www.kicker.de/quarshie-damar-und-die-hoffenheim-connection-1271463/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-14T11:37+00:00",
+      "teaser": "Das Testspiel der deutschen U-21-Nationalmannschaft gegen Belgien (1:2) wurde von einer wohl einmaligen personellen Konstellation und speziell von aktuellen oder früheren Akteuren der TSG Hoffenheim maßgeblich geprägt."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "S-Bahn-Derby: 1860 München empfängt kriselnde Hachinger",
+      "url": "https://www.kicker.de/s-bahn-derby-1860-muenchen-empfaengt-kriselnde-hachinger-1238049/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-14T11:33+00:00",
+      "teaser": "Der 19. Spieltag der Regionalliga Bayern hat am Samstag mit dem S-Bahn-Derby ein Schmankerl zu bieten. Außerdem rollt der Ball in Augsburg, Burghausen, Eichstätt und Aubstadt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Klos und Stucki sagen ab: Wenig Mittel auf der Suche nach neuem 96-Sportdirektor",
+      "url": "https://www.kicker.de/klos-und-stucki-sagen-ab-wenig-mittel-auf-der-suche-nach-neuem-96-sportdirektor-1271498/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-14T11:32+00:00",
+      "teaser": "Bei Hannover 96 zieht Martin Kind wieder selbst die Fäden. Noch hat seine Suche nach einem neuen Sportdirektor trotz guter Bewerberlage kein Ergebnis hervorgebracht. Das mag auch daran liegen, dass die Gemengelage nicht einfach ist."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
     "items": [
      {
       "title": "Pochettino to Manchester United latest, WSL and Nations League buildup – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/14/pochettino-to-manchester-united-latest-wsl-and-nations-league-buildup-matchday-live",
       "source": "The Guardian",
-      "date": "2026-11-14T10:42+00:00",
+      "date": "2026-11-14T11:30+00:00",
       "teaser": "All the latest news from around the footballing world Get in touch: contact our matchday live writers on email Among the 20 managers with more than 290 matches in the Premier League, only the five “big beasts” of Alex Ferguson, Arsène Wenger, José Mourinho, Jürgen Klopp and Pep Guardiola have better"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Muskulärer Schaden? Davies verlässt Kanada und fliegt zurück nach München",
-      "url": "https://www.kicker.de/muskulaerer-schaden-davies-verlaesst-kanada-und-fliegt-zurueck-nach-muenchen-1271491/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-14T10:19+00:00",
-      "teaser": "Der FC Bayern bangt mal wieder um Alphonso Davies. Nach seiner Verletzung bei der kanadischen Nationalmannschaft reist der Linksverteidiger nach kicker-Informationen direkt zurück nach München."
      }
     ]
    }
@@ -1035,7 +1035,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.66,
+    "score": 3.58,
     "items": [
      {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
@@ -1055,7 +1055,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.26,
+    "score": 3.18,
     "items": [
      {
       "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
@@ -1075,7 +1075,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.02,
+    "score": 2.94,
     "items": [
      {
       "title": "Jensen Huang was reckless with the environment, too",
@@ -1094,8 +1094,119 @@
     ]
    },
    {
+    "sourceCount": 2,
+    "score": 2.53,
+    "items": [
+     {
+      "title": "Microsoft’s massive Outlook outage might be over",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "source": "The Verge",
+      "date": "2026-11-13T11:17-05:00",
+      "teaser": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (including Verge staffers) reported that access to their emails had been "
+     },
+     {
+      "title": "Microsoft Says Outage Disrupting Outlook Is Improving",
+      "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+      "source": "New York Times",
+      "date": "2026-11-13T18:05+00:00",
+      "teaser": "Health services, schools, police departments and companies worldwide reported disruptions to their work. The cause was unclear, though Microsoft appeared to rule out a cyberattack."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
     "score": 1.98,
+    "items": [
+     {
+      "title": "GTA 6: Warum jetzt alle Urlaub nehmen wollen",
+      "url": "https://www.golem.de/news/gta-6-warum-jetzt-alle-urlaub-nehmen-wollen-2611-215221.html",
+      "source": "Golem",
+      "date": "2026-11-14T12:35+01:00",
+      "teaser": "Weltweit reichen Beschäftigte überdurchschnittlich viele Urlaubsanträge ein, nur um den Release von Grand Theft Auto VI nicht zu verpassen. ( GTA 6 , Arbeit )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Geheime Botschaften: Warum Bilder eine Sicherheitslücke für KI sind",
+      "url": "https://t3n.de/news/ki-geheime-bildbotschaften-sicherheitsluecke-1769790/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-14T12:35+01:00",
+      "teaser": "Forscher:innen haben untersucht, wie KI-Modelle geheime Botschaften in Bildern verstecken und ob sie diese wieder entschlüsseln können. Obwohl die KI keine neuen Methoden erfand, könnten die Erkenntnisse für die KI-Sicherheit von Belang sein. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+      "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+      "source": "Wired",
+      "date": "2026-11-14T11:30+00:00",
+      "teaser": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
+      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
+      "source": "Wired",
+      "date": "2026-11-14T11:30+00:00",
+      "teaser": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Dein digitales Psychogramm: Was ChatGPT wirklich über dich weiß",
+      "url": "https://t3n.de/news/chatgpt-datenschutz-psychologische-profile-studie-1769797/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-14T12:05+01:00",
+      "teaser": "Wer regelmäßig mit KI-Chatbots arbeitet, gibt im Laufe der Monate beiläufig viele Details aus dem eigenen Alltag preis. Was im Hintergrund mit diesen vertraulichen Eingaben geschieht, folgt jedoch einer eigenen Logik, die den wenigsten bekannt sein dürfte. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Kommunikationsprobleme: Mehr als 10.000 Flugausfälle nach Technikpanne in den USA",
+      "url": "https://www.golem.de/news/kommunikationsprobleme-mehr-als-10-000-flugausfaelle-nach-technikpanne-in-den-usa-2611-215220.html",
+      "source": "Golem",
+      "date": "2026-11-14T11:56+01:00",
+      "teaser": "Erst vor wenigen Tagen hat die US-Flugsicherung die Ausmusterung von Disketten angekündigt. Doch die alten und neuen Systeme harmonieren noch nicht. ( Flugzeug , Luftfahrt )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "source": "Wired",
+      "date": "2026-11-14T11:00+00:00",
+      "teaser": "Normally, aviation is slow to embrace new technology—but AI has come for the skies."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
@@ -1103,110 +1214,6 @@
       "source": "Wired",
       "date": "2026-11-14T10:37+00:00",
       "teaser": "Paddles are getting more sophisticated and expensive. We’ve tested 100+ over the years to find our favorites."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
-      "url": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
-      "source": "Wired",
-      "date": "2026-11-14T10:30+00:00",
-      "teaser": "As Israeli restrictions limit repairs in Gaza, fuel is being diverted from wells to drainage pumps."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "SpaceX: Starship startet erneut ohne Landung des Boosters",
-      "url": "https://www.golem.de/news/spacex-starship-startet-erneut-ohne-landung-des-boosters-2611-215218.html",
-      "source": "Golem",
-      "date": "2026-11-14T11:10+01:00",
-      "teaser": "Auch beim Flug 15 scheitert die Wiederverwendung des Starship-Systems. Wieder wurde der Booster vorzeitig gesprengt. Von Frank Wunderlich-Pfeiffer ( Starship , Raumfahrt )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket",
-      "url": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/",
-      "source": "Wired",
-      "date": "2026-11-14T10:15+00:00",
-      "teaser": "The signature moto jacket has officially worn out its welcome. Here’s how fashion’s pros would rebrand him."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
-      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
-      "source": "New York Times",
-      "date": "2026-11-14T10:02+00:00",
-      "teaser": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
-      "url": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
-      "source": "Wired",
-      "date": "2026-11-14T10:00+00:00",
-      "teaser": "Here’s how to get your bird and all the trimmings on a budget."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
-      "url": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
-      "source": "Wired",
-      "date": "2026-11-14T10:00+00:00",
-      "teaser": "The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Trotz Exportverbot: Hatten chinesische KI-Labore Zugriff auf Nvidia-Chips?",
-      "url": "https://t3n.de/news/trotz-exportverbot-hatten-chinesische-ki-labore-zugriff-auf-nvidia-chips-1773577/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-14T10:54+01:00",
-      "teaser": "Eigentlich unterlagen die leistungsstarken Chips strengen Exportkontrollen. Trotzdem soll es einigen Konkurrenten aus China, darunter Moonshot AI, gelungen sein, ihre KI-Modelle auf Nvidia-GPUs zu trainieren. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html",
-      "source": "Golem",
-      "date": "2026-11-14T10:45+01:00",
-      "teaser": "Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. ( Cybercab , Elektroauto )"
      }
     ]
    }
