@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-14T07:05:49+00:00",
+ "fetchedAt": "2026-11-14T08:08:19+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.68,
+    "score": 7.98,
     "items": [
      {
       "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
@@ -24,14 +24,14 @@
       "title": "Dreiergipfel in China: USA kündigen Dreiertreffen von Trump mit Xi und Putin an",
       "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-xi-jinping-wladimir-putin-china-apec-gipfel-atomwaffen",
       "source": "Zeit",
-      "date": "2026-11-14T02:22+00:00",
-      "teaser": "Donald Trump will sich erstmals zu einem Dreiergespräch mit Xi Jinping und Wladimir Putin treffen. Es soll in dem Gespräch unter anderem um Atomwaffenbestände gehen."
+      "date": "2026-11-14T07:50+00:00",
+      "teaser": "Donald Trump will sich am Donnerstag erstmals zu einem Dreiergespräch mit Xi Jinping und Wladimir Putin treffen. Dabei soll es unter anderem um Atomwaffenbestände gehen."
      }
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.88,
+    "sourceCount": 4,
+    "score": 7.96,
     "items": [
      {
       "title": "US flights resume after nationwide ground stop lifted",
@@ -41,51 +41,78 @@
       "teaser": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now \"opened up,\" and blamed \"old hardwar"
      },
      {
-      "title": "FAA orders nationwide ground stop for all US flight departures",
-      "url": "https://kyivindependent.com/faa-orders-nationwide-ground-stop-for-all-us-flight-departures/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-13T22:14+00:00",
-      "teaser": "The grounding was the first nationwide flight stoppage since January 2023, when an FAA computer system malfunctioned. Before that, the last nationwide grounding followed the terrorist attacks of Sept. 11, 2001."
+      "title": "What to Know About Friday’s Nationwide Ground Stop",
+      "url": "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-14T06:54+00:00",
+      "teaser": "The air traffic control system’s overloaded, antiquated telecommunications equipment sustained its latest widespread failure, prompting a call for more money to fuel faster upgrades."
      },
      {
-      "title": "US lifts ground stop, but passengers face second day of flight disruption",
-      "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-14T05:42+00:00",
-      "teaser": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays."
+      "title": "What we know so far about why US flights were grounded",
+      "url": "https://www.abc.net.au/news/2026-11-14/what-we-know-about-the-us-flight-groundstop/107385910",
+      "source": "ABC Australia",
+      "date": "2026-11-14T03:12+00:00",
+      "teaser": "Aviation authorities cited \"extraordinary circumstances and reasons of safety\", with the White House blaming outdated air traffic control technology for a communications outage."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.87,
+    "score": 5.88,
     "items": [
      {
-      "title": "Musk ordered to preserve records on Ukraine’s Starlink access by Democratic US senators",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374425/musk-ordered-preserve-records-ukraines-starlink-access-democratic-us-senators",
-      "source": "South China Morning Post",
-      "date": "2026-11-14T05:31+00:00",
-      "teaser": "Democratic US senators have told Elon Musk to preserve all records related to his company SpaceX’s restrictions on Ukraine’s use of its Starlink and Starshield satellite services. Ukrainian forces say Starshield, the military-grade version of ‌Starlink, is vital for frontline communications and dron"
+      "title": "Microsoft says all services 'fully recovered' after global outage",
+      "url": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
+      "source": "France 24",
+      "date": "2026-11-14T06:07+00:00",
+      "teaser": "The tech giant confirmed on Saturday morning that all services have recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed ther"
      },
      {
-      "title": "US Democrats direct Musk to preserve records on Ukraine's Starlink restriction, WSJ reports",
-      "url": "https://kyivindependent.com/us-democrats-direct-musk-to-preserve-records-on-ukraines-starlink-restriction-wsj-reports/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-14T04:51+00:00",
-      "teaser": "\"The October and November restrictions now raise the disturbing possibility that these vulnerabilities persist even within systems on which the U.S. government relies,\" Senators Jeanne Shaheen and Chris Coons wrote."
+      "title": "What to know about Microsoft's outage and why it takes so long to restore email services",
+      "url": "https://www.pbs.org/newshour/science/what-to-know-about-microsofts-outage-and-why-it-takes-so-long-to-restore-email-services",
+      "source": "PBS NewsHour",
+      "date": "2026-11-13T18:33-05:00",
+      "teaser": "Unlike modern web apps or authentication gatekeepers, email wasn't designed to fail fast, meaning to immediately halt when a problem arises."
      },
      {
-      "title": "Democratic U.S. senators order Musk to preserve records on Ukraine Starlink access",
-      "url": "https://www.thehindu.com/news/international/democratic-us-senators-order-musk-to-preserve-records-on-ukraine-starlink-access/article71700765.ece",
-      "source": "The Hindu",
-      "date": "2026-11-14T08:54+05:30",
-      "teaser": "Ukrainian forces say Starshield, the military-grade version of Starlink, is vital for frontline communications and ‌drone operations in their defense against Russian drone and missile attacks"
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-14T06:42+00:00",
+      "teaser": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.84,
+    "score": 5.81,
+    "items": [
+     {
+      "title": "Historic first summit for Trump, Xi, Putin will not focus on Ukraine, White House says",
+      "url": "https://kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-14T02:04+00:00",
+      "teaser": "A U.S. official said that a trilateral meeting has been planned, but will focus on nuclear non-proliferation and the war in Iran."
+     },
+     {
+      "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
+      "url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
+      "source": "The Hindu",
+      "date": "2026-11-14T09:59+05:30",
+      "teaser": "For the Kremlin, the planned trilateral meeting is a coveted chance to posture as a superpower on par with Washington and Beijing"
+     },
+     {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-14T05:52+00:00",
+      "teaser": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.76,
     "items": [
      {
       "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
@@ -112,127 +139,47 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.99,
     "items": [
      {
-      "title": "What to Know About Friday’s Nationwide Ground Stop",
-      "url": "https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-14T06:54+00:00",
-      "teaser": "The air traffic control system’s overloaded, antiquated telecommunications equipment sustained its latest widespread failure, prompting a call for more money to fuel faster upgrades."
+      "title": "News kompakt: Landesweites Startverbot an US-Flughäfen aufgehoben",
+      "url": "https://www.dw.com/de/news-kompakt-landesweites-startverbot-an-us-flughäfen-aufgehoben/a-79946821?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-14T08:00+00:00",
+      "teaser": "Wegen technischer Probleme stoppt die US-Luftfahrtbehörde alle Starts an Flughäfen im Land. US-Präsident Trump plant einen historischen Dreiergipfel mit den Staatschefs Putin und Xi. Der DW-Nachrichtenüberblick."
      },
      {
-      "title": "What we know about the longest ground stop since 9/11",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-14T03:45+00:00",
-      "teaser": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage."
+      "title": "FAA hebt Startverbot an US-Flughäfen wieder auf",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-flugstopp-ende-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-14T03:36+01:00",
+      "teaser": "Nach mehreren Stunden läuft der Flugverkehr in den USA wieder an. Die Luftfahrtbehörde hob das zuvor verhängte Startverbot auf. US-Verkehrsminister Duffy nannte überlastete Kommunikationssysteme als Ursache."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.78,
     "items": [
      {
-      "title": "What to know about Microsoft's outage and why it takes so long to restore email services",
-      "url": "https://www.pbs.org/newshour/science/what-to-know-about-microsofts-outage-and-why-it-takes-so-long-to-restore-email-services",
-      "source": "PBS NewsHour",
-      "date": "2026-11-13T18:33-05:00",
-      "teaser": "Unlike modern web apps or authentication gatekeepers, email wasn't designed to fail fast, meaning to immediately halt when a problem arises."
+      "title": "Musk ordered to preserve records on Ukraine’s Starlink access by Democratic US senators",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374425/musk-ordered-preserve-records-ukraines-starlink-access-democratic-us-senators",
+      "source": "South China Morning Post",
+      "date": "2026-11-14T05:31+00:00",
+      "teaser": "Democratic US senators have told Elon Musk to preserve all records related to his company SpaceX’s restrictions on Ukraine’s use of its Starlink and Starshield satellite services. Ukrainian forces say Starshield, the military-grade version of ‌Starlink, is vital for frontline communications and dron"
      },
      {
-      "title": "Microsoft says services fully restored after for day-long global outage",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-14T06:42+00:00",
-      "teaser": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.9,
-    "items": [
-     {
-      "title": "Trump, Xi and Putin plan unprecedented joint meeting on sidelines of APEC in China: officials",
-      "url": "https://www.thehindu.com/news/international/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-apec-summit-china/article71700699.ece",
-      "source": "The Hindu",
-      "date": "2026-11-14T09:59+05:30",
-      "teaser": "For the Kremlin, the planned trilateral meeting is a coveted chance to posture as a superpower on par with Washington and Beijing"
-     },
-     {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-14T05:52+00:00",
-      "teaser": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.82,
-    "items": [
-     {
-      "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
-      "source": "The Guardian",
-      "date": "2026-11-14T04:56+00:00",
-      "teaser": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from Sydney airport were grounded or delayed on Saturday after American authorities halted "
-     },
-     {
-      "title": "What we know so far about why US flights were grounded",
-      "url": "https://www.abc.net.au/news/2026-11-14/what-we-know-about-the-us-flight-groundstop/107385910",
-      "source": "ABC Australia",
-      "date": "2026-11-14T03:12+00:00",
-      "teaser": "Aviation authorities cited \"extraordinary circumstances and reasons of safety\", with the White House blaming outdated air traffic control technology for a communications outage."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.82,
-    "items": [
-     {
-      "title": "Historic first summit for Trump, Xi, Putin will not focus on Ukraine, White House says",
-      "url": "https://kyivindependent.com/historic-first-summit-among-trump-xi-putin-will-not-focus-on-ukraine-white-house-says/",
+      "title": "US Democrats direct Musk to preserve records on Ukraine's Starlink restriction, WSJ reports",
+      "url": "https://kyivindependent.com/us-democrats-direct-musk-to-preserve-records-on-ukraines-starlink-restriction-wsj-reports/",
       "source": "Kyiv Independent",
-      "date": "2026-11-14T02:04+00:00",
-      "teaser": "A U.S. official said that a trilateral meeting has been planned, but will focus on nuclear non-proliferation and the war in Iran."
-     },
-     {
-      "title": "Trump, Xi and Putin to hold first three-way summit in China",
-      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-14T04:55+00:00",
-      "teaser": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week."
+      "date": "2026-11-14T04:51+00:00",
+      "teaser": "\"The October and November restrictions now raise the disturbing possibility that these vulnerabilities persist even within systems on which the U.S. government relies,\" Senators Jeanne Shaheen and Chris Coons wrote."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.8,
-    "items": [
-     {
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-13T15:42+00:00",
-      "teaser": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
-     },
-     {
-      "title": "German spies granted sweeping new powers",
-      "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-14T04:41+00:00",
-      "teaser": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.49,
+    "score": 3.4,
     "items": [
      {
       "title": "Krieg in der Ukraine: Europäer einigen sich auf Verhandlungsteam für Gespräche mit Russland",
@@ -252,7 +199,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.44,
+    "score": 3.35,
     "items": [
      {
       "title": "SpaceX's Starship soars into orbit after booster malfunction thwarts double catch attempt",
@@ -269,12 +216,72 @@
       "teaser": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
      }
     ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.32,
+    "items": [
+     {
+      "title": "'Miracle on the Mississippi': All aboard river cruise boat survive crash with tanker in New Orleans",
+      "url": "https://www.cbc.ca/news/world/tanker-hits-cruise-boat-new-orleans-mississippi-river-9.7421309?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-13T16:06-05:00",
+      "teaser": "A tanker in New Orleans that apparently lost its steering slammed into a docked river cruise boat with 180 people aboard Friday, the mayor said. All aboard survived after the crash prompted a massive rescue operation for passengers and crew who plunged into the Mississippi River as the ship took on "
+     },
+     {
+      "title": "News Wrap: Tanker crashes into river cruise boat in New Orleans",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-tanker-crashes-into-river-cruise-boat-in-new-orleans",
+      "source": "PBS NewsHour",
+      "date": "2026-11-13T18:55-05:00",
+      "teaser": "In our news wrap Friday, a ship collided with a river cruise boat in New Orleans, causing it to sink in the Mississippi River, some Microsoft users were offline for a second day as the company scrambled to restore its widely used suite of workplace software and the White House is tightening rules on"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.18,
+    "items": [
+     {
+      "title": "FAA orders nationwide ground stop for all US flight departures",
+      "url": "https://kyivindependent.com/faa-orders-nationwide-ground-stop-for-all-us-flight-departures/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-13T22:14+00:00",
+      "teaser": "The grounding was the first nationwide flight stoppage since January 2023, when an FAA computer system malfunctioned. Before that, the last nationwide grounding followed the terrorist attacks of Sept. 11, 2001."
+     },
+     {
+      "title": "🔴 US flight authority orders national ground stop over air traffic control 'communication issue'",
+      "url": "https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue",
+      "source": "France 24",
+      "date": "2026-11-13T21:29+00:00",
+      "teaser": ""
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.1,
+    "items": [
+     {
+      "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "source": "The Guardian",
+      "date": "2026-11-13T19:51+00:00",
+      "teaser": "US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal a"
+     },
+     {
+      "title": "U.S. Treasury Secretary frustrated by Commerce Department's inaction on Nvidia chips",
+      "url": "https://www.cbc.ca/news/world/bessent-lutnick-nvidia-chips-exports-9.7421237?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-13T16:17-05:00",
+      "teaser": "U.S. Treasury Secretary Scott Bessent said Friday he was frustrated with the Commerce Department's delay in placing restrictions on Nvidia chip exports to a company led by an alleged Chinese spy."
+     }
+    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.77,
+    "score": 3.68,
     "items": [
      {
       "title": "USA: US-Luftfahrtbehörde hebt landesweiten Flugstopp wieder auf",
@@ -294,7 +301,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.79,
+    "score": 2.71,
     "items": [
      {
       "title": "AfD will Ex-Fußballprofi Berthold als Bundespräsidenten nominieren",
@@ -313,54 +320,99 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 2.64,
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
-      "title": "Klimastreik: Fridays for Future warnt auf Weltklimakonferenz vor „Hitzehölle“",
-      "url": "https://www.faz.net/aktuell/politik/inland/protest-von-fridays-for-future-so-sorgte-greta-thunberg-fuer-aufsehen-201680193.html",
-      "source": "FAZ",
-      "date": "2026-11-13T14:49+00:00",
-      "teaser": "In Antalya tagt die Klimakonferenz, in Deutschland geht Fridays for Future auf die Straße. Auch wenn die einstige Ikone der Bewegung, Greta Thunberg, darüber nur noch lachen kann."
-     },
-     {
-      "title": "Weltklimakonferenz: Fridays for Future ruft deutschlandweit zu Demos auf",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/fridays-for-future-proteste-klimaschutz-cop31-antalya-gxe",
-      "source": "Zeit",
-      "date": "2026-11-13T13:09+00:00",
-      "teaser": "Parallel zur Weltklimakonferenz plant Fridays for Future zahlreiche Proteste. Merz’ Abwesenheit sei peinlich. Die Regierung solle ihre Klimaschulden bezahlen."
+      "title": "Ben Berndt und sein Podcast »ungeskriptet«: »Ob das alles stimmt, steht auf einem anderen Blatt«",
+      "url": "https://www.spiegel.de/politik/deutschland/ben-berndt-und-sein-podcast-ungescriptet-ob-das-alles-stimmt-steht-auf-einem-anderen-blatt-a-be50afde-179c-4244-ac1b-b6378053361c#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-14T08:59+01:00",
+      "teaser": "Ben Berndt verspricht Gespräche ohne Tabus und alternative Sichtweisen jenseits klassischer Medien. Millionen hören zu. Doch wo alles infrage gestellt werden darf, muss am Ende auch nichts mehr stimmen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Autobiografie von Joachim Sauer: »Wir haben natürlich über alles gesprochen, wenn Zeit war«",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/autobiografie-joachim-sauer-angela-merkel-ddr-mein-richtiges-leben",
+      "source": "Zeit",
+      "date": "2026-11-14T08:00+00:00",
+      "teaser": "Joachim Sauer ist der Mann von Angela Merkel. Solange sie regierte, schwieg er öffentlich. Nun erzählt er von seiner Zeit in der DDR – und von Journalisten ohne Anstand."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
     "items": [
      {
       "title": "19-jähriger Jugendgemeinderat über Sorgen der Gen Z: \"Die kommen auf uns zu wie eine Walze\"",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/gen-z-demos-19-jaehriger-aus-ludwigsburg-100.html",
       "source": "SWR",
-      "date": "2026-11-14T07:45+01:00",
+      "date": "2026-11-14T08:42+01:00",
       "teaser": "Mark ist Teil der Gen Z. Mit 19 Jahren blickt er in eine für ihn instabile Zukunft in vieler Hinsicht. Er ist im Jugendgemeinderat. Wie er die Demos findet und was er vorschlägt."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.95,
     "items": [
      {
-      "title": "Auto fährt mit voller Wucht auf Traktor auf - Traktorfahrer stirbt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/auto-faehrt-mit-voller-wucht-auf-traktor-auf-traktorfahrer-stirbt-100.html",
-      "source": "SWR",
-      "date": "2026-11-14T07:20+01:00",
-      "teaser": "Zwischen Ittersbach und Spielberg ist ein Auto auf einen Traktor aufgefahren. Der Traktorfahrer wurde tödlich verletzt, der Autofahrer kam ins Krankenhaus."
+      "title": "Bundeshaushalt: Bundesrechnungshof mahnt Union und SPD zu härterem Sparkurs",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundesrechnungshof-ansgar-heveling-cdu-bundeshaushalt-schuldenregel",
+      "source": "Zeit",
+      "date": "2026-11-14T07:31+00:00",
+      "teaser": "Ansgar Heveling drängt auf eine wirksame Schuldenregel. Der Chef des Bundesrechnungshofs kritisiert, Deutschland lebe »offenkundig über seine Verhältnisse«."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Land will zusätzliche Millionen in Abschiebungen stecken: CDU-Fraktionschef spricht von \"Wende in der Migrationspolitik\"",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/baden-wuerttemberg-plant-mehr-geld-fuer-abschiebungen-100.html",
+      "source": "SWR",
+      "date": "2026-11-14T08:35+01:00",
+      "teaser": "Das Land will 2027 mehr Geld für Asylgrenzverfahren, Migrationsverwaltung und den Sonderstab \"Gefährliche Ausländer\" bereitstellen. Das hat der Finanzausschuss beschlossen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Stromsteuer: SPD-Fraktionschef sieht Bewegung bei Debatte über Stromsteuersenkung",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/stromsteuer-senkung-spd-matthias-miersch-cdu-koalitionsausschuss-gxe",
+      "source": "Zeit",
+      "date": "2026-11-14T07:20+00:00",
+      "teaser": "Die Stromsteuersenkung dürfte Union und SPD im Koalitionsausschuss am Dienstag beschäftigen. Im Vorfeld sieht der SPD-Fraktionschef Bewegung in den Verhandlungen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "Deutsches Straßenschild mitten in Italien: 1.599 Kilometer nach Fellbach",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/fellbach-schild-italien-cariati-100.html",
+      "source": "SWR",
+      "date": "2026-11-14T07:40+01:00",
+      "teaser": "Cariati ist ein kleiner Ort in der italienischen Region Kalabrien. Er ist etwa für sein historisches Zentrum und die Konkathedrale bekannt - und jetzt auch für ein kurioses Straßenschild."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.83,
     "items": [
      {
       "title": "Podcast: „Auf den Punkt“: Alternative fürs Erinnern: Wie Rechte die deutsche Geschichte umdeuten",
@@ -373,7 +425,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.82,
     "items": [
      {
       "title": "SPD-Parteitag: Genossen planen Anti-Klingbeil-Antrag",
@@ -386,66 +438,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.82,
     "items": [
      {
-      "title": "News: Geheimdienstreform, CDU-Frust über Friedrich Merz, Klimaproteste",
-      "url": "https://www.spiegel.de/politik/deutschland/news-geheimdienstreform-cdu-frust-ueber-friedrich-merz-klimaproteste-a-b617fcc0-61d8-4ad1-9f37-75c82dc69dbf#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-13T05:23+01:00",
-      "teaser": "Die deutschen Nachrichtendienste werden reformiert. Friedrich Merz nervt seine eigenen Leute. Und es wird wieder fürs Klima protestiert. Das ist die Lage am Freitagmorgen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "title": "Boxen statt Stress auf der Straße",
+      "url": "https://www.zdfheute.de/video/panorama-jugendgewalt-boxclub-potsdam-video-100.html",
       "source": "ZDF",
-      "date": "2026-11-14T06:46+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Özdemirs Frau Flavia Zaka über Eröffnungswalzer: \"Perfektion gab es nicht\"",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/landespresseball-stuttgart-100.html",
-      "source": "SWR",
-      "date": "2026-11-14T06:10+01:00",
-      "teaser": "Zum ersten Mal hat Ministerpräsident Cem Özdemir (Grüne) mit seiner Ehefrau Flavia Zaka den Landespresseball eröffnet. Wie er und die First Lady den ersten Walzer gemeistert haben."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "Wehrdienst, Rente, Social Media: Jugendliche fragen bei Politikern nach",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/wehrpflicht-krieg-rente-jugend-fragt-politik-100.html",
-      "source": "SWR",
-      "date": "2026-11-14T05:47+01:00",
-      "teaser": "Welche Partei ist für die Wiedereinführung der Wehrpflicht? Wer fordert ein Social Media Verbot für Kinder? Und können sich junge Menschen auf die Rente verlassen?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Keine Priorität für Klimaschutz in der Koalition",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-14T05:40+01:00",
-      "teaser": "Deutschland wird die selbst gesteckten Klimaziele für 2030 und 2040 verfehlen. Umwelt- und Naturschutzverbände werfen vor allem Kanzler Merz und Wirtschaftsministerin Reiche einen Rollback beim Klimaschutz vor. Von Susanne Henn."
+      "date": "2026-11-14T07:00+01:00",
+      "teaser": "Die Initiative \"FAIR Boxen\" bringt Jugendlichen in Potsdam das Boxen bei. Beim Training lernen sie respektvollen Umgang miteinander und bekommen ein Ventil für ihre Gefühle."
      }
     ]
    }
@@ -453,7 +453,85 @@
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Szef wydawców TV Republika usłyszał zarzut prokuratorski. Chodzi o wtargnięcie do prokuratury",
+      "url": "https://www.rp.pl/przestepczosc/art45488011-szef-wydawcow-tv-republika-uslyszal-zarzut-prokuratorski-chodzi-o-wtargniecie-do-prokuratury",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T08:50+01:00",
+      "teaser": "Szef wydawców TV Republika Jarosław O. usłyszał zarzut naruszenia miru domowego w związku z wydarzeniami z 20 maja, kiedy pracownicy stacji weszli do budynku Prokuratury Krajowej podczas przesłuchania Tomasza Sakiewicza. O postawieniu zarzutu poinformował prokurator generalny Waldemar Żurek."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Utopia resetu TK. Obu stron polaryzacji nie zadowoli żaden prawnik. A potrzeba 15",
+      "url": "https://www.rp.pl/plus-minus/art45484491-utopia-resetu-tk-obu-stron-polaryzacji-nie-zadowoli-zaden-prawnik-a-potrzeba-15",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T08:44+01:00",
+      "teaser": "Czy Władysław Kosiniak-Kamysz i Szymon Hołownia wybili się na niepodległość, czy tylko realizują plan Donalda Tuska, by pomysłem na reset w Trybunale Konstytucyjnym dzielić prawicę?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Sondaż z dwoma blokami korzystny dla PiS i Konfederacji. Politolodzy: To się nie uda",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131797,sondaz-z-dwoma-blokami-korzystny-dla-pis-i-konfederacji-politolodzy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-14T07:45+00:00",
+      "teaser": "Gdyby ugrupowania prawicowe wystartowały w wyborach jako Zjednoczona Prawica, uzyskałyby 46,6 proc. głosów - wynika z opublikowanego w sobotę sondażu United Surveys by IBRiS dla Wirtualnej Polski. Z kolei dla bloku Koalicji 15 X zadeklarowano 41,3 proc. poparcia."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Będzie spotkanie Trump–Putin–Xi. Politycy zajmą się kwestią broni jądrowej",
+      "url": "https://www.rp.pl/dyplomacja/art45488021-bedzie-spotkanie-trump-putin-xi-politycy-zajma-sie-kwestia-broni-jadrowej",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T08:36+01:00",
+      "teaser": "Tematami rozmów podczas spotkania, do którego ma dojść między przywódcami USA, Rosji i Chin w przyszłym tygodniu, będą: posiadanie przez te państwa broni jądrowej oraz wojna w Iranie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Tysiące odwołanych i opóźnionych lotów w całych USA. Znamy przyczynę awarii",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33131785,tysiace-odwolanych-i-opoznionych-lotow-w-calych-usa-znamy-przyczyne.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-14T07:32+00:00",
+      "teaser": "Federalna Administracja Lotnictwa (FAA) odwołała zakaz startów samolotów w całym kraju. Sekretarz transportu Sean Duffy poinformował, że przyczyną przerwy była awaria przestarzałego systemu łączności, który został przeciążony danymi podczas aktualizacji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Trump spotka się z Putinem i Xi. Loty samolotów w USA wznowione",
+      "url": "https://www.rp.pl/przeglad-wydarzen-z-nocy/art45487941-trump-spotka-sie-z-putinem-i-xi-loty-samolotow-w-usa-wznowione",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T08:13+01:00",
+      "teaser": "Przedstawiamy przegląd najważniejszych wydarzeń mijającej nocy: prezydent USA Donald Trump spotka się w Chinach z Xi Jinpingiem oraz Władimirem Putinem; loty samolotów w USA, wstrzymane z powodu awarii systemów łączności, zostały wznowione; rakieta Starship po raz drugi dotarła na orbitę."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Jak Jensen Huang stracił stanowisko przez rywalizację supermocarstw",
@@ -466,7 +544,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "Naprawa finansów państwa nie może czekać. Potrzeba nawet 160 mld złotych",
+      "url": "https://www.rp.pl/budzet-i-podatki/art45472531-naprawa-finansow-panstwa-nie-moze-czekac-potrzeba-nawet-160-mld-zlotych",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-14T07:44+01:00",
+      "teaser": "Przywileje podatkowe i emerytalne, 800+, a nawet wydatki na zbrojenia – to obszary, w których ekonomiści widzą pole do największych oszczędności. Łatwych rozwiązań jednak nie ma. Do naprawy finansów państwa potrzeba nawet 160 mld zł i politycznej odwagi."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.85,
     "items": [
      {
       "title": "Republika Sotoa kontra Federacja Centra Usea. Kolejna odsłona podniebnej ofensywy",
@@ -479,7 +570,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.84,
     "items": [
      {
       "title": "„Fascynacja skrajnie prawicowymi ideologiami”. Sondaż: Polacy źle oceniają słowa Marcina Kierwińskiego",
@@ -492,33 +583,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Dobra jakość snu zmniejsza ryzyko 83 chorób. Zaskakujące wyniki gigantycznego badania",
-      "url": "https://www.rp.pl/nauka/art45485351-dobra-jakosc-snu-zmniejsza-ryzyko-83-chorob-zaskakujace-wyniki-gigantycznego-badania",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T07:06+01:00",
-      "teaser": "Nowe, obszerne badanie sugeruje, że jakość snu jest powiązana z ryzykiem rozwoju dziesiątek chorób. Takie wnioski wysnuli chińscy naukowcy po niemal 9 latach obserwacji prawie 10 tys. osób."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Tak żyją zwykli Rosjanie. „Ludzie nawet w rodzinach nie mówią, co myślą”",
-      "url": "https://www.rp.pl/polityka/art45455781-tak-zyja-zwykli-rosjanie-ludzie-nawet-w-rodzinach-nie-mowia-co-mysla",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T07:03+01:00",
-      "teaser": "Rosja kategorycznie zakazuje ujawniania wszystkiego, co uzna za tajemnicę państwową. – Lista takich informacji jest gigantyczna, a sama również jest tajna – mówi „Rz” Siergiej Sokołow. Łatwo więc jest „coś ujawnić”, a wtedy zaczynają się problemy. Redaktor naczelny „Nowej Gaziety” opisuje ponurą rze"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.82,
     "items": [
      {
       "title": "Nowa sala balowa przytłacza Biały Dom. Zdjęcie pokazało skalę projektu Trumpa",
@@ -531,20 +596,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Jak PSL z senatorami KO złagodzili nowelizację ustawy antyalkoholowej. Prześledziliśmy proces legislacyjny krok po kroku",
-      "url": "https://www.rp.pl/spoleczenstwo/art45481771-jak-psl-z-senatorami-ko-zlagodzili-nowelizacje-ustawy-antyalkoholowej-przesledzilismy-proces-legislacyjny-krok-po-kroku",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T06:00+01:00",
-      "teaser": "Nowelizacja prawa antyalkoholowego wykluczy nocną sprzedaż napojów procentowych i zakaże reklamy piwa. Nowe przepisy pozostawią jednak otwartą furtkę do promocji wina i piwa rzemieślniczego na festiwalach i umożliwią darmową degustację trunków."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.74,
     "items": [
      {
       "title": "Weto Nawrockiego, kluczowa rola Polski ws. Ukrainy [NA POCZĄTEK DNIA]",
@@ -554,64 +606,12 @@
       "teaser": "Przygotowaliśmy skrót najważniejszych informacji dnia dla tych, którzy nie mogli śledzić wiadomości w piątek (13 listopada)."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "Rozprawa przeciwko Braunowi. Na wniosek obrońców przeprowadzono oględziny choinki",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33131646,rozprawa-przeciwko-braunowi-na-wniosek-obroncow-przeprowadzono.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-14T04:50+00:00",
-      "teaser": "W Sądzie Rejonowym dla Warszawy Pragi-Południe odbyła się kolejna rozprawa przeciwko Grzegorzowi Braunowi. Oględzinom poddano choinkę. - To normalna procedura, choć przedmiot dość niespotykany - ocenił rzecznik Prokuratury Okręgowej w Warszawie prok. Piotr Antoni Skiba."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Kwadratowy znak B-43 nie jest zwykłym ograniczeniem prędkości. Pomyłka może słono kosztować",
-      "url": "https://moto.rp.pl/prawo/art45483621-kwadratowy-znak-b-43-nie-jest-zwyklym-ograniczeniem-predkosci-pomylka-moze-slono-kosztowac",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T05:45+01:00",
-      "teaser": "Wielu kierowców automatycznie odczytuje znak B-43 jako zwykłe ograniczenie prędkości, które obowiązuje do najbliższego skrzyżowania. Kwadratowy znak oznacza jednak, że mamy do czynienia ze strefą ograniczonej prędkości. Nie znając tej różnicy, można narazić się na wysoki mandat."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.77,
-    "items": [
-     {
-      "title": "Od 14 listopada kierowcy zapłacą ponad 30 proc. więcej. Drożeje ważne badanie",
-      "url": "https://www.rp.pl/prawo-dla-ciebie/art45484761-od-14-listopada-kierowcy-zaplaca-ponad-30-proc-wiecej-drozeje-wazne-badanie",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T05:17+01:00",
-      "teaser": "Część kierowców musi przygotować się na podwyżki. Od 14 listopada wzrośnie opłata za badania psychologiczne kierowców. Zamiast dotychczasowych 150 zł trzeba będzie zapłacić 200 zł. Przepisy wprowadzające nową stawkę zostały już opublikowane w Dzienniku Ustaw."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.74,
-    "items": [
-     {
-      "title": "Połączyła kuchnię polską i azjatycką. „Nie planuję podążania za trendami”",
-      "url": "https://sukces.rp.pl/sukces-story/art45387941-polaczyla-kuchnie-polska-i-azjatycka-nie-planuje-podazania-za-trendami",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-14T05:00+01:00",
-      "teaser": "W tym roku otworzyła Warszawskiego Tygrysa – restaurację w centrum Warszawy, na socrealistycznym Placu Konstytucji. Za projekt wnętrz odpowiedzialna była znana pracownia Noke Architects. – Po raz pierwszy tak świadomie budujemy koncept wokół „warszawskości” – tłumaczy Beata Gawęda-Pawełek, restaurat"
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.09,
+    "score": 5.01,
     "items": [
      {
       "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
@@ -638,7 +638,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.88,
     "items": [
      {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
@@ -648,7 +648,7 @@
       "teaser": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services."
      },
      {
-      "title": "Microsoft says services fully restored after for day-long global outage",
+      "title": "Microsoft says services fully restored after day-long global outage",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "date": "2026-11-14T06:42+00:00",
@@ -658,7 +658,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.11,
+    "score": 3.02,
     "items": [
      {
       "title": "Was über den Ausfall von Microsoft-Diensten bekannt ist",
@@ -678,7 +678,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.74,
+    "score": 2.66,
     "items": [
      {
       "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
@@ -698,14 +698,27 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.99,
     "items": [
      {
-      "title": "Flugstopp in den USA: Schon Kleinigkeiten können den US-Flugverkehr lahmlegen",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/sean-duffy-donald-trump-faa-flugverbot-usa-flugsicherung-newark",
-      "source": "Zeit",
-      "date": "2026-11-14T06:36+00:00",
-      "teaser": "Die USA erleben den längsten Flugstopp seit 9/11. Verantwortlich sind offenbar teils museumsreife Systeme, die mit Disketten und Verlängerungskabeln betrieben werden."
+      "title": "Rente: Mit der Aktie ins Alter: Die zwölf wichtigsten Antworten zum Vorsorgedepot",
+      "url": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/rente-die-zwoelf-wichtigsten-antworten-zum-altersvorsorgedepot/100265976.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-14T08:04+00:00",
+      "teaser": "Das Altersvorsorgedepot ersetzt ab 2027 die Riester-Rente und lockt mit staatlicher Förderung. Das sorgt bei vielen Fachleuten für Begeisterung. Doch die neue Förderrente ist nicht in allen Belangen spitze."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Iran meldet zwei brennende Öl-Tanker in der Straße von Hormus",
+      "url": "https://www.spiegel.de/wirtschaft/service/iran-meldet-zwei-brennende-oel-tanker-in-der-strasse-von-hormus-a-872ff571-83d5-4520-9cd2-bdbdf570b95e#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-14T08:49+01:00",
+      "teaser": "Es fließt wieder Öl durch die Straße von Hormus, doch die Passage gilt als teuer und riskant. Nun berichtet Iran über Feuer auf zwei Tankern – angeblich verursacht durch Seeminen."
      }
     ]
    },
@@ -714,89 +727,76 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Neue IT-Störung: Microsoft hat ein ernsthaftes Qualitätsproblem",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/stoerung-von-outlook-und-teams-microsoft-hat-ein-ernsthaftes-qualitaetsproblem-201679755.html",
-      "source": "FAZ",
-      "date": "2026-11-13T09:19+00:00",
-      "teaser": "Störungen von Onlinediensten gehören in unserer vernetzten Welt dazu. Die Häufung derartiger Vorfälle bei Microsoft aber ist ein Armutszeugnis – und sollte auch politisch Beachtung finden."
+      "title": "Morning Briefing Plus: Eine dramatische Warnung auf 458 Seiten",
+      "url": "https://www.handelsblatt.com/meinung/morningbriefing/morning-briefing-plus-eine-dramatische-warnung-auf-458-seiten/100269685.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-14T07:35+00:00",
+      "teaser": "Die Wirtschaftsweisen sehen eine Staatsschuldenkrise aufziehen und machen kluge Vorschläge, um sie zu vermeiden. Der Haushalt der Koalition sendet eine ganz andere Botschaft – leider."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.94,
     "items": [
      {
-      "title": "Food bank sees donations drop by 10% each year",
-      "url": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
+      "title": "Warum in Polen schneller gebaut wird als in Deutschland",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-14T08:24+01:00",
+      "teaser": "Wird in Polen eine neue Straße oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe. Von Andre Kartschall und Jakub Paczkowski."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Kassenärzte schlagen Selbstzahler-Termine für Kassenpatienten vor",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/kassenaerzte-schlagen-selbstzahler-termine-fuer-kassenpatienten-vor-a-4282bfbb-79a4-447b-b77b-812ed98bfc04#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-14T08:17+01:00",
+      "teaser": "Die Ärzte sind sauer über das Sparprogramm im Gesundheitswesen. Viele Praxen würden dann weniger Termine anbieten, warnt der Chef der Kassenärzte – es sei denn, Patienten zahlten aus eigener Tasche."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "What do Christmas market traders say about rising prices?",
+      "url": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-14T06:33+00:00",
-      "teaser": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms."
+      "date": "2026-11-14T07:11+00:00",
+      "teaser": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.91,
     "items": [
      {
-      "title": "SpaceX: SpaceX scheitert bei Starship-Test am Auffangen",
+      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "source": "The Guardian",
+      "date": "2026-11-14T07:00+00:00",
+      "teaser": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long-term chaos” in Folkestone and Calais. I"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "SpaceX: SpaceX bricht Auffangversuch bei Starship-Test ab",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/spacex-starship-super-heavy-booster-testflug-rakete",
       "source": "Zeit",
-      "date": "2026-11-14T05:27+00:00",
-      "teaser": "Bei einem Testflug der Starship-Rakete von Elon Musks Firma SpaceX ist die untere Raketenstufe abgestürzt. Sie sollte eigentlich wiederverwertbar sein."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Anschlussfinanzierung für Immobilienkredite: Die Rate fürs eigene Haus explodiert? Das können Sie tun",
-      "url": "https://www.zeit.de/2026/49/anschlussfinanzierung-immobilienkredite-bauzinsen-bankwechsel",
-      "source": "Zeit",
-      "date": "2026-11-14T05:20+00:00",
-      "teaser": "Für den Anschlusskredit will die Bank 4,5 statt 1,3 Prozent: Wie ein Familienvater bessere Konditionen heraushandelt. Und mit ein paar Kniffen die Rate weiter stemmt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
-      "url": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
-      "source": "New York Times",
-      "date": "2026-11-14T05:01+00:00",
-      "teaser": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those planned this weekend in France."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Milburn review to call for tens of thousands of further education places",
-      "url": "https://www.ft.com/content/5f2242d2-4fb3-4d9c-aa23-ed0c1253f7ab?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-14T05:00+00:00",
-      "teaser": "Plan to be targeted at under-25-year-olds who are not in education, employment or training and could cost more than £1bn a year"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "BoE chief economist says further rate rises needed to combat inflation",
-      "url": "https://www.ft.com/content/806b0158-41c5-4db2-ac33-93621f72297b?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-14T05:00+00:00",
-      "teaser": "Huw Pill calls last week’s quarter-point increase to 4% a ‘significant step’ but that there was ‘further to go’ with borrowing costs"
+      "date": "2026-11-14T06:59+00:00",
+      "teaser": "Bei einem Testflug der Starship-Rakete von Elon Musks Firma SpaceX ist die untere Raketenstufe ins Meer gestürzt. Sie sollte eigentlich wiederverwertbar sein."
      }
     ]
    }
@@ -804,7 +804,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.92,
+    "score": 7.83,
     "favorite": true,
     "items": [
      {
@@ -818,7 +818,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.91,
+    "score": 7.82,
     "favorite": true,
     "items": [
      {
@@ -832,7 +832,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.91,
+    "score": 7.82,
     "favorite": true,
     "items": [
      {
@@ -846,7 +846,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.99,
+    "score": 5.91,
     "items": [
      {
       "title": "Nations League: Deutschland gewinnt in Serbien – Brajan Gruda trifft bei Debüt",
@@ -873,7 +873,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 4.66,
+    "score": 4.57,
     "items": [
      {
       "title": "Rheinmetall: Borussia Dortmund beendet umstrittene Partnerschaft",
@@ -900,7 +900,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.24,
+    "score": 3.15,
     "items": [
      {
       "title": "Tod von De Miguel: Zwölf Spiele Sperre für Torhüter Owono",
@@ -920,7 +920,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.82,
+    "score": 2.73,
     "items": [
      {
       "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
@@ -940,7 +940,59 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Kapitän Davies bei Startelf-Comeback in Minute 6 ausgewechselt - Bizarre Rote Karte für Marsch",
+      "url": "https://www.kicker.de/guatemala-gegen-kanada-2026-concacaf-nations-league-5270157/spielbericht#omrss",
+      "source": "kicker",
+      "date": "2026-11-14T07:53+00:00",
+      "teaser": "Im Viertelfinal-Hinspiel der CONCACAF Nations League hat sich Kanada mit einem 3:2 in Guatemala eine gute Ausgangslage geschaffen - früh im Spiel aber Kapitän Alphonso Davies verloren."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-14T07:49+00:00",
+      "teaser": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Erste Pleite nach der Ära Messi: Argentinien unterliegt Uruguay",
+      "url": "https://www.kicker.de/argentinien-gegen-uruguay-2026-nationalteams-freundschaftsspiele-5274279/spielbericht#omrss",
+      "source": "kicker",
+      "date": "2026-11-14T07:11+00:00",
+      "teaser": "38 Tage nach dem hochemotionalen Abschied von Ikone Lionel Messi ist Argentinien in eine neue Ära gestartet - direkt mit einer Niederlage."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
+      "url": "https://www.theguardian.com/football/2026/nov/14/portugal-cristiano-ronaldo-football-memories-future",
+      "source": "The Guardian",
+      "date": "2026-11-14T06:53+00:00",
+      "teaser": "The captain, the talisman, the brand: former teammates and experts discuss Portugal entering a new era after 23 years There are days football fans hope will never come. For Portugal, this is one of them. For 23 years, Cristiano Ronaldo has been more than the country’s greatest footballer; he has bee"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
     "items": [
      {
       "title": "How a reunion with scout Bompastor solved Chelsea's striker issue",
@@ -950,65 +1002,12 @@
       "teaser": "Chelsea striker Melvine Malard and manager Sonia Bompastor tell the story of their 12-year footballing relationship."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "So kommt Klopp mit der DFB-Elf in die K.-o.-Runde",
-      "url": "https://www.kicker.de/so-kommt-klopp-mit-der-dfb-elf-in-die-k-o-runde-1271437/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-14T06:28+00:00",
-      "teaser": "Der Sieg gegen Serbien war essenziell. Jetzt kann Bundestrainer Jürgen Klopp mit der deutschen Nationalmannschaft aus eigener Kraft den Einzug ins Nations-League-Viertelfinale schaffen. Die Vorgabe ist eindeutig."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n83ld3le95o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-14T06:27+00:00",
-      "teaser": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Nationalmannschaft: Ein Abend ohne echten Gegner",
-      "url": "https://www.zeit.de/sport/2026-11/serbien-deutschland-gruda-juergen-klopp",
-      "source": "Zeit",
-      "date": "2026-11-14T05:11+00:00",
-      "teaser": "Vor Tausenden Schulkindern siegt Deutschland 3:1 in Serbien. Doch wie gut Jürgen Klopps neue Elf wirklich ist, weiß man noch immer nicht. Vielleicht aber bald."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "favorite": true,
-    "items": [
-     {
-      "title": "El Barça quiere ajustar cuentas en la exigente visita a ElPozo Murcia",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250616/barca-quiere-ajustar-cuentas-visita-maxima-exigencia-murcia.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-14T06:00+01:00",
-      "teaser": "El Barça de fútbol sala afronta este sábado (13.00 h./Esport3, DAZN, Teledeporte, RTVE Play) uno de los partidos más exigentes de la temporada. El conjunto culé visita a ElPozo Murcia , en el duelo correspondiente a la octava jornada del Torneo Apertura de la Liga Prime Futsal , con ganas de revanch"
-     }
-    ]
    }
   ],
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.88,
     "items": [
      {
       "title": "Microsoft’s Global Outage and Fixes: What We Know",
@@ -1018,7 +1017,7 @@
       "teaser": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services."
      },
      {
-      "title": "Microsoft says services fully restored after for day-long global outage",
+      "title": "Microsoft says services fully restored after day-long global outage",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "date": "2026-11-14T06:42+00:00",
@@ -1028,7 +1027,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.57,
+    "score": 3.48,
     "items": [
      {
       "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
@@ -1048,7 +1047,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.35,
+    "score": 3.27,
     "items": [
      {
       "title": "(g+) Opinion: Anthropic's Dario Amodei Can't Always Have His Way",
@@ -1068,7 +1067,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.33,
+    "score": 3.24,
     "items": [
      {
       "title": "Jensen Huang was reckless with the environment, too",
@@ -1088,7 +1087,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Überhitzung und Umkippen: Wie ein Roboter meine Wohnung reinigte – und was dabei schief ging",
+      "url": "https://t3n.de/news/humanoider-roboter-putzen-test-1772384/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-14T08:45+01:00",
+      "teaser": "Die vom Startup Tau Robotics in San Francisco entwickelten Maschinen benötigen zwar noch viel menschliche Anleitung und scheinen nicht fürs Treppensteigen gemac weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Minecraft-Experiment: Was passiert, wenn KI-Agenten Bürokratie simulieren?",
+      "url": "https://t3n.de/news/ki-agenten-minecraft-buerokratie-experiment-1771070/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-14T08:25+01:00",
+      "teaser": "Zu viel Bürokratie? Damit haben nicht nur wir Menschen zu kämpfen, wie ein aktueller Versuch zeigt. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "3I/ATLAS: Was uns der interstellare Komet über fremde Sterne verrät",
+      "url": "https://t3n.de/news/komet-3i-atlas-herkunft-james-webb-1771066/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-14T08:10+01:00",
+      "teaser": "Der interstellare Komet 3I/Atlas wirft nach wie vor viele Fragen auf. Ein Wissenschaftsteam hat jetzt Hinweise auf seinen Entstehungsort gefunden. Geholfen hat dabei das James-Webb-Weltraumteleskop. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Outlook Went Down? Microsoft May Owe You Money",
@@ -1101,7 +1139,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "Laptop für 3 Euro: So machst du dein altes Notebook zum Chromebook",
+      "url": "https://t3n.de/news/chromebook-laptop-trick-3-euro-stick-1758960/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-14T07:45+01:00",
+      "teaser": "Mit Chrome OS Flex bietet Google eine Alternative zu Windows an, die ausgedienten PCs ein neues Leben schenken soll. Die Installationsdatei kann man mittlerweil weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.86,
     "items": [
      {
       "title": "Free-to-Play: Gratis spielen zwischen Bratpfannen und Panzerschlachten",
@@ -1114,7 +1165,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.85,
     "items": [
      {
       "title": "25 Milliarden Kilometer entfernt: Voyager 1 funkt wieder",
@@ -1127,7 +1178,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
       "title": "GTA 6 kommt bald: 7 Spiele, die dir die Wartezeit verkürzen",
@@ -1135,58 +1186,6 @@
       "source": "t3n",
       "date": "2026-11-14T07:10+01:00",
       "teaser": "Wer keine Playstation 5 hat oder einfach nicht warten möchte: Diese sieben Spiele treffen einen ähnlichen Nerv wie Grand Theft Auto 6 – jedes auf seine ganz eigene Weise. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Whoop Promo Codes: 20% Off This November 2026",
-      "url": "https://www.wired.com/story/whoop-promo-code/",
-      "source": "Wired",
-      "date": "2026-11-14T06:00+00:00",
-      "teaser": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Pay-to-Click: Sparkasse vereinfacht jetzt dein Online-Shopping",
-      "url": "https://t3n.de/news/sparkasse-girokarte-clicktopay-einfuehrung-1772573/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-14T06:50+01:00",
-      "teaser": "Kundinnen und Kunden der Sparkasse erhalten noch im November Zugriff auf eine Funktion zum vereinfachten Zahlen bei Online-Einkäufen. Wer profitiert, welche Einschränkungen es gibt und wie das mit der Abschaltung der S-ID-Check-App zusammenhängt. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "RAM-Debatte: Entwickler sendet tägliche Status-Updates an Sam Altman",
-      "url": "https://t3n.de/news/sam-altman-ram-skript-entwickler-protest-1772368/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-14T06:50+01:00",
-      "teaser": "Ein Entwickler wehrt sich auf kreative Weise gegen Aussagen von Sam Altman. Er schickt ihm jeden Tag eine besondere E-Mail per Skript. Was er damit erreichen will. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Fritzbox-Update-Check: Ist dein Router noch sicher?",
-      "url": "https://t3n.de/news/fritzbox-support-ende-modelle-liste-1771566/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-14T06:05+01:00",
-      "teaser": "Fritz hat eine Liste mit dem geplanten Update-Zeitraum seiner Router und Repeater veröffentlicht. Für einige Geräte ist die Unterstützung bereits abgelaufen. Wir erklären, welche Router betroffen sind und wann ihr handeln solltet. weiterlesen auf t3n.de"
      }
     ]
    }
@@ -1221,7 +1220,7 @@
    "topic": "Welt & Politik",
    "source": "FAZ",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Welt & Politik",
