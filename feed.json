@@ -1,15 +1,42 @@
 {
- "fetchedAt": "2026-11-15T16:49:25+00:00",
+ "fetchedAt": "2026-11-15T17:43:57+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.96,
+    "score": 7.92,
+    "items": [
+     {
+      "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+      "url": "https://www.pbs.org/newshour/world/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout",
+      "source": "PBS NewsHour",
+      "date": "2026-11-15T11:48-05:00",
+      "teaser": "Megaspeed, which is under scrutiny over alleged transfers of advanced Nvidia chips to Chinese companies, also announced an internal investigation led by outside lawyers."
+     },
+     {
+      "title": "Alleged Chinese spy left Megaspeed last year, company says",
+      "url": "https://www.abc.net.au/news/2026-11-16/alice-huang-megaspeed-departure/107388304",
+      "source": "ABC Australia",
+      "date": "2026-11-15T14:31+00:00",
+      "teaser": "Singapore-based Megaspeed International is under scrutiny from US authorities over reports it shipped AI chips to China in breach of trade restrictions."
+     },
+     {
+      "title": "Megaspeed says Alice Huang left company in August 2025",
+      "url": "https://www.thehindu.com/news/international/megaspeed-says-alice-huang-left-company-in-august-2025/article71704620.ece",
+      "source": "The Hindu",
+      "date": "2026-11-15T18:42+05:30",
+      "teaser": "Megaspeed said it conducted \"legitimate ‌and lawful business\" and ​had retained external legal counsel to ⁠conduct a thorough internal ⁠investigation"
+     }
+    ]
+   },
+   {
+    "sourceCount": 4,
+    "score": 7.88,
     "items": [
      {
       "title": "Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project",
       "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html",
-      "source": "New York Times (USA)",
+      "source": "New York Times (Politik)",
       "date": "2026-11-15T15:04+00:00",
       "teaser": "Judge Ana C. Reyes, who has been overseeing combative litigation, said the Trump administration would not be responsible for operating the course while the case proceeded."
      },
@@ -31,7 +58,61 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.99,
+    "score": 5.98,
+    "items": [
+     {
+      "title": "Trump breaks silence on US ground stop, demands more money from Congress",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374509/trump-breaks-silence-us-ground-stop-demands-more-money-congress",
+      "source": "South China Morning Post",
+      "date": "2026-11-15T15:00+00:00",
+      "teaser": "US President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade America’s air traffic control system. The Republican president has been conspicuously quiet on the ground stop s"
+     },
+     {
+      "title": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
+      "url": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
+      "source": "PBS NewsHour",
+      "date": "2026-11-15T11:32-05:00",
+      "teaser": "The president has been conspicuously quiet on the ground stop since it began Friday afternoon, instead issuing statements on social media about completely different topics as frustrated passengers were left stranded at airports and his government scrambled with airlines to restore normal travel."
+     },
+     {
+      "title": "Trump breaks silence on nationwide ground stop, demands more money for FAA infrastructure from Congress",
+      "url": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-15T12:27-05:00",
+      "teaser": "U.S. President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade America’s air traffic control system."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.97,
+    "items": [
+     {
+      "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
+      "url": "https://www.thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece",
+      "source": "The Hindu",
+      "date": "2026-11-15T21:39+05:30",
+      "teaser": "The massive protest took place at the capital's Letná Park, where huge crowds gathered during the 1989 Velvet Revolution, which ended more than 40 years of communist rule in the country"
+     },
+     {
+      "title": "Czechs rally against plan to switch funding of public media",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-15T17:23+00:00",
+      "teaser": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
+     },
+     {
+      "title": "Thousands rally in Czech Republic against state media funding changes",
+      "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-15T16:32+00:00",
+      "teaser": "Critics say proposed funding changes will give the government more control of state media."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.91,
     "items": [
      {
       "title": "Israel kills senior member of Hamas's military wing in Gaza strike",
@@ -57,102 +138,48 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.98,
-    "items": [
-     {
-      "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
-      "url": "https://www.thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece",
-      "source": "The Hindu",
-      "date": "2026-11-15T21:39+05:30",
-      "teaser": "The massive protest took place at the capital's Letná Park, where huge crowds gathered during the 1989 Velvet Revolution, which ended more than 40 years of communist rule in the country"
-     },
-     {
-      "title": "Czechs rally against plan to switch funding of public media",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-15T16:36+00:00",
-      "teaser": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs."
-     },
-     {
-      "title": "Thousands rally in Czech Republic against state media funding changes",
-      "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-15T16:32+00:00",
-      "teaser": "Critics say proposed funding changes will give the government more control of state media."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.89,
-    "items": [
-     {
-      "title": "Iran claims drone attack on US military base in Bahrain",
-      "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
-      "source": "France 24",
-      "date": "2026-11-15T15:29+00:00",
-      "teaser": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September as blasts rocked the capital, Manama. It comes after Iran targeted an airbase in the US-allied island state, ending a long lull in strikes during the Middle East War and comes as negotiations to end the"
-     },
-     {
-      "title": "Iran greift erneut US-Stützpunkt in Bahrain an",
-      "url": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-15T12:21+01:00",
-      "teaser": "Iran hat nach eigenen Angaben einen US-Stützpunkt in Bahrain angegriffen. Die Revolutionsgarde habe eine Radaranlage attackiert, meldeten Staatsmedien. Bahrain wehrte offenbar auch mehrere Angriffe ab."
-     },
-     {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-15T13:42+00:00",
-      "teaser": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 4.0,
+    "score": 3.95,
     "items": [
      {
-      "title": "What to know about flights after the U.S. nationwide ground stop",
-      "url": "https://www.pbs.org/newshour/nation/what-to-know-about-flights-after-the-u-s-nationwide-ground-stop",
-      "source": "PBS NewsHour",
-      "date": "2026-11-14T13:32-05:00",
-      "teaser": "The longest flight stoppage in 25 years ended around 8:15 p.m. ET Friday, allowing some domestic flights to take off from U.S. airports. Officials expected a full recovery by Sunday."
-     },
-     {
-      "title": "Sean Duffy Offers New Details on How One Fix Spiraled Into Nationwide Ground Stop",
-      "url": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-15T16:46+00:00",
-      "teaser": "When asked, the transportation secretary could not guarantee on Sunday that a similar air traffic meltdown would not occur again."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.98,
-    "items": [
-     {
-      "title": "Trump breaks silence on US ground stop, demands more money from Congress",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374509/trump-breaks-silence-us-ground-stop-demands-more-money-congress",
+      "title": "Estonia to close Russia border after ‘sabotage’ bid, foreign minister says",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374514/estonia-close-russia-border-after-sabotage-bid-foreign-minister-says",
       "source": "South China Morning Post",
-      "date": "2026-11-15T15:00+00:00",
-      "teaser": "US President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade America’s air traffic control system. The Republican president has been conspicuously quiet on the ground stop s"
+      "date": "2026-11-15T16:56+00:00",
+      "teaser": "Estonia said on Sunday it would close its border with Russia after stopping what it said was an attempted arson attack by Russia’s GRU military intelligence on a drone factory. “Estonia will close all Estonian-Russian border crossing points as of 1 December,” Foreign Minister Margus Tsahkna posted o"
      },
      {
-      "title": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
-      "url": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
-      "source": "PBS NewsHour",
-      "date": "2026-11-15T11:32-05:00",
-      "teaser": "The president has been conspicuously quiet on the ground stop since it began Friday afternoon, instead issuing statements on social media about completely different topics as frustrated passengers were left stranded at airports and his government scrambled with airlines to restore normal travel."
+      "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
+      "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
+      "source": "France 24",
+      "date": "2026-11-15T17:05+00:00",
+      "teaser": "Estonia will close all its border crossing points with Russia from December 1, its ​foreign minister ‌said on Sunday, following a suspected ⁠sabotage attack on an Estonian defence company that Tallinn blamed on ‌Moscow."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+      "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-15T17:52+01:00",
+      "teaser": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland."
+     },
+     {
+      "title": "Sabotagevorwurf: Estland schließt nach Anschlagsversuch Grenzübergänge zu Russland",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/estland-grenzschliessung-russland-brandanschlag-drohnenfabrik",
+      "source": "Zeit",
+      "date": "2026-11-15T16:00+00:00",
+      "teaser": "Estland beschuldigt russische Geheimdienste, hinter einem Anschlag auf eine Drohnenfabrik zu stehen. Ab Dezember sollen alle drei Grenzübergänge geschlossen werden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.9,
     "items": [
      {
       "title": "US’ Bessent says Nvidia must ‘go outside the company’ to find new CEO after Jensen Huang",
@@ -172,47 +199,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.81,
     "items": [
      {
-      "title": "Two Planes Collide on a Taxiway at Miami International Airport",
-      "url": "https://www.nytimes.com/2026/11/15/us/miami-airport-plane-collision-copa-ups.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-15T16:29+00:00",
-      "teaser": "The wingtip of a Copa Airlines Boeing 737 struck the nose of a UPS Boeing 767, a day after a nationwide ground stop disrupted air travel."
+      "title": "Iran claims drone attack on US military base in Bahrain",
+      "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
+      "source": "France 24",
+      "date": "2026-11-15T15:29+00:00",
+      "teaser": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September as blasts rocked the capital, Manama. It comes after Iran targeted an airbase in the US-allied island state, ending a long lull in strikes during the Middle East War and comes as negotiations to end the"
      },
      {
-      "title": "At least two injured as passenger, cargo planes collide at U.S. airport",
-      "url": "https://www.thehindu.com/news/international/2-injured-as-passenger-cargo-planes-collide-at-us-airport/article71704597.ece",
-      "source": "The Hindu",
-      "date": "2026-11-15T16:47+05:30",
-      "teaser": "According to the report, all 166 passengers and six crew members disembarked, and the Copa aircraft returned to the terminal"
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-15T13:42+00:00",
+      "teaser": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
-    "items": [
-     {
-      "title": "Liveblog Ukrainekrieg: Estland will alle Grenzübergänge zu Russland schließen",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-estland-will-alle-grenzuebergaenge-zu-russland-schliessen-faz-110683325.html",
-      "source": "FAZ",
-      "date": "2026-11-15T16:20+00:00",
-      "teaser": "Außenminister spricht von „eindeutigen Beweisen“ für russischen Sabotageangriff auf Drohnenhersteller +++ Selenskyj: Einschränkung bei Starshield begünstigt russische Angriffe +++ alle Neuigkeiten im Liveblog"
-     },
-     {
-      "title": "Sabotagevorwurf: Estland schließt nach Anschlagsversuch Grenzübergänge zu Russland",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/estland-grenzschliessung-russland-brandanschlag-drohnenfabrik",
-      "source": "Zeit",
-      "date": "2026-11-15T16:00+00:00",
-      "teaser": "Estland beschuldigt russische Geheimdienste, hinter einem Anschlag auf eine Drohnenfabrik zu stehen. Ab Dezember sollen alle drei Grenzübergänge geschlossen werden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.66,
     "items": [
      {
       "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
@@ -232,7 +239,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.69,
+    "score": 3.62,
     "items": [
      {
       "title": "Starshield restrictions hamper Ukraine's ability to defend energy infrastructure from Russian drones, Zelensky says",
@@ -252,7 +259,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.66,
+    "score": 3.59,
     "items": [
      {
       "title": "Israelischer Angriff im Gazastreifen: Ranghoher Hamas-Kommandeur tot",
@@ -274,7 +281,27 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Krieg in der Ukraine: Estland schließt nach mutmaßlichem Sabotageangriff alle Grenzübergänge zu Russland",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-estland-russland-grenzuebergaenge-li.3571967",
+      "source": "Süddeutsche",
+      "date": "2026-11-15T16:10+00:00",
+      "teaser": "Mehrere Männer werden verdächtigt, ein Feuer bei einem Drohnenhersteller geplant zu haben, dessen Produkte auch von der Ukraine eingesetzt werden. Wie lang die Grenzen dicht bleiben sollen, ist unklar."
+     },
+     {
+      "title": "Estland schließt Grenzübergänge zu Russland",
+      "url": "https://www.zdfheute.de/politik/ausland/estland-grenze-russland-sabotage-drohnenhersteller-100.html",
+      "source": "ZDF",
+      "date": "2026-11-15T18:23+01:00",
+      "teaser": "Nach einem versuchten Brandanschlag auf ein Rüstungsunternehmen schließt Estland seine Grenze zu Russland. Es gebe eindeutige Hinweise auf eine Beteiligung des Geheimdienstes GRU."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.75,
     "items": [
      {
       "title": "Wolf im Schafsfell: Bremen stoppt eine umstrittene Kampagne gegen Islamisten",
@@ -294,7 +321,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.49,
     "items": [
      {
       "title": "SPD: Hubertus Heil kündigt Kandidatur für Parteivorsitz an",
@@ -314,7 +341,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.24,
+    "score": 2.17,
     "items": [
      {
       "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
@@ -337,115 +364,102 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Union und SPD: Der nächste Showdown steht schon bevor",
-      "url": "https://www.spiegel.de/politik/deutschland/union-und-spd-der-naechste-showdown-steht-schon-bevor-a-94ccfbd7-9b7a-44a4-912d-22ff94e88a6c#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-15T17:42+01:00",
-      "teaser": "Der Haushalt steht – aber große Teile der Union wollen sich mit dem Ergebnis nicht abfinden. Es geht unter anderem um die Stromsteuer, die nicht gesenkt wird. Wird die Entscheidung am Dienstag umgeworfen?"
+      "title": "\"Riesiges Trümmerfeld\": Zwei Tote und zwei Schwerverletzte nach Unfall bei Erbach",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/zwei-tote-zwei-schwerverletzte-nach-unfall-bei-erbach-100.html",
+      "source": "SWR",
+      "date": "2026-11-15T18:39+01:00",
+      "teaser": "Ein großes Trümmerfeld und mehrere beschädigte Fahrzeuge: Nach einem Frontalzusammenstoß bei Erbach sucht die Polizei nach genauen Ursachen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "\"Mensch ärgere Dich nicht\"-Weltmeisterschaft in Berlin",
+      "url": "https://www.zdfheute.de/video/menschaergeredichnicht-wm-100.html",
+      "source": "ZDF",
+      "date": "2026-11-15T18:26+01:00",
+      "teaser": "Knapp 170 Menschen sind am Samstag in Berlin bei der Weltmeisterschaft des Spiels \"Mensch ärgere Dich nicht\" angetreten."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
     "items": [
      {
       "title": "Aktionswoche gegen Kippenverschmutzung in Mannheim gestartet",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/aktionswoche-gegen-kippenverschmutzung-in-mannheim-beginnt-100.html",
       "source": "SWR",
-      "date": "2026-11-15T17:44+01:00",
+      "date": "2026-11-15T18:30+01:00",
       "teaser": "Bürgerinnen und Bürger haben am Sonntag Tausende von Zigarettenstummeln am Mannheimer Rheinufer aufgelesen. Die Aktion läuft noch die ganze Woche."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.96,
     "items": [
      {
-      "title": "Nach Unfall bei Blaustein: Ersthelfer retten zwei Frauen aus brennendem Auto",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ersthelfer-retten-frauen-aus-brennendem-auto-nach-unfall-blaustein-100.html",
-      "source": "SWR",
-      "date": "2026-11-15T17:39+01:00",
-      "teaser": "Ein Knall, dann Feuerschein auf der Straße: In der Nähe von Blaustein retten Anwohner zwei Frauen aus einem brennenden Auto, noch bevor die Einsatzkräfte eintreffen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Innensenatorin: Bremen beendet Kampagne gegen Islamismus vorzeitig",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bremen-beendet-kampagne-gegen-islamismus-vorzeitig-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-15T17:16+01:00",
-      "teaser": "Mit Bildern von einem Wolf im Schafspelz hatte der Verfassungsschutz vor Islamisten gewarnt. Bremens Innensenatorin sagt nun: Das Ziel der Kampagne war richtig, die Umsetzung aber nicht."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Krieg in der Ukraine: Estland schließt nach mutmaßlichem Sabotageangriff alle Grenzübergänge zu Russland",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-estland-russland-grenzuebergaenge-li.3571967",
-      "source": "Süddeutsche",
-      "date": "2026-11-15T16:10+00:00",
-      "teaser": "Mehrere Männer werden verdächtigt, ein Feuer bei einem Drohnenhersteller geplant zu haben, dessen Produkte auch von der Ukraine eingesetzt werden. Wie lang die Grenzen dicht bleiben sollen, ist unklar."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "title": "Korallen-Studie: El Niño viel heftiger als früher",
+      "url": "https://www.zdfheute.de/wissen/el-nino-korallen-klimawandel-erderwaermung-studie-100.html",
       "source": "ZDF",
-      "date": "2026-11-15T16:55+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+      "date": "2026-11-15T18:17+01:00",
+      "teaser": "Sind die jüngsten El Niños heftiger und gefährlicher als früher? Die Analyse von Korallen vor Galapagos deutet genau darauf hin. Ursache könnte der Klimawandel sein."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.95,
     "items": [
      {
-      "title": "Betroffener setzt sich für die Rechte ehemaliger Heimkinder ein",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/betroffener-sexueller-missbrauch-kinderheim-diakonie-betroffenenbeirat-100.html",
+      "title": "Streit um Berliner Linke: Bodo Ramelow wirft Vanessa Emde Vertrauensbruch vor",
+      "url": "https://www.spiegel.de/politik/deutschland/streit-um-berliner-linke-bodo-ramelow-wirft-vanessa-emde-vertrauensbruch-vor-a-67d8cd65-ef4e-4350-a7e6-d3282ce950ec#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-15T18:06+01:00",
+      "teaser": "Der Druck auf die umstrittene Berliner Linkenpolitikerin Vanessa Emde wächst: Auch Parteigenosse Bodo Ramelow drägt Emde dazu, die Fraktion im Abgeordnetenhaus der Hauptstadt zu verlassen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Vor Niederlande: Pressekonferenz mit Klopp",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league/video/deutschland-niederlande-pressekonferenz-klopp-pk-md-1-100.html",
+      "source": "ZDF",
+      "date": "2026-11-15T18:10+01:00",
+      "teaser": "Vor dem Nations-League-Spiel gegen die Niederlande in Berlin gibt Bundestrainer Jürgen Klopp die letzten Informationen vor der Partie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "54-Jähriger stirbt nach Unfall bei Bad Mergentheim",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/54-jaehriger-stribt-nach-verkehrsunfall-bad-mergentheim-100.html",
       "source": "SWR",
-      "date": "2026-11-15T16:51+01:00",
-      "teaser": "Klaus Kutzer hat sich als Betroffener lange nicht ernst genommen gefühlt. Jetzt sitzt er in einem Gremium der EKD und kämpft dort für die Rechte von Betroffenen wie ihn."
+      "date": "2026-11-15T18:10+01:00",
+      "teaser": "Bei einem Verkehrsunfall ist am Sonntag ein Mann bei Bad Mergentheim schwer verletzt worden. Er starb kurze Zeit später in einer Klinik."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.94,
     "items": [
      {
-      "title": "Glosse: Das Streiflicht",
-      "url": "https://www.sueddeutsche.de/politik/alte-weisse-maenner-sophie-passmann-weihnachtsmaenner-diversitaet-li.3580795",
+      "title": "Spanien: Etwa 1500 Migranten erreichen Kanaren an einem einzigen Tag",
+      "url": "https://www.sueddeutsche.de/politik/kanarische-inseln-migranten-el-hierro-spanien-westafrika-li.3580884",
       "source": "Süddeutsche",
-      "date": "2026-11-15T15:44+00:00",
-      "teaser": "Der alte weiße Mann hat sich einen äußerst negativen Ruf erworben. Wann, wenn nicht in der Vorweihnachtszeit, kann er die Imagewende einleiten?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Bundespolitik: Vorstoß zu Selbstzahlerterminen für Kassenpatienten löst Kritik aus",
-      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-aerzte-termine-li.3580621",
-      "source": "Süddeutsche",
-      "date": "2026-11-15T15:41+00:00",
-      "teaser": "Der Chef der Kassenärztlichen Bundesvereinigung deutet an, dass Kassenpatienten für schnellere Arzttermine zahlen sollen. Das bleibt nicht ohne Widerspruch."
+      "date": "2026-11-15T17:03+00:00",
+      "teaser": "Der Zustrom von Migranten aus Westafrika auf die Kanaren hat einen Tagesrekord erreicht. Besonders betroffen ist die kleine Insel El Hierro. Die Hilfseinrichtungen stoßen dort an ihre Grenzen."
      }
     ]
    }
@@ -453,7 +467,59 @@
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Starcia polskich kibiców z rumuńską policją. Media: Zatrzymywano też niewinne osoby",
+      "url": "https://www.rp.pl/spoleczenstwo/art45491411-starcia-polskich-kibicow-z-rumunska-policja-media-zatrzymywano-tez-niewinne-osoby",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-15T18:40+01:00",
+      "teaser": "105 osób, w tym 100 obywateli Polski, przewieziono na komisariaty po zamieszkach w Bukareszcie. Jak opisuje GOLAZO.ro, część kibiców atakowała żandarmów, ale podczas interwencji dochodziło również do pomyłek przy identyfikowaniu uczestników zajść."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Marcin Zieliński: Unia idzie na wojnę z nikotyną. Australia pokazała, że wygrywają ją przemytnicy",
+      "url": "https://www.rp.pl/opinie-ekonomiczne/art45479431-marcin-zielinski-unia-idzie-na-wojne-z-nikotyna-australia-pokazala-ze-wygrywaja-ja-przemytnicy",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-15T18:21+01:00",
+      "teaser": "Skoro australijskie przepisy nie powstrzymały rozwoju nielegalnego handlu mimo naturalnej bariery oceanów, to w UE szanse na skuteczne egzekwowanie podobnych zakazów będą zapewne jeszcze mniejsze."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "W poniedziałek koniec utrudnień w ruchu lotniczym w USA",
+      "url": "https://www.rp.pl/swiat/art45491311-w-poniedzialek-koniec-utrudnien-w-ruchu-lotniczym-w-usa",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-15T18:06+01:00",
+      "teaser": "Jeszcze w niedzielę wróci do normy sytuacja z systemem łączności, którego awaria sparaliżowała w weekend ruch lotniczy w USA, - zapowiedział minister transportu USA Sean Duffyw rozmowie ze stacją ABC. Jego zdaniem pełna normalizacja na lotniskach nastąpi prawdopodobnie dopiero w poniedziałek rano."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "„Rzecz o idei”: Kapitan państwo czy spółka akcyjna?",
+      "url": "https://www.rp.pl/kraj/art45486241-rzecz-o-idei-kapitan-panstwo-czy-spolka-akcyjna",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-15T18:00+01:00",
+      "teaser": "Policjant na każdym rogu i bramki w szkołach czy społeczne więzi? Tematem nowego odcinka „Rzeczy o idei” jest sprawność państwa oraz poszukiwanie odpowiedzi na nowy rodzaj przemocy."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "OIPE, czyli Europejska Emerytura: komu się opłaca i co dała przez trzy lata",
@@ -466,7 +532,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.92,
     "items": [
      {
       "title": "„Men-Nefer” - planszówka dla doświadczonych graczy i fanów starożytnego Egiptu",
@@ -479,7 +545,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.91,
     "items": [
      {
       "title": "Luksus, który oddaje czas",
@@ -492,7 +558,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.9,
     "items": [
      {
       "title": "Policja odpowiada na słowa Sakiewicza. Chodzi o funkcjonariuszy wysłanych do Warszawy",
@@ -505,7 +571,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.89,
     "items": [
      {
       "title": "Liga Narodów. Mecz ze Szwecją będzie dla piłkarzy Jana Urbana próbą charakteru",
@@ -518,7 +584,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Przepisy o zamówieniach publicznych nie tylko dla sektora publicznego",
@@ -531,7 +597,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Były ambasador RFN za zbiórką pieniędzy na „humanitarny gest”",
@@ -544,7 +610,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "19-latka śmiertelnie potrącona przez pijanego 25-latka bez prawa jazdy. Media: Byli rodzeństwem",
@@ -554,64 +620,32 @@
       "teaser": "19-letnia kobieta zmarła w szpitalu po tym, jak w nocy z soboty na niedzielę została potrącona przez samochód w miejscowości Łukówiec. Kierujący Fordem 25-latek miał ponad 1,5 promila alkoholu w organizmie. Lokalny portal ustalił, że kierowca i ofiara byli rodzeństwem."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Czarownice, demony i elfy",
-      "url": "https://www.rp.pl/plus-minus/art45486181-czarownice-demony-i-elfy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-15T17:06+01:00",
-      "teaser": "Katarzyna Berenika Miszczuk, pisarka, lekarka: Od historycznej fantastyki i toskańskiego horroru, przez wzruszające anime, aż po rockowe ballady – oto moje jesienne odkrycia i powroty, na które warto znaleźć czas."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Nawet dziś Euro 2012 jawi się w tej miejscowości jako nadające sens jej istnieniu",
-      "url": "https://www.rp.pl/plus-minus/art45485551-nawet-dzis-euro-2012-jawi-sie-w-tej-miejscowosci-jako-nadajace-sens-jej-istnieniu",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-15T17:02+01:00",
-      "teaser": "W gniewińskim ośrodku sportowym można przespać się dokładnie na tym samym łóżku, na którym w czasie Euro 2012 spał Fernando Torres (pokój 203), Xabi Alonso (pokój 207) czy Cesc Fàbregas (pokój 211). A kontenery na odpady we wsi są nadal w kształcie piłek."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Michał Jabłoński: Rewolucja AI w sądach sprawi, że będą pracować sprawniej",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art45477951-michal-jablonski-rewolucja-ai-w-sadach-sprawi-ze-beda-pracowac-sprawniej",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-15T17:00+01:00",
-      "teaser": "Szykujemy ramy prawne stosowania sztucznej inteligencji w sądownictwie i prokuraturze. Nie zastąpi ona sędziego, ale dzięki niej na wyroki będziemy czekać krócej – mówi „Rzeczpospolitej” mec. Michał Jabłoński, szef zespołu ds. korzystania z AI."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Próba podpalenia firmy zbrojeniowej w Estonii. Kraj zamyka granicę z Rosją",
-      "url": "https://www.rp.pl/swiat/art45491011-proba-podpalenia-firmy-zbrojeniowej-w-estonii-kraj-zamyka-granice-z-rosja",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-15T16:46+01:00",
-      "teaser": "Estońska Służba Bezpieczeństwa Wewnętrznego potwierdziła, że do sobotniej, nieudanej próby podpalenia siedziby producenta bezzałogowych systemów powietrznych Threod Systems, doszło na zlecenie rosyjskiego wywiadu wojskowego GRU. W związku ze sprawą zatrzymano osiem osób."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.77,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "CSU will Abschläge für Frührentner erhöhen",
+      "url": "https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-14T12:44+01:00",
+      "teaser": "Wegen der angespannten Haushaltslage will die Regierung weniger Milliarden an die Rentenversicherung überweisen. Um das Loch zu stopfen, sollen die Abschläge für Frührentner steigen."
+     },
+     {
+      "title": "Rentenreform: CSU fordert höhere Abschläge für Frührentner",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/csu-fordert-hoehere-abschlaege-fuer-fruehrentner-streit-mit-spd-eskaliert-accg-201684748.html",
+      "source": "FAZ",
+      "date": "2026-11-15T16:56+00:00",
+      "teaser": "In der Diskussion um die Rentenreform prescht die CSU vor und erhöht den Druck auf die SPD. Kommt der Kabinettsbeschluss noch in diesem Jahr?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.69,
     "items": [
      {
       "title": "Business-Ticker: Cyberangriff auf Post-Dienstleister: Daten von 22 Millionen Menschen abgegriffen",
@@ -631,7 +665,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.54,
+    "score": 3.46,
     "items": [
      {
       "title": "Wirtschaftskrise in Deutschland: Handwerk warnt vor »stillem Sterben der Betriebe«",
@@ -651,7 +685,59 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Decision to move Shakespeare Institute out of Stratford sparks outcry",
+      "url": "https://www.ft.com/content/eb45ef82-94b0-4775-9f79-025fdb27db6a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-15T17:28+00:00",
+      "teaser": "Study centre’s director quits after University of Birmingham says it will relocate to Edgbaston"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+      "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+      "source": "The Guardian",
+      "date": "2026-11-15T17:04+00:00",
+      "teaser": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault. To fix it, we need a generational response Andy Burnham has pledged to intervene as "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Neighbours of China’s London ‘mega’ embassy struggle to sell flats",
+      "url": "https://www.ft.com/content/38f869f7-2523-4f4f-b1ea-9e0b2ced8c74?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-15T17:00+00:00",
+      "teaser": "Beijing owns freehold to about 100 flats near the Tower of London, provoking fears of surveillance, nuisance and leasehold problems"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Rentenreform: Die Verteidigung der Mütterrente",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/csu-fordert-hoehere-abschlaege-fuer-fruehrentner-accg-201684734.html",
+      "source": "FAZ",
+      "date": "2026-11-15T16:56+00:00",
+      "teaser": "Der Chef der CSU-Landesgruppe im Bundestag fordert höhere Abschläge für Frührentner. Es geht ihm dabei wohl auch um ein Lieblingsprojekt seiner Partei."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Flugverkehr: Airlines streichen weitere Flüge – US-Präsident Trump schaltet sich ein",
@@ -664,7 +750,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.89,
     "items": [
      {
       "title": "Gastkommentar: Finger weg von der Unabhängigkeit der EZB",
@@ -677,7 +763,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.89,
     "items": [
      {
       "title": "sehr lange haltbar: An der Algarve wird eine besondere Auster gezüchtet",
@@ -690,7 +776,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.86,
     "items": [
      {
       "title": "Interview: Wirtschaftsweiser Werding: „Wir haben einen Riesenschritt in die richtige Richtung gemacht“",
@@ -703,7 +789,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.83,
     "items": [
      {
       "title": "Rüstungsindustrie in Österreich: Sie bauen noch Kupplungen? Versuchen Sie es doch mal mit Kanonen",
@@ -713,77 +799,26 @@
       "teaser": "Österreichs Industrie will am Rüstungsboom mitverdienen und dabei auch von den deutschen Verteidigungsausgaben profitieren. Doch das ist schwieriger, als es scheint."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Sadiq Khan backs keeping City of London police independent from the Met",
-      "url": "https://www.ft.com/content/85b04bb4-1135-4cc7-a7d8-4e62ab9630db?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-15T15:43+00:00",
-      "teaser": "London mayor opposes merger backed by Met commissioner Sir Mark Rowley"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Rüstungsprojekte: Rom öffnet Berlin die Tür fürs Kampfflugzeug der Zukunft",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gcap-italien-laedt-deutschland-ins-kampfjet-programm-der-zukunft-ein-accg-201684770.html",
-      "source": "FAZ",
-      "date": "2026-11-15T15:33+00:00",
-      "teaser": "Nach der gescheiterten Zusammenarbeit mit Frankreich könnte Deutschland in ein Programm mit Italien, Großbritannien und Japan einsteigen. Doch welche Anteile blieben für den deutschen Spätankömmling übrig?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Hong Kong developer New World unveils $3.2bn rights issue",
-      "url": "https://www.ft.com/content/9daa3a26-c49c-4c94-91af-0d4c2116d2e4?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-15T15:24+00:00",
-      "teaser": "Cheng family’s property firm prices share offer at 82% discount as it moves to slash debts"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Gold rush turns deadly in Guinea",
-      "url": "https://www.ft.com/content/0d0d8fae-14f4-410f-8597-8e58f1172ad7?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-15T15:13+00:00",
-      "teaser": "High gold prices have driven a wave of fresh mining, and Conakry is cracking down"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Quallenzucht: Ein Geschäftsmodell, das sich lohnt",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/quallenzucht-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-15T15:58+01:00",
-      "teaser": "Für die einen ist es eine Plage am Badestrand, für andere ein Geschäftsmodell: In Osthessen steht Europas größte Quallenfarm. Warum sich die Zucht der Nesseltiere wirtschaftlich lohnt. Von Christof Dörr."
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.91,
+    "score": 7.92,
+    "favorite": true,
+    "items": [
+     {
+      "title": "El seguro Gerard Martín: nunca se ha perdido un partido por lesión con el Barça",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004250984/gerard-martin-no-perdido-minuto-lesion-barca.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-15T17:47+01:00",
+      "teaser": "La irrupción y consolidación de Gerard Martín (24 años) en el Barça no es de las que hacen ruido, pero ya no le sorprende a nadie verlo como el central titular de los grandes partidos. El defensa se ha beneficiado de su físico para ir aprovechando las bajas de los compañeros y, poco a poco, se ha id"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.84,
     "favorite": true,
     "items": [
      {
@@ -797,7 +832,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.9,
+    "score": 7.82,
     "favorite": true,
     "items": [
      {
@@ -810,22 +845,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.71,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Raphinha hace de capitán ante la crisis de la Brasil de Ancelotti",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004251225/raphinha-capitan-crisis-brasil-ancelotti.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-15T14:23+01:00",
-      "teaser": "Raphinha Dias está experimentando en sus carnes el delicado equilibrio que supone defender los escudos que representa y siente, el del FC Barcelona y el de la selección brasileña . Las últimas ventanas FIFA trajeron como peaje lesiones que le apartaron de poder jugar de inmediato con la camiseta azu"
-     }
-    ]
-   },
-   {
     "sourceCount": 3,
-    "score": 4.34,
+    "score": 5.61,
     "items": [
      {
       "title": "Bundesliga der Frauen: Bayern München dominiert den VfL Wolfsburg beim 4:1 im Topspiel",
@@ -842,17 +863,17 @@
       "teaser": "Souveräner Sieg im Spitzenspiel: Die Frauen des FC Bayern gewinnen beim VfL Wolfsburg mit 4:1. Vor über zwei Jahren kassierten sie dort ihre letzte Bundesliga-Niederlage."
      },
      {
-      "title": "Frauen-Bundesliga: VfL Wolfsburg verliert Top-Spiel gegen Bayern München",
-      "url": "https://www.sportschau.de/regional/ndr/vfl-wolfsburg-verliert-top-spiel-gegen-bayern-muenchen-deutlich,wolfsburg-bayern-220.html",
-      "source": "Sportschau",
-      "date": "2026-11-14T21:51+01:00",
-      "teaser": "Die VfL-Frauen waren gegen offensiv eiskalt agierende Münchnerinnen chancenlos. In der Tabelle enteilt der FCB den \"Wölfinnen\"."
+      "title": "Jetzt live - Topspiel zwischen Bayern München und dem MBC",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma12415891/fc-bayern-muenchen_syntainics-mbc/liveticker",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-15T14:00+01:00",
+      "teaser": "Am 9. Spieltag der Basketball-Bundesliga trifft der Tabellenführer aus München auf den drittplatzierten Mitteldeutschen BC. Wer kann das Topspiel für sich entscheiden?"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.73,
     "items": [
      {
       "title": "Niederlande-Spiel: So kommt das DFB-Team ins Nations-League-Viertelfinale",
@@ -872,7 +893,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.55,
+    "score": 3.48,
     "items": [
      {
       "title": "Fifa: Arsène Wenger als möglicher Kandidat für Infantino-Nachfolge",
@@ -892,7 +913,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.42,
+    "score": 3.35,
     "items": [
      {
       "title": "Nations League: Portugal ehrt Ronaldo und verliert deutlich gegen Dänemark",
@@ -915,50 +936,24 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Ab 20.45 Uhr live - Wiedererstarkte Italiener in Belgien",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-nations-league-a/ma11903971/belgien_italien/liveticker",
+      "title": "Klopp-Tugenden sollen Sieg gegen die Niederlande bringen",
+      "url": "https://www.sportschau.de/video/klopp-tugenden-sollen-sieg-gegen-die-niederlande-bringen,video-dfb-klopp-philosophie-100.html",
       "source": "Sportschau",
-      "date": "2026-11-15T17:44+01:00",
-      "teaser": "Am letzten Gruppenspieltag der Nations League trifft Italien als Spitzenreiter der Gruppe 1 auf Belgien. Der Gewinner zieht sicher ins Viertelfinale ein."
+      "date": "2026-11-15T18:33+01:00",
+      "teaser": "Energie, Bewegung, Laufarbeit und Einsatz um jeden Zentimeter: das ist die Klopp-Philosophie mit der die DFB-Elf die Niederlande schlagen möchte."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
     "items": [
      {
-      "title": "Tenerife return to action after death of De Miguel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-15T16:38+00:00",
-      "teaser": "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Arsenal v London City Lionesses: Women’s Super League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/15/arsenal-v-london-city-lionesses-womens-super-league-live",
-      "source": "The Guardian",
-      "date": "2026-11-15T16:45+00:00",
-      "teaser": "Updates from 4.30pm (GMT) kick-off at the Emirates Stadium Get in touch: email John and follow us on BlueSky Charles Antaki gets in touch: “Renee Slegers under pressure indeed. Arsenal’s form this season has been nothing short of alarming, and there is a distinct danger of failing to qualify for nex"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Vuskovic richtet sich an die Fans: \"Das Wichtigste ist, das Derby zu gewinnen\"",
-      "url": "https://www.kicker.de/vuskovic-richtet-sich-an-die-fans-das-wichtigste-ist-das-derby-zu-gewinnen-1271830/video#omrss",
-      "source": "kicker",
-      "date": "2026-11-15T16:32+00:00",
-      "teaser": "Nach seinem umjubelten Comeback für den HSV richtete Mario Vuskovic noch ein paar Worte an die Fans."
+      "title": "Toter Profifußballer: Woran starb Jesús de Miguel?",
+      "url": "https://www.faz.net/aktuell/sport/fussball/tod-von-jesus-de-miguel-was-passiert-bei-einem-brustkorbtrauma-accg-201670166.html",
+      "source": "FAZ",
+      "date": "2026-11-15T17:22+00:00",
+      "teaser": "Erstmals seit dem Tod von Jesús de Miguel bestreitet sein Klub wieder ein Pflichtspiel. Was ist ein Brustkorbtrauma? Wie reagiert man richtig? Und warum sind Jugendliche besonders oft betroffen?"
      }
     ]
    },
@@ -967,11 +962,37 @@
     "score": 1.96,
     "items": [
      {
-      "title": "1:1 im Testspiel: Vuskovic bei HSV-Rückkehr emotional empfangen",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/mario-vuskovic-feiert-emotionales-comeback-beim-hamburger-sv-accg-201685611.html",
-      "source": "FAZ",
-      "date": "2026-11-15T16:21+00:00",
-      "teaser": "Es ist der spektakulärste Doping-Fall im deutschen Fußball: Nach 1.467 Tagen kehrt der vier Jahre lange gesperrte Mario Vuskovic zurück. Die HSV-Fans bereiten dem Kroaten einen emotionalen Empfang."
+      "title": "Vuskovic: Große Emotionen, kleine nächste Schritte",
+      "url": "https://www.kicker.de/vuskovic-grosse-emotionen-kleine-naechste-schritte-1271840/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-15T17:16+00:00",
+      "teaser": "Rund eine Stunde spielte Mario Vuskovic bei seinem HSV-Comeback gegen Hajduk Split (1:1), danach bedankte er sich via Mikrofon bei den Fans. Ab jetzt geht es um behutsame nächste Schritte."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Arsenal v London City Lionesses: Women’s Super League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/15/arsenal-v-london-city-lionesses-womens-super-league-live",
+      "source": "The Guardian",
+      "date": "2026-11-15T17:18+00:00",
+      "teaser": "Updates from 4.30pm (GMT) kick-off at the Emirates Stadium Get in touch: email John and follow us on BlueSky Charles Antaki gets in touch: “Renee Slegers under pressure indeed. Arsenal’s form this season has been nothing short of alarming, and there is a distinct danger of failing to qualify for nex"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Chapecoense crash survivor wins promotion in final game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-15T17:10+00:00",
+      "teaser": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring."
      }
     ]
    }
@@ -979,7 +1000,59 @@
   "Tech & KI": [
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Aufklärung oder Nudging - was hilft beim Stromsparen wirklich?",
+      "url": "https://t3n.de/news/stromsparen-aufklaerung-nudging-1773051/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-15T18:05+01:00",
+      "teaser": "Eine deutsch-schwedische Studie hat untersucht, wie sich Menschen am besten zum Stromsparen anregen lassen. Die gute Nachricht: Es funktioniert recht einfach. Die schlechte: Die Effekte verschwinden schnell wieder. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-15T12:00-05:00",
+      "teaser": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limit"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Apple’s first smart glasses are coming together",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "source": "The Verge",
+      "date": "2026-11-15T11:59-05:00",
+      "teaser": "Apple's smart glasses are among the worst-kept secrets in the tech world. Bloomberg's Mark Gurman says the company's first model, which will lack augmented reality features, will be announced at June's WWDC next year. They likely won't ship right away, however, with Gurman saying only that \"glasses "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "Schluss mit groben Schätzungen: Samsung will inneres Bauchfett künftig per Smartwatch-Radar scannen",
+      "url": "https://t3n.de/news/samsung-galaxy-watch-scannen-bauchfett-1773105/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-15T17:20+01:00",
+      "teaser": "Samsung hat eine Methode patentiert, wie zukünftige Galaxy-Watch-Modelle das gefährliche viszerale Bauchfett präziser messen können sollen. Dabei soll ein Ultrabreitband-Radar statt des bisher bekannten BIA-Sensors zum Einsatz kommen. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.86,
     "items": [
      {
       "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
@@ -992,7 +1065,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.83,
     "items": [
      {
       "title": "Vom Hausdach in Oslo direkt in den Orbit: Warum ein Esa-Satellit jetzt auf Zuruf Doom spielt",
@@ -1005,7 +1078,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.79,
     "items": [
      {
       "title": "Während die Nasa schon Astronauten ins All schickt: Warum China bei seinen Mond-Tests vorerst auf Menschen verzichtet",
@@ -1018,7 +1091,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.77,
     "items": [
      {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
@@ -1031,7 +1104,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Statt 9-to-5: Warum immer mehr Beschäftigte im Homeoffice auf „Microshifting“ setzen",
@@ -1044,7 +1117,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.69,
     "items": [
      {
       "title": "Phishing-Kampagne nutzt Microsoft-Cloud-Ausfall",
@@ -1057,20 +1130,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "Kurz gestartet, heimlich wieder geschlossen: Was Windows 11 im Hintergrund treibt, wenn du auf einen Link klickst",
-      "url": "https://t3n.de/news/windows-11-link-klick-was-passiert-1773016/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-15T14:55+01:00",
-      "teaser": "Viele Windows-11-User:innen wissen nicht, dass ein Klick auf einen Link nicht immer das Öffnen eines einzigen Browsers nach sich zieht. Das Betriebssystem öffnet gelegentlich eine Kopie mit einer zweiten Browser-Instanz. Warum das so ist. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.69,
     "items": [
      {
       "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
@@ -1083,7 +1143,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.69,
     "items": [
      {
       "title": "The Sony Aibo was a robot revolution dressed like a dog",
@@ -1091,45 +1151,6 @@
       "source": "The Verge",
       "date": "2026-11-15T08:57-05:00",
       "teaser": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And \"pet\" was exactly what"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.75,
-    "items": [
-     {
-      "title": "Wegen Foto- & Videozugriff: Meta soll in Italien 805 Millionen Euro Strafe zahlen",
-      "url": "https://www.golem.de/news/wegen-foto-videozugriff-meta-soll-in-italien-805-millionen-euro-strafe-zahlen-2611-215236.html",
-      "source": "Golem",
-      "date": "2026-11-15T14:48+01:00",
-      "teaser": "Metas Facebook-App greift laut italienischen Datenschützern ohne ausreichende Erlaubnis auf Daten zu. Der Konzern will die Strafe anfechten. ( Facebook , Soziales Netz )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.73,
-    "items": [
-     {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-15T13:37+00:00",
-      "teaser": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.71,
-    "items": [
-     {
-      "title": "Lieferungen: Amazon-Drohnenlärm verärgert Anwohner",
-      "url": "https://www.golem.de/news/lieferungen-amazon-drohnenlaerm-veraergert-anwohner-2611-215235.html",
-      "source": "Golem",
-      "date": "2026-11-15T14:17+01:00",
-      "teaser": "Amazon will seine Lieferdrohnen-Gebiete in den USA deutlich ausweiten. Wegen der Lärmentwicklung wollen mehrere US-Bundesstaaten dagegen vorgehen. ( Prime-Air , Amazon )"
      }
     ]
    }
@@ -1218,7 +1239,7 @@
    "topic": "Welt & Politik",
    "source": "Politico",
    "ok": true,
-   "items": 2
+   "items": 1
   },
   {
    "topic": "Welt & Politik",
@@ -1236,7 +1257,7 @@
    "topic": "Welt & Politik",
    "source": "CBC",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Welt & Politik",
@@ -1362,7 +1383,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "Zeit",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1416,7 +1437,7 @@
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 4
+   "items": 3
   },
   {
    "topic": "Sport",
