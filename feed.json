@@ -1,18 +1,11 @@
 {
- "fetchedAt": "2026-11-15T22:45:32+00:00",
+ "fetchedAt": "2026-11-15T23:51:27+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 5,
-    "score": 9.96,
+    "sourceCount": 4,
+    "score": 7.87,
     "items": [
-     {
-      "title": "Estonia to close Russia border after ‘sabotage’ bid, foreign minister says",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374514/estonia-close-russia-border-after-sabotage-bid-foreign-minister-says",
-      "source": "South China Morning Post",
-      "date": "2026-11-15T16:56+00:00",
-      "teaser": "Estonia said on Sunday it would close its border with Russia after stopping what it said was an attempted arson attack by Russia’s GRU military intelligence on a drone factory. “Estonia will close all Estonian-Russian border crossing points as of 1 December,” Foreign Minister Margus Tsahkna posted o"
-     },
      {
       "title": "Estonia to close all border crossings with Russia after attack on drone maker",
       "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
@@ -26,12 +19,19 @@
       "source": "France 24",
       "date": "2026-11-15T17:05+00:00",
       "teaser": "Estonia will close all its border crossing points with Russia from December 1, its ​foreign minister ‌said on Sunday, following a suspected ⁠sabotage attack on an Estonian defence company that Tallinn blamed on ‌Moscow."
+     },
+     {
+      "title": "Estonia to close border with Russia after Moscow-linked sabotage attempt on drone maker",
+      "url": "https://kyivindependent.com/estonia-to-close-border-with-russia-after-moscow-linked-sabotage-attempt-on-drone-maker/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-15T20:13+00:00",
+      "teaser": "The announcement followed an attempted attack on Threod Systems, an Estonian company that manufactures reconnaissance and attack drones, in the early hours of Nov. 14."
      }
     ]
    },
    {
     "sourceCount": 4,
-    "score": 7.83,
+    "score": 7.74,
     "items": [
      {
       "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
@@ -61,6 +61,60 @@
     "score": 5.98,
     "items": [
      {
+      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "source": "The Guardian",
+      "date": "2026-11-15T08:56+00:00",
+      "teaser": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confe"
+     },
+     {
+      "title": "Top scorer of South Korea tax accounting exam admits to AI cheating",
+      "url": "https://www.cbc.ca/news/world/south-korea-tax-accounting-exam-ai-cheating-9.7423029?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-15T18:35-05:00",
+      "teaser": "The marks attained by the top scorer on South Korea's national exam for aspiring tax accountants this year seemed too good to be true, and on ‌Sunday, skeptics were proven right when he confessed to using generative AI to cheat."
+     },
+     {
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-15T13:37+00:00",
+      "teaser": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.94,
+    "items": [
+     {
+      "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
+      "url": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
+      "source": "PBS NewsHour",
+      "date": "2026-11-15T18:02-05:00",
+      "teaser": "The preliminary finding from National Transportation Safety Board officials provided the first official word on what caused Friday's crash of the Atlantic Asphalt tanker into the American Heritage cruise ship, which sent passengers, crew and two police officers plunging into the Mississippi River."
+     },
+     {
+      "title": "Steering issue caused tanker to crash into cruise boat, U.S. officials say",
+      "url": "https://www.cbc.ca/news/world/tanker-cruise-ship-steering-problem-issue-mississippi-river-new-orleans-9.7423018?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-15T18:10-05:00",
+      "teaser": "The asphalt tanker vessel that struck a docked paddlewheel cruise boat in the Mississippi River at ‌New Orleans on Friday experienced a steering problem in which its rudder was stuck in one position, U.S. transportation safety officials ​said on Sunday."
+     },
+     {
+      "title": "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-15T22:57+00:00",
+      "teaser": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a steering failure before colliding with the cruise ship on Friday."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.88,
+    "items": [
+     {
       "title": "Australia, UK, Canada and Italy urge Israel to allow ‘rapid’ Gaza aid access",
       "url": "https://www.scmp.com/news/world/middle-east/article/3374519/australia-uk-canada-and-italy-urge-israel-allow-rapid-gaza-aid-access",
       "source": "South China Morning Post",
@@ -85,7 +139,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.87,
+    "score": 5.78,
     "items": [
      {
       "title": "Czechs stage huge rally against public-media funding overhaul",
@@ -112,34 +166,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.73,
-    "items": [
-     {
-      "title": "Nvidia-Skandal: Mutmaßliche Spionin Alice Huang soll nicht mehr bei Megaspeed arbeiten",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/alice-huang-megaspeed-spionage-nvidia-china-gxe",
-      "source": "Zeit",
-      "date": "2026-11-15T19:31+00:00",
-      "teaser": "Die Affäre des Ex-Nvidia-Chefs soll am Umgehen von Exportverboten durch die Firma Megaspeed beteiligt gewesen sein. Nach Firmenangaben spielt sie dort »keine Rolle« mehr."
-     },
-     {
-      "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
-      "url": "https://www.pbs.org/newshour/world/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout",
-      "source": "PBS NewsHour",
-      "date": "2026-11-15T11:48-05:00",
-      "teaser": "Megaspeed, which is under scrutiny over alleged transfers of advanced Nvidia chips to Chinese companies, also announced an internal investigation led by outside lawyers."
-     },
-     {
-      "title": "Megaspeed says Alice Huang left company in August 2025",
-      "url": "https://www.thehindu.com/news/international/megaspeed-says-alice-huang-left-company-in-august-2025/article71704620.ece",
-      "source": "The Hindu",
-      "date": "2026-11-15T18:42+05:30",
-      "teaser": "Megaspeed said it conducted \"legitimate ‌and lawful business\" and ​had retained external legal counsel to ⁠conduct a thorough internal ⁠investigation"
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.66,
+    "score": 5.57,
     "items": [
      {
       "title": "Israel kills senior member of Hamas's military wing in Gaza strike",
@@ -166,7 +193,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.57,
+    "score": 5.48,
     "items": [
      {
       "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
@@ -193,7 +220,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.9,
     "items": [
      {
       "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
@@ -213,7 +240,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.81,
     "items": [
      {
       "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
@@ -233,7 +260,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.77,
     "items": [
      {
       "title": "Ebola outbreak remains out of control in Congo 6 months into response",
@@ -253,7 +280,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.64,
     "items": [
      {
       "title": "Massenprotest gegen Rundfunkreform in Tschechien",
@@ -270,32 +297,12 @@
       "teaser": "Die tschechische Regierung will den öffentlich-rechtlichen Rundfunk künftig aus Staatsmitteln statt durch Rundfunkgebühren finanzieren. In Prag kam es nun zu Massenprotesten gegen die Pläne."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.66,
-    "items": [
-     {
-      "title": "Zelensky warns Starshield restrictions threaten Ukraine’s winter energy defences",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3374516/zelensky-says-starshield-restrictions-threaten-ukraines-energy-defences-ahead-winter",
-      "source": "South China Morning Post",
-      "date": "2026-11-15T18:10+00:00",
-      "teaser": "Restrictions on Ukraine’s Starshield satellite communications system are hindering its ability to intercept Russian drones, President Volodymyr Zelensky said on Sunday. He warned that limitations on the system, operated by Elon Musk’s SpaceX, could weaken defences around Ukraine’s energy infrastruct"
-     },
-     {
-      "title": "Zelenskyy says Starshield restrictions threaten Ukraine's energy defenses ahead of winter",
-      "url": "https://www.pbs.org/newshour/world/zelenskyy-says-starshield-restrictions-threaten-ukraines-energy-defenses-ahead-of-winter",
-      "source": "PBS NewsHour",
-      "date": "2026-11-15T13:40-05:00",
-      "teaser": "Restrictions on Ukraine's Starshield satellite communications system are hindering its ability to intercept Russian drones, President Volodymyr Zelenskyy said Sunday."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.8,
     "items": [
      {
       "title": "Söder: Stromsteuersenkung ist \"Glaubwürdigkeitsfrage\"",
@@ -315,7 +322,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.81,
+    "score": 3.72,
     "items": [
      {
       "title": "Krieg in der Ukraine: Estland schließt nach mutmaßlichem Sabotageangriff alle Grenzübergänge zu Russland",
@@ -335,7 +342,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.59,
+    "score": 3.5,
     "items": [
      {
       "title": "Linke in Berlin: Bodo Ramelow wirft Vanessa Emde Vertrauensbruch vor",
@@ -355,7 +362,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.34,
+    "score": 3.24,
     "items": [
      {
       "title": "Bremen stoppt umstrittene Kampagne gegen Islamisten",
@@ -375,7 +382,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.07,
+    "score": 2.98,
     "items": [
      {
       "title": "SPD: Hubertus Heil kündigt Kandidatur für Parteivorsitz an",
@@ -395,20 +402,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "source": "ZDF",
-      "date": "2026-11-15T23:11+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.85,
     "items": [
      {
       "title": "Stromausfall in Stuttgart nach Brand in Trafostation - Feuerwehr warnt vor Geruch",
@@ -421,7 +415,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.74,
     "items": [
      {
       "title": "Faas: \"Schwierige Situation für die Union\"",
@@ -434,7 +428,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.73,
     "items": [
      {
       "title": "Klopp: Infantino schlimmer als Blatter",
@@ -447,7 +441,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.73,
     "items": [
      {
       "title": "Alex Popp entscheidet Derby BVB gegen Schalke",
@@ -460,7 +454,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.72,
     "items": [
      {
       "title": "600 Schafe ziehen durch Nürnberger Innenstadt",
@@ -473,7 +467,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.71,
     "items": [
      {
       "title": "Auto stürzt von Brücke: Drei Tote nach Unfall in Baden-Baden",
@@ -483,12 +477,64 @@
       "teaser": "Bei einem Unfall in Baden-Baden sind am frühen Sonntagmorgen drei Menschen gestorben. Zwei weitere wurden leicht verletzt. Ein Auto stürzte von einer Brücke. Warum, ist unklar."
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.64,
+    "items": [
+     {
+      "title": "Klopp will Niederländern \"Stock in die Speichen halten\"",
+      "url": "https://www.zdfheute.de/sport/fussball-nations-league-deutschland-niederlande-vorbericht-nach-pk-100.html",
+      "source": "ZDF",
+      "date": "2026-11-15T20:35+01:00",
+      "teaser": "Die Vorfreude ist spürbar bei Jürgen Klopp und seiner Mannschaft: In der Nations League will die DFB-Elf mit einem Sieg gegen die Niederlande das Weiterkommen sichern."
+     }
+    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Tygodniowy flesz - terminy, wskaźniki, stawki: 16-22 listopada 2026 r.",
+      "url": "https://pro.rp.pl/kalendarium/art45491351-tygodniowy-flesz-terminy-wskazniki-stawki-16-22-listopada-2026-r",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T00:07+01:00",
+      "teaser": "Najważniejsze terminy na ten tydzień. Aktualne wskaźniki i stawki - informacje przydatne dla księgowych, podatników i kadrowych. Jakie akty prawne wchodzą w życie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Wielkie liczby lekkiej logistyki",
+      "url": "https://logistyka.rp.pl/drogowy/art45491121-wielkie-liczby-lekkiej-logistyki",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T00:00+01:00",
+      "teaser": "System TMS pozwala DPD Polska okiełznać codziennie milionowe potoki przesyłek i tysiące samochodów."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Walczymy z oszustwami w sieci",
+      "url": "https://cyfrowa.rp.pl/it/art45483721-walczymy-z-oszustwami-w-sieci",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T00:00+01:00",
+      "teaser": "Nowe metody walki z oszustami i odpowiedź na doniesienia Rafała Brzoski o rosyjskich tropach w internetowym scamie – o bezpieczeństwie na Facebooku i Instagramie mówi Nathaniel Gleicher, globalny szef Mety ds. zwalczania oszustw."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Nieudana misja rakiety Vulcan Centaur. Amazon stracił 40 satelitów",
@@ -501,7 +547,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.85,
     "items": [
      {
       "title": "Jensen Huang chce wrócić do Nvidii. Powstaje specjalny sztab, w grze Biały Dom",
@@ -514,7 +560,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.84,
     "items": [
      {
       "title": "Zełenski zaapelował do Muska i USA. \"Ważne jest, by stanąć po właściwej stronie historii\"",
@@ -527,7 +573,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.79,
     "items": [
      {
       "title": "Zmiany w NATO. Sojusz rezygnuje ze szczytu w Albanii w 2027 roku",
@@ -540,20 +586,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Pogrzeb zamachowca z Krakowa. Rodzina wydała oświadczenie",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33133248,pogrzeb-zamachowca-z-krakowa-rodzina-wydala-oswiadczenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-15T21:09+00:00",
-      "teaser": "Rodzina zamachowca z Krakowa wydała oświadczenie w sprawie jego pogrzebu. Jak podaje Interia, bliscy sprzeciwiają się obecności mediów na uroczystości i zapowiadają możliwość podjęcia kroków prawnych."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.77,
     "items": [
      {
       "title": "Zełenski: unieruchomiliśmy ponad 55 proc. mocy przerobowych rafinerii w Rosji",
@@ -566,7 +599,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.77,
+    "items": [
+     {
+      "title": "Pogrzeb zamachowca z Krakowa. Rodzina wydała oświadczenie",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33133248,pogrzeb-zamachowca-z-krakowa-rodzina-wydala-oswiadczenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-15T21:09+00:00",
+      "teaser": "Rodzina zamachowca z Krakowa wydała oświadczenie w sprawie jego pogrzebu. Jak podaje Interia, bliscy sprzeciwiają się obecności mediów na uroczystości i zapowiadają możliwość podjęcia kroków prawnych."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.71,
     "items": [
      {
       "title": "Drony znów zaatakowały statki na Morzu Czarnym. Wybuchły pożary",
@@ -579,7 +625,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.77,
+    "score": 1.68,
     "items": [
      {
       "title": "Leon XIV w Andach. Papież zwrócił się do chorych i mieszkańców Peru",
@@ -592,7 +638,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.68,
+    "score": 1.59,
     "items": [
      {
       "title": "Tragedia w słowackich Tatrach. Nie żyje 25-letni Polak. Zginął podczas wyprawy na Gerlach",
@@ -602,51 +648,12 @@
       "teaser": "25-letni turysta z Polski zginął w słowackich Tatrach po upadku z wysokości około 100 metrów. Do wypadku doszło w masywie Gerlacha, w rejonie Batyżowieckiej Próby. Mimo podjętej reanimacji życia mężczyzny nie udało się uratować."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.64,
-    "items": [
-     {
-      "title": "Małopolska policja prostuje doniesienia wokół zamachu w Krakowie. \"Prosimy o niewprowadzanie w błąd\"",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33133124,malopolska-policja-prostuje-doniesienia-wokol-zamachu-w-krakowie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-15T18:29+00:00",
-      "teaser": "\"Ani jeden policjant Komendy Miejskiej Policji w Krakowie nie został delegowany do Warszawy\" - poinformowała małopolska policja. To odpowiedź na zarzuty, że wysłanie krakowskich funkcjonariuszy między innymi w rejon Trybunału Konstytucyjnego w Warszawie miało negatywny wpływ na bezpieczeństwo w Krak"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.61,
-    "items": [
-     {
-      "title": "Czesi bronią abonamentu RTV. Rekordowa liczba protestujących w Pradze",
-      "url": "https://www.rp.pl/swiat/art45491431-czesi-bronia-abonamentu-rtv-rekordowa-liczba-protestujacych-w-pradze",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-15T19:06+01:00",
-      "teaser": "Około 400 tys. osób manifestowało w niedzielę w Pradze poparcie dla mediów publicznych w związku z planami czeskiego rządu dotyczącymi ograniczenia ich finansowania. Zdaniem organizatorów wiecu mogło być to największe zgromadzenie w historii Republiki Czeskiej."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.58,
-    "items": [
-     {
-      "title": "Starcia polskich kibiców z rumuńską policją. Media: Zatrzymywano też niewinne osoby",
-      "url": "https://www.rp.pl/spoleczenstwo/art45491411-starcia-polskich-kibicow-z-rumunska-policja-media-zatrzymywano-tez-niewinne-osoby",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-15T18:40+01:00",
-      "teaser": "105 osób, w tym 100 obywateli Polski, przewieziono na komisariaty po zamieszkach w Bukareszcie. Jak opisuje GOLAZO.ro, część kibiców atakowała żandarmów, ale podczas interwencji dochodziło również do pomyłek przy identyfikowaniu uczestników zajść."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 2,
-    "score": 3.69,
+    "sourceCount": 3,
+    "score": 5.92,
     "items": [
      {
       "title": "Business-Ticker: FT: Jensen Huang erwägt Rückkehr als Nvidia-CEO",
@@ -654,6 +661,13 @@
       "source": "FAZ",
       "date": "2026-11-15T18:09+00:00",
       "teaser": "Huang-Verbündete wollen den Ex-CEO zurück an die Nvidia-Spitze holen +++ Cyberangriff auf französischen Post-Dienstleister: Daten von 22 Millionen Menschen abgegriffen +++ alle Neuigkeiten im Unternehmen-Liveblog"
+     },
+     {
+      "title": "Nvidia-Skandal: Jensen Huang erwägt laut Bericht Rückkehr als Nvidia-Chef",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-ceo-rueckkehr-elon-musk-altimeter-capital",
+      "source": "Zeit",
+      "date": "2026-11-15T22:50+00:00",
+      "teaser": "Jensen Huangs Rücktritt als Nvidia-Chef liegt erst Tage zurück. Dennoch soll er die Rückkehr an die Unternehmensspitze planen. US-Finanzminister Bessent hält davon wenig."
      },
      {
       "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
@@ -666,27 +680,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.52,
+    "score": 3.96,
     "items": [
      {
-      "title": "CSU will Abschläge für Frührentner erhöhen",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-14T12:44+01:00",
-      "teaser": "Wegen der angespannten Haushaltslage will die Regierung weniger Milliarden an die Rentenversicherung überweisen. Um das Loch zu stopfen, sollen die Abschläge für Frührentner steigen."
+      "title": "Burnham vows to reopen Brexit debate as he paves way for UK-EU ‘reset’ deal",
+      "url": "https://www.ft.com/content/f3564bae-f3b8-4d55-be4b-3d0930d6f948?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-15T23:21+00:00",
+      "teaser": "Prime minister will tell a City of London audience that he is prepared for a national discussion about a longer-term accord with Europe"
      },
      {
-      "title": "Rentenreform: CSU fordert höhere Abschläge für Frührentner",
-      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/csu-fordert-hoehere-abschlaege-fuer-fruehrentner-streit-mit-spd-eskaliert-accg-201684748.html",
-      "source": "FAZ",
-      "date": "2026-11-15T16:56+00:00",
-      "teaser": "In der Diskussion um die Rentenreform prescht die CSU vor und erhöht den Druck auf die SPD. Kommt der Kabinettsbeschluss noch in diesem Jahr?"
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-15T22:00+00:00",
+      "teaser": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.04,
+    "score": 2.95,
     "items": [
      {
       "title": "Wirtschaftskrise in Deutschland: Handwerk warnt vor »stillem Sterben der Betriebe«",
@@ -706,7 +720,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Trump loses. European populism lives on | Martin Wolf on the US midterms",
+      "url": "https://www.ft.com/video/a850f929-d16a-40a0-bdd8-c153452016fc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-15T23:45+00:00",
+      "teaser": "Now, with the Democrats’ sweeping victory, could the tide be turning against rightwing populism on both sides of the Atlantic?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
@@ -719,20 +746,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.89,
     "items": [
      {
       "title": "Iran attacks Bahrain in escalation of Gulf hostilities",
       "url": "https://www.ft.com/content/fc7ccc23-c051-49e6-85e5-8d8ba0a83ef9?syn-25a6b1a6=1",
       "source": "Financial Times",
       "date": "2026-11-15T22:33+00:00",
-      "teaser": "Bahrain says it has intercepted two Iranian barrages this week after months of relative calm"
+      "teaser": "Kingdom says it has intercepted two barrages this week after months of relative calm"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.88,
     "items": [
      {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
@@ -745,7 +772,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.86,
     "items": [
      {
       "title": "EU banking watchdog veers away from single deposit insurance scheme",
@@ -758,20 +785,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-15T22:00+00:00",
-      "teaser": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.81,
     "items": [
      {
       "title": "Nvidia: Huang spricht offenbar über Rückkehr an Nvidia-Spitze – Bessent fordert neuen Chef von außerhalb",
@@ -784,7 +798,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.76,
     "items": [
      {
       "title": "Auslöser gefunden: US-Flugverkehr soll sich erst am Montag wieder normalisieren",
@@ -797,7 +811,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.76,
     "items": [
      {
       "title": "Estonia to close border with Russia after second alleged sabotage attempt",
@@ -810,7 +824,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.72,
     "items": [
      {
       "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
@@ -825,7 +839,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.85,
+    "score": 7.76,
     "favorite": true,
     "items": [
      {
@@ -839,7 +853,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.77,
+    "score": 7.68,
     "favorite": true,
     "items": [
      {
@@ -853,7 +867,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.74,
+    "score": 7.65,
     "favorite": true,
     "items": [
      {
@@ -867,7 +881,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.81,
     "items": [
      {
       "title": "LIVE!-Blog zum \"Endspiel\" in Berlin gegen die Niederlande",
@@ -886,35 +900,8 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "Bundesliga der Frauen: Bayern München dominiert den VfL Wolfsburg beim 4:1 im Topspiel",
-      "url": "https://www.spiegel.de/sport/fussball/bundesliga-der-frauen-bayern-muenchen-dominiert-den-vfl-wolfsburg-beim-4-1-im-topspiel-a-e8f7d76f-0899-47b5-9e0d-7e7fd06c38ea#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-14T20:35+01:00",
-      "teaser": "Wolfsburg gegen Bayern München, es sollte das Topspiel in der Fußball-Bundesliga der Frauen sein. Tatsächlich zeigte die Partie: Bei den Frauen herrschen längst die gleichen Verhältnisse wie bei den Männern."
-     },
-     {
-      "title": "FRauen-BUndesliga: FC Bayern demontiert Wolfsburg",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-siegt-in-frauen-fussball-bundesliga-beim-vfl-wolfsburg-accg-201683820.html",
-      "source": "FAZ",
-      "date": "2026-11-14T19:26+00:00",
-      "teaser": "Souveräner Sieg im Spitzenspiel: Die Frauen des FC Bayern gewinnen beim VfL Wolfsburg mit 4:1. Vor über zwei Jahren kassierten sie dort ihre letzte Bundesliga-Niederlage."
-     },
-     {
-      "title": "Frauen-Bundesliga: VfL Wolfsburg verliert Top-Spiel gegen Bayern München",
-      "url": "https://www.sportschau.de/regional/ndr/vfl-wolfsburg-verliert-top-spiel-gegen-bayern-muenchen-deutlich,wolfsburg-bayern-220.html",
-      "source": "Sportschau",
-      "date": "2026-11-14T21:51+01:00",
-      "teaser": "Die VfL-Frauen waren gegen offensiv eiskalt agierende Münchnerinnen chancenlos. In der Tabelle enteilt der FCB den \"Wölfinnen\"."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.7,
     "items": [
      {
       "title": "Fifa: Jürgen Klopp wünscht sich Abgang von Gianni Infantino",
@@ -934,7 +921,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.64,
     "items": [
      {
       "title": "Niederlande-Spiel: So kommt das DFB-Team ins Nations-League-Viertelfinale",
@@ -954,7 +941,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.64,
     "items": [
      {
       "title": "Fußball: Ronaldinho feiert Comeback als Profifußballer in Italien",
@@ -974,7 +961,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.06,
+    "score": 2.97,
     "items": [
      {
       "title": "Fifa: Arsène Wenger als möglicher Kandidat für Infantino-Nachfolge",
@@ -994,40 +981,53 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Lamine supera a Kane pero pierde",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004251428/lamine-supera-kane-pierde.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-15T23:27+01:00",
-      "teaser": "La selección española acabó su racha de 43 partidos sin derrota ante una gran Inglaterra , que en 20 minutos (los primeros 10 de la primera parte y de la segunda) resolvió un partido que el equipo de Luis de la Fuente mereció empatar en un final eléctrico. Lamine ganó su duelo personal con Kane y lo"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Spanien knackt 40er-Marke: Die längsten Ungeschlagen-Serien von Nationalmannschaften",
-      "url": "https://www.kicker.de/spanien-knackt-40er-marke-die-laengsten-ungeschlagen-serien-von-nationalmannschaften-1257186/slideshow#omrss",
-      "source": "kicker",
-      "date": "2026-11-15T22:20+00:00",
-      "teaser": "Auf Klub-Ebene eine gesamte Saison lang ungeschlagen zu bleiben, haben etwa der FC Arsenal 2004 oder Bayer Leverkusen 2024 geschafft. Aber wie sieht das bei Nationalmannschaften aus? Eine Übersicht über die längsten Ungeschlagen-Serien."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
     "score": 1.96,
     "items": [
      {
-      "title": "Nations League: Diese Viertelfinalisten stehen schon fest",
-      "url": "https://www.kicker.de/nations-league-diese-viertelfinalisten-stehen-schon-fest-1271921/artikel#omrss",
+      "title": "Bergers Traum von der Titelverteidigung platzt spät",
+      "url": "https://www.kicker.de/gotham-gegen-kansas-city-2026-nwsl-finale-5276095/spielbericht#omrss",
       "source": "kicker",
-      "date": "2026-11-15T22:17+00:00",
-      "teaser": "Am Sonntagabend haben sich mit Belgien und Frankreich zwei weitere Teams ihre Tickets für das Nations-League-Viertelfinale gesichert. Welche Teams sind noch weiter und wer zittert noch? Eine Übersicht."
+      "date": "2026-11-15T23:19+00:00",
+      "teaser": "Ann-Katrin Bergers Traum von der erfolgreichen Titelverteidigung in der US-Profiliga NWSL ist geplatzt. Die 36-Jährige unterlag mit Gotham FC im Playoff-Halbfinale den Kansas City Current mit 1:2 (0:1)."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Andrejewa gewinnt Endspiel gegen Switolina",
+      "url": "https://www.sportschau.de/tennis/wta/andrejewa-gewinnt-endspiel-gegen-switolina,wta-finale-endspiel-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-16T00:05+01:00",
+      "teaser": "French-Open-Siegerin Mirra Andrejewa hat zum ersten Mal bei den WTA Finals triumphiert."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "England beendet historische Spanien-Serie: \"Wir wussten, dass wir sie schlagen werden\"",
+      "url": "https://www.kicker.de/england-beendet-historische-spanien-serie-wir-wussten-dass-wir-sie-schlagen-werden-1271928/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-15T23:00+00:00",
+      "teaser": "Im Duell um den Nations-League-Gruppensieg hat England dem schier unbesiegbar wirkenden Spanien nach über zweieinhalb Jahren die erste Niederlage aus dem Spiel heraus zugefügt. Thomas Tuchel sprach von der besten Leistung seiner Amtszeit."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Nations League: Belgien verpasst Italien herben Rückschlag",
+      "url": "https://www.sportschau.de/fussball/nationsleague/belgien-verpasst-italien-herben-rueckschlag,belgien-italien-frankreich-tuerkei-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-15T23:46+01:00",
+      "teaser": "Italiens Nationalteam wähnte sich in der Nations League im Aufwind, führte auch in Belgien - und brachte sich dann innerhalb von elf Minuten um den Lohn."
      }
     ]
    }
@@ -1035,7 +1035,27 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source": "The Verge",
+      "date": "2026-11-15T16:05-05:00",
+      "teaser": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the nec"
+     },
+     {
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "source": "Ars Technica",
+      "date": "2026-11-15T23:11+00:00",
+      "teaser": "This was the first total mission failure in United Launch Alliance's 20-year history."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.74,
     "items": [
      {
       "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
@@ -1055,7 +1075,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+      "source": "New York Times",
+      "date": "2026-11-15T22:53+00:00",
+      "teaser": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves",
+      "url": "https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html",
+      "source": "New York Times",
+      "date": "2026-11-15T22:55+00:00",
+      "teaser": "The archive, which is home to tales inspired by the likes of “Harry Potter” and “Heated Rivalry,” was taken down more than two weeks ago, leaving its fans bereft."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
@@ -1068,7 +1114,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "Listen to this: Armand Hammer’s Snakes & Ladders",
@@ -1081,20 +1127,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-      "source": "The Verge",
-      "date": "2026-11-15T16:05-05:00",
-      "teaser": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the nec"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.7,
     "items": [
      {
       "title": "Fehler der Betrüger: Verbraucherschützer entdecken Liste mit über 2.500 Fake-Shops",
@@ -1107,7 +1140,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.62,
     "items": [
      {
       "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
@@ -1120,7 +1153,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.61,
     "items": [
      {
       "title": "Rätselhafte „Little Red Dots“: Hat das James-Webb-Teleskop Schwarze Löcher direkt aus dem Urknall entdeckt?",
@@ -1133,7 +1166,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.55,
     "items": [
      {
       "title": "Schlafanalyse: Forscher entwickeln KI, die Gehirnströme sekundengenau analysiert",
@@ -1146,7 +1179,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.5,
     "items": [
      {
       "title": "Betrugsmasche auf Linkedin: Wenn der Headhunter echt ist – aber das Jobangebot nicht",
@@ -1159,7 +1192,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.54,
+    "score": 1.45,
     "items": [
      {
       "title": "Teilerfolg für SpaceX: Starship erstmals aufgefangen, Booster geht der Treibstoff aus",
@@ -1167,32 +1200,6 @@
       "source": "t3n",
       "date": "2026-11-15T18:15+01:00",
       "teaser": "Beim 15. Testflug der Riesenrakete Starship ist es der Raumfahrtfirma SpaceX erstmals gelungen, die – ebenfalls Starship genannte – obere Stufe mit den Greifarmen am Startturm aufzufangen. Dem Super-Heavy-Booster ging allerdings der Treibstoff aus. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.53,
-    "items": [
-     {
-      "title": "Aufklärung oder Nudging - was hilft beim Stromsparen wirklich?",
-      "url": "https://t3n.de/news/stromsparen-aufklaerung-nudging-1773051/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-15T18:05+01:00",
-      "teaser": "Eine deutsch-schwedische Studie hat untersucht, wie sich Menschen am besten zum Stromsparen anregen lassen. Die gute Nachricht: Es funktioniert recht einfach. Die schlechte: Die Effekte verschwinden schnell wieder. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.52,
-    "items": [
-     {
-      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
-      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "date": "2026-11-15T12:00-05:00",
-      "teaser": "Amazon’s early Black Friday promos are already underway, and we’ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limit"
      }
     ]
    }
@@ -1209,7 +1216,7 @@
    "topic": "Welt & Politik",
    "source": "Deutsche Welle",
    "ok": true,
-   "items": 9
+   "items": 7
   },
   {
    "topic": "Welt & Politik",
@@ -1419,13 +1426,13 @@
    "topic": "Wirtschaft & Börse",
    "source": "Spiegel",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "topic": "Wirtschaft & Börse",
    "source": "Zeit",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1551,13 +1558,13 @@
    "topic": "Tech & KI",
    "source": "New York Times",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Tech & KI",
    "source": "Ars Technica",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Tech & KI",
