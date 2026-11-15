@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-15T20:46:02+00:00",
+ "fetchedAt": "2026-11-15T21:45:17+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 5,
-    "score": 9.98,
+    "score": 9.9,
     "items": [
      {
       "title": "Estonia to close Russia border after ‘sabotage’ bid, foreign minister says",
@@ -31,13 +31,13 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.76,
+    "score": 7.92,
     "items": [
      {
       "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
       "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
       "source": "Tagesschau",
-      "date": "2026-11-15T17:52+01:00",
+      "date": "2026-11-15T21:44+01:00",
       "teaser": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland."
      },
      {
@@ -58,7 +58,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.74,
+    "score": 7.66,
     "items": [
      {
       "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
@@ -85,7 +85,34 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.9,
+    "score": 5.95,
+    "items": [
+     {
+      "title": "Czechs stage huge rally against public-media funding overhaul",
+      "url": "https://www.scmp.com/news/world/europe/article/3374518/czechs-stage-huge-rally-against-public-media-funding-overhaul",
+      "source": "South China Morning Post",
+      "date": "2026-11-15T21:11+00:00",
+      "teaser": "Hundreds of thousands of Czechs rallied in Prague on Sunday against the nationalist government’s plan to overhaul public-media funding, which critics see as a threat to press freedom. The government of billionaire Prime Minister Andrej Babis wants to switch from funding Czech TV and Czech Radio thro"
+     },
+     {
+      "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
+      "url": "https://www.thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece",
+      "source": "The Hindu",
+      "date": "2026-11-15T21:39+05:30",
+      "teaser": "The massive protest took place at the capital's Letná Park, where huge crowds gathered during the 1989 Velvet Revolution, which ended more than 40 years of communist rule in the country"
+     },
+     {
+      "title": "Czechs rally against plan to switch funding of public media",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-15T21:03+00:00",
+      "teaser": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.81,
     "items": [
      {
       "title": "Nvidia-Skandal: Mutmaßliche Spionin Alice Huang soll nicht mehr bei Megaspeed arbeiten",
@@ -112,34 +139,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.89,
-    "items": [
-     {
-      "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
-      "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
-      "source": "France 24",
-      "date": "2026-11-15T19:28+00:00",
-      "teaser": "Houthi forces in Yemen have advanced to within 60 kilometres of Aden, the seat of the country's internationally recognised government, military and government sources said Sunday. The embattled government earlier announced it was pulling back its last forces from the Bab el-Mandeb Strait to defend i"
-     },
-     {
-      "title": "Yemeni government forces retreat from strait in major setback in war against Houthis",
-      "url": "https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece",
-      "source": "The Hindu",
-      "date": "2026-11-15T22:12+05:30",
-      "teaser": "Houthi gains in Yemen and attacks on Saudi Arabia and ‌Red Sea shipping in recent months have strengthened the position of Iran in the wider West Asia conflict ⁠launched by the United States and Israel in February"
-     },
-     {
-      "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
-      "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-15T17:33+00:00",
-      "teaser": "Spokesman for the Southern Armed Forces says group is repositioning from Dhubab airport and areas around Bab al-Mandeb."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.83,
+    "score": 5.75,
     "items": [
      {
       "title": "Israel kills senior member of Hamas's military wing in Gaza strike",
@@ -165,35 +165,28 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.72,
+    "sourceCount": 2,
+    "score": 3.95,
     "items": [
      {
-      "title": "Transportation head vows to find 'root cause' of ground stop. Trump breaks his silence on breakdown",
-      "url": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
+      "title": "Ebola outbreak remains out of control in Congo 6 months into response",
+      "url": "https://www.pbs.org/newshour/world/ebola-outbreak-remains-out-of-control-in-congo-6-months-into-response",
       "source": "PBS NewsHour",
-      "date": "2026-11-15T11:32-05:00",
-      "teaser": "Officials are analyzing two routers installed in recent weeks at Federal Aviation Administration facilities in Arkansas and Texas, according to Transportation Secretary Sean Duffy, who during appearances on five television news shows stepped up his push for Congress to provide billions more to upgra"
+      "date": "2026-11-15T16:07-05:00",
+      "teaser": "More than 11,000 cases have been recorded, and nearly half of those infected have died, according to government data. It is the deadliest of Congo's 17 outbreaks and is on track to surpass the death toll from the West African outbreak that killed 11,000 people between 2014 and 2016."
      },
      {
-      "title": "Trump breaks silence on US ground stop, demands more money from Congress",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374509/trump-breaks-silence-us-ground-stop-demands-more-money-congress",
-      "source": "South China Morning Post",
-      "date": "2026-11-15T15:00+00:00",
-      "teaser": "US President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade America’s air traffic control system. The Republican president has been conspicuously quiet on the ground stop s"
-     },
-     {
-      "title": "Trump breaks silence on nationwide ground stop, demands more money for FAA infrastructure from Congress",
-      "url": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-15T12:27-05:00",
-      "teaser": "U.S. President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade America’s air traffic control system."
+      "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+      "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-15T20:07+00:00",
+      "teaser": "'If we don't stop this outbreak now, it would be the worst Ebola outbreak,' Africa ​CDC director says."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.87,
     "items": [
      {
       "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
@@ -213,7 +206,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.82,
     "items": [
      {
       "title": "Massenprotest gegen Rundfunkreform in Tschechien",
@@ -233,7 +226,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.74,
     "items": [
      {
       "title": "Zelensky warns Starshield restrictions threaten Ukraine’s winter energy defences",
@@ -253,7 +246,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.81,
+    "score": 3.73,
     "items": [
      {
       "title": "Prince Harry visits Lviv to support Ukrainian veterans at Invictus Games",
@@ -273,21 +266,21 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.72,
+    "score": 3.56,
     "items": [
      {
-      "title": "Czechs gather in big numbers to reject government's plan to overhaul funding of public media",
-      "url": "https://www.thehindu.com/news/international/czechs-gather-in-big-numbers-to-reject-governments-plan-to-overhaul-funding-of-public-media/article71705495.ece",
-      "source": "The Hindu",
-      "date": "2026-11-15T21:39+05:30",
-      "teaser": "The massive protest took place at the capital's Letná Park, where huge crowds gathered during the 1989 Velvet Revolution, which ended more than 40 years of communist rule in the country"
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies: reports",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo",
+      "source": "South China Morning Post",
+      "date": "2026-11-15T16:31+00:00",
+      "teaser": "⁠Jensen Huang is considering a comeback as Nvidia’s chief executive, and has discussed with confidants the possibility of returning, the Financial Times ‌reported on Sunday, citing people familiar with the matter. One Huang ally told the Financial Times they were putting together a “war room” of Sil"
      },
      {
-      "title": "Czechs rally against plan to switch funding of public media",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-15T17:23+00:00",
-      "teaser": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
+      "title": "Jensen Huang: The French Connection",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261115-jensen-huang-the-french-connection",
+      "source": "France 24",
+      "date": "2026-11-15T15:03+00:00",
+      "teaser": "President Trump is heading to Asia in a few days time, and will meet President Putin and President Xi. There's likely to be one fewer tech giants at the table, Jensen Huang, newly resigned from Nvidia, over the suspected spy affair."
      }
     ]
    }
@@ -296,6 +289,26 @@
    {
     "sourceCount": 2,
     "score": 3.98,
+    "items": [
+     {
+      "title": "Söder: Stromsteuersenkung ist \"Glaubwürdigkeitsfrage\"",
+      "url": "https://www.zdfheute.de/politik/deutschland/soeder-csu-koalition-haushalt-stromsteuer-muetterrente-100.html",
+      "source": "ZDF",
+      "date": "2026-11-15T22:02+01:00",
+      "teaser": "CSU-Chef Markus Söder fordert im Haushaltsstreit eine Einigung bei der Stromsteuersenkung und der kalten Progression. \"Diese beiden Dinge müssen noch vom Tisch\", sagt er im ZDF."
+     },
+     {
+      "title": "Haushaltsentwurf: Söder will Stromsteuersenkung ohne Kürzung der Mütterrente",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/muetterrente-csu-markus-soeder-stromsteuer",
+      "source": "Zeit",
+      "date": "2026-11-15T21:30+00:00",
+      "teaser": "Der CSU-Chef hält die von der Union versprochene Senkung der Stromsteuer für finanzierbar. Die Ausweitung der Mütterrente solle dafür nicht herhalten, meint Markus Söder."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.9,
     "items": [
      {
       "title": "Krieg in der Ukraine: Estland schließt nach mutmaßlichem Sabotageangriff alle Grenzübergänge zu Russland",
@@ -315,7 +328,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.67,
     "items": [
      {
       "title": "Linke in Berlin: Bodo Ramelow wirft Vanessa Emde Vertrauensbruch vor",
@@ -335,7 +348,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.5,
+    "score": 3.42,
     "items": [
      {
       "title": "Bremen stoppt umstrittene Kampagne gegen Islamisten",
@@ -355,7 +368,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.23,
+    "score": 3.15,
     "items": [
      {
       "title": "SPD: Hubertus Heil kündigt Kandidatur für Parteivorsitz an",
@@ -375,7 +388,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Faas: \"Schwierige Situation für die Union\"",
+      "url": "https://www.zdfheute.de/video/heute-journal/gellinek-faas-schaltgespraech-100.html",
+      "source": "ZDF",
+      "date": "2026-11-15T21:45+01:00",
+      "teaser": "Ein Ausbleiben der Stromsteuer-Senkung sei \"nicht die einzige Sache, bei der die Glaubwürdigkeit der Union in Frage steht\", so Politikwissenschaftler Thorsen Faas."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Klopp: Infantino schlimmer als Blatter",
+      "url": "https://www.zdfheute.de/sport/video/fussball-klopp-infantino-fifa-100.html",
+      "source": "ZDF",
+      "date": "2026-11-15T21:39+01:00",
+      "teaser": "Jürgen Klopp hat seine Meinung zu FIFA-Chef Gianni Infantino deutlich gemacht: Der Schweizer sei schlimmer als sein viel kritisierter Vorgänger Sepp Blatter."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "600 Schafe ziehen durch Nürnberger Innenstadt",
@@ -388,7 +427,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "Alex Popp entscheidet Derby BVB gegen Schalke",
+      "url": "https://www.zdfheute.de/sport/video/fussball-frauen-dortmund-schalke-popp-100.html",
+      "source": "ZDF",
+      "date": "2026-11-15T21:36+01:00",
+      "teaser": "Wohl dem, der eine Alexandra Popp in seinen Reihen hat: Die Ex-Nationalspielerin entscheidet das Revierderby gegen Schalke mit drei Treffern zugunsten von Borussia Dortmund."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Auto stürzt von Brücke: Drei Tote nach Unfall in Baden-Baden",
@@ -400,28 +452,8 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-14T19:12+01:00",
-      "teaser": "Mitte Januar wird auf einem Bundesparteitag die komplette Führung der SPD neu gewählt. Ex-Arbeitsminister Heil hat laut ARD-Hauptstadtstudio jetzt als Erster offiziell seine Kandidatur für den Vorsitz angekündigt. Von Moritz Rödle."
-     },
-     {
-      "title": "SPD-Vorsitz: Früherer Arbeitsminister Hubertus Heil kandidiert für den SPD-Vorsitz",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/frueherer-arbeitsminister-hubertus-heil-kandidiert-fuer-den-spd-vorsitz",
-      "source": "Zeit",
-      "date": "2026-11-14T19:44+00:00",
-      "teaser": "Der frühere Arbeitsminister Hubertus Heil will SPD-Parteichef werden. Seine Bewerbung nutzte er für einen Angriff auf den aktuellen Vorsitzenden Lars Klingbeil."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.82,
     "items": [
      {
       "title": "Klopp will Niederländern \"Stock in die Speichen halten\"",
@@ -434,7 +466,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Prag: Zehntausende demonstrieren gegen Medienreform in Tschechien",
@@ -444,51 +476,51 @@
       "teaser": "Eine riesige Menschenmenge protestiert in Tschechien gegen geplante Änderungen bei der Finanzierung der öffentlich-rechtlichen Sender. Die rechte Regierung versucht zu beschwichtigen."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Stromausfall in Stuttgart-Süd nach Brand in Trafostation",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/stromausfall-in-stuttgart-sued-nach-brand-in-trafostation-100.html",
-      "source": "SWR",
-      "date": "2026-11-15T20:12+01:00",
-      "teaser": "Nach einem Brand in einer Trafostation in Stuttgart-Süd gibt es einen lokalen Stromausfall. Wie lange er dauert, ist noch unklar."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "source": "ZDF",
-      "date": "2026-11-15T19:56+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Heil zum angestrebten SPD-Vorsitz: \"Habe viel Zuspruch aus der Partei\"",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-15T19:44+01:00",
-      "teaser": "Die SPD sucht eine neue Parteispitze. Erster Bewerber ist Hubertus Heil. Er bekomme viel Zuspruch aus der Partei, sagte er im Bericht aus Berlin. Auch zu Vizekanzler Klingbeil äußerte er sich. Offen ließ Heil, mit welcher Frau er kandidieren will."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Zmiany w NATO. Sojusz rezygnuje ze szczytu w Albanii w 2027 roku",
+      "url": "https://www.rp.pl/polityka/art45491641-zmiany-w-nato-sojusz-rezygnuje-ze-szczytu-w-albanii-w-2027-roku",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-15T22:22+01:00",
+      "teaser": "NATO nie zorganizuje w Albanii szczytu przywódców w 2027 roku – informuje Associated Press. Agencja wskazuje na spory o wydatki obronne, napięcia polityczne i rosnące koszty organizacji spotkań."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Pogrzeb zamachowca z Krakowa. Rodzina wydała oświadczenie",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33133248,pogrzeb-zamachowca-z-krakowa-rodzina-wydala-oswiadczenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-15T21:09+00:00",
+      "teaser": "Rodzina zamachowca z Krakowa wydała oświadczenie w sprawie jego pogrzebu. Jak podaje Interia, bliscy sprzeciwiają się obecności mediów na uroczystości i zapowiadają możliwość podjęcia kroków prawnych."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Zełenski: unieruchomiliśmy ponad 55 proc. mocy przerobowych rafinerii w Rosji",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45491621-zelenski-unieruchomilismy-ponad-55-proc-mocy-przerobowych-rafinerii-w-rosji",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-15T22:03+01:00",
+      "teaser": "- Obecnie niemal każdego dnia odnosimy kolejne sukcesy. Łącznie do tej pory unieruchomiliśmy już ponad 55 proc. rosyjskich mocy przerobowych w sektorze rafineryjnym – poinformował w niedzielę prezydent Ukrainy Wołodymyr Zełenski."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "Drony znów zaatakowały statki na Morzu Czarnym. Wybuchły pożary",
@@ -501,7 +533,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Leon XIV w Andach. Papież zwrócił się do chorych i mieszkańców Peru",
@@ -514,7 +546,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.77,
     "items": [
      {
       "title": "Tragedia w słowackich Tatrach. Nie żyje 25-letni Polak. Zginął podczas wyprawy na Gerlach",
@@ -527,7 +559,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Małopolska policja prostuje doniesienia wokół zamachu w Krakowie. \"Prosimy o niewprowadzanie w błąd\"",
@@ -540,7 +572,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.78,
+    "score": 1.7,
     "items": [
      {
       "title": "Czesi bronią abonamentu RTV. Rekordowa liczba protestujących w Pradze",
@@ -553,7 +585,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.74,
+    "score": 1.66,
     "items": [
      {
       "title": "Starcia polskich kibiców z rumuńską policją. Media: Zatrzymywano też niewinne osoby",
@@ -566,7 +598,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.63,
     "items": [
      {
       "title": "Marcin Zieliński: Unia idzie na wojnę z nikotyną. Australia pokazała, że wygrywają ją przemytnicy",
@@ -579,7 +611,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.63,
     "items": [
      {
       "title": "Estonia zamknie wszystkie przejścia graniczne z Rosją. Premier: Nie damy się zastraszyć",
@@ -592,7 +624,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.61,
     "items": [
      {
       "title": "W poniedziałek koniec utrudnień w ruchu lotniczym w USA",
@@ -602,51 +634,32 @@
       "teaser": "Jeszcze w niedzielę wróci do normy sytuacja z systemem łączności, którego awaria sparaliżowała w weekend ruch lotniczy w USA, - zapowiedział minister transportu USA Sean Duffyw rozmowie ze stacją ABC. Jego zdaniem pełna normalizacja na lotniskach nastąpi prawdopodobnie dopiero w poniedziałek rano."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.69,
-    "items": [
-     {
-      "title": "„Rzecz o idei”: Kapitan państwo czy spółka akcyjna?",
-      "url": "https://www.rp.pl/kraj/art45486241-rzecz-o-idei-kapitan-panstwo-czy-spolka-akcyjna",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-15T18:00+01:00",
-      "teaser": "Policjant na każdym rogu i bramki w szkołach czy społeczne więzi? Tematem nowego odcinka „Rzeczy o idei” jest sprawność państwa oraz poszukiwanie odpowiedzi na nowy rodzaj przemocy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.66,
-    "items": [
-     {
-      "title": "OIPE, czyli Europejska Emerytura: komu się opłaca i co dała przez trzy lata",
-      "url": "https://www.rp.pl/projekty-specjalne/art45491221-oipe-czyli-europejska-emerytura-komu-sie-oplaca-i-co-dala-przez-trzy-lata",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-15T17:44+01:00",
-      "teaser": "Polacy coraz częściej boją się, że publiczna emerytura nie wystarczy. Od trzech lat mają do dyspozycji Europejską Emeryturę (OIPE): unijny produkt, w którym można inwestować na starość bez podatku Belki. Oszczędza w nim już ok. 10 tys. osób, a w 2027 r. pierwsi z nich skorzystają ze zwolnienia podat"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.63,
-    "items": [
-     {
-      "title": "Były ambasador RFN za zbiórką pieniędzy na „humanitarny gest”",
-      "url": "https://www.dw.com/pl/były-ambasador-rfn-za-zbiórką-pieniędzy-na-humanitarny-gest/a-79953042?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-15T16:18+00:00",
-      "teaser": "Były ambasador RFN w Polsce Rolf Nikel uważa, że wobec braku środków w budżecie na pomoc dla polskich ofiar wojny, niemieckie społeczeństwo obywatelskie powinno zainicjować zbiórkę pieniędzy, mobilizując też biznes."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.68,
+    "score": 3.78,
+    "items": [
+     {
+      "title": "Business-Ticker: FT: Jensen Huang erwägt Rückkehr als Nvidia-CEO",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mutmassliche-tech-spionin-alice-huang-arbeitet-nicht-mehr-fuer-megaspeed-faz-200452404.html",
+      "source": "FAZ",
+      "date": "2026-11-15T18:09+00:00",
+      "teaser": "Huang-Verbündete wollen den Ex-CEO zurück an die Nvidia-Spitze holen +++ Cyberangriff auf französischen Post-Dienstleister: Daten von 22 Millionen Menschen abgegriffen +++ alle Neuigkeiten im Unternehmen-Liveblog"
+     },
+     {
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-15T19:03+00:00",
+      "teaser": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.6,
     "items": [
      {
       "title": "CSU will Abschläge für Frührentner erhöhen",
@@ -666,7 +679,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.21,
+    "score": 3.13,
     "items": [
      {
       "title": "Wirtschaftskrise in Deutschland: Handwerk warnt vor »stillem Sterben der Betriebe«",
@@ -689,6 +702,32 @@
     "score": 1.98,
     "items": [
      {
+      "title": "Nvidia: US-Finanzminister fordert neuen Nvidia-Chef von außerhalb",
+      "url": "https://www.handelsblatt.com/technik/it-internet/nvidia-us-finanzminister-fordert-neuen-nvidia-chef-von-ausserhalb/100270044.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-15T21:32+00:00",
+      "teaser": "Scott Bessent ist der Meinung, dass der Chipkonzern einen „radikalen Umbruch“ brauche. Zugleich verlangt der US-Minister schon bald Antworten vom Verwaltungsrat."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Auslöser gefunden: US-Flugverkehr soll sich erst am Montag wieder normalisieren",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/sean-duffy-us-flugverkehr-normalisiert-sich-erst-am-montag-201685902.html",
+      "source": "FAZ",
+      "date": "2026-11-15T20:59+00:00",
+      "teaser": "Die technischen Probleme seien behoben, sagt US-Verkehrsminister Sean Duffy. Doch Flugzeuge und Besatzungen müssten wieder an die vorgesehenen Einsatzorte gebracht werden. Nun ist auch klar, was zu dem Stopp führte."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
       "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
       "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
       "source": "New York Times",
@@ -699,7 +738,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
       "title": "Behind the All-American Ralph Lauren Brand Is a French C.E.O.",
@@ -712,7 +751,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Flugverkehr: Airlines streichen weitere Flüge – US-Präsident Trump schaltet sich ein",
@@ -725,7 +764,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Megaspeed Says Alice Huang Left Company in August 2025",
@@ -738,7 +777,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.76,
     "items": [
      {
       "title": "Young Britons out of work or training for a year to be guaranteed jobs",
@@ -751,7 +790,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.75,
     "items": [
      {
       "title": "Viktor Orbán’s party reels from $20mn hidden cash discovery",
@@ -764,7 +803,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.74,
     "items": [
      {
       "title": "Deep Read: Ist der SPD-Parteichef noch zu retten?",
@@ -774,51 +813,26 @@
       "teaser": "Frauen, Jusos, Ruhr-SPD: Lars Klingbeil steht in der SPD stark in der Kritik. Nur seine intern stärkste Rivalin kann ihm wohl noch den Parteivorsitz sichern"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin",
-      "url": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-15T18:27+00:00",
-      "teaser": "Acquisition would be latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.79,
-    "items": [
-     {
-      "title": "Anthropic IPO to further fuel the AI news cycle",
-      "url": "https://www.ft.com/content/3c7c1b7a-541d-47a3-b074-b8e17e7b050c?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-15T18:15+00:00",
-      "teaser": "New York listing date arrives, Trump, Xi and Putin in Shenzhen, a UK-EU entente cordiale"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "Business-Ticker: FT: Jensen Huang erwägt Rückkehr als Nvidia-CEO",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-mutmassliche-tech-spionin-alice-huang-arbeitet-nicht-mehr-fuer-megaspeed-faz-200452404.html",
-      "source": "FAZ",
-      "date": "2026-11-15T18:09+00:00",
-      "teaser": "Huang-Verbündete wollen den Ex-CEO zurück an die Nvidia-Spitze holen +++ Cyberangriff auf französischen Post-Dienstleister: Daten von 22 Millionen Menschen abgegriffen +++ alle Neuigkeiten im Unternehmen-Liveblog"
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.93,
+    "score": 7.9399999999999995,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Autocrítica de Pere Romeu: \"No hemos tenido buen juego ni buen fútbol\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004251399/autocritica-pere-romeu-no-hemos-tenido-buen-juego-buen-futbol.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-15T21:58+01:00",
+      "teaser": "El mal empate del FC Barcelona contra el Deportivo Abanca (1-1) dejó un sabor amargo en el vestuario azulgrana y así lo expresó el técnico Pere Romeu , que fue muy autocrítico con el pobre rendimiento exhibido en Riazor. El entrenador dejó claro que \"no hemos hecho un buen partido\", aunque quiso des"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.85,
     "favorite": true,
     "items": [
      {
@@ -832,7 +846,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.9,
+    "score": 7.82,
     "favorite": true,
     "items": [
      {
@@ -845,20 +859,6 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.87,
-    "favorite": true,
-    "items": [
-     {
-      "title": "El seleccionador danés se verá con Flick para hablar de Christensen",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004251359/seleccionador-danes-vera-flick-hablar-christensen.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-15T20:10+01:00",
-      "teaser": "Brian Riemer tiene programada en su agenda una reunión con Hansi Flick para hablar sobre Andreas Christensen. El seleccionador de Dinamarca quiere informarse de primera mano con el técnico del Barça cómo se ha recuperado y cómo evoluciona el central de su última lesión y cuál es su estado físico act"
-     }
-    ]
-   },
-   {
     "sourceCount": 3,
     "score": 5.98,
     "items": [
@@ -866,7 +866,7 @@
       "title": "Spain v England: Nations League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live",
       "source": "The Guardian",
-      "date": "2026-11-15T20:30+00:00",
+      "date": "2026-11-15T21:29+00:00",
       "teaser": "Updates from 7.45pm (GMT) kick-off in Madrid Get in touch: email Daniel and follow us on BlueSky Tuchel speaks, telling ITV that “it’s a beautiful match”. They’ve qualified, done their homework and now can try and top the group. Quansah keeps his place for doing well, while he wants to see White und"
      },
      {
@@ -887,7 +887,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.9,
+    "score": 5.81,
     "items": [
      {
       "title": "In der Serie C: Ronaldinho feiert Pflichtspiel-Comeback nach über elf Jahren",
@@ -914,7 +914,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "LIVE!-Blog zum Niederlande-Spiel: Endspiel in Berlin",
+      "url": "https://www.kicker.de/live-blog-zum-niederlande-spiel-endspiel-in-berlin-1271913/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-15T21:32+00:00",
+      "teaser": "An diesem Montagabend will die deutsche Nationalelf in der Nations League das Viertelfinale klarmachen. In unserem LIVE!-Blog gibt es letzte Infos und Eindrücke rund ums Spiel in Berlin."
+     },
+     {
+      "title": "DFB-Team mit Druck vor \"Endspiel\" gegen die Niederlande",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-team-mit-druck-vor-endspiel-gegen-die-niederlande,fussball-dfb-team-abschlusstraining-vor-niederlande-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-15T15:26+01:00",
+      "teaser": "Mit einem Sieg gegen die Niederlande zieht das DFB-Team sicher ins Viertelfinale der Nations League ein. Die Statistik gibt Anlass zum Optimismus."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.87,
     "items": [
      {
       "title": "Fifa: Jürgen Klopp wünscht sich Abgang von Gianni Infantino",
@@ -934,7 +954,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.23,
+    "score": 3.14,
     "items": [
      {
       "title": "Fifa: Arsène Wenger als möglicher Kandidat für Infantino-Nachfolge",
@@ -954,40 +974,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.96,
     "items": [
      {
-      "title": "Stars wie Kane und Olise bleiben im Stress: Bayerns Kraftakt bis Weihnachten",
-      "url": "https://www.kicker.de/stars-wie-kane-und-olise-bleiben-im-stress-bayerns-kraftakt-bis-weihnachten-1271725/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-15T20:39+00:00",
-      "teaser": "Acht Pflichtspiele muss der FC Bayern noch bis Weihnachten bestreiten, ehe er etwas durchschnaufen kann. Beim Personal droht weiter Knappheit, die Gegner gehören jedoch alle zur Kategorie \"machbar\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Eintracht will \"zurück in die Top 25\" - Kemme in BTSV-Aufsichtsrat gewählt",
-      "url": "https://www.kicker.de/eintracht-will-zurueck-in-die-top-25-kemme-in-btsv-aufsichtsrat-gewaehlt-1271886/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-15T20:07+00:00",
-      "teaser": "Auf der Mitgliederversammlung von Eintracht Braunschweig hat der Aufsichtsratsvorsitzende Ullrich Wegner nicht nur ambitionierte Ziele ins Auge gefasst, sondern auch über die Personalie des Sport-Geschäftsführers Benjamin Kessel gesprochen. Im neuen Aufsichtsrat der Eintracht tummelt sich derweil fo"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "London City's 'bravery' paying off in top three pursuit",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-15T20:03+00:00",
-      "teaser": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three."
+      "title": "Eishockey: U20-Weltmeisterschaft im Eishockey findet ohne Russland statt",
+      "url": "https://www.zeit.de/sport/2026-11/u20-eishockey-wm-kanada-russland-visa-iihf",
+      "source": "Zeit",
+      "date": "2026-11-15T21:15+00:00",
+      "teaser": "Da der Gastgeber Kanada keine Visa für russische Spieler ausstellt, wird das U20-Turnier ohne Russland stattfinden. Der Deutsche Eishockey-Bund begrüßt die Entscheidung."
      }
     ]
    },
@@ -996,11 +990,11 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Klopp teilt aus: Lustvoll ledern gegen Infantino",
-      "url": "https://www.faz.net/aktuell/sport/fussball/juergen-klopp-ledert-gegen-fifa-chef-gianni-infantino-vor-holland-spiel-201685691.html",
-      "source": "FAZ",
-      "date": "2026-11-15T19:53+00:00",
-      "teaser": "Vor dem Nations-League-Spiel gegen die Niederlande setzt Bundestrainer Jürgen Klopp politisch einen Punkt. Auch das Duell der Entertainer gegen Xavi gewinnt er locker."
+      "title": "Das Erfolgsgeheimnis des spanischen Fußballs",
+      "url": "https://www.sportschau.de/video/das-erfolgsgeheimnis-des-spanischen-fussballs,video-spanien-story-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-15T21:51+01:00",
+      "teaser": "Ob Champions League oder Weltmeisterschaft, Frauen oder Männer: wenn es um die großen Erfolge im Fußball geht, sind spanische Mannschaften und Trainer auffallend oft ganz vorne mit dabei. Doch was macht den spanischen Fußball so erfolgreich?"
      }
     ]
    },
@@ -1009,32 +1003,78 @@
     "score": 1.92,
     "items": [
      {
-      "title": "Havertz lobt Lijnders: \"Generell ein überragender Trainer\"",
-      "url": "https://www.kicker.de/havertz-lobt-lijnders-generell-ein-ueberragender-trainer-1271901/video#omrss",
-      "source": "kicker",
-      "date": "2026-11-15T19:46+00:00",
-      "teaser": "Pepijn Lijnders steht Jürgen Klopp mit Rat und Tat zur Seite und trifft jetzt mit dem DFB auf sein Heimatland. Kai Havertz nutzt die Gelegenheit, um dem Co-Trainer ein großes Lob auszusprechen."
+      "title": "Man Utd target Fulham's Bassey - Monday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cklyegvq86w8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-15T20:47+00:00",
+      "teaser": "Manchester United target Fulham's Calvin Bassey and Brentford's Nathan Collins, AC Milan want Real Madrid's Endrick on loan, plus more."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "SC Magdeburg ballert sich nach Gala gegen Flensburg an die Spitze",
+      "url": "https://www.sportschau.de/regional/mdr/handball-bundesliga-sc-magdeburg-sg-flensburg-handewitt,spielbericht-scm-fle-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-15T21:48+01:00",
+      "teaser": "Der SC Magdeburg hat die SG Flensburg-Handewitt im Spitzenspiel nach einer Machtdemonstration entzaubert und die Tabellenspitze übernommen."
      }
     ]
    }
   ],
   "Tech & KI": [
    {
-    "sourceCount": 1,
-    "score": 1.87,
+    "sourceCount": 2,
+    "score": 3.91,
     "items": [
      {
-      "title": "Rätselhafte „Little Red Dots“: Hat das James-Webb-Teleskop Schwarze Löcher direkt aus dem Urknall entdeckt?",
-      "url": "https://t3n.de/news/little-red-dots-schwarze-loecher-1772783/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-15T20:10+01:00",
-      "teaser": "Auf Infrarotbildern aus dem jungen Universum leuchten hunderte kleine Lichtquellen auf, die im späteren Kosmos verschwunden sind. Einer dieser Funde wirft nun die Frage auf, wie dort ein Schwergewicht noch vor seiner eigenen Galaxie entstand. weiterlesen auf t3n.de"
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "source": "The Verge",
+      "date": "2026-11-15T15:43-05:00",
+      "teaser": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a "
+     },
+     {
+      "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
+      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+      "source": "New York Times",
+      "date": "2026-11-15T12:40+00:00",
+      "teaser": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "source": "The Verge",
+      "date": "2026-11-15T16:05-05:00",
+      "teaser": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the nec"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "Fehler der Betrüger: Verbraucherschützer entdecken Liste mit über 2.500 Fake-Shops",
+      "url": "https://t3n.de/news/liste-fake-shops-1773682/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-15T21:16+01:00",
+      "teaser": "Verbraucherschützer:innen der Watchlist Internet haben im Quelltext eines Fake-Shops über 2.500 Domains weiterer betrügerischer Online-Shops entdeckt. Gut 1.800 dieser teils schon aktiven Fake-Shops sollen auch für Deutschland relevant sein. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.79,
     "items": [
      {
       "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
@@ -1047,7 +1087,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.78,
+    "items": [
+     {
+      "title": "Rätselhafte „Little Red Dots“: Hat das James-Webb-Teleskop Schwarze Löcher direkt aus dem Urknall entdeckt?",
+      "url": "https://t3n.de/news/little-red-dots-schwarze-loecher-1772783/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-15T20:10+01:00",
+      "teaser": "Auf Infrarotbildern aus dem jungen Universum leuchten hunderte kleine Lichtquellen auf, die im späteren Kosmos verschwunden sind. Einer dieser Funde wirft nun die Frage auf, wie dort ein Schwergewicht noch vor seiner eigenen Galaxie entstand. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.73,
     "items": [
      {
       "title": "Schlafanalyse: Forscher entwickeln KI, die Gehirnströme sekundengenau analysiert",
@@ -1060,7 +1113,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.67,
     "items": [
      {
       "title": "Betrugsmasche auf Linkedin: Wenn der Headhunter echt ist – aber das Jobangebot nicht",
@@ -1073,7 +1126,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.63,
     "items": [
      {
       "title": "Teilerfolg für SpaceX: Starship erstmals aufgefangen, Booster geht der Treibstoff aus",
@@ -1086,7 +1139,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.61,
     "items": [
      {
       "title": "Aufklärung oder Nudging - was hilft beim Stromsparen wirklich?",
@@ -1099,7 +1152,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.6,
     "items": [
      {
       "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
@@ -1112,7 +1165,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.6,
     "items": [
      {
       "title": "Apple’s first smart glasses are coming together",
@@ -1125,7 +1178,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.55,
     "items": [
      {
       "title": "Schluss mit groben Schätzungen: Samsung will inneres Bauchfett künftig per Smartwatch-Radar scannen",
@@ -1133,45 +1186,6 @@
       "source": "t3n",
       "date": "2026-11-15T17:20+01:00",
       "teaser": "Samsung hat eine Methode patentiert, wie zukünftige Galaxy-Watch-Modelle das gefährliche viszerale Bauchfett präziser messen können sollen. Dabei soll ein Ultrabreitband-Radar statt des bisher bekannten BIA-Sensors zum Einsatz kommen. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.6,
-    "items": [
-     {
-      "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
-      "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
-      "source": "The Verge",
-      "date": "2026-11-15T11:00-05:00",
-      "teaser": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitting circle, the impeachment of a hypocritical HOA president, or a COVID outbreak"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.58,
-    "items": [
-     {
-      "title": "Vom Hausdach in Oslo direkt in den Orbit: Warum ein Esa-Satellit jetzt auf Zuruf Doom spielt",
-      "url": "https://t3n.de/news/doom-esa-satellit-1772441/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-15T16:45+01:00",
-      "teaser": "Ein Satellit, der unter anderem von der Esa betrieben wird, hat einen besonderen Meilenstein erreicht. Der Satellit ließ sich per Spracheingabe dazu bewegen, Doom zu spielen. Warum das für künftige Projekte so wichtig ist. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.53,
-    "items": [
-     {
-      "title": "Während die Nasa schon Astronauten ins All schickt: Warum China bei seinen Mond-Tests vorerst auf Menschen verzichtet",
-      "url": "https://t3n.de/news/china-raumfahrt-roboter-1772622/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-15T16:10+01:00",
-      "teaser": "Die chinesische Raumfahrtbehörde CNSA will im Rennen zum Mond zunächst nur unbemannte Raketen ins All schicken. Die Missionen spielen auch für die chinesische Robotikbranche eine wichtige, wirtschaftliche Rolle. Denn die ist zuletzt ins Stocken geraten. weiterlesen auf t3n.de"
      }
     ]
    }
@@ -1452,7 +1466,7 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Sport",
@@ -1506,7 +1520,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 2
+   "items": 1
   },
   {
    "topic": "Tech & KI",
