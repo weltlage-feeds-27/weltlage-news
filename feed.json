@@ -1,18 +1,92 @@
 {
- "fetchedAt": "2026-11-16T15:11:46+00:00",
+ "fetchedAt": "2026-11-16T16:45:28+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.4,
+    "score": 7.99,
     "items": [
      {
-      "title": "News kompakt: Dritter US-Flugzeugträger erreicht Nahen Osten",
-      "url": "https://www.dw.com/de/news-kompakt-dritter-us-flugzeugträger-erreicht-nahen-osten/a-79954671?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-16T08:00+00:00",
-      "teaser": "Die Entsendung des dritten US-Flugzeugträgers in den Nahen Osten war seit Wochen bekannt. Nun soll er eingetroffen sein. Bei der UN-Klimakonferenz in Antalya beginnt die entscheidende Woche. Der DW-Nachrichtenüberblick."
+      "title": "US judge sets March retrial for Lindsay Clancy, accused of killing her 3 children",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374644/judge-sets-march-retrial-lindsay-clancy-accused-killing-her-3-children",
+      "source": "South China Morning Post",
+      "date": "2026-11-16T16:41+00:00",
+      "teaser": "A Massachusetts judge on Monday set a second trial for Lindsay Clancy for March 29 after a jury deadlocked in her initial trial on murder charges for killing her three young children at her home in 2023. During a hearing in Plymouth, Massachusetts, Judge William Sullivan set the date for a ‌second t"
      },
+     {
+      "title": "Lindsay Clancy will be retried in March for the killing of her 3 children",
+      "url": "https://www.cbc.ca/news/world/lindsay-clancy-court-trial-9.7423387?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-16T10:16-05:00",
+      "teaser": "Lindsay Clancy, the Massachusetts mother whose highly divisive murder trial shone a global spotlight on postpartum mental health, will be tried again on murder charges for the killings of her three children."
+     },
+     {
+      "title": "Judge Sets Spring Retrial for Lindsay Clancy",
+      "url": "https://www.nytimes.com/2026/11/16/us/lindsay-clancy-trial-hearing.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-16T15:54+00:00",
+      "teaser": "At a hearing on Monday, prosecutors did not say whether they would plan to retry Ms. Clancy on first-degree murder charges, lesser charges or at all."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.99,
+    "items": [
+     {
+      "title": "Robert Pattinson named as new James Bond",
+      "url": "https://www.france24.com/en/culture/20261116-robert-pattinson-named-as-new-james-bond",
+      "source": "France 24",
+      "date": "2026-11-16T15:43+00:00",
+      "teaser": "British actor Robert Pattinson, star of three mega-franchises, \"The Batman\", \"Harry Potter\" and \"Twilight\", has been named as the seventh 007. The announcement ends years of speculation about who would inherit the beloved role from Daniel Craig and comes five years after the last Bond release, \"No T"
+     },
+     {
+      "title": "Robert Pattinson is named the 7th James Bond, taking over from Daniel Craig",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374641/robert-pattinson-named-7th-james-bond-taking-over-daniel-craig",
+      "source": "South China Morning Post",
+      "date": "2026-11-16T16:19+00:00",
+      "teaser": "Robert Pattinson was unveiled as the next James Bond on Monday, becoming the seventh actor to play the iconic British spy and the first since Amazon MGM took over the beloved film franchise. The naming of Pattinson comes during the longest hiatus in 007 history and ends years of rampant speculation "
+     },
+     {
+      "title": "British actor Robert Pattinson named as the new James Bond",
+      "url": "https://www.abc.net.au/news/2026-11-17/james-bond-robert-pattinson/107392892",
+      "source": "ABC Australia",
+      "date": "2026-11-16T15:39+00:00",
+      "teaser": "Pattinson, whose film credits this year include The Odyssey and Primetime, succeeds Daniel Craig, who bowed out of the role after 2021 movie No Time to Die."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.89,
+    "items": [
+     {
+      "title": "At least 17 people killed in 2 mass shootings on the same day in South Africa",
+      "url": "https://www.pbs.org/newshour/world/at-least-17-people-killed-in-2-mass-shootings-on-the-same-day-in-south-africa",
+      "source": "PBS NewsHour",
+      "date": "2026-11-16T10:04-05:00",
+      "teaser": "At least 17 people were killed in two mass shootings on the same day in South Africa. Motives have not been immediately established for the crimes some 530 kilometers (330 miles) apart, police said Monday."
+     },
+     {
+      "title": "At least 17 killed in two South Africa mass shootings",
+      "url": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-16T15:26+00:00",
+      "teaser": "Eight men killed in shooting near Pietermaritzburg while six men and three women shot dead near Pretoria."
+     },
+     {
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-16T10:57+00:00",
+      "teaser": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.2,
+    "items": [
      {
       "title": "Dritter US-Flugzeugträger erreicht laut Medienberichten Nahen Osten",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html",
@@ -26,20 +100,160 @@
       "source": "FAZ",
       "date": "2026-11-16T02:45+00:00",
       "teaser": "Die „USS Theodore Roosevelt“ verstärkt die Präsenz des US-Militärs +++ Jemenitische Armee zieht sich von Bab al-Mandab zurück +++ Iran greift US-Stützpunkt in Bahrain an +++ alle Entwicklungen im Liveblog"
+     },
+     {
+      "title": "Irankrieg: Dritter US-Flugzeugträger offenbar im Nahen Osten angekommen",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "source": "Zeit",
+      "date": "2026-11-16T06:49+00:00",
+      "teaser": "Medienberichten zufolge ist der Flugzeugträger »Theodore Roosevelt« im Nahen Osten eingetroffen. Der Iran pocht weiter auf sein Recht zur Urananreicherung. Das Liveblog"
      }
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.98,
+    "sourceCount": 2,
+    "score": 3.97,
     "items": [
      {
-      "title": "Russia says intercepted over 1,300 Ukrainian drones in a major attack",
-      "url": "https://www.france24.com/en/video/20261116-russia-says-intercepted-over-1-300-ukrainian-drones-in-a-major-attack",
-      "source": "France 24",
-      "date": "2026-11-16T14:00+00:00",
-      "teaser": "Russia intercepted 1,336 drones launched by Ukraine, Russia’s Defense Ministry said Monday, in what was the most claimed downings since Moscow’s all-out invasion of its neighbor nearly five years ago. Russia, meanwhile, has battered Ukrainian civilian areas with relentless strikes that seek to choke"
+      "title": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-16T17:20+01:00",
+      "teaser": "Fünf EU-Staaten, darunter Deutschland, planen für das kommende Jahr die Eröffnung des ersten Abschiebezentrums in Ruanda. Dorthin sollen Asylbewerber gebracht werden, die nicht in ihre Herkunftsländer abgeschoben werden können."
      },
+     {
+      "title": "Rückkehrzentren: Erstes EU-Abschiebezentrum soll 2027 in Ruanda eröffnen",
+      "url": "https://www.faz.net/aktuell/politik/ausland/erstes-eu-abschiebezentrum-soll-2027-in-ruanda-eroeffnen-201686820.html",
+      "source": "FAZ",
+      "date": "2026-11-16T15:42+00:00",
+      "teaser": "Deutschland will mit vier weiteren EU-Staaten ausreisepflichtige Asylbewerber in Drittstaaten überstellen. Kommendes Jahr könnte es losgehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+      "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "source": "The Guardian",
+      "date": "2026-11-16T16:21+00:00",
+      "teaser": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face leg"
+     },
+     {
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-16T16:27+00:00",
+      "teaser": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Trump floats Kim meeting in China, says he’ll discuss Ukraine with Xi and Putin",
+      "url": "https://www.scmp.com/news/us/article/3374640/trump-floats-kim-meeting-china-says-hell-discuss-ukraine-xi-and-putin",
+      "source": "South China Morning Post",
+      "date": "2026-11-16T16:08+00:00",
+      "teaser": "US President Donald Trump said on Monday he might meet North Korean leader Kim Jong-un in China this week and planned to discuss Russia’s war in Ukraine with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen. “We may meet with Kim Jong-un,” Trump told reporters at the Whi"
+     },
+     {
+      "title": "What to expect from Trump and Xi's upcoming meeting in China",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+      "source": "NPR",
+      "date": "2026-11-15T17:11-05:00",
+      "teaser": "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
+      "url": "https://www.pbs.org/newshour/world/eu-accuses-russia-of-stalling-ukraine-peace-talks-to-target-power-plants-as-winter-nears",
+      "source": "PBS NewsHour",
+      "date": "2026-11-16T11:07-05:00",
+      "teaser": "European Union countries on Monday accused Russia of trying to drag out talks on ending the war in Ukraine while it bombs power plants and other infrastructure to make life even harder for civilians as winter closes in."
+     },
+     {
+      "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
+      "url": "https://www.thehindu.com/news/international/eu-accuses-russia-of-stalling-ukraine-peace-talks-to-target-power-plants-as-winter-nears/article71707737.ece",
+      "source": "The Hindu",
+      "date": "2026-11-16T17:18+05:30",
+      "teaser": "At talks in Brussels, EU foreign ministers said the priority should be to secure a ceasefire and then a real peace agreement"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "French film star Depardieu drops appeal against sexual conviction",
+      "url": "https://www.france24.com/en/video/20261116-french-film-star-depardieu-drops-appeal-against-sexual-conviction",
+      "source": "France 24",
+      "date": "2026-11-16T15:51+00:00",
+      "teaser": "French film star Gérard Depardieu on Monday dropped his appeal against a conviction for sexually assaulting two women during the filming of a movie in 2021 and issued \"sincere apologies\" for his past behaviour on set. \"For a long time on film sets, I hid behind provocation and ribald humour,\" Depard"
+     },
+     {
+      "title": "Gérard Depardieu drops appeal against sexual assault conviction",
+      "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-16T13:40+00:00",
+      "teaser": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "French troops in Ukraine 'wouldn't be a surprise'",
+      "url": "https://www.france24.com/en/video/20261116-french-troops-in-ukraine-wouldn-t-be-a-surprise",
+      "source": "France 24",
+      "date": "2026-11-16T15:49+00:00",
+      "teaser": "French soldiers have been operating in Ukraine for several months, training Ukrainian troops and helping maintain military equipment, France 24's sister radio network Radio France Internationale (RFI) reported on Monday. While the deployment has not been confirmed, such a mission would not come as a"
+     },
+     {
+      "title": "French troops deployed in Ukraine on secret mission: RFI",
+      "url": "https://www.thehindu.com/news/international/french-troops-deployed-in-ukraine-on-secret-mission-rfi/article71707700.ece",
+      "source": "The Hindu",
+      "date": "2026-11-16T17:09+05:30",
+      "teaser": "The report did not say how many soldiers took part in the mission, which has been present in Ukraine since at least the summer of 2026"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.9,
+    "items": [
+     {
+      "title": "Trump's Asia reset: Deals in Manila and Shenzhen, then a rare nuclear summit with Xi and Putin",
+      "url": "https://www.pbs.org/newshour/politics/trumps-asia-reset-deals-in-manila-and-shenzhen-then-a-rare-nuclear-summit-with-xi-and-putin",
+      "source": "PBS NewsHour",
+      "date": "2026-11-16T09:38-05:00",
+      "teaser": "President Donald Trump is preparing to depart for Asia on Monday, turning his focus to economic deals and historic three-way nuclear talks with Russia and China as his administration adjusts to a new political reality in Washington."
+     },
+     {
+      "title": "Trump’s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting",
+      "url": "https://www.thehindu.com/news/international/trumps-asia-trip-deals-in-manila-and-shenzhen-nuclear-summit-with-xi-and-putin-maybe-kim-meeting/article71708808.ece",
+      "source": "The Hindu",
+      "date": "2026-11-16T21:05+05:30",
+      "teaser": "Trump said he plans to talk about Russia's war in Ukraine during the highly anticipated meeting with Chinese President Xi Jinping and Russian leader Vladimir Putin in China"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.85,
+    "items": [
      {
       "title": "Ukraine launches biggest drone attack on Russia since war began: Defence ministry",
       "url": "https://www.cbc.ca/news/world/ukraine-russia-drone-attacks-9.7423256?cmp=rss",
@@ -55,212 +269,12 @@
       "teaser": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.94,
-    "items": [
-     {
-      "title": "Russell Brand und David Walliams: Sex mit Minderjährigen – Großbritannien diskutiert Gesetz",
-      "url": "https://www.spiegel.de/ausland/russell-brand-david-walliams-faelle-sexueller-gewalt-loesen-debatte-ueber-gesetzesreform-aus-a-f2c1409d-e22c-4319-b37c-a327177ebaaa#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-16T11:15+01:00",
-      "teaser": "Mit Russell Brand und David Walliams sind zwei der prominentesten britischen Entertainer wegen sexueller Gewalt in den Schlagzeilen. Viele fordern: Vor allem junge Menschen müssen besser vor Tätern geschützt werden."
-     },
-     {
-      "title": "Russell Brand and the media that made him",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/16/russell-brand-and-the-media-that-made-him?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-16T14:25+00:00",
-      "teaser": "A rape conviction for the British comedian and actor leads to a reckoning for the media that kept him in the spotlight."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.9,
-    "items": [
-     {
-      "title": "Israel: Opposition spricht von »versuchtem Staatsstreich« durch Benjamin Netanyahu",
-      "url": "https://www.spiegel.de/ausland/israel-opposition-spricht-von-versuchtem-staatsstreich-durch-benjamin-netanyahu-a-b08a0580-e6bf-430b-bee2-25ce834b21fa#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-16T14:39+01:00",
-      "teaser": "Noch am Wahlabend soll Benjamin Netanyahus Büroleiter die Polizei auf politische Gegner angesetzt haben. Der Geheimdienstchef versuchte offenbar eine Abhöraktion. Nun fordert Israels Opposition Konsequenzen für den Noch-Premierminister."
-     },
-     {
-      "title": "Parlamentswahl in Israel: Opposition wirft Benjamin Netanjahu »versuchten Staatsstreich« vor",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/israel-benjamin-netanjahu-wahleinmischung-vorwurf-gxe",
-      "source": "Zeit",
-      "date": "2026-11-16T14:01+00:00",
-      "teaser": "Nach Berichten über eine mutmaßliche Wahlbeeinflussung in Israel hat Gadi Eisenkot die Absetzung des Premiers gefordert. Er könne »keine Minute länger« im Amt bleiben."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.9,
-    "items": [
-     {
-      "title": "French troops 'deployed in Ukraine on secret mission'",
-      "url": "https://www.france24.com/en/video/20261116-french-troops-deployed-in-ukraine-on-secret-mission",
-      "source": "France 24",
-      "date": "2026-11-16T14:02+00:00",
-      "teaser": "French soldiers have been operating in Ukraine for several months, training Ukrainian troops and helping maintain military equipment, France 24's sister radio network Radio France Internationale (RFI) reported on Monday. France 24's Douglas Herbert takes a closer look at the report's claims."
-     },
-     {
-      "title": "French troops deployed in Ukraine on secret mission: RFI",
-      "url": "https://www.thehindu.com/news/international/french-troops-deployed-in-ukraine-on-secret-mission-rfi/article71707700.ece",
-      "source": "The Hindu",
-      "date": "2026-11-16T17:09+05:30",
-      "teaser": "The report did not say how many soldiers took part in the mission, which has been present in Ukraine since at least the summer of 2026"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.7,
-    "items": [
-     {
-      "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-      "source": "NPR",
-      "date": "2026-11-16T06:39-05:00",
-      "teaser": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Chuck Schumer and what he would change about Senate Democratic leadership."
-     },
-     {
-      "title": "Chris Van Hollen Says His Majority Leader Challenge to Chuck Schumer Is Gaining Support",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html",
-      "source": "New York Times (Politik)",
-      "date": "2026-11-15T23:02+00:00",
-      "teaser": "Senator Chris Van Hollen of Maryland said on Sunday that he has a “wide-open” path to unseat Chuck Schumer, the long-serving Senate Democratic leader."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.67,
-    "items": [
-     {
-      "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
-      "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-      "source": "The Guardian",
-      "date": "2026-11-16T04:39+00:00",
-      "teaser": "Ahead of Apec summit, PM says ‘Canada is going to move forward either way’ when asked if Chinese investment was leverage in US negotiations The prime minister of Canada, Mark Carney, said the country could turn to Chinese automakers if trade negotiations with the US president, Donald Trump, failed t"
-     },
-     {
-      "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-      "url": "https://www.cbc.ca/news/politics/canada-china-carney-auto-9.7423156?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-16T06:13-05:00",
-      "teaser": "Prime Minister Mark Carney said that Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.66,
-    "items": [
-     {
-      "title": "Andy Burnham: Britischer Premierminister erklärt Brexit für gescheitert",
-      "url": "https://www.spiegel.de/ausland/andy-burnham-britischer-premierminister-erklaert-brexit-fuer-gescheitert-a-ca924ef5-f2b7-43b8-81eb-0b5e219f10ff#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-16T12:09+01:00",
-      "teaser": "Boris Johnson handelte einst die Bedingungen für Großbritanniens EU-Austritt aus. Der neue Premier Andy Burnham meint nun: »Wir haben mehr verloren, als wir gewonnen haben.«"
-     },
-     {
-      "title": "Großbritannien: Britischer Premier Andy Burnham hält Brexit für gescheitert",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/andy-burnham-brexit-boris-johnson-eu-gipfel-gxe",
-      "source": "Zeit",
-      "date": "2026-11-16T09:18+00:00",
-      "teaser": "Andy Burnham sieht mehr Nachteile als Vorteile durch den EU-Austritt Großbritanniens. Die Versprechungen an die Wählerinnen und Wähler seien nicht eingehalten worden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.57,
-    "items": [
-     {
-      "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-      "source": "NPR",
-      "date": "2026-11-16T05:00-05:00",
-      "teaser": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections."
-     },
-     {
-      "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-15T22:54+00:00",
-      "teaser": "So far, President Trump has indicated that he does not plan to press the Chinese leader about U.S. intelligence findings that a Chinese spy targeted Jensen Huang."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.48,
-    "items": [
-     {
-      "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
-      "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-15T21:44+01:00",
-      "teaser": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland."
-     },
-     {
-      "title": "Estland schließt nach Sabotageversuch Grenze zu Russland",
-      "url": "https://www.dw.com/de/estland-schließt-nach-sabotageversuch-grenze-zu-russland/a-79955003?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-16T08:55+00:00",
-      "teaser": "Nach einem versuchten Brandanschlag auf eine Drohnenfabrik macht Estland den russischen Militärgeheimdienst verantwortlich. Tallinn kündigt eine vollständige Grenzschließung an. Moskau reagiert empört."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.19,
-    "items": [
-     {
-      "title": "Trump breaks silence on FAA's nationwide ground stop, demands more money for air traffic control",
-      "url": "https://www.cbc.ca/news/world/trump-faa-ground-stop-9.7422814?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-15T12:27-05:00",
-      "teaser": "U.S. President Donald Trump on Sunday broke his silence on the nationwide ground stop that snarled airline travel this weekend, using the incident to push Congress on money to fully upgrade the country's air traffic control system."
-     },
-     {
-      "title": "How Could a Router Lead to a Nationwide Ground Stop?",
-      "url": "https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-16T05:25+00:00",
-      "teaser": "Aviation experts and federal officials said the network outage began after a new piece of networking equipment began flooding the rest of the system with data. The underlying cause is unclear."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.66,
-    "items": [
-     {
-      "title": "Officials say a tanker's steering failed before it crashed into a cruise ship in New Orleans",
-      "url": "https://www.pbs.org/newshour/nation/officials-say-a-tankers-steering-failed-before-it-crashed-into-a-cruise-ship-in-new-orleans",
-      "source": "PBS NewsHour",
-      "date": "2026-11-15T18:02-05:00",
-      "teaser": "The preliminary finding from National Transportation Safety Board officials provided the first official word on what caused Friday's crash of the Atlantic Asphalt tanker into the American Heritage cruise ship, which sent passengers, crew and two police officers plunging into the Mississippi River."
-     },
-     {
-      "title": "Steering issue caused tanker to crash into cruise boat, U.S. officials say",
-      "url": "https://www.cbc.ca/news/world/tanker-cruise-ship-steering-problem-issue-mississippi-river-new-orleans-9.7423018?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-15T18:10-05:00",
-      "teaser": "The asphalt tanker vessel that struck a docked paddlewheel cruise boat in the Mississippi River at ‌New Orleans on Friday experienced a steering problem in which its rudder was stuck in one position, U.S. transportation safety officials ​said on Sunday."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
-    "sourceCount": 6,
-    "score": 11.88,
+    "sourceCount": 4,
+    "score": 7.72,
     "items": [
      {
       "title": "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
@@ -286,8 +300,8 @@
     ]
    },
    {
-    "sourceCount": 5,
-    "score": 9.9,
+    "sourceCount": 3,
+    "score": 5.67,
     "items": [
      {
       "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
@@ -304,17 +318,57 @@
       "teaser": "Die Senkung der Stromsteuer war lange ein Streitpunkt in der Koalition aus SPD und Union. Kanzler Merz geht nun von einer Lösung aus. Im Finanzministerium von Vizekanzler Klingbeil weiß man davon nichts."
      },
      {
-      "title": "Diskussion um Stromsteuer: Merz und Söder beharren auf Stromsteuersenkung",
-      "url": "https://www.sueddeutsche.de/politik/stromsteuer-koalitionsausschuss-merz-soeder-gegenfinanzierung-spd-li.3581068",
-      "source": "Süddeutsche",
-      "date": "2026-11-16T13:59+00:00",
-      "teaser": "Die Vorsitzenden von CDU und CSU machen am Tag vor den Verhandlungen im Koalitionsausschuss klar: Die Entlastung der Privathaushalte müsse kommen. Doch die Frage bleibt: Wie soll das bezahlt werden?"
+      "title": "Stromsteuer: Friedrich Merz rechnet mit Einigung bei Stromsteuersenkung",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/stromsteuer-friedrich-merz-markus-soeder-cdu-csu-bundeskanzler-gxe",
+      "source": "Zeit",
+      "date": "2026-11-16T12:02+00:00",
+      "teaser": "Der Kanzler geht davon aus, dass sich Union und SPD im Koalitionsausschuss auf eine Senkung der Stromsteuer verständigen. Markus Söder hält eine Finanzierung für möglich."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.63,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Deutschland und weitere EU-Länder einigen sich auf Abschiebezentrum in Ruanda",
+      "url": "https://www.spiegel.de/politik/deutschland/deutschland-und-weitere-eu-laender-einigen-sich-auf-abschiebezentrum-in-ruanda-a-3a25bbe9-f973-4f75-be7c-1827d06f46cc#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-16T16:54+01:00",
+      "teaser": "In Wien haben sich fünf EU-Länder auf eine gemeinsame Abschiebeinitiative geeinigt. Nun steht auch der afrikanische Partner fest: Schon 2027 soll in Ruanda ein erstes Abschiebezentrum entstehen."
+     },
+     {
+      "title": "Abschiebezentrum in Afrika: Was Deutschland in Ruanda plant",
+      "url": "https://www.sueddeutsche.de/politik/ruanda-abschiebezentrum-deutschland-asylpolitik-rueckkehrzentrum-li.3581059",
+      "source": "Süddeutsche",
+      "date": "2026-11-16T16:14+00:00",
+      "teaser": "Innenminister Alexander Dobrindt kündigt Tempo an, abgelehnte Asylbewerber nach Ostafrika abzuschieben. Aber selbst in der Koalition gibt es Kritik an der Kooperation mit einer Autokratie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.9,
+    "items": [
+     {
+      "title": "Bundesweites Gedenken zum Volkstrauertag - auch im Bundestag",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/volkstrauertag-bundestag-104.html",
+      "source": "Tagesschau",
+      "date": "2026-11-15T16:24+01:00",
+      "teaser": "Der Volkstrauertag ist kein gesetzlicher Feiertag, aber ein staatlicher Gedenktag. Im ganzen Land wird heute an Kriegsopfer erinnert. In diesem Jahr zusammen mit dem österreichischem Bundespräsidenten Van der Bellen. Er rief zu mehr Mitgefühl auf."
+     },
+     {
+      "title": "Volkstrauertag - AfD: Wie die AfD-Jugend das Gedenken an die Kriegstoten verdreht",
+      "url": "https://www.spiegel.de/politik/deutschland/volkstrauertag-afd-wie-die-afd-jugend-das-gedenken-an-die-kriegstoten-verdreht-a-f8576f2a-6e89-444b-98d0-a6d1ee38ae31#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-16T16:32+01:00",
+      "teaser": "Mit dem Volkstrauertag soll der Kriegstoten gedacht und für Frieden gemahnt werden. Die AfD-Jugend nutzte den Termin stattdessen für eine Romantisierung von NS-Größen. Auch Björn Höcke setzte auf politische Inszenierung."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.5,
     "items": [
      {
       "title": "Söder hält Stromsteuersenkung doch noch für möglich",
@@ -337,189 +391,11 @@
     "score": 2.0,
     "items": [
      {
-      "title": "Deutschland Liveblog: Grüne rufen zur Teilnahme an Gen-Z-Protesten auf",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-gruene-rufen-zur-teilnahme-an-gen-z-protesten-auf-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-16T15:08+00:00",
-      "teaser": "Banaszak und Brantner wollen an Demo teilnehmen +++ Kanzler kündigt Absenkung der Stromsteuer an +++ Schwesig als Ministerpräsidentin wiedergewählt +++ +++ alle Entwicklungen im Liveblog"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Regierungsbildung in Sachsen-Anhalt: Prominente BSW-Politiker fordern mehr Distanz zur AfD",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/buendnis-sahra-wagenknecht-afd-distanz-sachsen-anhalt",
-      "source": "Zeit",
-      "date": "2026-11-16T15:02+00:00",
-      "teaser": "Das BSW stimmte in Sachsen-Anhalt mehrfach mit der AfD. Vorstandsmitglieder Sevim Dağdelen und Christian Leye stellen sich gegen diesen Annäherungskurs."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Endlager noch nicht gefunden: Atommüll in BW bleibt wohl noch lange in Zwischenlagern",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/atommuell-bleibt-bis-2070-in-zwischenlagern-100.html",
+      "title": "Hohe Löhne, geringe Auslastung: Sind die Jobs in Baden-Württemberg zu teuer?",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/arbeitskosten-in-bw-ist-meine-arbeit-wirklich-zu-teuer-100.html",
       "source": "SWR",
-      "date": "2026-11-16T15:47+01:00",
-      "teaser": "Bis in die 2070er Jahre wird der Atommüll aus Baden-Württemberg voraussichtlich in den aktuellen Zwischenlagern bleiben. Eigentlich laufen die Genehmigungen nach 40 Jahren aus."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Merz bei der CSU: „Wir wissen, dass wir jetzt liefern müssen“",
-      "url": "https://www.faz.net/aktuell/politik/inland/merz-und-soeder-senkung-der-stromsteuer-soll-kommen-201687373.html",
-      "source": "FAZ",
-      "date": "2026-11-16T14:42+00:00",
-      "teaser": "Friedrich Merz und Markus Söder zeigen sich einig, dass schon morgen Abend die Senkung der Stromsteuer für alle zu beschließen sei. Weiß das auch die SPD?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Ringen um Regeln für \"Killerroboter\": Darum geht es",
-      "url": "https://www.zdfheute.de/politik/killerroboter-autonome-waffensysteme-regelen-konferenz-genf-100.html",
-      "source": "ZDF",
-      "date": "2026-11-16T15:33+01:00",
-      "teaser": "Dürfen autonome Waffensysteme ohne menschliches Zutun Ziele suchen und feuern? Über Regeln zum Einsatz von \"Killerrobotern\" beraten Vertreter von 128 Staaten in Genf. Darum geht's."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Merz erneuert Versprechen: Stromsteuer soll 2027 sinken",
-      "url": "https://www.zdfheute.de/politik/deutschland/merz-koalition-stromsteuer-100.html",
-      "source": "ZDF",
-      "date": "2026-11-16T15:29+01:00",
-      "teaser": "Kanzler Merz stellt eine Einigung auf die Stromsteuersenkung für Dienstag in Aussicht. Auch Söder drängt auf Entlastungen. Doch es gibt weitere Streitpunkte in der Koalition."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Leuchten am Himmel: Leoniden-Sternschnuppen erreichen ihren Höhepunkt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/leoniden-sternschauer-100.html",
-      "source": "SWR",
-      "date": "2026-11-16T15:26+01:00",
-      "teaser": "In der Nacht vom 17. auf den 18. November erreichen die Leoniden-Sternschnuppen ihr Maximum. Die Sichtbedingungen hängen jedoch stark vom Wetter ab."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "\"Jeder hat seine eigene Handschrift\": Das sagt einer der besten Barber Deutschlands zum Barbershop-Boom",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/best-barber-wettbewerb-can-misirra-100.html",
-      "source": "SWR",
-      "date": "2026-11-16T15:26+01:00",
-      "teaser": "Die Barber-Europameisterschaft findet in Stuttgart statt. Mit dabei ist Can Misirra aus Ludwigsburg. Im Interview spricht er über seine Motivation, Talent und Hygiene in Barbershops."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Ministertreffen in Brüssel: EU sanktioniert russische Propaganda-Fabrik und Banken",
-      "url": "https://www.sueddeutsche.de/politik/ministertreffen-in-bruessel-eu-sanktioniert-russische-propaganda-fabrik-und-banken-li.3581497",
-      "source": "Süddeutsche",
-      "date": "2026-11-16T14:16+00:00",
-      "teaser": ""
-     }
-    ]
-   }
-  ],
-  "Polen": [
-   {
-    "sourceCount": 2,
-    "score": 3.98,
-    "items": [
-     {
-      "title": "Ciało zamachowca z Krakowa trafi na cele naukowe, jeśli nie odbierze go rodzina",
-      "url": "https://www.rp.pl/prawo-w-polsce/art45495311-cialo-zamachowca-z-krakowa-trafi-na-cele-naukowe-jesli-nie-odbierze-go-rodzina",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-16T16:00+01:00",
-      "teaser": "Jeżeli rodzina Michała O., który dokonał zamachu w Krakowie w pierwszej połowie listopada, nie odbierze ciała, zostanie ono przekazane na cele naukowe i medyczne – przekazał prezydent Łukasz Gibała. Czy prawo pozwala samorządom na podjęcie takiej decyzji bez zgody zmarłego?"
-     },
-     {
-      "title": "Prezydent Krakowa chce przekazać ciało zamachowca na cele naukowe i medyczne",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33134640,prezydent-krakowa-chce-przekazac-cialo-zamachowca-na-cele-naukowe.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-16T12:51+00:00",
-      "teaser": "Ostateczną decyzję podejmie rodzina sprawcy strzelaniny. - Jeśli ona nie zdecyduje się odebrać ciała i zrobić pochówku, to będę wnioskował, żeby miasto nie organizowało pogrzebu - przekazał Łukasz Gibała."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "Niemcy boją się wojny z Rosją. Chcą od rządu zdecydowanych działań wobec Moskwy",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45495401-niemcy-boja-sie-wojny-z-rosja-chca-od-rzadu-zdecydowanych-dzialan-wobec-moskwy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-16T16:10+01:00",
-      "teaser": "Większość Niemców postrzega Rosję jako zagrożenie dla bezpieczeństwa kraju – wynika z najnowszego sondażu Ipsos dla „Der Spiegel”. Połowa badanych opowiada się za bardziej stanowczymi działaniami Berlina i Unii Europejskiej wobec Kremla."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "Robert Pattinson nowym Jamesem Bondem. Zastąpi Daniela Craiga w roli agenta 007",
-      "url": "https://www.rp.pl/film/art45495831-robert-pattinson-nowym-jamesem-bondem-zastapi-daniela-craiga-w-roli-agenta-007",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-16T16:09+01:00",
-      "teaser": "Po miesiącach spekulacji i doniesień o kolejnych kandydatach poznaliśmy nazwisko nowego Jamesa Bonda. W rolę legendarnego agenta 007 wcieli się Robert Pattinson, który zastąpi Daniela Craiga. O angaż ubiegało się wielu znanych aktorów, a ostateczny wybór poprzedził wieloetapowy casting."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Jaka temperatura powinna panować w domu zimą? Eksperci wskazują konkretny przedział",
-      "url": "https://www.rp.pl/zdrowie/art45495451-jaka-temperatura-powinna-panowac-w-domu-zima-eksperci-wskazuja-konkretny-przedzial",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-16T16:04+01:00",
-      "teaser": "Temperatura, jaka panuje w mieszkaniu, wpływa nie tylko na nasz codzienny komfort, lecz także na jakość snu, koncentrację i zdrowie. Nie wszyscy jednak mają takie same potrzeby. Okazuje się, że wiele zależy od wieku i stanu zdrowia domowników."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Śledztwo w sprawie wypadku polskiego autokaru na Węgrzech. Prokuratura ściga kierowcę",
-      "url": "https://turystyka.rp.pl/zanim-wyjedziesz/art45495751-sledztwo-w-sprawie-wypadku-polskiego-autokaru-na-wegrzech-prokuratura-sciga-kierowce",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-16T16:03+01:00",
-      "teaser": "Prokuratura Okręgowa w Krośnie, nadzorująca śledztwo dot. wypadku polskiego autokaru w sierpniu br. na Węgrzech, wystąpi do sądu o wydanie wobec kierowcy Roberta M. Europejskiego Nakazu Aresztowania (ENA). Jest to konieczne m.in., aby sprowadzić go do Polski i móc z nim wykonać czynności."
+      "date": "2026-11-16T17:43+01:00",
+      "teaser": "Beschäftigte wollen mehr Geld, die Inflation steigt. Gleichzeitig streicht die Industrie tausende von Stellen und flüchtet ins Ausland. Ist Arbeit in Baden-Württemberg zu teuer?"
      }
     ]
    },
@@ -528,24 +404,24 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Sędziowie w stanie spoczynku mogą wrócić do orzekania. Układu sił w SN to nie zmieni",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art45494281-sedziowie-w-stanie-spoczynku-moga-wrocic-do-orzekania-ukladu-sil-w-sn-to-nie-zmieni",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-16T16:00+01:00",
-      "teaser": "Nie tylko sędziowie sądów powszechnych, ale także administracyjnych, wojskowych, a nawet Sądu Najwyższego mogliby wrócić ze stanu spoczynku do orzekania – wynika z poprawek Senatu, którymi w tym tygodniu zajmie się Sejm."
+      "title": "Stahlgipfel: Zwischen teurer Produktion und billigen Importen",
+      "url": "https://www.zdfheute.de/wirtschaft/stahl-industrie-gipfel-salzgitter-100.html",
+      "source": "ZDF",
+      "date": "2026-11-16T17:33+01:00",
+      "teaser": "Hohe Energiekosten und billige Importe setzen Deutschlands Stahlindustrie unter Druck. Beim Gipfel in Salzgitter geht es auch darum, welche Produktion hierzulande noch Zukunft hat."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.98,
     "items": [
      {
-      "title": "Polski algorytm oduczył AI oszukiwać. Przełom w obrazowaniu kolonoskopii",
-      "url": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art45488611-polski-algorytm-oduczyl-ai-oszukiwac-przelom-w-obrazowaniu-kolonoskopii",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-16T15:53+01:00",
-      "teaser": "Polscy naukowcy opracowali algorytm, który tworzy najdokładniejszy model trójwymiarowy jelita grubego podczas kolonoskopii. To przełom, bo dotąd AI fałszowała: z perspektywy kamery obraz się zgadzał, ale z zewnątrz kształt organu był zmyślony."
+      "title": "Gewalt gegen Frauen und Kinder: Baden-Württemberg will Geld für Schutz vervierfachen",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/zusaetzliche-mittel-fuer-gewaltschutz-von-frauen-100.html",
+      "source": "SWR",
+      "date": "2026-11-16T17:29+01:00",
+      "teaser": "Viele Frauen- und Kinderhäuser im Land sind überlastet, die Zahl der Femizide ist gestiegen. Der Finanzausschuss will den Schutz vor Gewalt 2027 mit deutlich mehr Geld stärken."
      }
     ]
    },
@@ -554,11 +430,24 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Jest kolejny wniosek o uchylenie immunitetu Łukasza Mejzy",
-      "url": "https://www.rp.pl/polityka/art45495421-jest-kolejny-wniosek-o-uchylenie-immunitetu-lukasza-mejzy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-16T15:45+01:00",
-      "teaser": "Do Sejmu trafił wniosek o uchylenie immunitetu posła Łukasza Mejzy. Prokuratura chce politykowi postawić zarzuty m.in. wyłudzenia z Fundacji Siepomaga ponad 370 tys. zł."
+      "title": "Krieg in der Ukraine: Kreml: Keine Zustimmung für Teilnahme Europas an Ukraine-Gesprächen",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kreml-europa-verhandlungen-li.3571967",
+      "source": "Süddeutsche",
+      "date": "2026-11-16T16:17+00:00",
+      "teaser": "Ein wichtiger Berater des russischen Präsidenten Putin widerspricht Äußerungen von US-Unterhändlern, wonach Moskau zu einer Einbindung Europas bereit sei. Die EU-Außenminister stimmen für neue Sanktionen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Im Büro mit Halsweh und Husten: Warum viele trotz Krankheit arbeiten",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/krank-zur-arbeit-praesentismus-104.html",
+      "source": "SWR",
+      "date": "2026-11-16T17:19+01:00",
+      "teaser": "Erkältungs-Krankheiten machen vielen Betrieben derzeit zu schaffen. Krank zur Arbeit zu gehen ist dennoch keine gute Lösung. Ein Freiburger Infektiologe gibt Tipps."
      }
     ]
    },
@@ -567,24 +456,11 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Wichura nad Polską. W górach będzie wiać z prędkością nawet 120 km/h",
-      "url": "https://www.rp.pl/kraj/art45494741-wichura-nad-polska-w-gorach-bedzie-wiac-z-predkoscia-nawet-120-km-h",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-16T15:36+01:00",
-      "teaser": "Do Polski w najbliższych dniach z zachodu napływać będą wilgotne i dosyć ciepłe masy powietrza znad Atlantyku. W efekcie pojawią się wysokie, jak na listopad, temperatury. Jednocześnie należy przygotować się na nadejście jesiennej wichury."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Oświadczenie Korwin-Piotrowskiej. \"Ręczne manipulowanie składami\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33135080,oswiadczenie-korwin-piotrowskiej-tak-manipulowano-skladami.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-16T14:38+00:00",
-      "teaser": "Sędzia kierująca pracami Trybunału Konstytucyjnego Anna Korwin-Piotrowska wydała oświadczenie. - Mam przed sobą skoroszyt co do sposobu wyznaczenia składów w Trybunale Konstytucyjnym. Składy były wyznaczane na podstawie żółtych karteczek"
+      "title": "Glosse: Das Streiflicht: Schlägt nicht gerade die Stunde der aussichtslosen Kandidaten?",
+      "url": "https://www.sueddeutsche.de/politik/streiflicht-spd-vorsitz-hubertus-heil-klingbeil-biermann-li.3580921",
+      "source": "Süddeutsche",
+      "date": "2026-11-16T16:06+00:00",
+      "teaser": "Hubertus Heil will SPD-Vorsitzender werden, hat allerdings angeblich wenig Chancen. Doch man sollte nicht vergessen: Wir leben alle in einer Zeit, in der unsere Chancen eher sinken als steigen."
      }
     ]
    },
@@ -593,11 +469,156 @@
     "score": 1.94,
     "items": [
      {
-      "title": "„Anarchizacja Trybunału Konstytucyjnego”. Żurek krytykuje działania NBP",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art45495101-anarchizacja-trybunalu-konstytucyjnego-zurek-krytykuje-dzialania-nbp",
+      "title": "SZ am Abend: Nachrichten vom 16. November 2026",
+      "url": "https://www.sueddeutsche.de/politik/news-merz-soeder-stromsteuer-koaltion-wirecard-aktionaere-schwesig-mecklenburg-vorpommern-wiederwahl-li.3581546",
+      "source": "Süddeutsche",
+      "date": "2026-11-16T16:01+00:00",
+      "teaser": "Was heute wichtig war."
+     }
+    ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Ujawniamy nowe informacje o Annie Korwin-Piotrowskiej. Cenzura i blokowanie krytyki rządu",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45492911-ujawniamy-nowe-informacje-o-annie-korwin-piotrowskiej-cenzura-i-blokowanie-krytyki-rzadu",
       "source": "Rzeczpospolita",
-      "date": "2026-11-16T15:31+01:00",
-      "teaser": "Minister sprawiedliwości i prokurator generalny Waldemar Żurek określił działania Narodowego Banku Polskiego jako „anarchizację Trybunału Konstytucyjnego”. - Będziemy się zastanawiać, jak przeciwdziałać - powiedział Żurek."
+      "date": "2026-11-16T17:25+01:00",
+      "teaser": "Anna Korwin Piotrowska, jako prezes sądu w Opolu, miała cenzurować i blokować publikację opinii krytycznych wobec działań rządu i Waldemara Żurka. Sprawę ujawnia nyski sędzia Mariusz Ulman. Sędzia Trybunału Konstytucyjnego zaprzecza tym zarzutom."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Tusk krytykuje weto Nawrockiego ws. DSA. „Przecież Pan też ma dzieci”",
+      "url": "https://www.rp.pl/media/art45496121-tusk-krytykuje-weto-nawrockiego-ws-dsa-przeciez-pan-tez-ma-dzieci",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T17:16+01:00",
+      "teaser": "– W Europie starają się poradzić sobie z przemocą w internecie i to dość skutecznie. Polska jest w tej chwili chyba jedynym krajem w UE, który poprzez weto prezydenta ciągle blokuje tego typu ustawy – podkreślił premier Donald Tusk, komentując weto Karola Nawrockiego do Digital Services Act."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Dwoje młodych Słowaków ratowało ofiarę zamachu w Krakowie. Prezydent wręczył im medale",
+      "url": "https://www.rp.pl/spoleczenstwo/art45496021-dwoje-mlodych-slowakow-ratowalo-ofiare-zamachu-w-krakowie-prezydent-wreczyl-im-medale",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T17:05+01:00",
+      "teaser": "Prezydent Słowacji Peter Pellegrini wręczył w poniedziałek Medale Wdzięczności dwojgu młodym Słowakom, którzy pomagali ofiarom zamachu na Rynku Głównym w Krakowie. Linda Trnkova i Mario Maczina ratowali wówczas ranną kobietę."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Inflacja w Polsce nie chce się rozlewać. Co chroni nas przed efektem domina?",
+      "url": "https://www.rp.pl/dane-gospodarcze/art45492701-inflacja-w-polsce-nie-chce-sie-rozlewac-co-chroni-nas-przed-efektem-domina",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T17:00+01:00",
+      "teaser": "Szok energetyczny w Polsce trafił na twardy grunt i na razie nie przekłada się na szeroki wzrost cen. Firmy mają ograniczone możliwości przerzucania wyższych kosztów na klientów. Ekonomiści ostrzegają jednak, że ta odporność ma swoje granice."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "„Salvator Mundi” za 450 mln dolarów. Najdroższy obraz świata od blisko dekady w ukryciu",
+      "url": "https://www.rp.pl/plus-minus/art45474321-salvator-mundi-za-450-mln-dolarow-najdrozszy-obraz-swiata-od-blisko-dekady-w-ukryciu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T17:00+01:00",
+      "teaser": "Najdroższe dzieło sztuki na świecie „Zbawca świata” Leonarda, sprzedany w 2017 roku w domu aukcyjnym Christie’s w Nowym Jorku za rekordowe 450 milionów dolarów, nie przestaje rozpalać wyobraźni i emocji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "„To piękny teatr”. W sprawie TK żadna ze stron nie chce kompromisu",
+      "url": "https://www.rp.pl/kraj/art45494491-to-piekny-teatr-w-sprawie-tk-zadna-ze-stron-nie-chce-kompromisu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T17:00+01:00",
+      "teaser": "Premier zaprasza prezydenta na spotkanie, prezydent proponuje konsultacje w sprawie Trybunału Konstytucyjnego. Z obu stron padają deklaracje o dialogu, ale czy za tymi gestami kryje się rzeczywista wola kompromisu? Michał Szułdrzyński nie ma złudzeń: „To piękny teatr”."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Belweder chce wspólnego projektu zmian w TK. Bez porozumienia z KO i Lewicą",
+      "url": "https://www.rp.pl/polityka/art45496071-belweder-chce-wspolnego-projektu-zmian-w-tk-bez-porozumienia-z-ko-i-lewica",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T16:58+01:00",
+      "teaser": "Przedstawiciele części ugrupowań parlamentarnych i Kancelarii Prezydenta uzgodnili, że prace nad zmianami dotyczącymi Trybunału Konstytucyjnego powinny rozpocząć się niezwłocznie. W środę mają spotkać się ponownie, by pracować nad wspólnym projektem. W poniedziałkowych rozmowach zabrakło przedstawic"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Zabił 12 osób i w Rosji stał się gwiazdą. „Wojskowi blogerzy” chcieliby go nasłać na Zełenskiego",
+      "url": "https://www.rp.pl/przestepczosc/art45489971-zabil-12-osob-i-w-rosji-stal-sie-gwiazda-wojskowi-blogerzy-chcieliby-go-naslac-na-zelenskiego",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T16:58+01:00",
+      "teaser": "Odsiadujący wyrok 23 lat więzienia Losza Sołdat po raz kolejny ożenił się w łagrze. Udowodniono mu zabicie 12 osób, choć eksperci twierdzą, że mogło być ich nawet 40. Przystojny i inteligentny kiler pisze wiersze, ma program na YouTubie i był już bohaterem filmów."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Sprawca zamachu na CSD otrzymywał w więzieniu zasiłek z Niemiec",
+      "url": "https://www.dw.com/pl/sprawca-zamachu-na-csd-otrzymywał-w-więzieniu-zasiłek-z-niemiec/a-79961242?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-16T15:53+00:00",
+      "teaser": "Podczas gdy Abdul B. przebywał w więzieniu w Libanie, Niemcy nadal wypłacały mu zasiłek socjalny. Rok później dokonał zamachu na paradę CSD w Berlinie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Miłosz Kłeczek i Michał Rachoń z zarzutami dot. wejścia do budynku prokuratury",
+      "url": "https://www.rp.pl/polityka/art45495951-milosz-kleczek-i-michal-rachon-z-zarzutami-dot-wejscia-do-budynku-prokuratury",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T16:47+01:00",
+      "teaser": "Miłosz Kłeczek, Michał Rachoń i Janusz Życzkowski usłyszeli zarzuty zakłócenia miru domowego. Chodzi o sytuację z maja 2026 r., gdy weszli do budynku Prokuratury Krajowej w momencie, gdy był tam przesłuchiwany redaktor naczelny Telewizji Republika Tomasz Sakiewicz."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Bogucki po spotkaniu ws. sporu o Trybunał Konstytucyjny: To jest sukces",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33135084,bogucki-po-spotkaniu-ws-sporu-o-trybunal-konstytucyjny-to.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-16T15:49+00:00",
+      "teaser": "- Wszystkie kluby i wszystkie koła, które były na tym spotkaniu, zgodziły się po dłuższej dyskusji, że należy nad zmianą konstytucji w zakresie dotyczącym Trybunału Konstytucyjnego pracować tu i teraz - przekazał szef Kancelarii Prezydenta Zbigniew Bogucki."
      }
     ]
    },
@@ -606,11 +627,11 @@
     "score": 1.91,
     "items": [
      {
-      "title": "Rozmowa o TK z Boguckim bez KO i Lewicy. Kosiniak-Kamysz: To błąd z ich strony",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33134597,rozmowa-o-tk-z-boguckim-bez-ko-i-lewicy-kosiniak-kamysz-to.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-16T14:05+00:00",
-      "teaser": "- Reset konstytucyjny to \"jedyna szansa na uzdrowienie sytuacji\" w Trybunale Konstytucyjnym - podkreślił prezes PSL Władysław Kosiniak-Kamysz."
+      "title": "Polska w G20 w kolejnych latach. Minister potwierdza to w rozmowie z „Rz”",
+      "url": "https://www.rp.pl/gospodarka/art45494711-polska-w-g20-w-kolejnych-latach-minister-potwierdza-to-w-rozmowie-z-rz",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-16T16:42+01:00",
+      "teaser": "Potwierdzają się wcześniejsze nieoficjalne informacje, że Polska nadal będzie brać udział w pracach Grupy G20. Wicepremier Radosław Sikorski zapewnia „Rz”, że nie chodzi tylko o jednorazowe zaproszenie na posiedzenie „dwudziestki” w 2027 r., ale o naszą stałą obecność do co najmniej 2029 r."
      }
     ]
    }
@@ -618,7 +639,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 5,
-    "score": 9.8,
+    "score": 9.67,
     "items": [
      {
       "title": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
@@ -645,13 +666,13 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.98,
+    "score": 5.87,
     "items": [
      {
       "title": "Tesla-Werk Grünheide: Tesla investiert drei Milliarden in den Ausbau des Werks in Grünheide",
       "url": "https://www.zeit.de/wirtschaft/2026-11/tesla-ausbau-fabrik-gruenheide-berlin",
       "source": "Zeit",
-      "date": "2026-11-16T14:35+00:00",
+      "date": "2026-11-16T15:08+00:00",
       "teaser": "Um eine neue Produktionshalle zu bauen, will Tesla drei Milliarden Euro in das Werk in Grünheide investieren. Dort sollen zukünftig selbstfahrende Autos gebaut werden."
      },
      {
@@ -662,7 +683,7 @@
       "teaser": "Der Elektrowagenhersteller Tesla baut sein Werk in Grünheide aus. Die Investitionen des Konzerns in Brandenburg insgesamt steigen damit auf zehn Milliarden Dollar."
      },
      {
-      "title": "Tesla: US-Autobauer investiert drei Milliarden Euro in Grünheide",
+      "title": "Autobauer: Tesla investiert drei Milliarden Euro in Grünheide",
       "url": "https://www.handelsblatt.com/unternehmen/industrie/tesla-us-autobauer-investiert-drei-milliarden-euro-in-gruenheide/100270267.html",
       "source": "Handelsblatt",
       "date": "2026-11-16T14:58+00:00",
@@ -672,27 +693,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.97,
     "items": [
-     {
-      "title": "Trump says he wouldn’t mind Jensen Huang being reinstated as Nvidia CEO, as its shares fall again – business live",
-      "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
-      "source": "The Guardian",
-      "date": "2026-11-16T14:56+00:00",
-      "teaser": "Rolling coverage of the latest economic and financial news Insurance industry workers: how is climate-related risk managed in your company? Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter Britain’s main share index isn’t been dragged back by the AI sell-of"
-     },
      {
       "title": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief",
       "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-16T15:03+00:00",
-      "teaser": "US president’s intervention comes days after co-founder of chipmaker resigned following two extramarital affairs"
+      "date": "2026-11-16T16:23+00:00",
+      "teaser": "US president’s intervention comes days after co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer"
+     },
+     {
+      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-16T15:31+00:00",
+      "teaser": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.8,
     "items": [
      {
       "title": "Älterer Programmfehler löste Ausfall von Microsoft-Diensten aus",
@@ -712,7 +733,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.67,
     "items": [
      {
       "title": "Ex-Nvidia-Chef Huang arbeitet offenbar bereits an seinem Comeback",
@@ -732,92 +753,92 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.98,
     "items": [
      {
-      "title": "Asylpolitik: 20 Millionen Euro für 40 Abschiebungen? Dobrindts Ruanda-Plan stößt auf Widerstand",
-      "url": "https://www.handelsblatt.com/politik/deutschland/asylpolitik-dobrindts-ruanda-abschiebeplan-stoesst-auf-widerstand/100270115.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-16T15:10+00:00",
-      "teaser": "Der Bundesinnenminister treibt mit vier Staaten die Einrichtung von Abschiebezentren außerhalb der EU voran. Ruanda gilt als Favorit. Die SPD verweigert aber die Finanzierung des Projekts."
+      "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.",
+      "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
+      "source": "New York Times",
+      "date": "2026-11-16T16:34+00:00",
+      "teaser": "For years, engineers have shuffled between Tesla and SpaceX and the companies have worked on major projects together."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.98,
     "items": [
      {
-      "title": "Yalta 2.0? Trump, Xi and Putin lead Asia’s week of high-stakes diplomacy",
-      "url": "https://www.ft.com/content/5621d364-c767-4b40-a090-054042d1c49b?syn-25a6b1a6=1",
+      "title": "Elon Musk Dreams of Merging Tesla and SpaceX in Move Toward Tech Supremacy",
+      "url": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html",
+      "source": "New York Times",
+      "date": "2026-11-16T16:32+00:00",
+      "teaser": "The history of the sprawling corporate combinations is rich, colorful and mostly disappointing. Could a SpaceX-Tesla merger be a success story?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Donald Trump: Können die Demokraten nach den US-Midterms die Zölle wirklich stoppen?",
+      "url": "https://www.spiegel.de/wirtschaft/service/donald-trump-koennen-die-demokraten-nach-den-us-midterms-die-zoelle-wirklich-stoppen-a-93d3e5c2-9594-424c-bf96-cb2f925e009b#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-16T17:14+01:00",
+      "teaser": "Die Demokraten übernehmen ab Januar die Mehrheit im US-Kongress und könnten Donald Trumps Zöllen den Kampf ansagen. Doch Experten sind skeptisch, ob sie dazu auch die Befugnisse haben – und ob sie überhaupt wollen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Greece becomes unlikely haven for European investors",
+      "url": "https://www.ft.com/content/e2bfe9ca-b0a2-439c-8ee3-4108c9955ecd?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-16T15:10+00:00",
-      "teaser": "Summits in China and the Philippines provide a backdrop for a string of meetings involving powerful global rivals"
+      "date": "2026-11-16T16:08+00:00",
+      "teaser": "The question is whether the country has gains still to come"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.94,
     "items": [
      {
       "title": "Robert Pattinson Named as the Next James Bond",
-      "url": "https://www.nytimes.com/2026/11/16/movies/james-bond.html",
+      "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
       "source": "New York Times",
-      "date": "2026-11-16T15:07+00:00",
+      "date": "2026-11-16T16:01+00:00",
       "teaser": "The announcement ends years of speculation over who would take over the role after Daniel Craig’s five-film run."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.93,
     "items": [
      {
-      "title": "Haushalt: „Der Finanzminister kann nicht überrascht sein“ – Merz setzt Klingbeil bei Stromsteuer unter Druck",
-      "url": "https://www.handelsblatt.com/politik/deutschland/haushalt-merz-setzt-klingbeil-bei-senkung-der-stromsteuer-unter-zugzwang/100270123.html",
+      "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "source": "CNBC",
+      "date": "2026-11-16T15:56+00:00",
+      "teaser": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "+++ Ukraine-Krieg +++: Ukraine greift Krim-Brücke mit Drohnen an – Kreml meldet geringe Schäden",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-ukraine-greift-krim-bruecke-mit-drohnen-an-kreml-meldet-geringe-schaeden/27982126.html",
       "source": "Handelsblatt",
-      "date": "2026-11-16T14:57+00:00",
-      "teaser": "Nach harten Verhandlungen haben die Fraktionen den Haushalt finalisiert. Doch die Union lässt bei der Senkung der Stromsteuer nicht locker. Gibt es eine Einigung – oder eskaliert der Streit?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Nationaler Stahlgipfel: Katherina Reiche wird ausgebuht",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/katherina-reiche-auf-dem-stahlgipfel-buhrufe-statt-dankbarkeit-201687147.html",
-      "source": "FAZ",
-      "date": "2026-11-16T14:59+00:00",
-      "teaser": "Beim Stahlgipfel drängen Länder, Unternehmen und IG Metall die Bundeswirtschaftsministerin zu noch besseren Rahmenbedingungen. Sie selbst wünscht sich mehr Dankbarkeit für schon erkämpfte Maßnahmen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "US-Techkonzerne in Brasilien: Und jetzt kämpft er gegen Meta",
-      "url": "https://www.zeit.de/2026/49/us-techkonzerne-brasilien-wahl-meta-lula",
-      "source": "Zeit",
-      "date": "2026-11-16T14:56+00:00",
-      "teaser": "Brasiliens Präsident Lula knöpft sich US-Techkonzerne vor, weil sie sich in den Wahlkampf eingemischt haben sollen. Doch die Unternehmen sind mächtig und wehren sich."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "American Roosters Fight in the Philippines Despite U.S. Crackdown",
-      "url": "https://www.nytimes.com/2026/11/16/world/asia/roosters-cockfighting-philippines.html",
-      "source": "New York Times",
-      "date": "2026-11-16T14:56+00:00",
-      "teaser": "It’s illegal in the United States to transport game fowl for fighting. But investigators say breeders are sending birds to the Philippines, where cockfighting is legal and lucrative."
+      "date": "2026-11-16T15:46+00:00",
+      "teaser": "EU setzt 145 weitere Personen und Organisationen auf Sanktionsliste +++ Russland meldet Festnahme nach Autobombenanschlag +++ Zahlreiche russische Raffinierien beschädigt +++ Der Newsblog."
      }
     ]
    }
@@ -825,7 +846,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.96,
+    "score": 7.83,
     "favorite": true,
     "items": [
      {
@@ -839,7 +860,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.89,
+    "score": 7.76,
     "favorite": true,
     "items": [
      {
@@ -853,7 +874,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.86,
+    "score": 7.73,
     "favorite": true,
     "items": [
      {
@@ -867,13 +888,13 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.69,
+    "score": 5.93,
     "items": [
      {
       "title": "Klopp says Infantino worse than Blatter",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-16T11:27+00:00",
+      "date": "2026-11-16T15:54+00:00",
       "teaser": "Germany manager Jurgen Klopp says he \"didn't think things could get worse after Sepp Blatter, but someone has managed to do just that\" as he calls for Fifa president Gianni Infantino to be replaced."
      },
      {
@@ -893,8 +914,75 @@
     ]
    },
    {
+    "sourceCount": 3,
+    "score": 5.92,
+    "items": [
+     {
+      "title": "UEFA bestätigt: Franzose Diallo tritt gegen Infantino an",
+      "url": "https://www.sportschau.de/fussball/uefa-vor-der-entscheidung-franzose-diallo-moeglicher-kandidat,infantino-gegenkandidat-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-16T16:37+01:00",
+      "teaser": "Philippe Diallo aus Frankreich soll nach dem Willen der UEFA neuer FIFA-Präsident werden. Diallo soll sich gegen Amtsinhaber Gianni Infantino zur Wahl stellen - die Außenseiterrolle ist ihm sicher."
+     },
+     {
+      "title": "FIFA-Wahl: Franzose Diallo tritt gegen Infantino an",
+      "url": "https://www.faz.net/aktuell/sport/fussball/fifa-franzose-phillipe-diallo-tritt-gegen-gianni-infantino-an-201688936.html",
+      "source": "FAZ",
+      "date": "2026-11-16T15:47+00:00",
+      "teaser": "Arsène Wenger galt als Favorit der europäischen FIFA-Kritiker – doch nun soll Frankreichs Verbandschef Philippe Diallo Gianni Infantino herausfordern. Warum fiel die Wahl auf ihn?"
+     },
+     {
+      "title": "FIFA-Wahlkampf: UEFA schickt Diallo gegen Infantino ins Rennen",
+      "url": "https://www.kicker.de/fifa-wahlkampf-uefa-schickt-diallo-gegen-infantino-ins-rennen-1272150/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-16T15:37+00:00",
+      "teaser": "Im FIFA-Machtkampf hat sich die UEFA auf einen unerwarteten Gegenkandidaten für den amtierenden Präsidenten Gianni Infantino geeinigt: Philippe Diallo."
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 4.0,
+    "items": [
+     {
+      "title": "Fifa-Präsidentschaftswahl: Uefa nominiert Philippe Diallo als Herausforderer für Gianni Infantino",
+      "url": "https://www.spiegel.de/sport/fussball/fifa-praesidentschaftswahl-uefa-nominiert-philippe-diallo-als-herausforderer-fuer-gianni-infantino-a-5d50e5bb-a0d5-4ed0-b50b-d95bbb3bb5bb#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-16T17:42+01:00",
+      "teaser": "Europas Kontinentalverband Uefa stellt für die Wahl zum Fifa-Präsidenten einen überraschenden Kandidaten auf: Nicht Arsène Wenger, sondern Frankreichs Verbandsboss Philippe Diallo soll Gianni Infantino entthronen."
+     },
+     {
+      "title": "Fifa-Präsidentschaft: Uefa nominiert Franzosen Diallo gegen Infantino als Fifa-Präsidenten",
+      "url": "https://www.zeit.de/sport/2026-11/uefa-nominiert-franzosen-diallo-gegen-infantino-als-fifa-praesidenten",
+      "source": "Zeit",
+      "date": "2026-11-16T16:32+00:00",
+      "teaser": "Frankreichs Fußballverbandschef Philippe Diallo tritt bei der Fifa-Präsidentschaftswahl gegen Amtsinhaber Infantino an. Die Uefa stellt ihn als Gegenkandidaten auf."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.87,
+    "items": [
+     {
+      "title": "Nach Hirnhautreizung: Kompany leitet erstmals wieder Training beim FC Bayern",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/vincent-kompany-leitet-erstmals-wieder-training-beim-fc-bayern-201688592.html",
+      "source": "FAZ",
+      "date": "2026-11-16T14:53+00:00",
+      "teaser": "Mehr als drei Wochen fehlt Trainer Vincent Kompany den Bayern. Nun ist er zurück im Training. Ob er schon am Freitag beim Bundesliga-Spiel gegen den 1. FC Köln auf der Bank sitzen wird, bleibt offen."
+     },
+     {
+      "title": "Kompany leitet erstmals wieder das Training beim FC Bayern",
+      "url": "https://www.kicker.de/kompany-leitet-erstmals-wieder-das-training-beim-fc-bayern-1272144/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-16T15:11+00:00",
+      "teaser": "Nach mehr als dreiwöchiger Zwangspause hat Vincent Kompany am Montag erstmals wieder eine Trainingseinheit beim FC Bayern geleitet."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.83,
     "items": [
      {
       "title": "Rekordkulisse und Popp-Dreierpack: Warum das Frauen-Revierderby ganz anders ist",
@@ -914,7 +1002,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.77,
+    "score": 3.64,
     "items": [
      {
       "title": "DFB-Elf gegen die Niederlande: Folgt der nächste Sieg im „Endspiel“?",
@@ -934,7 +1022,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.53,
+    "score": 3.4,
     "items": [
      {
       "title": "Nations League: Furioses England stoppt Spaniens Rekordserie",
@@ -954,7 +1042,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.38,
+    "score": 3.25,
     "items": [
      {
       "title": "Ronaldinho: Fußball-Star gibt Comeback in Italien",
@@ -974,61 +1062,49 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Startet Schlotterbeck? Die letzten Fragen vor dem DFB-Klassiker",
-      "url": "https://www.kicker.de/startet-schlotterbeck-die-letzten-fragen-vor-dem-dfb-klassiker-1272096/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-16T15:05+00:00",
-      "teaser": "Am heutigen Montagabend bestreitet die DFB-Elf ihren Jahresabschluss und bestreitet zum 50. Mal den Klassiker gegen die Niederlande. Der kicker beantwortet die letzten offenen Fragen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
     "score": 1.98,
     "items": [
      {
-      "title": "Weg nach Frankfurt frei: Chatzialexious FCN-Vertrag endet vorzeitig",
-      "url": "https://www.kicker.de/weg-nach-frankfurt-frei-chatzialexious-fcn-vertrag-endet-vorzeitig-1272132/artikel#omrss",
+      "title": "\"Es ist nur eine Zahl\": Di Salvo zwischen Jubiläum und Platz-Sorgen",
+      "url": "https://www.kicker.de/es-ist-nur-eine-zahl-di-salvo-zwischen-jubilaeum-und-platz-sorgen-1272146/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-16T15:00+00:00",
-      "teaser": "Der Wechsel von Joti Chatzialexiou vom 1. FC Nürnberg zu Eintracht Frankfurt ist längst offiziell. Nun ist aber klar, dass der neue Sportvorstand bereits ab Dezember bei der SGE starten kann."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Nach Hirnhautreizung: Kompany leitet erstmals wieder Training beim FC Bayern",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/vincent-kompany-leitet-erstmals-wieder-training-beim-fc-bayern-201688592.html",
-      "source": "FAZ",
-      "date": "2026-11-16T14:53+00:00",
-      "teaser": "Mehr als drei Wochen fehlt Trainer Vincent Kompany den Bayern. Nun ist er zurück im Training. Ob er schon am Freitag beim Bundesliga-Spiel gegen den 1. FC Köln auf der Bank sitzen wird, bleibt offen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "ATP Finals 2026: Alcaraz fegt über Auftakthürde Tiafoe hinweg",
-      "url": "https://www.sportschau.de/tennis/atp/alcaraz-fegt-ueber-tiafoe-hinweg,alcaraz-tiafoe-100.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-16T15:47+01:00",
-      "teaser": "Das ging fix: Carlos Alcaraz hat aus dem ersten Gruppenspiel bei den ATP Finals eine kleine Machtdemonstration gemacht. Der US-Amerikaner Frances Tiafoe hatte nicht den Hauch einer Chance."
+      "date": "2026-11-16T16:33+00:00",
+      "teaser": "Zum Jahresausklang gastiert die deutsche U 21 in Kroatien. Ein Gastspiel, das bereits im Vorfeld für die DFB-Elf das eine oder andere Problem parat hält."
      }
     ]
    }
   ],
   "Tech & KI": [
    {
+    "sourceCount": 3,
+    "score": 5.99,
+    "items": [
+     {
+      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+      "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+      "source": "The Verge",
+      "date": "2026-11-16T11:39-05:00",
+      "teaser": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back- a lot of people are asking Jensen, they"
+     },
+     {
+      "title": "Jensen Huang Is Gone. Now What?",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "source": "Wired",
+      "date": "2026-11-16T16:12+00:00",
+      "teaser": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself."
+     },
+     {
+      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-16T15:31+00:00",
+      "teaser": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back."
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 3.94,
+    "score": 3.81,
     "items": [
      {
       "title": "Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab",
@@ -1048,7 +1124,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.78,
     "items": [
      {
       "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
@@ -1067,35 +1143,15 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 2.67,
-    "items": [
-     {
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-      "source": "The Verge",
-      "date": "2026-11-15T16:05-05:00",
-      "teaser": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the nec"
-     },
-     {
-      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-      "source": "Ars Technica",
-      "date": "2026-11-15T23:11+00:00",
-      "teaser": "This was the first total mission failure in United Launch Alliance's 20-year history."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.99,
     "items": [
      {
-      "title": "Anzeige: Ninja Dual-Zone-Heißluftfritteuse mit 9,5 Litern am frühen Black Friday zum Bestpreis ...",
-      "url": "https://www.golem.de/news/anzeige-ninja-dual-zone-heissluftfritteuse-mit-9-5-litern-am-fruehen-black-friday-zum-bestpreis-bei-amazon-2611-215272.html",
-      "source": "Golem",
-      "date": "2026-11-16T16:09+01:00",
-      "teaser": "Zwei Schubladen, sechs Garfunktionen und Sync-Funktion machen die Ninja Dual Zone zur Familienfritteuse, die es jetzt zum Bestpreis gibt. ( Technik/Hardware )"
+      "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
+      "source": "New York Times",
+      "date": "2026-11-16T16:35+00:00",
+      "teaser": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies."
      }
     ]
    },
@@ -1104,63 +1160,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Sicherheitsvorfall: Massenhaft unberechtigte Anmeldeversuche bei Bürgerkonto BundID",
-      "url": "https://www.golem.de/news/sicherheitsvorfall-massenhaft-unberechtigte-anmeldeversuche-bei-buergerkonto-bundid-2611-215270.html",
-      "source": "Golem",
-      "date": "2026-11-16T16:02+01:00",
-      "teaser": "Das BSI bestätigt den Sicherheitsvorfall, der zur Sperrung einiger BundID-Konten führt. ( Security , BSI )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Microsoft-Ausfall: Monate alter Update-Fehler legte Outlook weltweit lahm",
-      "url": "https://www.golem.de/news/microsoft-ausfall-monate-alter-update-fehler-legte-outlook-weltweit-lahm-2611-215269.html",
-      "source": "Golem",
-      "date": "2026-11-16T15:44+01:00",
-      "teaser": "Ein fehlerhaftes Software-Update vom Juli 2026 und unzureichende Belastungstests haben zu einem kaskadierenden Serverausfall bei Microsoft geführt. ( Microsoft , Windows )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
-      "source": "New York Times",
-      "date": "2026-11-16T14:42+00:00",
-      "teaser": "The rules, a topic of fierce debate in the administration, could cut back on Nvidia’s sales to foreign data centers serving Chinese companies."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Apple TV is getting video podcasts you can watch for free",
-      "url": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts",
-      "source": "The Verge",
-      "date": "2026-11-16T09:45-05:00",
-      "teaser": "Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new update for iOS 27.3 beta testers to roll out in a few hours. Once it rolls out fully, the new video podcasts section will be "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "America’s air traffic control system couldn’t handle a single bad router",
-      "url": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
-      "source": "The Verge",
-      "date": "2026-11-16T09:43-05:00",
-      "teaser": "Thirty minutes outside Atlanta, the pilot got on the intercom to announce that something was wrong. A communications issue with the Federal Aviation Administration was cascading across the country. The pilot didn't offer much detail except to say that the issue might affect gate access and connectin"
+      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
+      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
+      "source": "Ars Technica",
+      "date": "2026-11-16T16:39+00:00",
+      "teaser": "International authorities will announce US lost its elimination status Tuesday."
      }
     ]
    },
@@ -1169,37 +1173,89 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Ohne Jailbreak: Wie du Windows 11 aufs iPhone Duo bringst",
-      "url": "https://t3n.de/news/windows-11-iphone-duo-1773746/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-16T15:30+01:00",
-      "teaser": "Google-Entwickler Ammaar Reshi hat Windows 11 auf einem iPhone Duo zum Laufen gebracht. Halb aufgeklappt lässt sich Apples neues Falthandy so zum Mini-Laptop machen. Der Quellcode des WindowsiOS-Projekts steht auf GitHub zur Verfügung. weiterlesen auf t3n.de"
+      "title": "Anzeige: Amazon Fire TV Stick 4K Plus zum Aktionspreis bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-amazon-fire-tv-stick-4k-plus-zum-aktionspreis-bei-amazon-2611-215275.html",
+      "source": "Golem",
+      "date": "2026-11-16T17:05+01:00",
+      "teaser": "Amazon bietet seinen Fire TV Stick 4K Plus mit Wi-Fi 6, Alexa+ und Dolby Vision in einem frühen Black Friday Angebot zum Aktionspreis an. ( Fire TV Stick , Amazon )"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.94,
     "items": [
      {
-      "title": "Whatsapp soll „Zaps“ bekommen: Welches Feature sich dahinter verbirgt",
-      "url": "https://t3n.de/news/whatsapp-soll-zaps-bekommen-welches-feature-sich-dahinter-verbirgt-1773817/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-16T15:05+01:00",
-      "teaser": "Whatsapp-Nutzer:innen können wohl bald selbstlöschende Fotos und Videos aufnehmen und verschicken – ähnlich wie bei Snapchat oder Instagram. Der Versand soll an alle Kontakte und Gruppen möglich sein. weiterlesen auf t3n.de"
+      "title": "Nebenkostenprivileg: Verfassungsgericht bestätigt Kündigungsrecht der Vermieter",
+      "url": "https://www.golem.de/news/nebenkostenprivileg-verfassungsgericht-bestaetigt-kuendigungsrecht-der-vermieter-2611-215277.html",
+      "source": "Golem",
+      "date": "2026-11-16T17:03+01:00",
+      "teaser": "Die Abschaffung des Nebenkostenprivilegs beim Kabelfernsehen war verfassungsgemäß. Laut Bundesverfassungsgericht ist die Lastenverteilung zuungunsten der Netzbetreiber \"noch nicht unangemessen\". ( Kabelnetz , Politik )"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.94,
     "items": [
      {
-      "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
-      "url": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
-      "source": "Ars Technica",
-      "date": "2026-11-16T14:00+00:00",
-      "teaser": "The point-to-point driver assist is coming to the US and Germany in 2027."
+      "title": "370 Bücher in 20 Monaten: Wie eine Autorin ihre Werke mit KI schreibt – und wie sie dafür kritisiert wird",
+      "url": "https://t3n.de/news/ki-autorin-370-buecher-in-20-monaten-1773778/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-16T17:00+01:00",
+      "teaser": "In nicht einmal zwei Jahren hat eine südafrikanische Autorin mehr als 370 Bücher geschrieben und veröffentlicht. Dabei hat ihr Künstliche Intelligenz geholfen. Wie sie ihren Workflow gestaltet und die Werke zu einem Geschäftsmodell gemacht hat. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "The Verge’s guide to the best gifts under $100",
+      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "source": "The Verge",
+      "date": "2026-11-16T11:00-05:00",
+      "teaser": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers, […]"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
+      "url": "https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai",
+      "source": "The Verge",
+      "date": "2026-11-16T11:00-05:00",
+      "teaser": "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms because she ran on the dual themes of affordability and accountability. So I wanted to as"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+      "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+      "source": "Wired",
+      "date": "2026-11-16T16:00+00:00",
+      "teaser": "New Harvard research shows that data-center power demand is outstripping states—and that doesn’t even include facilities with off-grid gas plants."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Muster erkannt: Großwetterlagen lassen Europas Wälder gleichzeitig brennen",
+      "url": "https://www.heise.de/news/Muster-erkannt-Grosswetterlagen-lassen-Europas-Waelder-gleichzeitig-brennen-11526825.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-16T16:57+01:00",
+      "teaser": "Waldbrände in Europa brechen oft an mehreren Orten zugleich aus. Schweizer Forscher zeigen, welche Großwetterlagen dahinterstecken."
      }
     ]
    }
@@ -1480,13 +1536,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 6
+   "items": 8
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Sport",
@@ -1498,7 +1554,7 @@
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 6
+   "items": 9
   },
   {
    "topic": "Sport",
@@ -1534,7 +1590,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "topic": "Tech & KI",
@@ -1564,7 +1620,7 @@
    "topic": "Tech & KI",
    "source": "Ars Technica",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Tech & KI",
