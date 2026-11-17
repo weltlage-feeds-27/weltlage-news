@@ -1,10 +1,37 @@
 {
- "fetchedAt": "2026-11-17T07:26:00+00:00",
+ "fetchedAt": "2026-11-17T09:09:16+00:00",
  "topics": {
   "Welt & Politik": [
    {
+    "sourceCount": 4,
+    "score": 7.92,
+    "items": [
+     {
+      "title": "Russia says Ukrainian aerial attack involved more than 1,300 drones",
+      "url": "https://www.cbc.ca/news/world/ukraine-russia-drone-attacks-9.7423256?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-16T08:10-05:00",
+      "teaser": "Russia's Defence Ministry said Monday it downed 1,336 Ukrainian drones in what would be the highest number of interceptions during an aerial attack since Moscow's all-out invasion of its neighbour nearly five years ago."
+     },
+     {
+      "title": "Ukraine hits key Crimea bridge with drones",
+      "url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones",
+      "source": "France 24",
+      "date": "2026-11-16T23:13+00:00",
+      "teaser": "\"I think the Ukrainians are trying to send a message to the Russians with this - 'If you hit our bridges we can hit yours,'\" reports Gulliver Cragg from Kyiv."
+     },
+     {
+      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-17T08:06+00:00",
+      "teaser": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed."
+     }
+    ]
+   },
+   {
     "sourceCount": 3,
-    "score": 5.41,
+    "score": 5.27,
     "items": [
      {
       "title": "Judge sets March retrial date for Lindsay Clancy in deaths of her 3 children",
@@ -31,7 +58,67 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.99,
+    "items": [
+     {
+      "title": "Japan beklagt Verletzung seines Luftraums durch russische Flugzeuge",
+      "url": "https://www.spiegel.de/ausland/japan-beklagt-verletzung-seines-luftraums-durch-russische-flugzeuge-a-39455a93-2683-41c6-aee7-294b6b4da18f#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-17T04:48+01:00",
+      "teaser": "Tokio spricht von einem »völlig inakzeptablen« Vorfall: Demnach sollen zwei Flugzeuge aus Russland in den Luftraum des Landes eingedrungen sein. Auch Südkorea meldet verdächtige Aktivitäten."
+     },
+     {
+      "title": "Japan beklagt Verletzung des Luftraums durch russische Jets",
+      "url": "https://www.dw.com/de/japan-beklagt-verletzung-des-luftraums-durch-russische-jets/a-79965537?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-17T09:04+00:00",
+      "teaser": "Zwei mutmaßlich russische Flugzeuge seien nahe der Insel Okinoshima in den japanischen Luftraum eingedrungen, heißt es aus Tokio. Die japanische Luftwaffe habe reagiert."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.99,
+    "items": [
+     {
+      "title": "5 European countries want to start deporting migrants to Rwanda, despite concerns from human rights groups",
+      "url": "https://www.cbc.ca/news/world/rwanda-deportation-hub-european-countries-9.7423753?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-17T04:00-05:00",
+      "teaser": "Five European countries have embarked on a deal with Rwanda to take in migrants whose asylum claims have been rejected. They are hoping the scheme acts as a deterrent, but a similar plan in Britain was quashed after the court called it unlawful."
+     },
+     {
+      "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+      "source": "New York Times",
+      "date": "2026-11-16T17:36+00:00",
+      "teaser": "Germany, Austria, the Netherlands, Greece and Denmark are seeking to establish a hub for rejected asylum seekers. Here’s what to know about their effort."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "Trump Will Miss Most of the ASEAN Summit",
+      "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+      "source": "New York Times",
+      "date": "2026-11-17T05:00+00:00",
+      "teaser": "President Trump will arrive in Manila as the meeting is wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing."
+     },
+     {
+      "title": "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
+      "url": "https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece",
+      "source": "The Hindu",
+      "date": "2026-11-17T13:58+05:30",
+      "teaser": "In the first Quad Summit since 2024, PM Modi is expected to meet U.S. President Trump, Japanese PM Takaichi and Australian PM Albanese"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.79,
     "items": [
      {
       "title": "Angriffe auf die Ukraine: Zwei wichtige Brücken in Kiew getroffen",
@@ -51,27 +138,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
-    "items": [
-     {
-      "title": "Live: Russian attacks target Kyiv bridges, knock out heating and water",
-      "url": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine",
-      "source": "France 24",
-      "date": "2026-11-17T01:38+00:00",
-      "teaser": "Russian strikes hit two major bridges in Kyiv late Monday, part of an overnight attack that damaged critical infrastructure and disrupted heating and water in parts of the capital, its mayor said. Ukraine's President Volodymyr Zelensky had warned of an attack by Russia even as negotiators representi"
-     },
-     {
-      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-17T05:57+00:00",
-      "teaser": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.67,
+    "score": 3.53,
     "items": [
      {
       "title": "Krieg gegen die Ukraine: Erste Vorgespräche mit Europas Unterhändlern",
@@ -91,7 +158,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.48,
+    "score": 3.34,
     "items": [
      {
       "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
@@ -111,27 +178,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.36,
-    "items": [
-     {
-      "title": "News Wrap: Trump departs for trip to Asia, meetings with Xi and Putin",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-departs-for-trip-to-asia-meetings-with-xi-and-putin",
-      "source": "PBS NewsHour",
-      "date": "2026-11-16T18:45-05:00",
-      "teaser": "In our news wrap Monday, President Trump left for Asia, where he'll meet regional leaders, followed by talks with Chinese President Xi Jinping and Russia's Vladimir Putin, Ukrainian President Volodymyr Zelenskyy warned that North Korea is providing Russia with ballistic missiles and customers at som"
-     },
-     {
-      "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
-      "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
-      "source": "New York Times",
-      "date": "2026-11-16T21:42+00:00",
-      "teaser": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.35,
+    "score": 3.2,
     "items": [
      {
       "title": "United Airlines says issue affecting departing flights has been resolved",
@@ -151,27 +198,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.24,
-    "items": [
-     {
-      "title": "Russia says Ukrainian aerial attack involved more than 1,300 drones",
-      "url": "https://www.cbc.ca/news/world/ukraine-russia-drone-attacks-9.7423256?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-16T08:10-05:00",
-      "teaser": "Russia's Defence Ministry said Monday it downed 1,336 Ukrainian drones in what would be the highest number of interceptions during an aerial attack since Moscow's all-out invasion of its neighbour nearly five years ago."
-     },
-     {
-      "title": "Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
-      "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-16T22:20+00:00",
-      "teaser": "\"Preliminary reports indicate that there were impacts on the North and South bridges in the capital city,\" Kyiv Mayor Vitali Klitschko said."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.86,
+    "score": 2.72,
     "items": [
      {
       "title": "Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief",
@@ -190,35 +217,15 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 2.81,
-    "items": [
-     {
-      "title": "EU-Staaten wollen 2027 Abschiebezentrum in Ruanda eröffnen",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-16T18:07+01:00",
-      "teaser": "Fünf EU-Staaten, darunter Deutschland, planen für das kommende Jahr die Eröffnung des ersten Abschiebezentrums in Ruanda. Dorthin sollen Asylbewerber gebracht werden, die nicht in ihre Herkunftsländer abgeschoben werden können."
-     },
-     {
-      "title": "Rückkehrzentren: Erstes EU-Abschiebezentrum soll 2027 in Ruanda eröffnen",
-      "url": "https://www.faz.net/aktuell/politik/ausland/erstes-eu-abschiebezentrum-soll-2027-in-ruanda-eroeffnen-201686820.html",
-      "source": "FAZ",
-      "date": "2026-11-16T15:42+00:00",
-      "teaser": "Deutschland will mit vier weiteren EU-Staaten ausreisepflichtige Asylbewerber in Drittstaaten überstellen. Kommendes Jahr könnte es losgehen."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
     "score": 1.99,
     "items": [
      {
-      "title": "Türkei: Polizei stürmt Sitz von oppositionsnahem Sender Sözcü TV",
-      "url": "https://www.spiegel.de/ausland/tuerkei-polizei-stuermt-sitz-von-oppositionsnahem-sender-soezcue-tv-a-625b2ba6-8c4e-4600-9fff-d1664c06bdb5#ref=rss",
+      "title": "Russland: Regierung beruft offenbar nach Angriff auf Krimbrücke Krisensitzung ein",
+      "url": "https://www.spiegel.de/ausland/russland-regierung-beruft-offenbar-nach-angriff-auf-krimbruecke-krisensitzung-ein-a-cf3b4538-0f83-46a7-a649-3bca14b7af2e#ref=rss",
       "source": "Spiegel",
-      "date": "2026-11-17T08:16+01:00",
-      "teaser": "Die Türkei setzt ihr Vorgehen gegen Oppositionsmedien fort: Am frühen Morgen hat die Polizei den Sitz von Sözcü TV durchsucht und Mitarbeiter festgenommen. Das Medium wurde unter staatliche Zwangsverwaltung gestellt."
+      "date": "2026-11-17T10:02+01:00",
+      "teaser": "Die Brücke zur von Russland annektierten Halbinsel Krim ist durch einen erneuten ukrainischen Angriff stark beschädigt worden. In Russland tagt ein Krisenrat."
      }
     ]
    },
@@ -227,11 +234,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Live: France braces for new day of protests as unions call for nationwide strike",
-      "url": "https://www.france24.com/en/france/20261117-live-france-braces-for-new-day-protests-unions-call-nationwide-strike",
-      "source": "France 24",
-      "date": "2026-11-17T07:16+00:00",
-      "teaser": "France braced for another day of protests Tuesday as unions called for a nationwide strike by public sector workers in a bid to secure pay rises. Youth organisations and Yellow Vest activists are also set to join the demonstrations. Follow our liveblog for the latest updates."
+      "title": "Investigate Trump or work with him? Democrats debate best path forward",
+      "url": "https://www.cbc.ca/news/world/trump-congress-democrats-affordability-accountability-9.7421040?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-17T04:00-05:00",
+      "teaser": "Still giddy from their sweeping midterm victory, the Democrats now face a dilemma over what to do next. Some factions within the party are urging a strong push to investigate U.S. President Donald Trump, his family and his allies over allegations of corruption. Others insist the Democrats must stay "
      }
     ]
    }
@@ -239,7 +246,7 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.78,
     "items": [
      {
       "title": "Mehr als jeder dritte Hausarzt in BW älter als 60",
@@ -249,7 +256,7 @@
       "teaser": "In den kommenden Jahren könnte die Hausarztsuche immer schwieriger werden, denn viele Ärzte erreichen bald das Rentenalter. Wie kann der drohende Hausarztmangel abgewendet werden?"
      },
      {
-      "title": "Verteidigungsausgaben: Soll wirklich jeder dritte Euro für Rüstung ausgegeben werden?",
+      "title": "Verteidigungsausgaben: Jeder dritte Euro für Panzer und Drohnen? Darüber müssen wir reden",
       "url": "https://www.zeit.de/politik/deutschland/2026-11/verteidigungsausgaben-haushalt-quote-bundeswehr-ausruestung-sicherheitspolitik",
       "source": "Zeit",
       "date": "2026-11-17T06:32+00:00",
@@ -259,7 +266,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.63,
     "items": [
      {
       "title": "Deutschland Liveblog: Franziska Giffey erwägt Kandidatur um SPD-Vorsitz mit Heil",
@@ -279,7 +286,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.85,
+    "score": 2.7,
     "items": [
      {
       "title": "Abschiebung nach Ruanda: Darum geht es bei Alexander Dobrindts Abschiebeplan mit Ruanda",
@@ -299,10 +306,10 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.73,
+    "score": 2.59,
     "items": [
      {
-      "title": "Deutschland und weitere EU-Länder einigen sich auf Abschiebezentrum in Ruanda",
+      "title": "Ruanda: Deutschland und weitere EU-Länder einigen sich auf Abschiebezentrum",
       "url": "https://www.spiegel.de/politik/deutschland/deutschland-und-weitere-eu-laender-einigen-sich-auf-abschiebezentrum-in-ruanda-a-3a25bbe9-f973-4f75-be7c-1827d06f46cc#ref=rss",
       "source": "Spiegel",
       "date": "2026-11-16T16:54+01:00",
@@ -310,7 +317,7 @@
      },
      {
       "title": "Abschiebezentrum in Afrika: Was Deutschland in Ruanda plant",
-      "url": "https://www.sueddeutsche.de/politik/ruanda-abschiebezentrum-deutschland-asylpolitik-rueckkehrzentrum-li.3581059",
+      "url": "https://www.sueddeutsche.de/politik/ruanda-abschiebezentrum-deutschland-asylpolitik-plaene-li.3581059",
       "source": "Süddeutsche",
       "date": "2026-11-16T16:14+00:00",
       "teaser": "Innenminister Alexander Dobrindt kündigt Tempo dabei an, abgelehnte Asylbewerber nach Ostafrika abzuschieben. Aber selbst in der Koalition gibt es Kritik an der Kooperation mit einer Autokratie."
@@ -319,7 +326,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.5,
+    "score": 2.35,
     "items": [
      {
       "title": "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
@@ -339,7 +346,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.45,
+    "score": 2.3,
     "items": [
      {
       "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
@@ -359,14 +366,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
     "items": [
      {
-      "title": "++ Unwetterwarnung für Karlsruhe, Freiburg und den Schwarzwald ++ Jugendliche kritisieren Özdemir wegen \"Scheinbeteiligung\" ++ B27 bei Neckarsulm wegen Unfall gesperrt ++",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-11-17-100.html",
-      "source": "SWR",
-      "date": "2026-11-17T08:21+01:00",
-      "teaser": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
+      "title": "Koalitionsausschuss: Schwarz-Rot sucht nach Milliarden für Entlastungen",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rente-stromsteuer-wahlrecht-knackpunkte-koalition-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-17T10:07+01:00",
+      "teaser": "Stromsteuersenkung, Rentenreform, Ausgleich der Kalten Progression: Die Spitzen der schwarz-roten Koalition wollen heute Abend über viele Knackpunkte entscheiden. Es geht um viel Geld, aber auch um die Glaubwürdigkeit des Kanzlers. Von M. Ulrich."
      }
     ]
    },
@@ -375,11 +382,24 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Schwerer Unfall auf B27 bei Neckarsulm: Lkw kracht in den Gegenverkehr - mehrere Verletzte",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/lkw-kracht-auf-b27-bei-neckarsulm-in-gegenverkehr-ein-schwerverletzter-100.html",
+      "title": "Apec: Mehrere Vorfälle mit russischen Fliegern vor Wirtschaftsgipfel in Asien",
+      "url": "https://www.sueddeutsche.de/politik/apec-russland-luftraum-japan-taiwan-suedkorea-li.3581703",
+      "source": "Süddeutsche",
+      "date": "2026-11-17T09:03+00:00",
+      "teaser": "Kurz vor einem wichtigen Regionaltreffen im chinesischen Shenzhen melden Südkorea und Taiwan russische Militärflugzeuge in ihren Luftverteidigungszonen. Japan spricht gar von einer Luftraumverletzung."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "BW-Newsticker am Morgen: ++ Unwetterwarnung für Karlsruhe, Freiburg und den Schwarzwald ++ Freiburger Kicker schießt Traumtor - mit Genugtuung ++ Land investiert in Schwimmbäder ++",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-11-17-100.html",
       "source": "SWR",
-      "date": "2026-11-17T08:19+01:00",
-      "teaser": "Auf der B27 bei Neckarsulm ist ein Lkw in den Gegenverkehr geraten und dort mit gleich mehreren Autos kollidiert. Ein Mensch wurde dabei schwer verletzt, drei weitere leicht."
+      "date": "2026-11-17T10:01+01:00",
+      "teaser": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
      }
     ]
    },
@@ -388,37 +408,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Bundespräsidentenwahl 2027: SPD schickt Sänger Mickie Krause zur Abstimmung",
-      "url": "https://www.spiegel.de/politik/deutschland/bundespraesidentenwahl-2027-spd-schickt-saenger-mickie-krause-zur-abstimmung-a-ee33a4f3-d944-4ba4-a1da-528f2d4c469d#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-17T08:12+01:00",
-      "teaser": "Die nordrhein-westfälische SPD hat ihre Wahlleute für die Bundesversammlung nominiert: Mit dabei sind Sänger Mickie Krause und der »Hunde-Flüsterer« Martin Rütter, aber auch eine bekannte Juristin."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Wahlkampf in Frankreich: Laut wird es, als Le Pen ihre autoritäre Seite zeigt",
-      "url": "https://www.sueddeutsche.de/politik/praesidentschaftswahl-frankreich-2027-marine-le-pen-jean-luc-melenchon-tv-debatte-duell-li.3581314",
+      "title": "Krieg in der Ukraine: Krim-Brücke nach Angriff teilweise eingestürzt",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-krim-bruecke-einsturz-li.3571967",
       "source": "Süddeutsche",
-      "date": "2026-11-17T06:55+00:00",
-      "teaser": "In der ersten TV-Debatte vor den Präsidentschaftswahlen in Frankreich streiten fünf Kandidaten über den Kampf gegen die Armut. Die Favoritin der extremen Rechten will seriös wirken, verliert aber nach zwei Stunden ihre Beherrschung."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Bundesregierung: Strom, Sprit, Steuer – um diese Probleme geht es heute im Koalitionsausschuss",
-      "url": "https://www.sueddeutsche.de/politik/cdu-csu-spd-merz-steuer-strom-benzin-li.3581733",
-      "source": "Süddeutsche",
-      "date": "2026-11-17T06:47+00:00",
-      "teaser": "Die Koalition steht vor einem Haufen Probleme. Kann da im Koalitionsausschuss etwas Gutes herauskommen?"
+      "date": "2026-11-17T08:51+00:00",
+      "teaser": "Die strategisch wichtige Brücke zwischen dem russischen Festland und der annektierten Halbinsel ist immer wieder Ziel von Angriffen. Jetzt hatten die Ukrainer Berichten zufolge Erfolg."
      }
     ]
    },
@@ -427,11 +421,24 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Andreas Gassen: Arzttermine gegen Geld sind ein Skandal",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/andreas-gassen-facharzttermine-privatpatienten-zwei-klassen-medizin",
-      "source": "Zeit",
-      "date": "2026-11-17T06:40+00:00",
-      "teaser": "Wer selbst zahlt, kommt eher dran? Für ein auf Solidarität gegründetes Gesundheitssystem ist dieser Vorstoß Gift. Vor dem Arzt sollten alle Menschen gleich sein."
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-17T09:27+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Plätzchen Marathon in Wasseralfingen: 61 Kilogramm Zutaten, 35 Sorten, tausende Bredla",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/61-kilogramm-zutaten-plaetzchen-marathon-wasseralfingen-100.html",
+      "source": "SWR",
+      "date": "2026-11-17T09:01+01:00",
+      "teaser": "Bettina Rieger nimmt sich extra Urlaub, um Plätzchen zu backen. Für sie ist ihr Back-Marathon mehr als ein Hobby. Vor allem aber ist es ein Geschenk an viele Menschen um sie herum."
      }
     ]
    }
@@ -442,24 +449,63 @@
     "score": 2.0,
     "items": [
      {
-      "title": "Kaja Kallas pominięta przez przywódców UE. Z Rosją w sprawie Ukrainy negocjować ma m.in. Polska",
-      "url": "https://www.rp.pl/polityka/art45499081-kaja-kallas-pominieta-przez-przywodcow-ue-z-rosja-w-sprawie-ukrainy-negocjowac-ma-m-in-polska",
+      "title": "Ważą się losy immunitetu Święczkowskiego. W Trybunale Konstytucyjnym trwa zgromadzenie",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45499551-waza-sie-losy-immunitetu-swieczkowskiego-w-trybunale-konstytucyjnym-trwa-zgromadzenie",
       "source": "Rzeczpospolita",
-      "date": "2026-11-17T08:22+01:00",
-      "teaser": "Polska znalazła się w gronie pięciu państw, które mają reprezentować Europę w negocjacjach dotyczących zakończenia wojny Rosji z Ukrainą. W europejskim zespole zabrakło jednak szefowej unijnej dyplomacji Kaji Kallas, która sama zabiegała o rolę specjalnej wysłanniczki. Decyzja przywódców UE wywołała"
+      "date": "2026-11-17T10:07+01:00",
+      "teaser": "Bogdan Święczkowski przekazał, że „jest spakowany na wszelki wypadek, gdyby go chcieli zatrzymywać i tymczasowo aresztować”. W Trybunale Konstytucyjnym trwa zgromadzenie, które zajmie się immunitetem jego i jego zastępcy - Bartłomieja Sochańskiego."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
     "items": [
      {
-      "title": "NBP może zablokować przelewy nie tylko Trybunału Konstytucyjnego. Glapiński ma tu istotną „władzę”",
-      "url": "https://www.rp.pl/banki/art45494341-nbp-moze-zablokowac-przelewy-nie-tylko-trybunalu-konstytucyjnego-glapinski-ma-tu-istotna-wladze",
+      "title": "Marcin Krzemiński: Samonaprawa zamiast resetu",
+      "url": "https://www.rp.pl/opinie-prawne/art45494141-marcin-krzeminski-samonaprawa-zamiast-resetu",
       "source": "Rzeczpospolita",
-      "date": "2026-11-17T08:12+01:00",
-      "teaser": "Spór wokół Trybunału Konstytucyjnego obnaża potężny oręż, jakim dysponuje NBP. Prowadząc obsługę bankową najważniejszych instytucji publicznych – oprócz TK na liście są też m.in. KNF i BFG – bank centralny skupia w swoich rękach niebagatelną „władzę” nad ich rachunkami."
+      "date": "2026-11-17T10:02+01:00",
+      "teaser": "Sędzia Maciej Ferek ma rację, że praworządności nie przywraca się metodami niepraworządnymi. Kryzys Trybunału wymaga jednak wykładni prokonstytucyjnej, a nie literalnej, a zmiana konstytucji w ogniu sporu przyniosłaby więcej zagrożeń niż pożytku."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Zwrócił uszkodzony dysk do Amazona. Jego prywatne dane trafiły do przypadkowego Niemca",
+      "url": "https://www.rp.pl/komputery/art45499321-zwrocil-uszkodzony-dysk-do-amazona-jego-prywatne-dane-trafily-do-przypadkowego-niemca",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-17T10:01+01:00",
+      "teaser": "Jeden z użytkowników serwisu X opublikował na swoim profilu wpis, w którym przedstawił, co stało się z dyskiem SSD zakupionym przez niego na Amazonie. Według jego relacji po reklamacji produktu nośnik z jego prywatnymi danymi trafił później do innego kupującego na eBayu. O sprawie dowiedział się od "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Czarzasty: ruch Glapińskiego ws. Trybunału Konstytucyjnego ma znamiona zamachu stanu",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45499521-czarzasty-ruch-glapinskiego-ws-trybunalu-konstytucyjnego-ma-znamiona-zamachu-stanu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-17T10:00+01:00",
+      "teaser": "W sprawie Trybunału Konstytucyjnego nastąpiły dwa zamachu stanu: bezprawne wejście pana prezydenta na teren TK i podjęcie decyzji przez prezesa NBP o nieprzekazywaniu środków do TK - powiedział marszałek Sejmu Włodzimierz Czarzasty."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Zainstalował pompę ciepła bez fotowoltaiki. Oto ile wyniósł jego pierwszy rachunek",
+      "url": "https://www.rp.pl/ekonomia/art45499131-zainstalowal-pompe-ciepla-bez-fotowoltaiki-oto-ile-wyniosl-jego-pierwszy-rachunek",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-17T09:48+01:00",
+      "teaser": "Część osób decyduje się na instalację w swoim domu pompy ciepła bez fotowoltaiki. Czy takie rozwiązanie jest opłacalne? Jakich rachunków za prąd można się wówczas spodziewać? Sprawdził to jeden z właścicieli nowego domu."
      }
     ]
    },
@@ -468,11 +514,63 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Niemiecka prasa: AfD wygrała, SPD rządzi",
-      "url": "https://www.dw.com/pl/niemiecka-prasa-afd-wygrała-spd-rządzi/a-79963389?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-17T06:54+00:00",
-      "teaser": "Niemiecka prasa komentuje ponowny wybór Manueli Schwesig na premierkę Meklemburgii-Pomorza Przedniego. Jej sukces mimo zwycięstwa AfD w wyborach wzmacnia pozycję polityczki w SPD, która szuka nowego kierownictwa."
+      "title": "Kraków wycofuje się z budowy metra",
+      "url": "https://www.rp.pl/transport/art45499381-krakow-wycofuje-sie-z-budowy-metra",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-17T09:43+01:00",
+      "teaser": "Kraków porzuca plan budowy metra – informuje portal LoveKraków.pl. Władze nie wykluczają powrotu do projektu, jeśli uda się uzyskać wsparcie państwa."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Tilda Swinton będzie czytać wiersze Szymborskiej w Warszawie",
+      "url": "https://www.rp.pl/film/art45491441-tilda-swinton-bedzie-czytac-wiersze-szymborskiej-w-warszawie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-17T09:42+01:00",
+      "teaser": "Tilda Swinton wystąpi w performansie „Bliss #2” 27 i 28 listopada w kinie Wisła przy okazji wizyty na warszawskiej wystawie „Ongoing”."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "United Airlines: Uporaliśmy się już z „rozległą awarią systemu”",
+      "url": "https://turystyka.rp.pl/linie-lotnicze/art45498721-united-airlines-uporalismy-sie-juz-z-rozlegla-awaria-systemu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-17T09:41+01:00",
+      "teaser": "Linie lotnicze United Airlines poinformowały w poniedziałek, że uporały się już z „rozległą awarią systemu”, która opóźniła starty kilkuset samolotów. Wciąż nie wiadomo, co było przyczyną problemu technicznego."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Ciepło z Polski dla Kijowa. „Putin chce wygrać tę wojnę mrozem”",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45499361-cieplo-z-polski-dla-kijowa-putin-chce-wygrac-te-wojne-mrozem",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-17T09:37+01:00",
+      "teaser": "Musimy zdążyć przed zimą i musimy zdążyć przed Putinem - apelują organizatorzy zbiórki dla Ukrainy. Winą za dramatyczną sytuację obarczają nie tylko Rosję, ale też „cyniczny szantaż” ze strony Donalda Trumpa."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Rosja zbombardowała ukraińską szkołę. Zginęły 72 osoby",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33135880,rosja-zbombardowala-ukrainska-szkole-zginely-72-osoby.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-17T08:39+00:00",
+      "teaser": "Ukraińskie służby przez dwa tygodnie szukały ofiar rosyjskiego ataku na Komyszuwasze. Minister spraw wewnętrznych Ukrainy Iwan Wyhiwski podsumował, że ostrzał tej miejscowości \"stał się jednym z najtragiczniejszych wydarzeń w całym okresie pełnoskalowej wojny\"."
      }
     ]
    },
@@ -481,170 +579,72 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Runął fragment Mostu Krymskiego. Ogromny sukces Ukraińców",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33135819,kluczowa-czesc-mostu-krymskiego-runela-ogromny-sukces-ukraincow.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-17T06:41+00:00",
-      "teaser": "Kluczowy fragment drogowego Mostu Krymskiego runął do wody w nocy z poniedziałku na wtorek. Ukraińcy przeprowadzili zmasowany atak rakietami i dronami."
+      "title": "Zawalony łuk Mostu Krymskiego. Po latach prób Ukraińcy dopięli swego, Rosja szuka winnych",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45499341-zawalony-luk-mostu-krymskiego-po-latach-prob-ukraincy-dopieli-swego-rosja-szuka-winnych",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-17T09:28+01:00",
+      "teaser": "Komitet Śledczy Federacji Rosyjskiej poinformował o wszczęciu śledztwa ws. ataku na Most Krymski, w wyniku którego zawalił się jeden z łuków konstrukcyjnych mostu - informuje agencja Interfax."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.94,
     "items": [
      {
-      "title": "Ukryty głód w bogatym kraju. W Niemczech niedożywienie zabija 50 tys. osób rocznie",
-      "url": "https://www.dw.com/pl/ukryty-głód-w-bogatym-kraju-w-niemczech-niedożywienie-zabija-50-tys-osób-rocznie/a-79962289?maca=pol-rss-pol-all-1492-xml-mrss",
+      "title": "Praga: Co dla Babisza znaczy największy protest od ’89 roku?",
+      "url": "https://www.dw.com/pl/praga-co-dla-babisza-znaczy-największy-protest-od-89-roku/a-79965571?maca=pol-rss-pol-all-1492-xml-mrss",
       "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-17T06:39+00:00",
-      "teaser": "Niedożywienie może przyczyniać się w Niemczech do 50 tys. zgonów rocznie – szacują eksperci. Niedobory witamin i minerałów długo nie dają objawów. W szpitalach problem dotyczy nawet co trzeciego pacjenta."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "IKO i iPKO znikają. PKO BP opublikował komunikat dla klientów i ostrzega przed oszustami",
-      "url": "https://www.rp.pl/banki/art45498861-iko-i-ipko-znikaja-pko-bp-opublikowal-komunikat-dla-klientow-i-ostrzega-przed-oszustami",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-17T07:27+01:00",
-      "teaser": "PKO Bank Polski uprości nazwy swoich usług. Do końca 2026 r. znikną nazwy IKO i iPKO. Zastąpią je nazwa i logo PKO Banku Polskiego. Zmiany dotyczyć będą aplikacji mobilnej i serwisu internetowego banku. Nie zmieni się jednak sposób korzystania z tych usług, a klienci w związku ze zmianą nie muszą ni"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "CNN: Iran przygotowuje plan ataku na amerykańskich urzędników. W grę wchodzi użycie broni chemicznej",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33135784,cnn-iran-przygotowuje-plan-ataku-na-amerykanskich-urzednikow.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-17T06:21+00:00",
-      "teaser": "Iran opracowuje plany ataku na urzędników administracji prezydenta Donalda Trumpa za pomocą tzw. brudnej bomby lub broni chemicznej w Waszyngtonie - poinformowała w poniedziałek telewizja CNN. Biały Dom twierdzi, że takie zagrożenie nie jest obecnie realne."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Największy atak powietrzny na Rosję od początku wojny. Dzień po poprzednim największym",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45498951-najwiekszy-atak-powietrzny-na-rosje-od-poczatku-wojny-dzien-po-poprzednim-najwiekszym",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-17T07:04+01:00",
-      "teaser": "W nocy nad Federacją Rosyjską miało zostać strąconych 1441 dronów co oznacza, że był to największy atak powietrzny na Rosję od początku wojny z Ukrainą. Poprzedni największy atak powietrzny na Rosję miał miejsce poprzedniej nocy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Rosjanie zaatakowali Kijów. Ucierpiała jedna z linii metra i mosty",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45498921-rosjanie-zaatakowali-kijow-ucierpiala-jedna-z-linii-metra-i-mosty",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-17T06:57+01:00",
-      "teaser": "W wyniku nocnego ataku Rosji na Kijów uszkodzona została naziemna infrastruktura kijowskiego metra. Tymczasowo wstrzymano ruch na odcinku tzw. zielonej linii metra (m3), łączącej północno-zachodnią część miasta z południowo-wschodnimi dzielnicami na lewym brzegu Dniepru."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Iran rozważa atak bronią chemiczną. Na celowniku najważniejsi współpracownicy Trumpa",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45498871-iran-rozwaza-atak-bronia-chemiczna-na-celowniku-najwazniejsi-wspolpracownicy-trumpa",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-17T07:00+01:00",
-      "teaser": "Amerykański wywiad przechwycił informacje o irańskich planach przeprowadzenia ataków na wysokich rangą urzędników administracji Donalda Trumpa. Według CNN Teheran rozważa użycie tzw. brudnej bomby lub broni chemicznej w Waszyngtonie."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Rosyjskie samoloty wojskowe nad Japonią? Naruszono przestrzeń powietrzną kraju",
-      "url": "https://www.rp.pl/dyplomacja/art45498901-rosyjskie-samoloty-wojskowe-nad-japonia-naruszono-przestrzen-powietrzna-kraju",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-17T06:37+01:00",
-      "teaser": "Przestrzeń powietrzna Japonii została naruszona 17 listopada o godzinie 4.00 czasu lokalnego (w Polsce był wówczas poniedziałek, godzina 20.00). Do naruszenia doszło w rejonie prefektury Fukuoka. Japonia uważa, że w jej przestrzeń powietrzną weszły rosyjskie samoloty."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Tatry. W nocy odnaleziono poszukiwaną turystkę. Jest w ciężkim stanie po upadku z wysokości",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33135785,tatry-w-nocy-odnaleziono-poszukiwana-turystke-jest-w-ciezkim.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-17T05:38+00:00",
-      "teaser": "Turystka poszukiwana przez Tatrzańskie Ochotnicze Pogotowie Ratunkowe została w nocy odnaleziona żywa. Była mocno wychłodzona i w ciężkim stanie po upadku z wysokości. Akcja ratunkowa trwała przez całą noc. W Tatrach panują trudne warunki turystyczne."
+      "date": "2026-11-17T08:29+00:00",
+      "teaser": "„Letná przeciw 4:36!” to hasło, które w niedzielę przyciągnęło na położone w centrum Pragi wzgórze Letná 400 tysięcy ludzi. Wzburzyły ich nocne machinacje rządzącej większości. „Ręce precz od mediów!”, skandowali."
      }
     ]
    }
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 3,
-    "score": 5.63,
-    "items": [
-     {
-      "title": "United Airlines says ‘widespread’ system outage resolved",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-      "source": "The Guardian",
-      "date": "2026-11-17T02:57+00:00",
-      "teaser": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground sto"
-     },
-     {
-      "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
-      "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
-      "source": "New York Times",
-      "date": "2026-11-17T00:59+00:00",
-      "teaser": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period."
-     },
-     {
-      "title": "United Airlines resolves system outage that affected departing flights",
-      "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-      "source": "CNBC",
-      "date": "2026-11-17T00:00+00:00",
-      "teaser": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.97,
     "items": [
      {
-      "title": "Deutsche Bank: Das müssen Sie über das Datenleak »Inside Deutsche Bank« wissen",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-das-muessen-sie-ueber-das-datenleak-inside-deutsche-bank-wissen-a-8ad9866a-bc73-43a4-9123-81f7aa96fcb5#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-17T07:00+01:00",
-      "teaser": "Woher hat der SPIEGEL die Daten der Deutschen Bank? Was enthüllen sie? Und ist es ein Problem für das Kreditinstitut, dass die Unterlagen jetzt öffentlich sind? Antworten auf die wichtigsten Fragen."
+      "title": "Europäische Zentralbank: Markus Brunnermeier soll EZB-Chefvolkswirt werden",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/ezb-praesident-markus-brunnermeier-nominierung-lars-klingbeil-friedrich-merz-gxe",
+      "source": "Zeit",
+      "date": "2026-11-17T08:48+00:00",
+      "teaser": "Das Bundeskabinett will Markus Brunnermeier für einen Spitzenposten bei der EZB nominieren. Er sei ein »herausragender Ökonom« und eine »fachlich exzellente Wahl«."
      },
      {
-      "title": "Deutsche Bank: Institut sieht keine finanziellen Auswirkungen durch Datenleak",
-      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/deutsche-bank-institut-sieht-keine-finanziellen-auswirkungen-durch-datenleak/100270448.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-17T07:11+00:00",
-      "teaser": "Die Dokumente zeigten unter anderem, wie das Institut noch kurz vor Beginn des Kriegs gegen die Ukraine sein Russlandgeschäft ausbauen wollte. Die Papiere reagieren vorbörslich."
+      "title": "Notenbank: Markus Brunnermeier soll neuer EZB-Chefökonom werden",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/notenbank-markus-brunnermeier-soll-neuer-ezb-chefoekonom-werden/100270479.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-17T08:39+00:00",
+      "teaser": "Der Princeton-Ökonom soll für Deutschland in die Führung der Europäischen Notenbank einziehen. Damit dürfte klar sein, wer der neue EZB-Chef wird."
      }
     ]
    },
    {
     "sourceCount": 2,
     "score": 3.97,
+    "items": [
+     {
+      "title": "Banken: Datenleak von Millionen Dokumenten belastet Deutsche Bank – Aktie reagiert deutlich",
+      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/deutsche-bank-datenleak-von-millionen-dokumenten-belastet-das-institut/100270448.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-17T08:22+00:00",
+      "teaser": "Die Dokumente zeigen laut Berichten unter anderem, wie das Institut sein Russlandgeschäft noch kurz vor Beginn des Kriegs gegen die Ukraine ausbauen wollte. Die Deutsche Bank wiegelt ab."
+     },
+     {
+      "title": "Deutsche Bank: Aktienkurs bricht nach Datenleak ein",
+      "url": "https://www.spiegel.de/wirtschaft/deutsche-bank-aktienkurs-bricht-nach-datenleak-ein-a-0f7a4819-4fe7-4eec-babd-d480fa2741f1#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-17T09:47+01:00",
+      "teaser": "Anleger reagieren auf die Enthüllungen zu Millionen Mails und Dokumenten der Deutschen Bank. Der Aktienkurs fällt um bis zu sechs Prozent."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.83,
     "items": [
      {
       "title": "Kanada und China unterlaufen Trumps Zollpolitik mit Zollerleichterungen",
@@ -664,14 +664,14 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.72,
     "items": [
      {
       "title": "Nvidia-Debatte: Solidaritätswelle der Tech-Bros – Wie das Silicon Valley für eine Rückkehr von Jensen Huang lobbyiert",
       "url": "https://www.handelsblatt.com/technik/it-internet/nvidia-debatte-wie-das-silicon-valley-fuer-eine-rueckkehr-von-jensen-huang-lobbyiert/100270359.html",
       "source": "Handelsblatt",
       "date": "2026-11-16T23:40+00:00",
-      "teaser": "Vier Tage nach der Absetzung des Nvidia-Chefs nimmt die Kampagne zu seiner Wiedereinsetzung Fahrt auf. Bekannte Tech-Investoren sprechen sich dafür aus – doch auch die Kritik wird lauter."
+      "teaser": "Vier Tage nach der Absetzung des Nvidia-Chefs nimmt die Kampagne für seine Wiedereinsetzung Fahrt auf. Bekannte Tech-Investoren sprechen sich dafür aus – doch auch die Kritik wird lauter."
      },
      {
       "title": "Nvidia-Skandal: Nvidia soll keine Pläne für eine Rückkehr von Jensen Huang haben",
@@ -684,7 +684,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.6,
+    "score": 3.46,
     "items": [
      {
       "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
@@ -704,114 +704,203 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.41,
+    "score": 3.32,
     "items": [
      {
-      "title": "Customers report difficulty accessing online services at major US banks",
-      "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
-      "source": "The Guardian",
-      "date": "2026-11-16T22:01+00:00",
-      "teaser": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorga"
-     },
-     {
-      "title": "Customers report service outages at major US banks",
-      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-17T00:18+00:00",
-      "teaser": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.83,
-    "items": [
-     {
-      "title": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-16T12:50+01:00",
-      "teaser": "Die EU hat ihr Go für die umstrittene Übernahme der Commerzbank durch die italienische Großbank UniCredit gegeben. Die Kommission sieht \"keine wettbewerbsrechtlichen Bedenken\". Die Fusion rückt näher."
-     },
-     {
-      "title": "Banken: EU und Fed erlauben Commerzbank-Übernahme durch Unicredit",
-      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-eu-und-fed-erlauben-commerzbank-uebernahme-durch-unicredit/100270206.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-16T17:22+00:00",
-      "teaser": "Die EU-Kommission geht bei der Genehmigung auf die Finanzierung des deutschen Mittelstands ein. Zudem hält sie den Deal aus einem übergeordneten Grund für wichtig."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
-      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-17T07:21+00:00",
-      "teaser": "How many jobs are there where you live and in which sectors are you most likely to find an opening?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report",
-      "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
-      "source": "The Guardian",
-      "date": "2026-11-17T07:16+00:00",
-      "teaser": "Wage growth falls to to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets? UK youth job crisis in five charts The UK unemployment rate has unexpectedly fallen as the government prepares to release "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Business-Ticker: Lufthansa legt im Tarifstreit mit Piloten Angebot vor",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lufthansa-legt-im-tarifstreit-mit-piloten-angebot-vor-faz-200452404.html",
-      "source": "FAZ",
-      "date": "2026-11-17T07:15+00:00",
-      "teaser": "Zahl der Gründungen in Deutschland legt weiter zu +++ RTL kappt Prognose +++ EU genehmigt Commerzbank-Übernahme durch Unicredit +++ alle Neuigkeiten im Unternehmen-Liveblog"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Deutsche Bank: Datenleck bei der Deutschen Bank offenbart Kontrollversagen",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/datenleck-deutsche-bank-geschaeftspraktiken-kontrollversagen-dokumente-spiegel-le-monde-new-york-times-gxe",
-      "source": "Zeit",
-      "date": "2026-11-17T07:01+00:00",
-      "teaser": "Whistleblower haben 15 Millionen interne Dokumente der Deutschen Bank geleakt. Sie dokumentieren unter anderem Geschäftsbeziehungen zu Jeffrey Epstein und Donald Trump."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed",
-      "url": "https://www.nytimes.com/2026/11/17/business/economy/megaspeed-investigation-trump-doj.html",
+      "title": "United Airlines Flights Resume After ‘Widespread System Outage’",
+      "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
       "source": "New York Times",
-      "date": "2026-11-17T07:02+00:00",
-      "teaser": "The announcement appeared to be a response to recent criticism that the Commerce Department has moved too slowly on the alleged chip smuggling case."
+      "date": "2026-11-17T00:59+00:00",
+      "teaser": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period."
+     },
+     {
+      "title": "United Airlines resolves system outage that affected departing flights",
+      "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+      "source": "CNBC",
+      "date": "2026-11-17T00:00+00:00",
+      "teaser": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Umstellung iM januar: Unternehmen müssen sich auf die E-Rechnung vorbereiten",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/unternehmen-muessen-sich-auf-die-e-rechnung-vorbereiten-accg-201645268.html",
+      "source": "FAZ",
+      "date": "2026-11-17T09:00+00:00",
+      "teaser": "Ab Januar wird die E-Rechnung für viele Unternehmen zur Pflicht. Das bietet die Chance für Milliardeneinnahmen des Staates – und einen Digitalisierungsschub."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
+      "url": "https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai",
+      "source": "The Guardian",
+      "date": "2026-11-17T09:01+00:00",
+      "teaser": "Owner of JPS cigarettes, Golden Virginia tobacco, Blu vapes and Rizla has launched huge cost-cutting drive Business live – latest updates Imperial Brands, the owner of Davidoff cigarettes and Blu vapes, is slashing up to 4,600 jobs in a huge cost-cutting drive, as it uses more AI and other technolog"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Nvidia-Investments: Soros und weitere Familienbüros verkauften Nvidia-Aktien kurz vor Huangs Abgang als CEO",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/investment-soros-verkaufte-nvidia-aktien-kurz-vor-huangs-ruecktritt/100270465.html",
+      "source": "Handelsblatt (Finanzen)",
+      "date": "2026-11-17T08:49+00:00",
+      "teaser": "George Soros' Family Office hat im dritten Quartal seine Beteiligung an Nvidia deutlich reduziert. Zahlreiche Familienbüros halten dennoch weiterhin große Anteile."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
+      "url": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
+      "source": "New York Times",
+      "date": "2026-11-17T08:45+00:00",
+      "teaser": "The debt load of developing countries jumped to $9.4 trillion as high interest rates and other global shocks batter their economies."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "UK jobs market stalled ahead of October Budget",
+      "url": "https://www.ft.com/content/8f2b2b32-2b63-4651-8cbf-f79007f4f5ea?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-17T08:41+00:00",
+      "teaser": "Economists say recent upswing in economic growth has not led to new job creation"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Dax aktuell: Dax notiert im Minus – Deutsche-Bank-Aktie im Fokus",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-notiert-im-minus-deutsche-bank-aktie-verliert-deutlich/100270429.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-17T08:25+00:00",
+      "teaser": "Die Stimmung an der Börse bleibt angespannt. Anleger warten auf die Quartalszahlen von Nvidia und neue Signale zur Entwicklung des KI-Booms."
      }
     ]
    }
   ],
   "Sport": [
    {
-    "sourceCount": 5,
-    "score": 9.89,
+    "sourceCount": 4,
+    "score": 7.87,
+    "items": [
+     {
+      "title": "Nations League: Das sind die Erkenntnisse aus Deutschlands 5:0-Sieg gegen die Niederlande",
+      "url": "https://www.spiegel.de/sport/fussball/deutschland-gegen-niederlande-im-liveticker-gewinnt-juergen-klopp-sein-erstes-finale-als-bundestrainer-a-034f2191-1055-43ac-8956-b1bc6674c39c#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-16T21:09+01:00",
+      "teaser": "Deutschland steht als Gruppensieger im Viertelfinale der Nations League. DFB-Coach Jürgen Klopp freut sich über eine furiose Partie mit mehreren Traumtoren. Lesen Sie das Spiel im Livekommentar nach."
+     },
+     {
+      "title": "5:0 gegen Niederlande: Das Feuer des Klopp-Fußballs",
+      "url": "https://www.faz.net/aktuell/sport/fussball/deutschland-besiegt-niederlande-5-0-das-feuer-des-klopp-fussballs-201305749.html",
+      "source": "FAZ",
+      "date": "2026-11-17T06:06+00:00",
+      "teaser": "Im Zusammenspiel der deutschen Angreifer fliegen die Funken, dem DFB-Team gelingt in der zweiten Halbzeit ein Tor nach dem anderen. Und die Abwehr der Niederlande geht in Flammen auf."
+     },
+     {
+      "title": "Nations League, 6. Spieltag: Deutschland steht nach 5:0-Sieg gegen die Niederlande im Viertelfinale",
+      "url": "https://www.zeit.de/sport/2026-11/deutschland-siegt-in-der-nations-league-deutlich-gegen-die-niederlande",
+      "source": "Zeit",
+      "date": "2026-11-16T22:48+00:00",
+      "teaser": "Deutschland schlägt die Niederlande in Berlin deutlich. Nach einer torreichen zweiten Halbzeit steht die DFB-Elf im Viertelfinale der Nations League. Der Spielbericht"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.84,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Colocan a PSG y Juventus tras los pasos de Balde",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004251949/colocan-psg-pasos-balde.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-17T08:14+01:00",
+      "teaser": "El futuro de Alejandro Balde (23 años) es una de las carpetas abiertas en el FC Barcelona . El lateral izquierdo no ha contado con la confianza de Hansi Flick en este inicio de temporada y en Mundo Deportivo ya apuntamos que estaría abierto a buscar una salida en el mercado de invierno para jugar co"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.74,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Respeto al Villarreal: juega más de lo que produce",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004251878/respeto-villarreal-juega-produce.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-17T07:00+01:00",
+      "teaser": "El Villarreal CF juega bastante más que lo que produce. Esa es la sensación con la que el Barça afrontará el domingo (14 horas) ante el equipo de Iñigo Pérez la reanudación de la Liga tras el parón FIFA por partidos de selecciones. Al Barça y al Villarreal les une su vocación de dominar los partidos"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.74,
+    "favorite": true,
+    "items": [
+     {
+      "title": "¿Qué ha hecho Ona Batlle para merecer esta bronca?",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004251877/hecho-ona-batlle-merecer-bronca.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-17T07:00+01:00",
+      "teaser": "Si sorprendente fue el empate del Barça ante el Arsenal en el Camp Nou , hubo un hecho que todavía nos dejó más atónitos. Fueron esos pitidos constantes, reiterados y muy masivos (pero no unánimes) que la afición del Barça le dedicó a Ona Batlle cada vez que la lateral del Arsenal tocaba el balón. S"
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.99,
+    "items": [
+     {
+      "title": "Pressestimmen zum Sieg der Nationalmannschaft: „Niederlande in Deutschland abgeschlachtet“",
+      "url": "https://www.11freunde.de/em/pressestimmen-zum-sieg-der-nationalmannschaft-niederlande-in-deutschland-abgeschlachtet-a-9b1cec88-0e8a-4568-9b16-9b4c8649b85b#ref=rss",
+      "source": "11 Freunde",
+      "date": "2026-11-17T10:00+01:00",
+      "teaser": "Jürgen Klopps Mannschaft kannte beim 5:0 im Berliner Olympiastadion keine Gnade mit den Niederländern. Die internationale Presse auch nicht. Besonders ein Deutscher wird gelobt."
+     },
+     {
+      "title": "Deutschland vs Niederlande: »Abgeschlachtet« – niederländische Pressestimmen",
+      "url": "https://www.spiegel.de/sport/fussball/deutschland-vs-niederlande-abgeschlachtet-niederlaendische-pressestimmen-a-b3ff7f33-0c8c-421a-8c93-6a140995d7f0#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-16T23:59+01:00",
+      "teaser": "0:5 in Berlin: Die niederländischen Medien kritisieren den Auftritt der Oranje-Mannschaft gegen die Deutschen scharf. Ein verletzter Spieler wurde schmerzlich vermisst."
+     },
+     {
+      "title": "Pressestimmen zu Deutschland - Niederlande: Klopp bringt den \"Rock 'n' Roll\" zurück\"",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/rock-n-roll-zurueck-in-deutschland,deutschland-niederlande-pressestimmen-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-17T08:39+01:00",
+      "teaser": "Deutschlands Sieg gegen \"Oranje\" sorgte auch international für Aufsehen, Jürgen Klopp habe den \"Rock 'n' Roll\" zurück nach Deutschland gebracht."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.15,
     "items": [
      {
       "title": "Nations League: Wirtz doubles up as Germany rout Netherlands to top group",
@@ -828,59 +917,17 @@
       "teaser": "Jürgen Klopp hat die Protagonisten seiner Nationalelf gefunden. Gegen die Niederlande sahen sie schon aus wie Superstars: Dank Florian Wirtz und Brajan Gruda darf sich der DFB zum Jahresausklang wie ein Topteam fühlen."
      },
      {
-      "title": "5:0 gegen Niederlande: Das Feuer des Klopp-Fußballs",
-      "url": "https://www.faz.net/aktuell/sport/fussball/deutschland-besiegt-niederlande-5-0-das-feuer-des-klopp-fussballs-201305749.html",
-      "source": "FAZ",
-      "date": "2026-11-17T06:06+00:00",
-      "teaser": "Im Zusammenspiel der deutschen Angreifer fliegen die Funken, dem DFB-Team gelingt in der zweiten Halbzeit ein Tor nach dem anderen. Und die Abwehr der Niederlande geht in Flammen auf."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.88,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Respeto al Villarreal: juega más de lo que produce",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004251878/respeto-villarreal-juega-produce.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-17T07:00+01:00",
-      "teaser": "El Villarreal CF juega bastante más que lo que produce. Esa es la sensación con la que el Barça afrontará el domingo (14 horas) ante el equipo de Iñigo Pérez la reanudación de la Liga tras el parón FIFA por partidos de selecciones. Al Barça y al Villarreal les une su vocación de dominar los partidos"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.88,
-    "favorite": true,
-    "items": [
-     {
-      "title": "¿Qué ha hecho Ona Batlle para merecer esta bronca?",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004251877/hecho-ona-batlle-merecer-bronca.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-17T07:00+01:00",
-      "teaser": "Si sorprendente fue el empate del Barça ante el Arsenal en el Camp Nou , hubo un hecho que todavía nos dejó más atónitos. Fueron esos pitidos constantes, reiterados y muy masivos (pero no unánimes) que la afición del Barça le dedicó a Ona Batlle cada vez que la lateral del Arsenal tocaba el balón. S"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.88,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Lamine Yamal siempre tira del carro",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004251773/lamine-yamal-tira-carro.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-17T07:00+01:00",
-      "teaser": "Durante toda la ventana de la selección española este noviembre, Lamine Yamal (19 años) volvió a estar en el centro de todas las miradas. El crack del Barça estuvo en el foco después de quedarse en Barcelona durante la primera parte de la concentración de la Roja, tras acabar con molestias en la rod"
+      "title": "Deutschland zaubert: Gruda, Wirtz, Scherhant begeistern gegen die Niederlande",
+      "url": "https://www.sportschau.de/fussball/nationalmannschaft/gruda-wirtz-und-scherhant-begeistern-die-einzelkritik,einzelkritik-deutschland-niederlande-104.html",
+      "source": "Sportschau",
+      "date": "2026-11-16T23:28+01:00",
+      "teaser": "Bei der Gala der deutschen Nationalmannschaft gegen die Niederlande gab es einige \"Uitblinker\", wie man bei \"Oranje\" sagen würde: vor allem Brajan Gruda, Florian Wirtz und Derry Scherhant. Die Einzelkritik"
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 4.77,
+    "score": 4.63,
     "items": [
      {
       "title": "Fifa-Präsidentschaftswahl: Uefa nominiert Philippe Diallo als Herausforderer für Gianni Infantino",
@@ -907,7 +954,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.81,
     "items": [
      {
       "title": "Deutschland gegen die Niederlande: Die DFB-Elf in der Einzelkritik",
@@ -917,44 +964,24 @@
       "teaser": "Die Deutsche Fußball-Nationalmannschaft glänzt gegen die Niederlande. Florian Wirtz und Derry Scherhant sorgen für Traumtore. Brajan Gruda dürfte sich festgespielt haben. Die DFB-Elf in der Einzelkritik."
      },
      {
-      "title": "Deutsche Nationalmannschaft begeistert gegen die Niederlande mit echten Flügelstürmern",
-      "url": "https://www.sportschau.de/fussball/nationalmannschaft/dfb-elf-fliegt-mit-echten-fluegeln,analyse-ueber-aussen-zum-erfolg-100.html",
+      "title": "Deutschland gegen die Niederlande - die Stimmen",
+      "url": "https://www.sportschau.de/fussball/nationsleague/deutschland-gegen-die-niederlande-die-stimmen,deutschland-gegen-niederlande-die-stimmen-100.html",
       "source": "Sportschau",
-      "date": "2026-11-17T07:52+01:00",
-      "teaser": "Die deutsche Nationalmannschaft begeistert gegen die Niederlande, auch weil die Flügel wieder mit Flügelstürmern besetzt sind."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.86,
-    "items": [
-     {
-      "title": "Thomas Frank confirmed as Crystal Palace manager after Pierre Sage’s sacking",
-      "url": "https://www.theguardian.com/football/2026/nov/16/thomas-frank-confirmed-crystal-palace-manager-pierre-sage",
-      "source": "The Guardian",
-      "date": "2026-11-16T17:03+00:00",
-      "teaser": "Frank’s first job since Spurs dismissal in February He has been promised funds for January signings Thomas Frank has been confirmed as Crystal Palace’s manager after Pierre Sage was sacked last week. Frank, out of work since being dismissed by Tottenham in February, was quickly identified as Palace’"
-     },
-     {
-      "title": "How Frank can restore reputation and save Crystal Palace",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-16T17:46+00:00",
-      "teaser": "Will Thomas Frank - now confirmed as the new manager of Crystal Palace - rebuild his reputation at Selhurst Park after a bruising time at Tottenham?"
+      "date": "2026-11-17T00:15+01:00",
+      "teaser": "Deutschland zaubert im letzten Gruppenspiel der Nations League gegen die Niederlande und sichert den Gruppensieg - die Stimmen nach dem Spiel."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.99,
     "items": [
      {
-      "title": "Ronaldo, Maradona, Baggio - what happened to the World XI?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34058rvv6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-17T07:22+00:00",
-      "teaser": "Football's biggest stars used to turn out in their prime for the Rest of the World XI, something that would not seem possible today."
+      "title": "Serbien: Null Punkte und trotzdem nicht abgestiegen",
+      "url": "https://www.kicker.de/serbien-null-punkte-und-trotzdem-nicht-abgestiegen-1272289/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-17T09:01+00:00",
+      "teaser": "Serbien schloss die Nations-League-Gruppenphase ohne Punkt als Letzter ab und kann trotzdem noch in Liga A bleiben. Es passt zur skurrilen Abschlusstabelle der \"deutschen\" Gruppe."
      }
     ]
    },
@@ -963,50 +990,37 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Ter Stegen muss schmunzeln: \"Mit breiter Brust nach Amsterdam\"",
-      "url": "https://www.kicker.de/ter-stegen-muss-schmunzeln-mit-breiter-brust-nach-amsterdam-1272260/video#omrss",
+      "title": "Xavi komplett niedergeschlagen: \"Wir entschuldigen uns bei unseren Fans\"",
+      "url": "https://www.kicker.de/xavi-komplett-niedergeschlagen-wir-entschuldigen-uns-bei-unseren-fans-1272306/video#omrss",
       "source": "kicker",
-      "date": "2026-11-17T07:11+00:00",
-      "teaser": "Marc ter Stegen musste nach einer Frage zu seiner Rückkehr nach Amsterdam schmunzeln. Einen Wunschgegner im Nations-League-Viertelfinale hat er nicht."
+      "date": "2026-11-17T08:55+00:00",
+      "teaser": "Ein enttäuschter Xavi sprach nach der 0:5-Klatsche gegen Deutschland über die Situation als Niederlande-Trainer und entschuldigte sich auch bei den Fans."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.98,
     "items": [
      {
-      "title": "Tah zur Deutschland-Form: \"Ihr sagt immer, wer die Favoriten sind\"",
-      "url": "https://www.kicker.de/tah-zur-deutschland-form-ihr-sagt-immer-wer-die-favoriten-sind-1272237/video#omrss",
+      "title": "Starke Quote: Über zehn Millionen bei DFB-Gala vor den Bildschirmen",
+      "url": "https://www.kicker.de/starke-quote-ueber-zehn-millionen-bei-dfb-gala-vor-den-bildschirmen-1272295/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-17T07:00+00:00",
-      "teaser": "Jonathan Tah spricht nach dem deutlichen Sieg gegen die Niederlande über die Favoritenrolle der Mannschaft und die Formkurve der letzten Monate."
+      "date": "2026-11-17T08:53+00:00",
+      "teaser": "Der Auftritt der deutschen Nationalmannschaft am Montagabend gegen die Niederlande hat der ARD einen hohen Zuschauerzuspruch beschert."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.94,
     "items": [
      {
-      "title": "Höchste Niederlage seit 1959: Xavi spricht von \"Schock\" - und wiederholt ein Wort immer wieder",
-      "url": "https://www.kicker.de/hoechste-niederlage-seit-1959-xavi-spricht-von-schock-und-wiederholt-ein-wort-immer-wieder-1272248/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-17T06:56+00:00",
-      "teaser": "Binnen drei Tagen durchlaufen die Niederlande ein Wechselbad der Gefühle. Auf die 7:0-Gala gegen Griechenland folgte am Montagabend ein 0:5-Debakel gegen die DFB-Elf. Für Bondscoach Xavi eine unerklärliche Entwicklung."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Who am I? Plus today's other quizzes",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx5y1pl7yvz6o?at_medium=RSS&at_campaign=rss",
+      "title": "Owono did not deserve 12-match ban - Pique",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-17T06:26+00:00",
-      "teaser": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+      "date": "2026-11-17T08:28+00:00",
+      "teaser": "FC Andorra owner Gerard Pique says goalkeeper Jesus Owono did not deserve the 12-match suspension he received following his challenge which resulted in the death of Tenerife forward Jesus de Miguel."
      }
     ]
    }
@@ -1014,7 +1028,27 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.35,
+    "score": 3.86,
+    "items": [
+     {
+      "title": "Neuer James-Bond-Darsteller: Robert Pattinson erhält als 007 die Lizenz zum Töten",
+      "url": "https://www.golem.de/news/neuer-james-bond-darsteller-robert-pattinson-erhaelt-als-007-die-lizenz-zum-toeten-2611-215288.html",
+      "source": "Golem",
+      "date": "2026-11-17T08:30+01:00",
+      "teaser": "Der Twilight-Star Robert Pattinson übernimmt die Rolle des britischen Geheimagenten James Bond. Die Arbeiten am nächsten 007-Film können beginnen. ( James Bond , Amazon )"
+     },
+     {
+      "title": "Meet the new James Bond: Robert Pattinson",
+      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
+      "source": "Ars Technica",
+      "date": "2026-11-16T19:36+00:00",
+      "teaser": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.2,
     "items": [
      {
       "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
@@ -1034,7 +1068,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.12,
+    "score": 2.98,
     "items": [
      {
       "title": "US data centers now burn more electricity than a midsized country",
@@ -1054,7 +1088,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.11,
+    "score": 2.97,
     "items": [
      {
       "title": "California sues OpenAI over rogue AI hacking incidents",
@@ -1074,27 +1108,66 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 2.0,
     "items": [
      {
-      "title": "Exchange-Online-Ausfall: Latenter Fehler aus Juli-Fix legte Gateways lahm",
-      "url": "https://www.heise.de/news/Exchange-Online-Ausfall-Latenter-Fehler-aus-Juli-Fix-legte-Gateways-lahm-11515943.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "source": "heise online",
-      "date": "2026-11-17T07:43+01:00",
-      "teaser": "Ja, woran hat es gelegen? Laut Microsoft führte ein früherer Gateway-Fix unter Last zu Lock Contention – ausgelöst durch Teams-Failover und fehlende Kapazität."
+      "title": "Nachrichtendienstreform: So können Geheimdienste künftig Fahrzeugdaten auswerten",
+      "url": "https://www.golem.de/news/nachrichtendienstreform-so-koennen-geheimdienste-kuenftig-fahrzeugdaten-auswerten-2611-215279.html",
+      "source": "Golem",
+      "date": "2026-11-17T10:07+01:00",
+      "teaser": "BND und Verfassungsschutz sollen künftig Fahrzeugdaten abfragen dürfen. Bereits existierende technische Spezifikationen zeigen, wie weit die Möglichkeiten reichen. Ein Bericht von Erich Moechel ( Datensicherheit , Datenschutz )"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.96,
     "items": [
      {
-      "title": "Google beobachtet vollständig automatisierte Cyberangriffe mit KI-Technik",
-      "url": "https://www.heise.de/news/Google-beobachtet-vollstaendig-automatisierte-Cyberangriffe-mit-KI-Technik-11527123.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "source": "heise online",
-      "date": "2026-11-17T07:42+01:00",
-      "teaser": "Im jüngsten Bericht der Google Threat Intelligence Group gibt es Informationen zu Angreifern, die IT-Angriffe mit KI-Hilfe vollständig automatisieren."
+      "title": "Linux: Neues Librem-Smartphone mit Risc-V kostet 1.900 Euro",
+      "url": "https://www.golem.de/news/linux-neues-librem-smartphone-mit-risc-v-kostet-1-900-euro-2611-215294.html",
+      "source": "Golem",
+      "date": "2026-11-17T09:44+01:00",
+      "teaser": "Purism hat das Crowdfunding zum Librem 5 v2 gestartet. Neben einem Risc-V-Prozessor gibt es herausnehmbare Modemkarten. ( Purism , Smartphone )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Ikea, Gitlab und mehr: Prominente Webportale mit Schadcode verseucht",
+      "url": "https://www.golem.de/news/ikea-gitlab-und-mehr-prominente-webportale-mit-schadcode-verseucht-2611-215291.html",
+      "source": "Golem",
+      "date": "2026-11-17T09:31+01:00",
+      "teaser": "Ein Angriff auf Optimizely trifft Besucher von Websites zahlreicher Unternehmen. Die Angreifer wollten vor allem Zahlungen abgreifen und iOS-Geräte kapern. ( Malware , iPhone )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Auch ohne Face-ID-Technik: iPhone Duo bekommt Gesichtserkennung",
+      "url": "https://t3n.de/news/auch-ohne-face-id-technik-iphone-duo-bekommt-gesichtserkennung-1773891/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-17T09:30+01:00",
+      "teaser": "Das Fehlen von Face-ID ist einer der größten Kritikpunkte am iPhone Duo. Mit iOS 27.3 will Apple nun eine Gesichtserkennung nachliefern. Doch die hat ihre Grenzen. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Klimaanpassungen, Finanzierung und fossile Brennstoffe: Was wird die UN-Klimakonferenz erreichen?",
+      "url": "https://t3n.de/news/klimaanpassungen-finanzierung-und-fossile-brennstoffe-was-wird-die-un-klimakonferenz-erreichen-1773837/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-17T09:20+01:00",
+      "teaser": "Vor dem Hintergrund eines anhaltenden Krieges gegen den Iran steht die Welt vor hohen Energiepreisen. Dazu kommen fatale Naturereignisse und Extremwetter. Viel zu debattieren also auf der COP31. weiterlesen auf t3n.de"
      }
     ]
    },
@@ -1103,89 +1176,37 @@
     "score": 1.92,
     "items": [
      {
-      "title": "Bakterien statt Soja-Importe: Wie diese Biotech-Startups Europa unabhängig machen wollen",
-      "url": "https://t3n.de/news/bakterien-statt-soja-importe-wie-diese-biotech-startups-europa-unabhaengig-machen-wollen-1772279/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "title": "KI-Sicherheit: Kalifornien verklagt OpenAI wegen irreführender Werbung",
+      "url": "https://www.golem.de/news/ki-sicherheit-kalifornien-verklagt-openai-wegen-irrefuehrender-werbung-2611-215292.html",
+      "source": "Golem",
+      "date": "2026-11-17T09:12+01:00",
+      "teaser": "Die Klage richtet sich gegen OpenAIs Unternehmenskultur, absehbare Folgen von ungesicherten KI-Modellen einfach in Kauf zu nehmen. ( KI , Politik )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Hoverboard-Prototyp: Youtuber lässt Mini-Board per Magnet über Kupfer schweben",
+      "url": "https://www.golem.de/news/hoverboard-prototyp-youtuber-laesst-mini-board-per-magnet-ueber-kupfer-schweben-2611-215293.html",
+      "source": "Golem",
+      "date": "2026-11-17T09:03+01:00",
+      "teaser": "Jake Rogers baut ein Hoverboard im Kleinformat. Es schwebt per Akku über Kupfer, funktioniert aber bislang nur auf leitfähigem Untergrund. ( Hoverboard , Youtube )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
+      "url": "https://t3n.de/news/gemini-notebooks-so-werden-aus-deinen-notizen-jetzt-interaktive-webseiten-1773890/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n",
-      "date": "2026-11-17T07:30+01:00",
-      "teaser": "Die EU will ihre Abhängigkeit von Sojaimporten senken und ihren Proteinbedarf zunehmend selbst decken. Eine aufstrebende Biotech-Industrie sieht das als Chance: weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Gut 400 US-Rechenzentren verbrauchen so viel Strom wie ganz Österreich",
-      "url": "https://www.heise.de/news/Gut-400-US-Rechenzentren-verbrauchen-so-viel-Strom-wie-ganz-Oesterreich-11527115.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "source": "heise online",
-      "date": "2026-11-17T07:03+01:00",
-      "teaser": "Laut einer neuen Studie verbrauchen allein 403 der größten Rechenzentren in den USA fast 2 Prozent des gesamten Stroms. Das ist auf dem Niveau ganzer Staaten."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Agentische KI: Wer Kontrolle für eine Bremse hält, hat Automatisierung nicht zu Ende gedacht",
-      "url": "https://t3n.de/news/agentische-ki-wer-kontrolle-fuer-eine-bremse-haelt-hat-automatisierung-nicht-zu-ende-gedacht-1773694/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-17T07:00+01:00",
-      "teaser": "War der Hugging-Face-Hack nur Schlamperei – oder haben wir es mit einer neuen Bedrohung zu tun? Oder lenkt beides tatsächlich von einer viel grundsätzlicheren Frage ab: Wie wird ein Fehler korrigiert, bevor er Schaden anrichtet? Wer das nicht weiß, sollte den Agenten besser gar nicht erst losschicke"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Newegg Promo Codes and Coupons for November 2026",
-      "url": "https://www.wired.com/story/newegg-promo-code/",
-      "source": "Wired",
-      "date": "2026-11-17T06:00+00:00",
-      "teaser": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "1Password Coupon: Score a Free Trial in November 2026",
-      "url": "https://www.wired.com/story/1password-coupon/",
-      "source": "Wired",
-      "date": "2026-11-17T06:00+00:00",
-      "teaser": "Save up to 28% on business and personal memberships with 1Password promo codes and deals."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "Biowaffen durch KI-Einsatz? „Ein Virus, das uns alle von der Platte putzt, ist einfach Unsinn“",
-      "url": "https://t3n.de/news/biowaffen-ki-einsatz-virus-unsinn-1771886/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-17T05:45+01:00",
-      "teaser": "Neue Gentechnik und KI erleichtern die Entwicklung gefährlicher Keime als Biowaffen. Sicherheitsforscher der Universität Osnabrück ordnet ein, wie groß die Gefa weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.6,
-    "items": [
-     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-17T02:37+00:00",
-      "teaser": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
+      "date": "2026-11-17T09:05+01:00",
+      "teaser": "Das Notiz- und Recherchetool Gemini Notebook bekommt ein neues Feature spendiert. Die Google-KI kann jetzt sämtliche Informationen in einem Projekt in eine waschechte Webseite verwandeln. Wann sich das lohnen soll. weiterlesen auf t3n.de"
      }
     ]
    }
@@ -1472,7 +1493,7 @@
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Sport",
@@ -1484,7 +1505,7 @@
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 8
+   "items": 10
   },
   {
    "topic": "Sport",
@@ -1525,9 +1546,8 @@
   {
    "topic": "Tech & KI",
    "source": "Golem",
-   "ok": false,
-   "items": 0,
-   "error": "HTTPError: HTTP Error 503: Service Temporarily Unavailable"
+   "ok": true,
+   "items": 10
   },
   {
    "topic": "Tech & KI",
