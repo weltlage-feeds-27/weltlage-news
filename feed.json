@@ -1,10 +1,37 @@
 {
- "fetchedAt": "2026-11-18T04:00:23+00:00",
+ "fetchedAt": "2026-11-18T05:08:08+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 5,
-    "score": 9.96,
+    "score": 9.93,
+    "items": [
+     {
+      "title": "Democrats flip Alaska seat to seal 56-44 US Senate majority",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3374832/peltola-flips-alaska-seat-seal-56-44-us-senate-majority-democrats",
+      "source": "South China Morning Post",
+      "date": "2026-11-18T04:19+00:00",
+      "teaser": "Democrat Mary ⁠Peltola won Alaska’s US Senate ⁠race on Tuesday, projections from US ⁠media showed, defeating Republican incumbent Dan Sullivan and giving her party its ninth flip of the midterm elections and a commanding 56-44 Senate majority. Peltola won 50 per cent of first-place votes to Sullivan"
+     },
+     {
+      "title": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
+      "url": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-17T22:56-05:00",
+      "teaser": "Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, overcoming allegations that members of her campaign helped recruit a candidate who shares the incumbent's name and completing a political comeback in a state U.S. President Donald Trump repeatedly won by wide margins."
+     },
+     {
+      "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+      "url": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+      "source": "NPR (Politik)",
+      "date": "2026-11-17T22:27-05:00",
+      "teaser": "Former Democratic Rep. Mary Peltola has narrowly won Alaska's U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press."
+     }
+    ]
+   },
+   {
+    "sourceCount": 5,
+    "score": 9.9,
     "items": [
      {
       "title": "Nvidia board rules that co-founder Jensen Huang will not return as CEO",
@@ -22,70 +49,16 @@
      },
      {
       "title": "Nvidia Board does not intend to reinstate Jensen Huang as CEO: Chairperson",
-      "url": "https://www.thehindu.com/news/international/nvidia-board-does-not-intend-to-reinstate-jensen-huang-as-ceo-chairperson/article71714330.ece",
+      "url": "https://www.thehindu.com/sci-tech/technology/nvidia-board-does-not-intend-to-reinstate-jensen-huang-as-ceo-chairperson/article71714330.ece",
       "source": "The Hindu",
-      "date": "2026-11-18T09:01+05:30",
+      "date": "2026-11-18T09:29+05:30",
       "teaser": "Jensen Huang acknowledged making \"serious mistakes\" in his personal life; In its third-quarter earnings statement released on November 17, Nvidia did not mention his ouster or possible return"
      }
     ]
    },
    {
-    "sourceCount": 4,
-    "score": 8.0,
-    "items": [
-     {
-      "title": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
-      "url": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-17T22:56-05:00",
-      "teaser": "Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, overcoming allegations that members of her campaign helped recruit a candidate who shares the incumbent's name and completing a political comeback in a state U.S. President Donald Trump repeatedly won by wide margins."
-     },
-     {
-      "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
-      "url": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
-      "source": "NPR (Politik)",
-      "date": "2026-11-17T22:27-05:00",
-      "teaser": "Former Democratic Rep. Mary Peltola has narrowly won Alaska's U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press."
-     },
-     {
-      "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
-      "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-18T03:58+00:00",
-      "teaser": "Ms. Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015."
-     }
-    ]
-   },
-   {
     "sourceCount": 3,
-    "score": 6.0,
-    "items": [
-     {
-      "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
-      "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-      "source": "NPR",
-      "date": "2026-11-17T04:50-05:00",
-      "teaser": "Ukrainian drones and missiles struck the Kerch Bridge linking Russia to occupied Crimean, Ukrainian President Volodymyr Zelenskyy said, as Russia reported its forces downed Ukrainian drones."
-     },
-     {
-      "title": "Ukraine strikes Russia’s Crimean bridge with drones and missiles as aerial attacks escalate",
-      "url": "https://www.thehindu.com/news/international/ukraine-strikes-major-russian-bridge-with-drones-and-missiles-as-aerial-attacks-escalate/article71713178.ece",
-      "source": "The Hindu",
-      "date": "2026-11-18T09:27+05:30",
-      "teaser": "The Kerch Bridge is a crucial link in moving military and civilian supplies from Russia to Crimea and to support troops on the front line"
-     },
-     {
-      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
-      "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
-      "source": "New York Times",
-      "date": "2026-11-17T19:41+00:00",
-      "teaser": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.99,
+    "score": 5.9,
     "items": [
      {
       "title": "Liveblog Ukrainekrieg: „Ziemlich dumm“: Pistorius verurteilt US-Kritik an Ukraine",
@@ -111,8 +84,75 @@
     ]
    },
    {
+    "sourceCount": 3,
+    "score": 5.9,
+    "items": [
+     {
+      "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+      "source": "NPR",
+      "date": "2026-11-17T04:50-05:00",
+      "teaser": "Ukrainian drones and missiles struck the Kerch Bridge linking Russia to occupied Crimean, Ukrainian President Volodymyr Zelenskyy said, as Russia reported its forces downed Ukrainian drones."
+     },
+     {
+      "title": "Ukraine strikes Russia’s Crimean bridge with drones and missiles as aerial attacks escalate",
+      "url": "https://www.thehindu.com/news/international/ukraine-strikes-major-russian-bridge-with-drones-and-missiles-as-aerial-attacks-escalate/article71713178.ece",
+      "source": "The Hindu",
+      "date": "2026-11-18T09:27+05:30",
+      "teaser": "The Kerch Bridge is a crucial link in moving military and civilian supplies from Russia to Crimea and to support troops on the front line"
+     },
+     {
+      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+      "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "source": "New York Times",
+      "date": "2026-11-17T19:41+00:00",
+      "teaser": "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv."
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Der US-Überblick am Morgen: Demokraten gewinnen in Alaska, NSA-Kommunikationsnetz ausgefallen",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/kalshi-cftc-wetten-donald-trump-rede-usa",
+      "source": "Zeit",
+      "date": "2026-11-18T04:48+00:00",
+      "teaser": "Mehrere Medien erklären Mary Peltola zur Siegerin der Senatswahl in Alaska. Ein Kommunikationsnetzwerk des Geheimdienstes NSA ist ausgefallen. Der US-Überblick am Morgen"
+     },
+     {
+      "title": "USA unter Trump: Demokraten gewinnen auch noch Senatssitz in Alaska",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-gewinnen-auch-noch-senatssitz-in-alaska-faz-19444916.html",
+      "source": "FAZ",
+      "date": "2026-11-18T03:49+00:00",
+      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "Midterms in den USA - Alaska: Demokratin Mary Peltola gewinnt Senatssitz",
+      "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-alaska-demokratin-mary-peltola-gewinnt-senatssitz-a-b554031e-e4d7-4cee-8cd5-fdc85ce23d63#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-18T05:26+01:00",
+      "teaser": "Jetzt ist auch das letzte US-Senatsrennen entschieden: In Alaska siegt Mary Peltola gegen den republikanischen Amtsinhaber. Damit werden die Demokraten bald 56 der 100 Sitze in der Parlamentskammer kontrollieren."
+     },
+     {
+      "title": "Senatswahl in Alaska: Demokratin nimmt Republikanern Senatssitz in Alaska ab",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/senatswahl-alaska-mary-peltola-dan-sullivan-demokraten",
+      "source": "Zeit",
+      "date": "2026-11-18T03:59+00:00",
+      "teaser": "Die US-Demokraten haben sich eine Mehrheit von 56 zu 44 Sitzen im Senat gesichert. Mehrere US-Medien erklärten die Indigene Mary Peltola in Alaska zur Siegerin."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.87,
     "items": [
      {
       "title": "Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status",
@@ -132,7 +172,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.84,
     "items": [
      {
       "title": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
@@ -152,7 +192,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.81,
     "items": [
      {
       "title": "Israeli Parliament elects new Knesset Speaker backed by Netanyahu's opponents",
@@ -172,7 +212,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.69,
     "items": [
      {
       "title": "FAA halts installation of new routers linked to Friday's airport ground stop until root of problem found",
@@ -192,27 +232,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.64,
-    "items": [
-     {
-      "title": "Russian military transport plane crashes in Siberia, killing 19: Defence Ministry",
-      "url": "https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece",
-      "source": "The Hindu",
-      "date": "2026-11-18T05:09+05:30",
-      "teaser": "The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow"
-     },
-     {
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-17T21:06+00:00",
-      "teaser": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.54,
+    "score": 3.45,
     "items": [
      {
       "title": "Slowakei: Zehntausende protestieren in der Slowakei gegen Fico-Regierung",
@@ -232,7 +252,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.24,
+    "score": 3.15,
     "items": [
      {
       "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
@@ -249,52 +269,39 @@
       "teaser": "Fünf EU-Staaten wollen Rückkehrzentren in dem zentralafrikanischen Land schaffen. Ruandas Innenminister weicht Fragen zu Details aus. Auch Uganda bestätigt Gespräche."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.17,
-    "items": [
-     {
-      "title": "Moskau beruft Krisensitzung nach Angriff auf Krim-Brücke ein",
-      "url": "https://www.dw.com/de/moskau-beruft-krisensitzung-nach-angriff-auf-krim-brücke-ein/a-79966896?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-17T10:48+00:00",
-      "teaser": "Die Folgen der ukrainischen Attacke müssten bewältigt werden, heißt es kurz vor der von Vize-Regierungschef Marat Chusnullin geleiteten Sondersitzung. In Agenturberichten ist von schweren Schäden an der Brücke die Rede."
-     },
-     {
-      "title": "Brücke zur Krim: Angriff auf Putins Prestigeobjekt",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/bruecke-krim-strasse-von-kertsch-logistik-russland",
-      "source": "Zeit",
-      "date": "2026-11-17T18:02+00:00",
-      "teaser": "Der Ukraine gelingt ein Schlag gegen die Brücke zur Krim. Das geht weit über die symbolische Ebene hinaus – und verschärft die Versorgungskrise auf der Halbinsel."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
-    "sourceCount": 2,
-    "score": 3.81,
+    "sourceCount": 3,
+    "score": 6.0,
     "items": [
      {
-      "title": "Newsblog zu Nahost: Israels Opposition übernimmt den Parlamentsvorsitz",
-      "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-westjordanland-israel-siedler-knesset-li.3579157",
-      "source": "Süddeutsche",
-      "date": "2026-11-18T01:33+00:00",
-      "teaser": "Die Mehrheit der Abgeordneten der Knesset stimmt für den früheren Minister Matan Kahana. Er gehört der Partei von Gadi Eisenkot an, der mit der Bildung der Regierung beauftragt ist."
+      "title": "Bundestagswahl 2025: Karlsruhe entscheidet über BSW-Wahlbeschwerde",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/muss-bundestagswahl-neu-ausgezaehlt-werden-bsw-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-18T06:05+01:00",
+      "teaser": "Bei der Bundestagswahl 2025 fehlten dem BSW weniger als 10.000 Stimmen für den Einzug ins Parlament. Im Streit um eine Neuauszählung steht jetzt eine Entscheidung aus Karlsruhe an. Von K. Hempel und T. Zachäus."
      },
      {
-      "title": "Kandidat der Opposition übernimmt Parlamentsvorsitz",
-      "url": "https://www.zdfheute.de/politik/ausland/israel-wahlen-parlamentsvorsitz-opposition-kahana-100.html",
+      "title": "BSW und Bundestagswahl: Karlsruhe entscheidet über Neuauszählung",
+      "url": "https://www.spiegel.de/politik/deutschland/bsw-und-bundestagswahl-karlsruhe-entscheidet-ueber-neuauszaehlung-a-852c3f4f-1f36-40ff-bd91-b88e3486b93a#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-17T18:07+01:00",
+      "teaser": "Das BSW verpasste den Einzug in den Bundestag, am Ende fehlten nur knapp 10.000 Stimmen. Die Wagenknecht-Partei sah sich hintergangen. Jetzt entscheidet das Bundesverfassungsgericht, ob die Wahl gültig ist."
+     },
+     {
+      "title": "Karlsruhe entscheidet über BSW-Wahlprüfungsbeschwerde",
+      "url": "https://www.zdfheute.de/politik/deutschland/bsw-bundesverfassungsgericht-bundestagswahl-2025-entscheidung-100.html",
       "source": "ZDF",
-      "date": "2026-11-18T02:43+01:00",
-      "teaser": "Erfolg für Israels Opposition: Ihr Kandidat Mata Kahan ist neuer Parlamentspräsident. Das Lager von Gadi Eisenkot erhofft sich davon mehr Einfluss auf die Abläufe in der Knesset."
+      "date": "2026-11-18T05:26+01:00",
+      "teaser": "Das BSW scheiterte mit einer Neuauszählung der Stimmen zur Bundestagswahl 2025. Daraufhin zog die Partei nach Karlsruhe. Nun entscheidet das Bundesverfassungsgericht."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.51,
+    "score": 3.42,
     "items": [
      {
       "title": "Zerstörte Krim-Brücke: Die Ukraine versetzt Putin einen schweren Schlag",
@@ -314,7 +321,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.04,
+    "score": 2.94,
     "items": [
      {
       "title": "Baden-Württemberg: Boris Palmer gibt Posten als Bürokratieberater auf",
@@ -334,7 +341,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.03,
+    "score": 2.94,
     "items": [
      {
       "title": "Vanessa Emde: Berliner Linke stellt Antrag auf Ausschluss aus Fraktion",
@@ -354,20 +361,98 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
     "items": [
      {
-      "title": "USA: Demokratin Peltola gewinnt in Alaska",
-      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-ki-nvidia-quartalszahlen-huang-rueckkehr-li.3578585",
-      "source": "Süddeutsche",
-      "date": "2026-11-18T03:52+00:00",
-      "teaser": "Die Demokratin Mary Peltola hat den Republikanern im umkämpften US-Bundesstaat Alaska laut Hochrechnungen einen Sitz im Senat abgenommen. Die Demokraten kommen damit auf 56 der 100 Sitze in der Kongresskammer, die Republikaner auf 44."
+      "title": "++ Kita-Gesetz: Özdemir will dem Bund harte Ansage machen ++ Diskussion um \"Bratwurst-Steuer\" ++",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-11-18-100.html",
+      "source": "SWR",
+      "date": "2026-11-18T06:05+01:00",
+      "teaser": "Der Bundestag verabschiedet ein Kita-Gesetz, will aber bei der Finanzierung mittelfristig aussteigen - \"Schaufensterpolitik\" für Özdemir. Und: Gibt es bald ein \"Bratwurst-Steuer\"?"
      }
     ]
    },
    {
     "sourceCount": 1,
     "score": 1.97,
+    "items": [
+     {
+      "title": "Schütze von Eningen und Hamburg war mehrfach vorbestraft",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/schuesse-eningen-hamburg-taeter-vorbestraft-100.html",
+      "source": "SWR",
+      "date": "2026-11-18T05:45+01:00",
+      "teaser": "Der Schütze von Hamburg und Eningen stand mit seiner Tochter wegen Betrugs vor Gericht. Er wurde bereits wegen vorsätzlicher Körperverletzung und Steuerhinterziehung verurteilt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Frontalzusammenstoß auf B311 bei Erbach - Neue Erkenntnisse der Polizei",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/unfall-b311-tote-erbach-100.html",
+      "source": "SWR",
+      "date": "2026-11-18T05:44+01:00",
+      "teaser": "Nach der Untersuchung des Unfalls mit drei Toten bei Erbach hat die Polizei nun neue Erkenntnisse: Die beiden an der Kollision beteiligten Autos waren anders besetzt als zunächst angenommen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "News: Bundesverfassungsgericht zu BSW-Beschwerde, Alexander Zverev wird verklagt, GTA 6 und Zeitzonen",
+      "url": "https://www.spiegel.de/politik/deutschland/news-bundesverfassungsgericht-zu-bsw-beschwerde-alexander-zverev-wird-verklagt-gta-6-und-zeitzonen-a-b16b71f4-1d22-4f8a-a9f7-4a1a879a77c6#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-18T05:38+01:00",
+      "teaser": "Das Verfassungsgericht entscheidet über die Neuauszählung der Bundestagswahl. Alexander Zverev soll nichts Falsches sagen. Und Kiribati ist uns weit voraus. Das ist die Lage am Mittwochmorgen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Baden-Württembergs Landesregierung will gegen Schulschwänzen vorgehen",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-will-gegen-schulschwaenzen-vorgehen-ministerpraesident-oezdemir-ich-war-selbst-einer-der-ab-und-zu-in-der-schule-gefehlt-hat-100.html",
+      "source": "SWR",
+      "date": "2026-11-18T05:37+01:00",
+      "teaser": "Wie bringt man Kinder zurück in die Schule, wenn sie häufig fehlen? Diese Frage beschäftigt die Landesregierung BW. Laut Grün-Schwarz ist die Zahl der Schulschwänzer gestiegen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "\"Heimatreport\": Viel Zufriedenheit, aber auch Sorge wegen der Zukunft",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/stimmungslage-deutschland-heimatreport-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-18T05:31+01:00",
+      "teaser": "Der erste \"Heimatreport\" des Bundeslandwirtschaftsministeriums zeigt: Viele Deutsche sind zufrieden und fühlen sich mit Wohnort und Region verbunden. Sorgen gibt es, dass sich die Lebensbedingungen verschlechtern. Von Eva Huber."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "USA: Demokratin Peltola gewinnt Senatssitz in Alaska",
+      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-demokraten-peltola-li.3578585",
+      "source": "Süddeutsche",
+      "date": "2026-11-18T03:52+00:00",
+      "teaser": "Peltola hat den Republikanern im umkämpften US-Bundesstaat Alaska laut Hochrechnungen einen Sitz im Senat abgenommen. Die Demokraten kommen damit auf 56 der 100 Sitze in der Kongresskammer, die Republikaner auf 44."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "Koalitionsausschuss: Spitzen von CDU, CSU, SPD beraten über Stromsteuer, Rente, Spritpreisbremse",
@@ -377,17 +462,123 @@
       "teaser": "Gegen 2 Uhr nachts verließen Merz, Klingbeil, Söder und anderen Koalitionäre das Kanzleramt. Dort hatten sie vor allem nach einer Lösung im Streit über die Stromsteuer gesucht. Ob sie erfolgreich waren, ist noch nicht bekannt."
      }
     ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Górale z Dolomitów nie chcą KFC na stokach. „Masowa konsumpcja niszczy naszą tożsamość”",
+      "url": "https://turystyka.rp.pl/nowe-trendy/art45500671-gorale-z-dolomitow-nie-chca-kfc-na-stokach-masowa-konsumpcja-niszczy-nasza-tozsamosc",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T06:00+01:00",
+      "teaser": "Planowane otwarcie restauracji sieci KFC bezpośrednio przy stokach narciarskich we włoskich kurortach Cortinie d’Ampezzo i Madonna di Campiglio wywołało sprzeciw organizacji ekologicznych, alpinistycznych i części lokalnych polityków. Krytycy obawiają się, że międzynarodowa sieć fast foodów przyczyn"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Agata Łukaszewicz: Końca sporu nie widać",
+      "url": "https://pro.rp.pl/sady-i-prokuratura/art45497291-agata-lukaszewicz-konca-sporu-nie-widac",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T06:00+01:00",
+      "teaser": "Sądy powszechne, z którymi najczęściej mają kontakt obywatele, zeszły na drugi plan. Dziś najgoręcej jest w Trybunale Konstytucyjnym i tylko nieco spokojniej w Sądzie Najwyższym. Na dialog szansy brak. Można więc powiedzieć: nic nowego."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Adam Pantak: Internauci uwierzyli, że TK przejęła Karolina Korwin-Piotrowska. Na co były lekcje WOS-u?",
+      "url": "https://www.rp.pl/rzecz-o-prawie/art45431721-adam-pantak-internauci-uwierzyli-ze-tk-przejela-karolina-korwin-piotrowska-na-co-byly-lekcje-wos-u",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T06:00+01:00",
+      "teaser": "Naprawę państwa prawa zacznijmy od opowiedzenia obywatelom, czym jest i czym powinien być Trybunał Konstytucyjny. Łatwość, z jaką internauci, uwierzyli w to, że dziennikarka zastąpiła Bogdana Święczkowskiej pokazuje głęboką nieznajomość ustawy zasadniczej."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Rosjanie uszkodzili konsulat Austrii. Są najnowsze wyniki Nvidii",
+      "url": "https://www.rp.pl/przeglad-wydarzen-z-nocy/art45505321-rosjanie-uszkodzili-konsulat-austrii-sa-najnowsze-wyniki-nvidii",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T05:58+01:00",
+      "teaser": "Przedstawiamy przegląd najważniejszych wydarzeń mijającej nocy: Partia Demokratyczna wygrywa wybory do Senatu na Alasce; kandydat izraelskiej opozycji został nowym przewodniczącym Knesetu; Nvidia zanotowała 14. z rzędu rekordowy kwartał pod względem dochodów; Amerykanie ostrzegają przed możliwymi za"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Święczkowski może stracić immunitet. Trybunał Konstytucyjny podejmie decyzję",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33137669,swieczkowski-moze-stracic-immunitet-trybunal-konstytucyjny.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-18T05:00+00:00",
+      "teaser": "Trybunał Konstytucyjny wyda komunikat w sprawie wniosków Prokuratora Generalnego o uchylenie immunitetów prezesowi TK Bogdanowi Święczkowskiemu i wiceprezesowi Bartłomiejowi Sochańskiemu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Z dużej chmury mały deszcz. Ekspansja zagraniczna polskich start-upów kuleje",
+      "url": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art45501241-z-duzej-chmury-maly-deszcz-ekspansja-zagraniczna-polskich-start-upow-kuleje",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T05:57+01:00",
+      "teaser": "Choć aż 86 proc. młodych, innowacyjnych firm z Polski planuje wejście na nowe rynki, zamierzenia te realizują nieliczne. Dziś mniej niż co trzeci start-up prowadzi sprzedaż za granicą. To bardzo mało. W krajach bałtyckich ów odsetek sięga 60 proc."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Łukasz Wojdyga: Bezpieczeństwo narodowe potrzebuje wolnego rynku",
+      "url": "https://radar.rp.pl/przemysl-obronny/art45494131-lukasz-wojdyga-bezpieczenstwo-narodowe-potrzebuje-wolnego-rynku",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T05:52+01:00",
+      "teaser": "Rekordowe pieniądze na obronność trafiają głównie do zagranicznych dostawców i Polskiej Grupy Zbrojeniowej. Prywatne firmy krajowe dostają 5 proc. Bezpieczeństwo potrzebuje konkurencji, nie monopolu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Jak wietrzyć mieszkanie zimą? Metoda Niemców nie powoduje strat ciepła",
+      "url": "https://www.rp.pl/ekonomia/art45501911-jak-wietrzyc-mieszkanie-zima-metoda-niemcow-nie-powoduje-strat-ciepla",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T05:44+01:00",
+      "teaser": "Otwarcie okien na oścież w chłodny dzień pozwala szybko usunąć nadmiar wilgoci i odświeżyć powietrze. Taki sposób wietrzenia jest bardzo popularny w Niemczech. To tak zwana wentylacja szokowa, czyli Stoßlüften, którą oficjalnie rekomenduje federalna agencja ochrony środowiska Umweltbundesamt (UBA)."
+     }
+    ]
    },
    {
     "sourceCount": 1,
     "score": 1.96,
     "items": [
      {
-      "title": "IT-Chaos in den USA - was wir wissen und was nicht",
-      "url": "https://www.zdfheute.de/politik/ausland/usa-it-stoerung-microsoft-faa-nsa-apple-100.html",
-      "source": "ZDF",
-      "date": "2026-11-18T04:32+01:00",
-      "teaser": "Erst Microsoft, dann die FAA, später Chase, Apple und die NSA: Seit Donnerstag häufen sich IT-Ausfälle in den USA und werfen Fragen auf. Was bisher bekannt ist und was nicht."
+      "title": "USA: Niemal 30 lat więzienia za planowanie zamachu na Donalda Trumpa",
+      "url": "https://www.rp.pl/przestepczosc/art45505331-usa-niemal-30-lat-wiezienia-za-planowanie-zamachu-na-donalda-trumpa",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T05:41+01:00",
+      "teaser": "Pakistańczyk Asif Merchant został skazany przez sąd federalny w Brooklynie na 27 i pół roku więzienia za próbę zamachu na Donalda Trumpa i amerykańskich urzędników. Mężczyzna miał działać na zlecenie Iranu."
      }
     ]
    },
@@ -396,110 +587,30 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Reform vor Beschluss: Kein Umgangsrecht mehr für gewalttätigen Elternteil",
-      "url": "https://www.faz.net/aktuell/politik/inland/reform-des-umgangsrechts-bundesregierung-will-kinder-besser-schuetzen-accg-201693039.html",
-      "source": "FAZ",
-      "date": "2026-11-18T03:22+00:00",
-      "teaser": "Tun sich Vater oder Mutter gegenseitig Gewalt an, leiden auch ihre Kinder. Die Bundesregierung will heute eine Reform des Umgangsrechts mit neuen Regeln beschließen, die vor allem dem Kindeswohl dienen soll."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Trumps Asienreise: Vor dem China-Gipfel dominieren Spannungen und Sorgen rund um KI",
-      "url": "https://www.sueddeutsche.de/politik/trump-putin-xi-jingping-pannenserie-flugverkehr-cyberangriff-ki-ukraine-li.3582083",
-      "source": "Süddeutsche",
-      "date": "2026-11-18T03:06+00:00",
-      "teaser": "Die USA wollen Chinas Fortschritt bei der künstlichen Intelligenz bremsen. Sie verschärfen die Exportregeln für Chips. Derweil wirft eine Pannenserie in den USA Fragen zu KI und Cybersicherheit auf."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Deutschland Liveblog: Koalitionsausschuss bis in die Nacht – Ergebnisse noch nicht bekannt",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-koalitionsausschuss-bis-in-die-nacht-ergebnisse-noch-nicht-bekannt-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-18T02:19+00:00",
-      "teaser": "Acht Stunden Beratungen vor allem zur Stromsteuer +++ Berliner Grüne: Verhandeln nicht auf Grundlage alter Aussagen +++ Linken-Fraktionsvorstand beantragt Ausschluss von Emde +++ alle Entwicklungen im Liveblog"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Mögliche Stromsteuersenkung: Verhandlung beendet - Verkündung am Morgen",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-beendet-verhandlungen-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-18T03:12+01:00",
-      "teaser": "Die Spitzen von CDU, CSU und SPD haben ihre Beratungen im Kanzleramt am frühen Mittwochmorgen beendet - ohne eine Einigung zur Stromsteuersenkung zu verkünden. Die Details sollen am frühen Morgen bekanntgegeben werden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Koalitionsausschuss: Koalition beendet Stromsteuergespräche tief in der Nacht",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/koalitionsausschuss-cdu-csu-spd-stromsteuer-friedrich-merz-lars-klingbeil-markus-soeder",
-      "source": "Zeit",
-      "date": "2026-11-18T02:08+00:00",
-      "teaser": "Nach mehr als acht Stunden haben die Spitzenpolitiker von Union und SPD ihre Verhandlungen im Koalitionsausschuss beendet. Ergebnisse wollen sie erst später mitteilen."
-     }
-    ]
-   }
-  ],
-  "Polen": [
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "Rośnie luka w finansowaniu adaptacji do zmian klimatu. Kość niezgody warta miliardy",
-      "url": "https://klimat.rp.pl/klimat-i-ludzie/art45479561-rosnie-luka-w-finansowaniu-adaptacji-do-zmian-klimatu-kosc-niezgody-warta-miliardy",
+      "title": "Beniamin Netanjahu przegrywa w Knesecie. Na czele parlamentu stanie jego przeciwnik",
+      "url": "https://www.rp.pl/polityka/art45505311-beniamin-netanjahu-przegrywa-w-knesecie-na-czele-parlamentu-stanie-jego-przeciwnik",
       "source": "Rzeczpospolita",
-      "date": "2026-11-18T05:00+01:00",
-      "teaser": "Bilans strat wywołanych przez tegoroczne ekstrema pogodowe przewyższy poziom 100 mld dolarów. Wielu zniszczeń dałoby się uniknąć dzięki polityce adaptacji do zmian klimatu. Tyle że na ten cel należałoby szybko wydać kolejne miliardy. Chętnych na razie nie widać."
+      "date": "2026-11-18T05:31+01:00",
+      "teaser": "Matan Kahana, sojusznik lidera izraelskiej opozycji Gadiego Eisenkota, został przewodniczącym Knesetu."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.95,
     "items": [
      {
-      "title": "Zdobył dla Warszawy gwiazdkę Michelin. Rusza nowa restauracja Andrei Camastry",
-      "url": "https://sukces.rp.pl/restauracje/art45495961-zdobyl-dla-warszawy-gwiazdke-michelin-rusza-nowa-restauracja-andrei-camastry",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T05:00+01:00",
-      "teaser": "Andrea Camastra, szef kuchni warszawskiej restauracji Nuta, wyróżnionej gwiazdką w przewodniku Michelin, otwiera niebawem nowy lokal. Tym razem motywem przewodnim będzie kuchnia włoska."
+      "title": "\"I po co ci to było, Mateusz?\". Ogromny sukces Ukraińców [NA POCZĄTEK DNIA]",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33137508,i-po-co-ci-to-bylo-mateusz-ogromny-sukces-ukraincow-na.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-18T04:30+00:00",
+      "teaser": "Dla tych, którzy we wtorek 17 listopada nie mieli czasu śledzić wiadomości, przygotowaliśmy skróconą wersję najważniejszych informacji"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Ekspert: Mamy w Polsce krajowy terroryzm, to nie działania służb",
-      "url": "https://www.rp.pl/sluzby/art45498741-ekspert-mamy-w-polsce-krajowy-terroryzm-to-nie-dzialania-sluzb",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T04:56+01:00",
-      "teaser": "Ukształtował się terroryzm krajowy, o własnej charakterystyce, własnych przyczynach i specyfice. Nie jest importem ani operacją obcych służb, wyrasta z polskich warunków – mówi Tomasz Safjański, doktor habilitowany nauk o bezpieczeństwie, profesor Akademii WSB."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.9,
     "items": [
      {
       "title": "USA: Ostatni sukces demokratów w wyborach do Senatu. Wygrali na Alasce",
@@ -509,124 +620,13 @@
       "teaser": "Demokratka Mary Peltola zdobyła mandat senatora z Alaski, pokonując urzędującego senatora z tego stanu, republikanina Dana Sullivana. Oznacza to, że od 1 stycznia opozycyjna wobec Donalda Trumpa Partia Demokratyczna będzie miała w Senacie 56 głosów, a republikanie - 44."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Elektrownie polowe, psy i drony. WOT pomoże w ochronie infrastruktury krytycznej",
-      "url": "https://www.rp.pl/wojsko/art45436401-elektrownie-polowe-psy-i-drony-wot-pomoze-w-ochronie-infrastruktury-krytycznej",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T04:54+01:00",
-      "teaser": "Czy WOT pomoże ochronić naszą infrastrukturę krytyczną? O współpracy Terytorialsów z przemysłem zbrojeniowym i dostawcami energii elektrycznej oraz wnioskach z Operacji „Horyzont” rozmawiamy z gen. bryg. Marcinem Siudzińskim, zastępcą dowódcy WOT."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Rząd chce zakazać woreczków do żucia z tytoniem. Eksperci ostrzegają przed skutkami",
-      "url": "https://www.rp.pl/konsumenci/art45499291-rzad-chce-zakazac-woreczkow-do-zucia-z-tytoniem-eksperci-ostrzegaja-przed-skutkami",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T04:48+01:00",
-      "teaser": "Czy zakaz smakowych saszetek tytoniowych poprawi zdrowie Polaków czy raczej rozwinie szarą strefę? Ruszają sejmowe prace nad rządowym projektem ustawy zdrowotnej."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Są wyniki Nvidii. Znowu rekord, a ma być jeszcze lepiej. Akcje w górę",
-      "url": "https://www.rp.pl/gielda/art45505301-sa-wyniki-nvidii-znowu-rekord-a-ma-byc-jeszcze-lepiej-akcje-w-gore",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T04:44+01:00",
-      "teaser": "115,8 mld dolarów przychodów i 65,3 mld zysku netto w trzecim kwartale zanotowała spółka Nvidia. Firma po raz kolejny osiągnęła wyniki lepsze niż te, które przewidywali analitycy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Krzysztof Adam Kowalczyk: Boska komedia długu publicznego",
-      "url": "https://www.rp.pl/komentarze/art45501081-krzysztof-adam-kowalczyk-boska-komedia-dlugu-publicznego",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T04:37+01:00",
-      "teaser": "Słuchając polityków, którzy będą w nadchodzącej kampanii obiecywać wyborcom jakieś nowe smakołyki na koszt państwa, pamiętajcie – młodzi czytelnicy – że w ten sposób sprzedają oni Waszą przyszłość."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Polacy wolną niższe podatki od wyższych świadczeń socjalnych. Jednoznaczny wynik sondażu",
-      "url": "https://www.rp.pl/budzet-i-podatki/art45499681-polacy-wolna-nizsze-podatki-od-wyzszych-swiadczen-socjalnych-jednoznaczny-wynik-sondazu",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T04:37+01:00",
-      "teaser": "Zdecydowana większość Polaków sprzeciwia się podnoszeniu danin na finansowanie dodatkowych świadczeń społecznych – wynika z sondażu „Rzeczpospolitej”. Czy oznacza to, że obywatele nie chcą już większego socjalu, czy raczej nie dostrzegają, że hojne państwo ma swoją cenę?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Czesław Mozil sięga po Herberta. „Sztuka nie zawsze ma nas pocieszać”",
-      "url": "https://www.rp.pl/muzyka-popularna/art45490951-czeslaw-mozil-siega-po-herberta-sztuka-nie-zawsze-ma-nas-pocieszac",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T04:36+01:00",
-      "teaser": "Kiedy wypuszczamy w świat przemoc, kłamstwo czy nienawiść, nie możemy zakładać, że zatrzymają się tam, gdzie nam wygodnie. Ta kula może wrócić - mówi Czesław Mozil, który wydaje winyl „Herbert kameralnie\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.52,
-    "items": [
-     {
-      "title": "Polish government seeks to introduce maximum gas prices for consumers",
-      "url": "https://notesfrompoland.com/2026/11/17/polish-government-seeks-to-introduce-maximum-gas-prices-for-consumers/",
-      "source": "Notes from Poland",
-      "date": "2026-11-17T22:15+00:00",
-      "teaser": "The measure would be funded by a new special levy on certain energy companies."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.49,
-    "items": [
-     {
-      "title": "Pentagon krytykuje ukraińskie ataki na Rosję. Szef niemieckiego MON: To dość głupie",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33137832,pentagon-krytykuje-ukrainskie-ataki-na-rosje-szef-niemieckiego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-17T21:52+00:00",
-      "teaser": "W ostatnich miesiącach Ukraina przeprowadziła szereg uderzeń na cele położone w głębi Rosji. Wiceszef Pentagonu Elbridge Colby ocenił, że ataki mogą prowadzić do eskalacji. - Powinniśmy raczej rozmawiać o terrorystycznych atakach na ukraińską infrastrukturę - powiedział niemiecki minister obrony Bor"
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 6,
-    "score": 12.0,
+    "sourceCount": 5,
+    "score": 9.9,
     "items": [
-     {
-      "title": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-17T19:03+01:00",
-      "teaser": "Der wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurückgetretene Chef des US-Chipkonzerns Nvidia hat gravierende Fehler eingeräumt. Doch sollte der Vorstand das wünschen, würde er gerne an die Unternehmensspitze zurückkehren."
-     },
      {
       "title": "Ex-Nvidia CEO Jensen Huang sagt vor US-Senat aus",
       "url": "https://www.spiegel.de/wirtschaft/unternehmen/ex-nvidia-ceo-jensen-huang-sagt-vor-us-senat-aus-a-0256fbdb-f7c3-4c6d-876f-097e3557807c#ref=rss",
@@ -640,12 +640,19 @@
       "source": "FAZ",
       "date": "2026-11-18T01:00+00:00",
       "teaser": "Der ehemalige Vorstandschef bringt sich für ein Comeback ins Gespräch, aber Nvidia lehnt das unmissverständlich ab. Derweil legt der Chipkonzern abermals glänzende Geschäftsergebnisse vor."
+     },
+     {
+      "title": "Chipkonzern: Nvidia lehnt Rückkehr von Jensen Huang an die Konzernspitze ab",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/nvidia-quartalszahlen-umsatz-gewinn-jensen-huang",
+      "source": "Zeit",
+      "date": "2026-11-17T23:29+00:00",
+      "teaser": "Der US-Chipkonzern hat laut dem Verwaltungsrat nicht vor, den zurückgetretenen Manager zurückzuholen. Umsatz und Gewinn sind im dritten Quartal stark gestiegen."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.73,
+    "score": 5.64,
     "items": [
      {
       "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
@@ -671,35 +678,8 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 4.72,
-    "items": [
-     {
-      "title": "Konjunktur: EU-Kommission verdoppelt Wachstumsprognose für Deutschland",
-      "url": "https://www.spiegel.de/wirtschaft/konjunktur-eu-kommission-verdoppelt-wachstumsprognose-fuer-deutschland-a-d32ff774-16e0-40fe-b4ea-727065af583a#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-17T11:46+01:00",
-      "teaser": "Dank des stabilen Exportgeschäfts rechnet die EU-Kommission im laufenden Jahr für Deutschland mit einem Wachstum von 1,3 Prozent – doppelt so hoch wie zuletzt. Doch die Inflation bleibt ein Problem."
-     },
-     {
-      "title": "EU-Kommission verdoppelt Prognose für Deutschland",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-17T13:42+01:00",
-      "teaser": "Die EU-Kommission hat ihre Konjunkturprognose für Deutschland stark angehoben. Grund ist das kräftige Plus bei den Exporten. Die Inflation dürfte jedoch hartnäckig bleiben."
-     },
-     {
-      "title": "Wirtschaftsprognose der EU-Kommission: EU-Kommission verdoppelt Wachstumsprognose für Deutschland für 2026",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/eu-kommission-wirtschaftsprognose-wachstum-inflation-euroraum-deutschland-gxe",
-      "source": "Zeit",
-      "date": "2026-11-17T10:27+00:00",
-      "teaser": "Die EU-Kommission hat ihre Wachstumsprognose für Deutschland für das laufende Jahr auf 1,3 Prozent erhöht. Grund sei der Exportzuwachs zu Jahresbeginn."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.75,
+    "score": 3.65,
     "items": [
      {
       "title": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
@@ -719,7 +699,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.45,
+    "score": 3.36,
     "items": [
      {
       "title": "Christian Sewing: Wie sich der Deutsche-Bank-Chef an die Spitze kämpfte",
@@ -739,27 +719,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.42,
-    "items": [
-     {
-      "title": "Stocks Down Just Ahead of Nvidia’s Earnings Report",
-      "url": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
-      "source": "New York Times",
-      "date": "2026-11-17T20:38+00:00",
-      "teaser": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade."
-     },
-     {
-      "title": "US tech stocks slide ahead of Nvidia results",
-      "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-17T21:04+00:00",
-      "teaser": "Nasdaq 100 down 0.7% after volatile run of trading"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.07,
+    "score": 2.98,
     "items": [
      {
       "title": "Jeffrey Epstein: Interne Unterlagen belasten Deutsche Bank mit weiteren Zahlungen",
@@ -778,28 +738,74 @@
     ]
    },
    {
+    "sourceCount": 2,
+    "score": 2.63,
+    "items": [
+     {
+      "title": "EU-Kommission verdoppelt Prognose für Deutschland",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/eu-kommission-wachstumsprognose-deutschland-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-17T13:42+01:00",
+      "teaser": "Die EU-Kommission hat ihre Konjunkturprognose für Deutschland stark angehoben. Grund ist das kräftige Plus bei den Exporten. Die Inflation dürfte jedoch hartnäckig bleiben."
+     },
+     {
+      "title": "Wirtschaftsprognose der EU-Kommission: EU-Kommission verdoppelt Wachstumsprognose für Deutschland für 2026",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/eu-kommission-wirtschaftsprognose-wachstum-inflation-euroraum-deutschland-gxe",
+      "source": "Zeit",
+      "date": "2026-11-17T10:27+00:00",
+      "teaser": "Die EU-Kommission hat ihre Wachstumsprognose für Deutschland für das laufende Jahr auf 1,3 Prozent erhöht. Grund sei der Exportzuwachs zu Jahresbeginn."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
     "score": 1.99,
     "items": [
      {
-      "title": "Nikkei, Kospi & Co.: Nvidias starke Bilanz kann KI-Skepsis in Asien nicht vertreiben",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kospi-co.-nvidias-starke-bilanz-kann-ki-skepsis-in-asien-nicht-vertreiben/100270767.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-18T03:50+00:00",
-      "teaser": "Unerwartet hohe Gewinne des KI-Chipanbieters begeisterten die Börsen in Asien nur kurz. Im Laufe des Vormittags gaben sie erste Gewinne ab - und stürzten manchmal sogar ins Minus."
+      "title": "Michael Sen: »Man muss den Willen haben, etwas bewirken zu wollen«",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/michael-zen-mut-neuanfang-unternehmen-ceo-podcast",
+      "source": "Zeit",
+      "date": "2026-11-18T05:00+00:00",
+      "teaser": "Michael Sen ist seit 2022 CEO von Fresenius. Im Podcast mit Rainer Esser erzählt er, wie er den Mut schöpft, unpopuläre Entscheidungen zu treffen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.99,
     "items": [
      {
-      "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
-      "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+      "title": "Japan Attempts to Revive U.S. Steel",
+      "url": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
       "source": "New York Times",
-      "date": "2026-11-18T03:26+00:00",
-      "teaser": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines."
+      "date": "2026-11-18T05:00+00:00",
+      "teaser": "After its fraught takeover of steel maker U.S. Steel, a Japanese manufacturer is attempting to revitalize the American company’s facilities, including its oldest mill outside Pittsburgh."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Target is set to report earnings before the bell. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+      "source": "CNBC",
+      "date": "2026-11-18T05:01+00:00",
+      "teaser": "Target is expected to offer more color on the progress of its turnaround and a preview of the holiday season as it reports fiscal third-quarter earnings."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Democrats win Alaska Senate seat to complete midterms victory",
+      "url": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-18T04:59+00:00",
+      "teaser": "Mary Peltola’s success in northernmost US state raises party’s tally to 56 in 100-member chamber"
      }
     ]
    },
@@ -808,37 +814,24 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Russia’s Putin to address global CEOs in China",
-      "url": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-18T03:23+00:00",
-      "teaser": "Chief executives’ meeting comes ahead of highly anticipated trilateral summit with Xi Jinping and Donald Trump"
+      "title": "Altersvorsorgedepot: Soll ich jetzt meinen Riester-Vertrag kündigen?",
+      "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-soll-ich-jetzt-meinen-riester-vertrag-kuendigen-a-5178c210-896f-4410-a229-e6dfd4a9bd09#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-18T05:30+01:00",
+      "teaser": "Mehr Geld vom Staat fürs eigene ETF-Depot: Ab Januar sollen neue Produkte die verhasste Riester-Rente ablösen. Finanzexperte Moritz Czygan erklärt, was Anleger jetzt tun sollten."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.95,
     "items": [
      {
-      "title": "Immobilien: Erbengemeinschaften – das unterschätzte Problem am Wohnungsmarkt",
-      "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-erbengemeinschaften-das-unterschaetzte-problem-am-wohnungsmarkt/100265643.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-18T03:18+00:00",
-      "teaser": "Ungeklärte Erbfälle führen inzwischen zu einem hohen Leerstand bei Wohnimmobilien. Das Problem verschärft sich, wenn in den kommenden Jahren viele Eigenheime der Boomer-Generation vererbt werden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Aktien: Investoren hoffen auf ein Comeback deutscher Nebenwerte – drei Fonds, um darauf zu setzen",
-      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/aktien-stehen-deutsche-nebenwerte-vor-einem-comeback/100265317.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-18T03:16+00:00",
-      "teaser": "Der MDax bleibt seit Jahren hinter dem Leitindex Dax zurück. Doch die Konjunktur erholt sich wieder, viele Unternehmen sind günstig bewertet. Welche Fonds und ETFs gut abgeschnitten haben."
+      "title": "Bis zu 540 Euro vom Staat – so finden Sie jetzt das richtige Produkt für Ihr Altersvorsorgedepot",
+      "url": "https://www.spiegel.de/wirtschaft/service/bis-zu-540-euro-vom-staat-so-finden-sie-jetzt-das-richtige-produkt-fuer-ihr-altersvorsorgedepot-a-fc174926-6559-4746-a9b5-7c13c0fa1a90#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-18T05:30+01:00",
+      "teaser": "Zum 1. Januar löst das Altersvorsorgedepot die Riester-Rente ab. Hier erfahren Sie, wie viel staatliche Zulage Ihnen wirklich zusteht und auf wie viel Geld Sie bis zur Rente kommen können."
      }
     ]
    }
@@ -846,7 +839,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.59,
+    "score": 7.49,
     "favorite": true,
     "items": [
      {
@@ -860,7 +853,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.53,
+    "score": 7.4399999999999995,
     "favorite": true,
     "items": [
      {
@@ -874,7 +867,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.49,
+    "score": 7.4,
     "favorite": true,
     "items": [
      {
@@ -888,7 +881,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 6.42,
+    "score": 6.32,
     "items": [
      {
       "title": "5:0 gegen Niederlande: Das Feuer des Klopp-Fußballs",
@@ -914,35 +907,8 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.11,
-    "items": [
-     {
-      "title": "‘I’m entering to win’: Philippe Diallo launches campaign to topple Gianni Infantino",
-      "url": "https://www.theguardian.com/football/2026/nov/17/im-entering-to-win-philippe-diallo-launches-campaign-to-topple-gianni-infantino",
-      "source": "The Guardian",
-      "date": "2026-11-17T17:18+00:00",
-      "teaser": "French FA chief officially begins bid for Fifa presidency Uefa’s choice hints at ‘support from other continents’ Philippe Diallo, Europe’s candidate to fight Gianni Infantino for the Fifa presidency, said he had received “strong signs of support from other continents” as he launched his campaign in "
-     },
-     {
-      "title": "Fifa: Uefa nominiert Philippe Diallo als Herausforderer für Gianni Infantino",
-      "url": "https://www.spiegel.de/sport/fussball/fifa-praesidentschaftswahl-uefa-nominiert-philippe-diallo-als-herausforderer-fuer-gianni-infantino-a-5d50e5bb-a0d5-4ed0-b50b-d95bbb3bb5bb#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-16T17:42+01:00",
-      "teaser": "Europas Kontinentalverband Uefa stellt für die Wahl zum Fifa-Präsidenten einen überraschenden Kandidaten auf: Nicht Arsène Wenger, sondern Frankreichs Verbandsboss Philippe Diallo soll Gianni Infantino entthronen."
-     },
-     {
-      "title": "Fifa-Präsidentschaft: Uefa nominiert Franzosen Diallo gegen Infantino als Fifa-Präsidenten",
-      "url": "https://www.zeit.de/sport/2026-11/uefa-nominiert-franzosen-diallo-gegen-infantino-als-fifa-praesidenten",
-      "source": "Zeit",
-      "date": "2026-11-16T16:32+00:00",
-      "teaser": "Frankreichs Fußballverbandschef Philippe Diallo tritt bei der Fifa-Präsidentschaftswahl gegen Amtsinhaber Infantino an. Die Uefa stellt ihn als Gegenkandidaten auf."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.65,
+    "score": 3.56,
     "items": [
      {
       "title": "Nations League roundup: Devenny’s divine strike lifts Northern Ireland to top tier",
@@ -962,7 +928,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.58,
+    "score": 3.49,
     "items": [
      {
       "title": "Premieren-Treffer: Carlos Forbs schießt Portugal im Regen von Cardiff zum 3:2-Sieg",
@@ -982,7 +948,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.49,
+    "score": 3.4,
     "items": [
      {
       "title": "DFB-Elf im Viertelfinale: So geht es in der Nations League weiter",
@@ -1002,7 +968,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.13,
+    "score": 3.04,
     "items": [
      {
       "title": "Peter Storey, Arsenal Double winner and England international, dies aged 81",
@@ -1022,7 +988,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.1,
+    "score": 3.01,
+    "items": [
+     {
+      "title": "‘I’m entering to win’: Philippe Diallo launches campaign to topple Gianni Infantino",
+      "url": "https://www.theguardian.com/football/2026/nov/17/im-entering-to-win-philippe-diallo-launches-campaign-to-topple-gianni-infantino",
+      "source": "The Guardian",
+      "date": "2026-11-17T17:18+00:00",
+      "teaser": "French FA chief officially begins bid for Fifa presidency Uefa’s choice hints at ‘support from other continents’ Philippe Diallo, Europe’s candidate to fight Gianni Infantino for the Fifa presidency, said he had received “strong signs of support from other continents” as he launched his campaign in "
+     },
+     {
+      "title": "Philippe Diallo: Er soll Infantino stürzen",
+      "url": "https://www.zeit.de/sport/2026-11/philippe-diallo-uefa-kandidatur-praesident-fifa-gianni-infantino",
+      "source": "Zeit",
+      "date": "2026-11-17T14:34+00:00",
+      "teaser": "Die Uefa hat endlich einen Kandidaten gefunden, der den Fifa-Präsidenten Gianni Infantino herausfordern soll. Aber hat Philippe Diallo überhaupt noch eine Chance?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.01,
     "items": [
      {
       "title": "Wayne Rooney says he contemplated taking own life during playing career",
@@ -1042,7 +1028,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.33,
+    "score": 2.23,
     "items": [
      {
       "title": "Deutschland schlägt Niederlande 5:0: So funktioniert die Methode von Jürgen Klopp",
@@ -1062,7 +1048,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.54,
     "items": [
      {
       "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
@@ -1077,7 +1063,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.77,
+    "score": 3.68,
     "items": [
      {
       "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
@@ -1097,7 +1083,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.65,
+    "score": 3.56,
     "items": [
      {
       "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
@@ -1117,7 +1103,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.53,
+    "score": 3.43,
     "items": [
      {
       "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
@@ -1137,7 +1123,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.0,
+    "score": 2.91,
     "items": [
      {
       "title": "Harvard-Studie: 400 Rechenzentren verbrauchen so viel Strom wie ganze US-Bundesstaaten",
@@ -1157,10 +1143,36 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.99,
     "items": [
      {
-      "title": "Waymo temporarily pulls driverless taxis from all US freeways",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-18T05:03+00:00",
+      "teaser": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+      "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+      "source": "Wired",
+      "date": "2026-11-18T05:01+00:00",
+      "teaser": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.83,
+    "items": [
+     {
+      "title": "Waymo pulls driverless taxis from all US freeways",
       "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "date": "2026-11-18T03:07+00:00",
@@ -1170,7 +1182,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.62,
     "items": [
      {
       "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
@@ -1183,7 +1195,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.61,
     "items": [
      {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
@@ -1196,7 +1208,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.67,
+    "score": 1.57,
     "items": [
      {
       "title": "Europe plans to catch the next computer chip wave",
@@ -1209,7 +1221,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.55,
     "items": [
      {
       "title": "Satya Nadella says he’s AGI-pilled now",
@@ -1222,7 +1234,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.54,
     "items": [
      {
       "title": "Review: Nubia Redmagic 12 Pro | Camera",
@@ -1230,32 +1242,6 @@
       "source": "Wired",
       "date": "2026-11-17T23:34+00:00",
       "teaser": "Review: Nubia Redmagic 12 Pro | Camera"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.61,
-    "items": [
-     {
-      "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
-      "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
-      "source": "New York Times",
-      "date": "2026-11-17T23:17+00:00",
-      "teaser": "The disruption followed days of unrelated problems in the past week that interrupted air travel and work at offices, schools and government."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.6,
-    "items": [
-     {
-      "title": "San Diego dumps both Flock cameras and smart streetlights",
-      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-      "source": "Ars Technica",
-      "date": "2026-11-17T23:09+00:00",
-      "teaser": "500+ cameras will go dark just 3 years after mayor urged approval."
      }
     ]
    }
@@ -1536,13 +1522,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Sport",
@@ -1590,7 +1576,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "topic": "Tech & KI",
