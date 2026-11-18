@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-18T05:08:08+00:00",
+ "fetchedAt": "2026-11-18T06:12:34+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 5,
-    "score": 9.93,
+    "score": 9.97,
     "items": [
      {
       "title": "Democrats flip Alaska seat to seal 56-44 US Senate majority",
@@ -31,7 +31,7 @@
    },
    {
     "sourceCount": 5,
-    "score": 9.9,
+    "score": 9.81,
     "items": [
      {
       "title": "Nvidia board rules that co-founder Jensen Huang will not return as CEO",
@@ -57,22 +57,76 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.9,
+    "sourceCount": 4,
+    "score": 7.96,
     "items": [
      {
-      "title": "Liveblog Ukrainekrieg: „Ziemlich dumm“: Pistorius verurteilt US-Kritik an Ukraine",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ziemlich-dumm-pistorius-verurteilt-us-kritik-an-ukraine-faz-110683325.html",
-      "source": "FAZ",
-      "date": "2026-11-17T15:36+00:00",
-      "teaser": "Stattdessen solle man über die terroristischen Angriffe Russlands sprechen, so der Verteidigungsminister +++ NATO-Generalsekretär nennt Angriff auf Krim-Brücke „unvermeidlich“ +++ Selenskyj bestätigt teilweisen Einsturz der Krim-Brücke +++ alle Neuigkeiten im Liveblog"
+      "title": "Midterms in den USA - Alaska: Demokratin Mary Peltola gewinnt Senatssitz",
+      "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-alaska-demokratin-mary-peltola-gewinnt-senatssitz-a-b554031e-e4d7-4cee-8cd5-fdc85ce23d63#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-18T05:26+01:00",
+      "teaser": "Jetzt ist auch das letzte US-Senatsrennen entschieden: In Alaska siegt Mary Peltola gegen den republikanischen Amtsinhaber. Damit werden die Demokraten bald 56 der 100 Sitze in der Parlamentskammer kontrollieren."
      },
+     {
+      "title": "US-Midterms: Demokraten gewinnen Senatssitz in Alaska",
+      "url": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-18T06:47+01:00",
+      "teaser": "Die Demokratin Mary Peltola hat im Rennen um einen US-Senatssitz in Alaska gewonnen. Damit bauen die Demokraten ihre Mehrheit im Senat auf neun Sitze aus - nun sind alle Senatsrennen entschieden."
+     },
+     {
+      "title": "Der US-Überblick am Morgen: Demokraten gewinnen in Alaska, NSA-Kommunikationsnetz ausgefallen",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/kalshi-cftc-wetten-donald-trump-rede-usa",
+      "source": "Zeit",
+      "date": "2026-11-18T04:48+00:00",
+      "teaser": "Mehrere Medien erklären Mary Peltola zur Siegerin der Senatswahl in Alaska. Ein Kommunikationsnetzwerk des Geheimdienstes NSA ist ausgefallen. Der US-Überblick am Morgen"
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.92,
+    "items": [
+     {
+      "title": "Xi and Putin say they will maintain global order, ahead of trilateral meeting with Trump",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374840/xi-and-putin-say-they-will-maintain-stable-ties-seek-more-fair-multipolar-world-order",
+      "source": "South China Morning Post",
+      "date": "2026-11-18T05:03+00:00",
+      "teaser": "Chinese President Xi Jinping and his Russian counterpart Vladimir Putin pledged to maintain stable bilateral ties and advance a multipolar world amid mounting global uncertainties during their meeting on the sidelines of the Apec summit in Shenzhen on Wednesday, ahead of their landmark trilateral su"
+     },
+     {
+      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "source": "NPR",
+      "date": "2026-11-17T07:20-05:00",
+      "teaser": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia."
+     },
+     {
+      "title": "Xi, Putin meet ahead of historic Trump trilateral summit",
+      "url": "https://www.thehindu.com/news/international/xi-putin-meet-ahead-of-historic-trump-trilateral-summit/article71714533.ece",
+      "source": "The Hindu",
+      "date": "2026-11-18T10:43+05:30",
+      "teaser": "Washington had signalled that Ukraine — something Mr. Xi vehemently sees as not China's problem — was not expected to be addressed, before Mr. Trump said that it would"
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.81,
+    "items": [
      {
       "title": "\"Ziemlich dumm\": Pistorius reagiert auf US-Kritik an ukrainischen Angriffen",
       "url": "https://www.tagesschau.de/ausland/europa/pistorius-ukraine-angriffe-usa-kritik-100.html",
       "source": "Tagesschau",
       "date": "2026-11-17T22:20+01:00",
       "teaser": "Nach der ukrainischen Attacke auf die Krim-Brücke kritisierten die USA Kiews Angriffe - ohne Russlands Zerstörung ziviler Ziele in der Ukraine zu erwähnen. Verteidigungsminister Pistorius reagierte mit deutlichen Worten."
+     },
+     {
+      "title": "Liveblog Ukrainekrieg: „Ziemlich dumm“: Pistorius verurteilt US-Kritik an Ukraine",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ziemlich-dumm-pistorius-verurteilt-us-kritik-an-ukraine-faz-110683325.html",
+      "source": "FAZ",
+      "date": "2026-11-17T15:36+00:00",
+      "teaser": "Stattdessen solle man über die terroristischen Angriffe Russlands sprechen, so der Verteidigungsminister +++ NATO-Generalsekretär nennt Angriff auf Krim-Brücke „unvermeidlich“ +++ alle Neuigkeiten im Liveblog"
      },
      {
       "title": "Krieg gegen die Ukraine: Pistorius bezeichnet Kritik der USA an Ukraine als »ziemlich dumm«",
@@ -85,7 +139,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.9,
+    "score": 5.81,
     "items": [
      {
       "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
@@ -112,47 +166,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
-    "items": [
-     {
-      "title": "Der US-Überblick am Morgen: Demokraten gewinnen in Alaska, NSA-Kommunikationsnetz ausgefallen",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/kalshi-cftc-wetten-donald-trump-rede-usa",
-      "source": "Zeit",
-      "date": "2026-11-18T04:48+00:00",
-      "teaser": "Mehrere Medien erklären Mary Peltola zur Siegerin der Senatswahl in Alaska. Ein Kommunikationsnetzwerk des Geheimdienstes NSA ist ausgefallen. Der US-Überblick am Morgen"
-     },
-     {
-      "title": "USA unter Trump: Demokraten gewinnen auch noch Senatssitz in Alaska",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-gewinnen-auch-noch-senatssitz-in-alaska-faz-19444916.html",
-      "source": "FAZ",
-      "date": "2026-11-18T03:49+00:00",
-      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.94,
-    "items": [
-     {
-      "title": "Midterms in den USA - Alaska: Demokratin Mary Peltola gewinnt Senatssitz",
-      "url": "https://www.spiegel.de/ausland/midterms-in-den-usa-alaska-demokratin-mary-peltola-gewinnt-senatssitz-a-b554031e-e4d7-4cee-8cd5-fdc85ce23d63#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-18T05:26+01:00",
-      "teaser": "Jetzt ist auch das letzte US-Senatsrennen entschieden: In Alaska siegt Mary Peltola gegen den republikanischen Amtsinhaber. Damit werden die Demokraten bald 56 der 100 Sitze in der Parlamentskammer kontrollieren."
-     },
-     {
-      "title": "Senatswahl in Alaska: Demokratin nimmt Republikanern Senatssitz in Alaska ab",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/senatswahl-alaska-mary-peltola-dan-sullivan-demokraten",
-      "source": "Zeit",
-      "date": "2026-11-18T03:59+00:00",
-      "teaser": "Die US-Demokraten haben sich eine Mehrheit von 56 zu 44 Sitzen im Senat gesichert. Mehrere US-Medien erklärten die Indigene Mary Peltola in Alaska zur Siegerin."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.78,
     "items": [
      {
       "title": "Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status",
@@ -172,7 +186,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
+    "score": 3.75,
     "items": [
      {
       "title": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
@@ -192,7 +206,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.81,
+    "score": 3.72,
     "items": [
      {
       "title": "Israeli Parliament elects new Knesset Speaker backed by Netanyahu's opponents",
@@ -212,7 +226,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.69,
+    "score": 3.6,
     "items": [
      {
       "title": "FAA halts installation of new routers linked to Friday's airport ground stop until root of problem found",
@@ -232,27 +246,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.45,
-    "items": [
-     {
-      "title": "Slowakei: Zehntausende protestieren in der Slowakei gegen Fico-Regierung",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/proteste-slowakei-bratislava-robert-fico-ukraine-russland",
-      "source": "Zeit",
-      "date": "2026-11-17T22:32+00:00",
-      "teaser": "Zum Jahrestag der Samtenen Revolution haben in Bratislava rund 25.000 Menschen demonstriert. Sie kritisierten die Russlandverbindungen von Ministerpräsident Fico."
-     },
-     {
-      "title": "Jahrestag der Revolution: Zehntausende protestieren gegen Regierung in der Slowakei",
-      "url": "https://www.faz.net/aktuell/politik/ausland/zehntausende-menschen-protestieren-gegen-regierung-in-der-slowakei-201692751.html",
-      "source": "FAZ",
-      "date": "2026-11-17T19:52+00:00",
-      "teaser": "Die Demonstranten gedenken des Sturzes der kommunistischen Diktatur vor 37 Jahren — und fordern mehr Unterstützung für die Ukraine."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.15,
+    "score": 3.06,
     "items": [
      {
       "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
@@ -269,12 +263,25 @@
       "teaser": "Fünf EU-Staaten wollen Rückkehrzentren in dem zentralafrikanischen Land schaffen. Ruandas Innenminister weicht Fragen zu Details aus. Auch Uganda bestätigt Gespräche."
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Hong Kong lawmakers urge wider access to re-employment allowances",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374850/hong-kong-lawmakers-urge-wider-access-re-employment-allowances",
+      "source": "South China Morning Post",
+      "date": "2026-11-18T06:07+00:00",
+      "teaser": "Hong Kong lawmakers have urged the government to do more to help residents return to work by focusing on frontline jobs and easing rules for claiming allowances, after enrolment in a pilot scheme reached nearly 15 times the original target. The calls were made on Wednesday, a day after the governmen"
+     }
+    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 6.0,
+    "score": 5.91,
     "items": [
      {
       "title": "Bundestagswahl 2025: Karlsruhe entscheidet über BSW-Wahlbeschwerde",
@@ -301,7 +308,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.42,
+    "score": 3.33,
     "items": [
      {
       "title": "Zerstörte Krim-Brücke: Die Ukraine versetzt Putin einen schweren Schlag",
@@ -321,7 +328,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.94,
+    "score": 2.85,
     "items": [
      {
       "title": "Baden-Württemberg: Boris Palmer gibt Posten als Bürokratieberater auf",
@@ -341,7 +348,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.94,
+    "score": 2.85,
     "items": [
      {
       "title": "Vanessa Emde: Berliner Linke stellt Antrag auf Ausschluss aus Fraktion",
@@ -364,11 +371,37 @@
     "score": 2.0,
     "items": [
      {
-      "title": "++ Kita-Gesetz: Özdemir will dem Bund harte Ansage machen ++ Diskussion um \"Bratwurst-Steuer\" ++",
+      "title": "++ Mercedes versteigert seltenen Oldtimer ++ Ärger um Kosten für Kita-Gesetz - Özdemir: \"Das geht so nicht\" ++ Diskussion um \"Bratwurst-Steuer\" ++",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-11-18-100.html",
       "source": "SWR",
-      "date": "2026-11-18T06:05+01:00",
-      "teaser": "Der Bundestag verabschiedet ein Kita-Gesetz, will aber bei der Finanzierung mittelfristig aussteigen - \"Schaufensterpolitik\" für Özdemir. Und: Gibt es bald ein \"Bratwurst-Steuer\"?"
+      "date": "2026-11-18T07:09+01:00",
+      "teaser": "Mercedes versteigert einen Supersportwagen C 111 - und erhofft sich Millionen. Es gibt Diskussionen um die \"Bratwurst-Steuer\". Und in den nächsten Tagen gibt es Sturm und Schnee."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Die trickreichen Steuersparmodelle der Aldi-Nord-Stiftungen",
+      "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-aldi-nord-steuern-100.html",
+      "source": "ZDF",
+      "date": "2026-11-18T07:00+01:00",
+      "teaser": "Interne Dokumente zeigen, wie die Deutsche Bank Stiftungen von Aldi Nord helfen wollte, Millionengewinne nahezu steuerfrei einzustreichen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Schütze von Eningen und Hamburg war mehrfach vorbestraft",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/schuesse-eningen-hamburg-taeter-vorbestraft-100.html",
+      "source": "SWR",
+      "date": "2026-11-18T06:59+01:00",
+      "teaser": "Der Schütze von Hamburg und Eningen stand mit seiner Tochter wegen Betrugs vor Gericht. Er wurde bereits wegen vorsätzlicher Körperverletzung und Steuerhinterziehung verurteilt."
      }
     ]
    },
@@ -377,17 +410,43 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Schütze von Eningen und Hamburg war mehrfach vorbestraft",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/schuesse-eningen-hamburg-taeter-vorbestraft-100.html",
-      "source": "SWR",
-      "date": "2026-11-18T05:45+01:00",
-      "teaser": "Der Schütze von Hamburg und Eningen stand mit seiner Tochter wegen Betrugs vor Gericht. Er wurde bereits wegen vorsätzlicher Körperverletzung und Steuerhinterziehung verurteilt."
+      "title": "SZ am Morgen: Nachrichten des Tages – die Übersicht für Eilige",
+      "url": "https://www.sueddeutsche.de/politik/trumps-asienreise-demokratin-siegt-in-alaska-us-kritik-an-ukraine-li.3582204",
+      "source": "Süddeutsche",
+      "date": "2026-11-18T05:54+00:00",
+      "teaser": "SZ am Morgen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Newsblog zu KI: Nvidia: Keine Pläne für Huangs Rückkehr als CEO",
+      "url": "https://www.sueddeutsche.de/politik/ki-newsblog-nvidia-huang-rueckkehr-li.3566658",
+      "source": "Süddeutsche",
+      "date": "2026-11-18T05:29+00:00",
+      "teaser": "Nach den Aussagen des Verwaltungsratschefs gibt es keine Pläne, den zurückgetretenen Chef zurückzuholen. Huang selbst hatte zuvor gesagt, dass er ein solches Angebot des Verwaltungsrates annehmen würde."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Gen Z zwischen Krise und Zukunftsangst: Darum will Abiturientin Katharina nicht schweigen",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/gen-z-demos-18-jaehrige-aus-karlsruhe-100.html",
+      "source": "SWR",
+      "date": "2026-11-18T06:07+01:00",
+      "teaser": "Schülerin Katharina Schmidt-Kufeke gehört zur Gen Z und blickt mit Sorge in ihre Zukunft. Gegen Klimakrise, Wehrpflicht und Rechtsruck geht sie deswegen regelmäßig auf die Straße."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "Frontalzusammenstoß auf B311 bei Erbach - Neue Erkenntnisse der Polizei",
@@ -400,7 +459,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.87,
     "items": [
      {
       "title": "News: Bundesverfassungsgericht zu BSW-Beschwerde, Alexander Zverev wird verklagt, GTA 6 und Zeitzonen",
@@ -410,64 +469,116 @@
       "teaser": "Das Verfassungsgericht entscheidet über die Neuauszählung der Bundestagswahl. Alexander Zverev soll nichts Falsches sagen. Und Kiribati ist uns weit voraus. Das ist die Lage am Mittwochmorgen."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Baden-Württembergs Landesregierung will gegen Schulschwänzen vorgehen",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-will-gegen-schulschwaenzen-vorgehen-ministerpraesident-oezdemir-ich-war-selbst-einer-der-ab-und-zu-in-der-schule-gefehlt-hat-100.html",
-      "source": "SWR",
-      "date": "2026-11-18T05:37+01:00",
-      "teaser": "Wie bringt man Kinder zurück in die Schule, wenn sie häufig fehlen? Diese Frage beschäftigt die Landesregierung BW. Laut Grün-Schwarz ist die Zahl der Schulschwänzer gestiegen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "\"Heimatreport\": Viel Zufriedenheit, aber auch Sorge wegen der Zukunft",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/stimmungslage-deutschland-heimatreport-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-18T05:31+01:00",
-      "teaser": "Der erste \"Heimatreport\" des Bundeslandwirtschaftsministeriums zeigt: Viele Deutsche sind zufrieden und fühlen sich mit Wohnort und Region verbunden. Sorgen gibt es, dass sich die Lebensbedingungen verschlechtern. Von Eva Huber."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "USA: Demokratin Peltola gewinnt Senatssitz in Alaska",
-      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-alaska-demokraten-peltola-li.3578585",
-      "source": "Süddeutsche",
-      "date": "2026-11-18T03:52+00:00",
-      "teaser": "Peltola hat den Republikanern im umkämpften US-Bundesstaat Alaska laut Hochrechnungen einen Sitz im Senat abgenommen. Die Demokraten kommen damit auf 56 der 100 Sitze in der Kongresskammer, die Republikaner auf 44."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Koalitionsausschuss: Spitzen von CDU, CSU, SPD beraten über Stromsteuer, Rente, Spritpreisbremse",
-      "url": "https://www.spiegel.de/politik/deutschland/koalitionsausschuss-spitzen-von-cdu-csu-spd-beraten-ueber-stromsteuer-rente-spritpreisbremse-a-fee3177e-e386-42fd-98d7-37b8b344904b#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-18T04:40+01:00",
-      "teaser": "Gegen 2 Uhr nachts verließen Merz, Klingbeil, Söder und anderen Koalitionäre das Kanzleramt. Dort hatten sie vor allem nach einer Lösung im Streit über die Stromsteuer gesucht. Ob sie erfolgreich waren, ist noch nicht bekannt."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Jeff Bezos ujawnia szczegóły castingu na Jamesa Bonda. Amazon zawęził listę kandydatów i zrobił zdjęcia próbne",
+      "url": "https://www.rp.pl/film/art45505441-jeff-bezos-ujawnia-szczegoly-castingu-na-jamesa-bonda-amazon-zawezil-liste-kandydatow-i-zrobil-zdjecia-probne",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T07:10+01:00",
+      "teaser": "Założyciel i prezes rady dyrektorów Amazona Jeff Bezos wyznał, że brał czynny udział w wyborze Roberta Pattinsona do roli Jamesa Bonda. Nazwisko nowego agenta 007 ogłoszono w poniedziałek."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Irlandczyk oskarżony o uszkodzenie samolotu wojskowego USA siekierą",
+      "url": "https://www.rp.pl/przestepczosc/art45505431-irlandczyk-oskarzony-o-uszkodzenie-samolotu-wojskowego-usa-siekiera",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T07:00+01:00",
+      "teaser": "48-letni Irlandczyk Daithi O'Corrain został oskarżony przez prokuraturę z USA o uszkodzenie wartego 60 mln dolarów amerykańskiego samolotu wojskowego C-130 Hercules przy użyciu m.in. siekiery, a także różnych narzędzi i chemikaliów - podaje BBC."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "W Polsce gwałtownie przybywa zakażeń bakteriami opornymi na antybiotyki",
+      "url": "https://www.rp.pl/choroby/art45505411-w-polsce-gwaltownie-przybywa-zakazen-bakteriami-opornymi-na-antybiotyki",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T06:56+01:00",
+      "teaser": "W Polsce od 2019 roku niemal pięciokrotnie wzrosła częstość zakażeń krwi wywoływanych przez bakterie oporne nawet na antybiotyki ostatniej szansy. W całej Unii Europejskiej wzrost wyniósł 72 proc. Europejskie Centrum ds. Zapobiegania i Kontroli Chorób (ECDC) ostrzega, że bez zdecydowanych działań li"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Joe Biden z uznaniem o Polsce i Polakach. Wspomina Warszawę i tajną podróż przez Rzeszów",
+      "url": "https://www.rp.pl/spoleczenstwo/art45505421-joe-biden-z-uznaniem-o-polsce-i-polakach-wspomina-warszawe-i-tajna-podroz-przez-rzeszow",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T06:49+01:00",
+      "teaser": "Były prezydent USA Joe Biden w swoich nowych wspomnieniach poświęcił Polsce wiele miejsca. W „Promise Me, America” opisał przemianę Warszawy, zaangażowanie Polaków we wsparcie Ukrainy oraz kulisy swojej tajnej podróży do Kijowa przez Rzeszów i Przemyśl."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Putin komentuje zachodnie sankcje. \"Sami siebie ukarali\"",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33138107,putin-komentuje-zachodnie-sankcje-sami-siebie-ukarali.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-18T05:49+00:00",
+      "teaser": "- Sztuczne bariery w ogniwie łańcucha dostaw powodują szkody dla wszystkich uczestników - powiedział prezydent Rosji Władimir Putin pierwszego dnia szczytu Wspólnoty Gospodarczej Azji i Pacyfiku (APEC)."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Iceye szykuje przejęcie, Polacy przeciw wyższym podatkom, eskalacja w Zatoce",
+      "url": "https://www.rp.pl/biznes/art45505111-iceye-szykuje-przejecie-polacy-przeciw-wyzszym-podatkom-eskalacja-w-zatoce",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T06:30+01:00",
+      "teaser": "Iceye planuje przejęcie włoskiego producenta rakiet Avio, większość Polaków nie chce wyższych podatków na finansowanie świadczeń socjalnych, a na Bliskim Wschodzie rośnie napięcie. UE przygotowuje nowe sankcje na Rosję."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Panie mecenasie, adwokacie czy rejencie? Wyjaśniamy, jak zwracać się do prawników",
+      "url": "https://www.rp.pl/prawo/art45502541-panie-mecenasie-adwokacie-czy-rejencie-wyjasniamy-jak-zwracac-sie-do-prawnikow",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T06:12+01:00",
+      "teaser": "„Panie mecenasie”, „pani sędzio”, a może „panie rejencie”? Wiele osób nie wie, jakie formy grzecznościowe stosować wobec przedstawicieli zawodów prawniczych. Okazuje się, że zwroty stosowane wobec takich osób wynikają nie tylko z samych nazw zawodów, lecz także z tradycji i zwyczajów językowych."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Jan Urban po Polska – Szwecja: Będziemy teraz mieli większą możliwość wyboru",
+      "url": "https://sport.rp.pl/pilka-nozna/art45505271-jan-urban-po-polska-szwecja-bedziemy-teraz-mieli-wieksza-mozliwosc-wyboru",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T06:09+01:00",
+      "teaser": "Sławomir Abramowicz dwie sytuacje wybronił znakomicie. W niektórych momentach widziałem u niego nerwowość, ale w debiucie zawsze są nerwy. Oceniam go naprawdę pozytywnie – mówił selekcjoner Jan Urban po ostatnim meczu kadry w tym roku."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Górale z Dolomitów nie chcą KFC na stokach. „Masowa konsumpcja niszczy naszą tożsamość”",
@@ -480,20 +591,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Agata Łukaszewicz: Końca sporu nie widać",
-      "url": "https://pro.rp.pl/sady-i-prokuratura/art45497291-agata-lukaszewicz-konca-sporu-nie-widac",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T06:00+01:00",
-      "teaser": "Sądy powszechne, z którymi najczęściej mają kontakt obywatele, zeszły na drugi plan. Dziś najgoręcej jest w Trybunale Konstytucyjnym i tylko nieco spokojniej w Sądzie Najwyższym. Na dialog szansy brak. Można więc powiedzieć: nic nowego."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.9,
     "items": [
      {
       "title": "Adam Pantak: Internauci uwierzyli, że TK przejęła Karolina Korwin-Piotrowska. Na co były lekcje WOS-u?",
@@ -506,20 +604,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.9,
     "items": [
      {
-      "title": "Rosjanie uszkodzili konsulat Austrii. Są najnowsze wyniki Nvidii",
-      "url": "https://www.rp.pl/przeglad-wydarzen-z-nocy/art45505321-rosjanie-uszkodzili-konsulat-austrii-sa-najnowsze-wyniki-nvidii",
+      "title": "Agata Łukaszewicz: Końca sporu nie widać",
+      "url": "https://pro.rp.pl/sady-i-prokuratura/art45497291-agata-lukaszewicz-konca-sporu-nie-widac",
       "source": "Rzeczpospolita",
-      "date": "2026-11-18T05:58+01:00",
-      "teaser": "Przedstawiamy przegląd najważniejszych wydarzeń mijającej nocy: Partia Demokratyczna wygrywa wybory do Senatu na Alasce; kandydat izraelskiej opozycji został nowym przewodniczącym Knesetu; Nvidia zanotowała 14. z rzędu rekordowy kwartał pod względem dochodów; Amerykanie ostrzegają przed możliwymi za"
+      "date": "2026-11-18T06:00+01:00",
+      "teaser": "Sądy powszechne, z którymi najczęściej mają kontakt obywatele, zeszły na drugi plan. Dziś najgoręcej jest w Trybunale Konstytucyjnym i tylko nieco spokojniej w Sądzie Najwyższym. Na dialog szansy brak. Można więc powiedzieć: nic nowego."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.9,
     "items": [
      {
       "title": "Święczkowski może stracić immunitet. Trybunał Konstytucyjny podejmie decyzję",
@@ -529,117 +627,26 @@
       "teaser": "Trybunał Konstytucyjny wyda komunikat w sprawie wniosków Prokuratora Generalnego o uchylenie immunitetów prezesowi TK Bogdanowi Święczkowskiemu i wiceprezesowi Bartłomiejowi Sochańskiemu."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Z dużej chmury mały deszcz. Ekspansja zagraniczna polskich start-upów kuleje",
-      "url": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art45501241-z-duzej-chmury-maly-deszcz-ekspansja-zagraniczna-polskich-start-upow-kuleje",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T05:57+01:00",
-      "teaser": "Choć aż 86 proc. młodych, innowacyjnych firm z Polski planuje wejście na nowe rynki, zamierzenia te realizują nieliczne. Dziś mniej niż co trzeci start-up prowadzi sprzedaż za granicą. To bardzo mało. W krajach bałtyckich ów odsetek sięga 60 proc."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Łukasz Wojdyga: Bezpieczeństwo narodowe potrzebuje wolnego rynku",
-      "url": "https://radar.rp.pl/przemysl-obronny/art45494131-lukasz-wojdyga-bezpieczenstwo-narodowe-potrzebuje-wolnego-rynku",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T05:52+01:00",
-      "teaser": "Rekordowe pieniądze na obronność trafiają głównie do zagranicznych dostawców i Polskiej Grupy Zbrojeniowej. Prywatne firmy krajowe dostają 5 proc. Bezpieczeństwo potrzebuje konkurencji, nie monopolu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Jak wietrzyć mieszkanie zimą? Metoda Niemców nie powoduje strat ciepła",
-      "url": "https://www.rp.pl/ekonomia/art45501911-jak-wietrzyc-mieszkanie-zima-metoda-niemcow-nie-powoduje-strat-ciepla",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T05:44+01:00",
-      "teaser": "Otwarcie okien na oścież w chłodny dzień pozwala szybko usunąć nadmiar wilgoci i odświeżyć powietrze. Taki sposób wietrzenia jest bardzo popularny w Niemczech. To tak zwana wentylacja szokowa, czyli Stoßlüften, którą oficjalnie rekomenduje federalna agencja ochrony środowiska Umweltbundesamt (UBA)."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "USA: Niemal 30 lat więzienia za planowanie zamachu na Donalda Trumpa",
-      "url": "https://www.rp.pl/przestepczosc/art45505331-usa-niemal-30-lat-wiezienia-za-planowanie-zamachu-na-donalda-trumpa",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T05:41+01:00",
-      "teaser": "Pakistańczyk Asif Merchant został skazany przez sąd federalny w Brooklynie na 27 i pół roku więzienia za próbę zamachu na Donalda Trumpa i amerykańskich urzędników. Mężczyzna miał działać na zlecenie Iranu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Beniamin Netanjahu przegrywa w Knesecie. Na czele parlamentu stanie jego przeciwnik",
-      "url": "https://www.rp.pl/polityka/art45505311-beniamin-netanjahu-przegrywa-w-knesecie-na-czele-parlamentu-stanie-jego-przeciwnik",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T05:31+01:00",
-      "teaser": "Matan Kahana, sojusznik lidera izraelskiej opozycji Gadiego Eisenkota, został przewodniczącym Knesetu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "\"I po co ci to było, Mateusz?\". Ogromny sukces Ukraińców [NA POCZĄTEK DNIA]",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33137508,i-po-co-ci-to-bylo-mateusz-ogromny-sukces-ukraincow-na.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-18T04:30+00:00",
-      "teaser": "Dla tych, którzy we wtorek 17 listopada nie mieli czasu śledzić wiadomości, przygotowaliśmy skróconą wersję najważniejszych informacji"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "USA: Ostatni sukces demokratów w wyborach do Senatu. Wygrali na Alasce",
-      "url": "https://www.rp.pl/polityka/art45505351-usa-ostatni-sukces-demokratow-w-wyborach-do-senatu-wygrali-na-alasce",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T04:54+01:00",
-      "teaser": "Demokratka Mary Peltola zdobyła mandat senatora z Alaski, pokonując urzędującego senatora z tego stanu, republikanina Dana Sullivana. Oznacza to, że od 1 stycznia opozycyjna wobec Donalda Trumpa Partia Demokratyczna będzie miała w Senacie 56 głosów, a republikanie - 44."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 5,
-    "score": 9.9,
+    "score": 9.99,
     "items": [
-     {
-      "title": "Ex-Nvidia CEO Jensen Huang sagt vor US-Senat aus",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/ex-nvidia-ceo-jensen-huang-sagt-vor-us-senat-aus-a-0256fbdb-f7c3-4c6d-876f-097e3557807c#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-17T16:54+01:00",
-      "teaser": "Der Skandal um den zurückgetretenen Nvidia-Chef hat ein Nachspiel im US-Kongress. Jensen Huang hat zugestimmt, der Vorladung durch den Senat zu folgen und vor mehreren Ausschüssen auszusagen."
-     },
      {
       "title": "Chipkonzern: Nvidia: Jensen Huang kommt nicht zurück",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nach-ruecktritt-nvidia-gruender-huang-erwaegt-rueckkehr-auf-ceo-posten-201692517.html",
       "source": "FAZ",
       "date": "2026-11-18T01:00+00:00",
       "teaser": "Der ehemalige Vorstandschef bringt sich für ein Comeback ins Gespräch, aber Nvidia lehnt das unmissverständlich ab. Derweil legt der Chipkonzern abermals glänzende Geschäftsergebnisse vor."
+     },
+     {
+      "title": "Nvidia: Ex-CEO Jensen Huang ist bereit, zu Chiphersteller zurückzukehren",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-ex-ceo-jensen-huang-ist-bereit-zu-chiphersteller-zurueckzukehren-a-bc20dd25-f830-42e0-a404-de9743ecaf95#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-17T17:52+01:00",
+      "teaser": "Es wäre ihm »eine Ehre« zurückzukommen: Nvidia-CEO Jensen Huang sieht sich offenbar bald wieder an der Spitze des Chipherstellers. Der Konzern zeigt bisher aber kein Interesse."
      },
      {
       "title": "Chipkonzern: Nvidia lehnt Rückkehr von Jensen Huang an die Konzernspitze ab",
@@ -652,7 +659,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.64,
+    "score": 5.94,
     "items": [
      {
       "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
@@ -669,57 +676,17 @@
       "teaser": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return."
      },
      {
-      "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
-      "url": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+      "title": "FirstFT: Nvidia insists Jensen Huang will not return as CEO",
+      "url": "https://www.ft.com/content/c9edda0a-b10b-4dd6-b598-1cdf98e4337b?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-18T00:45+00:00",
-      "teaser": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter"
+      "date": "2026-11-18T05:31+00:00",
+      "teaser": "Also in today’s newsletter: KPMG’s AI-based audit and French retirement age"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.65,
-    "items": [
-     {
-      "title": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-18T01:59+01:00",
-      "teaser": "Wenige Tage nach der Spionageaffäre rund um den bisherigen Konzernchef Huang hat Nvidia überraschend starke Quartalsergebnisse vorgelegt. Die Zahlen des US-Chipkonzerns lagen deutlich über den Erwartungen von Analysten."
-     },
-     {
-      "title": "Chip-Konzern: Nvidia verdoppelt erneut Umsatz und Gewinn – keine Pläne für Rückkehr Huangs",
-      "url": "https://www.handelsblatt.com/technik/it-internet/chip-konzern-nvidia-verdoppelt-erneut-umsatz-und-gewinn-keine-plaene-fuer-rueckkehr-huangs/100268998.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-17T22:57+00:00",
-      "teaser": "Investoren müssen sich nach dem Abgang Huangs an neue Gesichter bei den Bilanzkonferenzen gewöhnen. Im vergangenen Quartal lief das Geschäft noch auf Hochtouren."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.36,
-    "items": [
-     {
-      "title": "Christian Sewing: Wie sich der Deutsche-Bank-Chef an die Spitze kämpfte",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-wie-sich-der-deutsche-bank-chef-an-die-spitze-kaempfte-a-89df9ba3-c6d1-4ebf-b75d-b353e5066448#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-17T22:24+01:00",
-      "teaser": "Das Datenleck bei der Deutschen Bank enthüllt, wie sich Konzernchef Christian Sewing an die Spitze kämpfte. Aus einem Mann, der einst streng auf das Einhalten von Regeln achtete, ist ein Manager geworden, den Vorschriften nerven."
-     },
-     {
-      "title": "Deutsche Bank: Aufsichtsrat stellt sich hinter Deutsche-Bank-CEO Christian Sewing",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/deutsche-bank-christian-sewing-alexander-wynaendts-vorwuerfe-gxe",
-      "source": "Zeit",
-      "date": "2026-11-17T12:06+00:00",
-      "teaser": "Der Datenleak bei der Deutschen Bank scheint Aufsichtsratschef Alexander Wynaendts nicht zu beunruhigen. Die Bank werde »profitabel und mit wirksamen Kontrollen« geführt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.98,
+    "score": 3.98,
     "items": [
      {
       "title": "Jeffrey Epstein: Interne Unterlagen belasten Deutsche Bank mit weiteren Zahlungen",
@@ -739,7 +706,67 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.63,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "Nvidia-Skandal: „Business as Usual“ ohne den Visionär",
+      "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/jensen-huang-scheitert-mit-comeback-nvidia-setzt-auf-colette-kress-201692999.html",
+      "source": "FAZ",
+      "date": "2026-11-18T05:17+00:00",
+      "teaser": "Nvidia lehnt eine Rückkehr von Jensen Huang ab und verbreitet die Botschaft, dass es auch ohne ihn geht. Der Mythos von Huangs Unersetzbarkeit bröckelt."
+     },
+     {
+      "title": "Nvidia’s big business in Singapore",
+      "url": "https://www.ft.com/content/fd1e1939-8a5c-47ac-bb38-47d147f8bc7a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-18T05:00+00:00",
+      "teaser": "The chipmaker booked $104bn of revenue through its subsidiary in the city-state last year"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.57,
+    "items": [
+     {
+      "title": "Neue Quartalszahlen: Nvidia verdoppelt Umsatz und Gewinn",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-quartalsergebnisse-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-18T01:59+01:00",
+      "teaser": "Wenige Tage nach der Spionageaffäre rund um den bisherigen Konzernchef Huang hat Nvidia überraschend starke Quartalsergebnisse vorgelegt. Die Zahlen des US-Chipkonzerns lagen deutlich über den Erwartungen von Analysten."
+     },
+     {
+      "title": "Chip-Konzern: Nvidia verdoppelt erneut Umsatz und Gewinn: keine Pläne für Rückkehr Huangs",
+      "url": "https://www.handelsblatt.com/technik/it-internet/chips-nvidia-verdoppelt-erneut-umsatz-und-gewinn-keine-rueckkehr-huangs/100268998.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-17T22:57+00:00",
+      "teaser": "Investoren müssen sich nach dem Abgang Huangs an neue Gesichter bei den Bilanzkonferenzen gewöhnen. Im vergangenen Quartal lief das Geschäft noch auf Hochtouren."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.27,
+    "items": [
+     {
+      "title": "Christian Sewing: Wie sich der Deutsche-Bank-Chef an die Spitze kämpfte",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/christian-sewing-wie-sich-der-deutsche-bank-chef-an-die-spitze-kaempfte-a-89df9ba3-c6d1-4ebf-b75d-b353e5066448#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-17T22:24+01:00",
+      "teaser": "Das Datenleck bei der Deutschen Bank enthüllt, wie sich Konzernchef Christian Sewing an die Spitze kämpfte. Aus einem Mann, der einst streng auf das Einhalten von Regeln achtete, ist ein Manager geworden, den Vorschriften nerven."
+     },
+     {
+      "title": "Deutsche Bank: Aufsichtsrat stellt sich hinter Deutsche-Bank-CEO Christian Sewing",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/deutsche-bank-christian-sewing-alexander-wynaendts-vorwuerfe-gxe",
+      "source": "Zeit",
+      "date": "2026-11-17T12:06+00:00",
+      "teaser": "Der Datenleak bei der Deutschen Bank scheint Aufsichtsratschef Alexander Wynaendts nicht zu beunruhigen. Die Bank werde »profitabel und mit wirksamen Kontrollen« geführt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.54,
     "items": [
      {
       "title": "EU-Kommission verdoppelt Prognose für Deutschland",
@@ -759,79 +786,66 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "Michael Sen: »Man muss den Willen haben, etwas bewirken zu wollen«",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/michael-zen-mut-neuanfang-unternehmen-ceo-podcast",
-      "source": "Zeit",
-      "date": "2026-11-18T05:00+00:00",
-      "teaser": "Michael Sen ist seit 2022 CEO von Fresenius. Im Podcast mit Rainer Esser erzählt er, wie er den Mut schöpft, unpopuläre Entscheidungen zu treffen."
+      "title": "Stromsteuer-Streit: Verhandlungen bis tief in die Nacht – um diese Optionen zur Finanzierung ringen Union und SPD",
+      "url": "https://www.handelsblatt.com/politik/deutschland/haushalt-showdown-im-streit-um-die-senkung-der-stromsteuer/100270456.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-18T05:56+00:00",
+      "teaser": "Kanzler Merz hatte eine Einigung bei der Senkung der Stromsteuer verkündet, das Finanzministerium widersprach. Dann verhandelte der Koalitionsausschuss bis tief in die Nacht."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "Japan Attempts to Revive U.S. Steel",
-      "url": "https://www.nytimes.com/2026/11/18/business/us-steel-nippon-takeover-japan.html",
-      "source": "New York Times",
-      "date": "2026-11-18T05:00+00:00",
-      "teaser": "After its fraught takeover of steel maker U.S. Steel, a Japanese manufacturer is attempting to revitalize the American company’s facilities, including its oldest mill outside Pittsburgh."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Target is set to report earnings before the bell. Here's what to expect",
-      "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-      "source": "CNBC",
-      "date": "2026-11-18T05:01+00:00",
-      "teaser": "Target is expected to offer more color on the progress of its turnaround and a preview of the holiday season as it reports fiscal third-quarter earnings."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Democrats win Alaska Senate seat to complete midterms victory",
-      "url": "https://www.ft.com/content/dc73d4ce-0139-4a72-9b2a-ab9803a84240?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-18T04:59+00:00",
-      "teaser": "Mary Peltola’s success in northernmost US state raises party’s tally to 56 in 100-member chamber"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Altersvorsorgedepot: Soll ich jetzt meinen Riester-Vertrag kündigen?",
-      "url": "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-soll-ich-jetzt-meinen-riester-vertrag-kuendigen-a-5178c210-896f-4410-a229-e6dfd4a9bd09#ref=rss",
+      "title": "Deutsche Bank und Jho Low: Welche Rolle spielte das Geldhaus beim 1MDB-Skandal?",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-und-jho-low-welche-rolle-spielte-das-geldhaus-beim-1mdb-skandal-a-c61f0d0e-199f-4504-b33f-1914b9e6898c#ref=rss",
       "source": "Spiegel",
-      "date": "2026-11-18T05:30+01:00",
-      "teaser": "Mehr Geld vom Staat fürs eigene ETF-Depot: Ab Januar sollen neue Produkte die verhasste Riester-Rente ablösen. Finanzexperte Moritz Czygan erklärt, was Anleger jetzt tun sollten."
+      "date": "2026-11-18T07:00+01:00",
+      "teaser": "Es ging um Partys, Popstars und einen geprellten Staatsfonds: Der 1MDB-Finanzskandal zählt zu den größten der Geschichte, Drahtzieher Jho Low ist bis heute auf der Flucht. Interne Unterlagen enthüllen die brisante Rolle der Deutschen Bank."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.98,
     "items": [
      {
-      "title": "Bis zu 540 Euro vom Staat – so finden Sie jetzt das richtige Produkt für Ihr Altersvorsorgedepot",
-      "url": "https://www.spiegel.de/wirtschaft/service/bis-zu-540-euro-vom-staat-so-finden-sie-jetzt-das-richtige-produkt-fuer-ihr-altersvorsorgedepot-a-fc174926-6559-4746-a9b5-7c13c0fa1a90#ref=rss",
+      "title": "Aldi: Wie die Deutsche Bank dem milliardenschweren Aldi-Clan die Steuern kleinrechnete",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/aldi-wie-die-deutsche-bank-dem-milliardenschweren-aldi-clan-die-steuern-kleinrechnete-a-f913f562-d1e7-480b-8957-063d3dad3f52#ref=rss",
       "source": "Spiegel",
-      "date": "2026-11-18T05:30+01:00",
-      "teaser": "Zum 1. Januar löst das Altersvorsorgedepot die Riester-Rente ab. Hier erfahren Sie, wie viel staatliche Zulage Ihnen wirklich zusteht und auf wie viel Geld Sie bis zur Rente kommen können."
+      "date": "2026-11-18T07:00+01:00",
+      "teaser": "Die Deutsche Bank hat einst einen Trick entwickelt, mit dem die Aldi-Familie nur auf fünf Prozent ihrer Gewinne Steuern zahlen sollte. Interne Unterlagen zeigen: Am Ende schritt das Finanzamt ein – und für die Familie wurde es teuer."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Machine Equity: Open AI greift nun auch nach Googles Branchenbuch",
+      "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/openai-greift-mit-chatgpt-business-hub-googles-unternehmensprofile-an-accg-201688325.html",
+      "source": "FAZ",
+      "date": "2026-11-18T05:50+00:00",
+      "teaser": "Jetzt können Unternehmen ihren Eintrag in ChatGPT sichern, pflegen und auswerten. Das klingt nach einem Branchenverzeichnis. Es verändert aber die Grundlage, auf der Kunden ihre Anbieter finden. Für Google rührt das an das Kerngeschäft."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Aus der Praxis: Der klassische Vertrieb ist tot – jetzt verhandeln Agenten",
+      "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ki-agenten-im-vertrieb-wer-die-regeln-setzt-gewinnt-die-auftraege-accg-201688115.html",
+      "source": "FAZ",
+      "date": "2026-11-18T05:50+00:00",
+      "teaser": "Der Vertrieb der deutschen Industrie lebt vom Handschlag. Aber: Bald sitzen auf beiden Seiten des Verhandlungstisches Maschinen. Wer jetzt die Regeln für diese Agenten setzt, entscheidet, wer künftig Aufträge bekommt. Deutschland hat dafür bessere Karten, als es glaubt."
      }
     ]
    }
@@ -839,7 +853,21 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.49,
+    "score": 7.91,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Belletti: \"He estudiado mucho psicoanálisis\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252247/belletti-he-estudiado-psicoanalisis.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-18T06:05+01:00",
+      "teaser": "Juliano Belletti (Cascavel, Brasil, 1976) se convirtió en una leyenda azulgrana como futbolista y, desde hace tres años, se forma como entrenador en los banquillos de La Masia. En su segundo curso al frente del Barça Atlètic, tiene al filial líder. El técnico se sentó con MD para charlar sobre su cr"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.4,
     "favorite": true,
     "items": [
      {
@@ -853,7 +881,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.4399999999999995,
+    "score": 7.35,
     "favorite": true,
     "items": [
      {
@@ -866,22 +894,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.4,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Sin sustos finales con los últimos internacionales del Barça",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004252319/sustos-finales-ultimos-internacionales-barca.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-17T22:53+01:00",
-      "teaser": "Hansi Flick puede respirar tranquilo con los últimos internacionales que tenían que jugar este martes. Joao Cancelo , Marc Bernal y Hamza Abdelkarim regresarán a Barcelona sin ningún problema físico y estarán disponibles para el técnico alemán en estas semanas clave que le vienen al Barça."
-     }
-    ]
-   },
-   {
     "sourceCount": 4,
-    "score": 6.32,
+    "score": 6.23,
     "items": [
      {
       "title": "5:0 gegen Niederlande: Das Feuer des Klopp-Fußballs",
@@ -908,7 +922,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "Torlieferant Haaland: \"Es ist großartig, Norweger zu sein\"",
+      "url": "https://www.kicker.de/torlieferant-haaland-es-ist-grossartig-norweger-zu-sein-1272497/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-17T23:01+00:00",
+      "teaser": "Als letzte Nation löste Norwegen das Ticket fürs Nations-League-Viertelfinale - pure Dramatik inklusive. Dementsprechend losgelöst fielen die Freudenstimmen aus. Allen voran von Erling Haaland."
+     },
+     {
+      "title": "Fußball-Liveblog: „Es macht Spaß, Norweger zu sein“: Haaland krönt Thriller",
+      "url": "https://www.faz.net/aktuell/sport/fussball/liveticker-nationalmannschaft-norwegen-siegt-dank-erling-haaland-in-daenemark-faz-201651368.html",
+      "source": "FAZ",
+      "date": "2026-11-18T05:29+00:00",
+      "teaser": "Verfolgen Sie die Fußball-Nationalmannschaft von Jürgen Klopp und Spiele der UEFA Nations League ▷ Alle aktuellen Ergebnisse im Liveblog!"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.47,
     "items": [
      {
       "title": "Nations League roundup: Devenny’s divine strike lifts Northern Ireland to top tier",
@@ -928,14 +962,14 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.49,
+    "score": 3.4,
     "items": [
      {
-      "title": "Premieren-Treffer: Carlos Forbs schießt Portugal im Regen von Cardiff zum 3:2-Sieg",
-      "url": "https://www.kicker.de/wales-gegen-portugal-2026-uefa-nations-league-5193300/spielbericht#omrss",
-      "source": "kicker",
-      "date": "2026-11-17T22:00+00:00",
-      "teaser": "Portugal hat sich als Gruppensieger für das Viertelfinale der Nations League qualifiziert. Am Dienstagabend gewann die Selecao ein äußerst kompliziertes Spiel in Cardiff nach zwischenzeitlichem Rückstand mit 3:2 - trotz eines Platzverweises."
+      "title": "Portugal’s new No 7 Forbs channels Ronaldo for winner as Wales are denied",
+      "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report",
+      "source": "The Guardian",
+      "date": "2026-11-17T22:14+00:00",
+      "teaser": "One way or another, Portugal’s No 7 shirt has caused quite the commotion in recent weeks and months, if not years. Perhaps it was inevitable, then, that the first win of the post-Cristiano Ronaldo era would come courtesy of the player wearing the updated jersey, one with a cross through the number t"
      },
      {
       "title": "Forbs schießt Portugal zum ersten Sieg der Nach-Ronaldo-Ära",
@@ -948,7 +982,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.4,
+    "score": 3.31,
     "items": [
      {
       "title": "DFB-Elf im Viertelfinale: So geht es in der Nations League weiter",
@@ -968,7 +1002,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.04,
+    "score": 2.95,
     "items": [
      {
       "title": "Peter Storey, Arsenal Double winner and England international, dies aged 81",
@@ -988,7 +1022,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.01,
+    "score": 2.92,
     "items": [
      {
       "title": "‘I’m entering to win’: Philippe Diallo launches campaign to topple Gianni Infantino",
@@ -1008,7 +1042,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.01,
+    "score": 2.92,
     "items": [
      {
       "title": "Wayne Rooney says he contemplated taking own life during playing career",
@@ -1028,7 +1062,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.23,
+    "score": 2.14,
     "items": [
      {
       "title": "Deutschland schlägt Niederlande 5:0: So funktioniert die Methode von Jürgen Klopp",
@@ -1045,25 +1079,12 @@
       "teaser": "Deutschland schießt sich zum Gruppensieg, Jürgen Klopp ist endgültig der Messias und für Hertha-Fans war all das nichts Neues. Ein bisschen euphorisch: das Netz."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.54,
-    "items": [
-     {
-      "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-17T23:37+00:00",
-      "teaser": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight."
-     }
-    ]
    }
   ],
   "Tech & KI": [
    {
-    "sourceCount": 2,
-    "score": 3.68,
+    "sourceCount": 5,
+    "score": 9.99,
     "items": [
      {
       "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
@@ -1073,57 +1094,24 @@
       "teaser": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or taking questions on t"
      },
      {
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-18T01:18+00:00",
-      "teaser": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.56,
-    "items": [
-     {
-      "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-      "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
+      "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
+      "url": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
       "source": "New York Times",
-      "date": "2026-11-17T02:15+00:00",
-      "teaser": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress."
+      "date": "2026-11-17T23:48+00:00",
+      "teaser": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence."
      },
      {
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-      "source": "Ars Technica",
-      "date": "2026-11-17T20:32+00:00",
-      "teaser": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes."
+      "title": "Nvidia: Fast 116 Milliarden US-Dollar Umsatz, Jensen Huang will zurückkommen",
+      "url": "https://www.heise.de/news/Nvidia-Fast-116-Milliarden-US-Dollar-Umsatz-Jensen-Huang-will-zurueckkommen-11528649.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-18T07:00+01:00",
+      "teaser": "Nach turbulenten Tagen hat Nvidias neue Führung imposante Geschäftszahlen vorgelegt – und Jensen Huang sich in die Debatte über seine Zukunft eingeschaltet."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.43,
-    "items": [
-     {
-      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
-      "source": "Wired",
-      "date": "2026-11-17T22:19+00:00",
-      "teaser": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO."
-     },
-     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-17T02:37+00:00",
-      "teaser": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.91,
+    "score": 2.82,
     "items": [
      {
       "title": "Harvard-Studie: 400 Rechenzentren verbrauchen so viel Strom wie ganze US-Bundesstaaten",
@@ -1143,20 +1131,85 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "Security flaw found in Java, world's third-largest programming language",
-      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-18T05:03+00:00",
-      "teaser": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes."
+      "title": "Birdfy Discount Codes: 15% Off Sitewide",
+      "url": "https://www.wired.com/story/birdfy-discount-code/",
+      "source": "Wired",
+      "date": "2026-11-18T06:00+00:00",
+      "teaser": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Columbia Promo Codes: 15% Off | November 2026",
+      "url": "https://www.wired.com/story/columbia-promo-code/",
+      "source": "Wired",
+      "date": "2026-11-18T06:00+00:00",
+      "teaser": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-18T05:33+00:00",
+      "teaser": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "GTA 6 braucht 200 GB: So rüstest du deine Konsole jetzt auf",
+      "url": "https://t3n.de/news/gta-6-speicher-erweitern-ps5-xbox-tipps-1771054/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-18T06:25+01:00",
+      "teaser": "Der interne Speicher ist begrenzt. Für das langersehnte Kultspiel kann es deshalb schnell eng werden. Hier erfährst du, welche externen Speichermöglichkeiten es für deine Xbox und Playstation gibt. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-18T05:10+00:00",
+      "teaser": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "Lichtjahre entfernt: So spricht die NASA mit der Voyager 1",
+      "url": "https://t3n.de/news/voyager-1-nasa-kommunikation-interstellar-1771736/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-18T06:00+01:00",
+      "teaser": "Bald steht für die Voyager 1 ein wichtiges Ereignis an. Die Sonde wird in Kürze einen Meilenstein erreichen, den zuvor kein menschengemachtes Objekt erreicht hat. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
@@ -1169,7 +1222,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.74,
     "items": [
      {
       "title": "Waymo pulls driverless taxis from all US freeways",
@@ -1182,7 +1235,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.62,
+    "score": 1.59,
+    "items": [
+     {
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-18T01:18+00:00",
+      "teaser": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.53,
     "items": [
      {
       "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
@@ -1190,58 +1256,6 @@
       "source": "Wired",
       "date": "2026-11-18T00:32+00:00",
       "teaser": "US Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through the massive gaming platform."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.61,
-    "items": [
-     {
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "source": "Ars Technica",
-      "date": "2026-11-18T00:27+00:00",
-      "teaser": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.57,
-    "items": [
-     {
-      "title": "Europe plans to catch the next computer chip wave",
-      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-18T00:00+00:00",
-      "teaser": "Europe hopes to be a leader in a new generation of computer chips which use light to process data."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.55,
-    "items": [
-     {
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "source": "The Verge",
-      "date": "2026-11-17T18:41-05:00",
-      "teaser": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.54,
-    "items": [
-     {
-      "title": "Review: Nubia Redmagic 12 Pro | Camera",
-      "url": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
-      "source": "Wired",
-      "date": "2026-11-17T23:34+00:00",
-      "teaser": "Review: Nubia Redmagic 12 Pro | Camera"
      }
     ]
    }
@@ -1312,13 +1326,13 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Welt & Politik",
    "source": "NPR (Politik)",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Welt & Politik",
@@ -1576,7 +1590,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "topic": "Tech & KI",
