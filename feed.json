@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-18T20:04:52+00:00",
+ "fetchedAt": "2026-11-18T20:59:39+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 8,
-    "score": 15.79,
+    "score": 15.71,
     "items": [
      {
       "title": "Democrats nominate Jeffries to be first black US House speaker",
@@ -30,8 +30,8 @@
     ]
    },
    {
-    "sourceCount": 6,
-    "score": 11.95,
+    "sourceCount": 7,
+    "score": 13.94,
     "items": [
      {
       "title": "What it took for Ukraine to hit Putin’s prized Crimean Bridge",
@@ -58,7 +58,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.85,
+    "score": 7.77,
     "items": [
      {
       "title": "Donald Trump, Xi Jinping und Wladimir Putin treffen sich in China: Kevin Rudd warnt vor Krieg um Taiwan",
@@ -85,34 +85,61 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.95,
+    "score": 5.97,
     "items": [
      {
-      "title": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
-      "url": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-18T19:11+01:00",
-      "teaser": "Trotz Vorbehalten einiger Progressiver haben die US-Demokraten ihren Fraktionschef Jeffries für den Vorsitz des US-Repräsentantenhauses nominiert. Als solcher könnte er auch Untersuchungen gegen die Trump-Regierung vorantreiben."
+      "title": "Islam projected to surpass Christianity as world’s largest religion by 2035",
+      "url": "https://www.scmp.com/news/world/article/3374959/islam-projected-surpass-christianity-worlds-largest-religion-2035",
+      "source": "South China Morning Post",
+      "date": "2026-11-18T16:01+00:00",
+      "teaser": "Islam is expected to surpass Christianity as the world’s largest religion by 2035, according to detailed projections released on Wednesday by the Pew Research Centre. Pew, which has been issuing authoritative reports on religious demography for 25 years, said both Islam and Christianity were growing"
      },
      {
-      "title": "US-Repräsentantenhaus: Jeffries soll erster schwarzer Chef des Repräsentantenhauses werden",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/us-repraesentantenhaus-speaker-hakeem-jeffries-demokraten-schwarzer",
-      "source": "Zeit",
-      "date": "2026-11-18T19:32+00:00",
-      "teaser": "Die US-Demokraten haben ihren Fraktionschef Hakeem Jeffries als Vorsitzenden des Unterhauses nominiert. Im linken Parteiflügel gibt es allerdings Vorbehalte gegen ihn."
+      "title": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
+      "url": "https://www.pbs.org/newshour/world/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion",
+      "source": "PBS NewsHour",
+      "date": "2026-11-18T15:25-05:00",
+      "teaser": "Islam is expected to surpass Christianity as the world's largest religion by 2035, according to detailed projections released Wednesday by the Pew Research Center."
      },
      {
-      "title": "USA unter Trump: Demokraten nominieren Hakeem Jeffries als Chef des US-Repräsentantenhauses",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-nominieren-hakeem-jeffries-als-chef-des-us-repraesentantenhauses-faz-19444916.html",
-      "source": "FAZ",
-      "date": "2026-11-18T17:12+00:00",
-      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
+      "title": "Muslims projected to overtake Christians as world’s largest religious group",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-18T20:21+00:00",
+      "teaser": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.83,
+    "score": 5.96,
+    "items": [
+     {
+      "title": "US and Venezuela sign deal to re-establish military ties during Hegseth visit",
+      "url": "https://www.scmp.com/news/world/americas/article/3374965/us-and-venezuela-sign-deal-re-establish-military-ties-during-hegseth-visit",
+      "source": "South China Morning Post",
+      "date": "2026-11-18T19:01+00:00",
+      "teaser": "The United States and Venezuela have signed a deal to re-establish military ties, from training to intelligence sharing, US Defence Secretary Pete Hegseth said Wednesday on a visit with the South American nation’s interim leaders. Hegseth said that following the January capture of Venezuelan Preside"
+     },
+     {
+      "title": "U.S., Venezuela sign deal to re-establish military ties: Hegseth",
+      "url": "https://www.thehindu.com/news/international/us-venezuela-sign-deal-to-re-establish-military-ties-hegseth/article71717506.ece",
+      "source": "The Hindu",
+      "date": "2026-11-19T02:03+05:30",
+      "teaser": "The U.S. Defence Secretary said that following the January capture of Nicolas Maduro by the U.S. military, the country “has gone from our most aggressive regional threat to a compliant security partner”"
+     },
+     {
+      "title": "Hegseth announces U.S. and Venezuela deal to reestablish military ties, during visit to Caracas",
+      "url": "https://www.pbs.org/newshour/world/hegseth-meets-with-venezuelan-interim-leaders-in-latest-trump-cabinet-visit-since-maduros-ouster",
+      "source": "PBS NewsHour",
+      "date": "2026-11-18T13:11-05:00",
+      "teaser": "Secretary Pete Hegseth's visit comes at a time of uncertainty for Venezuelans regarding who will lead the nation in the coming months and years."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.75,
     "items": [
      {
       "title": "Neuer EU-Kredit für Ukraine: \"Wir sind entschlossener denn je\"",
@@ -138,35 +165,28 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.37,
+    "sourceCount": 2,
+    "score": 3.94,
     "items": [
      {
-      "title": "US-Midterms: Demokraten gewinnen auch Senatssitz in Alaska",
-      "url": "https://www.tagesschau.de/ausland/amerika/midterms-usa-alaska-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-18T07:56+01:00",
-      "teaser": "Alaska stand noch aus, nun ist klar: Auch dort haben die Demokraten den Senatssitz gewonnen. Damit konnten sie bei den Midterms neun zusätzliche Sitze erobern - was es seit Jahrzehnten nicht mehr gab. Senatorin wird die Indigene Mary Peltola."
+      "title": "Israel begins new military operation in Gaza",
+      "url": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
+      "source": "France 24",
+      "date": "2026-11-18T16:12+00:00",
+      "teaser": "Israeli tanks advanced in an area of the central Gaza Strip on Wednesday, witnesses said, and the Israeli military said its ​forces were targeting ‌Hamas infrastructure outside the \"Yellow Line\" that sets the boundary of the part of the enclave controlled by Israel \"The IDF launched a precise operat"
      },
      {
-      "title": "US-Senat: Mary Peltola gewinnt für Demokraten in Alaska",
-      "url": "https://www.dw.com/de/us-senat-mary-peltola-gewinnt-für-demokraten-in-alaska/a-79979852?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-18T11:22+00:00",
-      "teaser": "Historische Überraschung bei der US-Wahl: Im traditionell republikanischen Bundesstaat Alaska gewinnt die Demokratin Mary Peltola den letzten offenen Senatssitz – als erste indigene US-Senatorin des Landes."
-     },
-     {
-      "title": "How Mary Peltola Triumphed in Alaska’s Senate Race",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-18T12:28+00:00",
-      "teaser": "Beleaguered by high fuel costs and wary of overfishing, Alaskans were drawn to the Democrat’s hyperlocal pitch."
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-18T20:14+00:00",
+      "teaser": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.89,
     "items": [
      {
       "title": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
@@ -186,7 +206,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.88,
+    "items": [
+     {
+      "title": "Demokraten nominieren Jeffries als Chef des US-Repräsentantenhauses",
+      "url": "https://www.tagesschau.de/ausland/amerika/jeffries-nominiert-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-18T19:11+01:00",
+      "teaser": "Trotz Vorbehalten einiger Progressiver haben die US-Demokraten ihren Fraktionschef Jeffries für den Vorsitz des US-Repräsentantenhauses nominiert. Als solcher könnte er auch Untersuchungen gegen die Trump-Regierung vorantreiben."
+     },
+     {
+      "title": "US-Repräsentantenhaus: Jeffries soll erster schwarzer Chef des Repräsentantenhauses werden",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/us-repraesentantenhaus-speaker-hakeem-jeffries-demokraten-schwarzer",
+      "source": "Zeit",
+      "date": "2026-11-18T19:32+00:00",
+      "teaser": "Die US-Demokraten haben ihren Fraktionschef Hakeem Jeffries als Vorsitzenden des Unterhauses nominiert. Im linken Parteiflügel gibt es allerdings Vorbehalte gegen ihn."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.88,
     "items": [
      {
       "title": "Voyager 1 is now a light-day from Earth. Here's what to know about NASA's longest-running mission",
@@ -206,47 +246,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
-    "items": [
-     {
-      "title": "Ukraine strikes Russian bridge in occupied Luhansk Oblast, damages 3 military aircraft, General Staff says",
-      "url": "https://kyivindependent.com/ukraine-strikes-russian-bridge-in-occupied-luhansk-oblast-damages-3-military-aircraft-general-staff-says/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-18T15:20+00:00",
-      "teaser": "Russian forces used the bridge near Stanytsia Luhanska to transport ammunition, fuel, and equipment to the front, according to the General Staff."
-     },
-     {
-      "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-18T19:31+00:00",
-      "teaser": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "Israel begins new military operation in Gaza",
-      "url": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
-      "source": "France 24",
-      "date": "2026-11-18T16:12+00:00",
-      "teaser": "Israeli tanks advanced in an area of the central Gaza Strip on Wednesday, witnesses said, and the Israeli military said its ​forces were targeting ‌Hamas infrastructure outside the \"Yellow Line\" that sets the boundary of the part of the enclave controlled by Israel \"The IDF launched a precise operat"
-     },
-     {
-      "title": "Israeli forces launch new military operation in central Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-18T18:12+00:00",
-      "teaser": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.81,
+    "score": 3.73,
     "items": [
      {
       "title": "A tarmac hug with Xi and a handshake with Putin, how Trump began his China visit",
@@ -266,21 +266,21 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.81,
+    "score": 3.71,
     "items": [
      {
-      "title": "Trump's Board of Peace faults Israel, Hamas for failure to end Gaza war",
-      "url": "https://www.thehindu.com/news/international/trumps-board-of-peace-faults-israel-hamas-for-failure-to-end-gaza-war/article71717231.ece",
-      "source": "The Hindu",
-      "date": "2026-11-18T22:51+05:30",
-      "teaser": "While the ceasefire has halted major fighting, the wider plan, which calls for Hamas ⁠to disarm, Israeli troops to withdraw and reconstruction to begin, has effectively stalled since soon after it came into effect last year"
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-18T17:34+00:00",
+      "teaser": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype."
      },
      {
-      "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-      "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-18T17:45+00:00",
-      "teaser": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue."
+      "title": "'Grand Theft Auto VI' arrives with enormous hype and expectations after 13-year wait",
+      "url": "https://www.pbs.org/newshour/arts/grand-theft-auto-vi-arrives-with-enormous-hype-and-expectations-after-13-year-wait",
+      "source": "PBS NewsHour",
+      "date": "2026-11-18T12:13-05:00",
+      "teaser": "After a 13-year wait, one of entertainment's biggest releases is finally here."
      }
     ]
    }
@@ -288,7 +288,7 @@
   "Deutschland": [
    {
     "sourceCount": 1,
-    "score": 7.79,
+    "score": 7.71,
     "favorite": true,
     "items": [
      {
@@ -302,7 +302,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.66,
     "items": [
      {
       "title": "News des Tages: Merz verlässt genervt Koalitionsausschuss, Trump, Xi und Putin beim Asiengipfel, Alois Rainers Heimatreport",
@@ -322,7 +322,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.64,
+    "score": 3.56,
     "items": [
      {
       "title": "Sachsen-Anhalt: AfD und BSW: Wie nah ist zu nah?",
@@ -342,7 +342,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.5,
+    "score": 3.43,
     "items": [
      {
       "title": "Uno: Was Svenja Schulze als mögliche Unicef-Chefin plant",
@@ -362,7 +362,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.22,
+    "score": 3.15,
     "items": [
      {
       "title": "Stromsteuer: CDU, CSU und SPD einigen sich auf Senkung",
@@ -382,7 +382,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.2,
+    "score": 3.13,
     "items": [
      {
       "title": "Bundesverfassungsgericht: BSW scheitert mit Wahlbeschwerde",
@@ -402,7 +402,59 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Überschwemmungen in Miami vor GTA 6",
+      "url": "https://www.zdfheute.de/video/ueberschwemmungen-in-miami-vor-gta-6-video-100.html",
+      "source": "ZDF",
+      "date": "2026-11-18T21:41+01:00",
+      "teaser": "In den USA haben Überschwemmungen Teile der Ostküste Floridas getroffen. Autobahnen, Wohngebiete und Parkplätze von Einkaufszentren wurden geschwemmt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Hegseth in Südamerika: USA schließen Militärabkommen mit Venezuela",
+      "url": "https://www.sueddeutsche.de/politik/hegseth-in-suedamerika-usa-schliessen-militaerabkommen-mit-venezuela-li.3582766",
+      "source": "Süddeutsche",
+      "date": "2026-11-18T20:32+00:00",
+      "teaser": ""
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Landeskriminalamt fordert Aufklärung von CDU Sachsen-Anhalt",
+      "url": "https://www.zdfheute.de/politik/deutschland/cdu-sachsen-anhalt-wahl-landtagspraesident-lka-100.html",
+      "source": "ZDF",
+      "date": "2026-11-18T21:20+01:00",
+      "teaser": "Gab es Nötigung innerhalb der CDU-Fraktion Sachsen-Anhalt im Zuge der Landtagspräsidentenwahl und der Suche nach den vier Abweichlern? Jetzt prüft das Landeskriminalamt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-18T21:18+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Haben Augenärzte Hunderte Millionen zu viel kassiert?",
@@ -415,7 +467,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "„Ziemlich dumm“: Pistorius hat mit seiner undiplomatischen Replik recht",
@@ -425,17 +477,110 @@
       "teaser": "Die US-Kritik an den ukrainischen Angriffen auf Ziele in Russland ist grundlos. Sie verringert die ohnehin minimalen Aussichten auf erfolgreiche Verhandlungen."
      }
     ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Umiejętności ważniejsze niż dyplom",
+      "url": "https://www.rp.pl/praca/art45511191-umiejetnosci-wazniejsze-niz-dyplom",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T21:59+01:00",
+      "teaser": "Na rynku pracy coraz bardziej liczy się to, co kandydat rzeczywiście potrafi, a nie liczba lat spędzonych na uczelni. Firmy inwestują miliony w rozwój kadr, bo coraz trudniej znaleźć specjalistów z odpowiednimi kompetencjami."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Za tydzień w Warszawie konferencja „Nauka. Rozwój. Biznes”. Wśród gości minister nauki",
+      "url": "https://www.rp.pl/wydarzenia-gospodarcze/art45511181-za-tydzien-w-warszawie-konferencja-nauka-rozwoj-biznes-wsrod-gosci-minister-nauki",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T21:55+01:00",
+      "teaser": "Jakie ma być nowe źródło wzrostu polskiej gospodarki, gdy wyczerpują się dotychczasowe przewagi konkurencyjne? O tym będzie mowa podczas sesji inauguracyjnej konferencji „Nauka. Rozwój. Biznes”, która rozpocznie się 25 listopada w Warszawie. W wydarzeniu weźmie udział m.in. dr Marcin Kulasek, minist"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Wyzwania dla branży na Forum Rynku Spożywczego i Handlu",
+      "url": "https://www.rp.pl/wydarzenia-gospodarcze/art45511171-wyzwania-dla-branzy-na-forum-rynku-spozywczego-i-handlu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T21:53+01:00",
+      "teaser": "23 i 24 listopada w Warszawie spotkają się liderzy największych firm spożywczych i handlowych, przedstawiciele administracji publicznej oraz eksperci rynku."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Wielkie premiery i najlepsze seriale",
+      "url": "https://www.rp.pl/film/art45511161-wielkie-premiery-i-najlepsze-seriale",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T21:49+01:00",
+      "teaser": "Od 25 do 29 listopada Kinoteka w Pałacu Kultury i Nauki w Warszawie stanie się centrum serialowego świata."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Rozmowy w sprawie Trybunału Konstytucyjnego. Bogucki: Jesteśmy zgodni w ok. 70 proc.",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33139910,rozmowy-w-sprawie-trybunalu-konstytucyjnego-bogucki-jestesmy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-18T20:43+00:00",
+      "teaser": "Po drugim spotkaniu w Kancelarii Prezydenta, które było poświęcone sporowi wokół TK, Zbigniew Bogucki poinformował, że najdalej idący projekt PSL został uzupełniony o propozycje innych ugrupowań. Zastrzegł jednak, że nie może zagwarantować \"pełnego sukcesu\" w sprawie."
+     }
+    ]
    },
    {
     "sourceCount": 1,
     "score": 1.95,
     "items": [
      {
-      "title": "Extreme Dürre, hohe Belastung: Immer mehr Landwirte suchen im Hitze-Jahr Hilfe bei Krisenhotline",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/hitze-jahr-sorgt-fuer-ansturm-bei-krisenhotline-100.html",
-      "source": "SWR",
-      "date": "2026-11-18T20:27+01:00",
-      "teaser": "Dürre und Ernteausfälle haben bei vielen Landwirten existenzielle Sorgen ausgelöst. Laut der zuständigen Sozialversicherung haben mehr Bauern als sonst bei einer Krisenhotline Hilfe gesucht."
+      "title": "Marine Le Pen i Jean-Luc Melenchon w drugiej turze? Co trzeci Francuz zostałby w domu",
+      "url": "https://www.rp.pl/polityka/art45511031-marine-le-pen-i-jean-luc-melenchon-w-drugiej-turze-co-trzeci-francuz-zostalby-w-domu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T21:27+01:00",
+      "teaser": "Jeśli w drugiej turze wyborów prezydenckich we Francji zmierzyliby się Marine Le Pen i Jean-Luc Melenchon, aż 38 proc. wyborców nie poszłoby do urn – wynika z najnowszego sondażu Ifop. To najwyższy odsetek absencji spośród trzech badanych scenariuszy."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Kraków chce zawieszenia partnerstwa z Lwowem. W tle decyzja o UPA",
+      "url": "https://www.rp.pl/polityka/art45511081-krakow-chce-zawieszenia-partnerstwa-z-lwowem-w-tle-decyzja-o-upa",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-18T21:25+01:00",
+      "teaser": "Łukasz Gibała podtrzymał wniosek o zawieszenie partnerstwa Krakowa ze Lwowem. Jak poinformował na X, mer ukraińskiego miasta Andrij Sadowy nie odpowiedział na jego pismo dotyczące upamiętnienia UPA i Romana Szuchewycza."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Weto Nawrockiego do ustawy wdrażającej DSA. Polacy ocenili je w sondażu",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33139897,weto-nawrockiego-do-ustawy-wdrazajacej-dsa-polacy-ocenili-je.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-18T20:27+00:00",
+      "teaser": "43,96 proc. Polaków negatywnie oceniło weto Karola Nawrockiego wobec ustawy wdrażającej unijny Akt o usługach cyfrowych (DSA) - wynika z sondażu SW Research dla Onetu. 30,06 proc. badanych stanowili zwolennicy tej decyzji."
      }
     ]
    },
@@ -444,45 +589,17 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Fehde in der AfD: AfD-Politiker Esser akzeptiert Strafbefehl über 9.000 Euro",
-      "url": "https://www.faz.net/aktuell/politik/inland/afd-mann-klaus-esser-akzeptiert-strafbefehl-wegen-gefaelschter-abschluesse-201696117.html",
-      "source": "FAZ",
-      "date": "2026-11-18T19:15+00:00",
-      "teaser": "Falscher Titel, gefälschtes Zeugnis: Der Abgeordnete Klaus Esser nimmt eine Geldstrafe an. Sein Fall spaltet die Partei – und beschäftigt auch den Bundesvorstand."
+      "title": "Święczkowski zapowiada \"TK na uchodźstwie\". \"Nikt nie może mnie ścigać\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33139898,swieczkowski-zapowiada-tk-na-uchodzstwie-nikt-nie-moze-mnie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-18T20:10+00:00",
+      "teaser": "Bogdan Święczkowski stwierdził, że decyzje, które sędziowie podjęli podczas posiedzenia w Trybunale Konstytucyjnym, nie będą miały skutków prawnych. - Nie obawiam się przesłuchania przez prokuraturę, nie obawiam się sądów. Nigdy nie popełniłem przestępstwa - podkreślił."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Stromsteuersenkung und Spitpreisdeckel: \"Wer mehr verdient, hat einen noch höheren Nutzen\"",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stromsteuersenkung-sozialverband-vdk-zu-einigung-von-cdu-csu-spd-wer-profitiert-100.html",
-      "source": "SWR",
-      "date": "2026-11-18T20:15+01:00",
-      "teaser": "Sascha Wittenberg vom Sozialverband VdK begrüßt die Stromsteuersenkung im SWR-Interview grundsätzlich, sagt aber auch: Eine gezielte soziale Maßnahme sieht anders aus."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Frauke Brosius-Gersdorf im SPIEGEL-Talk: »Herr Spahn und ich sind aus den gleichen Gründen gescheitert«",
-      "url": "https://www.spiegel.de/politik/deutschland/frauke-brosius-gersdorf-im-spiegel-talk-herr-spahn-und-ich-sind-aus-den-gleichen-gruenden-gescheitert-a-2cfc1644-77b7-4a52-836b-5e3e811ba8aa#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-18T20:07+01:00",
-      "teaser": "Sie wollte Verfassungsrichterin werden und wurde Ziel einer Kampagne: Hier spricht Frauke Brosius-Gersdorf über Entschuldigungen aus der Union, Hürden für ein AfD-Verbot und die Vergesellschaftung großer Wohnungskonzerne."
-     }
-    ]
-   }
-  ],
-  "Polen": [
-   {
-    "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.91,
     "items": [
      {
       "title": "Szpitale chcą zamknąć 18 porodówek w kraju. Złożyły wnioski do NFZ",
@@ -495,7 +612,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.91,
     "items": [
      {
       "title": "Rosyjskie rafinerie utraciły połowę mocy. Limit tankowania do 50 litrów na auto",
@@ -508,7 +625,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
       "title": "ULC podpisał umowy z Bahamami i Panamą. „Podstawa do uruchomienia połączeń z Polską”",
@@ -518,129 +635,12 @@
       "teaser": "Prezes Urzędu Urząd Lotnictwa Cywilnego podpisał umowy o komunikacji lotniczej z Bahamami i Panamą, które dają podstawy prawne do uruchomienia regularnych przewozów między Polską a obydwoma państwami – podał ULC w środę na swoim profilu na platformie X."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Ewa Szadkowska: Neosędziowie z SN podważyli wyroki TK, które jeszcze nie zapadły",
-      "url": "https://www.rp.pl/komentarze/art45510941-ewa-szadkowska-neosedziowie-z-sn-podwazyli-wyroki-tk-ktore-jeszcze-nie-zapadly",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T20:40+01:00",
-      "teaser": "Sąd Najwyższy, odpowiadając w środę w uchwale na pytanie, którego nikt mu nie zadał, w praktyce wysadził w powietrze przyszłe orzeczenia „odbitego” właśnie Trybunału."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Waldemar Żurek o orzeczeniu trzech Izb SN: neosędziowie podjęli nibyuchwałę",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art45510801-waldemar-zurek-o-orzeczeniu-trzech-izb-sn-neosedziowie-podjeli-nibyuchwale",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T20:15+01:00",
-      "teaser": "„Zgromadzenie neosędziów nie może swoją nibyuchwałą uzdrowić wadliwych rozstrzygnięć dublerów z TK ani podważać statusu prawidłowo wybranych sędziów Trybunału” - napisał na X minister sprawiedliwości Waldemar Żurek. To jego komentarz po tym, jak SN uznał, że orzeczeniem TK jest rozstrzygnięcie wydan"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Szef MON potwierdza doniesienia „Rz”. Polskie służby udaremniły rosyjską prowokację",
-      "url": "https://www.rp.pl/polityka/art45510781-szef-mon-potwierdza-doniesienia-rz-polskie-sluzby-udaremnily-rosyjska-prowokacje",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T20:12+01:00",
-      "teaser": "Władysław Kosiniak-Kamysz potwierdził doniesienia „Rzeczpospolitej” o tajnej operacji polskich służb przy granicy z obwodem królewieckim. Jak przekazał szef MON, służby wiedziały o planowanej rosyjskiej prowokacji i odpowiednio zareagowały."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Menopauza podstawą zwolnienia lekarskiego. Hiszpania jako pierwsza w UE zmienia prawo",
-      "url": "https://www.rp.pl/spoleczenstwo/art45510721-menopauza-podstawa-zwolnienia-lekarskiego-hiszpania-jako-pierwsza-w-ue-zmienia-prawo",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T19:47+01:00",
-      "teaser": "Hiszpanki już od 1 grudnia będą mogły korzystać ze specjalnego zwolnienia lekarskiego w związku z zaburzeniami zdrowia towarzyszącymi menopauzie. To pierwsze takie rozwiązanie w Europie"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Hołownia chce być ambasadorem w Watykanie. \"Żadnego zapewnienia ze strony prezydenta\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33139809,holownia-chce-byc-ambasadorem-w-watykanie-zadnego-zapewnienia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-18T18:35+00:00",
-      "teaser": "Wicemarszałek Sejmu kandyduje na stanowisko dyplomaty w czasie sporu o nominacje ambasadorskie. Dodatkowo przedstawiciel prezydenta miał wstrzymać się podczas głosowania nad jego kandydaturą na Konwencie Służby Zagranicznej."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Żurek o uchwale TK ws. Święczkowskiego: Szanuję decyzję legalnych sędziów i trybunałów",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33139835,zurek-o-uchwale-tk-ws-swieczkowskiego-szanuje-decyzje-legalnych.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-18T18:24+00:00",
-      "teaser": "Zgromadzenie Ogólne Sędziów Trybunału Konstytucyjnego wyraziło zgodę na pociągnięcie Bogdana Święczkowskiego do odpowiedzialności karnej. \"Zobaczymy, czy Pan Święczkowski będzie współpracował z prokuraturą\" - przekazał minister sprawiedliwości Waldemar Żurek."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Izrael rozpoczął nową operację. Czołgi wjechały na ulice, Palestyńczycy uciekają",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33139572,izrael-rozpoczal-nowa-operacje-czolgi-wjechaly-na-ulice-palestynczycy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-18T18:02+00:00",
-      "teaser": "Izraelskie siły zbrojne rozpoczęły nową operację w środkowej części Strefy Gazy, używając między innymi czołgów. Armia tłumaczy, że chce \"wyeliminować zagrożenie\" dla żołnierzy działających w rejonie tzw. Żółtej Linii. Według świadków to pierwsza ofensywa lądowa poza obszarem kontrolowanym przez Izr"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.82,
-    "items": [
-     {
-      "title": "Nowe zarzuty w sprawie Zondacrypto. Prokuratura chce aresztu dla trzech osób",
-      "url": "https://www.rp.pl/przestepczosc/art45510111-nowe-zarzuty-w-sprawie-zondacrypto-prokuratura-chce-aresztu-dla-trzech-osob",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T18:53+01:00",
-      "teaser": "Trzy osoby związane z giełdą Zondacrypto usłyszały zarzuty udziału w zorganizowanej grupie przestępczej oraz oszustwa na szkodę klientów. Prokuratura wystąpiła do sądu o zastosowanie wobec podejrzanych tymczasowego aresztowania."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Miażdżąca przewaga DHL wymusiła konsolidację kurierów na rynku niemieckim",
-      "url": "https://logistyka.rp.pl/firmy/art45510101-miazdzaca-przewaga-dhl-wymusila-konsolidacje-kurierow-na-rynku-niemieckim",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-18T18:37+01:00",
-      "teaser": "Dwaj mniejsi gracze rynku kurierskiego łączą się w Niemczech, branża spodziewa się podobnych ruchów, wymuszonych także przez rosnące wymagania platform e-handlu."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.81,
     "items": [
      {
       "title": "Jeff Bezos Says He Helped Pick Robert Pattinson as the New James Bond",
@@ -660,47 +660,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.82,
-    "items": [
-     {
-      "title": "Streit mit der IG Metall: Amtsgericht erlässt Strafbefehl gegen Werkleiter von Tesla",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gruenheide-amtsgericht-erlaesst-strafbefehl-gegen-tesla-werkleiter-201696191.html",
-      "source": "FAZ",
-      "date": "2026-11-18T17:54+00:00",
-      "teaser": "André Thierig, der das Tesla-Werk in Grünheide leitet, wird üble Nachrede vorgeworfen. Nach einer Betriebsratssitzung im Februar war ein Streit mit der Gewerkschaft eskaliert. Gegen den Strafbefehl wurde Einspruch eingelegt."
-     },
-     {
-      "title": "Tesla: Amtsgericht erlässt Strafbefehl gegen Leiter der Gigafabrik in Grünheide",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/tesla-gericht-erlaesst-strafbefehl-gegen-leiter-der-gigafabrik-in-gruenheide/100270988.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-18T16:21+00:00",
-      "teaser": "Ein Gewerkschafter habe eine Betriebsratssitzung heimlich aufgenommen, behauptete Teslas Werksleiter André Thierig. Beweise gab es nicht. Nun soll er eine Geldstrafe zahlen – und wehrt sich."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.76,
-    "items": [
-     {
-      "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
-      "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-      "source": "The Guardian",
-      "date": "2026-11-18T10:14+00:00",
-      "teaser": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy Energy bills in Great Britain forecast to rise by 26% to £2,166 from January Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fall"
-     },
-     {
-      "title": "UK inflation rose to one-year high of 3.6% in October",
-      "url": "https://www.ft.com/content/829844ba-849f-4d9c-a667-d65d2786ad2c?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-18T17:12+00:00",
-      "teaser": "Figure underscores pressure on Bank of England to raise interest rates further"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.65,
+    "score": 3.58,
     "items": [
      {
       "title": "Paketdienste: „Eines der breitesten Angebote im deutschen Paketmarkt“: DPD und GLS schließen sich zusammen",
@@ -720,7 +680,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.83,
+    "score": 2.76,
     "items": [
      {
       "title": "Jensen Huang kann sich Rückkehr an Nvidia-Spitze vorstellen",
@@ -743,50 +703,24 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Fed Saw a Need to Continue Raising Rates, Despite Holding Steady in October",
-      "url": "https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html",
-      "source": "New York Times",
-      "date": "2026-11-18T19:56+00:00",
-      "teaser": "Minutes from the Federal Reserve’s most recent gathering underscored that taming inflation remained officials’ top priority."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
-      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
-      "source": "New York Times",
-      "date": "2026-11-18T19:51+00:00",
-      "teaser": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
       "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
       "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
       "source": "New York Times",
-      "date": "2026-11-18T19:51+00:00",
+      "date": "2026-11-18T20:49+00:00",
       "teaser": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
     "items": [
      {
-      "title": "In Brandenburg: Höchstes Windrad der Welt soll offiziell ans Netz gehen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/hoechstes-windrad-der-welt-gicon-turm-in-brandenburg-geht-ans-netz-201696305.html",
-      "source": "FAZ",
-      "date": "2026-11-18T19:39+00:00",
-      "teaser": "Doppelter Ertrag ist laut einem Fachmann nicht der einzige Vorteil des Riesen-Windrads. Am Donnerstag soll es in Betrieb gehen."
+      "title": "UK plans to resist EU request to match tariffs on Chinese goods",
+      "url": "https://www.ft.com/content/6b278daf-6fdf-4951-af8a-227f25c4e0b7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-18T20:53+00:00",
+      "teaser": "Move reduces chance Britain will be able to access subsidies and contracts under ‘Made in Europe’ rules"
      }
     ]
    },
@@ -795,11 +729,24 @@
     "score": 1.97,
     "items": [
      {
-      "title": "US tech stocks oscillate after Nvidia results",
-      "url": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
+      "title": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
+      "url": "https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html",
+      "source": "New York Times",
+      "date": "2026-11-18T20:35+00:00",
+      "teaser": "Minutes from the Federal Reserve’s most recent gathering underscored that taming inflation remained officials’ top priority."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
+      "url": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-18T19:44+00:00",
-      "teaser": "Chip group raises forecast and new chief says ‘it’s business as usual’ after news of Huang’s affairs triggered sell-off"
+      "date": "2026-11-18T20:40+00:00",
+      "teaser": "Colette Kress addresses ‘all-hands’ meeting as departed founder Jensen Huang manoeuvres for a return"
      }
     ]
    },
@@ -808,11 +755,11 @@
     "score": 1.96,
     "items": [
      {
-      "title": "im Feierabendverkehr: Störung am Nürnberger Hauptbahnhof behoben",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/stoerung-am-nuernberger-hauptbahnhof-behoben-201696186.html",
-      "source": "FAZ",
-      "date": "2026-11-18T19:32+00:00",
-      "teaser": "Am Nürnberger Hauptbahnhof herrscht zeitweise Stillstand. Auch der Fernverkehr ist betroffen. Dann gibt die Bahn Entwarnung."
+      "title": "US-Börsen: Nvidia-Aktie dreht ins Minus – Anthropic-IPO erwartet",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-aktie-dreht-ins-minus-anthropic-ipo-erwartet/100270966.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-18T20:31+00:00",
+      "teaser": "Anlegerinnen und Anleger reagieren zufrieden auf die aktuellen Quartalsdaten des Chipherstellers. Der nächste Test für die KI-Stimmung am Markt steht schon am Abend bevor."
      }
     ]
    },
@@ -821,11 +768,50 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Deutsche Bahn: Wann kommt die »Trendwende zum Besseren« bei den Kunden an?",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-wann-kommt-die-trendwende-zum-besseren-bei-den-kunden-an-a-06c7fa85-555f-4b39-a367-bf7517b63324#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-18T20:21+01:00",
-      "teaser": "Über eine neue Finanzierungsvereinbarung pumpt der Bund Rekordsummen ins Schienennetz der Bahn. Dafür soll der Konzern künftig konkrete Fortschritte vorweisen – sonst drohen Strafen."
+      "title": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback",
+      "url": "https://www.ft.com/content/1fcbc6ea-1be3-44d2-b564-8ebf91181639?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-18T20:15+00:00",
+      "teaser": "The 25-year-old AI trader has held talks about employing leverage again and raising funds after wipeout nearly toppled firm"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Watch: David Ellison on Elon Musk’s Investment in Skydance",
+      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/david-ellison-elon-musk-skydance-investment.html",
+      "source": "New York Times",
+      "date": "2026-11-18T20:11+00:00",
+      "teaser": "The C.E.O. of the media giant confirmed that the SpaceX founder had invested in the company formed by the $110 billion merger with Warner Bros. Discovery."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Systemausfälle in den USA: „Wir sind vollständig von Softwaresystemen abhängig, die kaum noch jemand versteht“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nsa-microsoft-apple-wie-schlimm-steht-es-um-amerikas-digitale-infrastruktur-201695022.html",
+      "source": "FAZ",
+      "date": "2026-11-18T20:01+00:00",
+      "teaser": "Microsoft, Apple, die Flughäfen und nun der Geheimdienst NSA: Amerikas digitale Infrastruktur erlebt eine Serie schwerer Störungen. Was bedeutet das? Und wird durch KI alles noch schlimmer?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Watch: Canada’s Prime Minister on Negotiating With President Trump",
+      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/carney-canada-trade-deal-trump.html",
+      "source": "New York Times",
+      "date": "2026-11-18T20:04+00:00",
+      "teaser": "He “listens a lot more in private” said Mark Carney in an interview at the DealBook Summit. But ultimately it’s “about a deal or not.”"
      }
     ]
    }
@@ -833,7 +819,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.95,
+    "score": 7.88,
     "favorite": true,
     "items": [
      {
@@ -847,7 +833,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.9399999999999995,
+    "score": 7.86,
     "favorite": true,
     "items": [
      {
@@ -861,7 +847,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.89,
+    "score": 7.8100000000000005,
     "favorite": true,
     "items": [
      {
@@ -869,13 +855,33 @@
       "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252707/deco.html",
       "source": "Mundo Deportivo (Barça)",
       "date": "2026-11-18T19:44+01:00",
-      "teaser": "Andreson Luís de Souza 'Deco', director deportivo del FC Barcelona , y Bojan Krkic , cooordinador del área deportiva azulgrana, valoraron la situación de la plantilla azulgrana después de los tres primeros meses de temporada en una entrevista al programa 'Tot Costa' de Catalunya Ràdio y dejaron la p"
+      "teaser": "Anderson Luís de Souza 'Deco', director deportivo del FC Barcelona , y Bojan Krkic , cooordinador del área deportiva azulgrana, valoraron la situación de la plantilla azulgrana después de los tres primeros meses de temporada en una entrevista al programa 'Tot Costa' de Catalunya Ràdio y dejaron la p"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "‘An honour’: Pochettino up for challenge of leading Manchester United revival",
+      "url": "https://www.theguardian.com/football/2026/nov/18/mauricio-pochettino-arrives-manchester-united-head-coach-premier-league",
+      "source": "The Guardian",
+      "date": "2026-11-18T19:58+00:00",
+      "teaser": "New head coach faces tough opening match at Anfield ‘It’s a big challenge but at the same time it’s adrenaline’ Mauricio Pochettino said it was “an honour” and “a privilege” to be the new Manchester United head coach after arriving in England on Wednesday. Pochettino flew from Cincinnati to Manchest"
+     },
+     {
+      "title": "Manchester won't always be blue - Pochettino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-18T08:42+00:00",
+      "teaser": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.89,
     "items": [
      {
       "title": "FC Bayern München: Vincent Kompany kehrt gegen FC Köln an die Seitenlinie zurück",
@@ -895,7 +901,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.85,
     "items": [
      {
       "title": "Comeback gegen Köln: Kompany sitzt wieder auf der Bayern-Bank",
@@ -915,7 +921,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.6,
+    "score": 3.85,
+    "items": [
+     {
+      "title": "Leicester part ways with BC Game after sponsor’s partnership with porn actor",
+      "url": "https://www.theguardian.com/football/2026/nov/18/leicester-city-bc-game-porn-star-eva-elfie-sponsorship",
+      "source": "The Guardian",
+      "date": "2026-11-18T19:01+00:00",
+      "teaser": "Cryptocurrency casino made Eva Elfie a brand ambassador Club end deal early citing ‘differing commercial priorities’ Leicester City have ditched their front-of-shirt sponsor, BC Game, after the cryptocurrency casino’s partnership with a porn actor sparked a fan backlash. BC Game, an offshore company"
+     },
+     {
+      "title": "Leicester split with sponsor after porn actress row",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gnx28zp5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-18T19:10+00:00",
+      "teaser": "A fans group had complained after BC Game appointed a porn actress as a brand ambassador."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.53,
     "items": [
      {
       "title": "Urteil von OLG Hamm: Streaming-Anbieter DAZN muss Preiserhöhung zurückzahlen",
@@ -934,54 +960,47 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.6,
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
-      "title": "Football Daily | From Cincinnati to Manchester: Pochettino in a hurry to paint town red",
-      "url": "https://www.theguardian.com/football/2026/nov/18/cincinnati-manchester-united-pochettino-football-daily-newsletter",
-      "source": "The Guardian",
-      "date": "2026-11-18T15:16+00:00",
-      "teaser": "Sign up now! Sign up now! Sign up now? Sign up now! With his team mired in the relegation zone and a massive match at Liverpool this weekend, Mauricio Pochettino has been understandably busy since being appointed head coach of Manchester United. Unfortunately for Old Trafford regulars, the small pri"
-     },
-     {
-      "title": "Manchester won't always be blue - Pochettino",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+      "title": "FA explored legal challenge to Infantino staying on",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-18T08:42+00:00",
-      "teaser": "New Manchester United boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city."
+      "date": "2026-11-18T20:55+00:00",
+      "teaser": "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
     "items": [
      {
       "title": "Chelsea v Paris Saint-Germain: Women’s Champions League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/18/chelsea-v-paris-saint-germain-psg-womens-champions-league-live-score-updates",
       "source": "The Guardian",
-      "date": "2026-11-18T19:53+00:00",
+      "date": "2026-11-18T20:55+00:00",
       "teaser": "Champions League updates from the 8pm GMT kick-off Live scores | Read Moving the Goalposts | Email Sarah I always like to hear from you so get in touch via email, I usually put a call out for snack chat. Let me know what you’re digging into during the game, I myself have some salted popcorn. The ear"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Krawietz/Pütz vorzeitig im Halbfinale",
       "url": "https://www.sportschau.de/tennis/krawietz-puetz-vorzeitig-im-halbfinale,atp-finals-krawietz-puetz-granollers-zeballos-100.html",
       "source": "Sportschau (alle Sportarten)",
       "date": "2026-11-18T20:34+01:00",
-      "teaser": "Das deutsche Top-Doppel Tim Pütz und Kevin Krawietz können nach einer Leistungssteigerung einen Sieg gegen Marcel Granollers und Horacio Zeballos feiern."
+      "teaser": "Das deutsche Top-Doppel Tim Pütz und Kevin Krawietz kann nach einer Leistungssteigerung einen Sieg gegen Marcel Granollers und Horacio Zeballos feiern."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Deco se 'moja' sobre la lesión de De Jong",
@@ -991,38 +1010,12 @@
       "teaser": "Deco habló claro en Catalunya Ràdio sobre la situación generada con Frenkie de Jong el pasado verano, cuando jugó en el Mundial con P aíses Bajos con un fuerte apósito en su rodilla derecha dado que estaba lesionado. Posteriormente se supo que tenía una rotura del ligamento lateral interno de la que"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Mit Verteidiger-Hybrid: Dortmunds neue Flexibilität ganz hinten",
-      "url": "https://www.kicker.de/mit-verteidiger-hybrid-dortmunds-neue-flexibilitaet-ganz-hinten-1272538/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-18T18:58+00:00",
-      "teaser": "Drei oder vier? Borussia Dortmund hat für seine Abwehrkette inzwischen alle Optionen und wechselte zuletzt zwischen den beiden Grundordnungen. Das bringt Vorteile."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Leicester part ways with BC Game after sponsor’s partnership with porn actor",
-      "url": "https://www.theguardian.com/football/2026/nov/18/leicester-city-bc-game-porn-star-eva-elfie-sponsorship",
-      "source": "The Guardian",
-      "date": "2026-11-18T19:01+00:00",
-      "teaser": "Cryptocurrency casino made Eva Elfie a brand ambassador Club end deal early citing ‘differing commercial priorities’ Leicester City have ditched their front-of-shirt sponsor, BC Game, after the cryptocurrency casino’s partnership with a porn actor sparked a fan backlash. BC Game, an offshore company"
-     }
-    ]
    }
   ],
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 4.83,
+    "score": 4.76,
     "items": [
      {
       "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
@@ -1049,7 +1042,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Windows Server 2028: Öffentliche Vorschau verfügbar",
+      "url": "https://www.heise.de/news/Windows-Server-2028-Oeffentliche-Vorschau-verfuegbar-11528845.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-18T11:01+01:00",
+      "teaser": "Microsoft arbeitet am Windows Server 2028 und hat nun eine Vorschauversion herausgegeben. Es geht um mehr Sicherheit – und KI."
+     },
+     {
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "source": "Ars Technica",
+      "date": "2026-11-18T20:41+00:00",
+      "teaser": "Hardened defaults align with DoD standards, but there may be growing pains."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.86,
     "items": [
      {
       "title": "The best early Black Friday deals you can already shop",
@@ -1069,7 +1082,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.79,
     "items": [
      {
       "title": "The US Lost Its Measles Elimination Status. It’ll Take Years to Get It Back",
@@ -1092,6 +1105,32 @@
     "score": 1.99,
     "items": [
      {
+      "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+      "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+      "source": "New York Times",
+      "date": "2026-11-18T20:49+00:00",
+      "teaser": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Millionen Webserver gefährdet: NGINX-Lücke erlaubt Codeausführung ohne Anmeldung",
+      "url": "https://www.golem.de/news/millionen-webserver-gefaehrdet-nginx-luecke-erlaubt-codeausfuehrung-ohne-anmeldung-2611-215378.html",
+      "source": "Golem",
+      "date": "2026-11-18T21:35+01:00",
+      "teaser": "Zwei NGINX-Lücken könnten bei aktivem HTTP/2 Codeausführung auf Webservern ermöglichen. Die Patches sollten schnell eingespielt werden. ( Nginx , Server )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
       "title": "Australia’s Plan to Manage Neil the Unruly Seal Involves ‘Hazing’ and ‘Seal Enrichment’",
       "url": "https://www.wired.com/story/australia-neil-the-seal-management-plan/",
       "source": "Wired",
@@ -1102,7 +1141,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.91,
     "items": [
      {
       "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
@@ -1115,20 +1154,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
-      "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
-      "source": "New York Times",
-      "date": "2026-11-18T19:51+00:00",
-      "teaser": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.89,
     "items": [
      {
       "title": "Trump’s latest land grab is an AI hub in the Philippines",
@@ -1141,20 +1167,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "The ‘GTA 6’ Work Blackout Is Here",
-      "url": "https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
-      "source": "Wired",
-      "date": "2026-11-18T19:34+00:00",
-      "teaser": "From taking sick days and vacation days to gaming at the office, many are going all out to embrace the franchise’s long-awaited release."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.88,
     "items": [
      {
       "title": "Best Buy sells Blu-rays online and in-store again",
@@ -1167,7 +1180,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.88,
     "items": [
      {
       "title": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
@@ -1180,7 +1193,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.88,
     "items": [
      {
       "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
@@ -1188,19 +1201,6 @@
       "source": "The Verge",
       "date": "2026-11-18T14:30-05:00",
       "teaser": "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions. It’s currently discounted by $1,100 at various retailers, including Amazon, Be"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Instagram now lets you edit your stories after you post them",
-      "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
-      "source": "The Verge",
-      "date": "2026-11-18T14:29-05:00",
-      "teaser": "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri has announced. Reverse engineer Alessandro Paluzzi first spo"
      }
     ]
    }
