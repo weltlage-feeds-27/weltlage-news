@@ -1,37 +1,10 @@
 {
- "fetchedAt": "2026-11-19T17:13:38+00:00",
+ "fetchedAt": "2026-11-19T18:00:23+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 7,
-    "score": 13.98,
-    "items": [
-     {
-      "title": "Trump, Xi, Putin summit: What was it all about?",
-      "url": "https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about",
-      "source": "France 24",
-      "date": "2026-11-19T15:12+00:00",
-      "teaser": "Donald Trump has left China after a historic first meeting with Xi Jinping and Vladimir Putin on the sidelines of the APEC summit. Ukraine was discussed without Kyiv or European leaders in the room, which raised eyebrows, though Trump defended dialogue with rivals and Putin said the talks created co"
-     },
-     {
-      "title": "U.S., China, Russia hold historic summit in Shenzhen",
-      "url": "https://www.thehindu.com/news/international/china-russia-us-trilateral-summit-xi-putin-trump-call-for-cooperation-to-confront-global-security-challenges/article71720102.ece",
-      "source": "The Hindu",
-      "date": "2026-11-19T20:45+05:30",
-      "teaser": "The three heads of state — Xi Jinping, Vladimir Putin and Donald Trump — had an in-depth exchange of views on the current international situation and committed to maintaining strategic stability and international security"
-     },
-     {
-      "title": "Trump, Xi and Putin release joint statement after historic talks",
-      "url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348",
-      "source": "ABC Australia",
-      "date": "2026-11-19T09:36+00:00",
-      "teaser": "Prime Minister Anthony Albanese directly tells Vladimir Putin to end his war with Ukraine \"now\" ahead of a highly anticipated meeting between the Russian president, Donald Trump and Xi Jinping."
-     }
-    ]
-   },
-   {
     "sourceCount": 6,
-    "score": 11.98,
+    "score": 11.91,
     "items": [
      {
       "title": "Myanmar guilty of genocide against Rohingya, says top UN court",
@@ -48,17 +21,44 @@
       "teaser": "The top United Nations court has ruled that thousands of killings and widespread sexual violence by Myanmar's security forces against the Rohingya Muslim minority population in 2017 amounted to state-sponsored genocide."
      },
      {
-      "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
       "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
       "source": "NPR",
       "date": "2026-11-19T07:29-05:00",
-      "teaser": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during the 2017 military operations in the northern Rakhine State."
+      "teaser": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017."
      }
     ]
    },
    {
     "sourceCount": 4,
-    "score": 7.96,
+    "score": 7.97,
+    "items": [
+     {
+      "title": "Trump, Xi and Putin release joint statement after historic talks",
+      "url": "https://www.abc.net.au/news/2026-11-19/albanese-tells-putin-to-end-ukraine-war-now/107406348",
+      "source": "ABC Australia",
+      "date": "2026-11-19T09:36+00:00",
+      "teaser": "Prime Minister Anthony Albanese directly tells Vladimir Putin to end his war with Ukraine \"now\" ahead of a highly anticipated meeting between the Russian president, Donald Trump and Xi Jinping."
+     },
+     {
+      "title": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia",
+      "source": "NPR",
+      "date": "2026-11-18T06:57-05:00",
+      "teaser": "NPR's Leila Fadel speaks to Nicholas Burns, former U.S. ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia."
+     },
+     {
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-19T17:38+00:00",
+      "teaser": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
+     }
+    ]
+   },
+   {
+    "sourceCount": 4,
+    "score": 7.89,
     "items": [
      {
       "title": "Donald Trump, Wladimir Putin und Xi JIngping: Die fünf Lehren aus dem Treffen in China",
@@ -85,7 +85,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.8,
+    "score": 5.73,
     "items": [
      {
       "title": "Myanmar: Uno-Gericht stuft Vorgehen gegen Rohingya als Völkermord ein",
@@ -112,7 +112,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.54,
+    "score": 5.48,
     "items": [
      {
       "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
@@ -139,10 +139,50 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.96,
     "items": [
      {
-      "title": "Anthropic set to begin trading as a $1.5 trillion company in the biggest IPO on record",
+      "title": "Third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea",
+      "url": "https://www.thehindu.com/news/international/third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge-to-crimea/article71721511.ece",
+      "source": "The Hindu",
+      "date": "2026-11-19T22:59+05:30",
+      "teaser": "The attack came hours before the start of talks in Berlin between U.S. envoys Jared Kushner and Steve Witkoff and Ukrainian President Volodymyr Zelenskyy alongside more than 40 European leaders who are supporting Ukraine's war effort"
+     },
+     {
+      "title": "Crimea bridge attacked again, Russian governor says",
+      "url": "https://www.cbc.ca/news/world/crimea-bridge-attacked-9.7427374?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-18T19:10-05:00",
+      "teaser": "Traffic was temporarily suspended over the Crimean Bridge after ‌an attack, Sergei Aksyonov, Crimea's Russian-installed governor, said on Telegram on Thursday, adding ​that assessment of the ​damage was underway."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-19T13:07+00:00",
+      "teaser": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week."
+     },
+     {
+      "title": "'We will not negotiate' — Putin addresses Ukraine's strikes on Crimean Bridge",
+      "url": "https://kyivindependent.com/we-will-not-negotiate-putin-addresses-ukraines-strikes-on-crimean-bridge/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-19T17:23+00:00",
+      "teaser": "The remarks marked the Russian president's first public reaction to the attacks on the bridge, which he described as having sustained \"serious damage.\""
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "Anthropic begins trading as a $1.5 trillion company in the biggest IPO on record as shares spike",
       "url": "https://www.pbs.org/newshour/economy/anthropic-set-to-begin-trading-as-a-1-5-trillion-company-in-the-biggest-ipo-on-record",
       "source": "PBS NewsHour",
       "date": "2026-11-19T09:45-05:00",
@@ -159,87 +199,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
-    "items": [
-     {
-      "title": "Power plays, verbal displays, Xi-Trump-Putin talk: historic Apec summit explained",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375122/power-plays-verbal-displays-xi-trump-putin-talk-historic-apec-summit-explained",
-      "source": "South China Morning Post",
-      "date": "2026-11-19T15:13+00:00",
-      "teaser": "We have put together the top 12 stories from our coverage of the 2026 Apec summit held in Shenzhen, China. If you would like to see more of our reporting, please consider subscribing. 1. China, Russia and US: 3 presidents, 3 nuclear powers and 1 historic precedent When Chinese President Xi Jinping, "
-     },
-     {
-      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
-      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
-      "source": "New York Times",
-      "date": "2026-11-19T16:46+00:00",
-      "teaser": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.96,
-    "items": [
-     {
-      "title": "Third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea",
-      "url": "https://www.thehindu.com/news/international/third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge-to-crimea/article71721511.ece",
-      "source": "The Hindu",
-      "date": "2026-11-19T22:17+05:30",
-      "teaser": "The attack came hours before the start of talks in Berlin between U.S. envoys Jared Kushner and Steve Witkoff and Ukrainian President Volodymyr Zelenskyy alongside more than 40 European leaders who are supporting Ukraine's war effort"
-     },
-     {
-      "title": "Crimea bridge attacked again, Russian governor says",
-      "url": "https://www.cbc.ca/news/world/crimea-bridge-attacked-9.7427374?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-18T19:10-05:00",
-      "teaser": "Traffic was temporarily suspended over the Crimean Bridge after ‌an attack, Sergei Aksyonov, Crimea's Russian-installed governor, said on Telegram on Thursday, adding ​that assessment of the ​damage was underway."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.93,
-    "items": [
-     {
-      "title": "Handshakes, hugs and subtle power plays: decoding the Xi-Trump-Putin dynamic in Shenzhen",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3375112/handshakes-hugs-and-subtle-power-plays-decoding-xi-trump-putin-dynamic-shenzhen",
-      "source": "South China Morning Post",
-      "date": "2026-11-19T13:47+00:00",
-      "teaser": "After weeks of intense speculation, this year’s Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen delivered an unscripted diplomatic spectacle – where every lingering handshake, pat on the back and side-by-side stride carried as much weight as the closed-door talks. The tone was set before"
-     },
-     {
-      "title": "Dreiergipfel in Shenzhen: Einschätzungen zum Treffen von Xi, Trump und Putin",
-      "url": "https://www.spiegel.de/ausland/dreiergipfel-in-shenzhen-einschaetzungen-zum-treffen-von-xi-trump-und-putin-a-ce122610-4006-4cd4-9a1f-ccc15e4eff20#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-19T17:25+01:00",
-      "teaser": "Das Treffen der Präsidenten Chinas, Russlands und der USA war vor allem ein Schaulaufen, von dem doch einer der drei enorm profitierte. Einschätzungen von SPIEGEL-Reporter Bernhard Zand."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.89,
-    "items": [
-     {
-      "title": "Dozens missing as migrant boat capsizes off Senegal coast, NGO says",
-      "url": "https://www.cbc.ca/news/world/dozens-missing-migrant-boat-capsize-senegal-coast-9.7427784?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-19T08:19-05:00",
-      "teaser": "Dozens of people were missing on Thursday after a boat carrying migrants bound for Europe capsized off the coast of Senegal, a local non-governmental organization said, in the latest incident along the West Africa route."
-     },
-     {
-      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-19T15:52+00:00",
-      "teaser": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.89,
+    "score": 3.83,
     "items": [
      {
       "title": "ICJ ruling on Myanmar genocide: ‘Historic victory for Rohingya, landmark for international justice’",
@@ -259,7 +219,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.69,
+    "score": 3.82,
+    "items": [
+     {
+      "title": "Dozens missing as migrant boat capsizes off Senegal coast, NGO says",
+      "url": "https://www.cbc.ca/news/world/dozens-missing-migrant-boat-capsize-senegal-coast-9.7427784?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-19T08:19-05:00",
+      "teaser": "Dozens of people were missing on Thursday after a boat carrying migrants bound for Europe capsized off the coast of Senegal, a local non-governmental organization said, in the latest incident along the West Africa route."
+     },
+     {
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-19T15:52+00:00",
+      "teaser": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.63,
     "items": [
      {
       "title": "Infantino, Diallo, Tashima: Wer führt die FIFA ab 2027?",
@@ -276,32 +256,32 @@
       "teaser": "The March 2027 election will be the first time Mr Infantino faces a challenger after being re-elected without opposition in 2023."
      }
     ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.34,
+    "items": [
+     {
+      "title": "Dänisches Parlament ratifiziert Grönland-Deal mit Trump",
+      "url": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-19T11:02+01:00",
+      "teaser": "Monatelang hatte US-Präsident Trump gedroht, die USA könnten nach Grönland greifen - bis es zum Deal kam. Nun hat auch das dänische Parlament für das Abkommen gestimmt. Es kann damit in Kraft treten. Von Anna-Lou Beckmann."
+     },
+     {
+      "title": "USA unter Trump: Dänisches Parlament ratifiziert Sicherheitsabkommen mit den USA und Grönland",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-daenisches-parlament-ratifiziert-sicherheitsabkommen-mit-den-usa-und-groenland-faz-19444916.html",
+      "source": "FAZ",
+      "date": "2026-11-19T06:26+00:00",
+      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
+     }
+    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.99,
-    "items": [
-     {
-      "title": "Aktuelles zum Krieg in der Ukraine",
-      "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-      "source": "ZDF",
-      "date": "2026-11-19T18:06+01:00",
-      "teaser": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker."
-     },
-     {
-      "title": "Ukraine-Krieg: Putin kündigt Vergeltung für Angriffe auf Krim-Brücke an",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-putin-kuendigt-vergeltung-fuer-angriffe-auf-krim-bruecke-an-li.3583131",
-      "source": "Süddeutsche",
-      "date": "2026-11-19T15:11+00:00",
-      "teaser": ""
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.95,
     "items": [
      {
       "title": "Niedersachsen: SPD-Justizministerin Kathrin Wahlmann tritt zurück",
@@ -311,17 +291,17 @@
       "teaser": "Hat Kathrin Wahlmann Einfluss auf ein Verfahren gegen einen korrupten Staatsanwalt genommen? Niedersachsens Justizministerin stand zuletzt unter Druck, konnte Vorwürfe nicht entkräften. Nun legt die SPD-Politikerin ihr Amt nieder."
      },
      {
-      "title": "Deutschland Liveblog: Niedersachsens Justizministerin Kathrin Wahlmann tritt zurück",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-niedersachsens-justizministerin-kathrin-wahlmann-tritt-zurueck-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-19T16:48+00:00",
-      "teaser": "Bei der Opposition stand die SPD-Politikerin schon länger in der Kritik +++ Linken-Antrag gegen Wehrpflicht in Sachsen-Anhalt abgelehnt +++ Kaum Unterstützung für Heil aus NRW +++ alle Entwicklungen im Liveblog"
+      "title": "Niedersachsen: Justizministerin Kathrin Wahlmann tritt zurück",
+      "url": "https://www.sueddeutsche.de/politik/niedersachsen-justizministerin-kathrin-wahlmann-tritt-zurueck-li.3583341",
+      "source": "Süddeutsche",
+      "date": "2026-11-19T17:22+00:00",
+      "teaser": ""
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.92,
     "items": [
      {
       "title": "Ungleiche Bezahlung: Ex-Bürgermeisterin von Todtmoos siegt vor Bundesverwaltungsgericht",
@@ -340,35 +320,41 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.43,
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
-      "title": "KI: Bundesamt stuft Cyber-Sicherheitslage auf »angespannt bis kritisch« hoch",
-      "url": "https://www.spiegel.de/politik/deutschland/ki-bundesamt-stuft-cyber-sicherheitslage-auf-angespannt-bis-kritisch-hoch-a-9ec10551-a80c-432b-963b-d15afefac513#ref=rss",
+      "title": "Friedrich Merz lästert über Shenzhen-Treffen als »Bildtermin« – und sichert Kyjiw weitere Unterstützung zu",
+      "url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-laestert-ueber-shenzhen-treffen-als-bildtermin-und-sichert-kyjiw-weitere-unterstuetzung-zu-a-1a623a3e-8112-4d7c-b509-2c29d1453e65#ref=rss",
       "source": "Spiegel",
-      "date": "2026-11-19T10:00+01:00",
-      "teaser": "Das Bundesamt für Sicherheit in der Informationstechnik warnt vor einer »kritischen Dynamik« bei der Sicherheit im Netz. Firmen und Verbraucher in Deutschland seien viel zu sorglos: »Angegriffen wird, wer ein leichtes Ziel ist.«"
-     },
-     {
-      "title": "Tägliche Angriffe: IT-Sicherheitslage in Deutschland „angespannt bis kritisch“",
-      "url": "https://www.faz.net/aktuell/politik/inland/bsi-warnt-vor-hackerangriffen-warum-die-bedrohung-im-cyberraum-waechst-accg-201697563.html",
-      "source": "FAZ",
-      "date": "2026-11-19T10:24+00:00",
-      "teaser": "Der Einsatz von Künstlicher Intelligenz macht Deutschland noch verwundbarer. Auch Hackerangriffe auf Smarthome-Geräte werden wahrscheinlicher."
+      "date": "2026-11-19T18:56+01:00",
+      "teaser": "Deutliche Worte an Moskau, mehr Hilfe für Kyjiw: Beim Ukrainegipfel in Berlin haben 40 Länder Solidarität für das angegriffene Land demonstriert. Laut Kanzler Friedrich Merz sind die russischen Verluste enorm."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.98,
     "items": [
      {
-      "title": "Cold Case \"Renate Borst\": Freispruch für den 70-jährigen Angeklagten",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/cold-case-renate-borst-deggingen-freispruch-100.html",
+      "title": "Parlamentarisches Kontrollgremium: AfD-Politiker in Kontrollgremium für Verfassungsschutz gewählt",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/parlamentarisches-kontrollgremium-sachsen-anhalt-verfassungsschutz-afd-bsw-cdu",
+      "source": "Zeit",
+      "date": "2026-11-19T17:49+00:00",
+      "teaser": "Im Kontrollgremium des Verfassungsschutzes in Sachsen-Anhalt sind künftig zwei Abgeordnete Mitglieder der AfD. Der Landesverband gilt als gesichert rechtsextremistisch."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Volkshochschulen fürchten um Finanzierung: Es drohen höhere Kursgebühren bei kleinerem Angebot",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/vhs-kursgebuehren-koennten-steigen-100.html",
       "source": "SWR",
-      "date": "2026-11-19T18:11+01:00",
-      "teaser": "Freispruch - so hieß es am Ende für einen 70-Jährigen, der wegen Mordes angeklagt war. Am Donnerstag ging der Prozess am Landgericht Ulm zum Cold Case \"Renate Borst\" zu Ende."
+      "date": "2026-11-19T18:44+01:00",
+      "teaser": "Der Volkshochschulverband Baden-Württemberg sieht zugesagte höhere Landesmittel gefährdet. Ohne Nachbesserung drohen laut Verband höhere Gebühren und weniger Angebote."
      }
     ]
    },
@@ -377,24 +363,11 @@
     "score": 1.97,
     "items": [
      {
-      "title": "CDU-Führung: Merz holt seine Bundesminister ins Parteipräsidium",
-      "url": "https://www.faz.net/aktuell/politik/inland/merz-holt-die-bundesminister-ins-cdu-praesidium-201697403.html",
-      "source": "FAZ",
-      "date": "2026-11-19T16:49+00:00",
-      "teaser": "Die CDU-Ministerpräsidenten üben kräftig Druck auf den Kanzler aus. Alle sitzen im CDU-Präsidium. Nun sind auch die Minister im obersten Führungsgremium dabei."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "1.200 Betreuungsplätze: Kitas im Raum Karlsruhe gerettet",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/pro-liberis-lenitas-kitas-karlsruhe-gerettet-100.html",
-      "source": "SWR",
-      "date": "2026-11-19T17:51+01:00",
-      "teaser": "Es geht um 1.200 Betreuungsplätze, Kita-Träger und Insolvenzen: Jetzt haben die Gläubiger einem Plan zugestimmt, der die Kitas im Raum Karlsruhe rettet."
+      "title": "Die Kriegserklärung - VW und IG Metall auf Konfrontationskurs",
+      "url": "https://www.zdfheute.de/wirtschaft/unternehmen/vw-ig-metall-tarifstreit-35-stunden-woche-100.html",
+      "source": "ZDF",
+      "date": "2026-11-19T18:40+01:00",
+      "teaser": "Der Ton zwischen Volkswagen und Gewerkschaft verschärft sich. Der Autobauer droht den Beschäftigten mit harten Einschnitten - der Betriebsrat reagiert mit einer Kampfansage."
      }
     ]
    },
@@ -403,11 +376,24 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Werden ehrenamtliche Verkäufe bald versteuert? Für wen die neue \"Bratwurststeuer\" gilt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bratwurtssteuer-fragen-und-antworten-100.html",
-      "source": "SWR",
-      "date": "2026-11-19T17:44+01:00",
-      "teaser": "Die neue \"Bratwurststeuer\", die ab 2027 gelten soll, sorgt für Aufregung. Doch es gibt einige Ausnahmen."
+      "title": "News des Tages: Gipfel mit Xi, Putin und Trump, Ukraine-Unterstützer in Berlin, GTA 6",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-gipfel-mit-xi-putin-und-trump-ukraine-unterstuetzer-in-berlin-gta-6-a-9c7016e8-931c-4e2e-988f-9a72b168b248#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-19T18:33+01:00",
+      "teaser": "Große Inszenierung, wenig Ergebnisse: Xi, Trump und Putin zelebrieren ihren historischen Gipfel. Der Kanzler kontert mit einem Aufmarsch der Ukraineunterstützer. Und: Wie gut ist »GTA 6«? Das ist die Lage am Donnerstagabend."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "SZ am Abend: Nachrichten vom 19. November 2026",
+      "url": "https://www.sueddeutsche.de/politik/news-dreiergipfel-von-xi-trump-und-putin-un-ukraine-voelkermord-an-rohingya-galeria-insolvenz-afd-sachsen-anhalt-siegmund-unicredit-li.3583328",
+      "source": "Süddeutsche",
+      "date": "2026-11-19T17:29+00:00",
+      "teaser": "Was heute wichtig war."
      }
     ]
    },
@@ -416,50 +402,50 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Live: Nach Dreiergipfel: So reagiert Europa",
-      "url": "https://www.zdfheute.de/video/zdfheute-live/shenzhen-gipfel-reaktion-europa-100.html",
-      "source": "ZDF",
-      "date": "2026-11-19T17:35+01:00",
-      "teaser": "Als Reaktion auf das Treffen von Xi, Putin und Trump in Shenzhen empfängt Kanzler Merz Präsident Selenskyj und weitere Verbündete in Berlin. Was sind die Ergebnisse? ZDFheute live ordnet ein."
+      "title": "Impfschäden: Wer haftet für fehlerhafte Corona-Impfungen – der Bund oder die Länder?",
+      "url": "https://www.faz.net/aktuell/politik/inland/wer-haftet-fuer-fehlerhafte-corona-impfungen-der-bund-oder-die-laender-201697045.html",
+      "source": "FAZ",
+      "date": "2026-11-19T17:26+00:00",
+      "teaser": "Ein Mann verklagte den Bund wegen einer angeblich fehlerhaften Corona-Impfung in einer Arztpraxis. Doch die Bundesregierung sieht die Länder in der Pflicht."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.95,
     "items": [
      {
-      "title": "Gassens Spiel mit der Angst der Patienten",
-      "url": "https://www.zdfheute.de/politik/termine-selbstzahler-kassen-gassen-kritik-100.html",
-      "source": "ZDF",
-      "date": "2026-11-19T17:29+01:00",
-      "teaser": "Kassenpatienten warten oft lange auf Facharzttermine - außer sie zahlen selbst. Das könnte bald häufiger passieren, so Ärzte-Lobbyist Gassen. Die Kritik an ihm reißt nicht ab."
+      "title": "Deutschland Liveblog: Siegmund stellt sich früher zur Wahl als geplant",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-siegmund-stellt-sich-frueher-zur-wahl-als-geplant-faz-110093143.html",
+      "source": "FAZ",
+      "date": "2026-11-19T17:27+00:00",
+      "teaser": "AfD-Politiker will am 8. Dezember in Sondersitzung des sachsen-anhaltischen Landtags als Ministerpräsident kandidieren +++ Niedersachsens Justizministerin Kathrin Wahlmann tritt zurück +++ alle Entwicklungen im Liveblog"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.95,
     "items": [
      {
-      "title": "Glosse: Das Streiflicht",
-      "url": "https://www.sueddeutsche.de/politik/glosse-das-streiflicht-li.3582732",
+      "title": "Weniger Beamte: Warum es dem Staat so schwerfällt zu schrumpfen",
+      "url": "https://www.faz.net/aktuell/politik/inland/beispiel-hessen-warum-es-dem-staat-so-schwerfaellt-zu-schrumpfen-201655358.html",
+      "source": "FAZ",
+      "date": "2026-11-19T17:24+00:00",
+      "teaser": "Hessen hat sich eine „Schlankheitskur“ in den Verwaltungen verordnet. Im nächsten Jahr fallen trotzdem nur 47,5 Stellen weg – ein Witz, findet die Opposition."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Newsblog zu den Landtagswahlen: Siegmund kandidiert schon am 8. Dezember als Ministerpräsident",
+      "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-sachsen-anhalt-ministerpraesidentenwahl-siegmund-afd-li.3540501",
       "source": "Süddeutsche",
-      "date": "2026-11-19T16:14+00:00",
-      "teaser": "Elon Musk will uns jetzt von Robotaxis abholen lassen. Das ist einerseits praktisch. Andererseits wissen wir nicht, wem wir dann unser Herz ausschütten sollen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Podcast: „Auf den Punkt“: Xi-Putin-Trump-Gipfel: Großes Händeschütteln, nichts dahinter?",
-      "url": "https://www.sueddeutsche.de/politik/dreiergipfel-xi-jinping-wladimir-putin-donald-trump-apec-li.3582936",
-      "source": "Süddeutsche",
-      "date": "2026-11-19T16:09+00:00",
-      "teaser": "Das erste trilaterale Treffen von China, Russland und den USA wurde tagelang erwartet. Das hat es gebracht."
+      "date": "2026-11-19T17:27+00:00",
+      "teaser": "Der AfD-Politiker stellt sich damit früher als geplant im Landtag von Sachsen-Anhalt zur Wahl. Das kündigt er in einem Video an."
      }
     ]
    }
@@ -467,7 +453,124 @@
   "Polen": [
    {
     "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Prawie trzy lata oczekiwania do lekarza. Seniorzy utknęli w kolejkach",
+      "url": "https://www.rp.pl/ochrona-zdrowia/art45513441-prawie-trzy-lata-oczekiwania-do-lekarza-seniorzy-utkneli-w-kolejkach",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-19T19:00+01:00",
+      "teaser": "W grupie świadczeń o najdłuższym czasie oczekiwania w pierwszej połowie 2026 r. dominowały neurochirurgia, chirurgia naczyniowa, choroby naczyń, reumatologia oraz leczenie osteoporozy. W niektórych województwach na wizytę u lekarza specjalisty trzeba czekać po kilkaset dni."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
     "score": 1.99,
+    "items": [
+     {
+      "title": "Po co było Morawieckiemu przegrane wotum nieufności?\"Jak się nie wrzuci piłki, to nie będzie gola\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33141345,po-co-bylo-morawieckiemu-przegrane-wotum-nieufnosci-jak-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-19T17:50+00:00",
+      "teaser": "- Wiesz co nas osłabia? Jak o nas nie mówią. Dobrze wiedzieliśmy, że to nie przejdzie. Ważne, że działamy - mówi mi działacz Rozwoju Plus, gdy pytam go o sens z góry przegranego wniosku o wotum nieufności dla rządu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Piątkowski do RPP z rekomendacji Lewicy. KO szykuje swoją kandydaturę",
+      "url": "https://www.rp.pl/banki/art45517201-piatkowski-do-rpp-z-rekomendacji-lewicy-ko-szykuje-swoja-kandydature",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-19T18:43+01:00",
+      "teaser": "Potwierdzają się informacje „Rzeczpospolitej”, że kandydatem Lewicy do Rady Polityki Pieniężnej będzie dr hab. Marcin Piątkowski, profesor ALK. Zgodnie z ustaleniami money.pl, faworytką do zajęcia drugiego wakatu jest Izabela Leszczyna, posłanka KO."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "„Format jałtański nie przyniesie pokoju”. Kanclerz Niemiec po spotkaniu tzw. koalicji chętnych",
+      "url": "https://www.rp.pl/polityka/art45517221-format-jaltanski-nie-przyniesie-pokoju-kanclerz-niemiec-po-spotkaniu-tzw-koalicji-chetnych",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-19T18:38+01:00",
+      "teaser": "Moskwa wie, że jej maksymalistyczne żądania są nierealistyczne – stwierdził kanclerz Niemiec Friedrich Merz po spotkaniu tzw. koalicji chętnych. Wysłannik USA Jared Kuschner podkreślił, że Donald Trump chce zawrzeć porozumienie, mając Europę u swego boku."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Deutsche Bank w centrum wielkiego skandalu. W tle Trump i rosyjscy oligarchowie",
+      "url": "https://www.rp.pl/banki/art45505951-deutsche-bank-w-centrum-wielkiego-skandalu-w-tle-trump-i-rosyjscy-oligarchowie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-19T18:32+01:00",
+      "teaser": "Największy niemiecki bank przez lata dokonywał podejrzanych transakcji na rzecz rosyjskich oligarchów i spółek Donalda Trumpa. Robił to pomimo ostrzeżeń własnych pracowników o ryzyku prania pieniędzy. Teraz wypiera się wszystkiego."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Donald Trump o rozmowach z Putinem i Xi Jinpingiem. „Nie podejmiemy decyzji bez Ukrainy”",
+      "url": "https://www.rp.pl/polityka/art45517151-donald-trump-o-rozmowach-z-putinem-i-xi-jinpingiem-nie-podejmiemy-decyzji-bez-ukrainy",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-19T18:28+01:00",
+      "teaser": "Prezydent USA Donald Trump zapewnił, że Stany Zjednoczone nie będą podejmować decyzji dotyczących Ukrainy bez udziału władz w Kijowie. Zakończony w czwartek szczyt z przywódcami Rosji i Chin ocenił na 12 punktów w 10-stopniowej skali."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Fałszywa gala z Nawrockim wywołała spięcie. Kancelaria Prezydenta ma pretensje do ABW",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33141511,falszywa-gala-z-nawrockim-wywolala-spiecie-kancelaria-prezydenta.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-19T17:34+00:00",
+      "teaser": "\"Służby powinny zadziałać szybko i skutecznie\" - stwierdził prezydencki rzecznik Rafał Leśkiewicz, odnosząc się do fałszywej informacji o gali bokserskiej z udziałem Karola Nawrockiego. \"Sugerowanie, że ABW nie zareagowała, wprowadza opinię publiczną w błąd\" - skomentował rzecznik ministra-koordynat"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Śledztwo w sprawie Zondacrypto. Troje podejrzanych z decyzją o areszcie",
+      "url": "https://www.rp.pl/przestepczosc/art45517231-sledztwo-w-sprawie-zondacrypto-troje-podejrzanych-z-decyzja-o-areszcie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-19T18:26+01:00",
+      "teaser": "Sąd Rejonowy dla Warszawy-Mokotowa w Warszawie uwzględnił wnioski prokuratury w śledztwie dotyczącym giełdy kryptowalut Zondacrypto i zdecydował o tymczasowym aresztowaniu Aleksandry G., Eweliny W. i Jacka R."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Zaskakujące słowa Putina w Shenzhen. \"Co było nie tak z Jałtą?\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33141458,zaskakujace-slowa-putina-w-shenzhen-co-bylo-nie-tak-z-jalta.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-19T17:27+00:00",
+      "teaser": "- Jałta po prostu utrwaliła realia, które ukształtowały się po II wojnie światowej - powiedział prezydent Rosji Władimir Putin przed rozmowami z Donaldem Trumpem oraz Xi Jinpingiem w chińskim Shenzhen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Zobacz na interaktywnej mapie, jak państwo wydaje pieniądze na mieszkalnictwo",
@@ -480,7 +583,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.92,
     "items": [
      {
       "title": "Szefowie MON Polski i Niemiec: Mimo rosyjskich ataków będziemy wspierać Ukrainę",
@@ -493,7 +596,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.92,
     "items": [
      {
       "title": "Nie narzekaj, pracuj ciężej. Młodzi Polacy wolą obchodzić państwo, a nie z nim walczyć",
@@ -503,129 +606,39 @@
       "teaser": "W Polsce pokolenie Z widzi, że rządzący dbają bardziej o starszych niż o młodych. Dlaczego więc nie naśladuje rówieśników z Zachodu, którzy na ulicach wściekle walczą o poprawę swojego losu?"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Lidia Grychtołówna. Niezwykła pianistka o małych, zwinnych dłoniach",
-      "url": "https://www.rp.pl/muzyka-klasyczna/art45514931-lidia-grychtolowna-niezwykla-pianistka-o-malych-zwinnych-dloniach",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-19T17:51+01:00",
-      "teaser": "Kiedy Lidia Grychtołówna wstawała rano (ale nie za wcześnie), natychmiast siadała do fortepianu i zaczynała ćwiczyć. – Muszę sprawdzić swoje palce, a kiedy gram, wiem, że żyję – mówiła. Chciała zagrać na swoje setne urodziny. Odeszła w wieku 98 lat."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Minister Andrzej Domański w ciągu kilku dni podpisze kluczowe dla budownictwa rozporządzenie",
-      "url": "https://pro.rp.pl/biznes/art45514571-minister-andrzej-domanski-w-ciagu-kilku-dni-podpisze-kluczowe-dla-budownictwa-rozporzadzenie",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-19T17:45+01:00",
-      "teaser": "Branża nazywa je biblią budowlańca. Określa ona projektowanie, budowanie i użytkowanie budynków. Nowe rozporządzenie miało wejść w życie 20 września tego roku, ale zabrakło podpisu ministra. „Rzeczpospolita” ustaliła, że w ciągu kilku dni ma się to zmienić."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Gospodarka rośnie, optymizm nie wraca. Wciąż żyjemy w cieniu kryzysów",
-      "url": "https://www.rp.pl/gospodarka/art45513021-gospodarka-rosnie-optymizm-nie-wraca-wciaz-zyjemy-w-cieniu-kryzysow",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-19T17:42+01:00",
-      "teaser": "Od miesięcy nastroje konsumenckie w Polsce są względnie stabilne. Gdy jednak spojrzymy w dane np. z 2019 r. to zobaczymy, że wciąż jesteśmy o niebo poniżej tamtych poziomów. Dlaczego?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Cyberatak na Autopay. Ekspert ostrzega przed utratą pieniędzy",
-      "url": "https://www.rp.pl/banki/art45516611-cyberatak-na-autopay-ekspert-ostrzega-przed-utrata-pieniedzy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-19T17:35+01:00",
-      "teaser": "Osoby, które otrzymały od Autopay powiadomienie o możliwym wycieku danych w wyniku cyberataku, powinny zastrzec kartę płatniczą i wyrobić nową – ostrzega ekspert cyberbezpieczeństwa Krzysztof Smaga. Dane kart mogły trafić w ręce przestępców, choć spółka nie potwierdziła dotąd ich skopiowania ani wyk"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Ryzyko, kontrola i przejrzystość danych w zamówieniach publicznych. O czym muszą pamiętać zamawiający?",
-      "url": "https://pro.rp.pl/administracja/art45487291-ryzyko-kontrola-i-przejrzystosc-danych-w-zamowieniach-publicznych-o-czym-musza-pamietac-zamawiajacy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-19T17:35+01:00",
-      "teaser": "Niezwykle dynamiczny postęp technologiczny i postępująca globalizacja oznaczają też coraz to nowsze wyzwania w dziedzinie ochrony danych osobowych. Jak to wszystko wpływa na przejrzystość danych osobowych w zamówieniach publicznych?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Stefan Szczepłek: Samotność selekcjonera",
-      "url": "https://www.rp.pl/publicystyka/art45513691-stefan-szczeplek-samotnosc-selekcjonera",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-19T17:30+01:00",
-      "teaser": "Sytuację Jana Urbana pokazuje obrazek po wygranym 6:0 meczu z Rumunią. Selekcjoner przechodził przez strefę dla dziennikarzy na Stadionie Narodowym, pogratulowałem mu po zwycięstwie, a on powiedział: „No, mam względny spokój przez trzy dni”."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Tusk: Rosja nieprędko będzie negocjować, Komisja Europejska szykuje sankcje",
-      "url": "https://www.rp.pl/polityka/art45516971-tusk-rosja-niepredko-bedzie-negocjowac-komisja-europejska-szykuje-sankcje",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-19T17:21+01:00",
-      "teaser": "Wydaje się mało prawdopodobne, żeby Rosja usiadła na poważnie do stołu negocjacyjnego przed upływem zimy – stwierdził premier Donald Tusk po spotkaniu tzw. koalicji chętnych."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Tusk opowiedział o rozmowie z Trumpem po spotkaniu koalicji chętnych. \"Wiara w dobrą wolę Putina\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33141467,tusk-rozmawial-z-trumpem-zrelacjonowal-wrazenia-po-spotkaniu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-19T16:24+00:00",
-      "teaser": "Amerykański prezydent po spotkaniu z Władimirem Putinem i Xi Jinpingiem w Chinach \"wygłosił słowa, które brzmiały dość optymistycznie\". - Na sali przyjęto je bardzo ostrożnie - opowiedział Donald Tusk, który wracał ze spotkania koalicji chętnych w Berlinie."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "US Army wzywa mieszkańców, żeby nie wychodzili z domów. Groźna detonacja w fabryce amunicji",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33140341,us-army-wzywa-mieszkancow-zeby-nie-wychodzili-z-domow-grozna.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-19T16:04+00:00",
-      "teaser": "Wojsko USA uspokaja mieszkańców okolicy wielkiej fabryki i składu amunicji w stanie Iowa, że nic nie powinno się stać. Ostrzega ich jednak, by zostali w domach i unikali wdychania powietrza na zewnątrz. W piątek żołnierze będą bowiem detonować znaczną ilość niestabilnych materiałów wybuchowych z duż"
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 2,
-    "score": 3.99,
+    "sourceCount": 3,
+    "score": 5.98,
+    "items": [
+     {
+      "title": "BASF: Chemieriese sagt Evonik-Übernahme ab",
+      "url": "https://www.spiegel.de/wirtschaft/basf-sagt-evonik-uebernahme-ab-a-8ac0a370-d80e-4f40-834b-6ebbaec30a90#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-19T15:46+01:00",
+      "teaser": "Der Chemieriese BASF wird Evonik nicht übernehmen. Der Vorstand von Evonik habe nach einer weiteren Aufstockung des Angebots tiefergehende Gespräche verweigert, heißt es aus Ludwigshafen."
+     },
+     {
+      "title": "BASF bläst Evonik-Übernahme ab",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-19T16:55+01:00",
+      "teaser": "BASF nimmt Abstand von einer Übernahme des Konkurrenten Evonik. Der Chemiekonzern gibt die Pläne auf, nachdem Evonik zuvor zwei unverbindliche Kaufangebote zurückgewiesen hatte."
+     },
+     {
+      "title": "BASF und Evonik: Leg dich nicht mit dem Ruhrpott an!",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/basf-evonik-uebernahmeversuch-chemiebranche-nrw-hendrik-wuest",
+      "source": "Zeit",
+      "date": "2026-11-19T17:46+00:00",
+      "teaser": "Der Chemiekonzern BASF gibt die geplante Übernahme des Konkurrenten Evonik aus Essen überraschend auf. Er hat den Widerstand unterschätzt – vor allem den aus der Politik."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.98,
     "items": [
      {
       "title": "KI-Firma Anthropic startet mit deutlichem Kursplus an der Börse",
@@ -640,6 +653,13 @@
       "source": "Handelsblatt",
       "date": "2026-11-19T16:52+00:00",
       "teaser": "Die Aktie des Claude-Anbieters schreibt Börsengeschichte. Der größte IPO aller Zeiten trifft auf große Nachfrage. Das ist ein wichtiges Signal für die gesamte Branche."
+     },
+     {
+      "title": "Anthropic-Aktie: Aktien von Anthropic starten mit deutlichem Kursplus an der Börse",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/anthropic-aktie-boersengang-wall-street-ki-claude",
+      "source": "Zeit",
+      "date": "2026-11-19T17:49+00:00",
+      "teaser": "Beim Handelsdebüt von Anthropic ist der Aktienkurs des KI-Unternehmens um mehr als 34 Prozent gestiegen. Damit überholt Anthropic den bisherigen Rekordhalter SpaceX."
      }
     ]
    },
@@ -648,10 +668,10 @@
     "score": 3.98,
     "items": [
      {
-      "title": "Anthropic valued at $2tn as shares surge 34% as trading begins – business live",
+      "title": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
       "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
       "source": "The Guardian",
-      "date": "2026-11-19T16:58+00:00",
+      "date": "2026-11-19T17:42+00:00",
       "teaser": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic to begin public trading at $1.5tn valuation after largest ever IPO Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter Anthropic needs to grow into its $1.5tn valuat"
      },
      {
@@ -665,27 +685,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
-    "items": [
-     {
-      "title": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-19T07:44+01:00",
-      "teaser": "Zum ersten Mal geht mit Anthropic ein maßgebliches KI-Unternehmen an den Markt. Der Börsengang wird der größte in der Geschichte. Ist das der Stimmungstest für die gesamte Branche? Giselle Ucar über die Ambitionen des KI-Riesen."
-     },
-     {
-      "title": "Anthropic: Börsengang mit Geldgier-Bremse",
-      "url": "https://www.zeit.de/2026/50/anthropic-boersengang-ki-aktienkontrolle-ben-bernanke",
-      "source": "Zeit",
-      "date": "2026-11-19T06:13+00:00",
-      "teaser": "Der KI‑Konzern Anthropic verspricht seinen Aktionären Gewinne, will aber Exzesse am Kapitalmarkt verhindern. Dazu wagen die Gründer ein ungewöhnliches Experiment."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.84,
     "items": [
      {
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
@@ -704,88 +704,15 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.89,
-    "items": [
-     {
-      "title": "BASF: Chemieriese sagt Evonik-Übernahme ab",
-      "url": "https://www.spiegel.de/wirtschaft/basf-sagt-evonik-uebernahme-ab-a-8ac0a370-d80e-4f40-834b-6ebbaec30a90#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-19T15:46+01:00",
-      "teaser": "Der Chemieriese BASF wird Evonik nicht übernehmen. Der Vorstand von Evonik habe nach einer weiteren Aufstockung des Angebots tiefergehende Gespräche verweigert, heißt es aus Ludwigshafen."
-     },
-     {
-      "title": "BASF bläst Evonik-Übernahme ab",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-19T16:55+01:00",
-      "teaser": "BASF nimmt Abstand von einer Übernahme des Konkurrenten Evonik. Der Chemiekonzern gibt die Pläne auf, nachdem Evonik zuvor zwei unverbindliche Kaufangebote zurückgewiesen hatte."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.17,
-    "items": [
-     {
-      "title": "\"Grand Theft Auto VI: Was hinter dem weltweiten Hype um GTA steckt",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spiele-gta-sechs-neuerscheinung-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-18T18:55+01:00",
-      "teaser": "13 Jahre nach dem Vorgänger erscheint \"Grand Theft Auto VI\". Viele Fans haben den Start mit Spannung erwartet, andere halten die Aufregung um das Videospiel für übertrieben. Was macht es so besonders?"
-     },
-     {
-      "title": "Grand Theft Auto VI: Wo bleibt das deutsche GTA?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/gta-6-warum-gibt-es-keinen-deutschen-videospiel-blockbuster-201687565.html",
-      "source": "FAZ",
-      "date": "2026-11-19T07:19+00:00",
-      "teaser": "GTA 6 soll das Videospiel des Jahrzehnts werden. Die kriselnde Spielebranche erhofft sich einen Aufschwung. Warum nicht in Deutschland mit Blockbustern anfangen?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.1,
-    "items": [
-     {
-      "title": "Anthropic: Jeder Mitarbeiter erhält im Schnitt 72 Millionen Dollar: Fünf kuriose Fakten zum Rekord-Börsengang",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/anthropic-fuenf-ueberraschende-fakten-zum-rekord-boersengang/100270457.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-19T03:24+00:00",
-      "teaser": "Es ist ein Debüt der Superlative, mit dem der Claude-Anbieter zur wichtigsten KI-Aktie der Welt wird. Tausende Mitarbeiter werden zu Multimillionären, die Gründer halten an ihrer Macht fest."
-     },
-     {
-      "title": "Börsengang von Anthropic: Von null auf 1,5 Billionen in fünf Jahren",
-      "url": "https://www.zeit.de/geld/2026-11/boersengang-anthropic-usa-ki-unternehmen-nasdaq",
-      "source": "Zeit",
-      "date": "2026-11-19T06:26+00:00",
-      "teaser": "Anthropic legt den größten Börsengang aller Zeiten hin. Das KI-Labor landet unter den zehn größten US-Firmen. So kommt der Rekord zustande."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "+++ Ukraine-Krieg +++: Merz bezeichnet Gipfel von Trump, Xi und Putin in China als „Bildtermin“",
-      "url": "https://www.handelsblatt.com/politik/international/ukraine-merz-bezeichnet-gipfel-in-china-als-bildtermin/27982126.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-19T17:12+00:00",
-      "teaser": "Putin kündigt Vergeltung für Angriff auf Krim-Brücke an +++ Putin zu Fortsetzung der Ukraine-Gespräche bereit +++ Selenskyj zu Treffen mit Koalition der Willigen eingetroffen +++ Der Newsblog."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
     "score": 1.99,
     "items": [
      {
-      "title": "Dax aktuell: Dax schließt im Minus – SAP mit Kursverlusten zum Anthropic-IPO",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-sap-mit-kursverlusten-zum-anthropic-ipo/100271164.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-19T17:06+00:00",
-      "teaser": "Nach verlustreichen Tagen beendet der Dax den Handelstag unter 25.500 Punkten. Besonders verliert der Softwarekonzern SAP. Drei Ereignisse prägten den Handelstag besonders."
+      "title": "How Anthropic sold itself to investors ahead of its I.P.O.",
+      "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/how-anthropic-sold-itself-to-investors-ahead-of-its-ipo",
+      "source": "New York Times",
+      "date": "2026-11-19T17:56+00:00",
+      "teaser": "A screen displays news about Anthropic’s initial public offering on the floor of the New York Stock Exchange last month."
      }
     ]
    },
@@ -797,7 +724,7 @@
       "title": "Here’s the latest.",
       "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/heres-the-latest",
       "source": "New York Times",
-      "date": "2026-11-19T17:09+00:00",
+      "date": "2026-11-19T17:52+00:00",
       "teaser": ""
      }
     ]
@@ -807,11 +734,37 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Central banks ❤️ US dollars",
-      "url": "https://www.ft.com/content/cb01773d-32ae-424c-a5be-a0b960d353ce",
-      "source": "Financial Times",
-      "date": "2026-11-19T16:50+00:00",
-      "teaser": "A tour of central bank foreign exchange reserve policy, in 248 charts"
+      "title": "+++ Ukraine-Krieg +++: Im Falle von Friedensverhandlungen – Merz stellt Lockerung von Russland-Sanktionen in Aussicht",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-merz-bringt-lockerung-von-russland-sanktionen-ins-spiel/27982126.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-19T17:36+00:00",
+      "teaser": "Putin kündigt Vergeltung für Angriff auf Krim-Brücke an +++ Putin zu Fortsetzung der Ukraine-Gespräche bereit +++ Selenskyj zu Treffen mit Koalition der Willigen eingetroffen +++ Der Newsblog."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Dax aktuell: Dax schließt nach gutem Start im Minus – SAP-Aktie setzt Verlustserie fort",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-minus-sap-aktie-setzt-verlustserie-fort/100271164.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-19T17:37+00:00",
+      "teaser": "Der deutsche Aktienmarkt ist trotz der Euphorie um den Rekord-Börsengang von Anthropic abgerutscht. Der Dax drehte im späten Handel ins Minus. Gleich mehrere Ereignisse prägten den Handelstag."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Tesla gegen IG Metall: Fortsetzung folgt",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/strafbefehl-gegen-tesla-werkleiter-elon-musk-duerfte-das-nicht-stoeren-201698697.html",
+      "source": "FAZ",
+      "date": "2026-11-19T17:37+00:00",
+      "teaser": "Tesla-Werkleiter André Thierig muss sich im Clinch mit der IG Metall vor Gericht verteidigen. Konzernchef Elon Musk dürfte das kaum stören."
      }
     ]
    },
@@ -820,11 +773,37 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Versicherer: Unicredit nimmt Deutschland auch mit Generali ins Visier",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/generali-und-unicredit-wollen-gemeinsam-in-deutschland-wachsen-201698114.html",
+      "title": "Onlinecasino: „Nicht mal die deutsche Autoindustrie wird so geschützt“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/eugh-verschiebt-urteil-zu-maltas-bill-55-und-onlinecasinos-201691071.html",
       "source": "FAZ",
-      "date": "2026-11-19T16:45+00:00",
-      "teaser": "Die Bank und der italienische Versicherer setzen auf Zusammenarbeit. Gleichzeitig wird der größte Generali-Konkurrent in Italien auch der größte Generali-Aktionär. Welche Brandmauern ziehen die Wettbewerbshüter ein?"
+      "date": "2026-11-19T17:30+00:00",
+      "teaser": "Seit Jahren streiten Spieler mit Onlinecasinos um die Rückerstattung ihrer Verluste aus Glücksspiel. Ein neues Urteil verschafft den Anbietern Zeit."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Tech giants will reap giant paydays from Anthropic’s I.P.O. But a fraudster’s shares are long gone.",
+      "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/tech-giants-will-reap-giant-paydays-from-anthropics-ipo-but-a-fraudsters-shares-are-long-gone",
+      "source": "New York Times",
+      "date": "2026-11-19T17:31+00:00",
+      "teaser": "An Amazon and Anthropic data center complex in New Carlisle, Ind."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "UK’s long-delayed pensions dashboard now due to launch next year",
+      "url": "https://www.ft.com/content/64822545-cd35-44d0-b267-b6231893666b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-19T17:14+00:00",
+      "teaser": "Pensions minister says hub allowing people to view all their retirement pots in one place will go live in 2027"
      }
     ]
    }
@@ -832,7 +811,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.9,
+    "score": 7.84,
     "favorite": true,
     "items": [
      {
@@ -846,7 +825,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.65,
+    "score": 7.59,
     "favorite": true,
     "items": [
      {
@@ -860,7 +839,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.63,
+    "score": 7.5600000000000005,
     "favorite": true,
     "items": [
      {
@@ -874,7 +853,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.78,
+    "score": 5.99,
     "items": [
      {
       "title": "FC Bayern München: Vincent Kompany kehrt gegen FC Köln an die Seitenlinie zurück",
@@ -887,7 +866,7 @@
       "title": "FC-Bayern-Trainer Kompany zu Zusammenbruch: \"Es war ein Schock\"",
       "url": "https://www.sportschau.de/regional/br/br-fc-bayern-trainer-kompany-zu-zusammenbruch-es-war-ein-schock-102.html",
       "source": "Sportschau",
-      "date": "2026-11-19T11:14+01:00",
+      "date": "2026-11-19T18:51+01:00",
       "teaser": "Nach seinem Zusammenbruch und einer Hirnhautreizung ist Vincent Kompany zurück. Vor seinem Comeback gegen Köln spricht der Bayern-Trainer offen über die wohl schwierigste Phase seiner Amtszeit: \"Es war ein Schock.\""
      },
      {
@@ -901,7 +880,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.98,
     "items": [
      {
       "title": "LIVE! Pflichtaufgabe an der Donau: Bauen die Bayern ihre Serie bei Austria Wien aus?",
@@ -911,17 +890,17 @@
       "teaser": "Die Frauen des FC Bayern wollen ihre noch ungeschlagene Serie in der Königsklasse gegen Austria Wien fortsetzen. Mit einem Sieg gegen den Tabellenletzten könnte sich der FCB weiter im Kampf um die Top 4 festsetzen."
      },
      {
-      "title": "Ab 18.45 Uhr live - Bayern München zu Gast bei Austria Wien",
+      "title": "Jetzt live - Bayern München zu Gast bei Austria Wien",
       "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma12537093/austria-wien_bayern-muenchen/liveticker",
       "source": "Sportschau",
-      "date": "2026-11-19T15:36+01:00",
+      "date": "2026-11-19T18:45+01:00",
       "teaser": "In der Champions League der Frauen trifft der FC Bayern München auf Austria Wien. Werden die Münchnerinnen ihrer Favoritenrolle gerecht?"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.85,
     "items": [
      {
       "title": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
@@ -941,10 +920,10 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.84,
     "items": [
      {
-      "title": "Premier League clubs vote to increase legal protection for executives",
+      "title": "Premier League clubs vote through new rules to increase legal protection for board",
       "url": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits",
       "source": "The Guardian",
       "date": "2026-11-19T16:03+00:00",
@@ -961,7 +940,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.69,
     "items": [
      {
       "title": "Fußball in Ecuador: Schiedsrichter mit Stein verletzt – acht Jahre Sperre für Spieler",
@@ -980,22 +959,15 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.22,
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
-      "title": "Formstarke Torhüterin: Berger kehrt mit Auszeichnung in die Nationalmannschaft zurück",
-      "url": "https://www.faz.net/aktuell/sport/fussball/ann-katrin-berger-beste-torhueterin-der-nwsl-zum-zweiten-mal-accg-201697213.html",
-      "source": "FAZ",
-      "date": "2026-11-19T07:52+00:00",
-      "teaser": "Nach einer Auszeit ist Ann-Katrin Berger zurück im DFB-Team. Kurz vorher ist der deutschen Torhüterin in der amerikanischen Profiliga eine besondere Ehre zuteilgeworden – doch das kennt sie schon."
-     },
-     {
-      "title": "Berger beste Torhüterin in den USA",
-      "url": "https://www.sportschau.de/fussball/mehr-internationale-ligen/berger-beste-torhueterin-in-usa,berger-nwsl-100.html",
-      "source": "Sportschau",
-      "date": "2026-11-19T08:33+01:00",
-      "teaser": "Fußball-Nationalspielerin Ann-Katrin Berger ist als beste Torhüterin der US-amerikanischen Liga NWSL ausgezeichnet worden. Sie war zwölfmal ohne Gegentor geblieben."
+      "title": "Scherhant und Treu: Hochgelobte sollen am Boden bleiben",
+      "url": "https://www.kicker.de/scherhant-und-treu-hochgelobte-sollen-am-boden-bleiben-1273088/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-19T17:56+00:00",
+      "teaser": "Als Tabellendritter reist der SC Freiburg zum stark gestarteten Aufsteiger Elversberg, und kann dabei nicht nur auf seine Nationalspieler setzen."
      }
     ]
    },
@@ -1004,24 +976,78 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Bundesliga kommt mit vier klassischen Duellen zurück",
-      "url": "https://www.sportschau.de/fussball/bundesliga/bundesliga-kommt-mit-vier-klassischen-duellen-zurueck,bundesliga-spieltag-zehn-202.html",
-      "source": "Sportschau",
-      "date": "2026-11-19T18:02+01:00",
-      "teaser": "Die Fußball-Bundesliga geht erst Ende März wieder in eine Länderspielpause. Zurück kommt sie mit der Partie zwischen dem FC Bayern und dem 1. FC Köln sowie drei weiteren Duellen zwischen Teams aus der Top 10 der ewigen Tabelle."
+      "title": "Jetzt Uhr live - Magdeburg startet gegen GOG in die Hauptrunde",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma12618311/gog-handbold_sc-magdeburg/liveticker",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-19T18:45+01:00",
+      "teaser": "Zum Auftakt der zweiten Gruppenphase geht es für den SC Magdeburg zu GOG nach Dänemark. Können die Grün-Roten ihre beeindruckende Serie von sechs Siegen fortsetzen?"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.94,
     "items": [
      {
-      "title": "Reis vor dem Derby über seine Form, Hasskommentare und Vuskovic",
-      "url": "https://www.kicker.de/reis-vor-dem-derby-ueber-seine-form-hasskommentare-und-vuskovic-1273068/artikel#omrss",
+      "title": "Blessin vergleicht Kleindienst mit Füllkrug: \"Sehe ihn in der gleichen Position\"",
+      "url": "https://www.kicker.de/blessin-vergleicht-kleindienst-mit-fuellkrug-sehe-ihn-in-der-gleichen-position-1273089/video#omrss",
       "source": "kicker",
-      "date": "2026-11-19T16:53+00:00",
-      "teaser": "Auf Ludovit Reis wartet am Sonntag ein ganz besonderes Spiel: Nordderby mit Werder gegen Ex-Verein HSV. Um die Besonderheit des Duells machte der Mittelfeldmann keinen Hehl. Eine klare Botschaft hat er in Richtung der Kommentare einiger Personen."
+      "date": "2026-11-19T17:20+00:00",
+      "teaser": "Gladbach-Coach Alexander Blessin spricht über Tim Kleindienst, der kurz vor seinem Comeback steht. Dabei zieht er einen Vergleich zur Situation von Niclas Füllkrug bei Werder Bremen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "We'll only sell if offer makes club blink - McInnes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwlymr2159y5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-19T17:11+00:00",
+      "teaser": "Manager Derek McInnes says Rangers will only sell players in January if they receive offers that \"makes the club blink\"."
+     }
+    ]
+   }
+  ],
+  "Tech & KI": [
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Anzeige: Magnetische Powerbank mit Qi2 zum Jahresbestpreis bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-magnetische-powerbank-mit-qi2-zum-jahresbestpreis-bei-amazon-2611-215438.html",
+      "source": "Golem",
+      "date": "2026-11-19T18:55+01:00",
+      "teaser": "Eine magnetische Powerbank von Anker mit Qi2, 15 W und 10.000 mAh ist zum Black Friday bei Amazon so günstig wie noch nie in diesem Jahr. ( Technik/Hardware , Black Friday )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Breko-Jahrestagung: Telekom-Konkurrenten drängen auf erste eigene Kupferabschaltung",
+      "url": "https://www.golem.de/news/breko-jahrestagung-telekom-konkurrenten-draengen-auf-erste-eigene-kupferabschaltung-2611-215437.html",
+      "source": "Golem",
+      "date": "2026-11-19T18:49+01:00",
+      "teaser": "Bislang hat nur die Telekom selbst alte DSL-Netze für ihre Glasfaser abschalten dürfen. ( Breko , DSL )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Anzeige: IT-Sicherheitsvorfälle: Die ersten Maßnahmen richtig wählen",
+      "url": "https://www.golem.de/news/anzeige-it-sicherheitsvorfaelle-die-ersten-massnahmen-richtig-waehlen-2611-215381.html",
+      "source": "Golem",
+      "date": "2026-11-19T18:45+01:00",
+      "teaser": "Bei Cyberangriffen müssen IT-Teams schnell und strukturiert reagieren. Ein Workshop zur Incident Response vermittelt erste Maßnahmen, IT-Forensik und Beweissicherung. ( Golem Karrierewelt , Server-Applikationen )"
      }
     ]
    },
@@ -1030,19 +1056,95 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Emma Aicher: Emma kann alles",
-      "url": "https://www.zeit.de/sport/2026-11/emma-aicher-ski-weltcup",
-      "source": "Zeit",
-      "date": "2026-11-19T16:44+00:00",
-      "teaser": "Slalom? Abfahrt? Super-G? Emma Aicher kann jedes Skirennen der Saison gewinnen. Ihre Vielseitigkeit und Coolness machen sie zu einer Favoritin auf den Gesamtweltcup."
+      "title": "Erstmals braucht die Welt mehr Energie zum Kühlen als zum Heizen",
+      "url": "https://www.heise.de/news/Erstmals-braucht-die-Welt-mehr-Energie-zum-Kuehlen-als-zum-Heizen-11531700.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-19T18:34+01:00",
+      "teaser": "Die Krise um die Straße von Hormus löst laut IEA den größten Energieversorgungsschock der Geschichte aus. Zudem überholt Kühlen das Heizen beim Verbrauch."
      }
     ]
-   }
-  ],
-  "Tech & KI": [
+   },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Hacking-Tool: Flipper One mit Rekordstart trotz offener Fragen",
+      "url": "https://www.golem.de/news/hacking-tool-flipper-one-mit-rekordstart-trotz-offener-fragen-2611-215435.html",
+      "source": "Golem",
+      "date": "2026-11-19T18:34+01:00",
+      "teaser": "Bei Kickstarter kann die neue Flipper-Version unterstützt werden. Diese kostet deutlich mehr als der Vorgänger, einige Spezifikationen sind offen. ( Flipper Zero , Linux )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Anzeige: Google Pixel 11 günstig wie nie am Black Friday",
+      "url": "https://www.golem.de/news/anzeige-google-pixel-11-guenstig-wie-nie-am-black-friday-2611-215433.html",
+      "source": "Golem",
+      "date": "2026-11-19T18:30+01:00",
+      "teaser": "Erst seit August auf dem Markt, jetzt 300 Euro unter UVP: Amazon bietet das Google Pixel 11 mit 256 GB für unter 700 Euro am Black Friday an. ( Black Friday , Smartphone )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "KI-Unternehmen: Anthropic-Aktie macht Kurssprung zum Börsenstart",
+      "url": "https://www.golem.de/news/ki-unternehmen-anthropic-aktie-macht-kursprung-zum-boersenstart-2611-215436.html",
+      "source": "Golem",
+      "date": "2026-11-19T18:16+01:00",
+      "teaser": "Anthropic ist erfolgreich an der Börse gestartet. Das Unternehmen wird mit fast 2 Billionen US-Dollar bewertet. ( Anthropic , Börse )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Anzeige: Edifier M60 Desktop-Lautsprecher mit neuem Bestpreis für unter 60 Euro pro Stück bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-edifier-m60-desktop-lautsprecher-mit-neuem-bestpreis-fuer-unter-60-euro-pro-stueck-bei-amazon-2611-215429.html",
+      "source": "Golem",
+      "date": "2026-11-19T18:15+01:00",
+      "teaser": "Die Edifier M60 liefern 66 Watt, streamen per LDAC in Hi-Res-Qualität und bringen eigene Ständer mit, zur Black Week sogar zum Sparpreis. ( Technik/Hardware , Sound-Hardware )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
+      "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-19T12:15-05:00",
+      "teaser": "alt: Amazon’s last-gen Kindle Paperwhite is just $10 more than the base modelalt: The last-gen Kindle Paperwhite for $130 is a stellar Black Friday deal Amazon debuted its latest Kindle Paperwhite in October, which is now available for $199.99 and replaces the outgoing 2024 model. However, given the"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Anthropic-Aktien an der Börse gestartet",
+      "url": "https://www.heise.de/news/Anthropic-Aktien-an-der-Boerse-gestartet-11528173.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-19T18:11+01:00",
+      "teaser": "Anthropics Aktien sind an der Börse gestartet. Der Kurs bewegt sich wie erwartet über dem Einstiegspreis."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "(g+) Wachstum: Wo bleibt Europas KI-Boom?",
@@ -1055,7 +1157,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.92,
     "items": [
      {
       "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
@@ -1063,136 +1165,6 @@
       "source": "Wired",
       "date": "2026-11-19T17:00+00:00",
       "teaser": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender",
-      "url": "https://www.golem.de/news/xpeng-l03-mit-1-000-km-reichweite-weiterer-china-hersteller-bietet-range-extender-2611-215434.html",
-      "source": "Golem",
-      "date": "2026-11-19T17:49+01:00",
-      "teaser": "Mit zusätzlichem Benzinmotor soll der Xpeng L03 mehr als 1.000 km weit kommen. Die elektrische Reichweite ist jedoch recht klein. ( Xpeng , Elektroauto )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Anthropic starts trading on Wall Street",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "source": "The Verge",
-      "date": "2026-11-19T11:52-05:00",
-      "teaser": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Anzeige: Black Friday bei Amazon - das sind die 40 besten Deals",
-      "url": "https://www.golem.de/news/anzeige-black-friday-bei-amazon-das-sind-die-40-besten-deals-2611-215422.html",
-      "source": "Golem",
-      "date": "2026-11-19T16:40+01:00",
-      "teaser": "Die Black-Friday-Woche bei Amazon ist das Highlight unter den Schnäppchen-Events. Hier präsentieren wir die 40 besten Deals beim Versandhändler. ( Black Friday , Amazon )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
-      "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-      "source": "New York Times",
-      "date": "2026-11-19T16:39+00:00",
-      "teaser": "As the technology surges ahead, policymakers in Washington have struggled to prepare for potential disruption to workers, businesses and the rest of the economy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Cyberangriff auf EU-Kommission: Verdacht auf KI-Tool Artex, tagelange Ausfälle",
-      "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "source": "heise online",
-      "date": "2026-11-19T17:27+01:00",
-      "teaser": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Breko-Jahrestagung: Glasfaserausbau ins Blaue hinein ist vorbei",
-      "url": "https://www.golem.de/news/breko-jahrestagung-glasfaserausbau-ins-blaue-hinein-ist-vorbei-2611-215431.html",
-      "source": "Golem",
-      "date": "2026-11-19T17:34+01:00",
-      "teaser": "Für einen Glasfaser-Ausbau auf Vorrat fehlt den Netzbetreibern laut dem Branchenverband Breko inzwischen das Geld. ( Breko , Telekom )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Dutch watchdog tells people not to buy AI smart glasses",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-19T16:33+00:00",
-      "teaser": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-      "url": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
-      "source": "The Verge",
-      "date": "2026-11-19T11:28-05:00",
-      "teaser": "In 2015 Microsoft acquired a to-do list app called Wunderlist, for a price rumored to be as high as $200 million. Wunderlist fans were worried that Microsoft would make their beloved app soulless and corporate, or worse, hide it behind some convoluted enterprise subscription. But against all odds, M"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Russe soll Palantir-Mitarbeiter im Coffeeshop ausspioniert haben",
-      "url": "https://www.heise.de/news/Russe-soll-Palantir-Mitarbeiter-im-Coffeeshop-ausspioniert-haben-11531011.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "source": "heise online",
-      "date": "2026-11-19T17:14+01:00",
-      "teaser": "In den USA wurde ein Russe angeklagt, der versucht haben soll, Angestellte von Palantir auszuspionieren. Sonderlich raffiniert sei er nicht vorgegangen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Tiny 2.1: Mini-Sprachmodell passt auf eine Diskette",
-      "url": "https://www.golem.de/news/tiny-2-1-mini-sprachmodell-passt-auf-eine-diskette-2611-215426.html",
-      "source": "Golem",
-      "date": "2026-11-19T17:18+01:00",
-      "teaser": "Tiny 2.1 ist ein Transformer-Sprachmodell mit 367.000 Parametern, welches auf 3.500 Fakten trainiert ist - und das auf eine Floppy-Disc passt. ( KI , DIY - Do it yourself )"
      }
     ]
    }
@@ -1281,7 +1253,7 @@
    "topic": "Welt & Politik",
    "source": "Politico",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Welt & Politik",
