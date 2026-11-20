@@ -1,10 +1,37 @@
 {
- "fetchedAt": "2026-11-20T20:06:13+00:00",
+ "fetchedAt": "2026-11-20T20:57:08+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 3,
-    "score": 5.96,
+    "score": 6.0,
+    "items": [
+     {
+      "title": "Trump vows 'tremendous tax' on companies building data centres abroad",
+      "url": "https://www.abc.net.au/news/2026-11-21/trump-vows-tax-companies-building-data-centres-overseas/107412162",
+      "source": "ABC Australia",
+      "date": "2026-11-20T20:27+00:00",
+      "teaser": "US President Donald Trump says he is \"not allowing data centres to go into other countries\", so that America can win the AI fight against China."
+     },
+     {
+      "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+      "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-20T18:51+00:00",
+      "teaser": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference."
+     },
+     {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-20T20:54+00:00",
+      "teaser": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.89,
     "items": [
      {
       "title": "Indian man jailed over US murder plot against Sikh separatist",
@@ -31,7 +58,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.93,
+    "score": 5.85,
     "items": [
      {
       "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
@@ -58,7 +85,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.86,
+    "score": 5.79,
     "items": [
      {
       "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
@@ -84,75 +111,28 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.82,
+    "sourceCount": 2,
+    "score": 3.96,
     "items": [
      {
-      "title": "Mamdani unveils plan to close New York’s notorious Rikers Island jail",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375293/mamdani-unveils-plan-close-new-yorks-notorious-rikers-island-jail",
-      "source": "South China Morning Post",
-      "date": "2026-11-20T17:00+00:00",
-      "teaser": "New York’s Rikers Island jail complex would close by 2032 under a sweeping plan announced on Friday by Mayor Zohran Mamdani, whose strategy for finally shuttering the notorious facility hinges on substantially reducing the number of people kept behind bars. The mayor, a Democrat, unveiled the plan a"
+      "title": "Estonia to close border with Russia, Moscow decries 'new Iron Curtain'",
+      "url": "https://www.thehindu.com/news/international/estonia-to-close-border-with-russia-moscow-decries-new-iron-curtain/article71725791.ece",
+      "source": "The Hindu",
+      "date": "2026-11-20T23:09+05:30",
+      "teaser": "NATO and EU member ‌Estonia on November 15 accused Russian security services of staging an attempted ‌arson ⁠attack on an Estonian defence company, in what it said ⁠was the second such incident this year"
      },
      {
-      "title": "Mamdani sets plan to close NYC's notorious Rikers Island jail by 2032",
-      "url": "https://www.pbs.org/newshour/nation/mamdani-sets-plan-to-close-nycs-notorious-rikers-island-jail-by-2032",
-      "source": "PBS NewsHour",
-      "date": "2026-11-20T12:31-05:00",
-      "teaser": "The mayor unveiled the plan as the city is all but certain to blow past a legal requirement to close Rikers and replace it with four smaller, more modern jails by 2027."
-     },
-     {
-      "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
-      "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+      "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+      "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
       "source": "Al Jazeera",
-      "date": "2026-11-20T17:54+00:00",
-      "teaser": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars."
+      "date": "2026-11-20T20:30+00:00",
+      "teaser": "Tallinn's decision to shut road border crossings comes after an attack on a drone manufacturer."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
-    "items": [
-     {
-      "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-20T17:44+00:00",
-      "teaser": "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing."
-     },
-     {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T20:00+00:00",
-      "teaser": "Other tech companies have also taken a hit as share markets broadly slump."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.98,
-    "items": [
-     {
-      "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
-      "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-20T18:51+00:00",
-      "teaser": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference."
-     },
-     {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T19:51+00:00",
-      "teaser": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.85,
     "items": [
      {
       "title": "Daniel Thomas: Britischer Rechtsextremist schlitzte Flüchtlingsboot auf – 15 Monate Haft",
@@ -172,7 +152,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.84,
     "items": [
      {
       "title": "Denmark expels Russian diplomat over plot to kill Ukraine rapper",
@@ -192,47 +172,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
-    "items": [
-     {
-      "title": "Wladimir Putin: Ja, er will reden. Über die Ukraine aber nicht mit uns",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/wladimir-putin-europa-ukraine-einladung-sicherheitsarchitektur-trump",
-      "source": "Zeit",
-      "date": "2026-11-20T17:07+00:00",
-      "teaser": "Die Einladung Putins an die Europäer klingt nach Dialog. Dahinter steckt jedoch eine Reihe unannehmbarer Forderungen des Kremls. Und sie bringt Europa in die Bredouille."
-     },
-     {
-      "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
-      "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-20T18:37+00:00",
-      "teaser": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.88,
-    "items": [
-     {
-      "title": "Gen Z protests spread across Europe: Mass rallies over cost of living in Spain",
-      "url": "https://www.france24.com/en/video/20261120-gen-z-protests-spread-across-europe-mass-rallies-over-cost-of-living-in-spain",
-      "source": "France 24",
-      "date": "2026-11-20T15:41+00:00",
-      "teaser": "Protesters across Europe are set took to the streets on Friday in a show of cross-border solidarity, joining coordinated demonstrations against the rising cost of living, militarisation and other causes, in a bid to increase pressure on their governments. Protesters across Europe are set to take to "
-     },
-     {
-      "title": "Students rally across Europe over cost of living, war and education cuts",
-      "url": "https://www.abc.net.au/news/2026-11-21/students-protest-in-eu-and-uk/107406996",
-      "source": "ABC Australia",
-      "date": "2026-11-20T18:38+00:00",
-      "teaser": "From the shadows of the mighty Colosseum in Rome to Parliament Square in London, and in dozens of other cities across Europe, thousands of young Europeans gathered to make their voices heard on Friday."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.8,
     "items": [
      {
       "title": "Anthropic researcher says Claude AI has solved maths’ greatest riddle: Riemann Hypothesis",
@@ -252,7 +192,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.81,
+    "score": 3.74,
     "items": [
      {
       "title": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
@@ -269,12 +209,72 @@
       "teaser": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
      }
     ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.73,
+    "items": [
+     {
+      "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
+      "url": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
+      "source": "Tagesschau",
+      "date": "2026-11-20T18:44+01:00",
+      "teaser": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López."
+     },
+     {
+      "title": "Gipfel von EU und Großbritannien: EU und Großbritannien wollen wieder enger zusammenarbeiten",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/eu-grossbritannien-brexit-lebensmittelhandel-jugendmobilitaet-gxe",
+      "source": "Zeit",
+      "date": "2026-11-20T11:53+00:00",
+      "teaser": "Der britische Premierminister Andy Burnham hofft, mit einer Wiederannäherung an die EU die britische Wirtschaft anzukurbeln. Sie teilten gemeinsame Werte und Interessen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.71,
+    "items": [
+     {
+      "title": "Mamdani unveils plan to close New York’s notorious Rikers Island jail",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375293/mamdani-unveils-plan-close-new-yorks-notorious-rikers-island-jail",
+      "source": "South China Morning Post",
+      "date": "2026-11-20T17:00+00:00",
+      "teaser": "New York’s Rikers Island jail complex would close by 2032 under a sweeping plan announced on Friday by Mayor Zohran Mamdani, whose strategy for finally shuttering the notorious facility hinges on substantially reducing the number of people kept behind bars. The mayor, a Democrat, unveiled the plan a"
+     },
+     {
+      "title": "Mamdani sets plan to close NYC's notorious Rikers Island jail by 2032",
+      "url": "https://www.pbs.org/newshour/nation/mamdani-sets-plan-to-close-nycs-notorious-rikers-island-jail-by-2032",
+      "source": "PBS NewsHour",
+      "date": "2026-11-20T12:31-05:00",
+      "teaser": "The mayor unveiled the plan as the city is all but certain to blow past a legal requirement to close Rikers and replace it with four smaller, more modern jails by 2027."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.71,
+    "items": [
+     {
+      "title": "WATCH LIVE: Trump hosts news conference after meeting with Xi, Putin",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-hosts-news-conference-after-meeting-with-xi-putin",
+      "source": "PBS NewsHour",
+      "date": "2026-11-20T11:59-05:00",
+      "teaser": "Trump's meeting on Thursday was the first-ever sit-down for the leaders of the U.S., Russia and China."
+     },
+     {
+      "title": "🔴Watch live: Trump holds press conference after meeting with Xi, Putin",
+      "url": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
+      "source": "France 24",
+      "date": "2026-11-20T17:26+00:00",
+      "teaser": ""
+     }
+    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.76,
     "items": [
      {
       "title": "Deutsche Bank: Koalitionspolitiker fordern nach Datenleck Reform der Erbschaftsteuer",
@@ -294,7 +294,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.71,
     "items": [
      {
       "title": "Ukraine: Boris Pistorius zeigt sich offen für Gespräche mit Wladimir Putin",
@@ -314,7 +314,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.65,
+    "score": 3.58,
     "items": [
      {
       "title": "Ulrich Siegmund: Die neue Taktik der AfD: Überrumpelung",
@@ -334,7 +334,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.58,
+    "score": 3.51,
     "items": [
      {
       "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
@@ -354,7 +354,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Gen Z-Demos in BW: ++ Stuttgarter Demo am Ende - Gerangel mit Polizei ++ Demo auch am Abend in Freiburg ++ Kundgebung in Heidelberg endet früher ++",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/gen-z-regelt-proteste-im-ganzen-land-100.html",
+      "source": "SWR",
+      "date": "2026-11-20T21:43+01:00",
+      "teaser": "Die Initiative \"Gen Z regelt\" hat bundesweit zu Protesten aufgerufen. Auch in Baden-Württemberg sind Demos geplant."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Gipfeltreffen: Auch in Shenzhen lässt Trump mit sich spielen",
+      "url": "https://www.faz.net/aktuell/politik/ausland/gipfeltreffen-in-shenzen-putin-und-trump-machen-es-xi-leicht-201691480.html",
+      "source": "FAZ",
+      "date": "2026-11-20T20:18+00:00",
+      "teaser": "Xi Jinping suchte maximale Symbolik und geringe konkrete Ergebnisse. Putin und Trump machten es ihm leicht in Shenzhen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Gen-Z-Proteste: Demos enden weitgehend friedlich",
@@ -367,7 +393,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.91,
     "items": [
      {
       "title": "GTA VI: Diese deutschen Songs sind im Gaming-Radio gelandet",
@@ -380,20 +406,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Gen Z-Demos in BW: ++ Stuttgarter Demo am Ende - Gerangel mit Polizei ++ Demo auch am Abend in Freiburg ++ Kundgebung startet in Heidelberg ++",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/gen-z-regelt-proteste-im-ganzen-land-100.html",
-      "source": "SWR",
-      "date": "2026-11-20T20:48+01:00",
-      "teaser": "Die Initiative \"Gen Z regelt\" hat bundesweit zu Protesten aufgerufen. Auch in Baden-Württemberg sind Demos geplant."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.86,
     "items": [
      {
       "title": "\"Das ist so richtig gemein\": Viele halten diesen Blitzer für eine Frechheit",
@@ -406,7 +419,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.86,
     "items": [
      {
       "title": "Explosion vor Veranstaltungsgebäude in Rheinfelden - eine Person leicht verletzt",
@@ -419,20 +432,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Nordrhein-Westfalen: 1000 Windräder für ein Abschiebegefängnis",
-      "url": "https://www.faz.net/aktuell/politik/inland/gruene-in-nrw-zwischen-gruen-pur-und-pragmatischem-regieren-201691236.html",
-      "source": "FAZ",
-      "date": "2026-11-20T19:05+00:00",
-      "teaser": "Die Grünen in NRW schwanken zwischen pragmatischen Zugeständnissen an ihren Koalitionspartner CDU und linken Kernanliegen. Ist eben das ihr Erfolgsrezept?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.85,
     "items": [
      {
       "title": "Erneut gehen tausende junge Menschen auf die Straße: Aber wer steckt hinter den Gen-Z-Demos?",
@@ -445,14 +445,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.84,
     "items": [
      {
-      "title": "Gen-Z-Proteste: Wie die Jugend versucht, aus Demos eine Bewegung zu machen",
-      "url": "https://www.sueddeutsche.de/politik/gen-z-proteste-schueler-studierende-frankfurt-berlin-ausschreitungen-gewerkschaften-li.3582673",
-      "source": "Süddeutsche",
-      "date": "2026-11-20T18:58+00:00",
-      "teaser": "Wieder demonstrieren junge Menschen in Dutzenden Städten. Schülervertreter suchen den Schulterschluss mit Eltern und Erziehungsgewerkschaft. Die Sorge vor Ausschreitungen bleibt."
+      "title": "Nordrhein-Westfalen: Grüne bauen Abschiebegefängnis – voll werden soll es nicht",
+      "url": "https://www.faz.net/aktuell/politik/inland/gruene-in-nrw-zwischen-gruen-pur-und-pragmatischem-regieren-201691236.html",
+      "source": "FAZ",
+      "date": "2026-11-20T19:05+00:00",
+      "teaser": "Die Grünen in NRW schwanken zwischen pragmatischen Zugeständnissen an ihren Koalitionspartner CDU und linken Kernanliegen. Ist eben das ihr Erfolgsrezept?"
      }
     ]
    }
@@ -460,7 +460,46 @@
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Po nocnym ataku na Kijów UE odpowiada miliardem euro. Broń trafi do Ukrainy do 2027",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45522171-po-nocnym-ataku-na-kijow-ue-odpowiada-miliardem-euro-bron-trafi-do-ukrainy-do-2027",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-20T21:53+01:00",
+      "teaser": "Po nocnym zmasowanym ataku na Kijów i kolejnym naruszeniu polskiej przestrzeni powietrznej Unia Europejska sięga po pieniądze na broń. Miliard euro trafi na drony, obronę powietrzną, amunicję i radary dla Ukrainy. Bruksela chce też wreszcie mieć swoje miejsce przy stole rozmów pokojowych z Rosją."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Rosja zleciła zamach na ukraińskiego rapera w Danii. Wcześniej próbowała w Warszawie",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33144010,rosja-zlecila-zamach-na-ukrainskiego-rapera-w-danii-wczesniej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-20T20:54+00:00",
+      "teaser": "Duńskie służby bezpieczeństwa PET poinformowały o zatrzymaniu dwóch członków gangu pod zarzutem przygotowywania na zlecenie Rosji zamachu na ukraińsko-amerykańskiego rapera Kyivstonera. Zaledwie kilka miesięcy wcześniej, w sierpniu podobny atak miał odbyć się podczas jego koncertu w Warszawie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Putin wzywa Ukraińców do zbliżenia z Rosją. „Wybierzcie właściwą stronę historii”",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45522191-putin-wzywa-ukraincow-do-zblizenia-z-rosja-wybierzcie-wlasciwa-strone-historii",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-20T21:29+01:00",
+      "teaser": "Władimir Putin przekonuje Ukraińców, że powinni zbliżyć się do Rosji i uznać wspólnotę historyczną z Moskwą. Jego apel usłyszano w dniu jednego z największych rosyjskich ataków powietrznych na Ukrainę od początku pełnoskalowej inwazji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "FedEx-led consortium completes €7.8bn takeover of Polish delivery giant InPost",
@@ -473,7 +512,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.9,
     "items": [
      {
       "title": "Donald Trump zdradza kulisy rozmowy z Putinem. \"Jasno wyraził chęć zakończenia wojny\"",
@@ -486,7 +525,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.86,
     "items": [
      {
       "title": "\"FT\": Biały Dom naciska na Ukrainę, by zawarła porozumienie z Rosją, zanim demokraci przejmą Kongres",
@@ -499,7 +538,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.83,
     "items": [
      {
       "title": "Między dziećmi czekającymi na nowe serce. Film o miłości, bólu i zrozumieniu",
@@ -512,7 +551,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.8,
     "items": [
      {
       "title": "Taurona martwią koszty profilu OZE, ale spółka widzi szansę na nowy rynek mocy",
@@ -525,7 +564,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.8,
     "items": [
      {
       "title": "Spotkanie Donalda Trumpa i Xi Jinpinga. Prezydent USA ma „bardzo dobre relacje” z Putinem",
@@ -538,7 +577,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.79,
     "items": [
      {
       "title": "„Dzieci Saturna”. Tak będzie wyglądać cywilizacja postludzka",
@@ -551,7 +590,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.79,
     "items": [
      {
       "title": "Ostatnia transza KPO dla Polski. Bruksela zatwierdza wypłatę rekordowych 54 mld zł",
@@ -564,7 +603,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.76,
     "items": [
      {
       "title": "Rozbudowa metra w Warszawie. Trzaskowski przedstawił szczegóły",
@@ -574,58 +613,19 @@
       "teaser": "Z mojej strony decyzja zapadła – mamy koncepcję, mamy konkretne uzasadnienie i nieprzerwanie walczymy o pieniądze, które pozwolą te ambitne projekty zrealizować – napisał prezydent Warszawy Rafał Trzaskowski. Zdradził szczegóły planowanych inwestycji w metro."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "„Przemytnicy” przypominają, że do angażującego kina wystarczy grupa desperatów",
-      "url": "https://www.rp.pl/plus-minus/art45517781-przemytnicy-przypominaja-ze-do-angazujacego-kina-wystarczy-grupa-desperatow",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T19:03+01:00",
-      "teaser": "Znów najgroźniejszy okazuje się drugi człowiek."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Rosja atakuje. Ukraina eksportuje prąd",
-      "url": "https://energia.rp.pl/energetyka/art45521971-rosja-atakuje-ukraina-eksportuje-prad",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T19:00+01:00",
-      "teaser": "Pomimo rosyjskich ataków na obiekty energetyczne skutkujących częstymi przerwami w dostawach prądu, Ukraina wciąż eksportuje energię elektryczną. Ten pozorny paradoks ma swoje wytłumaczenie."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Poseł od Brauna wszedł do szkoły, by szukać flagi Izraela. Wojewoda zawiadamia prokuraturę",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33143774,posel-od-brauna-wszedl-do-szkoly-by-szukac-flagi-izraela-wojewoda.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-20T18:03+00:00",
-      "teaser": "Wojewoda śląski Marek Wójcik poinformował, że razem ze śląską kurator oświaty Aleksandrą Dylą złożył do prokuratury zawiadomienie o podejrzeniu popełnienia przestępstwa przez posła Romana Fritza, który z grupą współpracowników wszedł do szkoły w Rybniku. Zdecydowany głos w tej sprawie zabrała także "
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.99,
+    "score": 5.97,
     "items": [
      {
       "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
       "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
       "source": "New York Times",
-      "date": "2026-11-20T19:41+00:00",
-      "teaser": "Investors are growing more concerned about the durability of the artificial intelligence boom even after Anthropic’s successful market debut on Thursday."
+      "date": "2026-11-20T20:37+00:00",
+      "teaser": "The S&P 500 is close to ending the day in a correction, a drop of 10 percent from its recent high and a symbolic measure of investors’ souring mood."
      },
      {
       "title": "Anthropic shares slide as tech stocks tumble",
@@ -645,7 +645,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 4.0,
     "items": [
      {
       "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
@@ -658,14 +658,34 @@
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-20T19:51+00:00",
+      "date": "2026-11-20T20:54+00:00",
       "teaser": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
+      "url": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-20T17:20+01:00",
+      "teaser": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier."
+     },
+     {
+      "title": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/aktien-ist-der-ki-boom-nach-dem-anthropic-boersengang-vorbei/100270470.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-20T20:06+00:00",
+      "teaser": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.91,
     "items": [
      {
       "title": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
@@ -685,7 +705,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.85,
+    "score": 3.78,
     "items": [
      {
       "title": "What exactly is in the deal between the UK and the EU?",
@@ -705,27 +725,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.69,
-    "items": [
-     {
-      "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
-      "url": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-20T17:20+01:00",
-      "teaser": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier."
-     },
-     {
-      "title": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/aktien-ist-der-ki-boom-nach-dem-anthropic-boersengang-vorbei/100270470.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-20T16:19+00:00",
-      "teaser": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.48,
+    "score": 3.41,
     "items": [
      {
       "title": "Galeria schließt drei Filialen - und noch viele mehr?",
@@ -745,7 +745,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.26,
+    "score": 3.19,
     "items": [
      {
       "title": "Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos",
@@ -765,7 +765,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-20T21:34+01:00",
+      "teaser": "Der Techkonzern Nvidia rutscht immer tiefer in die Krise. Nach dem Skandal um Jensen Huang untersucht die US-Börsenaufsicht nun offenbar mutmaßliche Bilanzprobleme. Bekannt werden auch neue Details über seine Geliebte."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
+      "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+      "source": "New York Times",
+      "date": "2026-11-20T20:35+00:00",
+      "teaser": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy defended its policy."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Energie: Neues Gesetz: Spritpreisdeckel soll doch am 1. Januar starten – aber Reiche plant andere Einschränkungen",
+      "url": "https://www.handelsblatt.com/politik/deutschland/energie-spritpreisdeckel-startet-doch-am-1.januar-aber-auflagen-geplant/100271661.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-20T20:11+00:00",
+      "teaser": "Die Wirtschaftsministerin hat nach Handelsblatt-Informationen ein neues Gesetz für Benzin- und Diesel-Höchstpreise erarbeitet. Sie fürchtet aber weiter um die Versorgung – und plant drei Auflagen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Mehr als 100 Betriebe beteiligt: IG Metall setzt weiter auf ganztätige Warnstreiks",
@@ -778,7 +817,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.92,
     "items": [
      {
       "title": "General strike hits Italy as anger at Meloni grows",
@@ -788,51 +827,33 @@
       "teaser": "Workers and students protest against rising living costs and crumbling public services as Italian prime minister seeks re-election next year"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "US-Börsen: Flucht aus Risikoassets: Ausverkauf an der Nasdaq, S&P im Korrekturmodus",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/us-boersen-flucht-aus-risikoassets-nasdaq-knickt-ein-sp-unter-7000-punkten/100271593.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-20T19:50+00:00",
-      "teaser": "Die Euphorie weicht einem globalen Ausverkauf: Nur einen Tag nach dem Rekord-IPO von Anthropic rutschen die Börsen weltweit ab. Anleger trennen sich von Risikowerten und fliehen in sichere Anlagen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
-      "url": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
-      "source": "New York Times",
-      "date": "2026-11-20T19:39+00:00",
-      "teaser": "The outage, which began a week ago, could delay repairs involving vehicle electronics and key fobs."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Trump seeks Ukraine peace deal before January",
-      "url": "https://www.ft.com/content/6c1b8a64-35f9-4aba-8605-45a4abdce6b8?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-20T19:32+00:00",
-      "teaser": "US officials keen to secure agreement between Vladimir Putin and Volodymyr Zelenskyy before Democrats take over Congress"
-     }
-    ]
    }
   ],
   "Sport": [
    {
+    "sourceCount": 2,
+    "score": 8.06,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Champions League: FC Bayern fertigt Austria Wien ab",
+      "url": "https://www.sportschau.de/regional/br/br-klarer-sieg-im-rekordspiel-fc-bayern-fertigt-austria-wien-ab-102.html",
+      "source": "Sportschau",
+      "date": "2026-11-19T22:39+01:00",
+      "teaser": "Die Fußballerinnen des FC Bayern München haben in der UEFA Women's Champions League 2026/27 einen souveränen Sieg über Tabellenschlusslicht Austria Wien eingefahren. Das Spiel fand vor einer Rekordkulisse statt."
+     },
+     {
+      "title": "Champions League: Bayern-Frauen siegen souverän in Wien",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bayern-frauen-gewinnen-4-0-bei-austria-wien-201700067.html",
+      "source": "FAZ",
+      "date": "2026-11-19T20:33+00:00",
+      "teaser": "Die Frauen des FC Bayern gewinnen bei Austria Wien mit 4:0. Gegen den FC Barcelona können sie nun den direkten Einzug ins Viertelfinale der Champions League perfekt machen."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
-    "score": 7.96,
+    "score": 7.89,
     "favorite": true,
     "items": [
      {
@@ -846,7 +867,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.8,
+    "score": 7.73,
     "favorite": true,
     "items": [
      {
@@ -860,7 +881,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.57,
+    "score": 7.5,
     "items": [
      {
       "title": "Nations-League-Viertelfinale: Deutschland trifft auf Belgien",
@@ -886,16 +907,22 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.52,
-    "favorite": true,
+    "sourceCount": 2,
+    "score": 4.0,
     "items": [
      {
-      "title": "Christensen, probable baja para el Barça-Villarreal",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253433/christensen-probable-baja-barca-villarreal.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-20T15:21+01:00",
-      "teaser": "Andreas Christensen vuelve a estar en riesgo de caerse de una convocatoria del FC Barcelona . Lo más probable es que el central danés de 30 años no entre en la relación de citados por Hansi Flick para reanudar este domingo (14 horas) la Liga en el Spotify Camp Nou ante el Villarreal por unas molesti"
+      "title": "Viktoria Köln ist und bleibt Tabellenführer",
+      "url": "https://www.sportschau.de/regional/ndr/Dritte-Liga-VfL-Havelse,havelse-240.html",
+      "source": "Sportschau",
+      "date": "2026-11-20T21:55+01:00",
+      "teaser": "Viktoria Köln war vor dem 14. Spieltag punktgleicher Tabellenführer und wird es mit hoher Wahrscheinlichkeit auch danach noch sein. Denn der Sieg in Havelse viel mehr als deutlich aus."
+     },
+     {
+      "title": "6:1-Sieg bei Havelse: Viktoria Köln untermauert Drittliga-Tabellenführung",
+      "url": "https://www.kicker.de/havelse-gegen-vikt-koeln-2026-liga-5233349/spielbericht#omrss",
+      "source": "kicker",
+      "date": "2026-11-20T20:14+00:00",
+      "teaser": "Zum Auftakt des 14. Spieltags zeigt Viktoria Köln dem TSV Havelse die Grenzen auf: Mit einem 6:1-Sieg untermauern die Domstädter die Tabellenführung."
      }
     ]
    },
@@ -904,24 +931,24 @@
     "score": 3.98,
     "items": [
      {
-      "title": "LIVE! El Mala und Moore zaubern - Kane verletzt raus",
-      "url": "https://www.kicker.de/live-el-mala-und-moore-zaubern-kane-verletzt-raus-1272755/artikel#omrss",
+      "title": "Sorgen in der Offensive werden größer: Kane und Olise verletzt raus",
+      "url": "https://www.kicker.de/sorgen-in-der-offensive-werden-groesser-kane-und-olise-verletzt-raus-1273345/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-20T18:30+00:00",
-      "teaser": "Nach der Länderspielpause geht es in der Bundesliga mit dem 10. Spieltag weiter. Der FC Bayern eröffnet mit seinem Heimspiel gegen den 1. FC Köln, Coach Vincent Kompany kehrt auf die Trainerbank zurück."
+      "date": "2026-11-20T20:41+00:00",
+      "teaser": "Das Heimspiel gegen den 1. FC Köln begann aus Bayern-Sicht alles andere als gut. Erst gerieten die Münchner früh in Rückstand, dann verletzte sich Harry Kane. Und zur Pause musste dann auch noch Michael Olise raus."
      },
      {
-      "title": "Jetzt live - Köln führt, Kane muss verletzt raus",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193723/bayern-muenchen_1-fc-koeln/liveticker",
+      "title": "Schreck für FC Bayern: Kane und Olise verletzt ausgewechselt",
+      "url": "https://www.sportschau.de/fussball/bundesliga/beide-angeschlagen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
       "source": "Sportschau",
-      "date": "2026-11-20T20:51+01:00",
-      "teaser": "Der 1. FC Köln geht in München mit einem wunderschön herausgespielten Treffer durch Mikey Moore in Führung und sorgt so für eine Überraschung. Harry Kane musste verletzt ausgewechselt werden."
+      "date": "2026-11-20T21:44+01:00",
+      "teaser": "Weltfußballer Harry Kane und sein kongenialer Offensivpartner Michael Olise mussten im Bundesliga-Heimspiel gegen den 1. FC Köln verletzt ausgewechselt werden."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.86,
     "items": [
      {
       "title": "1. FC Köln gegen FC Bayern München: Diese Profis spielten für beide Klubs",
@@ -941,27 +968,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.91,
-    "items": [
-     {
-      "title": "Pochettino the connector: will human touch lift Manchester United?",
-      "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
-      "source": "The Guardian",
-      "date": "2026-11-20T19:00+00:00",
-      "teaser": "Argentinian has excelled in man-management – but will need his powers to energise new squad and impress owners Mauricio Pochettino celebrated his 50th birthday in style. It was March 2022, he was in charge at Paris Saint-Germain and the venue was a stunning boutique hotel; the kind that many capital"
-     },
-     {
-      "title": "Mauricio Pochettino: Der Mann, der Manchester United retten soll",
-      "url": "https://www.faz.net/aktuell/sport/fussball/mauricio-pochettino-bei-manchester-united-kann-er-diesen-klub-retten-201694104.html",
-      "source": "FAZ",
-      "date": "2026-11-19T16:11+00:00",
-      "teaser": "Nun also Mauricio Pochettino: Der Argentinier ist der achte Trainer, der Manchester United seit dem Ende der Alex-Ferguson-Ära zurück zum Erfolg führen soll. Doch die Probleme im Verein liegen tiefer."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.39,
+    "score": 3.32,
     "items": [
      {
       "title": "Vincent Kompany ist zurück: »Ich sehe seit Jahren, wie Trainer Raubbau an sich selbst betreiben«",
@@ -984,11 +991,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Nach 20 Minuten ausgewechselt: Bayern-Sorgen um Kane",
-      "url": "https://www.kicker.de/nach-20-minuten-ausgewechselt-bayern-sorgen-um-kane-1273345/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-20T20:00+00:00",
-      "teaser": "Das Heimspiel gegen den 1. FC Köln begann aus Bayern-Sicht alles andere als gut. Erst gerieten die Münchner früh in Rückstand, dann verletzte sich Harry Kane."
+      "title": "Jetzt live - Starker FC hält mit den Bayern mit",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193723/bayern-muenchen_1-fc-koeln/liveticker",
+      "source": "Sportschau",
+      "date": "2026-11-20T21:51+01:00",
+      "teaser": "Ein starker 1. FC Köln macht dem FC Bayern das Leben schwer. Beim Stand von 1:1 haben beide Teams gleichermaßen Chancen zur Führung. Wer trifft zuerst?"
      }
     ]
    },
@@ -997,37 +1004,37 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Der Primus lässt die Muskeln spielen: Erfurt beendet Altglienickes Drittliga-Ambitionen",
-      "url": "https://www.kicker.de/erfurt-gegen-altglienicke-2026-regionalliga-nordost-5233742/spielbericht#omrss",
-      "source": "kicker",
-      "date": "2026-11-20T19:57+00:00",
-      "teaser": "Wieder kein Sieg gegen ein Top-Team der Regionalliga Nordost: Die VSG Altglienicke verlor am Freitagabend völlig verdient bei Rot-Weiß Erfurt. Damit finden die Titelambitionen der Berliner ein frühes Ende."
+      "title": "Tom Brady: Ex-Football-Star steigt offenbar beim FC Chelsea ein",
+      "url": "https://www.spiegel.de/sport/fussball/tom-brady-ex-football-star-steigt-offenbar-beim-fc-chelsea-ein-a-3ffeb2f1-3990-420f-b94d-4119c73c5699#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-20T21:53+01:00",
+      "teaser": "Als Quarterback schrieb Tom Brady Sportgeschichte. Jetzt will sich der einstige Football-Star im Fußball verewigen: als Anteilseigner des FC Chelsea."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
     "items": [
      {
-      "title": "Troyes - Le Havre: Tor zum 0:1 durch Maja in der 3. Minute",
-      "url": "https://www.kicker.de/troyes-le-havre-tor-zum-0-1-durch-maja-in-der-3-minute-1273346/video#omrss",
+      "title": "Dortmunder Nachwuchs zu stark: Lotte beendet die Hinrunde mit nur sieben Punkten",
+      "url": "https://www.kicker.de/dortmund-ii-gegen-lotte-2026-regionalliga-west-5238592/spielbericht#omrss",
       "source": "kicker",
-      "date": "2026-11-20T19:52+00:00",
-      "teaser": "Szene aus dem Spiel ES Troyes AC - AC Le Havre (Ligue 1 2026/27, 11. Spieltag)."
+      "date": "2026-11-20T20:34+00:00",
+      "teaser": "Borussia Dortmund II ist nach zwei sieglosen Spielen wieder auf Kurs. Gegen die Sportfreunde Lotte, die die Hinrunde abgeschlagen auf dem letzten Platz beenden, reichte ein Doppelschlag vor der Pause zu drei souveränen Punkten"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.95,
     "items": [
      {
-      "title": "6:1-Sieg bei Havelse: Viktoria Köln untermauert Drittliga-Tabellenführung",
-      "url": "https://www.kicker.de/havelse-gegen-vikt-koeln-2026-liga-5233349/spielbericht#omrss",
+      "title": "Führungsstärke als Argument: Südamerikaner stützen Infantino",
+      "url": "https://www.kicker.de/fuehrungsstaerke-als-argument-suedamerikaner-stuetzen-infantino-1273355/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-20T19:50+00:00",
-      "teaser": "Zum Auftakt des 14. Spieltags zeigt Viktoria Köln dem TSV Havelse die Grenzen auf: Mit einem 6:1-Sieg untermauern die Domstädter die Tabellenführung."
+      "date": "2026-11-20T20:24+00:00",
+      "teaser": "Die nächste gute Nachricht für FIFA-Präsident Gianni Infantino vor der Wahl 2027: Die zehn Mitgliedsländer des südamerikanischen Fußballverbandes stehen weiter hinter ihm - und begründen das auch."
      }
     ]
    }
@@ -1035,7 +1042,7 @@
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 5.98,
+    "score": 6.0,
     "items": [
      {
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -1055,14 +1062,14 @@
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-20T19:51+00:00",
+      "date": "2026-11-20T20:54+00:00",
       "teaser": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.67,
     "items": [
      {
       "title": "(g+) Jensen Huang: Wie die New York Times den Spionageskandal um Nvidia aufdeckte",
@@ -1082,7 +1089,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.29,
+    "score": 2.22,
     "items": [
      {
       "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
@@ -1102,7 +1109,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Astronomers watched a star spiral to its death inside a giant companion",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+      "source": "Ars Technica",
+      "date": "2026-11-20T20:41+00:00",
+      "teaser": "A recent brightening turned out to be from a star orbiting inside another."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "source": "The Verge",
+      "date": "2026-11-20T15:43-05:00",
+      "teaser": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+      "source": "Ars Technica",
+      "date": "2026-11-20T20:26+00:00",
+      "teaser": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\""
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
@@ -1115,7 +1161,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.91,
     "items": [
      {
       "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
@@ -1128,7 +1174,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.91,
     "items": [
      {
       "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
@@ -1141,7 +1187,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.89,
     "items": [
      {
       "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
@@ -1154,7 +1200,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.89,
     "items": [
      {
       "title": "Rockstar says GTA VI made $3.79 billion in its first day",
@@ -1167,7 +1213,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.87,
     "items": [
      {
       "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
@@ -1175,45 +1221,6 @@
       "source": "Ars Technica",
       "date": "2026-11-20T19:21+00:00",
       "teaser": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
-      "source": "The Verge",
-      "date": "2026-11-20T12:33-05:00",
-      "teaser": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks and other Apple devices even more expensive. Fortunately, Black Friday offers a c"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T19:03+00:00",
-      "teaser": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Stromsteuer: Warum die Senkung nur ein halbgares Provisorium ist",
-      "url": "https://t3n.de/news/stromsteuer-senkung-provisorium-1774135/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-20T19:55+01:00",
-      "teaser": "Die Senkung der Stromsteuer war ein dringend nötiger Schritt in die richtige Richtung – und ist doch viel zu halbherzig, meint unser Autor. weiterlesen auf t3n.de"
      }
     ]
    }
