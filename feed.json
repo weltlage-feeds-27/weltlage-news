@@ -1,11 +1,18 @@
 {
- "fetchedAt": "2026-11-20T16:01:52+00:00",
+ "fetchedAt": "2026-11-20T17:04:06+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 4,
-    "score": 7.91,
+    "sourceCount": 3,
+    "score": 5.74,
     "items": [
+     {
+      "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
+      "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+      "source": "The Guardian",
+      "date": "2026-11-19T15:35+00:00",
+      "teaser": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the description of “historic”. But in terms "
+     },
      {
       "title": "Inside the historic summit between Trump, Xi and Putin",
       "url": "https://www.pbs.org/newshour/show/inside-the-historic-summit-between-trump-xi-and-putin",
@@ -14,11 +21,71 @@
       "teaser": "It was the summit seen around the world. The first-ever trilateral meeting between the leaders of the United States, China and Russia resulted in a joint statement that included promises to release more oil and hold formal talks about nuclear weapons. Nick Schifrin reports from Shenzhen."
      },
      {
-      "title": "What Trump, Putin and Xi Left on the Table",
-      "url": "https://www.nytimes.com/2026/11/20/podcasts/the-daily/trump-putin-xi-summit-ai.html",
-      "source": "New York Times (Politik)",
-      "date": "2026-11-20T11:00+00:00",
-      "teaser": "A summit among the leaders of the United States, China and Russia produced no treaties on war or nuclear weapons — and the A.I. race wasn’t even on the agenda."
+      "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
+      "source": "New York Times",
+      "date": "2026-11-20T13:56+00:00",
+      "teaser": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.4,
+    "items": [
+     {
+      "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+      "source": "NPR",
+      "date": "2026-11-19T07:29-05:00",
+      "teaser": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017."
+     },
+     {
+      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+      "source": "New York Times",
+      "date": "2026-11-20T01:37+00:00",
+      "teaser": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time."
+     },
+     {
+      "title": "Myanmar calls international court ruling on Rohingya genocide 'unfair'",
+      "url": "https://www.abc.net.au/news/2026-11-20/myanmar-calls-icj-ruling-on-genocide-unfair/107411450",
+      "source": "ABC Australia",
+      "date": "2026-11-20T09:54+00:00",
+      "teaser": "A government spokesperson says the decision by the International Court of Justice was not unanimous and Myanmar was unjustly accused."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 4.0,
+    "items": [
+     {
+      "title": "Mamdani unveils plan to close New York’s notorious Rikers Island jail",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375293/mamdani-unveils-plan-close-new-yorks-notorious-rikers-island-jail",
+      "source": "South China Morning Post",
+      "date": "2026-11-20T17:00+00:00",
+      "teaser": "New York’s Rikers Island jail complex would close by 2032 under a sweeping plan announced on Friday by Mayor Zohran Mamdani, whose strategy for finally shuttering the notorious facility hinges on substantially reducing the number of people kept behind bars. The mayor, a Democrat, unveiled the plan a"
+     },
+     {
+      "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+      "source": "NPR (Politik)",
+      "date": "2026-11-20T05:00-05:00",
+      "teaser": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Watch live: Trump holds press conference after meeting with Xi, Putin",
+      "url": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
+      "source": "France 24",
+      "date": "2026-11-20T16:30+00:00",
+      "teaser": "US President Donald Trump is set to hold a White House press conference Friday, following his return to Washington after a four-day trip to Asia that saw him sit down for a first-ever trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin. Watch his conference live"
      },
      {
       "title": "Trump to hold press conference after meeting with Xi and Putin",
@@ -30,55 +97,28 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.81,
+    "sourceCount": 2,
+    "score": 3.93,
     "items": [
      {
-      "title": "Myanmar calls international court ruling on Rohingya genocide 'unfair'",
-      "url": "https://www.abc.net.au/news/2026-11-20/myanmar-calls-icj-ruling-on-genocide-unfair/107411450",
-      "source": "ABC Australia",
-      "date": "2026-11-20T09:54+00:00",
-      "teaser": "A government spokesperson says the decision by the International Court of Justice was not unanimous and Myanmar was unjustly accused."
+      "title": "Senate passes bipartisan energy bill amid environmental concerns",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
+      "source": "NPR (Politik)",
+      "date": "2026-11-20T06:00-05:00",
+      "teaser": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants."
      },
      {
-      "title": "Myanmar calls ICJ ruling on genocide 'unfair'",
-      "url": "https://www.thehindu.com/news/international/myanmar-calls-icj-ruling-on-genocide-unfair/article71723709.ece",
-      "source": "The Hindu",
-      "date": "2026-11-20T14:51+05:30",
-      "teaser": "The ruling by the ⁠International Court of Justice was the first time the court has held a ​State responsible for ‌genocide"
-     },
-     {
-      "title": "Myanmar, China object to landmark ICJ ruling on Rohingya genocide",
-      "url": "https://www.aljazeera.com/news/2026/11/20/myanmar-china-object-to-unfair-icj-genocide-ruling?traffic_source=rss",
+      "title": "US Senate passes bill to speed up energy project approvals",
+      "url": "https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss",
       "source": "Al Jazeera",
-      "date": "2026-11-20T13:41+00:00",
-      "teaser": "A Myanmar government spokesperson said the ruling was unjust and noted that the court's decision was not unanimous."
+      "date": "2026-11-20T16:10+00:00",
+      "teaser": "The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
-    "items": [
-     {
-      "title": "Gipfeltreffen: Brüssel und London feilschen wie eh und je",
-      "url": "https://www.faz.net/aktuell/politik/ausland/eu-und-grossbritannien-schliessen-abkommen-und-streiten-weiter-201701624.html",
-      "source": "FAZ",
-      "date": "2026-11-20T15:39+00:00",
-      "teaser": "Trotz des Neustarts der Beziehungen ist das Vertrauen beider Seiten gering. Eine Vereinbarung zu Studiengebühren steht weiter aus. Die Spitzen versuchen das zu überspielen."
-     },
-     {
-      "title": "Großbritannien-EU-Gipfel: Brüssel und London einigen sich auf Wiederannäherung",
-      "url": "https://www.spiegel.de/ausland/grossbritannien-eu-gipfel-bruessel-und-london-einigen-sich-auf-wiederannaeherung-a-6ccc48b9-df7e-478e-9815-038882284bba#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-20T13:05+01:00",
-      "teaser": "Die EU und Großbritannien rücken wieder dichter zusammen. Erste Vereinbarungen gibt es bei den Themen Handel und der grenzüberschreitenden Mobilität von jungen Menschen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.89,
     "items": [
      {
       "title": "Texas Execution Took an Hour as Prisoner Moaned in Pain, Witnesses Say",
@@ -98,67 +138,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
-    "items": [
-     {
-      "title": "COP31 wrapping up in Turkey: Climate deal elusive as fossil fuels go unmentioned",
-      "url": "https://www.france24.com/en/video/20261120-cop31-wrapping-up-in-turkey-climate-deal-elusive-as-fossil-fuels-go-unmentioned",
-      "source": "France 24",
-      "date": "2026-11-20T14:38+00:00",
-      "teaser": "The UN's COP31 climate talks were set to spill into overtime Friday as countries remained deadlocked over a draft deal that makes no mention of fossil fuels, with a host of other disputes also snarling negotiations. The talks come with a series of stark reminders of the urgency of climate action, fr"
-     },
-     {
-      "title": "COP31 climate talks go into overtime as nations quarrel over fossil fuels",
-      "url": "https://www.scmp.com/news/world/article/3375291/cop31-climate-talks-go-overtime-nations-quarrel-over-fossil-fuels",
-      "source": "South China Morning Post",
-      "date": "2026-11-20T15:34+00:00",
-      "teaser": "The COP31 climate conference slipped into overtime on Friday as negotiators from nearly 200 ⁠countries struggled to bridge deep divisions ⁠over fossil fuels and climate finance. Environmental groups tracking the two-week conference ⁠heaped pressure on host Turkey and lead negotiator Australia, sayin"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
     "score": 3.88,
     "items": [
      {
-      "title": "Russia pummels Ukraine with massive strikes, missile hits Poland",
-      "url": "https://www.france24.com/en/video/20261120-russia-pummels-ukraine-with-massive-strikes-missile-hits-poland",
-      "source": "France 24",
-      "date": "2026-11-20T14:36+00:00",
-      "teaser": "Moscow pounded Ukraine with massive strikes Friday, with Kyiv saying at least six people were killed in the capital, and neighbouring Poland reporting two Russian missiles likely landed in the south-east corner of the NATO country, accusing Moscow of a \"provocation.\" Hours earlier, Russia's Vladimir"
+      "title": "Gipfeltreffen: EU und London einigen sich – und streiten doch weiter",
+      "url": "https://www.faz.net/aktuell/politik/ausland/eu-und-grossbritannien-schliessen-abkommen-und-streiten-weiter-201701624.html",
+      "source": "FAZ",
+      "date": "2026-11-20T15:39+00:00",
+      "teaser": "Trotz des Neustarts der Beziehungen ist das Vertrauen beider Seiten gering. Eine Vereinbarung zu Studiengebühren steht weiter aus. Die Spitzen versuchen das zu überspielen."
      },
      {
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T13:52+00:00",
-      "teaser": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+      "title": "Großbritannien-EU-Gipfel: Brüssel und London einigen sich auf Wiederannäherung",
+      "url": "https://www.spiegel.de/ausland/grossbritannien-eu-gipfel-bruessel-und-london-einigen-sich-auf-wiederannaeherung-a-6ccc48b9-df7e-478e-9815-038882284bba#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-20T13:05+01:00",
+      "teaser": "Die EU und Großbritannien rücken wieder dichter zusammen. Erste Vereinbarungen gibt es bei den Themen Handel und der grenzüberschreitenden Mobilität von jungen Menschen."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
-    "items": [
-     {
-      "title": "Burnham hails 'landmark' EU-UK deal as 'good day' for Britain, Europe",
-      "url": "https://www.france24.com/en/video/20261120-burnham-hails-landmark-eu-uk-deal-as-good-day-for-britain-europe",
-      "source": "France 24",
-      "date": "2026-11-20T14:37+00:00",
-      "teaser": "Britain and the European Union agreed deals on trade, carbon emissions and youth movement on Friday, and pledged to rebuild ties with an “ambitious and dynamic” post-Brexit relationship. In a joint statement after a summit in Brussels, the UK and EU confirmed agreements that will scrap checks on the"
-     },
-     {
-      "title": "UK says new deal will ‘rebuild bridges’ with EU: What’s in it?",
-      "url": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-20T13:59+00:00",
-      "teaser": "Agreements aim to simplify trade checks, link emissions systems and launch a youth mobility programme."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.78,
     "items": [
      {
       "title": "Justice Department Gives Up on Alaska Senate Lawsuit",
@@ -178,27 +178,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.83,
-    "items": [
-     {
-      "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
-      "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
-      "source": "The Guardian",
-      "date": "2026-11-19T15:35+00:00",
-      "teaser": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agenda It is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the description of “historic”. But in terms "
-     },
-     {
-      "title": "Putin Exits Summit With Symbolic Win, Saying He and Trump Share ‘Values’",
-      "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html",
-      "source": "New York Times",
-      "date": "2026-11-20T13:56+00:00",
-      "teaser": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.81,
+    "score": 3.72,
     "items": [
      {
       "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans",
@@ -218,7 +198,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.71,
     "items": [
      {
       "title": "8 killed in Ukraine as Russia hits back after Crimea bridge attacks",
@@ -238,7 +218,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.7,
     "items": [
      {
       "title": "Pistorius will Militärpakt mit Polen ausbauen",
@@ -255,12 +235,52 @@
       "teaser": "Die Erinnerung an den Holocaust wachhalten und die Verteidigung Europas stärken - das könnte die Überschrift sein für den Besuch von Bundesverteidigungsminister Boris Pistorius im Nachbarland Polen."
      }
     ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.34,
+    "items": [
+     {
+      "title": "News Wrap: Russian drone attack damages Dutch embassy and cathedral in Ukraine",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-russian-drone-attack-damages-dutch-embassy-and-cathedral-in-ukraine",
+      "source": "PBS NewsHour",
+      "date": "2026-11-19T18:45-05:00",
+      "teaser": "In our news wrap Thursday, a Russian drone damaged the Dutch embassy and a cathedral in Ukraine, President Trump says he posthumously pardoned Pete Rose, record-breaking rains inundated parts of Florida's Atlantic coast and the Cincinnati Zoo says its famous hippo, Fiona, died after she swallowed a "
+     },
+     {
+      "title": "2 Russian Kh-101 missiles, drone, fall in Poland during Russian attack on Ukraine",
+      "url": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-20T09:11+00:00",
+      "teaser": "At around 3:30 a.m. local time, Poland's Armed Forces Operational Command said its air defense systems had been activated in response to the Russian attack."
+     }
+    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.9,
+    "items": [
+     {
+      "title": "Ulrich Siegmund: Die neue Taktik der AfD: Überrumpelung",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/ulrich-siegmund-afd-sachsen-anhalt-ministerpraesident-landesregierung",
+      "source": "Zeit",
+      "date": "2026-11-20T10:21+00:00",
+      "teaser": "Die AfD in Sachsen-Anhalt zieht die Wahl zum Ministerpräsidenten vor. Doch wie Ulrich Siegmund ins Amt kommen will, weiß niemand so recht. Wohl nicht einmal er selbst."
+     },
+     {
+      "title": "Podcast „Auf den Punkt“: Ulrich Siegmund: Mann der leeren Worte?",
+      "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-afd-siegmund-sachsen-anhalt-li.3583629",
+      "source": "Süddeutsche",
+      "date": "2026-11-20T15:53+00:00",
+      "teaser": "In Sachsen-Anhalt will der AfD-Politiker am 8. Dezember zum Ministerpräsidenten gewählt werden. Mit welcher Mehrheit?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.83,
     "items": [
      {
       "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
@@ -279,54 +299,14 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.56,
-    "items": [
-     {
-      "title": "News: Klimakonferenz, Jugend demonstriert, Bundesrat beschließt digitale Geldbörse",
-      "url": "https://www.spiegel.de/politik/deutschland/news-klimakonferenz-endet-jugend-demonstriert-bundesrat-beschliesst-digitale-geldboerse-a-aedaefe0-00a1-4105-8774-4a5de8dde5f4#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-20T05:43+01:00",
-      "teaser": "In Antalya dümpelt die Klimakonferenz ihrem Ende entgegen. In ganz Deutschland wollen junge Leute protestieren. Und mit dem Smartphone soll bald vieles viel einfacher gehen. Das ist die Lage am Freitagmorgen."
-     },
-     {
-      "title": "Frühstartrente: Bundesrat beschließt Frühstartrente für Kinder",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/fruehstartrente-kinder-altersvorsorge-kapital-gedeckte-rente-gxe",
-      "source": "Zeit",
-      "date": "2026-11-20T10:41+00:00",
-      "teaser": "Nach der Zustimmung des Bundesrats startet die Frühstartrente rückwirkend zum 1. Januar. Alle Sechsjährigen bekommen ein staatlich gefördertes Depot zur Altersvorsorge."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.49,
-    "items": [
-     {
-      "title": "Verteidigungsminister Pistorius wirbt in Polen für mehr Zusammenarbeit",
-      "url": "https://www.tagesschau.de/inland/pistorius-reise-polen-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-19T10:27+01:00",
-      "teaser": "In Sicherheitsfragen arbeiten Polen und Deutschland eng zusammen, doch die Beziehung ist historisch belastet. Mit seinem zweitägigen Besuch will Verteidigungsminister Pistorius im Nachbarland für eine starke Partnerschaft werben. Von Claudia Buckenmaier."
-     },
-     {
-      "title": "Verteidigungsminister in Polen: Ein Mann weist den Weg",
-      "url": "https://www.zeit.de/politik/2026-11/boris-pistorius-verteidigungsminister-polen-auschwitz-mahnung",
-      "source": "Zeit",
-      "date": "2026-11-20T09:55+00:00",
-      "teaser": "Langsam schließt auch die SPD Deutschlands beliebtesten Politiker ins Herz: Boris Pistorius wird zum Kompass für eine Partei, die nicht mehr weiß, wofür sie stehen soll."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
     "score": 1.99,
     "items": [
      {
-      "title": "Gen Z-Demos in BW: ++ Proteste im ganzen Land beginnen ++ Mindestens 2.000 Menschen in Freiburg auf der Straße ++ \"Schulstreiks gegen Wehrpflicht\" beendet ++",
+      "title": "Gen Z-Demos in BW: ++ Kundgebung in Stuttgart beginnt ++ Mindestens 2.000 Menschen in Freiburg auf der Straße ++ Rechte Gegendemo in Karlsruhe gebildet ++",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/gen-z-regelt-proteste-im-ganzen-land-100.html",
       "source": "SWR",
-      "date": "2026-11-20T16:55+01:00",
+      "date": "2026-11-20T18:00+01:00",
       "teaser": "Die Initiative \"Gen Z regelt\" hat bundesweit zu Protesten aufgerufen. Auch in Baden-Württemberg sind Demos geplant."
      }
     ]
@@ -336,37 +316,76 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Prien verteidigt Kürzungen bei \"Demokratie leben!\"",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-demokratiefoerderung-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-20T16:49+01:00",
-      "teaser": "Bundesfamilienministerin Prien weist gegenüber dem ARD-Hauptstadtstudio den Vorwurf zurück, bei Projekten gegen Antisemitismus zu sparen. Dennoch verlören einzelne Projekte die Förderung. Von Sarah Beham und Markus Langenstraß."
+      "title": "SPD-Landeschef Steffen Krach: Der Buhmann von Berlin",
+      "url": "https://www.spiegel.de/politik/deutschland/spd-landeschef-steffen-krach-der-buhmann-von-berlin-a-c4658a19-bf41-4f07-a323-e689049b10f2#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-20T17:47+01:00",
+      "teaser": "Der Sozialdemokrat Steffen Krach hat die Wahl in der Hauptstadt verloren, seine Fraktion ist gespalten. Nun muss er eine Koalition verhandeln, die hochrangige SPD-Leute ablehnen. Warum tut er sich das an?"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.98,
     "items": [
      {
-      "title": "Ukraine-Krieg: Skeptische Reaktion auf Putins Einladung an Europäer",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-skeptische-reaktion-auf-putins-einladung-an-europaeer-li.3583788",
-      "source": "Süddeutsche",
-      "date": "2026-11-20T15:23+00:00",
-      "teaser": ""
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Wie eine KI-App im Matheunterricht Schulkinder in Heilbronn motiviert",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/schulleiter-symposium-zu-ki-an-schulen-beispiel-aus-dem-mathe-unterricht-livinglines-100.html",
+      "title": "Explosion vor Veranstaltungsgebäude in Rheinfelden - eine Person leicht verletzt",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/explosion-in-rheinfelden-loerrach-glasfassade-veranstaltungsgebaeude-zerstoert-eine-person-leicht-verletzt-100.html",
       "source": "SWR",
-      "date": "2026-11-20T16:22+01:00",
-      "teaser": "Schulkinder nutzen KI gerne - doch wie lernen sie dann noch? Dazu haben sich über 350 Schulleitungen ausgetauscht. Eine Heilbronner App zeigt, wie KI beim Mathe-Lernen hilft."
+      "date": "2026-11-20T17:52+01:00",
+      "teaser": "Durch eine Explosion vor einem Veranstaltungsgebäude in Rheinfelden ist eine Person leicht verletzt worden. Das teilt die Polizei nun mit. Was zur Detonation bisher bekannt ist."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Machtkampf in der Spitze der Waldshuter AfD? Co-Vorsitzende tritt zurück",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/machtkampf-in-der-spitze-der-waldshuter-afd-vorsitzende-tritt-zurueck-100.html",
+      "source": "SWR",
+      "date": "2026-11-20T17:45+01:00",
+      "teaser": "Andrea Zürcher kam mit ihrem Rücktritt einer möglichen Abwahl zuvor. Der AfD-Kreisvorstand hatte sie nach ihrer Verurteilung zum Rücktritt aufgefordert."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Gen Z regelt: Jugendliche protestieren für Bildung, Klima und bezahlbares Leben",
+      "url": "https://www.spiegel.de/politik/deutschland/gen-z-regelt-jugendliche-protestieren-fuer-bildung-klima-und-bezahlbares-leben-a-e88fe963-e880-4004-9043-c7d84ca70e6e#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-20T17:32+01:00",
+      "teaser": "Es geht um Bildung, Wehrpflicht, bezahlbares Leben, Klima: Tausende Jugendliche demonstrieren in vielen deutschen Städten. Eindrücke aus Berlin."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "AfD: Höcke holt seinen Getreuen nach Thüringen",
+      "url": "https://www.faz.net/aktuell/politik/inland/thueringen-hoecke-vertrauter-thorsten-weiss-wird-afd-geschaeftsfuehrer-201700967.html",
+      "source": "FAZ",
+      "date": "2026-11-20T16:29+00:00",
+      "teaser": "Der Berliner AfD-Politiker Thorsten Weiß ist schon lange ein enger Gefolgsmann von Björn Höcke. Nun soll er Parteigeschäftsführer in Thüringen werden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "SZ am Abend: Nachrichten vom 20. November 2026",
+      "url": "https://www.sueddeutsche.de/politik/news-gen-z-proteste-klimagipfel-polen-russland-li.3583818",
+      "source": "Süddeutsche",
+      "date": "2026-11-20T16:30+00:00",
+      "teaser": "Was heute wichtig war."
      }
     ]
    },
@@ -375,24 +394,117 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Gen-Z-Proteste: Hohes Polizeiaufgebot in vielen Städten",
-      "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-schulpolitik-militaerdienst-liveblog-100.html",
-      "source": "ZDF",
-      "date": "2026-11-20T16:19+01:00",
-      "teaser": "Bundesweit protestiert die Gen Z wieder für ihre Anliegen. Bisher verlaufen die Demos friedlich - in vielen Städten begleitet von einem großen Polizeiaufgebot. Die Lage im Liveblog."
+      "title": "Pistorius in Polen: Eine Reise im Zeichen der Erinnerungsarbeit",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/pistorius-polen-gedenken-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-20T17:22+01:00",
+      "teaser": "Deutschland und Polen wollen mehr Verantwortung für die Sicherheit in Europa übernehmen. Bei seiner Polen-Reise erinnert Verteidigungsminister Pistorius an die deutsche Verantwortung für die Vergangenheit. Von C. Buckenmaier."
      }
     ]
    },
    {
     "sourceCount": 1,
     "score": 1.94,
+    "items": [
+     {
+      "title": "Manuela Schwesig wird an der Galle operiert",
+      "url": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-wird-an-der-galle-operiert-a-9b402c57-fbbd-426f-8fda-ea2a869fdc60#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-20T17:20+01:00",
+      "teaser": "Manuela Schwesig wird kommende Woche keine Termine wahrnehmen. Die SPD-Politikerin muss sich einer Operation unterziehen. Sie habe mit dem Eingriff bis nach der Regierungsbildung in Mecklenburg-Vorpommern gewartet."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Schlagzeilen",
       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
       "source": "ZDF",
-      "date": "2026-11-20T16:18+01:00",
+      "date": "2026-11-20T17:01+01:00",
       "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+     }
+    ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Od holenderskiej ambasady po polskie lotnisko w Jasionce. Kolejne państwa na celowniku Putina",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45519541-od-holenderskiej-ambasady-po-polskie-lotnisko-w-jasionce-kolejne-panstwa-na-celowniku-putina",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-20T17:55+01:00",
+      "teaser": "Kreml zareagował na informacje o francuskich żołnierzach w Ukrainie i rakietach z Holandii uderzających w Most Krymski, atakując dronem holenderską ambasadę w Kijowie. Do francuskiej jednak nie strzelał – boi się."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Rosyjskie rakiety w rejonie manewrów Koalicji Chętnych. Czym jest ćwiczenie KOALICJA 26.2",
+      "url": "https://radar.rp.pl/wojsko-polskie/art45521321-rosyjskie-rakiety-w-rejonie-manewrow-koalicji-chetnych-czym-jest-cwiczenie-koalicja-26-2",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-20T17:49+01:00",
+      "teaser": "Dwie rosyjskie rakiety i najprawdopodobniej dron spadły na Podkarpaciu i Lubelszczyźnie, gdy pod Nową Dębą ćwiczą siły Koalicji Chętnych. Wyjaśniamy, czym jest KOALICJA 26.2 i jaką rolę odgrywa w niej Polska."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Giełdowy kac po debiucie Anthropic. Akcje technologicznych gigantów ostro w dół",
+      "url": "https://cyfrowa.rp.pl/globalne-interesy/art45520231-gieldowy-kac-po-debiucie-anthropic-akcje-technologicznych-gigantow-ostro-w-dol",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-20T17:48+01:00",
+      "teaser": "Rekordowy debiut giełdowy Anthropic miał być świętem branży AI, tymczasem na światowych parkietach rozpoczęła się wyprzedaż. Inwestorzy realizują zyski i znów obawiają się pęknięcia bańki sztucznej inteligencji. Na wartości mocno tracą nawet akcje samego Anthropic."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Elektryczny korytarz dla ciężarówek, których nie ma",
+      "url": "https://logistyka.rp.pl/elektromobilnosc/art45521781-elektryczny-korytarz-dla-ciezarowek-ktorych-nie-ma",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-20T17:44+01:00",
+      "teaser": "Pojawiają się w coraz większych ilościach stacje do ładowania elektrycznych samochodów ciężarowych. Jednak ich flota jest znikoma i rośnie powoli."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "W poszukiwaniu śladów dinozaurów. „Archeo: Wykopaliska” to hitowa gra z Francji",
+      "url": "https://www.rp.pl/plus-minus/art45517871-w-poszukiwaniu-sladow-dinozaurow-archeo-wykopaliska-to-hitowa-gra-z-francji",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-20T17:40+01:00",
+      "teaser": "Młodzi paleontolodzy, wystąp! Powstała dla was nowa gra!"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Sędzia Mariusz Ulman odpowiada Żurkowi: przywracanie praworządności to puste słowa",
+      "url": "https://www.rp.pl/zawody-prawnicze/art45520221-sedzia-mariusz-ulman-odpowiada-zurkowi-przywracanie-praworzadnosci-to-puste-slowa",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-20T17:22+01:00",
+      "teaser": "Nie będę się tłumaczyć ministrowi. Jeżeli pan minister chce porozmawiać ze mną o tym, jak uzdrowić sądownictwo i rzeczywiście przywrócić praworządność, to jestem na to otwarty – mówi sędzia Mariusz Ulman i odpowiada na zarzuty Waldemara Żurka."
      }
     ]
    },
@@ -401,45 +513,17 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Wolf oder \"wolfsähnlicher Hund\"? Tiere-Raten in Täferrot",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/wolf-oder-wolfsaehnlicher-hund-in-taeferrot-gesichtet-100.html",
-      "source": "SWR",
-      "date": "2026-11-20T16:09+01:00",
-      "teaser": "Rätselraten in Täferrot im Ostalbkreis: Dort ist ein Wolf gesichtet und fotografiert worden. Die Fotos sind etwas unscharf. War es vielleicht doch nur ein \"wolfsähnlicher Hund\"?"
+      "title": "To te pociski naruszyły polską przestrzeń powietrzną. Czym zaaatakowała Rosja?",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45521731-to-te-pociski-naruszyly-polska-przestrzen-powietrzna-czym-zaaatakowala-rosja",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-20T17:15+01:00",
+      "teaser": "Rosja wykorzystuje w atakach na Ukrainę pociski manewrujące Ch-101 oraz Gerań-5, czyli bezzałogowce przypominające niewielkie pociski manewrujące. Oba typy stanowią poważne wyzwanie dla obrony przeciwlotniczej. To właśnie takie środki uderzeniowe znalazły się wśród obiektów związanych z rosyjskim at"
      }
     ]
    },
    {
     "sourceCount": 1,
     "score": 1.91,
-    "items": [
-     {
-      "title": "Kritik an Ausnahmen bei Erbschaftsteuer nach Recherchen über Döpfner-Schenkung",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-20T15:58+01:00",
-      "teaser": "Springer-Chef Döpfner hat im Jahr 2020 von Verlegerin Friede Springer ein Milliarden-Aktienpaket übertragen bekommen - aber wohl kaum Schenkungsteuern gezahlt. Politiker von SPD und CDU fordern nun Änderungen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "BYD statt Mercedes: Chinesischer Hersteller nutzt Lücke im Taxi-Geschäft",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/byd-als-taxi-konkurrenz-mercedes-chinesischer-hybrid-100.html",
-      "source": "SWR",
-      "date": "2026-11-20T15:59+01:00",
-      "teaser": "Mercedes war früher die Taxi-Marke. Doch Werksangebote wurden zurückgefahren. BYD nutzt diese Lücke. Nun fährt sogar in Stuttgart der erste Taxifahrer ein chinesisches Modell."
-     }
-    ]
-   }
-  ],
-  "Polen": [
-   {
-    "sourceCount": 1,
-    "score": 2.0,
     "items": [
      {
       "title": "Bogusław Chrabota: Władysław Kosiniak-Kamysz walczy o przetrwanie. Reset może mu w tym pomóc",
@@ -452,7 +536,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.91,
     "items": [
      {
       "title": "Duopol gra przeciwko resetowi TK, nad Polską rakiety, w polityce teatr",
@@ -465,46 +549,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Więcej osób nie zapłaci kosztów sądowych. Jest projekt",
-      "url": "https://www.rp.pl/w-sadzie-i-w-urzedzie/art45521001-wiecej-osob-nie-zaplaci-kosztow-sadowych-jest-projekt",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T16:57+01:00",
-      "teaser": "Rozszerzenie zwolnień z kosztów sądowych na dwie dodatkowe grupy osób przewiduje projekt nowelizacji ustawy o kosztach sądowych w sprawach cywilnych, który trafił właśnie do konsultacji."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Hołownia ambasadorem w Watykanie? Ksiądz: niezwykle słaba kandydatura",
-      "url": "https://www.rp.pl/dyplomacja/art45521241-holownia-ambasadorem-w-watykanie-ksiadz-niezwykle-slaba-kandydatura",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T16:51+01:00",
-      "teaser": "Kandydatura Szymona Hołowni na ambasadora w Watykanie, ze względu na jego wykształcenie i niską znajomość języka włoskiego, nie służyłaby polskiej racji stanu – twierdzi ks. prof. Andrzej Kobyliński, wykładowca UKSW, z którym rozmawiał „Fakt”."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Naruszenie polskiej przestrzeni powietrznej. Ruszyła fala dezinformacji",
-      "url": "https://www.rp.pl/media/art45521571-naruszenie-polskiej-przestrzeni-powietrznej-ruszyla-fala-dezinformacji",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T16:47+01:00",
-      "teaser": "Po incydencie w powiecie biłgorajskim sieć zalała fala dezinformacji. Oskarżenia o ukraińską prowokację, zarzuty wobec polskiej obrony powietrznej i sugestie o planowanym wprowadzeniu stanu wyjątkowego – to najczęstsze przykłady fałszywej narracji, które wymienia Ministerstwo Cyfryzacji."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.89,
     "items": [
      {
       "title": "Strzelał na granicy z Białorusią, gdzie znajdowali się migranci i inni żołnierze. Jest decyzja sądu",
@@ -517,59 +562,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Po nalocie rosyjskich obiektów drony sprawdzają teren. Szukają śladów materiałów wybuchowych",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45521111-po-nalocie-rosyjskich-obiektow-drony-sprawdzaja-teren-szukaja-sladow-materialow-wybuchowych",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T16:40+01:00",
-      "teaser": "Wojskowi prokuratorzy z Lublina mają w jednym śledztwie zbadać trzy incydenty z obiektami, które spadły nad ranem. Zanim ruszą oględziny, teren pod kątem pirotechnicznym sprawdzi dron z czujnikami do detekcji substancji niebezpiecznych."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Mieszkania używane najdłużej sprzedają się w Warszawie",
-      "url": "https://www.rp.pl/nieruchomosci-mieszkaniowe/art45521291-mieszkania-uzywane-najdluzej-sprzedaja-sie-w-warszawie",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T16:37+01:00",
-      "teaser": "Sprzedający mieszkania w stolicy na kupca czekają dziś średnio 129 dni, dłużej niż w innych miastach – wynika z analiz Metrohouse i Credipass."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Piotr Moczulski nie żyje. Dwa lata temu uległ poważnemu wypadkowi na Filipinach",
-      "url": "https://www.rp.pl/spoleczenstwo/art45521491-piotr-moczulski-nie-zyje-dwa-lata-temu-ulegl-powaznemu-wypadkowi-na-filipinach",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T16:34+01:00",
-      "teaser": "Nie żyje Piotr Moczulski. 42-latek doznał poważnego wypadku na Filipinach i we wrześniu sprowadzono go z powrotem do Polski. Informacje potwierdził brat zmarłego Tomasz Moczulski."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Rusza rozbiórka kultowego biurowca w centrum Warszawy. Wiemy, co będzie dalej",
-      "url": "https://www.rp.pl/nieruchomosci/art45521151-rusza-rozbiorka-kultowego-biurowca-w-centrum-warszawy-wiemy-co-bedzie-dalej",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T16:33+01:00",
-      "teaser": "Po ostatecznym rozstrzygnięciu, że Intraco nie może być zabytkiem, zaczyna się wyburzanie. W tym miejscu PHN postawi nowoczesny budynek. Przewidywany termin oddania to 2030 r."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Kosiniak-Kamysz z koalicją chętnych: Rosyjski atak był skoordynowany z naszymi ćwiczeniami",
@@ -582,7 +575,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Poland prevented Russian false-flag operation at border, says advisor to defence minister",
@@ -596,55 +589,28 @@
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 3,
-    "score": 5.72,
+    "sourceCount": 2,
+    "score": 3.94,
     "items": [
      {
-      "title": "Verschärfter Sparkurs: Lufthansa streicht 1000 Stellen an Drehkreuzen Frankfurt und München",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lufthansa-streicht-1000-stellen-an-drehkreuzen-frankfurt-und-muenchen-accg-201701299.html",
-      "source": "FAZ",
-      "date": "2026-11-20T12:36+00:00",
-      "teaser": "Lufthansa spart schon für die wirtschaftliche Genesung ihrer Kernmarke. Doch die bisherigen Schritte reichen laut Management nicht aus. Nun sollen mehr Posten wegfallen als bislang bekannt."
+      "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
+      "url": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-20T17:20+01:00",
+      "teaser": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier."
      },
      {
-      "title": "Lufthansa will an deutschen Drehkreuzen rund 1000 Stellen abbauen",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/lufthansa-will-an-deutschen-drehkreuzen-rund-1000-stellen-abbauen-a-7be97521-a2ad-4a67-bc82-3c7453488916#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-20T06:56+01:00",
-      "teaser": "Hiobsbotschaft für die Beschäftigten: Rund 1000 Stellen an den Lufthansa-Drehkreuzen Frankfurt am Main und München sollen wegfallen – wann und auf welchem Weg, ist noch offen."
-     },
-     {
-      "title": "Lufthansa: Lufthansa will 1.000 Stellen in Frankfurt und München streichen",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/lufthansa-stellenabbau-frankfurt-muenchen-airbus-a320-a220",
-      "source": "Zeit",
-      "date": "2026-11-19T23:14+00:00",
-      "teaser": "Die Fluggesellschaft macht nach eigenen Angaben im operativen Geschäft Verluste. Das Unternehmen will daher an den Drehkreuzen Frankfurt und München Stellen abbauen."
+      "title": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/aktien-ist-der-ki-boom-nach-dem-anthropic-boersengang-vorbei/100270470.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-20T16:19+00:00",
+      "teaser": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
-    "items": [
-     {
-      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-      "source": "The Guardian",
-      "date": "2026-11-20T15:54+00:00",
-      "teaser": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London gets in the next six "
-     },
-     {
-      "title": "Burnham’s EU deal in brief",
-      "url": "https://www.ft.com/content/be7924c4-8e29-4630-82f3-f94001765d37?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-20T12:45+00:00",
-      "teaser": "UK prime minister hopes Friday’s agreement is first step in a much closer post-Brexit relationship"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.88,
     "items": [
      {
       "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
@@ -664,7 +630,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.73,
     "items": [
      {
       "title": "Galeria schließt drei Filialen - und noch viele mehr?",
@@ -684,7 +650,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.6,
+    "score": 3.52,
     "items": [
      {
       "title": "Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos",
@@ -704,121 +670,113 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "Katar: Friedrich Merz begrüßt Milliarden-Investitionen in Deutschland",
-      "url": "https://www.spiegel.de/wirtschaft/katar-friedrich-merz-begruesst-milliarden-investitionen-in-deutschland-a-43570797-3fed-4b48-91a3-5bcd3d31d2d0#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-20T16:52+01:00",
-      "teaser": "Katar kauft sich gern bei deutschen Unternehmen ein. Bundeskanzler Friedrich Merz hat mit dem Emir nun neue Investitionen vereinbart."
+      "title": "Kraftwerke: Marktmacht von RWE ist ungebrochen",
+      "url": "https://www.handelsblatt.com/politik/deutschland/strom-marktmacht-von-rwe-ist-ungebrochen/100271608.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-20T16:47+00:00",
+      "teaser": "Die Macht des Energiekonzerns RWE deutet laut aktuellem Monitoringbericht von Bundesnetzagentur und Bundeskartellamt auf eine marktbeherrschende Stellung hin."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "Partnerschaft mit Golfstaaten: Katar will 15 Milliarden Euro in Deutschland investieren",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/katar-friedrich-merz-investitionen-deutschland-ki-sicherheit-gxe",
-      "source": "Zeit",
-      "date": "2026-11-20T15:52+00:00",
-      "teaser": "Der Emir von Katar sagt bei einem Besuch beim Bundeskanzler neue Investitionen in die deutsche Wirtschaft zu. Merz erhofft sich davon mehr Wachstum in Zukunftsbranchen."
+      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+      "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+      "source": "New York Times",
+      "date": "2026-11-20T16:52+00:00",
+      "teaser": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
     "items": [
      {
-      "title": "Anthropic shares slump on second day of trading as markets reel AI sell-off",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-20T16:41+00:00",
+      "teaser": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
       "source": "The Guardian",
-      "date": "2026-11-20T15:52+00:00",
-      "teaser": "Asian markets record worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. Shares in the"
+      "date": "2026-11-20T16:41+00:00",
+      "teaser": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London gets in the next six "
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
     "items": [
      {
-      "title": "Deutsch-ukrainisches Wirtschaftsforum: Für Friedrich Merz geht es in der Ukraine auch ums Geschäft",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/deutsch-ukrainisches-wirtschaftsforum-fuer-friedrich-merz-geht-es-in-der-ukraine-auch-ums-geschaeft-a-2848de43-1eaa-4c1a-9657-61708a4cd52c#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-20T16:50+01:00",
-      "teaser": "Deutschland pumpt Milliarden in die Ukraine – und könnte bei Rüstungsaufträgen leer ausgehen. Hiesige Firmen wollen das verhindern, Kanzler Merz hilft mit."
+      "title": "Inside the Fight Between Native American Tribes and Kalshi",
+      "url": "https://www.nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html",
+      "source": "New York Times",
+      "date": "2026-11-20T16:41+00:00",
+      "teaser": "For decades, many U.S. tribes have relied on casinos and other gambling revenue for survival. Prediction markets have threatened their sovereignty, they have argued in court."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.96,
     "items": [
      {
-      "title": "Anthropic shares fall a day after blockbuster opening",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T15:44+00:00",
-      "teaser": "Other tech companies have also taken a hit as share markets broadly slump."
+      "title": "Börsengang in den USA: Anthropic-Aktie rutscht am zweiten Handelstag deutlich ab",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/anthropic-boersengang-ki-unternehmen-aktie-nasdaq",
+      "source": "Zeit",
+      "date": "2026-11-20T16:35+00:00",
+      "teaser": "Die KI-Firma Anthropic startete mit einem Plus von 34 Prozent und einer Bewertung von zwei Billionen US-Dollar an die Börse. Doch schon am zweiten Tag geht es abwärts."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.95,
     "items": [
      {
-      "title": "Airbnb's divisive new house rules come into force",
-      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T15:48+00:00",
-      "teaser": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers."
+      "title": "Weltgrößtes Windrad in Betrieb: Sind Höhenwindräder die Zukunft?",
+      "url": "https://www.tagesschau.de/wirtschaft/energie/groesstes-windrad-lausitz-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-20T17:25+01:00",
+      "teaser": "Bis zu 365 Meter hoch ist ein Windrad, das jetzt in der Lausitz in Betrieb gegangen ist - laut den Ingenieuren ein Rekord. Aber rechnen sich solche Riesenanlagen überhaupt? Und was sagen Anwohner? Von Mirja Fiedler."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.95,
     "items": [
      {
-      "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-      "url": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-      "source": "CNBC",
-      "date": "2026-11-20T15:50+00:00",
-      "teaser": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry."
+      "title": "Noch keine Einigung: Klimagipfel geht in Antalya in die Verlängerung",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kein-beschluss-der-klimagipfel-in-antalya-dauert-laenger-201703265.html",
+      "source": "FAZ",
+      "date": "2026-11-20T16:30+00:00",
+      "teaser": "Den Teilnehmern ist bewusst, dass der Ausstieg aus Öl, Gas und Kohle unumgänglich ist, um das Klima zu schützen. Sich dazu schriftlich bekennen, wollen die Ölstaaten aber nicht. Die Probleme reichen noch weiter."
      }
     ]
    }
   ],
   "Sport": [
    {
-    "sourceCount": 2,
-    "score": 8.47,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Champions League: FC Bayern fertigt Austria Wien ab",
-      "url": "https://www.sportschau.de/regional/br/br-klarer-sieg-im-rekordspiel-fc-bayern-fertigt-austria-wien-ab-102.html",
-      "source": "Sportschau",
-      "date": "2026-11-19T22:39+01:00",
-      "teaser": "Die Fußballerinnen des FC Bayern München haben in der UEFA Women's Champions League 2026/27 einen souveränen Sieg über Tabellenschlusslicht Austria Wien eingefahren. Das Spiel fand vor einer Rekordkulisse statt."
-     },
-     {
-      "title": "Champions League: Bayern-Frauen siegen souverän in Wien",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bayern-frauen-gewinnen-4-0-bei-austria-wien-201700067.html",
-      "source": "FAZ",
-      "date": "2026-11-19T20:33+00:00",
-      "teaser": "Die Frauen des FC Bayern gewinnen bei Austria Wien mit 4:0. Gegen den FC Barcelona können sie nun den direkten Einzug ins Viertelfinale der Champions League perfekt machen."
-     }
-    ]
-   },
-   {
     "sourceCount": 4,
-    "score": 7.91,
+    "score": 7.82,
     "items": [
      {
       "title": "Nations-League-Viertelfinale: Deutschland trifft auf Belgien",
@@ -845,7 +803,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.86,
+    "score": 7.77,
     "favorite": true,
     "items": [
      {
@@ -853,13 +811,13 @@
       "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253433/christensen-probable-baja-barca-villarreal.html",
       "source": "Mundo Deportivo (Barça)",
       "date": "2026-11-20T15:21+01:00",
-      "teaser": "Andreas Christensen vuelve a estar en riesgo de caerse de una convocatoria del FC Barcelona . Lo más probable es que el central danés de 30 años no entre en la relación de citados por Hansi Flick para reanudar este domingo (14 horas) la Liga en el Spotify Camp Nou ante el Villarreal ."
+      "teaser": "Andreas Christensen vuelve a estar en riesgo de caerse de una convocatoria del FC Barcelona . Lo más probable es que el central danés de 30 años no entre en la relación de citados por Hansi Flick para reanudar este domingo (14 horas) la Liga en el Spotify Camp Nou ante el Villarreal por unas molesti"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.83,
+    "score": 7.75,
     "favorite": true,
     "items": [
      {
@@ -872,8 +830,22 @@
     ]
    },
    {
+    "sourceCount": 1,
+    "score": 7.7,
+    "favorite": true,
+    "items": [
+     {
+      "title": "El Barça-Inter JP Financial no se jugará en el Palau y se trasladará a Santa Coloma",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253416/barca-inter-jp-financial-jugara-pavello-nou-santa-coloma.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-20T14:27+01:00",
+      "teaser": "El Barça de fútbol sala disputará el domingo 27 de diciembre a las 18 horas su partido de Liga contra el Inter JP Financial en el Pavelló Nou de Santa Coloma de Gramenet , cancha donde juega sus encuentros el Industrias Santa Coloma , rival con el que curiosamente los culés se enfrentarán como visit"
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 4.27,
+    "score": 4.18,
     "items": [
      {
       "title": "1. FC Köln gegen FC Bayern München: Diese Profis spielten für beide Klubs",
@@ -893,7 +865,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 4.15,
+    "score": 4.07,
     "items": [
      {
       "title": "FC-Bayern-Trainer Kompany zu Zusammenbruch: \"Es war ein Schock\"",
@@ -919,87 +891,80 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.97,
+    "sourceCount": 1,
+    "score": 2.02,
     "items": [
      {
-      "title": "\"Ein herber Rückschlag\": Baur fehlt Celtic Glasgow monatelang",
-      "url": "https://www.kicker.de/ein-herber-rueckschlag-baur-fehlt-celtic-glasgow-monatelang-1273291/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-20T15:40+00:00",
-      "teaser": "Für die U-21-Nationalmannschaft hatte Mika Baur verletzungsbedingt bereits absagen müssen. Nun ist klar, dass es den Akteur von Celtic Glasgow schlimmer erwischt hat."
-     },
+      "title": "2. Bundesliga: Frust und Freude beim 1. FC Magdeburg vor Gastspiel in Bielefeld",
+      "url": "https://www.sportschau.de/regional/mdr/zweite-bundesliga-dsc-arminia-bielefeld-fc-magdeburg,vorschau-dsc-fcm-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-20T07:45+01:00",
+      "teaser": "Mit der Ansetzung des anstehenden Auswärtsspiels ist FCM-Trainer Petrik Sander gar nicht zufrieden. Dabei bringen einige Nationalspieler ganz positive Erlebnisse zurück. Zudem könnte es ein Geburtstagsgeschenk geben."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.02,
+    "items": [
      {
-      "title": "Celtic's Baur out for 10 weeks, says O'Neill",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo?at_medium=RSS&at_campaign=rss",
+      "title": "Live hören: Die Konferenz - 12. Spieltag | Fußball 2. Bundesliga",
+      "url": "https://www.sportschau.de/fussball/bundesliga2/12-spieltag-die-konferenz,audiostream-12-spieltag-die-konferenz-132.html",
+      "source": "Sportschau",
+      "date": "2026-11-20T18:15+01:00",
+      "teaser": "2. Bundesliga live - alle Spiele am 20.11.2026 um 18:30 Uhr in der Konferenz."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Man Utd fan criticism has gone too far at times - Berrada",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-20T14:47+00:00",
-      "teaser": "Germany midfielder Mika Baur will be out for around 10 weeks with ankle ligament damage, Celtic manager Martin O'Neill says."
+      "date": "2026-11-20T16:55+00:00",
+      "teaser": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\"."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.99,
     "items": [
      {
-      "title": "\"Gegen die Werte, die wir leben\": Wolfsburg suspendiert Lattwein für ein Spiel",
-      "url": "https://www.kicker.de/gegen-die-werte-die-wir-leben-wolfsburg-suspendiert-lattwein-fuer-ein-spiel-1273296/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-20T15:58+00:00",
-      "teaser": "Nach der 1:4-Pleite gegen den FC Bayern redete sich Lena Lattwein in Rage und kritisierte Wolfsburgs Trainer Stephan Lerch öffentlich. Dafür wird die 26-Jährige von ihrem Klub für ein Spiel suspendiert."
+      "title": "Skispringen: Deutsches Mixed-Team springt deutlich hinterher",
+      "url": "https://www.sportschau.de/wintersport/skispringen-freitag-in-der-quali-auf-platz-sechs,liveblog-wintersport-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-20T17:56+01:00",
+      "teaser": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
     "items": [
      {
-      "title": "Flutlichtpartie in Emden: Schließt der Bremer SV zum rettenden Ufer auf?",
-      "url": "https://www.kicker.de/flutlichtpartie-in-emden-schliesst-der-bremer-sv-zum-rettenden-ufer-auf-1246016/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-20T15:47+00:00",
-      "teaser": "Zum Start in den 19. Spieltag der Regionalliga Nord empfängt Kickers Emden am Freitagabend den Bremer SV."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Nach unerwünschtem Drohnen-Besuch: Pochettino klärt die Kapitänsfrage",
-      "url": "https://www.kicker.de/nach-unerwuenschtem-drohnen-besuch-pochettino-klaert-die-kapitaensfrage-1273293/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-20T15:44+00:00",
-      "teaser": "Jetzt ist Mauricio Pochettino an der Reihe als Trainer von Manchester United. Doch schon sein erstes Training wurde gestört - und das erste Spiel hat es in sich."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Fernandes to remain as captain under Pochettino; Arteta takes fantasy football action; Nations League draw – live",
+      "title": "Pochettino demands say on big United decisions; Arteta takes fantasy football action; Nations League draw – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
       "source": "The Guardian",
-      "date": "2026-11-20T15:46+00:00",
+      "date": "2026-11-20T16:44+00:00",
       "teaser": "⚽ All the latest football news going into the weekend ⚽ Fixtures | Tables | Ten things to look out for | Mail Michael A Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward withdrew his support for the prosecution, reports the Press As"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.97,
     "items": [
      {
-      "title": "Titelkampf in Schweden: Eigener Sieg ausdrücklich unerwünscht",
-      "url": "https://www.11freunde.de/international/titelkampf-in-schweden-eigener-sieg-ausdruecklich-unerwuenscht-a-b7822466-9d89-4c8b-99a9-6309434e31a6#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-20T16:23+01:00",
-      "teaser": "Der schwedische Titelanwärter Djurgarden verlor beim Letzten, die Chancen auf die Meisterschaft sind dahin. Die Fans wollen jetzt die nächste Schlappe, damit Lokalrivale Hammarby das Rennen nicht macht. Ein junger deutscher Sportboss muss all das moderieren."
+      "title": "Über 320 Millionen: ATP erhöht Preisgelder für Tennis-Profis",
+      "url": "https://www.sportschau.de/tennis/mehr-als-320-millionen-euro-fuer-tennis-profis,tennis-atp-preisgeld-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-20T17:43+01:00",
+      "teaser": "Die ATP hat die Preisgelder für ihre Spieler erhöht. Die männlichen Tennis-Profis dürfen sich von 2028 an auf mehr als 320 Millionen Euro an Preisgeldern und Prämien freuen."
      }
     ]
    }
@@ -1007,7 +972,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 4.0,
     "items": [
      {
       "title": "The best early Black Friday deals you can already shop",
@@ -1017,17 +982,37 @@
       "teaser": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessari"
      },
      {
-      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
-      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-20-2026/",
+      "title": "The Best Pura Deals for Cyber Week (2026)",
+      "url": "https://www.wired.com/story/pura-black-friday-2026/",
       "source": "Wired",
-      "date": "2026-11-20T13:00+00:00",
-      "teaser": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories."
+      "date": "2026-11-20T13:30+00:00",
+      "teaser": "Pura fragrances are 20 percent off, and diffusers are 30 percent off through December 6. Here’s what I’d buy after having tested three generations of Pura devices."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 2.63,
+    "score": 3.99,
+    "items": [
+     {
+      "title": "(g+) Jensen Huang: Wie die New York Times den Spionageskandal um Nvidia aufdeckte",
+      "url": "https://www.golem.de/news/jensen-huang-wie-die-new-york-times-den-spionageskandal-um-nvidia-aufdeckte-2611-215440.html",
+      "source": "Golem",
+      "date": "2026-11-20T18:00+01:00",
+      "teaser": "\"Über Geschichten wie diese stolpert man nur einmal\": Das New-York-Times-Reporter-Team erzählt von der Recherche, die Jensen Huang zu Fall brachte. Von Patrick Healy ( Jensen Huang , Nvidia )"
+     },
+     {
+      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
+      "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+      "source": "New York Times",
+      "date": "2026-11-20T14:43+00:00",
+      "teaser": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.54,
     "items": [
      {
       "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
@@ -1047,53 +1032,40 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.98,
     "items": [
      {
-      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+      "title": "E-Auto: VW zeigt ID. Polo GTI mit Rennstreckenpotenzial",
+      "url": "https://www.golem.de/news/e-auto-vw-zeigt-id-polo-gti-mit-rennstreckenpotenzial-2611-215491.html",
+      "source": "Golem",
+      "date": "2026-11-20T17:47+01:00",
+      "teaser": "VW hat ein neues Konzeptfahrzeug vorgestellt, das einen Ausblick darauf gibt, wie weit das GTI-Leistungslabel im Elektrozeitalter noch getrieben werden könnte. ( Volkswagen ID. , Auto )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Bluetooth-Lücke: Angreifer konnten VWs abhören, orten und manipulieren",
+      "url": "https://www.golem.de/news/bluetooth-luecke-angreifer-konnten-vws-abhoeren-orten-und-manipulieren-2611-215483.html",
+      "source": "Golem",
+      "date": "2026-11-20T17:33+01:00",
+      "teaser": "Rund 16 Monate brauchte VW für ein Update gegen eine Bluetooth-Schwachstelle. Mehrere Hunderttausend Fahrzeuge sollen betroffen sein. ( Volkswagen ID. , Bluetooth )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
       "source": "The Verge",
-      "date": "2026-11-20T11:00-05:00",
-      "teaser": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. For Galina, carrying on means an affair, "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten",
-      "url": "https://www.golem.de/news/autonomes-fahren-mercedes-benz-bekommt-zulassung-fuer-selbstfahrassistenten-2611-215487.html",
-      "source": "Golem",
-      "date": "2026-11-20T16:54+01:00",
-      "teaser": "Der neue Punkt-zu-Punkt-Fahrassistent von Mercedes-Benz hat die Zulassung des KBA erhalten. ( Mercedes Benz , Elektroauto )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Anzeige: Glasfaser-Router mit Wi-Fi 7 von Fritz! zum niedrigsten Preis seit Monaten",
-      "url": "https://www.golem.de/news/anzeige-glasfaser-router-mit-wi-fi-7-von-fritz-zum-niedrigsten-preis-seit-monaten-2611-215489.html",
-      "source": "Golem",
-      "date": "2026-11-20T16:46+01:00",
-      "teaser": "Die FRITZ!Box 5690 verbindet sich direkt mit AON- und GPON-Glasfaseranschlüssen. Bei Amazon kostet sie zum Black Friday unter 247 Euro. ( Black Friday , Netzwerk )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Anthropic shares fall a day after blockbuster opening",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T15:44+00:00",
-      "teaser": "Other tech companies have also taken a hit as share markets broadly slump."
+      "date": "2026-11-20T11:34-05:00",
+      "teaser": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic "
      }
     ]
    },
@@ -1102,11 +1074,11 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Rockstar Games: GTA-6-Leaker droht mit Veröffentlichung der Xbox-Version",
-      "url": "https://www.golem.de/news/rockstar-games-gta-6-leaker-droht-mit-veroeffentlichung-der-xbox-version-2611-215485.html",
-      "source": "Golem",
-      "date": "2026-11-20T16:23+01:00",
-      "teaser": "Cyberleek behauptet, fast die gesamte Xbox-Version von GTA 6 veröffentlicht zu haben. Die letzte Datei soll spätestens am Montag folgen - möglicherweise auch früher. ( GTA 6 , Rockstar )"
+      "title": "Anthropic shares fall a day after blockbuster opening",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-20T16:27+00:00",
+      "teaser": "Other tech companies have also taken a hit as share markets broadly slump."
      }
     ]
    },
@@ -1115,50 +1087,50 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Anzeige: Mobiler Router mit Wi-Fi 7 am Black Friday zum Tiefpreis bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-mobiler-router-mit-wi-fi-7-am-black-friday-zum-tiefpreis-bei-amazon-2611-215477.html",
-      "source": "Golem",
-      "date": "2026-11-20T14:41+01:00",
-      "teaser": "Der mobile WLAN‑Router GL.iNet MUDI 7 mit Wi-Fi 7, 5G-Mobilfunk, VPN und eSIM ist in der Black Friday Woche bei Amazon reduziert. ( Router , Black Friday )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "G.T.A. VI Is a Monumental Human Achievement",
-      "url": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
-      "source": "New York Times",
-      "date": "2026-11-20T15:19+00:00",
-      "teaser": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Eudi-Wallet D-You: Auf der Suche nach der Killerapplikation",
-      "url": "https://www.golem.de/news/eudi-wallet-d-you-auf-der-suche-nach-der-killerapplikation-2611-215482.html",
-      "source": "Golem",
-      "date": "2026-11-20T16:06+01:00",
-      "teaser": "Digitalminister Wildberger hat erste Anwendungen für die digitale Brieftasche D-You vorgestellt. Am Starttermin in sechs Wochen hält er fest. Vorerst. Ein Bericht von Friedhelm Greis ( EUDI-Wallet , Datenschutz )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
-      "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
+      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+      "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
       "source": "The Verge",
-      "date": "2026-11-20T10:02-05:00",
-      "teaser": "In its ruling that Myanmar committed state-sponsored genocide against the Rohingya people in 2016 and 2017, the United Nations' top court says that Facebook played a role in helping Myanmar's military spread hate speech against its Muslim minority. The ruling from the International Court of Justice "
+      "date": "2026-11-20T11:22-05:00",
+      "teaser": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but most of the songs on 7L"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität",
+      "url": "https://www.golem.de/news/kba-neue-webseite-bietet-interaktiven-ueberblick-zur-elektromobilitaet-2611-215490.html",
+      "source": "Golem",
+      "date": "2026-11-20T17:11+01:00",
+      "teaser": "Das KBA will Interessenten einen Einstieg in Daten und Analysen zur Elektromobilität anbieten. Dafür gibt es eine neue Webseite. ( Elektromobilität , Elektroauto )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+      "source": "Ars Technica",
+      "date": "2026-11-20T16:11+00:00",
+      "teaser": "\"We don't yet know the number we are able to make, and at what price...\""
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Anzeige: Mobiler Fotodrucker von Canon zum Black Friday reduziert bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-mobiler-fotodrucker-von-canon-zum-black-friday-reduziert-bei-amazon-2611-215488.html",
+      "source": "Golem",
+      "date": "2026-11-20T17:05+01:00",
+      "teaser": "Den mobilen Fotodrucker Canon Selphy CP1500 für hochwertige Fotoausdrucke unterwegs gibt es zum günstigen Black Friday Preis bei Amazon. ( Canon , Drucker )"
      }
     ]
    },
@@ -1167,11 +1139,11 @@
     "score": 1.91,
     "items": [
      {
-      "title": "Let’s talk about GTA VI",
-      "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
       "source": "The Verge",
-      "date": "2026-11-20T10:00-05:00",
-      "teaser": "It's hard to believe, but Grand Theft Auto VI is now a real thing that we all can play. Thirteen years after GTA V, and eight years since Red Dead Redemption 2, Rockstar is back with its latest sprawling, extravagant open world. There's a lot to experience - and a lot to talk about. Perhaps […]"
+      "date": "2026-11-20T11:00-05:00",
+      "teaser": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. For Galina, carrying on means an affair, "
      }
     ]
    }
@@ -1242,7 +1214,7 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "topic": "Welt & Politik",
