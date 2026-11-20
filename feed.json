@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-20T02:19:40+00:00",
+ "fetchedAt": "2026-11-20T03:59:09+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 5,
-    "score": 9.94,
+    "score": 9.8,
     "items": [
      {
       "title": "International Court of Justice finds Myanmar guilty of genocide against Rohingya",
@@ -31,7 +31,88 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.8,
+    "score": 5.95,
+    "items": [
+     {
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-19T23:40+00:00",
+      "teaser": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says."
+     },
+     {
+      "title": "Hippo Fiona dies days after swallowing visitor’s hat",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-20T02:51+00:00",
+      "teaser": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo."
+     },
+     {
+      "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
+      "url": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-20T03:25+00:00",
+      "teaser": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.92,
+    "items": [
+     {
+      "title": "White House fires national cyber director over widespread outages",
+      "url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages",
+      "source": "France 24",
+      "date": "2026-11-20T01:28+00:00",
+      "teaser": "The White House fired national cyber director Sean Cairncross on Thursday following a week of technology disruptions affecting US air travel, email services and national security systems. The departure comes as the Trump administration faces criticism over its response to the outages, which official"
+     },
+     {
+      "title": "White House fires cyber chief after tech chaos rattles US",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375152/white-house-fires-cybersecurity-chief-after-tech-chaos-rattles-us",
+      "source": "South China Morning Post",
+      "date": "2026-11-20T03:04+00:00",
+      "teaser": "⁠White House national cyber director Sean ⁠Cairncross was “fired” from his job, a person close to the White House said on Thursday, days after technology outages disrupted US air travel, banking and national security systems. The ousting comes as US President Donald Trump ‌and his administration fac"
+     },
+     {
+      "title": "White House fires cybersecurity chief after widespread outages",
+      "url": "https://www.thehindu.com/news/international/white-house-fires-cybersecurity-chief-after-widespread-outages/article71722952.ece",
+      "source": "The Hindu",
+      "date": "2026-11-20T08:20+05:30",
+      "teaser": "Sean Cairncross’ role will be filled in an acting capacity by current Defense Department Chief Information Officer Kirsten Davies"
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.88,
+    "items": [
+     {
+      "title": "News Wrap: Russian drone attack damages Dutch embassy and cathedral in Ukraine",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-russian-drone-attack-damages-dutch-embassy-and-cathedral-in-ukraine",
+      "source": "PBS NewsHour",
+      "date": "2026-11-19T18:45-05:00",
+      "teaser": "In our news wrap Thursday, a Russian drone damaged the Dutch embassy and a cathedral in Ukraine, President Trump says he posthumously pardoned Pete Rose, record-breaking rains inundated parts of Florida's Atlantic coast and the Cincinnati Zoo says its famous hippo, Fiona, died after she swallowed a "
+     },
+     {
+      "title": "Russian barrage damages embassies and cathedral in Ukraine capital",
+      "url": "https://www.scmp.com/news/world/europe/article/3375146/russian-barrage-damages-embassies-and-cathedral-ukraine-capital",
+      "source": "South China Morning Post",
+      "date": "2026-11-20T02:33+00:00",
+      "teaser": "A wave of daytime Russian strikes on Kyiv on Thursday killed one person and damaged a historic cathedral as well as the embassies of Austria and the Netherlands. Loud explosions erupted across the Ukrainian capital throughout the day as the leaders of Russia, China and the United States held a histo"
+     },
+     {
+      "title": "'For Russia, nothing is sacred' — Massive Russian drone attack on Kyiv kills 1, damages St. Volodymyr's Cathedral, embassies",
+      "url": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-19T13:05+00:00",
+      "teaser": "It has not been confirmed if the drone was targeting the area in which the Dutch and Austrian embassies are located or if it was shot down."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.66,
     "items": [
      {
       "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
@@ -58,7 +139,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.79,
+    "score": 5.65,
     "items": [
      {
       "title": "Donald Trump warnt Elon Musk vor Absprung bei MAGA",
@@ -85,7 +166,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.59,
+    "score": 5.45,
     "items": [
      {
       "title": "Russian strikes on Kyiv kill one, damage Dutch and Austrian embassies",
@@ -111,29 +192,42 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.39,
+    "sourceCount": 2,
+    "score": 3.98,
     "items": [
      {
-      "title": "Myanmar: Uno-Gericht stuft Vorgehen gegen Rohingya als Völkermord ein",
-      "url": "https://www.spiegel.de/ausland/myanmar-uno-gericht-stuft-vorgehen-gegen-rohingya-als-voelkermord-ein-a-7879b8b5-7b90-49e2-98b7-bcc5e96fa85c#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-19T12:50+01:00",
-      "teaser": "Myanmars Militär hat schwere Verbrechen gegen die Minderheit der Rohingya begangen: Davon zeigt sich der Internationale Gerichtshof jetzt überzeugt. Das Verfahren gilt als Test für die Völkermordklage gegen Israel."
+      "title": "USA: Trumps Cyberdirektor verlässt Posten nach Technik-Pannen",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/sean-cairncross-nationaler-cyber-direktor-weisses-haus-rucktritt",
+      "source": "Zeit",
+      "date": "2026-11-20T02:54+00:00",
+      "teaser": "Nach Ausfällen bei Flugaufsicht und Banken tritt Trumps Cyberberater Sean Cairncross zurück. Nachfolgerin soll Kirsten Davies aus dem Verteidigungsministerium werden."
      },
      {
-      "title": "UN-Gericht: Myanmar verantwortlich für Rohingya-Völkermord",
-      "url": "https://www.dw.com/de/un-gericht-myanmar-verantwortlich-für-rohingya-völkermord/a-79992591?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-19T14:47+00:00",
-      "teaser": "Mit unbeschreiblicher Gewalt werden die Rohingya in Myanmar verfolgt. Das höchste Gericht der UN sieht es als erwiesen an, dass 2017 ein großer Teil der muslimischen Minderheit ausgelöscht werden sollte."
-     },
-     {
-      "title": "Myanmar: Wille zum Völkermord?",
-      "url": "https://www.faz.net/aktuell/politik/ausland/urteil-des-igh-gegen-myanmar-wille-zum-voelkermord-201698628.html",
+      "title": "USA unter Trump: Trumps Cyberbeauftragter verlässt Posten nach Technik-Pannen",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-cyberbeauftragter-cairncross-verlaesst-posten-nach-technik-pannen-faz-19444916.html",
       "source": "FAZ",
-      "date": "2026-11-19T18:58+00:00",
-      "teaser": "Das Urteil aus Den Haag ist wegweisend. Die Frage ist, was daraus in der Praxis folgt – für Israel und die Welt."
+      "date": "2026-11-20T03:42+00:00",
+      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Top White House Cybersecurity Official Is Replaced",
+      "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-20T03:31+00:00",
+      "teaser": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week."
+     },
+     {
+      "title": "A week of White House static",
+      "url": "https://www.politico.com/video/2026/11/19/a-week-of-white-house-static-2233252",
+      "source": "Politico",
+      "date": "2026-11-19T05:45-05:00",
+      "teaser": ""
      }
     ]
    },
@@ -142,24 +236,24 @@
     "score": 3.94,
     "items": [
      {
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-19T23:40+00:00",
-      "teaser": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says."
+      "title": "China-Russia-US trilateral summit declaration towards peace",
+      "url": "https://www.scmp.com/plus/news/china/article/3375154/china-russia-us-trilateral-summit-declaration-towards-peace",
+      "source": "South China Morning Post",
+      "date": "2026-11-20T03:16+00:00",
+      "teaser": "Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin held a trilateral summit in Shenzhen on November 19, 2026. Following the summit, the three sides issued a joint declaration towards peace, including consensus on United Nations reform, global energy supply, "
      },
      {
-      "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
-      "url": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-20T01:33+00:00",
-      "teaser": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure."
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "source": "The Guardian",
+      "date": "2026-11-19T17:13+00:00",
+      "teaser": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ China, Russia and the US say they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars in Ukraine and Iran c"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.77,
     "items": [
      {
       "title": "Law firm has done $11.8M US worth of free legal work for Trump administration, Democrats say",
@@ -179,27 +273,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.89,
-    "items": [
-     {
-      "title": "Top White House Cybersecurity Official Steps Down",
-      "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-20T00:57+00:00",
-      "teaser": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week."
-     },
-     {
-      "title": "A week of White House static",
-      "url": "https://www.politico.com/video/2026/11/19/a-week-of-white-house-static-2233252",
-      "source": "Politico",
-      "date": "2026-11-19T05:45-05:00",
-      "teaser": ""
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.74,
     "items": [
      {
       "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
@@ -216,72 +290,12 @@
       "teaser": "Weakened by the midterm elections, President Trump offered hugs, arm pats and smiles to autocrats from Russia and China in contrast to the threats he is making to ascendant Democrats in Washington."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.85,
-    "items": [
-     {
-      "title": "Armed forces in Haiti push to oust gang members from corridor on edge of capital",
-      "url": "https://www.cbc.ca/news/world/haiti-gang-corridor-offensive-9.7428700?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-19T16:27-05:00",
-      "teaser": "Armed forces in Haiti launched an aggressive operation on Thursday to remove powerful gangs long entrenched in a key corridor that connects the country's capital to its western and southern regions."
-     },
-     {
-      "title": "Haiti police say 34 gang members killed in capital raid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-20T00:31+00:00",
-      "teaser": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.8,
-    "items": [
-     {
-      "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-      "url": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-      "source": "NPR",
-      "date": "2026-11-19T04:46-05:00",
-      "teaser": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf."
-     },
-     {
-      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-19T23:58+00:00",
-      "teaser": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.79,
-    "items": [
-     {
-      "title": "News Wrap: Russian drone attack damages Dutch embassy and cathedral in Ukraine",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-russian-drone-attack-damages-dutch-embassy-and-cathedral-in-ukraine",
-      "source": "PBS NewsHour",
-      "date": "2026-11-19T18:45-05:00",
-      "teaser": "In our news wrap Thursday, a Russian drone damaged the Dutch embassy and a cathedral in Ukraine, President Trump says he posthumously pardoned Pete Rose, record-breaking rains inundated parts of Florida's Atlantic coast and the Cincinnati Zoo says its famous hippo, Fiona, died after she swallowed a "
-     },
-     {
-      "title": "'For Russia, nothing is sacred' — Massive Russian drone attack on Kyiv kills 1, damages St. Volodymyr's Cathedral, embassies",
-      "url": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-19T13:05+00:00",
-      "teaser": "It has not been confirmed if the drone was targeting the area in which the Dutch and Austrian embassies are located or if it was shot down."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.46,
+    "score": 5.32,
     "items": [
      {
       "title": "Niedersachsen: SPD-Justizministerin Kathrin Wahlmann tritt zurück",
@@ -308,7 +322,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.59,
+    "score": 3.45,
     "items": [
      {
       "title": "Krieg in der Ukraine: Macron: Nato-Beitritt der Ukraine muss wieder auf den Tisch",
@@ -328,7 +342,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.34,
+    "score": 3.21,
     "items": [
      {
       "title": "News des Tages: Gipfel mit Xi, Putin und Trump, Ukraine-Unterstützer in Berlin, GTA 6",
@@ -348,7 +362,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.23,
+    "score": 3.09,
     "items": [
      {
       "title": "Ungleiche Bezahlung: Ex-Bürgermeisterin von Todtmoos siegt vor Bundesverwaltungsgericht",
@@ -368,7 +382,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "In Dutzenden Städten: Jugendproteste in ganz Deutschland",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html",
+      "source": "Tagesschau",
+      "date": "2026-11-20T04:16+01:00",
+      "teaser": "In Dutzenden Städten sind Proteste angekündigt. Unter anderem die Bundesschülerkonferenz, \"Schulstreik gegen die Wehrpflicht\", \"Gen Z regelt\" und Fridays For Future haben heute bundesweit zu Demonstrationen aufgerufen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "USA: Der Skandal um KI-Chips von Nvidia weitet sich aus",
+      "url": "https://www.sueddeutsche.de/politik/china-militaer-spionage-computer-ki-kuenstliche-intelligenz-xi-jinping-shenzhen-li.3583389",
+      "source": "Süddeutsche",
+      "date": "2026-11-20T02:51+00:00",
+      "teaser": "Die Hinweise deuten auf den Verdacht, dass US-Technologie für künstliche Intelligenz womöglich bei der chinesischen Armee landete. Während Präsident Donald Trump in China weilte, wurden neue Details bekannt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.59,
     "items": [
      {
       "title": "Klaudia Laksa zur Württembergischen Weinkönigin 2026 gewählt",
@@ -381,7 +421,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.5,
     "items": [
      {
       "title": "Van Gogh für 173 Millionen Euro versteigert",
@@ -394,7 +434,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.45,
     "items": [
      {
       "title": "Militärökonom Keupp: Putin \"ist ein Vasall Chinas\"",
@@ -407,7 +447,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.52,
+    "score": 1.38,
     "items": [
      {
       "title": "Donald Trump: Und dann platzt der Anruf des US-Präsidenten in den Berliner Ukraine-Gipfel",
@@ -420,7 +460,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.51,
+    "score": 1.37,
     "items": [
      {
       "title": "Trump, Xi und Putin: Große Worte, wenig Konkretes",
@@ -433,7 +473,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.51,
+    "score": 1.37,
     "items": [
      {
       "title": "KI in der Arztpraxis: So soll die Gesundheitsversorgung im Land neu organisiert werden",
@@ -443,168 +483,142 @@
       "teaser": "Das Land will mit Digitalisierung und Künstlicher Intelligenz Arztpraxen und Krankenhäuser entlasten. Patienten sollen gezielter durch das Gesundheitssystem geleitet werden."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.51,
-    "items": [
-     {
-      "title": "Cold Case \"Renate Borst\": Freispruch für den 70-jährigen Angeklagten",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/cold-case-renate-borst-deggingen-freispruch-100.html",
-      "source": "SWR",
-      "date": "2026-11-19T21:28+01:00",
-      "teaser": "Freispruch - so hieß es am Ende für einen 70-Jährigen, der wegen Mordes angeklagt war. Am Donnerstag ging der Prozess am Landgericht Ulm zum Cold Case \"Renate Borst\" zu Ende."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.5,
-    "items": [
-     {
-      "title": "Koalition der Willigen: Die Europäer sind sich einig – dann ruft Trump aus der „Air Force One“ an",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-konferenz-berlin-friedrich-merz-donald-trump-jared-kushner-li.3582903",
-      "source": "Süddeutsche",
-      "date": "2026-11-19T20:20+00:00",
-      "teaser": "Bundeskanzler Merz ist es wichtig, das Berliner Ukraine-Treffen als Gegenbild zum Gipfel von Shenzhen zu präsentieren – inklusive Lästerei über Trump, Putin und Xi. Seine Gäste sind zufrieden und lassen sich vom US-Präsidenten nicht aus dem Konzept bringen."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.77,
+    "score": 1.99,
     "items": [
      {
-      "title": "Październik w hotelach: Obłożenie wyraźnie wzrosło, ceny również",
-      "url": "https://turystyka.rp.pl/hotele/art45518131-pazdziernik-w-hotelach-oblozenie-wyraznie-wzroslo-ceny-rowniez",
+      "title": "Robert Gwiazdowski: Nic nie rozczula ludzi tak bardzo, jak dzieci",
+      "url": "https://www.rp.pl/opinie-prawne/art45512831-robert-gwiazdowski-nic-nie-rozczula-ludzi-tak-bardzo-jak-dzieci",
       "source": "Rzeczpospolita",
-      "date": "2026-11-20T00:34+01:00",
-      "teaser": "Październik w hotelach zakończył się dobrymi wynikami. Były one wyraźnie lepsze niż w październiku ubiegłego roku, zarówno w obiektach wypoczynkowych, jak i biznesowych. 79 procent hoteli zanotowało obłożenie powyżej 50 procent. Wyraźny był też wzrost cen – podniosło je 73 procent hoteli."
+      "date": "2026-11-20T04:54+01:00",
+      "teaser": "Cenzura miała być ustanowiona dla dobra najmłodszych. Poprzednio bywała dobra dla klasy robotniczej, potem kobiet, a jeszcze później dla klimatu."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.73,
+    "score": 1.99,
     "items": [
      {
-      "title": "BMW wypuściło na rynek bliźniaki. Wyglądają tak samo, ale nie dajcie się zmylić",
-      "url": "https://moto.rp.pl/za-kierownica/art45488271-bmw-wypuscilo-na-rynek-blizniaki-wygladaja-tak-samo-ale-nie-dajcie-sie-zmylic",
+      "title": "TSUE: wolność słowa nie zawsze usprawiedliwia użycie cudzej marki",
+      "url": "https://pro.rp.pl/biznes/art45518121-tsue-wolnosc-slowa-nie-zawsze-usprawiedliwia-uzycie-cudzej-marki",
       "source": "Rzeczpospolita",
-      "date": "2026-11-20T00:05+01:00",
-      "teaser": "Nowe BMW serii 3 ma dwie twarze. Elektryczne i3 pozwala zapomnieć o ładowarce, a benzynowe M350 — o najkrótszej drodze do domu. Oba przypominają, za co lubimy BMW. I oba sprawdzają, ile ekranów jesteśmy w stanie mu wybaczyć."
+      "date": "2026-11-20T04:50+01:00",
+      "teaser": "Czy właściciel marki może kontrolować każde publiczne użycie swojego znaku? Wyrok TSUE w sprawie IKEA pokazuje, gdzie przebiega granica między ochroną renomowanego znaku a wolnością wypowiedzi."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.73,
+    "score": 1.98,
     "items": [
      {
-      "title": "Polo, Twingo i czterech rywali. Znamy finałową szóstkę Autobest",
-      "url": "https://moto.rp.pl/tu-i-teraz/art45489351-polo-twingo-i-czterech-rywali-znamy-finalowa-szostke-autobest",
+      "title": "Paweł Piątek, Danone: Promocje nie wystarczą, ceny surowców rosną",
+      "url": "https://www.rp.pl/biznes/art45450731-pawel-piatek-danone-promocje-nie-wystarcza-ceny-surowcow-rosna",
       "source": "Rzeczpospolita",
-      "date": "2026-11-20T00:05+01:00",
-      "teaser": "Dacia Striker, Hyundai Ioniq 3, Leapmotor B05, MG4 EV Urban, Renault Twingo i Volkswagen ID. Polo to finaliści konkursu Autobest Conquest 2027. O zwycięzcach w czterech kategoriach zdecydują wspólnie jurorzy z 32 krajów Europy i kierowcy, którzy od 25 stycznia będą mogli głosować w internecie. Wynik"
+      "date": "2026-11-20T04:44+01:00",
+      "teaser": "O sytuacji na rynku, wciąż ograniczanych przez konsumentów wydatkach oraz wyzwaniach związanych ze zmianami prawa – mówi Paweł Piątek, nowy prezes Danone w Europie Środkowej i Wschodniej."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.98,
     "items": [
      {
-      "title": "Razem podejmujmy dobre decyzje",
-      "url": "https://www.rp.pl/finanse/art45493931-razem-podejmujmy-dobre-decyzje",
+      "title": "Polskie pociągi czeka fala remontów. Samorządy zapłacą ponad 2 mld zł",
+      "url": "https://www.rp.pl/transport/art45503971-polskie-pociagi-czeka-fala-remontow-samorzady-zaplaca-ponad-2-mld-zl",
       "source": "Rzeczpospolita",
-      "date": "2026-11-20T00:00+01:00",
-      "teaser": "Produkty Banku BNP Paribas zmieniają się wraz z życiem klientów. To dewiza banku: odpowiadać na potrzeby, nawet te nieuświadomione, i dostarczać rozwiązania."
+      "date": "2026-11-20T04:43+01:00",
+      "teaser": "Nawet sto pociągów obsługujących połączenia regionalne do 2030 r. trafi do remontu generalnego. Jak ustaliła „Rzeczpospolita”, to ponad 2 mld zł, które samorządy będą musiały wydać na konieczne naprawy. – Zachwieje to budżetami – słyszymy."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.67,
+    "score": 1.98,
     "items": [
      {
-      "title": "Drony sparaliżowały lotnisko w Genui. Pierwszy taki przypadek we Włoszech",
-      "url": "https://www.rp.pl/transport/art45518111-drony-sparalizowaly-lotnisko-w-genui-pierwszy-taki-przypadek-we-wloszech",
+      "title": "Estera Flieger: Z kim lub czym będzie walczył nowy James Bond",
+      "url": "https://www.rp.pl/publicystyka/art45513091-estera-flieger-z-kim-lub-czym-bedzie-walczyl-nowy-james-bond",
       "source": "Rzeczpospolita",
-      "date": "2026-11-19T23:25+01:00",
-      "teaser": "Obecność dronów w pobliżu pasa startowego doprowadziła do czasowego zamknięcia lotniska w Genui. To pierwszy odnotowany przypadek tego rodzaju we Włoszech."
+      "date": "2026-11-20T04:42+01:00",
+      "teaser": "Daję Robertowi Pattinsonowi szansę, mogło być gorzej (to bardziej o innych nazwiskach, które były na giełdzie niż o samym Pattinsonie). Być może film o superszpiegu to relikt. A może coś dającego poczucie stałości."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.97,
     "items": [
      {
-      "title": "ORLEN powiększa magazyny gazu. Nowe pojemności służą rozwojowi rynku",
-      "url": "https://energia.rp.pl/gaz/art45518071-orlen-powieksza-magazyny-gazu-nowe-pojemnosci-sluza-rozwojowi-rynku",
+      "title": "Kiedy aktywa PPK przebiją 100 mld zł? To zajmie jeszcze kilka lat",
+      "url": "https://pieniadze.rp.pl/emerytura/art45513971-kiedy-aktywa-ppk-przebija-100-mld-zl-to-zajmie-jeszcze-kilka-lat",
       "source": "Rzeczpospolita",
-      "date": "2026-11-19T22:35+01:00",
-      "teaser": "Rozbudowane krajowe magazyny mogą pomieścić gaz odpowiadający ponad 20 proc. rocznego zapotrzebowania Polski. ORLEN powiększył zdolności magazynowe o jedną czwartą – z dotychczasowych 3,3 do 4,1 mld m sześc. Wykonane prace umożliwiają dalsze zwiększanie pojemności magazynowej."
+      "date": "2026-11-20T04:36+01:00",
+      "teaser": "Wartość aktywów w pracowniczych planach kapitałowych powinna przebić 100 mld zł w 2028-2029 r. Na miano najważniejszego programu oszczędzania na emeryturę PPK będą czekały dłużej."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.96,
     "items": [
      {
-      "title": "Powrót do biur to za mało",
-      "url": "https://www.rp.pl/praca/art45518031-powrot-do-biur-to-za-malo",
+      "title": "Donald Trump komentuje wpis Donalda Tuska. „W Polsce przez pomyłkę lądowały drony Putina”",
+      "url": "https://www.rp.pl/dyplomacja/art45518161-donald-trump-komentuje-wpis-donalda-tuska-w-polsce-przez-pomylke-ladowaly-drony-putina",
       "source": "Rzeczpospolita",
-      "date": "2026-11-19T22:29+01:00",
-      "teaser": "Praca hybrydowa stała się standardem, ale część pracodawców chce ponownie widzieć zespoły w biurach. Czy obecność przy biurku przekłada się na wyniki? Uczestnicy konferencji HR Insights „Rzeczpospolitej” współorganizowanej przez PulsHR przekonywali, że ważniejsze są sposób zarządzania, wartość pracy"
+      "date": "2026-11-20T04:31+01:00",
+      "teaser": "Donald Trump w rozmowie z Fox News skomentował wpis premiera Donalda Tuska, który był reakcją na nazwanie przez prezydenta USA Władimira Putina „przyjacielem”."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.96,
     "items": [
      {
-      "title": "AI już zmienia działy HR",
-      "url": "https://www.rp.pl/praca/art45518011-ai-juz-zmienia-dzialy-hr",
+      "title": "Wyższa opłata koncesyjna może podbić rachunki za prąd. Kontrowersje wokół projektu",
+      "url": "https://energia.rp.pl/ceny-energii/art45514251-wyzsza-oplata-koncesyjna-moze-podbic-rachunki-za-prad-kontrowersje-wokol-projektu",
       "source": "Rzeczpospolita",
-      "date": "2026-11-19T22:25+01:00",
-      "teaser": "Sztuczna inteligencja pomaga już w rekrutacji, analizie danych i codziennej pracy działów HR. Firmy liczą na oszczędność czasu, ale ryzykują wyciekiem danych i dyskryminacją kandydatów. Jak korzystać z AI bezpiecznie i z korzyścią dla biznesu? O tym dyskutowali eksperci podczas HR Insights."
+      "date": "2026-11-20T04:31+01:00",
+      "teaser": "Ministerstwo Energii szykuje nawet 10-krotną podwyżkę tzw. opłaty koncesyjnej dla spółek energetycznych. Sprzeciw wyraziła nie tylko branża, ale nawet Ministerstwo Aktywów Państwowych. Po krytyce projektu prace nad nim na razie nie ruszyły."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.56,
+    "score": 1.95,
     "items": [
      {
-      "title": "Rosyjskie ataki uszkodziły ambasady trzech państw w Kijowie. Szwecja wzywa ambasadora Rosji",
-      "url": "https://www.rp.pl/dyplomacja/art45517891-rosyjskie-ataki-uszkodzily-ambasady-trzech-panstw-w-kijowie-szwecja-wzywa-ambasadora-rosji",
+      "title": "Szef biura EBI w Polsce: Decyzja kredytowa ws. Portu Polska w przyszłym roku",
+      "url": "https://www.rp.pl/transport/art45512971-szef-biura-ebi-w-polsce-decyzja-kredytowa-ws-portu-polska-w-przyszlym-roku",
       "source": "Rzeczpospolita",
-      "date": "2026-11-19T22:02+01:00",
-      "teaser": "Ambasady Holandii i Austrii zostały uszkodzone podczas czwartkowych rosyjskich ataków na Kijów. Do eksplozji doszło również w pobliżu szwedzkiej placówki dyplomatycznej. Szefowa MSZ Szwecji Maria Malmer Stenergard zapowiedziała wezwanie rosyjskiego ambasadora w Sztokholmie."
+      "date": "2026-11-20T04:26+01:00",
+      "teaser": "Trwają rozmowy EBI ze spółką odpowiedzialną za realizację Portu Polska, powoli zaczynamy dokonywać ewaluacji tego projektu – mówi Piotr Michałowski, nowy dyrektor biura Grupy Europejskiego Banku Inwestycyjnego w Polsce."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.55,
+    "score": 1.95,
     "items": [
      {
-      "title": "Podbój jako przejaw bożego miłosierdzia. Paradoks konkwistadorów",
-      "url": "https://historia.rp.pl/historia-swiata/art45511281-podboj-jako-przejaw-bozego-milosierdzia-paradoks-konkwistadorow",
+      "title": "Waldemar Żurek: Nawrocki się przestraszył TK i chciał go rozmontować",
+      "url": "https://www.rp.pl/polityka/art45513301-waldemar-zurek-nawrocki-sie-przestraszyl-tk-i-chcial-go-rozmontowac",
       "source": "Rzeczpospolita",
-      "date": "2026-11-19T21:54+01:00",
-      "teaser": "Hiszpańscy zdobywcy nie musieli uważać mieszkańców Ameryki za zwierzęta, aby ich niewolić, znakować, torturować i zabijać. Przeciwnie: potrafili uznawać ich rozum, duszę i zdolność do chrztu."
+      "date": "2026-11-20T04:26+01:00",
+      "teaser": "– Boję się, że gdybyśmy zresetowali Trybunał, to damy bardzo zły przykład, bo kolejna partia, która wygra wybory, powie: teraz hulaj dusza, piekła nie ma – uważa Waldemar Żurek. Minister odnosi się też do zarzutów, że Korwin-Piotrowska miała cenzurować i blokować publikację opinii krytycznych wobec "
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.54,
+    "score": 1.41,
     "items": [
      {
       "title": "Tusk liczy na to, że Nawrocki udzieli mu głosu w Pałacu Prezydenckim. \"Jakby się obawiał, co powiem\"",
@@ -617,7 +631,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.53,
+    "score": 1.39,
     "items": [
      {
       "title": "Tragiczny wypadek na S7. Kierowca ciężarówki uderzył w 51-latka",
@@ -632,14 +646,14 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.97,
+    "score": 5.83,
     "items": [
      {
       "title": "Medienberichte: Lufthansa will 1.000 Stellen streichen",
       "url": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html",
       "source": "Tagesschau",
       "date": "2026-11-20T02:56+01:00",
-      "teaser": "Insgesamt 1.000 Stellen in München und Frankfurt will man bei der Lufthansa Airlines streichen, das geht aus einem Brief an Mitarbeiter hervor. Auf Anfrage wollte die Airline dem internen Schreiben \"nichts hinzufügen\"."
+      "teaser": "Insgesamt 1.000 Stellen in München und Frankfurt will man bei der Lufthansa Airlines streichen. Das geht aus einem Brief an Mitarbeiter hervor. Auf Anfrage wollte die Airline dem internen Schreiben \"nichts hinzufügen\"."
      },
      {
       "title": "Lufthansa: Lufthansa will 1.000 Stellen in Frankfurt und München streichen",
@@ -659,7 +673,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.29,
+    "score": 5.15,
     "items": [
      {
       "title": "BASF: Chemieriese sagt Evonik-Übernahme ab",
@@ -686,7 +700,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.82,
     "items": [
      {
       "title": "Arbeitskampf: IG Metall startet 24-Stunden-Warnstreiks",
@@ -706,7 +720,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.77,
     "items": [
      {
       "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
@@ -726,7 +740,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.48,
+    "score": 3.34,
     "items": [
      {
       "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
@@ -746,7 +760,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.39,
+    "score": 3.25,
     "items": [
      {
       "title": "KI-Firma Anthropic startet mit deutlichem Kursplus an der Börse",
@@ -769,76 +783,76 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Delaware Regulator Says It Was ‘Misled’ About Mark Walter’s Insurance Assets",
-      "url": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
-      "source": "New York Times",
-      "date": "2026-11-20T02:13+00:00",
-      "teaser": "The state’s insurance agency rejected criticism of its oversight of Mr. Walter’s insurance firms that has been raised by some industry analysts."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "A thaw in India’s ties with Pakistan?",
-      "url": "https://www.ft.com/content/c27362fd-e138-4b32-8875-1e52ce4a4e05?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-20T01:30+00:00",
-      "teaser": "Plus, Amazon’s $7bn investment"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Regierungskoalition: Pistorius in Polen – Erinnerungskultur oder Wahlkampf in eigener Sache?",
-      "url": "https://www.handelsblatt.com/politik/deutschland/regierungskoalition-pistorius-in-polen-erinnerungskultur-oder-wahlkampf-in-eigener-sache/100270841.html",
+      "title": "Nikkei, Kospi & Co.: Ostasiens Börsen brechen nach Anthropics Börsengang ein",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/ostasiens-boersen-brechen-nach-anthropics-boersengang-ein/100271416.html",
       "source": "Handelsblatt",
-      "date": "2026-11-20T00:28+00:00",
-      "teaser": "Beim Besuch des früheren Konzentrationslagers Auschwitz zeigt der Verteidigungsminister Kanzlerformat. Auch sonst meldet er sich auffällig häufig zu Wort. Stehen dahinter höhere Ambitionen?"
+      "date": "2026-11-20T03:55+00:00",
+      "teaser": "Der Verkauf von Chipaktien in Ostasien geht weiter. Sorgen um neue Exportkontrollen der USA für KI-Chips belasten die Märkte zusätzlich, auch in China."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.92,
     "items": [
      {
-      "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
-      "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-      "source": "New York Times",
-      "date": "2026-11-20T00:25+00:00",
-      "teaser": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more."
+      "title": "Künstliche Intelligenz: „Das wird den ChatGPT-Moment in den Schatten stellen\" – Wie KI ein deutsches Wirtschaftswunder schaffen kann",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/kuenstliche-intelligenz-kann-deutschland-noch-wirtschaftswunder/100268868.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-20T03:00+00:00",
+      "teaser": "Die Verbindung von KI und Industrie birgt für Deutschland große Chancen. „Physical AI“ könnte sogar den Industriestandort sichern. Wie das funktioniert, zeigt eine exklusive Studie."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.92,
     "items": [
      {
-      "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
-      "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-20T00:15+00:00",
-      "teaser": "Investors in latest semiconductor financing demand legal protection for coveted collateral"
+      "title": "Ex-Bundesaußenministerin: Annalena Baerbock wird jetzt auch Beraterin",
+      "url": "https://www.handelsblatt.com/unternehmen/ex-bundesaussenministerin-annalena-baerbock-wird-jetzt-auch-beraterin/100271366.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-20T03:00+00:00",
+      "teaser": "Die Expertise der Professorin und früheren Außenministerin ist bei einer internationalen Beratung gefragt. Dort trifft die Grünen-Politikerin auch auf eine frühere Weggefährtin aus Berlin."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.92,
     "items": [
      {
-      "title": "Airbnb's divisive new house rules come into force",
-      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T00:12+00:00",
-      "teaser": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers."
+      "title": "Erneuerbare Energien: Grüner Wasserstoff aus der Nordsee: Politik deckelt die Zukunft",
+      "url": "https://www.handelsblatt.com/politik/deutschland/erneuerbare-energien-chancen-fuer-wasserstoff-aus-dem-meer-schwinden/100270322.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-20T03:00+00:00",
+      "teaser": "Ein neues Gesetz soll die Windenergie in Nord- und Ostsee voranbringen. Doch an mehreren Stellen hakt es. Besonders schlecht steht es um Pläne, Wasserstoff auf hoher See zu produzieren."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Geldanlage: Nur zwei von zehn Branchen im MSCI World sind noch unterbewertet",
+      "url": "https://www.handelsblatt.com/finanzen/geldanlage-nur-zwei-von-zehn-branchen-im-msci-world-sind-noch-unterbewertet/100268676.html",
+      "source": "Handelsblatt (Finanzen)",
+      "date": "2026-11-20T03:00+00:00",
+      "teaser": "Weltweit stark gestiegene Kurse sorgen dafür, dass die meisten Aktien überbewertet und damit teuer sind. Zwei überraschende Branchen widersetzen sich dem Trend."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Aktie im Blick: Deutsche Börse: Warum es nach dem deutlichen Kurseinbruch aufwärtsgeht",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/deutsche-boerse-warum-es-nach-dem-kurseinbruch-kraeftig-aufwaerts-geht/100270981.html",
+      "source": "Handelsblatt (Finanzen)",
+      "date": "2026-11-20T03:00+00:00",
+      "teaser": "Innerhalb eines Jahres hat die Aktie des Frankfurter Börsenbetreibers 60 Prozent zugelegt. Große Sorgen haben sich plötzlich verflüchtigt. Weshalb eigentlich?"
      }
     ]
    }
@@ -846,7 +860,7 @@
   "Sport": [
    {
     "sourceCount": 2,
-    "score": 9.61,
+    "score": 9.47,
     "favorite": true,
     "items": [
      {
@@ -867,7 +881,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.76,
+    "score": 7.63,
     "favorite": true,
     "items": [
      {
@@ -881,7 +895,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.72,
+    "score": 7.58,
     "favorite": true,
     "items": [
      {
@@ -895,7 +909,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.29,
+    "score": 5.16,
     "items": [
      {
       "title": "FC Bayern München: Vincent Kompany kehrt gegen FC Köln an die Seitenlinie zurück",
@@ -922,7 +936,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.16,
+    "score": 3.02,
     "items": [
      {
       "title": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
@@ -942,7 +956,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.14,
+    "score": 3.01,
     "items": [
      {
       "title": "Premier League clubs vote through new rules to increase legal protection for board",
@@ -962,7 +976,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.0,
+    "score": 2.86,
     "items": [
      {
       "title": "Fußball in Ecuador: Schiedsrichter mit Stein verletzt – acht Jahre Sperre für Spieler",
@@ -982,7 +996,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.46,
+    "score": 2.32,
     "items": [
      {
       "title": "Formstarke Torhüterin: Berger kehrt mit Auszeichnung in die Nationalmannschaft zurück",
@@ -1002,7 +1016,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.8,
     "items": [
      {
       "title": "Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
@@ -1015,7 +1029,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.67,
     "items": [
      {
       "title": "Premier League: 10 things to look out for this weekend",
@@ -1028,7 +1042,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.66,
     "items": [
      {
       "title": "Arsenal 'have ingredients' but Europe's elite on another level",
@@ -1041,7 +1055,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.73,
+    "score": 1.59,
     "items": [
      {
       "title": "Handynutzung im Stadion: Können wir noch Fußball schauen?",
@@ -1056,7 +1070,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.77,
+    "score": 3.63,
     "items": [
      {
       "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
@@ -1076,7 +1090,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.6,
     "items": [
      {
       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
@@ -1096,7 +1110,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.64,
+    "score": 3.5,
     "items": [
      {
       "title": "Anzeige: Google Pixel 11 günstig wie nie am Black Friday",
@@ -1116,20 +1130,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.91,
     "items": [
      {
       "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
       "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-20T02:13+00:00",
+      "date": "2026-11-20T02:54+00:00",
       "teaser": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
+      "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
+      "source": "Wired",
+      "date": "2026-11-20T02:39+00:00",
+      "teaser": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.81,
     "items": [
      {
       "title": "Google Disrupts Its Search Advertising With Its Embrace of A.I.",
@@ -1142,7 +1169,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.7,
     "items": [
      {
       "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
@@ -1155,7 +1182,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.67,
     "items": [
      {
       "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
@@ -1168,7 +1195,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.56,
     "items": [
      {
       "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
@@ -1181,7 +1208,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.68,
+    "score": 1.55,
     "items": [
      {
       "title": "Apple is hiring engineers to build its own AI agent",
@@ -1194,7 +1221,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.52,
     "items": [
      {
       "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
@@ -1207,7 +1234,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.5,
     "items": [
      {
       "title": "A brief history of Nvidia’s recent stock fluctuations",
@@ -1215,19 +1242,6 @@
       "source": "The Verge",
       "date": "2026-11-19T16:59-05:00",
       "teaser": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wip"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.64,
-    "items": [
-     {
-      "title": "What’s With All These Outages?",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-      "source": "Wired",
-      "date": "2026-11-19T21:57+00:00",
-      "teaser": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang."
      }
     ]
    }
@@ -1364,7 +1378,7 @@
    "topic": "Deutschland",
    "source": "Tagesschau",
    "ok": true,
-   "items": 6
+   "items": 4
   },
   {
    "topic": "Deutschland",
@@ -1514,19 +1528,19 @@
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 6
+   "items": 4
   },
   {
    "topic": "Sport",
    "source": "FAZ",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Sport",
