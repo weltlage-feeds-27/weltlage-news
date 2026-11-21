@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-21T03:58:22+00:00",
+ "fetchedAt": "2026-11-21T05:00:33+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.49,
+    "score": 7.4,
     "items": [
      {
       "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
@@ -31,7 +31,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.92,
+    "score": 5.83,
     "items": [
      {
       "title": "Paris police officers sentenced to prison over 2020 beating of Black man",
@@ -58,7 +58,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.9,
+    "score": 5.82,
     "items": [
      {
       "title": "Brooks and Capehart on Trump's summit with Putin and Xi",
@@ -85,7 +85,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.77,
+    "score": 5.68,
     "items": [
      {
       "title": "Denmark expels Russian diplomat over alleged assassination plot on Ukrainian rapper Kyivstoner",
@@ -112,7 +112,47 @@
    },
    {
     "sourceCount": 2,
-    "score": 4.0,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
+      "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
+      "source": "PBS NewsHour",
+      "date": "2026-11-20T19:01-05:00",
+      "teaser": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial."
+     },
+     {
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-21T04:34+00:00",
+      "teaser": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+      "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-21T04:32+00:00",
+      "teaser": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station."
+     },
+     {
+      "title": "Saudi-led coalition says downed 3 Houthi missiles headed for Riyadh",
+      "url": "https://www.thehindu.com/news/international/saudi-led-coalition-says-downed-3-houthi-missiles-headed-for-riyadh/article71727179.ece",
+      "source": "The Hindu",
+      "date": "2026-11-21T08:51+05:30",
+      "teaser": "Yemen's Houthis said on X that they were striking targets across Saudi Arabia, including in Riyadh"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.91,
     "items": [
      {
       "title": "Hong Kong commerce chief ‘cautiously optimistic’ after China-US-Russia peace declaration",
@@ -132,27 +172,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
-    "items": [
-     {
-      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-21T00:00+00:00",
-      "teaser": "Saudi-led coalition says it intercepted three missiles as IRGC claims it downed a US MQ-9 drone over Strait of Hormuz."
-     },
-     {
-      "title": "Saudi-led coalition says downed 3 Houthi missiles headed for Riyadh",
-      "url": "https://www.thehindu.com/news/international/saudi-led-coalition-says-downed-3-houthi-missiles-headed-for-riyadh/article71727179.ece",
-      "source": "The Hindu",
-      "date": "2026-11-21T08:51+05:30",
-      "teaser": "Yemen's Houthis said on X that they were striking targets across Saudi Arabia, including in Riyadh"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.83,
     "items": [
      {
       "title": "Court approves $7.25 billion Bayer settlement over claims Roundup weed killer caused cancer",
@@ -172,7 +192,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.79,
     "items": [
      {
       "title": "Brasilien: Ex-Präsident Jair Bolsonaro wegen Bauchschmerzen im Krankenhaus",
@@ -192,7 +212,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.77,
     "items": [
      {
       "title": "Takeaways From Trump’s Post-Trip News Conference",
@@ -212,27 +232,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.85,
-    "items": [
-     {
-      "title": "Krieg gegen die Ukraine: Russische Marschflugkörper stürzen in Polen ab",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/russland-raketen-luftraumverletzung-polen-ukraine-gxe",
-      "source": "Zeit",
-      "date": "2026-11-20T14:44+00:00",
-      "teaser": "Bei russischen Luftangriffen auf die Ukraine sind offenbar zwei Marschflugkörper und eine Drohne auf polnischem Gebiet abgestürzt. Polen spricht von einer »Provokation«."
-     },
-     {
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-21T02:09+00:00",
-      "teaser": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.84,
+    "score": 3.76,
     "items": [
      {
       "title": "🦛 USA: Fiona, Cincinnati Zoo’s famous hippo, has died",
@@ -252,7 +252,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.71,
+    "score": 3.62,
     "items": [
      {
       "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
@@ -274,27 +274,7 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.18,
-    "items": [
-     {
-      "title": "Deutsche Bank: Koalitionspolitiker fordern nach Datenleck Reform der Erbschaftsteuer",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/deutsche-bank-datenleck-erbschaftsteuer-schenkungssteuer-ausnahmen-gxe",
-      "source": "Zeit",
-      "date": "2026-11-20T12:40+00:00",
-      "teaser": "Das Datenleck der Deutschen Bank zeigt, wie die Erbschaftsteuer legal umgangen wird. Es sei ein »Skandal mit Ansage«, sagt SPD-Generalsekretär Klüssendorf."
-     },
-     {
-      "title": "Hollywood, Milliarden und die Deutsche Bank",
-      "url": "https://www.zdfheute.de/wirtschaft/deutsche-bank-malaysia-1mdb-100.html",
-      "source": "ZDF",
-      "date": "2026-11-20T19:05+01:00",
-      "teaser": "Mit gestohlenen Milliarden finanzierte Jho Low Hollywoodfilme und Luxuspartys. Welche Rolle die Deutsche Bank spielte, zeigen interne Dokumente."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.12,
+    "score": 3.04,
     "items": [
      {
       "title": "Ukraine: Boris Pistorius zeigt sich offen für Gespräche mit Wladimir Putin",
@@ -314,7 +294,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.99,
+    "score": 2.91,
     "items": [
      {
       "title": "Ulrich Siegmund: Die neue Taktik der AfD: Überrumpelung",
@@ -334,7 +314,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.92,
+    "score": 2.84,
     "items": [
      {
       "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
@@ -354,7 +334,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Deutschland Liveblog: Vereinzelt Ausschreitungen nach weitgehend friedlichen Jugendprotesten",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html",
+      "source": "FAZ",
+      "date": "2026-11-21T04:29+00:00",
+      "teaser": "Vorfälle bei Gen-Z-Protesten in Hamburg, Leipzig und Bremen +++ Bundesrat bewilligt Führerscheinreform +++ Hendrik Wüst übernimmt Vorsitz der Länderkammer +++ alle Entwicklungen im Liveblog"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Wie realistisch ist eine Reform der US-Präsidentenwahl?",
+      "url": "https://www.zdfheute.de/politik/ausland/national-popular-vote-usa-trump-midterms-100.html",
+      "source": "ZDF",
+      "date": "2026-11-21T05:29+01:00",
+      "teaser": "Trump wurde 2016 Präsident, obwohl Clinton mehr Stimmen erhielt. Ein Bündnis will verhindern, dass sich das wiederholt. Nach den Midterms könnte der Plan jetzt realistisch werden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Weltklimakonferenz COP31: Klimagipfel verlängert – Ringen um einen Konsens",
+      "url": "https://www.sueddeutsche.de/politik/erderwaermung-weltklimakonferenz-erneuerbare-energien-fossile-brennstoffe-naturkatastrophen-hitzerekord-li.3583943",
+      "source": "Süddeutsche",
+      "date": "2026-11-21T04:20+00:00",
+      "teaser": "Die Erde steuert laut UN bis 2100 auf 2,8 Grad Erwärmung zu. Doch auf der nun verlängerten Klimakonferenz sind nur bescheidene Fortschritte im Kampf gegen die Erderwärmung in Sicht."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.8,
     "items": [
      {
       "title": "Jugendliche erneut zu Tausenden auf den Straßen",
@@ -367,7 +386,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.6,
     "items": [
      {
       "title": "Gen Z-Demos in BW: Polizei zieht durchwachsene Bilanz",
@@ -380,7 +399,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.61,
+    "score": 1.52,
     "items": [
      {
       "title": "Bundesregierung: Juso-Chef Türmer kritisiert Koalition wegen Stromsteuersenkung",
@@ -393,7 +412,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.57,
+    "score": 1.49,
     "items": [
      {
       "title": "Bayern-Schock: Harry Kane fällt mehrere Monate aus",
@@ -406,7 +425,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.48,
+    "score": 1.39,
     "items": [
      {
       "title": "Gen-Z-Proteste: Wie die Jugend versucht, aus Demos eine Bewegung zu machen",
@@ -419,7 +438,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.45,
+    "score": 1.37,
     "items": [
      {
       "title": "Newsblog zu KI: Anthropic-Aktien rutschen fast auf den Ausgabekurs ab",
@@ -429,38 +448,51 @@
       "teaser": "Analysten zufolge sind Anleger teilweise enttäuscht, bei der Ausgabe der Aktien leer ausgegangen zu sein. Die Börsenaufsicht untersucht die Buchführung von Nvidia."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.36,
-    "items": [
-     {
-      "title": "Gipfeltreffen: Auch in Shenzhen lässt Trump mit sich spielen",
-      "url": "https://www.faz.net/aktuell/politik/ausland/gipfeltreffen-in-shenzen-putin-und-trump-machen-es-xi-leicht-201691480.html",
-      "source": "FAZ",
-      "date": "2026-11-20T20:18+00:00",
-      "teaser": "Xi Jinping suchte maximale Symbolik und geringe konkrete Ergebnisse. Putin und Trump machten es ihm leicht in Shenzhen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.33,
-    "items": [
-     {
-      "title": "GTA VI: Diese deutschen Songs sind im Gaming-Radio gelandet",
-      "url": "https://www.zdfheute.de/panorama/gta-vi-soundtrack-musik-radio-kuenstler-deutschland-100.html",
-      "source": "ZDF",
-      "date": "2026-11-20T20:55+01:00",
-      "teaser": "Das neue GTA VI ist schon jetzt ein Mega-Erfolg. Einen Anteil daran haben die fiktiven Radiostationen im Spiel. Dort können Spieler weltweit sogar mehrere deutsche Künstler hören."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.48,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Dzieła sztuki warte blisko 100 milionów zł w Warszawie. Opałka, Uklański i Mitoraj",
+      "url": "https://sukces.rp.pl/sztuka/art45521171-dziela-sztuki-warte-blisko-100-milionow-zl-w-warszawie-opalka-uklanski-i-mitoraj",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T06:00+01:00",
+      "teaser": "Roman Opałka, Piotr Uklański, Igor Mitoraj – każde z tych nazwisk z osobna podnosi ciśnienie miłośnikom sztuki, a także zamożnym kolekcjonerom. W Warszawie w tym samym czasie pojawiły się prace tych trzech artystów. Wszystkie można oglądać na darmowej wystawie, obok prac m.in. Abakanowicz, Nowosiels"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Wrażliwe dane można łatwo kupić. Niepokojący eksperyment w dobie zagrożenia z Rosji",
+      "url": "https://www.rp.pl/plus-minus/art45521921-wrazliwe-dane-mozna-latwo-kupic-niepokojacy-eksperyment-w-dobie-zagrozenia-z-rosji",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T06:00+01:00",
+      "teaser": "Twoja aplikacja pogodowa wie, gdzie śpisz. Sklep wie, co kupujesz. Te informacje mogą trafić do firm, które nimi handlują. W świecie zdominowanym przez technologię dane mają ogromną wartość."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Tak wygląda sen na początku choroby Alzheimera. Te objawy pojawiają się lata przed diagnozą",
+      "url": "https://www.rp.pl/nauka/art45515171-tak-wyglada-sen-na-poczatku-choroby-alzheimera-te-objawy-pojawiaja-sie-lata-przed-diagnoza",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T05:40+01:00",
+      "teaser": "Podczas głębokiego snu mózg wytwarza charakterystyczne fale mózgowe. Okazuje się, że niewielkie zmiany ich kształtu mogą ujawniać nieprawidłowości związane z chorobą Alzheimera na długo przed pojawieniem się problemów z pamięcią."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.4,
     "items": [
      {
       "title": "Moskwa zarzuca holenderskiej firmie udział w ataku na Most Krymski",
@@ -473,7 +505,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.43,
+    "score": 1.35,
     "items": [
      {
       "title": "Rosyjskie pociski przekroczyły polską granicę. Najważniejsze wydarzenia dnia",
@@ -486,7 +518,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.42,
+    "score": 1.34,
     "items": [
      {
       "title": "Nie żyje Piotr Moczulski. Wojsko sprowadziło go z Filipin do Polski. \"Miał zaledwie 43 lata\"",
@@ -499,7 +531,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.42,
+    "score": 1.33,
     "items": [
      {
       "title": "Dlaczego wojsko nie zestrzeliło rosyjskiej rakiety? \"Nie było spełnionych wszystkich warunków\"",
@@ -512,7 +544,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.41,
+    "score": 1.32,
     "items": [
      {
       "title": "Po nocnym ataku na Kijów UE odpowiada miliardem euro. Broń trafi do Ukrainy do 2027",
@@ -525,7 +557,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.41,
+    "score": 1.32,
     "items": [
      {
       "title": "Rosja zleciła zamach na ukraińskiego rapera w Danii. Wcześniej próbowała w Warszawie",
@@ -538,7 +570,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.38,
+    "score": 1.29,
     "items": [
      {
       "title": "Putin wzywa Ukraińców do zbliżenia z Rosją. „Wybierzcie właściwą stronę historii”",
@@ -551,7 +583,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.31,
+    "score": 1.23,
     "items": [
      {
       "title": "FedEx-led consortium completes €7.8bn takeover of Polish delivery giant InPost",
@@ -564,7 +596,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.31,
+    "score": 1.22,
     "items": [
      {
       "title": "Donald Trump zdradza kulisy rozmowy z Putinem. \"Jasno wyraził chęć zakończenia wojny\"",
@@ -574,51 +606,12 @@
       "teaser": "Prezydent Rosji Władimir Putin zadeklarował gotowość do dyplomatycznego zakończenia konfliktu w Ukrainie oraz przyznał, że nie zaatakowałby tego kraju, gdyby w Białym Domu zasiadał wówczas Donald Trump - przekazał prezydent USA podczas spotkania z mediami."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.27,
-    "items": [
-     {
-      "title": "\"FT\": Biały Dom naciska na Ukrainę, by zawarła porozumienie z Rosją, zanim demokraci przejmą Kongres",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33143958,ft-bialy-dom-naciska-na-ukraine-by-zawarla-porozumienie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-20T19:15+00:00",
-      "teaser": "Administracja Donalda Trumpa ma naciskać na zawarcie porozumienia pokojowego między Ukrainą a Rosją przed początkiem stycznia - informuje dziennik \"Financial Times\". Przedstawiciele Ukrainy obawiają się, że zostaną zmuszeni do przyjęcia niekorzystnych warunków."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.25,
-    "items": [
-     {
-      "title": "Między dziećmi czekającymi na nowe serce. Film o miłości, bólu i zrozumieniu",
-      "url": "https://www.rp.pl/plus-minus/art45517861-miedzy-dziecmi-czekajacymi-na-nowe-serce-film-o-milosci-bolu-i-zrozumieniu",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T19:57+01:00",
-      "teaser": "„Duszę trzeba karmić tak, jak karmi się swoje ciało” – mawia japońska reżyserka Naomi Kawase."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.21,
-    "items": [
-     {
-      "title": "Taurona martwią koszty profilu OZE, ale spółka widzi szansę na nowy rynek mocy",
-      "url": "https://energia.rp.pl/elektroenergetyka/art45522051-taurona-martwia-koszty-profilu-oze-ale-spolka-widzi-szanse-na-nowy-rynek-mocy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-20T19:33+01:00",
-      "teaser": "Tauron czeka z decyzjami dotyczącymi nowych projektów elektrowni gazowych, ale także w kwestii wydłużenia życia elektrowni węglowych. - Administracja rządowa prowadziła rozmowy z Komisją Europejską o nowej architekturze rynku mocy, a ich wynik miał wpłynąć na tempo prac nad krajowymi regulacjami - z"
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 4,
-    "score": 7.49,
+    "score": 7.4,
     "items": [
      {
       "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
@@ -645,7 +638,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.99,
+    "score": 5.9,
     "items": [
      {
       "title": "US-Gericht billigt Vergleich von Bayer mit Glyphosat-Klägern",
@@ -672,7 +665,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.95,
+    "score": 5.86,
     "items": [
      {
       "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
@@ -699,7 +692,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-20T21:34+01:00",
+      "teaser": "Der Techkonzern Nvidia rutscht immer tiefer in die Krise. Nach dem Skandal um Jensen Huang untersucht die US-Börsenaufsicht nun offenbar mutmaßliche Bilanzprobleme. Bekannt werden auch neue Details über seine Geliebte."
+     },
+     {
+      "title": "Jensen Huang: US-Börsenaufsicht ermittelt laut Berichten gegen Nvidia",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-sec-ermittlungen-untersuchung-berichte",
+      "source": "Zeit",
+      "date": "2026-11-21T04:17+00:00",
+      "teaser": "Die Probleme bei Nvidia reißen nicht ab. US-Medien zufolge soll der Chiphersteller nun auch wegen Ungereimtheiten in der Bilanz im Visier der Börsenaufsicht SEC stehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.68,
     "items": [
      {
       "title": "Nvidia faces US regulator’s probe into its accounting",
@@ -719,7 +732,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.35,
+    "score": 3.26,
     "items": [
      {
       "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
@@ -739,7 +752,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.32,
+    "score": 3.24,
     "items": [
      {
       "title": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
@@ -759,7 +772,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.27,
+    "score": 3.19,
     "items": [
      {
       "title": "KI-Industrie: Trump warnt US-Konzerne vor Bau von KI-Rechenzentren im Ausland und droht mit „enormen Strafen“",
@@ -779,7 +792,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.2,
+    "score": 3.11,
     "items": [
      {
       "title": "What exactly is in the deal between the UK and the EU?",
@@ -799,7 +812,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.82,
+    "score": 2.74,
     "items": [
      {
       "title": "Galeria schließt drei Filialen - und noch viele mehr?",
@@ -819,7 +832,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.61,
+    "score": 2.52,
     "items": [
      {
       "title": "Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos",
@@ -839,27 +852,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.77,
+    "score": 1.96,
     "items": [
      {
-      "title": "‘Sandpapergate’ fallout gives Australian cricket a rough time",
-      "url": "https://www.ft.com/content/21e99fa9-325d-4294-a459-97393c0d107f?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-21T01:11+00:00",
-      "teaser": "Fresh allegations over 2018 cheating scandal spark wider national debate over sport"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.71,
-    "items": [
-     {
-      "title": "Verbrenner-Aus: Verkehrsminister Steffen Bilger fordert Bekenntnis zu Deutschland",
-      "url": "https://www.spiegel.de/wirtschaft/verbrenner-aus-verkehrsminister-steffen-bilger-fordert-bekenntnis-zu-deutschland-a-8059c9a8-fb59-4254-91cd-d70b666eb42b#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-21T01:30+01:00",
-      "teaser": "Die EU könnte Autobauern erlauben, auch nach 2035 neue Verbrenner und Hybride zu verkaufen. Verkehrsminister Bilger knüpft daran eine klare Erwartung an die Hersteller."
+      "title": "Demonstrationen: Jugendproteste verlaufen weitgehend friedlich",
+      "url": "https://www.handelsblatt.com/politik/deutschland/demonstrationen-jugendproteste-verlaufen-weitgehend-friedlich/100271709.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-21T04:29+00:00",
+      "teaser": "Zehntausende demonstrierten für mehr Geld für Schulen und gegen die Wehrpflicht. In Hamburg und Leipzig kam es später zu Ausschreitungen."
      }
     ]
    }
@@ -867,7 +867,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.54,
+    "score": 7.46,
     "favorite": true,
     "items": [
      {
@@ -881,7 +881,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.53,
+    "score": 7.45,
     "favorite": true,
     "items": [
      {
@@ -895,7 +895,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.53,
+    "score": 7.4399999999999995,
     "favorite": true,
     "items": [
      {
@@ -909,7 +909,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 6.91,
+    "score": 6.82,
     "items": [
      {
       "title": "Nations-League-Viertelfinale: Deutschland trifft auf Belgien",
@@ -936,7 +936,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.54,
+    "score": 5.45,
     "items": [
      {
       "title": "Herber Rückschlag für die Bayern: Kane erleidet Syndesmoseriss",
@@ -954,7 +954,7 @@
      },
      {
       "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
-      "url": "https://www.sportschau.de/fussball/bundesliga/harry-kane-erleidet-syndesmoseriss,kane-verletzung-100.html",
+      "url": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
       "source": "Sportschau",
       "date": "2026-11-20T23:24+01:00",
       "teaser": "Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich beim Remis gegen den 1. FC Köln einen Riss des Syndesmosebandes zu."
@@ -963,27 +963,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.6,
+    "score": 3.51,
     "items": [
+     {
+      "title": "FC Bayern München: Verletzungssorgen nach Köln-Spiel – Kane und Olise angeschlagen",
+      "url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungssorgen-nach-koeln-spiel-kane-und-olise-angeschlagen-a-f44477ac-00ee-44ab-a005-c26d0e6965ef#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-20T22:33+01:00",
+      "teaser": "Die Rückkehr von Trainer Vincent Kompany und Jamal Musiala sollte das Bundesliga-Heimspiel gegen den 1. FC Köln zum Fest machen. Stattdessen erlebten die Bayern einen Abend voller Frust."
+     },
      {
       "title": "Die Sportschau vom Freitag mit Bayern gegen Köln",
       "url": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2011-100.html",
       "source": "Sportschau",
       "date": "2026-11-21T00:11+01:00",
       "teaser": "Sehen Sie hier die Sportschau am Freitag mit den Highlights vom Spiel der Bayern gegen den 1. FC Köln, der 2. Bundesliga, der 3. Liga und der Frauen-Bundesliga."
-     },
-     {
-      "title": "Bundesliga, 10. Spieltag – Freitag: Bayern spielt unentschieden gegen Köln",
-      "url": "https://www.zeit.de/sport/2026-11/bundesliga-10-spieltag-bayern-muenchen-koeln",
-      "source": "Zeit",
-      "date": "2026-11-20T22:03+00:00",
-      "teaser": "Bayern holt gegen Köln ein enttäuschendes Remis. Der Freude über zwei Comebacks stehen beim Tabellenführer neue Verletzungssorgen gegenüber. Der Spielbericht"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.55,
+    "score": 3.47,
     "items": [
      {
       "title": "Tom Brady steigt offenbar beim FC Chelsea ein",
@@ -1002,48 +1002,8 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.51,
-    "items": [
-     {
-      "title": "Bei Remis gegen Köln: Kane und Olise verletzt ausgewechselt",
-      "url": "https://www.sportschau.de/fussball/bundesliga/koeln-ueberrascht-in-muenchen-kane-und-olise-verletzt-ausgewechselt,spielbericht-bayern-muenchen-koeln-102.html",
-      "source": "Sportschau",
-      "date": "2026-11-20T23:08+01:00",
-      "teaser": "Dicke Überraschung am Freitagabend: Mit einer couragierten Leistung hat der 1. FC Köln beim FC Bayern ein Remis erkämpft. Bayerns Starspieler Kane und Olise mussten früh verletzt raus. Den Ballon d'Or-Gewinner traf es schwer."
-     },
-     {
-      "title": "FC Bayern München: Verletzungssorgen nach Köln-Spiel – Kane und Olise angeschlagen",
-      "url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungssorgen-nach-koeln-spiel-kane-und-olise-angeschlagen-a-f44477ac-00ee-44ab-a005-c26d0e6965ef#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-20T22:33+01:00",
-      "teaser": "Die Rückkehr von Trainer Vincent Kompany und Jamal Musiala sollte das Bundesliga-Heimspiel gegen den 1. FC Köln zum Fest machen. Stattdessen erlebten die Bayern einen Abend voller Frust."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.25,
-    "items": [
-     {
-      "title": "Pochettino the connector: will human touch lift Manchester United?",
-      "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
-      "source": "The Guardian",
-      "date": "2026-11-20T19:00+00:00",
-      "teaser": "Argentinian has excelled in man-management – but will need his powers to energise new squad and impress owners Mauricio Pochettino celebrated his 50th birthday in style. It was March 2022, he was in charge at Paris Saint-Germain and the venue was a stunning boutique hotel; the kind that many capital"
-     },
-     {
-      "title": "Mauricio Pochettino: Der Mann, der Manchester United retten soll",
-      "url": "https://www.faz.net/aktuell/sport/fussball/mauricio-pochettino-bei-manchester-united-kann-er-diesen-klub-retten-201694104.html",
-      "source": "FAZ",
-      "date": "2026-11-19T16:11+00:00",
-      "teaser": "Nun also Mauricio Pochettino: Der Argentinier ist der achte Trainer, der Manchester United seit dem Ende der Alex-Ferguson-Ära zurück zum Erfolg führen soll. Doch die Probleme im Verein liegen tiefer."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.54,
     "items": [
      {
       "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
@@ -1056,7 +1016,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.54,
     "items": [
      {
       "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
@@ -1069,7 +1029,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.62,
+    "score": 1.53,
     "items": [
      {
       "title": "Kompany: \"Haben andere Jungs, die die Mannschaft jetzt tragen müssen\"",
@@ -1079,12 +1039,38 @@
       "teaser": "Der Freitagabend war für die Bayern einer zum Vergessen: Nur ein Remis gegen Köln und die schwere Verletzung von Harry Kane. Coach Vincent Kompany ordnet die schwere Lage ein und fordert nun, dass andere in die Bresche springen."
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.52,
+    "items": [
+     {
+      "title": "FC Bayern atmet auf: Leichte Entwarnung bei Olise",
+      "url": "https://www.kicker.de/fc-bayern-atmet-auf-leichte-entwarnung-bei-olise-1273377/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-20T23:17+00:00",
+      "teaser": "Die verletzungsbedingten Auswechslungen von Harry Kane und Michael Olise haben für den FC Bayern das 1:1 gegen den 1. FC Köln überschattet. Nachdem sich die Befürchtungen bei Kane bewahrheitet haben, hat der deutsche Rekordmeister nun auch eine Diagnose bei Olise bekannt gegeben."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.52,
+    "items": [
+     {
+      "title": "Cost of Man Utd hiring and firing managers nears £100m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-20T23:18+00:00",
+      "teaser": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer."
+     }
+    ]
    }
   ],
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 5.41,
+    "score": 5.32,
     "items": [
      {
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -1111,7 +1097,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.48,
     "items": [
      {
       "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
@@ -1131,7 +1117,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.09,
+    "score": 3.0,
     "items": [
      {
       "title": "(g+) Jensen Huang: Wie die New York Times den Spionageskandal um Nvidia aufdeckte",
@@ -1151,7 +1137,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.68,
+    "score": 1.67,
+    "items": [
+     {
+      "title": "Tech Now",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-21T01:00+00:00",
+      "teaser": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.59,
     "items": [
      {
       "title": "Can AI really help spot Black Friday deals? We put it to the test",
@@ -1164,7 +1163,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.62,
+    "score": 1.53,
     "items": [
      {
       "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
@@ -1177,7 +1176,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.51,
     "items": [
      {
       "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
@@ -1190,7 +1189,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.58,
+    "score": 1.49,
     "items": [
      {
       "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
@@ -1203,7 +1202,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.54,
+    "score": 1.46,
     "items": [
      {
       "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
@@ -1216,7 +1215,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.53,
+    "score": 1.44,
     "items": [
      {
       "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
@@ -1229,7 +1228,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.5,
+    "score": 1.41,
     "items": [
      {
       "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -1242,7 +1241,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.48,
+    "score": 1.4,
     "items": [
      {
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
@@ -1250,19 +1249,6 @@
       "source": "Ars Technica",
       "date": "2026-11-20T21:47+00:00",
       "teaser": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.42,
-    "items": [
-     {
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "source": "Ars Technica",
-      "date": "2026-11-20T20:59+00:00",
-      "teaser": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
      }
     ]
    }
@@ -1549,19 +1535,19 @@
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "topic": "Sport",
    "source": "FAZ",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "topic": "Sport",
@@ -1597,7 +1583,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 10
+   "items": 7
   },
   {
    "topic": "Tech & KI",
