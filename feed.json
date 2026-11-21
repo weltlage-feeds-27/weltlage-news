@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-21T15:52:29+00:00",
+ "fetchedAt": "2026-11-21T16:53:07+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 3,
-    "score": 5.87,
+    "score": 5.79,
     "items": [
      {
       "title": "Mexico captures drug kingpin on FBI’s most wanted list",
@@ -31,7 +31,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 4.49,
+    "score": 4.41,
     "items": [
      {
       "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
@@ -58,14 +58,54 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "French police officers convicted of racist assault",
+      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
+      "source": "France 24",
+      "date": "2026-11-21T16:41+00:00",
+      "teaser": "A French court on Friday sentenced three policemen to serve time over the beating of a black music producer in 2020. It also recognized the assault on Michelle Zecler was racially motivated."
+     },
+     {
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-20T22:37+00:00",
+      "teaser": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "Ballistic missile attack on Zelenskyy's hometown kills 2",
+      "url": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
+      "source": "The Hindu",
+      "date": "2026-11-21T22:08+05:30",
+      "teaser": "The attack added to uncertainty about the prospects for ongoing talks brokered by Washington; It also came hours after two Russian missiles and a suspected drone came down in Poland"
+     },
+     {
+      "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
+      "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-21T08:26-05:00",
+      "teaser": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.97,
     "items": [
      {
       "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
       "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
       "source": "Tagesschau",
-      "date": "2026-11-21T15:15+01:00",
-      "teaser": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, die Besatzung wurde nach russischen Angaben gerettet. Finnland schickte Helfer."
+      "date": "2026-11-21T17:29+01:00",
+      "teaser": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, zur Besatzung gibt es widersprüchliche Angaben."
      },
      {
       "title": "Drohnenangriff auf »Sparta 2«: Finnland bestätigt Drohnenangriff auf russisches Schiff in der Ostsee",
@@ -78,7 +118,67 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "California investigates Nvidia over whether chip exports ended up in China",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "source": "The Guardian",
+      "date": "2026-11-20T09:18+00:00",
+      "teaser": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang. Rob Bonta, the US state’s attorney gen"
+     },
+     {
+      "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
+      "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
+      "source": "PBS NewsHour",
+      "date": "2026-11-21T11:28-05:00",
+      "teaser": "\"The proper chip restrictions are in place,\" Bessent said in an interview with CNBC after returning from a trip to Asia with President Donald Trump. \"And the remote access has been curtailed.\""
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Mexico detains top cartel boss El Chapo Isidro, one of FBI's 10 most wanted fugitives",
+      "url": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-21T11:32-05:00",
+      "teaser": "Mexican authorities captured top cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, in the state of Sinaloa overnight, resulting in a burst of violence that rattled civilians."
+     },
+     {
+      "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-21T16:03+00:00",
+      "teaser": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+      "url": "https://www.thehindu.com/news/international/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028/article71729173.ece",
+      "source": "The Hindu",
+      "date": "2026-11-21T21:49+05:30",
+      "teaser": "Around 100 ⁠countries backed this position, but big arms-producing nations like the U.S., Russia, and Israel opposed this, resulting in a watered-down agreement that left open the question of whether future ​measures would be legally ‌binding"
+     },
+     {
+      "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+      "source": "NPR",
+      "date": "2026-11-21T03:08-05:00",
+      "teaser": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.82,
     "items": [
      {
       "title": "Princess Catherine reflects on cancer journey in new documentary",
@@ -98,7 +198,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.79,
     "items": [
      {
       "title": "Wolodymyr Selenskyj: Russisches Prestigeprojekt Krimbrücke habe keine Zukunft",
@@ -118,47 +218,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6047580/the-new-yorkers-jason-zengerle-on-hakeem-jeffries-rise-to-first-black-house-speaker",
-      "source": "NPR (Politik)",
-      "date": "2026-11-21T07:40-05:00",
-      "teaser": "Hakeem Jeffries is set to become the first-ever African American speaker of the U.S. House of Representatives. NPR's Scott Simon talks to Jason Zengerle of The New Yorker about the rise of Jeffries."
-     },
-     {
-      "title": "Hakeem Jeffries Thinks He’s the Man for This Moment",
-      "url": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
-      "source": "New York Times (Politik)",
-      "date": "2026-11-21T13:54+00:00",
-      "teaser": "The Democratic nominee for House speaker on investigating Trump, whether Chuck Schumer should be majority leader and if he’ll ever sit down with Stephen Miller."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
-      "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
-      "source": "France 24",
-      "date": "2026-11-21T12:35+00:00",
-      "teaser": "A Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday and later drifted into Finnish ⁠territorial waters, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic S"
-     },
-     {
-      "title": "Finland detects drone attack on Russian cargo ship in Baltic",
-      "url": "https://www.thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece",
-      "source": "The Hindu",
-      "date": "2026-11-21T19:26+05:30",
-      "teaser": "The Finnish Defence Ministry did not specify who was behind the drone strike, but Prime Minister Petteri Orpo said in a message “War is spilling over into our immediate vicinity... Ukraine has the right to fight back against the aggressor”"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.75,
     "items": [
      {
       "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
@@ -178,81 +238,21 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.75,
     "items": [
      {
-      "title": "The nation’s cartoonists on the week in politics",
-      "url": "https://www.politico.com/gallery/2026/11/20/the-nations-cartoonists-on-the-week-in-politics-01177665",
-      "source": "Politico",
-      "date": "2026-11-20T05:00-05:00",
-      "teaser": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage r"
+      "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+      "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+      "source": "France 24",
+      "date": "2026-11-21T12:35+00:00",
+      "teaser": "A Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday and later drifted into Finnish ⁠territorial waters, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic S"
      },
      {
-      "title": "Week in Politics: Trump returns from Asia; hails trip as one of best in history",
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6047376/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history",
-      "source": "NPR (Politik)",
-      "date": "2026-11-21T07:40-05:00",
-      "teaser": "President Trump returned from his trip to Asia, saying it was one of the most successful presidential visits to that continent -- or anywhere else -- in American history."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.72,
-    "items": [
-     {
-      "title": "EU eyes tax on Big Tech to boost budget",
-      "url": "https://www.scmp.com/news/world/europe/article/3375333/eu-eyes-tax-big-tech-boost-budget",
-      "source": "South China Morning Post",
-      "date": "2026-11-21T11:51+00:00",
-      "teaser": "The EU put forward plans to tax the world’s biggest digital companies to fund its next budget on Saturday, as it seeks to bridge divisions among member states over the bloc’s long-term funding. European Council President Antonio Costa unveiled a new spending proposal that slashes by €204 billion (US"
-     },
-     {
-      "title": "European Union proposes tax on Big Tech to boost budget",
-      "url": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece",
+      "title": "Finland detects drone attack on Russian cargo ship in Baltic",
+      "url": "https://www.thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece",
       "source": "The Hindu",
-      "date": "2026-11-21T18:03+05:30",
-      "teaser": "European Council president Antonio Costa unveiled a new spending proposal that slashes by 204 billion euros a plan initially put forward by the European Commission"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.58,
-    "items": [
-     {
-      "title": "Schweres Erdbeben erschüttert Peru",
-      "url": "https://www.dw.com/de/schweres-erdbeben-erschüttert-peru/a-80008949?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-21T10:53+00:00",
-      "teaser": "In der Hauptstadt Lima strömten Menschen aus ihren Büros auf die Straße - auch die Abgeordneten des Parlaments. Das südamerikanische Land liegt auf dem Pazifischen Feuerring - weshalb es immer wieder zu Erdstößen kommt."
-     },
-     {
-      "title": "Erdbeben erschüttert Perus Andenregion",
-      "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
-      "source": "Tagesschau",
-      "date": "2026-11-21T10:51+01:00",
-      "teaser": "Die Erschütterungen waren bis in die Hauptstadt Lima zu spüren: Ein Erdbeben der Stärke 6,7 hat die Andenregion in Peru erschüttert. Über Schäden oder Opfer ist bislang nichts bekannt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.06,
-    "items": [
-     {
-      "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
-      "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
-      "source": "PBS NewsHour",
-      "date": "2026-11-20T19:01-05:00",
-      "teaser": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial."
-     },
-     {
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-21T04:34+00:00",
-      "teaser": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
+      "date": "2026-11-21T19:26+05:30",
+      "teaser": "The Finnish Defence Ministry did not specify who was behind the drone strike, but Prime Minister Petteri Orpo said in a message “War is spilling over into our immediate vicinity... Ukraine has the right to fight back against the aggressor”"
      }
     ]
    }
@@ -260,7 +260,7 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.72,
+    "score": 3.64,
     "items": [
      {
       "title": "Deutschland Liveblog: Höcke bleibt Vorsitzender des Thüringer Landesverbandes",
@@ -280,7 +280,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.13,
+    "score": 2.05,
     "items": [
      {
       "title": "Ukraine: Boris Pistorius zeigt sich offen für Gespräche mit Wladimir Putin",
@@ -300,20 +300,85 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.96,
     "items": [
      {
-      "title": "Ex-AfD-Politiker räumt Faustschläge gegen Ehepaar ein - Haftstrafe auf Bewährung",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/ex-afd-bezirkbeirat-erfolg-vor-landgericht-100.html",
-      "source": "SWR",
-      "date": "2026-11-21T16:44+01:00",
-      "teaser": "Ein Ex-Lokalpolitiker der AfD hat den Übergriff in einer Stuttgarter Gaststätte gestanden. Dafür setzt das Landgericht seine Haftstrafe zur Bewährung aus, trotz vieler Vorstrafen."
+      "title": "Dortmund verdrängt Bayern von der Spitze",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-10-spieltag-borussia-moenchengladbach-borussia-dortmund-100.html",
+      "source": "ZDF",
+      "date": "2026-11-21T17:25+01:00",
+      "teaser": "Borussia Dortmund hat den FC Bayern an der Bundesliga-Spitze abgelöst. Der BVB siegte spät in Mönchengladbach mit 1:0 und nutzte damit den Patzer der Münchner gegen Köln."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Zu viele Chancen vergeben: TSG Hoffenheim unterliegt bei Eintracht Frankfurt",
+      "url": "https://www.sportschau.de/fussball/bundesliga/famoser-atubolu-rettet-eintracht-jubilaeumssieg,spielbericht-eintracht-frankfurt-tsg-hoffenheim-106.html",
+      "source": "SWR",
+      "date": "2026-11-21T17:26+01:00",
+      "teaser": "Am zehnten Bundesliga-Spieltag muss die TSG Hoffenheim bei Eintracht Frankfurt einen Rückschlag hinnehmen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Möbliertes Wohnen: 795 Euro warm - aber kein Heizkörper",
+      "url": "https://www.zdfheute.de/politik/deutschland/wohnen-hamburg-moebliert-mietpreisbremse-100.html",
+      "source": "ZDF",
+      "date": "2026-11-21T17:08+01:00",
+      "teaser": "Wer Wohnungen kurzfristig und möbliert vermietet, kann viel höhere Mieten verlangen - auch weil das Mietrecht Lücken hat. Und so nimmt die Zahl dieser Mietverträge rasant zu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Audiostream und Liveticker: SC Freiburg zu Gast in Elversberg",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193819/sv-07-elversberg_sc-freiburg/liveticker",
+      "source": "SWR",
+      "date": "2026-11-21T17:06+01:00",
+      "teaser": "Hält der Höhenflug des SC Freiburg auch beim starken Bundesliga-Aufsteiger SV Elversberg an?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Altersvorsorgedepot: Staatliches Depot für Zusatzrente verzögert sich wohl bis Sommer 2027",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/altersvorsorgedepot-rente-banken-fonds-gxe",
+      "source": "Zeit",
+      "date": "2026-11-21T16:01+00:00",
+      "teaser": "In wenigen Wochen startet das geförderte Altersvorsorgedepot. Doch die vom Staat angebotene Basisvariante kommt laut Bundesfinanzministerium wohl erst deutlich später."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+      "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-21T16:55+01:00",
+      "teaser": "Ab Januar soll der Preisdeckel für Benzin und Diesel gelten. Wirtschaftsministerin Reiche plant offenbar, Autobahntankstellen davon ausnehmen. Ihr neuer Gesetzentwurf ist noch in der Abstimmung zwischen den Ministerien."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Bestatter: „Unsere Gesellschaft begleitet Trauernde nicht gut“",
@@ -326,20 +391,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
-      "title": "Wie Pflanzenkohle Streuobstwiesen klimafit machen soll",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/pflanzenkohle-soll-obstbaeume-im-landkreis-reutlingen-gegen-klimawandel-staerken-100.html",
+      "title": "Ex-AfD-Politiker räumt Faustschläge gegen Ehepaar ein - Haftstrafe auf Bewährung",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/ex-afd-bezirkbeirat-erfolg-vor-landgericht-100.html",
       "source": "SWR",
-      "date": "2026-11-21T16:37+01:00",
-      "teaser": "Wie können Obstbauern ihre Streuobstwiesen fit für Klimawandel machen? Darum kümmert sich ein Bürgerforschungsprojekt mit der Uni Tübingen - und setzt dabei auf Pflanzenkohle."
+      "date": "2026-11-21T16:44+01:00",
+      "teaser": "Ein Ex-Lokalpolitiker der AfD hat den Übergriff in einer Stuttgarter Gaststätte gestanden. Dafür setzt das Landgericht seine Haftstrafe zur Bewährung aus, trotz vieler Vorstrafen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.89,
     "items": [
      {
       "title": "»Braver New World« von John Kampfner: Nur Mut!",
@@ -352,86 +417,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.89,
     "items": [
      {
-      "title": "Franziska Brantner: Grünenchefin kritisiert »Söder-Geschenke« zulasten Jugend",
-      "url": "https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-21T16:07+01:00",
-      "teaser": "Grünenchefin Brantner hat sich an die Seite der protestierenden Jugendlichen gestellt. Der Regierungskoalition warf sie eine »grausame Politik« vor und forderte mehr Geld für Schulen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Altersvorsorgedepot: Staatliches Depot für Zusatzrente verzögert sich wohl bis Sommer 2027",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/altersvorsorgedepot-rente-banken-fonds-gxe",
-      "source": "Zeit",
-      "date": "2026-11-21T15:12+00:00",
-      "teaser": "In wenigen Wochen startet das geförderte Altersvorsorgedepot. Doch die vom Staat angebotene Basisvariante kommt laut Bundesfinanzministerium wohl erst deutlich später."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-20T16:03+01:00",
-      "teaser": "Der Bundesrat will beim \"Startchancengesetz\" nachbessern. Für andere lebensnahe Vorhaben wie die \"Frühstartrente\", die Reform der Notfallversorgung oder die digitale Brieftasche gab die Länderkammer hingegen grünes Licht."
-     },
-     {
-      "title": "Startchancengesetz: Bundesrat stoppt Gesetz zu Sprachtests für Kitakinder",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/startchancengesetz-bundesrat-fruehkindliche-bildung-karin-prien-gxe",
-      "source": "Zeit",
-      "date": "2026-11-20T11:25+00:00",
-      "teaser": "Die Länder kritisieren, dass der Bund neue Aufgaben für Kitas plant, zugleich aber weniger Geld bereitstellen will. Der Vermittlungsausschuss soll eine Lösung finden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "ZWei Wochen nach Tod: Freie-Wähler-Chef Aiwanger in Niederbayern beigesetzt",
-      "url": "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-in-inkofen-beigesetzt-2-000-menschen-nehmen-abschied-accg-201704863.html",
-      "source": "FAZ",
-      "date": "2026-11-21T15:03+00:00",
-      "teaser": "In einer feierlichen Zeremonie haben sich Familie, Weggefährten und Bürger von Hubert Aiwanger verabschiedet. Rund 2.000 Menschen nahmen an der Zeremonie teil."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Trauerfeier für Hubert Aiwanger: Tausende Menschen begleiten Beisetzung von Hubert Aiwanger",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/trauerfeier-hubert-aiwanger-freie-waehler-inkofen-gxe",
-      "source": "Zeit",
-      "date": "2026-11-21T14:51+00:00",
-      "teaser": "Im niederbayerischen Inkofen haben Familie, Parteifreunde und Trauernde Abschied von Hubert Aiwanger genommen. Rund 2.000 Menschen nahmen an der Zeremonie teil."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Kaufland ruft bundesweit Speisekartoffeln zurück",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/kaufland-ruft-kartoffel-charge-zurueck-100.html",
+      "title": "Wie Pflanzenkohle Streuobstwiesen klimafit machen soll",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/pflanzenkohle-soll-obstbaeume-im-landkreis-reutlingen-gegen-klimawandel-staerken-100.html",
       "source": "SWR",
-      "date": "2026-11-21T15:16+01:00",
-      "teaser": "Der Lebensmitteldiscounter Kaufland aus Neckarsulm ruft eine bestimmte Charge von Kartoffeln zurück. Es wurden erhöhte Gehalte an den Glykoalkaloiden nachgewiesen."
+      "date": "2026-11-21T16:37+01:00",
+      "teaser": "Wie können Obstbauern ihre Streuobstwiesen fit für Klimawandel machen? Darum kümmert sich ein Bürgerforschungsprojekt mit der Uni Tübingen - und setzt dabei auf Pflanzenkohle."
      }
     ]
    }
@@ -439,7 +432,7 @@
   "Polen": [
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.83,
     "items": [
      {
       "title": "Rosyjski statek stanął w płomieniach po ataku drona. Finlandia reaguje",
@@ -459,7 +452,111 @@
    },
    {
     "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Niemcy. Prawie połowa uczestników sondażu chce wstrzymania lub ograniczenia pomocy dla Ukrainy",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45523531-niemcy-prawie-polowa-uczestnikow-sondazu-chce-wstrzymania-lub-ograniczenia-pomocy-dla-ukrainy",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T17:45+01:00",
+      "teaser": "Prawie połowa Niemców opowiada się za zmniejszeniem lub całkowitym wstrzymaniem pomocy dla Ukrainy – wynika z najnowszego sondażu YouGov dla dziennika „Die Welt”. Jednocześnie niemal co drugi ankietowany popiera jak najszybsze spotkanie kanclerza Friedricha Merza z Władimirem Putinem, nawet jeśli Ro"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Zełenski podsumował spotkanie USA-Chiny- Rosja. \"Nie udała się Jałta 2.0\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33144518,zelenski-podsumowal-spotkanie-usa-chiny-rosja-nie-udala-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-21T16:44+00:00",
+      "teaser": "Ukraiński prezydent stwierdził, że Władimir Putin podczas trójstronnego spotkania Rosja- USA-Chiny chciał zrealizować plan \"Jałty 2.0\". Zakładał on nowy podział świata i zmianę granic."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
     "score": 1.96,
+    "items": [
+     {
+      "title": "Humanoidy zejdą do tuneli Hamasu. W tle syn prezydenta USA i armia Izraela",
+      "url": "https://cyfrowa.rp.pl/technologie/art45520001-humanoidy-zejda-do-tuneli-hamasu-w-tle-syn-prezydenta-usa-i-armia-izraela",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T17:27+01:00",
+      "teaser": "Start-up Foundation Future Industries, w którym udziały ma 42-letni Eric Trump, negocjuje z izraelską armią dostawę robotów Phantom MK1. Chodzi o tysiąc maszyn, które miałyby operować w Strefie Gazy. W przyszłości mogą one walczyć w Ukrainie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "ONZ: państwa zgadzają się na opracowanie zasad dla „robotów-zabójców”",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45523501-onz-panstwa-zgadzaja-sie-na-opracowanie-zasad-dla-robotow-zabojcow",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T17:11+01:00",
+      "teaser": "128 państw uczestniczących w konferencji ONZ w Genewie uzgodniło w sobotę rozpoczęcie dwuletnich prac nad porozumieniem dotyczącym autonomicznych systemów uzbrojenia, znanych jako „roboty-zabójcy\". Nie przesądzono jednak, czy porozumienie będzie prawnie wiążące."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Michał Kolanko: Drugie dno sporu o reset TK. To wyzwanie dla Tuska i Kaczyńskiego",
+      "url": "https://www.rp.pl/publicystyka/art45521501-michal-kolanko-drugie-dno-sporu-o-reset-tk-to-wyzwanie-dla-tuska-i-kaczynskiego",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T17:06+01:00",
+      "teaser": "Rozmowy o resecie Trybunału Konstytucyjnego są zawieszone. Ale tak naprawdę nie chodzi w nich o sam reset, tylko o to, kto dziś rządzi polską polityką. Czy mogą to robić tylko Donald Tusk i Jarosław Kaczyński, tak jak dzieje się od 2005 r., czy na scenie są też dziś inni poważni gracze?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Lata 50. w Kolumbii jak lata 30. w Niemczech. Większością regionu rządzili „brutale”",
+      "url": "https://www.rp.pl/plus-minus/art45522101-lata-50-w-kolumbii-jak-lata-30-w-niemczech-wiekszoscia-regionu-rzadzili-brutale",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T17:00+01:00",
+      "teaser": "Upiorny kolumbijski dyktator Laureano Gómez dostrzegł szansę, która pojawiła się z powodu rozpoczęcia zimnej wojny, i dał Waszyngtonowi do zrozumienia, że może reprezentować klikę brutalnych faszystów. Byli to jednak ludzie, którzy pogodzili się z liberalno-kapitalistycznym porządkiem świata, w któr"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Hołownia ma problem z nominacją ambasadorską do Watykanu. Kancelaria Prezydenta stawia warunek",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33144456,holownia-ma-problem-z-nominacja-ambasadorska-do-watykanu-kancelaria.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-21T16:02+00:00",
+      "teaser": "Prezydent Karol Nawrocki najprawdopodobniej nie będzie podejmował decyzji w sprawie nominacji ambasadorskich w pojedynczych przypadkach. - Musi być zgoda co do jakiegoś szerszego porozumienia - powiedział szef gabinetu prezydenta, Paweł Szefernaker, w rozmowie z RMF FM."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "Telefony z zagranicy i fałszywe oferty pracy. Policja ostrzega",
+      "url": "https://www.rp.pl/przestepczosc/art45523491-telefony-z-zagranicy-i-falszywe-oferty-pracy-policja-ostrzega",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T16:37+01:00",
+      "teaser": "Telefon z zagranicznego numeru, atrakcyjna oferta pracy i namawianie do przejścia na komunikator – tak zaczyna się schemat oszustwa, przed którym ostrzega Centralne Biuro Zwalczania Cyberprzestępczości. Przestępcy chcą w ten sposób wyłudzić dane osobowe, przejąć konta i pieniądze."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
     "items": [
      {
       "title": "Iran: nie mamy wyjścia. 14 tankowców płynie, by przełamać blokadę USA w cieśninie Ormuz",
@@ -472,7 +569,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Nowa propozycja budżetu UE. Berlin nadal chce cięć",
@@ -485,7 +582,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.83,
     "items": [
      {
       "title": "Xi Jinping pokazał w Shenzhen, że Władimir Putin jest jego wasalem",
@@ -495,116 +592,12 @@
       "teaser": "Pierwsze w historii wspólne spotkanie z Donaldem Trumpem i Xi Jinpingiem przełamało izolację rosyjskiego dyktatora. Ale nie pomoże mu podbić Ukrainy."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Parafia chciała 5 mln, otrzymała 72. „Rzeczpospolita” ujawnia kulisy ugody",
-      "url": "https://www.rp.pl/kosciol/art45452681-parafia-chciala-5-mln-otrzymala-72-rzeczpospolita-ujawnia-kulisy-ugody",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T15:45+01:00",
-      "teaser": "Poznańska parafia dzięki wojewodzie z PiS otrzymała największe w historii odszkodowanie za grunty zabrane w PRL. Gdy wystąpiła z roszczeniami, chciała 5 mln zł, dziesięć lat później dostała 72 mln zł. Ugodę podpisano kilka dni przez prawomocnym wyrokiem. „Rzeczpospolita” ujawnia kulisy sprawy sprzed"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Nowe informacje o rosyjskiej rakiecie na Lubelszczyźnie. Prokuratura ujawnia",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33144472,nowe-informacje-o-rosyjskiej-rakiecie-na-lubelszczyznie-prokuratura.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-21T14:50+00:00",
-      "teaser": "Prokuratura Okręgowa w Lublinie ustaliła, że w miejscowości Nowy Lipowiec spadł pocisk manewrujący produkcji radzieckiej, który powstał w czwartym kwartale tego roku. Określenie, czy jego wtargnięcie było przypadkiem, czy celowym działaniem może być jednak trudne."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Będzie spotkanie w Kwaterze Głównej NATO. Tematem rosyjskie obiekty w Polsce",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33144363,bedzie-spotkanie-w-kwaterze-glownej-nato-tematem-rosyjskie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-21T14:09+00:00",
-      "teaser": "W poniedziałek w Kwaterze Głównej NATO w Brukseli dojdzie do spotkania Rady Północnoatlantyckiej. Rozmowa będzie dotyczyła naruszenia przestrzeni powietrznej Polski przez rosyjskie obiekty."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "NTV: wizyta pożegnalna prezydenta Niemiec w Polsce „faktycznie odwołana”",
-      "url": "https://www.dw.com/pl/ntv-wizyta-pożegnalna-prezydenta-niemiec-w-polsce-faktycznie-odwołana/a-80009985?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-21T14:10+00:00",
-      "teaser": "Decyzja prezydenta Niemiec Franka-Waltera Steinmeiera o przełożeniu wizyty pożegnalnej w Polsce oznacza jej faktyczne odwołanie – podała niemiecka telewizja NTV. Jak ocenia, to woda na młyn dla polskich nacjonalistów."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Gniewomir Wycichowski-Kuchta: Po wyroku TSUE cudzoziemcy mogą żądać odszkodowań od państwa",
-      "url": "https://www.rp.pl/cudzoziemcy/art45514041-gniewomir-wycichowski-kuchta-po-wyroku-tsue-cudzoziemcy-moga-zadac-odszkodowan-od-panstwa",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T15:00+01:00",
-      "teaser": "Polska musi wykazać, że mimo wszelkich starań nie mogła na czas rozpatrzyć wniosków pobytowych cudzoziemców po masowym napływie osób z Ukrainy - mówi Gniewomir Wycichowski-Kuchta, ekspert ds. legislacji, współpracownik Instytutu Nauk Prawnych PAN."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Rada NATO zbierze się ws. rosyjskich rakiet. „Będziemy bronić każdego centymetra Polski”",
-      "url": "https://www.rp.pl/polityka/art45523411-rada-nato-zbierze-sie-ws-rosyjskich-rakiet-bedziemy-bronic-kazdego-centymetra-polski",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T14:53+01:00",
-      "teaser": "W poniedziałek w Kwaterze Głównej NATO w Brukseli dojdzie do spotkania Rady Północnoatlantyckiej. Rozmowa będzie dotyczyła naruszenia przestrzeni powietrznej Polski przez rosyjskie rakiety - poinformowały w sobotę służby prasowe Stałego Przedstawicielstwa RP przy NATO."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Wielka Brytania dogadała się z UE. Teraz Bruksela stawia twarde warunki",
-      "url": "https://www.rp.pl/dyplomacja/art45523391-wielka-brytania-dogadala-sie-z-ue-teraz-bruksela-stawia-twarde-warunki",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T14:46+01:00",
-      "teaser": "Unia Europejska i Wielka Brytania zawarły trzy porozumienia, które mają zacieśnić współpracę gospodarczą i ułatwić młodym ludziom przemieszczanie się między krajami. Jednak Bruksela grozi zablokowaniem umów. Powodem jest spór o wysokość czesnego dla studentów z UE na brytyjskich uczelniach."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.82,
-    "items": [
-     {
-      "title": "Ograniczenie wszechobecnego składnika opóźnia starzenie. Naukowcy odkryli, komu szkodzi",
-      "url": "https://www.rp.pl/zdrowie/art45505881-ograniczenie-wszechobecnego-skladnika-opoznia-starzenie-naukowcy-odkryli-komu-szkodzi",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T14:42+01:00",
-      "teaser": "Białko jest obecnie dodawane nawet do kawy i wody butelkowanej, przez co osoby, które prowadzą siedzący tryb życia, mogą spożywać go więcej, niż faktycznie potrzebują. Tymczasem analiza ponad 350 badań, która została opublikowana w czasopiśmie „Cell Press Blue”, pokazała, że ograniczenie tego składn"
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.85,
+    "score": 5.76,
     "items": [
      {
       "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
@@ -631,7 +624,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.84,
     "items": [
      {
       "title": "Im Streit über EU-Budget legt Costa Kompromiss vor",
@@ -651,7 +644,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.83,
     "items": [
      {
       "title": "Freihandelsabkommen: EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
@@ -671,7 +664,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.03,
+    "score": 2.95,
     "items": [
      {
       "title": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
@@ -691,7 +684,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.0,
+    "score": 2.91,
     "items": [
      {
       "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
@@ -711,7 +704,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.09,
+    "score": 2.01,
     "items": [
      {
       "title": "Schneller Schlau: Bier auf dem Rückzug",
@@ -724,79 +717,79 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.97,
     "items": [
      {
-      "title": "Wohnen im Alter: Das Geschäft mit den Senioren-Wohnungen boomt",
-      "url": "https://www.handelsblatt.com/finanzen/immobilien/galeria-kaufhaeuser-als-seniorenwohnung-geht-so-wohnen-im-alter/100270250.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-21T15:24+00:00",
-      "teaser": "Bis 2055 könnten 7,6 Millionen Deutsche pflegebedürftig sein. Wo sollen sie leben? Besuche in Luxusheimen und in früheren Kaufhäusern zeigen Lösungen."
+      "title": "Scheitert die UN-Klimakonferenz in Antalya?",
+      "url": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-21T17:29+01:00",
+      "teaser": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen - oder sogar ein Scheitern?"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.97,
     "items": [
      {
-      "title": "The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price.",
-      "url": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
-      "source": "New York Times",
-      "date": "2026-11-21T15:22+00:00",
-      "teaser": "As new car prices rise beyond the means of most buyers, the used market has become much more important for consumers and the auto industry."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "COP31: Die Weltklimakonferenz ringt weiter um ein Abschlussdokument",
-      "url": "https://www.handelsblatt.com/politik/deutschland/cop31-die-weltklimakonferenz-ringt-weiter-um-ein-abschlussdokument/100270720.html",
+      "title": "Chip-Konzern: Aufsicht SEC überprüft laut Bericht Nvidia-Bilanzierung – Aktie fällt weiter",
+      "url": "https://www.handelsblatt.com/technik/ki/chip-konzern-aufsicht-sec-ueberprueft-laut-bericht-nvidia-bilanzierung/100271678.html",
       "source": "Handelsblatt",
-      "date": "2026-11-21T14:07+00:00",
-      "teaser": "Das Verbrennen von Öl, Gas und Kohle lässt die Klimakrise eskalieren. Doch werden sie in der Abschlusserklärung erwähnt? Das ist nur eine der Fragen, um die man in Antalya streitet."
+      "date": "2026-11-21T16:33+00:00",
+      "teaser": "Nvidia droht neues Ungemach: Aufseher untersuchen offenbar die Buchhaltung des Konzerns – und den Schmuggel von Chips nach China. Präsident Trump fordert derweil die Rückkehr von Ex-Chef Huang."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.95,
     "items": [
      {
-      "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
-      "url": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
-      "source": "New York Times",
-      "date": "2026-11-21T14:01+00:00",
-      "teaser": "The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
-      "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-      "source": "New York Times",
-      "date": "2026-11-21T13:57+00:00",
-      "teaser": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "EU-Haushalt: Diese Steuer aus Brüssel wird Donald Trump nicht gefallen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/eu-digitalsteuer-costas-plan-fuer-den-haushalt-und-trumps-moegliche-reaktion-accg-201704604.html",
+      "title": "Spears macht Schmuck: Oops, she did it again",
+      "url": "https://www.faz.net/aktuell/wirtschaft/britney-spears-launcht-schmucklinie-btiny-nach-23-jahren-accg-201701394.html",
       "source": "FAZ",
-      "date": "2026-11-21T13:38+00:00",
-      "teaser": "Mit einer neuen Digitalsteuer will EU-Ratspräsident Costa den Streit um das EU-Budget 2028 bis 2034 lösen. Bundeskanzler Merz aber bleibt dabei: Die Ausgaben sind zu hoch."
+      "date": "2026-11-21T16:14+00:00",
+      "teaser": "Britney Spears kündigt eine neue Schmucklinie an. Nicht zum ersten Mal – das Vorhaben hatte die Sängerin auch schon vor 23 Jahren."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Navy budget pick has family investments in Trump Jr-linked contractor",
+      "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-21T16:19+00:00",
+      "teaser": "Democrats have promised to raise alleged conflicts of interest concerning administration officials when they take over Congress"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Howard Lutnick: Kostet die Nvidia-Affäre Trumps Lieblingsminister das Amt?",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/howard-lutnick-usa-minister-wirtschaftspolitik-donald-trump",
+      "source": "Zeit",
+      "date": "2026-11-21T16:08+00:00",
+      "teaser": "US-Wirtschaftsminister Howard Lutnick ist das loyalste Mitglied in Trumps Kabinett. Doch die Verbindungen seiner Familie zu Nvidia könnten ihn nun zu Fall bringen"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+      "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+      "source": "New York Times",
+      "date": "2026-11-21T16:06+00:00",
+      "teaser": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia."
      }
     ]
    }
@@ -804,7 +797,21 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.93,
+    "score": 7.89,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Romeu alza la voz contra la Federación de Portugal por Kika Nazareth",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253754/romeu-alza-voz-federacion-portugal-kika-nazareth.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-21T16:33+01:00",
+      "teaser": "Pere Romeu, entrenador del Barça femenino, alzó la voz para expresar su malestar por la convocatoria de Kika Nazareth para la selección portuguesa a pesar de que la mediapunta sufre una lesión miofibrilar del recto anterior de la pierna derecha desde el 1 de noviembre con un diagnóstico de cuatro a "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.84,
     "favorite": true,
     "items": [
      {
@@ -818,7 +825,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.79,
+    "score": 7.7,
     "favorite": true,
     "items": [
      {
@@ -831,49 +838,28 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.78,
-    "favorite": true,
+    "sourceCount": 2,
+    "score": 3.97,
     "items": [
      {
-      "title": "Hernández Hernández pitará el Barça-Villarreal",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253727/hernandez-hernandez-pitara-barca-villarreal.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-21T14:14+01:00",
-      "teaser": "Ya se conoce el colegiado que pitará mañana (14 h./DAZN) el duelo en el Spotify Camp Nou entre el Barcelona y el Villarreal . Se trata del internacional mundialista Alejandro Hernández Hernández . Se trata de la primera vez que el canario pita al equipo azulgrana si lo hizo con el equipo amarillo en"
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.62,
-    "items": [
-     {
-      "title": "Schock für Bayern: Harry Kane bei 1:1 gegen Köln schwer verletzt",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/harry-kane-und-michael-olise-bei-fc-bayern-muenchen-verletzt-201304401.html",
+      "title": "4:0-Heimsieg: Leverkusen sorgt gegen Paderborn für klare Verhältnisse",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bayer-leverkusen-schlaegt-sc-paderborn-in-fussball-bundesliga-201304402.html",
       "source": "FAZ",
-      "date": "2026-11-20T21:32+00:00",
-      "teaser": "Gegen einen mutig aufspielenden 1. FC Köln freut sich der FC Bayern zunächst über die Rückkehr von Kompany und Musiala. Es folgt der unerwartete Verlust von zwei Punkten. Noch schwerer wiegt die Verletzung von Harry Kane."
+      "date": "2026-11-21T16:31+00:00",
+      "teaser": "Die Werkself präsentiert sich gegen den Aufsteiger insbesondere nach der Pause spielfreudig. In der Tabelle etabliert sich Bayer damit auf den internationalen Plätzen."
      },
      {
-      "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
-      "url": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
+      "title": "Bayer Leverkusen schießt Paderborn ab",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-bayer-leverkusen-schiesst-paderborn-ab-100.html",
       "source": "Sportschau",
-      "date": "2026-11-21T12:22+01:00",
-      "teaser": "Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich einen Riss des Syndesmosebandes zu und ist schon operiert worden."
-     },
-     {
-      "title": "FC Bayern München: Harry Kane fällt nach Bänderriss im Sprunggelenk mehrere Monate aus",
-      "url": "https://www.zeit.de/sport/2026-11/harry-kane-verletzt-fc-bayern-syndesmoseriss-joel-schmied-gxe",
-      "source": "Zeit",
-      "date": "2026-11-21T10:42+00:00",
-      "teaser": "Beim Bundesligaspiel gegen den 1. FC Köln hat sich Harry Kane schwer verletzt. Nach Angaben von Bayern-Sportvorstand Eberl fällt der Stürmer mehrere Monate aus."
+      "date": "2026-11-21T17:22+01:00",
+      "teaser": "Bayer 04 Leverkusen hat gegen den SC Paderborn einen deutlichen Heimsieg in der Fußball-Bundesliga verbucht."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 4.0,
+    "score": 3.91,
     "items": [
      {
       "title": "FC Bayern und Musiala: „Das hat mit ‚Mia san mia‘ und der FC-Bayern-Familie wenig zu tun“",
@@ -893,27 +879,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
-    "items": [
-     {
-      "title": "Borussia Dortmund vs. Borussia Mönchengladbach: Die denkwürdigsten Spiele",
-      "url": "https://www.11freunde.de/bundesliga/borussia-dortmund-vs-borussia-moenchengladbach-die-denkwuerdigsten-spiele-a-b808120a-400a-4b35-a7ad-a585de3ca343#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-21T11:00+01:00",
-      "teaser": "Borussia Mönchengladbach gegen Borussia Dortmund – ein Duell mit denselben Vereinsnamen, das schon oft Geschichte geschrieben hat. Wir präsentieren zehn besondere Partien der gemeinsamen Borussen-Geschichte."
-     },
-     {
-      "title": "Live hören: Borussia Mönchengladbach gegen Borussia Dortmund - Bundesliga",
-      "url": "https://www.sportschau.de/fussball/bundesliga/borussia-moenchengladbach-gegen-borussia-dortmund,audiostream-borussia-moenchengladbach-gegen-borussia-dortmund-106.html",
-      "source": "Sportschau",
-      "date": "2026-11-21T15:15+01:00",
-      "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. Borussia Dortmund spielt in Mönchengladbach."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.72,
     "items": [
      {
       "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
@@ -932,15 +898,22 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 2.11,
+    "sourceCount": 2,
+    "score": 3.54,
     "items": [
      {
-      "title": "Live hören: FC Schalke 04 gegen VfB Stuttgart - Bundesliga",
-      "url": "https://www.sportschau.de/fussball/bundesliga/fc-schalke-04-gegen-vfb-stuttgart,audiostream-fc-schalke-04-gegen-vfb-stuttgart-102.html",
+      "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
+      "url": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
       "source": "Sportschau",
-      "date": "2026-11-21T18:15+01:00",
-      "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 18:30 Uhr. VfB Stuttgart spielt in Gelsenkirchen."
+      "date": "2026-11-21T12:22+01:00",
+      "teaser": "Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich einen Riss des Syndesmosebandes zu und ist schon operiert worden."
+     },
+     {
+      "title": "FC Bayern München: Harry Kane fällt nach Bänderriss im Sprunggelenk mehrere Monate aus",
+      "url": "https://www.zeit.de/sport/2026-11/harry-kane-verletzt-fc-bayern-syndesmoseriss-joel-schmied-gxe",
+      "source": "Zeit",
+      "date": "2026-11-21T10:42+00:00",
+      "teaser": "Beim Bundesligaspiel gegen den 1. FC Köln hat sich Harry Kane schwer verletzt. Nach Angaben von Bayern-Sportvorstand Eberl fällt der Stürmer mehrere Monate aus."
      }
     ]
    },
@@ -949,11 +922,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Auch Rummenigge zweifelt an Musiala - und erntet Kritik von FIFPRO",
-      "url": "https://www.sportschau.de/regional/br/br-auch-rummenigge-zweifelt-an-musiala-rueckkehr-auf-topniveau-102.html",
+      "title": "BVB springt gegen Gladbach an die Spitze der Bundesliga-Tabelle",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-bvb-holt-sich-in-moenchengladbach-die-tabellenfuehrung-100.html",
       "source": "Sportschau",
-      "date": "2026-11-21T16:45+01:00",
-      "teaser": "Die internationale Spielergewerkschaft FIFPRO wirft dem FC Bayern vor, Jamal Musiala vor möglichen Vertragsgesprächen gezielt öffentlich unter Druck zu setzen."
+      "date": "2026-11-21T17:43+01:00",
+      "teaser": "Der BVB gewinnt 1:0 in Gladbach und übernimmt Platz eins. Ausgerechnet Torhüter Daniel Batz unterläuft der entscheidende Fehler und Felix Nmecha trifft erneut."
      }
     ]
    },
@@ -965,7 +938,7 @@
       "title": "Chelsea v Leeds, Tottenham v Ipswich, and more: football clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
       "source": "The Guardian",
-      "date": "2026-11-21T15:45+00:00",
+      "date": "2026-11-21T16:49+00:00",
       "teaser": "⚽️ Follow updates from the Premier League and beyond ⚽️ Live scores | Table | Follow on TikTok | And mail Emillia Championship fixtures Millwall 0-1 QPR Norwich City 2-1 Cardiff City Southampton 2-0 Derby County West Ham v Preston North End Bolton Wanderers v Portsmouth Middlesbrough v Bristol City "
      }
     ]
@@ -975,11 +948,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "WM-Aus? Goretzka: \"Ich hatte das Gefühl, dass jeder denkt, ich sei verantwortlich\"",
-      "url": "https://www.kicker.de/wm-aus-goretzka-ich-hatte-das-gefuehl-dass-jeder-denkt-ich-sei-verantwortlich-1273433/artikel#omrss",
+      "title": "\"Der brennt lichterloh\": Koschinat adelt Cuber Potocnik",
+      "url": "https://www.kicker.de/der-brennt-lichterloh-koschinat-adelt-cuber-potocnik-1273539/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-21T15:39+00:00",
-      "teaser": "Als er im vergangenen Sommer nach einer missratenen WM ohne Verein dastand, trug sich Leon Goretzka auch mit dem Gedanken an ein Karriereende. Dann meldete sich Unai Emery und ließ ihn zu dem zurückkehren, von dem er einst beim FC Bayern unter Thomas Tuchel abgekommen war."
+      "date": "2026-11-21T16:39+00:00",
+      "teaser": "Rot-Weiss Essen reitet derzeit auf der Erfolgswelle. Durch den vierten Sieg in Folge bleibt RWE an Spitzenreiter Viktoria Köln dran. Nach Abpfiff hob Trainer Uwe Koschinat einen Profi besonders hervor: Jaka Cuber Potocnik."
      }
     ]
    },
@@ -988,27 +961,33 @@
     "score": 1.98,
     "items": [
      {
-      "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-21T15:34+00:00",
-      "teaser": "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood."
+      "title": "FIFA-Präsidentenwahl 2027: Afrikanischer Fußballverband unterstützt Infantinos Kandidatur",
+      "url": "https://www.zeit.de/sport/2026-11/fifa-praesidentenwahl-2027-gianni-infantino-patrice-motsepe-philippe-diallo-gxe",
+      "source": "Zeit",
+      "date": "2026-11-21T16:35+00:00",
+      "teaser": "Der afrikanische Fußballverband spricht sich für Gianni Infantino als Fifa-Präsident aus. Damit folgt er der Wahlempfehlung des südamerikanischen Kontinentalverbands."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "1:0 in Elversberg: Ein starker Moment reicht dem SC Freiburg",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-ein-starker-moment-reicht-dem-sc-freiburg-in-elversberg-201304419.html",
+      "source": "FAZ",
+      "date": "2026-11-21T16:39+00:00",
+      "teaser": "Bei Aufsteiger Elversberg haben sich bisher alle Gegner schwergetan, so auch die Freiburger. Doch dann ist wieder einmal Igor Matanović zur Stelle."
      }
     ]
    }
   ],
   "Tech & KI": [
    {
-    "sourceCount": 3,
-    "score": 4.42,
+    "sourceCount": 2,
+    "score": 2.33,
     "items": [
-     {
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "source": "The Verge",
-      "date": "2026-11-20T13:50-05:00",
-      "teaser": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our coun"
-     },
      {
       "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
       "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
@@ -1030,6 +1009,45 @@
     "score": 1.93,
     "items": [
      {
+      "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+      "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+      "source": "The Verge",
+      "date": "2026-11-21T11:00-05:00",
+      "teaser": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life,"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-21T11:00-05:00",
+      "teaser": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who loves displaying fam"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
+      "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+      "source": "New York Times",
+      "date": "2026-11-21T15:55+00:00",
+      "teaser": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.84,
+    "items": [
+     {
       "title": "Can Anthropic afford to put safety first?",
       "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
       "source": "The Verge",
@@ -1040,7 +1058,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
       "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
@@ -1053,7 +1071,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.79,
     "items": [
      {
       "title": "Zähneputzen neu gedacht: Diese Borsten erzeugen Strom gegen Karies",
@@ -1066,7 +1084,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.76,
     "items": [
      {
       "title": "Anzeige: IT-Jobs in Administration, Data Engineering und Security",
@@ -1079,7 +1097,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.76,
     "items": [
      {
       "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
@@ -1092,7 +1110,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.76,
     "items": [
      {
       "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
@@ -1105,7 +1123,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.74,
     "items": [
      {
       "title": "Entstehung Schwarzer Löcher: Neue Studie widerlegt altes Lehrbuch-Wissen",
@@ -1118,7 +1136,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.78,
+    "score": 1.69,
     "items": [
      {
       "title": "Starker Start an der Börse: Wird Anthropic den Erfolgskurs halten können?",
@@ -1126,45 +1144,6 @@
       "source": "t3n",
       "date": "2026-11-21T14:12+01:00",
       "teaser": "Der Börsengang fiel in eine Zeit starker Verunsicherung. Nicht nur der abflauende KI-Boom löst in Anleger:innen Sorgen aus. Auch der Skandal um den ehemaligen Nvidia-CEO wirkt sich auf die gesamte Branche aus. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "Wenn Mitarbeiter mehr wissen als der Chef: So beeinflusst KI die Führungsposition",
-      "url": "https://t3n.de/news/ki-fuehrung-mitarbeiter-wissen-chef-1772449/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-21T14:00+01:00",
-      "teaser": "Wirtschaftspsychologe Ali Ergün forscht dazu, wie KI die Rollen von Führungskräften und Mitarbeitenden zukünftig verändern wird. Warum Chef:innen zukünftig ihr weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
-      "source": "The Verge",
-      "date": "2026-11-21T08:00-05:00",
-      "teaser": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was […]"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "The game of the year is finally here",
-      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
-      "source": "The Verge",
-      "date": "2026-11-21T08:00-05:00",
-      "teaser": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclea"
      }
     ]
    }
@@ -1445,13 +1424,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Sport",
@@ -1463,7 +1442,7 @@
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "topic": "Sport",
