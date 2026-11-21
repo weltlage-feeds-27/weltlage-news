@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-21T19:52:45+00:00",
+ "fetchedAt": "2026-11-21T20:49:52+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 5,
-    "score": 9.95,
+    "score": 9.87,
     "items": [
      {
       "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -21,17 +21,71 @@
       "teaser": "Fausto Isidro Meza Flores was one of the FBI's 10 most wanted fugitives. He climbed the cartel ranks to lead the Beltrán Leyva cartel and later became the leader of his own group, the Meza-Flores Transnational Criminal Organization."
      },
      {
-      "title": "Mexico detains top cartel boss El Chapo Isidro, setting off burst of violence in Sinaloa",
+      "title": "11 killed in burst of violence in northern Mexico after capture of cartel leader",
       "url": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss",
       "source": "CBC",
       "date": "2026-11-21T11:32-05:00",
-      "teaser": "Mexican authorities captured top cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, in the state of Sinaloa overnight, resulting in a burst of violence that rattled civilians."
+      "teaser": "A burst of violence in Mexico's Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, left at least 11 people dead, authorities said Saturday."
+     }
+    ]
+   },
+   {
+    "sourceCount": 4,
+    "score": 7.94,
+    "items": [
+     {
+      "title": "FBI criminal database hacked",
+      "url": "https://www.france24.com/en/fbi-criminal-database-hacked",
+      "source": "France 24",
+      "date": "2026-11-21T17:23+00:00",
+      "teaser": "The FBI is investigating a reported major cyberattack targeting its national law enforcement database, the National Crime Information Center (NCIC), which holds sensitive criminal justice records, including information on fugitives, missing persons, criminal histories and stolen property. President "
+     },
+     {
+      "title": "FBI investigating apparent hack of its criminal database",
+      "url": "https://www.cbc.ca/player/play/9.7431322?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-21T12:36-05:00",
+      "teaser": "The FBI is investigating a reported breach of its criminal information database, according to U.S. media reports. This is the second time the FBI has been the target of a cyberattack since September."
+     },
+     {
+      "title": "FBI database reportedly hacked",
+      "url": "https://www.abc.net.au/news/2026-11-22/fbi-database-hacked-according-to-media-outlets/107413682",
+      "source": "ABC Australia",
+      "date": "2026-11-21T20:03+00:00",
+      "teaser": "The FBI and US Agriculture Department have been targeted in apparent cyber attacks, according to reports from multiple media outlets."
+     }
+    ]
+   },
+   {
+    "sourceCount": 4,
+    "score": 7.92,
+    "items": [
+     {
+      "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
+      "url": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
+      "source": "France 24",
+      "date": "2026-11-21T19:55+00:00",
+      "teaser": "A Russian ballistic missile attack on President Volodymyr Zelensky’s hometown in central Ukraine on Saturday killed two people and wounded dozens. Hours later, Zelensky reiterated his country's determination to join NATO. FRANCE 24's Gulliver Cragg reports from Kyiv."
+     },
+     {
+      "title": "Ballistic missile attack on Zelenskyy's hometown kills 2",
+      "url": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
+      "source": "The Hindu",
+      "date": "2026-11-21T22:08+05:30",
+      "teaser": "The attack added to uncertainty about the prospects for ongoing talks brokered by Washington; It also came hours after two Russian missiles and a suspected drone came down in Poland"
+     },
+     {
+      "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
+      "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-21T08:26-05:00",
+      "teaser": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.96,
+    "score": 5.88,
     "items": [
      {
       "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
@@ -58,7 +112,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.84,
+    "score": 5.76,
     "items": [
      {
       "title": "Israeli strike kills 3 in vehicle distributing aid in Gaza, witnesses say",
@@ -85,34 +139,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.81,
-    "items": [
-     {
-      "title": "FBI criminal database hacked",
-      "url": "https://www.france24.com/en/fbi-criminal-database-hacked",
-      "source": "France 24",
-      "date": "2026-11-21T17:23+00:00",
-      "teaser": "The FBI is investigating a reported major cyberattack targeting its national law enforcement database, the National Crime Information Center (NCIC), which holds sensitive criminal justice records, including information on fugitives, missing persons, criminal histories and stolen property. President "
-     },
-     {
-      "title": "FBI investigating apparent hack of its criminal database",
-      "url": "https://www.cbc.ca/player/play/9.7431322?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-21T12:36-05:00",
-      "teaser": "The FBI is investigating a reported breach of its criminal information database, according to U.S. media reports. This is the second time the FBI has been the target of a cyberattack since September."
-     },
-     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-21T16:35+00:00",
-      "teaser": "The National Crime Information Center database is used by federal and local law enforcement to share information."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.79,
+    "score": 5.71,
     "items": [
      {
       "title": "Man convicted of starting palisades fire",
@@ -138,35 +165,8 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.79,
-    "items": [
-     {
-      "title": "Ballistic missile attack on Zelenskyy's hometown kills 2",
-      "url": "https://www.thehindu.com/news/international/ballistic-missile-attack-on-zelenskyys-hometown-kills-2/article71729235.ece",
-      "source": "The Hindu",
-      "date": "2026-11-21T22:08+05:30",
-      "teaser": "The attack added to uncertainty about the prospects for ongoing talks brokered by Washington; It also came hours after two Russian missiles and a suspected drone came down in Poland"
-     },
-     {
-      "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
-      "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-21T08:26-05:00",
-      "teaser": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday."
-     },
-     {
-      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-      "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-21T17:20+00:00",
-      "teaser": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.89,
     "items": [
      {
       "title": "Finnland: Russisches Frachtschiff nach Drohnenangriff in Brand",
@@ -186,7 +186,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.88,
     "items": [
      {
       "title": "Liveblog Ukrainekrieg: Rutte: NATO wird jeden Zentimeter von Polen verteidigen",
@@ -206,7 +206,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.73,
     "items": [
      {
       "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
@@ -226,7 +226,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.66,
     "items": [
      {
       "title": "French police officers convicted of racist assault",
@@ -246,7 +246,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.72,
+    "score": 3.64,
     "items": [
      {
       "title": "California investigates Nvidia over whether chip exports ended up in China",
@@ -266,7 +266,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.7,
+    "score": 3.62,
     "items": [
      {
       "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
@@ -288,7 +288,46 @@
   "Deutschland": [
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Wie verhext: Schalke trifft zuhause das Tor nicht",
+      "url": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
+      "source": "SWR",
+      "date": "2026-11-21T21:22+01:00",
+      "teaser": "Schalke 04 bleibt zuhause torlos und hat so nach einem eigentlich starken Auftritt gegen den Champions-League-Teilnehmer VfB Stuttgart einen Bundesliga-Negativrekord eingestellt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Karl Lauterbach: »Dass KI die Menschheit auslöscht, halte ich für Unsinn«",
+      "url": "https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-21T21:13+01:00",
+      "teaser": "Ex-Gesundheitsminister Karl Lauterbach hat gerade die wichtigsten KI-Labore in den USA und China besucht. Jetzt schlägt er Alarm: Deutschland dürfe sich nicht weiter abhängen lassen. Doch etwas macht ihm Hoffnung."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Wie ersetzt man den unersetzlichen Harry Kane?",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fc-bayern-muenchen-personalsituation-harry-kane-100.html",
+      "source": "ZDF",
+      "date": "2026-11-21T20:57+01:00",
+      "teaser": "Durch den monatelangen Ausfall von Harry Kane fehlt dem FC Bayern ein Mittelstürmer. Das könnte für ein Umdenken bei den Wintertransfers sorgen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Jugendliche nehmen Krebsmedikament, um größer zu werden",
@@ -301,20 +340,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Wie verhext: Schalke trifft zuhause das Tor nicht",
-      "url": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
-      "source": "SWR",
-      "date": "2026-11-21T20:42+01:00",
-      "teaser": "Schalke 04 bleibt zuhause torlos und stellt so nach einem eigentlich starken Auftritt einen Bundesliga-Negativrekord ein."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Bald Generalinspekteur: Im guten Geiste Preußens",
@@ -327,7 +353,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.88,
     "items": [
      {
       "title": "Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
@@ -340,7 +366,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Der SC Freiburg eine Spitzenmannschaft? Matanovic trifft und grinst",
@@ -353,7 +379,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.82,
     "items": [
      {
       "title": "E-Autos besonders im Fokus: Was ein Wechsel der Kfz-Versicherung bringen kann",
@@ -366,7 +392,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.81,
     "items": [
      {
       "title": "Berliner Linke: Schwerdtner befürwortet Fraktionsausschluss von Vanessa Emde",
@@ -379,7 +405,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.78,
     "items": [
      {
       "title": "\"Ihr tötet die Zukunft\": Demonstrant unterbricht COP31",
@@ -392,7 +418,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.77,
     "items": [
      {
       "title": "Deutschland Liveblog: Schwerdtner: Emdes Ego-Show brauchen wir nicht",
@@ -405,7 +431,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.76,
     "items": [
      {
       "title": "\"Habe geweint beim Einfahren\": KSC-Fan nach Rad-Weltreise zurück im Wildpark",
@@ -415,45 +441,51 @@
       "teaser": "KSC-Fan Jakob Alberti ist mit dem Rad von Karlsruhe zur Fußball-WM in die USA gefahren. Nach seiner Weltreise kehrte er zurück - mit Erlebnissen, die er nie vergessen wird."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "Landleben: Hier hat die Gen Z oft andere Probleme als in der Stadt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/jugend-land-gemmrigheim-gen-z-provinz-100.html",
-      "source": "SWR",
-      "date": "2026-11-21T18:36+01:00",
-      "teaser": "In Großstädten protestieren zur Zeit junge Leute. Wie blicken in kleinen Gemeinden Menschen aus derselben Generation auf die Proteste? Das zeigt sich zum Beispiel in Gemmrigheim."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Ukraine: Boris Pistorius zeigt sich offen für Gespräche mit Wladimir Putin",
-      "url": "https://www.spiegel.de/politik/deutschland/ukrainekrieg-boris-pistorius-zeigt-sich-offen-fuer-gespraeche-mit-putin-a-d56940e3-68a6-4602-b1bf-edadd333cdc1#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-20T10:12+01:00",
-      "teaser": "Boris Pistorius warnt davor, Gesprächsangebote aus Moskau auszuschlagen. Nur Reden führe zu Ergebnissen, sagte der Verteidigungsminister. Zugleich knüpfte er einen Austausch mit Putin an eine Bedingung."
-     },
-     {
-      "title": "Ukraine-Gespräche: Jetzt nicht auf Putin hereinfallen",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-diplomatie-europa-darf-nicht-auf-putin-hereinfallen-201701902.html",
-      "source": "FAZ",
-      "date": "2026-11-20T17:27+00:00",
-      "teaser": "Ob es die Russen mit den Verhandlungen ernst meinen, ist unklar. Aber Europa muss mit einer Stimme reden, gerade die Bundesregierung."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Ozempic i Mounjaro nie tylko odchudzają. Naukowcy badają wpływ na pamięć",
+      "url": "https://cyfrowa.rp.pl/technologie/art45507001-ozempic-i-mounjaro-nie-tylko-odchudzaja-naukowcy-badaja-wplyw-na-pamiec",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T21:31+01:00",
+      "teaser": "Popularne leki stosowane w leczeniu otyłości i cukrzycy typu 2, w tym semaglutyd i tirzepatyd, mogą nie tylko pomagać w redukcji masy ciała i kontrolowaniu poziomu cukru we krwi, ale także wpływać na funkcjonowanie mózgu. Naukowcy sprawdzają, czy mogłyby chronić pamięć i sprawność umysłową."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Sikorski o porażce \"wielkiej fantazji\" Putina. \"Chińczycy pokazali jego miejsce w szeregu\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33144680,sikorski-o-wielkiej-fantazji-putina-chinczycy-pokazali-jego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-21T20:20+00:00",
+      "teaser": "Zdaniem wicepremiera rosyjski przywódca nie będzie wspominał szczytu w Chinach z nostalgią. - Chińczycy przestali już udawać, że traktują Rosję jak równego partnera - powiedział Radosław Sikorski w TVP Info."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "Alarmy w obwodzie królewieckim. Miało dojść do eksplozji",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45523701-alarmy-w-obwodzie-krolewieckim-mialo-dojsc-do-eksplozji",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T20:39+01:00",
+      "teaser": "W obwodzie królewieckim miało dojść do kilku eksplozji, m.in. w Bałtyjsku w pobliżu rosyjskiej bazy Floty Bałtyckiej. Zawyły syreny alarmowe, a ludziom wskazano, żeby szukali schronienia - donosi ukraiński dziennik The Kyiv Independent powołując się na ukraińskie kanały na Telegramie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Leszek Wiwała: O czym nie mówi się, gdy rosną ceny paliw",
@@ -466,20 +498,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
-      "title": "Alarmy w obwodzie królewieckim. Miało dojść do eksplozji",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45523701-alarmy-w-obwodzie-krolewieckim-mialo-dojsc-do-eksplozji",
+      "title": "Spór o ambasadorów. Przydacz zarzuca Sikorskiemu eskalowanie konfliktu",
+      "url": "https://www.rp.pl/polityka/art45523691-spor-o-ambasadorow-przydacz-zarzuca-sikorskiemu-eskalowanie-konfliktu",
       "source": "Rzeczpospolita",
-      "date": "2026-11-21T20:39+01:00",
-      "teaser": "W obwodzie królewieckim miało dojść do kilku eksplozji w pobliżu rosyjskiej bazy Floty Bałtyckiej w związku z ostrzeżeniami dotyczącymi dronów - donosi ukraiński serwis The Kyiv Independent powołując się na rosyjskie media."
+      "date": "2026-11-21T20:38+01:00",
+      "teaser": "Szef prezydenckiego Biura Polityki Międzynarodowej Marcin Przydacz zarzucił MSZ, że bez uzgodnienia z Karolem Nawrockim rozesłało do kilkunastu państw wnioski o agrément dla kandydatów na ambasadorów. Zapowiedział, że nie otrzymają oni prezydenckich listów uwierzytelniających."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Puchar Świata w Lillehammer. Polacy odpadli na starcie",
@@ -492,7 +524,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Przydacz oskarża Sikorskiego ws. ambasadorów. \"Prosi o zgodę obce rządy\"",
@@ -505,7 +537,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Jacek Dubois: Kryzys w wymiarze sprawiedliwości – chaos w państwie prawa",
@@ -518,7 +550,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.83,
     "items": [
      {
       "title": "Apple szykuje największą ofensywę od lat. Aż 18 premier i rewolucja w iPhone’ach",
@@ -531,7 +563,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.81,
     "items": [
      {
       "title": "Mark Rutte broni Trumpa i jego relacji z Putinem. „To w interesie Polski”",
@@ -544,7 +576,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.81,
     "items": [
      {
       "title": "Nieoficjalnie: drony miały przelecieć nad amerykańską bazą wojskową na Sycylii",
@@ -557,33 +589,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Nie chcą ośrodka dla migrantów. Angielska wieś zagłosowała za odłączeniem od UK",
-      "url": "https://www.rp.pl/spoleczenstwo/art45523601-nie-chca-osrodka-dla-migrantow-angielska-wies-zaglosowala-za-odlaczeniem-od-uk",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T19:00+01:00",
-      "teaser": "Mieszkańcy angielskiej wsi Barnham w hrabstwie Suffolk zagłosowali za symbolicznym odłączeniem się od Wielkiej Brytanii. W ten sposób protestują przeciwko rządowym planom ulokowania w pobliskiej dawnej bazie RAF setek osób ubiegających się o azyl."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Wojna Rosji z Ukrainą. Melania Trump chce rozejmu przed Bożym Narodzeniem",
-      "url": "https://www.rp.pl/dyplomacja/art45523591-wojna-rosji-z-ukraina-melania-trump-chce-rozejmu-przed-bozym-narodzeniem",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T18:55+01:00",
-      "teaser": "Melania Trump ogłosiła, że prowadzi rozmowy z Rosją i Ukrainą w sprawie nowego rozejmu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.75,
     "items": [
      {
       "title": "Wyrok śmierci dla Polaka w USA. \"Wyrachowane zabójstwo\"",
@@ -593,39 +599,26 @@
       "teaser": "Sąd Okręgowy dla hrabstwa Pinellas na Florydzie skazał Tomasza Kosowskiego za morderstwo prawnika Stevena Cozziego. Ciała ofiary nigdy nie odnaleziono w przeciwieństwie do śladów jej krwi."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.74,
-    "items": [
-     {
-      "title": "Zełenski podsumował spotkanie USA-Chiny- Rosja. \"Nie udała się Jałta 2.0\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33144518,zelenski-podsumowal-spotkanie-usa-chiny-rosja-nie-udala-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-21T16:44+00:00",
-      "teaser": "Ukraiński prezydent stwierdził, że Władimir Putin podczas trójstronnego spotkania Rosja- USA-Chiny chciał zrealizować plan \"Jałty 2.0\". Zakładał on nowy podział świata i zmianę granic."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.88,
+    "score": 5.96,
     "items": [
+     {
+      "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+      "source": "Tagesschau",
+      "date": "2026-11-21T21:17+01:00",
+      "teaser": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren."
+     },
      {
       "title": "EU und Indonesien unterzeichnen weitreichenden Handelspakt",
       "url": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
       "source": "Spiegel",
       "date": "2026-11-21T19:25+01:00",
       "teaser": "Die EU gewinnt die drittgrößte Demokratie der Welt als Partner: Indonesien. Schon bald sollen dadurch etwa Zölle auf europäische Autos entfallen, das ostasiatische Land will mehr wichtige Batterierohstoffe liefern."
-     },
-     {
-      "title": "Freihandelsabkommen: EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-und-indonesien-unterzeichnen-weitreichendes-freihandelsabkommen-accg-201704887.html",
-      "source": "FAZ",
-      "date": "2026-11-21T14:53+00:00",
-      "teaser": "Weniger Zölle auf Autos, besserer Zugang zu wichtigen Rohstoffen: Neue Abkommen mit dem weltgrößten Inselstaat sollen europäischen Unternehmen neue Chancen eröffnen. Vielleicht sogar schon 2027?"
      },
      {
       "title": "Indonesien: EU besiegelt Freihandelsabkommen mit Indonesien – doch Präsident Prabowo verunsichert Investoren",
@@ -638,7 +631,34 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.51,
+    "score": 5.94,
+    "items": [
+     {
+      "title": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
+      "url": "https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag-a-dabd98ed-f515-48af-af87-b52c783e71ee#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-21T21:10+01:00",
+      "teaser": "Was kostet die EU-Mitgliedschaft demnächst? Ratspräsident Costa kommt dem Bundeskanzler entgegen, aber der Streit geht weiter. Steuern für Digitalkonzerne sollen die Finanzen entspannen."
+     },
+     {
+      "title": "Im Streit über EU-Budget legt Costa Kompromiss vor",
+      "url": "https://www.tagesschau.de/wirtschaft/digitales/digitalsteuer-streit-eu-deutschland-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-21T16:01+01:00",
+      "teaser": "Die EU-Staaten ringen um einen neuen Budgetplan. Jetzt legt Ratspräsident Costa einen Kompromiss vor. Die Zeit wird langsam knapp: Bis Jahresende soll eine Einigung erzielt werden."
+     },
+     {
+      "title": "EU-Haushalt: Streit um EU-Budget – Costa kürzt nach Kritik von Merz",
+      "url": "https://www.handelsblatt.com/politik/international/eu-haushalt-streit-um-eu-budget-costa-kuerzt-nach-kritik-von-merz/100271749.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-21T10:47+00:00",
+      "teaser": "Im Ringen um den neuen EU-Etat fordert Bundeskanzler Merz vehement ein um mehrere Hundert Milliarden kleineres Budget als bislang vorgeschlagen. Nun gibt es neue Ideen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.44,
     "items": [
      {
       "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
@@ -665,27 +685,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.6,
-    "items": [
-     {
-      "title": "Im Streit über EU-Budget legt Costa Kompromiss vor",
-      "url": "https://www.tagesschau.de/wirtschaft/digitales/digitalsteuer-streit-eu-deutschland-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-21T16:01+01:00",
-      "teaser": "Die EU-Staaten ringen um einen neuen Budgetplan. Jetzt legt Ratspräsident Costa einen Kompromiss vor. Die Zeit wird langsam knapp: Bis Jahresende soll eine Einigung erzielt werden."
-     },
-     {
-      "title": "EU-Haushalt: Streit um EU-Budget – Costa kürzt nach Kritik von Merz",
-      "url": "https://www.handelsblatt.com/politik/international/eu-haushalt-streit-um-eu-budget-costa-kuerzt-nach-kritik-von-merz/100271749.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-21T10:47+00:00",
-      "teaser": "Im Ringen um den neuen EU-Etat fordert Bundeskanzler Merz vehement ein um mehrere Hundert Milliarden kleineres Budget als bislang vorgeschlagen. Nun gibt es neue Ideen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.66,
+    "score": 2.58,
     "items": [
      {
       "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
@@ -705,7 +705,59 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Jonas Grethlein im Interview: Der Preis des Feuers",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-elon-musk-bis-frankenstein-jonas-grethlein-erklaert-warum-prometheus-auch-heute-fasziniert-201639053.html",
+      "source": "FAZ",
+      "date": "2026-11-21T20:31+00:00",
+      "teaser": "Frankenstein, Faust, Musk: Prometheus gilt als Patron des technischen Fortschritts. Er bringt den Menschen das Feuer, gegen den Willen der Götter. Der Altphilologe Jonas Grethlein erklärt, was sich daraus für die KI-Gegenwart lernen lässt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Scheitert die UN-Klimakonferenz in Antalya?",
+      "url": "https://www.tagesschau.de/wissen/klima/klimakonferenz/cop31-haengepartie-abschlusserklaerung-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-21T21:21+01:00",
+      "teaser": "Dass eine Weltklimakonferenz pünktlich endet, passiert praktisch nie. Auch die COP31 in Antalya ist schon seit mehr als 24 Stunden in der Verlängerung. Droht ein Rückfall bei den Klimazielen - oder sogar ein Scheitern?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Harald Christ im Gespräch: „Heute lasse ich mich nicht mehr von einer Partei vereinnahmen“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/was-denkt-harald-christ-der-investor-lobbyist-und-mann-zwischen-den-welten-201689491.html",
+      "source": "FAZ",
+      "date": "2026-11-21T20:03+00:00",
+      "teaser": "Harald Christ ist in vielen Rollen zwischen Wirtschaft und Politik unterwegs. Das sorgt immer wieder für Kritik. Mit seinem Unternehmen will er nicht weniger als einen Beitrag zur deutsch-europäischen Souveränität leisten."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+      "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+      "source": "New York Times",
+      "date": "2026-11-21T20:07+00:00",
+      "teaser": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Ostsee: Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand",
@@ -718,7 +770,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Paolo Bulgari: Schmuckunternehmer Paolo Bulgari ist tot",
@@ -731,7 +783,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.81,
     "items": [
      {
       "title": "Wachstum durch schulden?: Die Droge Defizit",
@@ -744,7 +796,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Thore Schölermann über den Wechsel vom Moderator zum McDonald's-Unternehmer",
@@ -754,82 +806,44 @@
       "teaser": "Tausche Millionenpublikum gegen Fast-Food-Franchise: Moderator Thore Schölermann betreibt nun drei McDonald’s-Filialen. Im Interview erklärt er den ungewöhnlichen Wechsel – und sagt, was die Jobs gemein haben."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
-      "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-      "source": "New York Times",
-      "date": "2026-11-21T18:29+00:00",
-      "teaser": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "EU raises prospect of ‘no deal’ at COP31",
-      "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-21T18:07+00:00",
-      "teaser": "Escalation in tactics comes as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price.",
-      "url": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
-      "source": "New York Times",
-      "date": "2026-11-21T17:59+00:00",
-      "teaser": "As new car prices rise beyond the means of most buyers, the used market has become much more important for consumers and the auto industry."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
-      "url": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-21T17:52+00:00",
-      "teaser": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US"
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.99,
+    "score": 7.95,
     "favorite": true,
     "items": [
      {
-      "title": "LIVE! Heimspiel gegen Vigo: Setzt Real den Spitzenreiter unter Druck?",
+      "title": "LIVE! Nach emotionalen Szenen vor Anpfiff: Frühe kalte Dusche für Real",
       "url": "https://www.kicker.de/real-madrid-gegen-vigo-2026-la-liga-5223921/spielbericht#omrss",
       "source": "kicker",
-      "date": "2026-11-21T19:43+00:00",
+      "date": "2026-11-21T20:16+00:00",
       "teaser": "Im Heimspiel gegen Celta Vigo hat Real Madrid die Chance, mit Barcelona von der Punkteanzahl her gleichzuziehen. Die Katalanen sind erst am Sonntag gefordert. Kann Real den Rivalen unter Zugzwang setzen?"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.9399999999999995,
+    "score": 7.92,
     "favorite": true,
     "items": [
      {
-      "title": "0-0: El derbi de filiales acaba en empate",
+      "title": "Joan Laporta: \"Este será el año, el equipo lo tiene claro\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253849/joan-laporta-sera-ano-equipo-claro.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-21T20:49+01:00",
+      "teaser": "El presidente del FC Barcelona, Joan Laporta , aprovechó su visita a Nueva York para el III Memorial Johan Cruyff para atender a TUDN, donde repasó la actualidad azulgrana en una entrevista en la que habló de Pedri, Lamine, Balde y Rodri, entre otros, y sacó pecho de ser el mejor \"club polideportivo"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.86,
+    "favorite": true,
+    "items": [
+     {
+      "title": "0-0: El Barça Atlètic no pudo con un Espanyol que acabó con nueve",
       "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253784/espanyol-b-barca-atletic-segunda-rfef.html",
       "source": "Mundo Deportivo (Barça)",
       "date": "2026-11-21T20:08+01:00",
@@ -838,42 +852,68 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.83,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Íñigo Pérez nunca ha ganado al FC Barcelona",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253736/inigo-perez-nunca-ganado-fc-barcelona.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-21T18:47+01:00",
-      "teaser": "Íñigo Pérez , entrenador del Villarreal , nunca ha ganado al FC Barcelona como técnico. En su etapa en el Rayo Vallecano , se enfrentó hasta cinco veces ante los azulgranas. El navarro solo consiguió rascar un empate (1-1) la pasada temporada en el Estadio de Vallecas en la 3ª jornada ."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 4.0,
     "items": [
      {
-      "title": "Thiaw trifft, Havertz legt vor: Arsenal lässt in Newcastle Punkte liegen",
-      "url": "https://www.kicker.de/newcastle-gegen-arsenal-2026-premier-league-5213378/spielbericht#omrss",
+      "title": "LIVE! Wieder trifft St. Pauli gleich: Ando staubt ab",
+      "url": "https://www.kicker.de/live-wieder-trifft-st-pauli-gleich-ando-staubt-ab-1272810/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-21T19:25+00:00",
-      "teaser": "Der FC Arsenal ist bei Newcastle United nicht über ein 2:2 hinausgekommen. In Halbzeit eins waren die Gunners extrem dominant - führten aber nur mit 1:0. Nach Wiederanpfiff stellten die Magpies das Spiel auf den Kopf, aber Thiaws Treffer reichte nicht zum Sieg."
+      "date": "2026-11-21T20:37+00:00",
+      "teaser": "Sowohl St. Pauli als auch der VfL Bochum stecken im Mittelfeld der Zweitligatabelle fest. Im direkten Duell haben beide nun die Gelegenheit, ihr Fühler wieder nach oben auszustrecken - oder im Falle einer Niederlage, den Blick nach unten zu richten."
      },
      {
-      "title": "2:2 bei Newcastle - Arsenal lässt Punkte liegen",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma12153472/newcastle-united_arsenal-fc/liveticker",
+      "title": "Jetzt live - St. Pauli trifft wieder direkt nach Anpfiff",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-2-bundesliga/ma12194956/fc-st-pauli_vfl-bochum/liveticker",
       "source": "Sportschau",
-      "date": "2026-11-21T20:32+01:00",
-      "teaser": "Meister Arsenal führt die Premier League schon wieder deutlich an - und hätte die Tabellenführung weiter ausbauen können. Newcastle erkämpfte sich aber einen verdienten Punkt."
+      "date": "2026-11-21T21:47+01:00",
+      "teaser": "Es ist für Bochum ein völlig irrer Abend: Sowohl in der ersten als auch in der zweiten Halbzeit kassieren die Gäste einen ganz frühen Gegentreffer und laufen somit einem 0:2-Rückstand hinterher."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
+      "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
+      "source": "The Guardian",
+      "date": "2026-11-21T19:47+00:00",
+      "teaser": "If Mikel Arteta was delighted to see the back of Eddie Howe as Newcastle’s head coach, the bad news is that another similarly awkward technical area adversary has been installed at St James’ Park. Arsenal’s manager never seemed to relish trips to face Howe’s old team and he certainly did not enjoy t"
+     },
+     {
+      "title": "Arsenal go six points clear after lively draw at Newcastle",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-21T19:59+00:00",
+      "teaser": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
+      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
+      "source": "The Guardian",
+      "date": "2026-11-21T17:10+00:00",
+      "teaser": "Marco Rose saluted the in-form Evanilson after the Brazilian scored for a sixth Premier League game in a row to lift Bournemouth up to fourth place with a 2-0 win over Nottingham Forest. Evanilson’s brilliantly taken 19th-minute opener set his side on course for a club record ninth straight win in a"
+     },
+     {
+      "title": "Evanilson strikes again as Bournemouth beat Forest",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-21T19:59+00:00",
+      "teaser": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.88,
     "items": [
      {
       "title": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
@@ -893,7 +933,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.66,
+    "score": 3.58,
     "items": [
      {
       "title": "FC Bayern und Musiala: „Das hat mit ‚Mia san mia‘ und der FC-Bayern-Familie wenig zu tun“",
@@ -916,24 +956,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Jetzt live - St. Pauli trifft sofort, verpasst aber das 2:0",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-2-bundesliga/ma12194956/fc-st-pauli_vfl-bochum/liveticker",
-      "source": "Sportschau",
-      "date": "2026-11-21T20:42+01:00",
-      "teaser": "St. Pauli führt im Topspiel der 2. Bundesliga seit der 3. Minute zuhause gegen den VfL Bochum. Mit einem Sieg würden die Hamburger einen großen Sprung in der Tabelle machen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
-      "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
-      "source": "The Guardian",
-      "date": "2026-11-21T19:47+00:00",
-      "teaser": "If Mikel Arteta was delighted to see the back of Eddie Howe as Newcastle’s head coach, the bad news is that another similarly awkward technical area adversary has been installed at St James’ Park. If Arsenal’s manager never seemed to relish trips to face Howe’s old team, Arteta certainly did not enj"
+      "title": "Große Emotionen vor Real-Spiel: Spalier der Teams für Familie des verstorbenen de Miguel",
+      "url": "https://www.kicker.de/grosse-emotionen-vor-real-spiel-spalier-der-teams-fuer-familie-des-verstorbenen-de-miguel-1273672/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-21T20:41+00:00",
+      "teaser": "Vor dem Spiel von Real Madrid gegen Celta Vigo wurde gemeinsam mit der Familie von Jesus de Miguel im Estadio Santiago Bernabéu dem verstorbenen Profi gedacht."
      }
     ]
    },
@@ -942,11 +969,24 @@
     "score": 1.98,
     "items": [
      {
-      "title": "LIVE! St. Pauli weiter am Drücker: Horn verhindert 0:2",
-      "url": "https://www.kicker.de/live-st-pauli-weiter-am-druecker-horn-verhindert-0-2-1272810/artikel#omrss",
+      "title": "Lille - Lyon: Tor zum 0:1 durch Bidstrup in der 40. Minute",
+      "url": "https://www.kicker.de/lille-lyon-tor-zum-0-1-durch-bidstrup-in-der-40-minute-1273668/video#omrss",
       "source": "kicker",
-      "date": "2026-11-21T19:38+00:00",
-      "teaser": "Sowohl St. Pauli als auch der VfL Bochum stecken im Mittelfeld der Zweitligatabelle fest. Im direkten Duell haben beide nun die Gelegenheit, ihr Fühler wieder nach oben auszustrecken - oder im Falle einer Niederlage, den Blick nach unten zu richten."
+      "date": "2026-11-21T20:28+00:00",
+      "teaser": "Szene aus dem Spiel Lille OSC - Olympique Lyon (Ligue 1 2026/27, 11. Spieltag)."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Bei Borussia Mönchengladbach geht aktuell alles schief",
+      "url": "https://www.sportschau.de/regional/wdr/wdr-bei-borussia-moenchengladbach-geht-aktuell-alles-schief-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-21T21:32+01:00",
+      "teaser": "Borussia Mönchengladbach verliert auch gegen den BVB und bleibt Tabellenletzter. Die Umstände dieser Niederlage sprechen Bände."
      }
     ]
    },
@@ -955,37 +995,11 @@
     "score": 1.97,
     "items": [
      {
-      "title": "\"Sichtbare Verbesserung\": Spalletti mit Woltemade zufrieden",
-      "url": "https://www.kicker.de/sichtbare-verbesserung-spalletti-mit-woltemade-zufrieden-1273655/video#omrss",
+      "title": "Lens - Toulouse: Tor zum 0:1 durch Russell-Rowe in der 39. Minute",
+      "url": "https://www.kicker.de/lens-toulouse-tor-zum-0-1-durch-russell-rowe-in-der-39-minute-1273667/video#omrss",
       "source": "kicker",
-      "date": "2026-11-21T19:30+00:00",
-      "teaser": "Juve-Coach Luciano Spalletti äußerte sich zu Nationalspieler Nick Woltemade und dessen Fortschritte. Dennoch sieht er den Stürmer noch lange nicht am Ende seiner Entwicklung."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "\"Ziehe meiner Mannschaft den Stecker\": Weiner nimmt Pleite auf sich",
-      "url": "https://www.kicker.de/ziehe-meiner-mannschaft-den-stecker-weiner-nimmt-pleite-auf-sich-1273626/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-21T19:30+00:00",
-      "teaser": "Mitch Kniats Einstand als neuer Trainer von Holstein Kiel ging krachend schief. Beim VfL Wolfsburg verlor seine Mannschaft klar mit 0:3 - und hatte sich sämtliche Gegentore selbst anzukreiden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Schalke belohnt sich nicht und bleibt daheim sieg- wie torlos",
-      "url": "https://www.kicker.de/schalke-gegen-stuttgart-2026-bundesliga-5226897/spielbericht#omrss",
-      "source": "kicker",
-      "date": "2026-11-21T19:30+00:00",
-      "teaser": "Der FC Schalke 04 knüpft an den spielerischen Trend von zuletzt an, nutzt aber beim Heimspiel gegen den VfB Stuttgart zahlreiche Chancen nicht. Die Sieg- und Torlosigkeit in der heimischen Veltins-Arena ging damit weiter. Die Schwaben ließen derweil vor allem im ersten Abschnitt selbst so einiges au"
+      "date": "2026-11-21T20:27+00:00",
+      "teaser": "Szene aus dem Spiel RC Lens - FC Toulouse (Ligue 1 2026/27, 11. Spieltag)."
      }
     ]
    }
@@ -993,7 +1007,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 2.09,
+    "score": 2.01,
     "items": [
      {
       "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
@@ -1016,6 +1030,45 @@
     "score": 1.94,
     "items": [
      {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "date": "2026-11-21T15:03-05:00",
+      "teaser": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiat"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "Microshifting im Homeoffice: Mit diesen 2 Regeln wird der Arbeitstrend auch für Arbeitgeber zum Gewinn",
+      "url": "https://t3n.de/news/microshifting-homeoffice-regeln-arbeitgeber-1772835/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-21T20:15+01:00",
+      "teaser": "Microshifting setzt sich seit einiger Zeit als Arbeitstrend bei Angestellten durch, die im Homeoffice arbeiten können. Dadurch können sie sich ihre Arbeitszeit flexibler einteilen. Wie das funktioniert und welche Nachteile es trotz aller Vorzüge geben kann. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.86,
+    "items": [
+     {
+      "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+      "source": "New York Times",
+      "date": "2026-11-21T19:11+00:00",
+      "teaser": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.86,
+    "items": [
+     {
       "title": "G.T.A. VI Is a Monumental Human Achievement",
       "url": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
       "source": "New York Times",
@@ -1026,7 +1079,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.82,
     "items": [
      {
       "title": "GEO oder SEO? Was Daten von 1.200 B2B-Unternehmen über den wahren Wert von KI-Traffic verraten",
@@ -1039,7 +1092,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
@@ -1052,7 +1105,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.76,
     "items": [
      {
       "title": "99,4 Prozent nach 15 Tagen zerstört: Eine einzige Atombombe im All würde fast alle Starlink-Satelliten auslöschen",
@@ -1065,7 +1118,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.74,
     "items": [
      {
       "title": "The FBI and USDA were reportedly hacked",
@@ -1078,7 +1131,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.77,
+    "score": 1.69,
     "items": [
      {
       "title": "Lassen sich Chips tracken? Was Nvidia und Branchenverbände dazu sagen",
@@ -1091,7 +1144,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.64,
     "items": [
      {
       "title": "Schwarze Löcher vor den Sternen: James-Webb-Teleskop findet Urknall-Relikte",
@@ -1104,7 +1157,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.68,
+    "score": 1.6,
     "items": [
      {
       "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
@@ -1112,45 +1165,6 @@
       "source": "The Verge",
       "date": "2026-11-21T11:00-05:00",
       "teaser": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life,"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.68,
-    "items": [
-     {
-      "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "date": "2026-11-21T11:00-05:00",
-      "teaser": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who loves displaying fam"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.67,
-    "items": [
-     {
-      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-      "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-      "source": "New York Times",
-      "date": "2026-11-21T15:55+00:00",
-      "teaser": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.59,
-    "items": [
-     {
-      "title": "Can Anthropic afford to put safety first?",
-      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "source": "The Verge",
-      "date": "2026-11-21T10:00-05:00",
-      "teaser": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver"
      }
     ]
    }
@@ -1485,7 +1499,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Tech & KI",
