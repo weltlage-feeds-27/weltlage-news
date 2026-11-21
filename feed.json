@@ -1,10 +1,37 @@
 {
- "fetchedAt": "2026-11-21T13:01:52+00:00",
+ "fetchedAt": "2026-11-21T14:05:07+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 3,
-    "score": 4.73,
+    "score": 5.99,
+    "items": [
+     {
+      "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+      "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+      "source": "France 24",
+      "date": "2026-11-21T12:35+00:00",
+      "teaser": "A Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic Sea."
+     },
+     {
+      "title": "Finland detects drone attack on Russian cargo ship in Baltic",
+      "url": "https://www.thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece",
+      "source": "The Hindu",
+      "date": "2026-11-21T19:26+05:30",
+      "teaser": "The Finnish Defence Ministry did not specify who was behind the drone strike, but Prime Minister Petteri Orpo said in a message “War is spilling over into our immediate vicinity... Ukraine has the right to fight back against the aggressor”"
+     },
+     {
+      "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-21T12:45+00:00",
+      "teaser": "Two drones attack a cargo ship close to Russia's maritime border, causing damage and crew evacuation."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 4.64,
     "items": [
      {
       "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
@@ -31,7 +58,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
+      "url": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
+      "source": "Tagesschau",
+      "date": "2026-11-20T18:44+01:00",
+      "teaser": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López."
+     },
+     {
+      "title": "Großbritannien und die EU: Ed Miliband will über alle Formen der Annäherung zur EU sprechen",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/grossbritannien-eu-ed-miliband-brexit-wiedereintritt-gxe",
+      "source": "Zeit",
+      "date": "2026-11-21T13:52+00:00",
+      "teaser": "Großbritannien und die EU wollen ihre Beziehungen wieder enger gestalten, Außenminister Miliband hält »alle Optionen« für möglich. Auch einen Wiedereintritt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.98,
     "items": [
      {
       "title": "The New Yorker's Jason Zengerle on Hakeem Jeffries' rise to first Black House speaker",
@@ -44,14 +91,14 @@
       "title": "Hakeem Jeffries Thinks He’s the Man for This Moment",
       "url": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
       "source": "New York Times (Politik)",
-      "date": "2026-11-21T10:15+00:00",
+      "date": "2026-11-21T13:54+00:00",
       "teaser": "The Democratic nominee for House speaker on investigating Trump, whether Chuck Schumer should be majority leader and if he’ll ever sit down with Stephen Miller."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.88,
     "items": [
      {
       "title": "The nation’s cartoonists on the week in politics",
@@ -71,7 +118,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.87,
     "items": [
      {
       "title": "EU eyes tax on Big Tech to boost budget",
@@ -91,27 +138,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.83,
-    "items": [
-     {
-      "title": "Iraq fire at Basra power station kills at least four, injures 30",
-      "url": "https://www.thehindu.com/news/international/fire-at-basras-hartha-power-station-in-iraq/article71727609.ece",
-      "source": "The Hindu",
-      "date": "2026-11-21T12:59+05:30",
-      "teaser": "Civil defence ‌teams brought the fire at the Hartha ‌power station north of Basra ‌under ⁠control after firefighters responded ⁠to the incident, says Iraq’s state news agency"
-     },
-     {
-      "title": "Deadly fire engulfs power station in southern Iraq",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-21T11:02+00:00",
-      "teaser": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.73,
     "items": [
      {
       "title": "Schweres Erdbeben erschüttert Peru",
@@ -131,7 +158,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.29,
+    "score": 3.21,
     "items": [
      {
       "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
@@ -151,7 +178,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.12,
+    "score": 3.03,
     "items": [
      {
       "title": "Brasilien: Ex-Präsident Jair Bolsonaro wegen Bauchschmerzen im Krankenhaus",
@@ -171,7 +198,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.1,
+    "score": 3.01,
     "items": [
      {
       "title": "Takeaways From Trump’s Post-Trip News Conference",
@@ -191,7 +218,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.89,
+    "score": 2.8,
     "items": [
      {
       "title": "Josh Shapiro on foreign policy, Democratic wins and his 2028 ambitions",
@@ -211,7 +238,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.88,
+    "score": 2.79,
     "items": [
      {
       "title": "Brooks and Capehart on Trump's summit with Putin and Xi",
@@ -228,32 +255,12 @@
       "teaser": "Standing alongside the U.S. and Chinese leaders, President Vladimir V. Putin secured a symbolic triumph in his long quest to restore Russia’s place as a global power."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.51,
-    "items": [
-     {
-      "title": "Daniel Thomas: Britischer Rechtsextremist schlitzte Flüchtlingsboot auf – 15 Monate Haft",
-      "url": "https://www.spiegel.de/ausland/daniel-thomas-britischer-rechtsextremist-schlitzte-fluechtlingsboot-auf-15-monate-haft-a-638b7171-fe37-4b5f-9bd1-354865b1f6ed#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-20T20:12+01:00",
-      "teaser": "Als Seenotretter im Ärmelkanal Menschen von einem Schlauchboot holten, schlitzte Rechtsextremist Daniel Thomas das Boot auf. Ein Richter nennt ihn nun einen »Aufmerksamkeitshascher« und verurteilt ihn zu einer Freiheitsstrafe."
-     },
-     {
-      "title": "Aktion im Ärmelkanal: Britischer Rechtsextremist muss in Haft",
-      "url": "https://www.faz.net/aktuell/politik/ausland/daniel-thomas-15-monate-haft-fuer-angriff-auf-fluechtlingsboot-201703536.html",
-      "source": "FAZ",
-      "date": "2026-11-20T18:39+00:00",
-      "teaser": "Der Aktivist Daniel Thomas filmte sich, wie er ein Schlauchboot im Ärmelkanal aufschlitzte. Nun wurde er von einem Gericht zu 15 Monaten Haft verurteilt."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.87,
     "items": [
      {
       "title": "Deutschland Liveblog: Höcke bleibt Vorsitzender des Thüringer Landesverbandes",
@@ -273,7 +280,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.37,
+    "score": 2.28,
     "items": [
      {
       "title": "Ukraine: Boris Pistorius zeigt sich offen für Gespräche mit Wladimir Putin",
@@ -293,7 +300,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.24,
+    "score": 2.15,
     "items": [
      {
       "title": "Ulrich Siegmund: Die neue Taktik der AfD: Überrumpelung",
@@ -313,7 +320,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.17,
+    "score": 2.08,
     "items": [
      {
       "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
@@ -333,7 +340,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Korruption in Ungarn: Das Ende des Paten Orbán",
+      "url": "https://www.faz.net/aktuell/politik/ausland/millionen-fund-in-ungarn-orban-und-die-korruption-201691514.html",
+      "source": "FAZ",
+      "date": "2026-11-21T13:43+00:00",
+      "teaser": "Nach dem Fund von vielen Millionen an Bargeld in ungarischen Wäldern spricht Péter Magyar vom Ende der „Fidesz-KDNP-Mafia“. Im Ton ist das übertrieben, im Kern hat Magyar aber recht."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Gerichtsverhandlung: Ex-AfD-Politiker räumt Faustschläge ein",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/ex-afd-bezirkbeirat-erfolg-vor-landgericht-100.html",
+      "source": "SWR",
+      "date": "2026-11-21T14:41+01:00",
+      "teaser": "Ein Ex-Lokalpolitiker der AfD hat den Übergriff in einer Stuttgarter Gaststätte gestanden. Dafür setzt das Landgericht seine Haftstrafe zur Bewährung aus, trotz vieler Vorstrafen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
     "items": [
      {
       "title": "Werden Weihnachtsplätzchen zum Luxusgut? Bäcker setzen auf Handarbeit und treue Kunden",
@@ -346,7 +379,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.84,
     "items": [
      {
       "title": "Hausärzte beklagen Mangel an Grippe-Impfstoff",
@@ -359,7 +392,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "Trend-Hobby \"Sondeln\": Ohne Lizenz wird die Schatzsuche teuer",
@@ -372,7 +405,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.82,
     "items": [
      {
       "title": "Heiraten ohne Trauschein: Der Trend zur \"Fake Wedding\"",
@@ -385,7 +418,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.78,
     "items": [
      {
       "title": "Gen Z-Demos in BW: Polizei zieht durchwachsene Bilanz",
@@ -398,7 +431,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.77,
     "items": [
      {
       "title": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
@@ -408,38 +441,142 @@
       "teaser": "Die EU könnte Autokonzernen erlauben, auch nach 2035 neue Verbrenner und Hybride zu verkaufen. Verkehrsminister Bilger knüpft daran eine klare Erwartung: Deutschland müsse starker Produktionstandort bleiben."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Falschfahrer-Lkw verursacht Unfall auf der A8 am Albaufstieg",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/lkw-falschfahrer-autobahn-acht-unfall-100.html",
-      "source": "SWR",
-      "date": "2026-11-21T12:06+01:00",
-      "teaser": "Ein Lkw ist am Albaufstieg der A8 bei Hohenstadt in die falsche Richtung gefahren. Der Falschfahrer verursachte am Samstagvormittag einen Unfall und fuhr danach einfach weiter."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Gen Z: Was darf Protest? Und was kann er?",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/jugendproteste-gen-z-regelt-europa-frankreich-gewalt",
-      "source": "Zeit",
-      "date": "2026-11-21T10:59+00:00",
-      "teaser": "In Europa geht die Gen Z auf die Straße. Wogegen sich die Demos richten, welche Vorbilder sie haben und wann Protest in Gewalt umschlägt."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
     "score": 1.99,
+    "items": [
+     {
+      "title": "Gniewomir Wycichowski-Kuchta: Po wyroku TSUE cudzoziemcy mogą żądać odszkodowań od państwa",
+      "url": "https://www.rp.pl/cudzoziemcy/art45514041-gniewomir-wycichowski-kuchta-po-wyroku-tsue-cudzoziemcy-moga-zadac-odszkodowan-od-panstwa",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T15:00+01:00",
+      "teaser": "Polska musi wykazać, że mimo wszelkich starań nie mogła na czas rozpatrzyć wniosków pobytowych cudzoziemców po masowym napływie osób z Ukrainy - mówi Gniewomir Wycichowski-Kuchta, ekspert ds. legislacji, współpracownik Instytutu Nauk Prawnych PAN."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Rada NATO zbierze się ws. rosyjskich rakiet nad Polską",
+      "url": "https://www.rp.pl/polityka/art45523411-rada-nato-zbierze-sie-ws-rosyjskich-rakiet-nad-polska",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T14:53+01:00",
+      "teaser": "W poniedziałek w Kwaterze Głównej NATO w Brukseli dojdzie do spotkania Rady Północnoatlantyckiej; rozmowa będzie dotyczyła naruszenia przestrzeni powietrznej Polski przez rosyjskie rakiety - poinformowały w sobotę służby prasowe Stałego Przedstawicielstwa RP przy NATO."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Wielka Brytania dogadała się z UE. Teraz Bruksela stawia twarde warunki",
+      "url": "https://www.rp.pl/dyplomacja/art45523391-wielka-brytania-dogadala-sie-z-ue-teraz-bruksela-stawia-twarde-warunki",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T14:46+01:00",
+      "teaser": "Unia Europejska i Wielka Brytania zawarły trzy porozumienia, które mają zacieśnić współpracę gospodarczą i ułatwić młodym ludziom przemieszczanie się między krajami. Jednak Bruksela grozi zablokowaniem umów. Powodem jest spór o wysokość czesnego dla studentów z UE na brytyjskich uczelniach."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Ograniczenie wszechobecnego składnika opóźnia starzenie. Naukowcy odkryli, komu szkodzi",
+      "url": "https://www.rp.pl/zdrowie/art45505881-ograniczenie-wszechobecnego-skladnika-opoznia-starzenie-naukowcy-odkryli-komu-szkodzi",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T14:42+01:00",
+      "teaser": "Białko jest obecnie dodawane nawet do kawy i wody butelkowanej, przez co osoby, które prowadzą siedzący tryb życia, mogą spożywać go więcej, niż faktycznie potrzebują. Tymczasem analiza ponad 350 badań, która została opublikowana w czasopiśmie „Cell Press Blue”, pokazała, że ograniczenie tego składn"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Atak drona na rosyjski statek handlowy w Zatoce Fińskiej. Jednostka stanęła w płomieniach",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33144336,atak-drona-na-rosyjski-statek-handlowy-w-zatoce-finskiej-jednostka.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-21T13:30+00:00",
+      "teaser": "Ministerstwo obrony Finlandii przekazało, że armia wykryła w sobotę atak na rosyjski statek handlowy. Jednostka znajdowała się na wodach międzynarodowych we wschodniej części Zatoki Fińskiej."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Zełenski mówił o rozmowach pokojowych. Wspomniał o Polsce",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45523371-zelenski-mowil-o-rozmowach-pokojowych-wspomnial-o-polsce",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T14:23+01:00",
+      "teaser": "Bez Polski nie może być negocjacji pokojowych, podobnie jak bez innych państw Europy, które będą reprezentowane przez pięć krajów: Wielką Brytanię, Niemcy, Francję, Włochy i Polskę, tworzących grupę E5 - oświadczył w sobotę prezydent Ukrainy Wołodymyr Zełenski."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Kopenhaga chce ostrzejszych zasad UE dla Rosjan po próbie zamachu na ukraińskiego rapera",
+      "url": "https://www.dw.com/pl/kopenhaga-chce-ostrzejszych-zasad-ue-dla-rosjan-po-próbie-zamachu-na-ukraińskiego-rapera/a-80009657?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-21T13:25+00:00",
+      "teaser": "Dania domaga się zaostrzenia unijnych ograniczeń wjazdowych dla Rosjan po udaremnionej próbie zamachu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Chcą odsunąć Infantino od władzy. Francuz i Japończyk kandydatami na szefa FIFA",
+      "url": "https://sport.rp.pl/pilka-nozna/art45523281-chca-odsunac-infantino-od-wladzy-francuz-i-japonczyk-kandydatami-na-szefa-fifa",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T14:11+01:00",
+      "teaser": "Francuz Philippe Diallo i Japończyk Kozo Tashima mają stanąć do walki w marcowych wyborach na szefa FIFA. Pozbawienie władzy Gianniego Infantino nie będzie jednak takie proste."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Adam Pantak: Internauci uwierzyli, że TK przejęła Karolina Korwin-Piotrowska. Na co były lekcje WOS-u?",
+      "url": "https://www.rp.pl/rzecz-o-prawie/art45431721-adam-pantak-internauci-uwierzyli-ze-tk-przejela-karolina-korwin-piotrowska-na-co-byly-lekcje-wos-u",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T14:04+01:00",
+      "teaser": "Naprawę państwa prawa zacznijmy od opowiedzenia obywatelom, czym jest i czym powinien być Trybunał Konstytucyjny. Łatwość, z jaką internauci uwierzyli w to, że dziennikarka zastąpiła Bogdana Święczkowskiego, pokazuje głęboką nieznajomość ustawy zasadniczej."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Zacharowa zarzuciła Trzaskowskiemu hipokryzję. Zareagował. \"Niech wytłumaczy się z piątkowego poranka\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33144282,zacharowa-zarzucila-trzaskowskiemu-hipokryzje-zareagowal-niech.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-21T13:04+00:00",
+      "teaser": "\"Uderz w stół, a nożyce się odezwą\" - tak prezydent Warszawy Rafał Trzaskowski skomentował wypowiedź rzeczniczki MSZ Rosji Marii Zacharowej. Wcześniej zarzucała ona włodarzowi polskiej stolicy \"hipokryzję\" w kwestii napisów, które pojawiły się na warszawskich pomnikach."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Polregio musi wycofać ponad sto pociągów w pięć lat. Prezes: Jeżeli nic nie zrobimy, nie będzie czym wozić pasażerów",
@@ -452,7 +589,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.88,
     "items": [
      {
       "title": "Ukraina uderzyła w nocy. Trafiła w skład amunicji na Krymie i ważny most pod Ługańskiem",
@@ -462,142 +599,12 @@
       "teaser": "Siły Obrony Ukrainy zaatakowały w nocy z piątku na sobotę skład amunicji na okupowanym Krymie, dwa stanowiska dowodzenia wojsk rosyjskich w obwodach zaporoskim i donieckim, a także most drogowy w pobliżu Ługańska – poinformował Sztab Generalny Sił Zbrojnych Ukrainy."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Unia Europejska opracowuje broń do ataku z orbity",
-      "url": "https://radar.rp.pl/przemysl-zbrojeniowy/art45523221-unia-europejska-opracowuje-bron-do-ataku-z-orbity",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T13:35+01:00",
-      "teaser": "Do tej pory kraje Wspólnoty polegały na Stanach Zjednoczonych w kwestii obrony w przypadku konfliktu z Rosją. Teraz nie chcą już liczyć tylko na USA i projektują własną broń orbitalną."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Najtrudniejsza sytuacja w Nowym Lipowcu. Służby wydobywają szczątki rosyjskiego obiektu",
-      "url": "https://www.rp.pl/sluzby/art45523291-najtrudniejsza-sytuacja-w-nowym-lipowcu-sluzby-wydobywaja-szczatki-rosyjskiego-obiektu",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T13:21+01:00",
-      "teaser": "Prokuratura prowadzi czynności w trzech miejscach upadku rosyjskich obiektów. Najtrudniejsza sytuacja jest w Nowym Lipowcu, gdzie stwierdzono największe potencjalne zagrożenie pirotechniczne. Służby wydobywają szczątki obiektów i zabezpieczają materiał dowodowy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Rosyjskie obiekty w Polsce. Prokurator: Najtrudniejsza sytuacja jest w Nowym Lipowcu",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33144299,rosyjskie-obiekty-w-polsce-prokurator-najtrudniejsza-sytuacja.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-21T11:58+00:00",
-      "teaser": "- Pirotechnicy przy użyciu sprzętu ciężkiego wydobywają poszczególne elementy tych obiektów - przekazał w sobotę wczesnym popołudniem prok. Marcin Kozak z Prokuratury Okręgowej w Lublinie, nawiązując do piątkowego przekroczenia przestrzeni powietrznej przez trzy obiekty. Jak dodał, szczątki zostaną "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Bild: Szef AfD chce deportacji nawet 2,6 mln osób",
-      "url": "https://www.dw.com/pl/bild-szef-afd-chce-deportacji-nawet-2-6-mln-osób/a-80009253?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-21T11:35+00:00",
-      "teaser": "Współprzewodniczący AfD Tino Chrupalla uważa, że uchodźcy z Ukrainy, Afganistanu czy Syrii powinni opuścić Niemcy, gdy tylko sytuacja polityczna w ich ojczyznach pozwoli na powrót."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Trzy obiekty spadły w Polsce. Sikorski zapowiada reakcję wobec Rosji",
-      "url": "https://www.rp.pl/polityka/art45523241-trzy-obiekty-spadly-w-polsce-sikorski-zapowiada-reakcje-wobec-rosji",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T12:27+01:00",
-      "teaser": "Będziemy komunikować nasze ekstremalne niezadowolenie stronie rosyjskiej - powiedział wicepremier, minister spraw zagranicznych Radosław Sikorski, komentując piątkowe naruszenie polskiej przestrzeni powietrznej. Dodał, że rząd czeka na jednoznaczne potwierdzenie „twardych faktów”."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Z pojezierza do aglomeracji. Rutkowski Group stawia na ekspansję",
-      "url": "https://www.rp.pl/nieruchomosci/art45519331-z-pojezierza-do-aglomeracji-rutkowski-group-stawia-na-ekspansje",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T12:05+01:00",
-      "teaser": "W największych aglomeracjach będzie się koncentrować znaczną część popytu mieszkaniowego, nie oznacza to jednak rezygnacji z rynków regionalnych. Mieszkańcy mniejszych miast również chcą poprawiać jakość życia – mówi Kamil Rutkowski, prezes Rutkowski Group."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Gdzie trzymać pieniądze i jaki bank wybrać na wypadek wojny? Eksperci wskazują",
-      "url": "https://www.rp.pl/banki/art45520071-gdzie-trzymac-pieniadze-i-jaki-bank-wybrac-na-wypadek-wojny-eksperci-wskazuja",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T12:00+01:00",
-      "teaser": "W sytuacji kryzysu czy cyberataku możemy z dnia na dzień stracić dostęp do pieniędzy na koncie. Bankomaty mogą zostać bez gotówki, a bankowość przestać działać. Jak zabezpieczyć się przed takim zagrożeniem? Czy bezpieczniej wybrać bank państwowy, czy prywatny? Czy jedno konto wystarczy? Gdzie trzyma"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Gen. Polko mówi o rosyjskich obiektach nad Polską. „Okazaliśmy się nieskuteczni”",
-      "url": "https://www.rp.pl/wojsko/art45523211-gen-polko-mowi-o-rosyjskich-obiektach-nad-polska-okazalismy-sie-nieskuteczni",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T11:56+01:00",
-      "teaser": "Po tym, jak trzy rosyjskie obiekty spadły w Polsce, gen. Roman Polko odniósł się do decyzji pilota, który miał zgodę na zestrzelenie jednego z nich, ale nie oddał strzału. Zdaniem byłego dowódcy GROM-u pilot mógł obawiać się, że przy ograniczonej widoczności rakieta trafi w cel cywilny."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Szef NATO o rosyjskich obiektach w Polsce. Skomentował współpracę Nawrockiego i Tuska",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33144268,szef-nato-o-rosyjskich-obiektach-w-polsce-skomentowal-wspolprace.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-21T11:03+00:00",
-      "teaser": "- Jestem pod olbrzymim wrażeniem tego, w jaki sposób w Polsce współpracują przedstawiciele różnych ośrodków władzy. Zarówno premier, jak i prezydent pozostają zjednoczeni w kwestiach obronności - stwierdził w sobotę w rozmowie z TVP Info sekretarz generalny NATO Mark Rutte. Nawiązał tym samym do pią"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "Kto zostanie dziewczyną Bonda?",
-      "url": "https://www.rp.pl/film/art45522531-kto-zostanie-dziewczyna-bonda",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T11:48+01:00",
-      "teaser": "Wiadomo już, że nowym Bondem będzie Robert Pattinson. Teraz przyszła więc kolej na znalezienie mu dziewczyny."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.69,
+    "score": 5.6,
     "items": [
      {
       "title": "Nvidia: US-Börsenaufsicht ermittelt gegen Chip-Riesen",
@@ -624,7 +631,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.23,
+    "score": 3.15,
     "items": [
      {
       "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
@@ -644,27 +651,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.06,
-    "items": [
-     {
-      "title": "Bayer: Gericht genehmigt milliardenschweren Glyphosat-Vergleich",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-gericht-genehmigt-7-25-milliarden-glyphosat-vergleich-201703914.html",
-      "source": "FAZ",
-      "date": "2026-11-20T22:18+00:00",
-      "teaser": "Nachdem Bayer schon vor dem Supreme Court Recht bekommen hatte, nimmt der Dax-Konzern nun eine weitere Hürde. Das dürfte der langersehnte Schlussstrich für die Prozesse sein, die Bayer Milliarden gekostet haben."
-     },
-     {
-      "title": "Unkrautvernichter Roundup: US-Gericht genehmigt Milliardenvergleich von Bayer im Glyphosatstreit",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/bayer-usa-roundup-glyphosat-sammelklage-monsanto-gericht-gebilligt",
-      "source": "Zeit",
-      "date": "2026-11-21T01:43+00:00",
-      "teaser": "Pharmakonzern Bayer will den jahrelangen Streit um das Krebsrisiko von Glyphosat mit Milliardenzahlungen an Kläger beilegen. Ein Richter billigte das Angebot als »fair«."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.59,
+    "score": 2.5,
     "items": [
      {
       "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
@@ -684,7 +671,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.33,
+    "score": 2.24,
     "items": [
      {
       "title": "Schneller Schlau: Bier auf dem Rückzug",
@@ -700,24 +687,50 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Kommentar: Neue Phase an den Börsen – drei Thesen zum Chaos an den Märkten",
-      "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-neue-phase-an-den-boersen-drei-thesen-zum-chaos-an-den-maerkten/100271740.html",
+      "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
+      "url": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
+      "source": "New York Times",
+      "date": "2026-11-21T14:01+00:00",
+      "teaser": "The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+      "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+      "source": "New York Times",
+      "date": "2026-11-21T13:57+00:00",
+      "teaser": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "EU-Haushalt: Diese Steuer aus Brüssel wird Donald Trump nicht gefallen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/eu-digitalsteuer-costas-plan-fuer-den-haushalt-und-trumps-moegliche-reaktion-accg-201704604.html",
+      "source": "FAZ",
+      "date": "2026-11-21T13:38+00:00",
+      "teaser": "Mit einer neuen Digitalsteuer will EU-Ratspräsident Costa den Streit um das EU-Budget 2028 bis 2034 lösen. Bundeskanzler Merz aber bleibt dabei: Die Ausgaben sind zu hoch."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "COP31: Die Weltklimakonferenz ringt weiter um ein Abschlussdokument",
+      "url": "https://www.handelsblatt.com/politik/deutschland/cop31-die-weltklimakonferenz-ringt-weiter-um-ein-abschlussdokument/100270720.html",
       "source": "Handelsblatt",
-      "date": "2026-11-21T12:55+00:00",
-      "teaser": "Der dunkelgraue Freitag läutet eine raue Zeit an den US-Börsen ein. Es wird sehr viel schwieriger, Orientierung zu finden. Doch gerade die Furcht der Investoren gibt Anlass zur Zuversicht."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-21T13:36+01:00",
-      "teaser": "Der im Sommer verstorbene Klaus-Michael Kühne war einer der prägendsten Unternehmer der deutschen Nachkriegsgeschichte. Sein Umgang mit der Vergangenheit seines Imperiums war umstritten. Was wird daraus? Von Sandra Biegger."
+      "date": "2026-11-21T13:32+00:00",
+      "teaser": "Das Verbrennen von Öl, Gas und Kohle lässt die Klimakrise eskalieren. Doch werden sie in der Abschlusserklärung erwähnt? Das ist nur eine der Fragen, um die man in Antalya streitet."
      }
     ]
    },
@@ -726,24 +739,37 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Wohnen im Alter: Das Geschäft mit den Senioren-Wohnungen boomt",
-      "url": "https://www.handelsblatt.com/finanzen/immobilien/galeria-kaufhaeuser-als-seniorenwohnung-geht-so-wohnen-im-alter/100270250.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-21T12:12+00:00",
-      "teaser": "Bis 2055 könnten 7,6 Millionen Deutsche pflegebedürftig sein. Wo sollen sie leben? Besuche in Luxusheimen und in früheren Kaufhäusern zeigen Lösungen."
+      "title": "Nvidia und Anthropic: Das steckt hinter dem Börsenbeben",
+      "url": "https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-21T14:13+01:00",
+      "teaser": "An den Finanzmärkten geht die Angst um. Die Kurse vieler Techaktien stürzen ab. Der Chiphersteller Nvidia hat binnen weniger Wochen fast die Hälfte seines Börsenwerts verloren. Was ist da los? Was Sie jetzt wissen müssen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.92,
     "items": [
      {
-      "title": "Sessions offer advice on rising energy costs",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-21T12:09+00:00",
-      "teaser": "A council is urging people to seek support with rising energy costs on heating this winter."
+      "title": "Psychische Belastungen: Die Leiden einer Krisengeneration",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mentale-gesundheit-junger-menschen-was-der-oecd-bericht-zeigt-accg-201695949.html",
+      "source": "FAZ",
+      "date": "2026-11-21T13:06+00:00",
+      "teaser": "Um die mentale Gesundheit junger Menschen steht es seit Jahren schlecht. Woher das kommt und was es anrichtet, ist bekannt – trotzdem sind die Versäumnisse groß."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Yale-Ökonomin Currie: „Es gibt keine neue Krise der mentalen Gesundheit“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schaden-die-sozialen-medien-der-psychischen-gesundheit-von-jugendlichen-accg-201624549.html",
+      "source": "FAZ",
+      "date": "2026-11-21T13:04+00:00",
+      "teaser": "Die sozialen Medien machen unsere Kinder krank, glauben viele. Die Gesundheitsökonomin Janet Currie widerspricht – und sagt, wovon die mentale Gesundheit von Teenagern wirklich abhängt."
      }
     ]
    },
@@ -752,37 +778,11 @@
     "score": 1.91,
     "items": [
      {
-      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-      "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-      "source": "CNBC",
-      "date": "2026-11-21T12:00+00:00",
-      "teaser": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Klimaschutzmaßnahmen: Diese Länder hängen uns beim Klimaschutz ab",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/klimaschutzmassnahnen-vergleich-laender-griechenland-china",
-      "source": "Zeit",
-      "date": "2026-11-21T11:40+00:00",
-      "teaser": "Deutschland war einst Vorreiter der erneuerbaren Energien, heute haben andere die Führung übernommen. Was Griechenland, Indien und selbst die USA besser machen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-      "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+      "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+      "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
       "source": "The Guardian",
-      "date": "2026-11-21T11:33+00:00",
-      "teaser": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said. The foreign secretary said “all option"
+      "date": "2026-11-21T13:00+00:00",
+      "teaser": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful i"
      }
     ]
    }
@@ -790,21 +790,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.99,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Flick acepta que Raphinha se quedara con Brasil pero avisa: \"Aquí lo da todo\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253721/flick-raphinha.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-21T13:54+01:00",
-      "teaser": "Hansi Flick está muy satisfecho con lo que Raphinha le da cuando está en la dinámica del Barça . El técnico quiso refrendarlo en la rueda de prensa previa al partido de mañana (14 h./DAZN) ante el Villarreal en el Spotify Camp Nou después de que el brasileño se quedara tres días más en Singapur pese"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.98,
+    "score": 7.9399999999999995,
     "favorite": true,
     "items": [
      {
@@ -818,21 +804,75 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.97,
+    "score": 7.93,
     "favorite": true,
     "items": [
      {
-      "title": "Hamza, citado por el Barça Atlètic para el derbi, pero caen Gariba y Caicedo",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253690/hamza.html",
+      "title": "Hernández Hernández pitará el Barça-Villarreal",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253727/hernandez-hernandez-pitara-barca-villarreal.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-21T13:38+01:00",
-      "teaser": "Juliano Belletti ha facilitado este mediodía la composición de la lista de convocados para el trascendental pulso de filiales que se juega esta tarde (18.00 horas, Esport 3) en la Ciutat Esportiva Dani Jarque. El Barça Atlètic , líder del Grupo 2 de la Segunda RFEF, visita a un Espanyol B situado a "
+      "date": "2026-11-21T14:14+01:00",
+      "teaser": "Ya se conoce el colegiado que pitará mañana (14 h./DAZN) el duelo en el Spotify Camp Nou entre el Barcelona y el Villarreal . Se trata del internacional mundialista Alejandro Hernández Hernández . Se trata de la primera vez que el canario pita al equipo azulgrana si lo hizo con el equipo amarillo en"
      }
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.86,
+    "sourceCount": 1,
+    "score": 7.9,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Flick acepta que Raphinha se quedara con Brasil pero avisa: \"Aquí lo da todo\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253721/flick-raphinha.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-21T13:54+01:00",
+      "teaser": "Hansi Flick está muy satisfecho con lo que Raphinha le da cuando está en la dinámica del Barça . El técnico quiso refrendarlo en la rueda de prensa previa al partido de mañana (14 h./DAZN) ante el Villarreal en el Spotify Camp Nou después de que el brasileño se quedara tres días más en Singapur pese"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 4.01,
+    "items": [
+     {
+      "title": "Borussia Dortmund vs. Borussia Mönchengladbach: Die denkwürdigsten Spiele",
+      "url": "https://www.11freunde.de/bundesliga/borussia-dortmund-vs-borussia-moenchengladbach-die-denkwuerdigsten-spiele-a-b808120a-400a-4b35-a7ad-a585de3ca343#ref=rss",
+      "source": "11 Freunde",
+      "date": "2026-11-21T11:00+01:00",
+      "teaser": "Borussia Mönchengladbach gegen Borussia Dortmund – ein Duell mit denselben Vereinsnamen, das schon oft Geschichte geschrieben hat. Wir präsentieren zehn besondere Partien der gemeinsamen Borussen-Geschichte."
+     },
+     {
+      "title": "Live hören: Borussia Mönchengladbach gegen Borussia Dortmund - Bundesliga",
+      "url": "https://www.sportschau.de/fussball/bundesliga/borussia-moenchengladbach-gegen-borussia-dortmund,audiostream-borussia-moenchengladbach-gegen-borussia-dortmund-106.html",
+      "source": "Sportschau",
+      "date": "2026-11-21T15:15+01:00",
+      "teaser": "10. Spieltag: Anpfiff des Spiels ist am 21.11.2026 um 15:30 Uhr. Borussia Dortmund spielt in Mönchengladbach."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
+      "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+      "source": "The Guardian",
+      "date": "2026-11-20T22:43+00:00",
+      "teaser": "England forward injured in Friday’s 1-1 draw with Cologne Club statement confirms ‘tear of ligament in left ankle’ Bayern Munich have confirmed Harry Kane will be “out for the next few months” with ankle ligament damage sustained in their 1-1 draw with Cologne on Friday. Kane was substituted after 2"
+     },
+     {
+      "title": "Bayern draw with Cologne as Kane picks up ankle injury",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-21T13:29+00:00",
+      "teaser": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.77,
     "items": [
      {
       "title": "Schock für Bayern: Harry Kane bei 1:1 gegen Köln schwer verletzt",
@@ -844,22 +884,15 @@
      {
       "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
       "url": "https://www.sportschau.de/fussball/bundesliga/fc-bayern-muenchen-mehrere-monate-ohne-harry-kane,kane-verletzung-100.html",
-      "source": "Sportschau",
+      "source": "Sportschau (alle Sportarten)",
       "date": "2026-11-21T12:22+01:00",
       "teaser": "Der FC Bayern München muss monatelang auf Starstürmer Harry Kane verzichten. Der Engländer zog sich einen Riss des Syndesmosebandes zu und ist schon operiert worden."
-     },
-     {
-      "title": "FC Bayern München: Harry Kane fällt nach Bänderriss im Sprunggelenk mehrere Monate aus",
-      "url": "https://www.zeit.de/sport/2026-11/harry-kane-verletzt-fc-bayern-syndesmoseriss-joel-schmied-gxe",
-      "source": "Zeit",
-      "date": "2026-11-21T10:42+00:00",
-      "teaser": "Beim Bundesligaspiel gegen den 1. FC Köln hat sich Harry Kane schwer verletzt. Nach Angaben von Bayern-Sportvorstand Eberl fällt der Stürmer mehrere Monate aus."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 2.8,
+    "score": 2.71,
     "items": [
      {
       "title": "Tom Brady steigt offenbar beim FC Chelsea ein",
@@ -879,7 +912,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.52,
+    "score": 2.43,
     "items": [
      {
       "title": "Live hören: FC St. Pauli gegen VfL Bochum - 2. Bundesliga",
@@ -892,79 +925,53 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
     "items": [
      {
-      "title": "Bayern vermeldet 500.000 Mitglieder - und nähert sich \"magischer\" Umsatz-Marke",
-      "url": "https://www.kicker.de/bayern-vermeldet-500000-mitglieder-und-naehert-sich-magischer-umsatz-marke-1273453/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-21T12:56+00:00",
-      "teaser": "Auf der Jahreshauptversammlung des FC Bayern präsentiert Herbert Hainer eine neue Mitglieder-Marke, CEO Jan-Christian Dreesen legt mit einem Umsatzrekord nach."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "4:3 in Essen: RWE bringt dem BVB die erste Niederlage bei",
-      "url": "https://www.kicker.de/4-3-in-essen-rwe-bringt-dem-bvb-die-erste-niederlage-bei-1241394/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-21T12:56+00:00",
-      "teaser": "Am 12. Spieltag in der U-19-Nachwuchsliga hat der BVB seine erste Saisonniederlage kassiert - und wie: Die U 19 von Rot-Weiss Essen sorgte im Derby für einen 4:3-Paukenschlag."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Tennis-Legende Nadal in Real-Vorstand gewählt",
-      "url": "https://www.kicker.de/tennis-legende-nadal-in-real-vorstand-gewaehlt-1273482/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-21T12:44+00:00",
-      "teaser": "Rafael Nadal ist in den Vorstand des spanischen Rekordmeisters Real Madrid gewählt worden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Jetzt live - Nürnberg führt, Fürth in Hannover vorne",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3957/",
+      "title": "2. Bundesliga: Taibi trifft - Hannover 96 jubelt spät gegen Greuther Fürth",
+      "url": "https://www.sportschau.de/fussball/bundesliga2/taibi-trifft-hannover-jubelt-spaet-gegen-fuerth,spielbericht-hannover-96-greuther-fuerth-102.html",
       "source": "Sportschau",
-      "date": "2026-11-21T13:49+01:00",
-      "teaser": "In der 2. Bundesliga empfängt Nürnberg die Eintracht aus Braunschweig, Hannover und Fürth kämpfen gegen die Abstiegsangst und Kiel ist mit neuem Trainerteam in Wolfsburg zu Gast."
+      "date": "2026-11-21T15:02+01:00",
+      "teaser": "Waniss Taibi sei Dank: Hannover 96 durfte nach durchwachsener Leistung ganz spät gegen die SpVgg Greuther Fürth jubeln."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Holstein Kiel verliert bei Kniat-Debüt deutlich beim VfL Wolfsburg",
+      "url": "https://www.sportschau.de/regional/ndr/vfl-wolfsburg-jubelt-weil-holstein-kiel-bei-kniat-debuet-dreifach-patzt,wolfsburgkiel-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-21T14:56+01:00",
+      "teaser": "Aufstiegsanwärter Wolfsburg hat das Nordduell der 2. Bundesliga gegen Kiel klar für sich entschieden und das Holstein-Debüt von Mitch Kniat verdorben."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
       "title": "Manchester City v Fulham: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live",
       "source": "The Guardian",
-      "date": "2026-11-21T12:44+00:00",
+      "date": "2026-11-21T13:59+00:00",
       "teaser": "⚽️ Premier League updates from the 12.30pm GMT kick-off ⚽️ Live scores | Table | Follow on TikTok | And email Barry Elsewhere in Manchester: Maine Road FC,who play in English football’s tenth tier, aim to become a new home for any Manchester City supporters disillusioned by the possible consequences"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
     "items": [
      {
-      "title": "Mika Baza, a las órdenes de Hansi Flick",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253549/mika-baza-ordenes-hansi-flick.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-21T13:37+01:00",
-      "teaser": ""
+      "title": "Nebel verhindert Aichers nächsten Slalom-Coup",
+      "url": "https://www.sportschau.de/wintersport/ski-alpin/nebel-verhindert-naechsten-aicher-coup-in-gurgl-,rennbericht-gurgl-slalom-frauen-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-21T14:56+01:00",
+      "teaser": "Beim zweiten Weltcup-Slalom des Winters in Gurgl reicht es für Emma Aicher \"nur\" zu Platz acht. Eine Nebelfahrt im ersten Lauf verhindert ein besseres Ergebnis."
      }
     ]
    }
@@ -972,7 +979,7 @@
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 4.66,
+    "score": 4.57,
     "items": [
      {
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -999,7 +1006,111 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Anzeige: IT-Jobs in Administration, Data Engineering und Security",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-administration-data-engineering-und-security-2611-215439.html",
+      "source": "Golem",
+      "date": "2026-11-21T15:00+01:00",
+      "teaser": "Ob IT-Security im Ministerium, Data Engineering im Rettungsdienst oder Systemadministration in Unternehmen - diese sechs Jobs bieten neue Perspektiven. ( Golem Karrierewelt , Unternehmenssoftware )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+      "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+      "source": "New York Times",
+      "date": "2026-11-21T13:57+00:00",
+      "teaser": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "date": "2026-11-21T09:00-05:00",
+      "teaser": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Starker Start an der Börse: Wird Anthropic den Erfolgskurs halten können?",
+      "url": "https://t3n.de/news/starker-start-an-der-boerse-wird-anthropic-den-erfolgskurs-halten-koennen-1774672/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-21T14:12+01:00",
+      "teaser": "Der Börsengang fiel in eine Zeit starker Verunsicherung. Nicht nur der abflauende KI-Boom löst in Anleger:innen Sorgen aus. Auch der Skandal um den ehemaligen Nvidia-CEO wirkt sich auf die gesamte Branche aus. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Wenn Mitarbeiter mehr wissen als der Chef: So beeinflusst KI die Führungsposition",
+      "url": "https://t3n.de/news/ki-fuehrung-mitarbeiter-wissen-chef-1772449/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-21T14:00+01:00",
+      "teaser": "Wirtschaftspsychologe Ali Ergün forscht dazu, wie KI die Rollen von Führungskräften und Mitarbeitenden zukünftig verändern wird. Warum Chef:innen zukünftig ihr weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+      "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+      "source": "The Verge",
+      "date": "2026-11-21T08:00-05:00",
+      "teaser": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was […]"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "The game of the year is finally here",
+      "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+      "source": "The Verge",
+      "date": "2026-11-21T08:00-05:00",
+      "teaser": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclea"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "The Outages Are Just Getting Started",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "source": "Wired",
+      "date": "2026-11-21T13:00+00:00",
+      "teaser": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "Anzeige: Black Deal bei Blau - iPhone 18 Pro mit 100 GByte Datenvolumen für 1 Euro",
@@ -1012,7 +1123,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "5 Minuten Ladezeit: BYD präsentiert Ladestation mit Roboter-Technik",
@@ -1025,7 +1136,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "“Race realism” isn’t realistic—and it isn’t good science",
@@ -1033,110 +1144,6 @@
       "source": "Ars Technica",
       "date": "2026-11-21T12:01+00:00",
       "teaser": "Modern genetics does not support claims of innate racial differences in intelligence."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-      "source": "Wired",
-      "date": "2026-11-21T12:01+00:00",
-      "teaser": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
-      "source": "The Verge",
-      "date": "2026-11-21T07:00-05:00",
-      "teaser": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
-      "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
-      "source": "Wired",
-      "date": "2026-11-21T12:00+00:00",
-      "teaser": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
-      "url": "https://www.wired.com/review/sony-bravia-9-ii/",
-      "source": "Wired",
-      "date": "2026-11-21T11:30+00:00",
-      "teaser": "The Bravia 9 II comes at a premium cost but offers great, highly customizable features."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
-      "url": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
-      "source": "Wired",
-      "date": "2026-11-21T11:30+00:00",
-      "teaser": "Get WIRED-tested vacuum cleaners, carpet cleaners, and steam mops for up to 60 percent off."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Nach Huangs Rücktritt: Welcher Tech-CEO tappt als Nächstes in die Honigfalle?",
-      "url": "https://t3n.de/news/nach-huangs-ruecktritt-welcher-tech-ceo-tappt-als-naechstes-in-die-honigfalle-1774666/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-21T12:24+01:00",
-      "teaser": "Das Risiko, Opfer der Methode zu werden, nimmt zu. Laut einem ehemaligen CIA-Beamten seien dabei nicht nur Führungskräfte gefährdet. Auch normale Angestellte können als Quelle sensibler Informationen dienen. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Fritzbox-Update-Check: Wie lange wird dein Router noch unterstützt?",
-      "url": "https://t3n.de/news/fritzbox-support-updates-sicherheits-check-1771148/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-21T12:15+01:00",
-      "teaser": "Regelmäßig schiebt Fritz Updates und Laborversionen mit neuen Funktionen für Fritzboxen und -Repeater heraus. Doch wie lange wird der eigene Router zu Hause noch mit Aktualisierungen versorgt? Darüber gibt eine Tabelle des Herstellers Aufschluss. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Anthropic: Mathematiker will mit Claude Riemann-Vermutung gelöst haben",
-      "url": "https://www.golem.de/news/anthropic-mathematiker-will-mit-claude-riemann-vermutung-geloest-haben-2611-215500.html",
-      "source": "Golem",
-      "date": "2026-11-21T12:06+01:00",
-      "teaser": "Levent Alpöge will mit Claude die Riemann-Vermutung bewiesen haben. Die Prüfung des Lean-Codes läuft noch. ( Claude , Wissen )"
      }
     ]
    }
@@ -1417,7 +1424,7 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "topic": "Sport",
