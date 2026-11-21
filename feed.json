@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-21T20:49:52+00:00",
+ "fetchedAt": "2026-11-21T21:48:12+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 5,
-    "score": 9.87,
+    "sourceCount": 6,
+    "score": 11.92,
     "items": [
      {
       "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -31,7 +31,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.94,
+    "score": 7.93,
     "items": [
      {
       "title": "FBI criminal database hacked",
@@ -41,24 +41,24 @@
       "teaser": "The FBI is investigating a reported major cyberattack targeting its national law enforcement database, the National Crime Information Center (NCIC), which holds sensitive criminal justice records, including information on fugitives, missing persons, criminal histories and stolen property. President "
      },
      {
+      "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
+      "url": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+      "source": "PBS NewsHour",
+      "date": "2026-11-21T15:55-05:00",
+      "teaser": "The National Crime Information Center, known as the NCIC, is a computerized database of criminal justice information that is available to local, state and federal law enforcement agencies and includes records on fugitives, missing persons, criminal history data, stolen property and other topics."
+     },
+     {
       "title": "FBI investigating apparent hack of its criminal database",
       "url": "https://www.cbc.ca/player/play/9.7431322?cmp=rss",
       "source": "CBC",
       "date": "2026-11-21T12:36-05:00",
       "teaser": "The FBI is investigating a reported breach of its criminal information database, according to U.S. media reports. This is the second time the FBI has been the target of a cyberattack since September."
-     },
-     {
-      "title": "FBI database reportedly hacked",
-      "url": "https://www.abc.net.au/news/2026-11-22/fbi-database-hacked-according-to-media-outlets/107413682",
-      "source": "ABC Australia",
-      "date": "2026-11-21T20:03+00:00",
-      "teaser": "The FBI and US Agriculture Department have been targeted in apparent cyber attacks, according to reports from multiple media outlets."
      }
     ]
    },
    {
     "sourceCount": 4,
-    "score": 7.92,
+    "score": 7.84,
     "items": [
      {
       "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
@@ -85,7 +85,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.88,
+    "score": 5.79,
     "items": [
      {
       "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
@@ -111,62 +111,68 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.76,
+    "sourceCount": 2,
+    "score": 3.94,
     "items": [
      {
-      "title": "Israeli strike kills 3 in vehicle distributing aid in Gaza, witnesses say",
-      "url": "https://www.cbc.ca/news/world/israel-strike-gaza-aid-vehicle-9.7431224?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-21T09:38-05:00",
-      "teaser": "Israeli forces on Saturday hit a truck in Gaza, which witnesses said was carrying food and papers bearing the ‌logo of the World Central Kitchen charity, but the organization said the vehicle was not affiliated with it."
+      "title": "Mexico captures drug kingpin on FBI’s most wanted list",
+      "url": "https://www.scmp.com/news/world/americas/article/3375342/mexico-captures-drug-kingpin-fbis-most-wanted-list",
+      "source": "South China Morning Post",
+      "date": "2026-11-21T14:00+00:00",
+      "teaser": "Mexico’s military announced on Saturday that it had captured the leader of a drug-trafficking group who was among the 10 most-wanted fugitives sought by US law enforcement. Fausto Isidro Meza, alias “Chapo Isidro”, and two other leaders of his drug gang were captured during a special forces raid on "
      },
      {
-      "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
-      "url": "https://www.thehindu.com/news/international/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say/article71729327.ece",
-      "source": "The Hindu",
-      "date": "2026-11-21T22:29+05:30",
-      "teaser": "Afterwards, meals of cooked rice were scattered around the vehicle, which was partially covered in the blood of the victims of the attack"
-     },
-     {
-      "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-21T17:54+00:00",
-      "teaser": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.71,
-    "items": [
-     {
-      "title": "Man convicted of starting palisades fire",
-      "url": "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
-      "source": "France 24",
-      "date": "2026-11-21T17:21+00:00",
-      "teaser": "A Los Angeles County jury found former rideshare driver Jonathan Rinderknecht guilty on Friday of starting the 2025 Palisades fire, which caused widespread destruction and loss of life. He faces a prison sentence of between five and 40 years. Liza Kaminov has more."
-     },
-     {
-      "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
-      "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
-      "source": "PBS NewsHour",
-      "date": "2026-11-20T19:01-05:00",
-      "teaser": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial."
-     },
-     {
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-21T04:34+00:00",
-      "teaser": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
+      "date": "2026-11-21T21:05+00:00",
+      "teaser": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.89,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "UN talks on AI in warfare end with no commitment to binding rules",
+      "url": "https://www.cbc.ca/news/world/ai-warfare-regulations-un-talks-9.7431398?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-21T16:05-05:00",
+      "teaser": "UN-backed talks this week on regulating AI in warfare ended Saturday with nations agreeing to further discussion, but without a consensus on developing firm rules on how to rein in deadly autonomous weapons."
+     },
+     {
+      "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "source": "NPR",
+      "date": "2026-11-21T09:18-05:00",
+      "teaser": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
+      "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+      "source": "France 24",
+      "date": "2026-11-21T20:49+00:00",
+      "teaser": "Israeli opposition leader Gadi Eisenkot has invited caretaker prime minister Benjamin Netanyahu's right-wing Likud party for coalition talks, his centrist Yashar party said Saturday. The \"marathon series of talks\" starts Sunday, the party said, adding that the move reflected a commitment to form \"th"
+     },
+     {
+      "title": "Eisenkot invites Netanyahu's party to Israeli coalition talks",
+      "url": "https://www.abc.net.au/news/2026-11-22/gadi-eisenkot-invites-benjamin-netanyahu-israeli-coalition-talks/107413714",
+      "source": "ABC Australia",
+      "date": "2026-11-21T20:41+00:00",
+      "teaser": "Gadi Eisenkot's Yashar party has invited Israeli Prime Minister Benjamin Netanyahu's Likud party to coalition talks."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.81,
     "items": [
      {
       "title": "Finnland: Russisches Frachtschiff nach Drohnenangriff in Brand",
@@ -186,7 +192,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.8,
     "items": [
      {
       "title": "Liveblog Ukrainekrieg: Rutte: NATO wird jeden Zentimeter von Polen verteidigen",
@@ -206,7 +212,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.64,
     "items": [
      {
       "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
@@ -226,61 +232,41 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.66,
+    "score": 3.63,
     "items": [
      {
-      "title": "French police officers convicted of racist assault",
-      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
+      "title": "Man convicted of starting palisades fire",
+      "url": "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
       "source": "France 24",
-      "date": "2026-11-21T16:41+00:00",
-      "teaser": "A French court on Friday sentenced three policemen to serve time over the beating of a black music producer in 2020. It also recognized the assault on Michelle Zecler was racially motivated."
+      "date": "2026-11-21T17:21+00:00",
+      "teaser": "A Los Angeles County jury found former rideshare driver Jonathan Rinderknecht guilty on Friday of starting the 2025 Palisades fire, which caused widespread destruction and loss of life. He faces a prison sentence of between five and 40 years. Liza Kaminov has more."
      },
      {
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-20T22:37+00:00",
-      "teaser": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+      "date": "2026-11-21T04:34+00:00",
+      "teaser": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.64,
+    "score": 3.6,
     "items": [
      {
-      "title": "California investigates Nvidia over whether chip exports ended up in China",
-      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-      "source": "The Guardian",
-      "date": "2026-11-20T09:18+00:00",
-      "teaser": "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investors California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang. Rob Bonta, the US state’s attorney gen"
+      "title": "Israeli strike kills 3 in vehicle distributing aid in Gaza, witnesses say",
+      "url": "https://www.cbc.ca/news/world/israel-strike-gaza-aid-vehicle-9.7431224?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-21T09:38-05:00",
+      "teaser": "Israeli forces on Saturday hit a truck in Gaza, which witnesses said was carrying food and papers bearing the ‌logo of the World Central Kitchen charity, but the organization said the vehicle was not affiliated with it."
      },
      {
-      "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China",
-      "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
-      "source": "PBS NewsHour",
-      "date": "2026-11-21T11:28-05:00",
-      "teaser": "\"The proper chip restrictions are in place,\" Bessent said in an interview with CNBC after returning from a trip to Asia with President Donald Trump. \"And the remote access has been curtailed.\""
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.62,
-    "items": [
-     {
-      "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
-      "url": "https://www.thehindu.com/news/international/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028/article71729173.ece",
+      "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+      "url": "https://www.thehindu.com/news/international/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say/article71729327.ece",
       "source": "The Hindu",
-      "date": "2026-11-21T21:49+05:30",
-      "teaser": "Around 100 ⁠countries backed this position, but big arms-producing nations like the U.S., Russia, and Israel opposed this, resulting in a watered-down agreement that left open the question of whether future ​measures would be legally ‌binding"
-     },
-     {
-      "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-      "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-      "source": "NPR",
-      "date": "2026-11-21T03:08-05:00",
-      "teaser": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years."
+      "date": "2026-11-21T22:29+05:30",
+      "teaser": "Afterwards, meals of cooked rice were scattered around the vehicle, which was partially covered in the blood of the victims of the attack"
      }
     ]
    }
@@ -288,7 +274,33 @@
   "Deutschland": [
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Erste Bilder vom Abendspiel - Jonathan Burkardt im Studio",
+      "url": "https://www.zdf.de/video/shows/das-aktuelle-sportstudio-220/das-aktuelle-sportstudio-vom-21-november-2026-100",
+      "source": "ZDF",
+      "date": "2026-11-21T22:30+01:00",
+      "teaser": "\"das aktuelle sportstudio\" berichtet von den Spielen der 1. Bundesliga, zeigt Ausschnitte des Abendspiels als Free-TV-Premiere und den Sport des Tages. Nicht fehlen darf die Torwand."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Heiraten ohne Trauschein: Der Trend zur \"Fake Wedding\"",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/trend-fake-wedding-hochzeit-feiern-ohne-zu-heiraten-100.html",
+      "source": "SWR",
+      "date": "2026-11-21T21:49+01:00",
+      "teaser": "Extravagante Hochzeitsfeiern ohne Ehegelübde: Das ist das Konzept der \"Fake Wedding\". Der Trend hat inzwischen weltweit Anhänger - auch im Schwarzwald. Was steckt dahinter?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "Wie verhext: Schalke trifft zuhause das Tor nicht",
@@ -301,7 +313,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Karl Lauterbach: »Dass KI die Menschheit auslöscht, halte ich für Unsinn«",
@@ -314,7 +326,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Wie ersetzt man den unersetzlichen Harry Kane?",
@@ -327,7 +339,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.83,
     "items": [
      {
       "title": "Jugendliche nehmen Krebsmedikament, um größer zu werden",
@@ -340,7 +352,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Bald Generalinspekteur: Im guten Geiste Preußens",
@@ -353,7 +365,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.79,
     "items": [
      {
       "title": "Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
@@ -366,7 +378,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.78,
+    "items": [
+     {
+      "title": "\"Unreife\" TSG Hoffenheim beißt sich an der Eintracht die Zähne aus",
+      "url": "https://www.swr.de/sport/fussball/tsg-1899-hoffenheim-eintracht-frankfurt-bundesliga-christian-ilzer-100.html",
+      "source": "SWR",
+      "date": "2026-11-21T20:07+01:00",
+      "teaser": "Die TSG 1899 Hoffenheim hätte sich bei Eintracht Frankfurt durchaus einen Punkt verdient gehabt. Am Ende aber stand eine Niederlage - und die Nerven auf dem Feld lagen blank."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.77,
     "items": [
      {
       "title": "Der SC Freiburg eine Spitzenmannschaft? Matanovic trifft und grinst",
@@ -379,7 +404,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.74,
     "items": [
      {
       "title": "E-Autos besonders im Fokus: Was ein Wechsel der Kfz-Versicherung bringen kann",
@@ -392,7 +417,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Berliner Linke: Schwerdtner befürwortet Fraktionsausschluss von Vanessa Emde",
@@ -402,51 +427,45 @@
       "teaser": "Die Berliner Linksfraktion entscheidet am Dienstag, ob sie die Abgeordnete Vanessa Emde ausschließt. Parteichefin Ines Schwerdtner wirft ihr eine »Egoshow« vor."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "\"Ihr tötet die Zukunft\": Demonstrant unterbricht COP31",
-      "url": "https://www.zdfheute.de/video/politik-cop-klima-konferenz-100.html",
-      "source": "ZDF",
-      "date": "2026-11-21T19:15+01:00",
-      "teaser": "Mit einem roten Galgenstrick um den Hals wirft ein Aktivist den Delegierten vor, die Zukunft zu gefährden. Gleichzeitig stockt der Streit über fossile Energien."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.77,
-    "items": [
-     {
-      "title": "Deutschland Liveblog: Schwerdtner: Emdes Ego-Show brauchen wir nicht",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-schwerdtner-emdes-ego-show-brauchen-wir-nicht-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-21T18:05+00:00",
-      "teaser": "Linke-Vorsitzende für Parteiausschluss der Abgeordneten +++ Höcke bleibt Vorsitzender der Thüringer AfD +++ alle Entwicklungen im Liveblog"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "\"Habe geweint beim Einfahren\": KSC-Fan nach Rad-Weltreise zurück im Wildpark",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/ksc-fan-nach-weltreise-wieder-in-karlsruhe-110.html",
-      "source": "SWR",
-      "date": "2026-11-21T19:00+01:00",
-      "teaser": "KSC-Fan Jakob Alberti ist mit dem Rad von Karlsruhe zur Fußball-WM in die USA gefahren. Nach seiner Weltreise kehrte er zurück - mit Erlebnissen, die er nie vergessen wird."
-     }
-    ]
    }
   ],
   "Polen": [
    {
+    "sourceCount": 2,
+    "score": 3.42,
+    "items": [
+     {
+      "title": "Rosyjski statek stanął w płomieniach po ataku drona. Finlandia reaguje",
+      "url": "https://www.rp.pl/swiat/art45523431-rosyjski-statek-stanal-w-plomieniach-po-ataku-drona-finlandia-reaguje",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-21T15:53+01:00",
+      "teaser": "Rosyjski frachtowiec stanął w płomieniach po ataku drona w Zatoce Fińskiej. W związku z atakiem Finlandia tymczasowo ograniczyła ruch lotniczy i morski we wschodniej części zatoki. Władze w Helsinkach poinformowały również o podejrzeniu, że rosyjski śmigłowiec naruszył przestrzeń powietrzną kraju."
+     },
+     {
+      "title": "Atak drona na rosyjski statek handlowy w Zatoce Fińskiej. Jednostka stanęła w płomieniach",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33144336,atak-drona-na-rosyjski-statek-handlowy-w-zatoce-finskiej-jednostka.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-21T13:30+00:00",
+      "teaser": "Ministerstwo obrony Finlandii przekazało, że armia wykryła w sobotę atak na rosyjski statek handlowy. Jednostka znajdowała się na wodach międzynarodowych we wschodniej części Zatoki Fińskiej."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "NATO reaguje na rosyjskie obiekty w Polsce. Rutte: Absolutnie nie do przyjęcia",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33144699,nato-reaguje-na-rosyjskie-obiekty-w-polsce-rutte-absolutnie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-21T21:10+00:00",
+      "teaser": "Sekretarz generalny NATO Mark Rutte ocenił, że naruszenie polskiej przestrzeni powietrznej było \"niebezpiecznym incydentem\". - Dowódca sił NATO w Europie zrobi wszystko, aby dowiedzieć się dokładnie, gdzie są zagrożenia dla naszego systemu odstraszania i obrony - zadeklarował."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Ozempic i Mounjaro nie tylko odchudzają. Naukowcy badają wpływ na pamięć",
@@ -459,20 +478,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Sikorski o porażce \"wielkiej fantazji\" Putina. \"Chińczycy pokazali jego miejsce w szeregu\"",
       "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33144680,sikorski-o-wielkiej-fantazji-putina-chinczycy-pokazali-jego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "source": "Gazeta Wyborcza",
       "date": "2026-11-21T20:20+00:00",
-      "teaser": "Zdaniem wicepremiera rosyjski przywódca nie będzie wspominał szczytu w Chinach z nostalgią. - Chińczycy przestali już udawać, że traktują Rosję jak równego partnera - powiedział Radosław Sikorski w TVP Info."
+      "teaser": "Zdaniem szefa MSZ rosyjski przywódca nie będzie wspominał szczytu w Chinach z nostalgią. - Chińczycy przestali już udawać, że traktują Rosję jak równego partnera - powiedział Radosław Sikorski w TVP Info."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.82,
     "items": [
      {
       "title": "Alarmy w obwodzie królewieckim. Miało dojść do eksplozji",
@@ -485,7 +504,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.82,
     "items": [
      {
       "title": "Leszek Wiwała: O czym nie mówi się, gdy rosną ceny paliw",
@@ -498,7 +517,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.82,
     "items": [
      {
       "title": "Spór o ambasadorów. Przydacz zarzuca Sikorskiemu eskalowanie konfliktu",
@@ -511,7 +530,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Puchar Świata w Lillehammer. Polacy odpadli na starcie",
@@ -524,7 +543,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.78,
     "items": [
      {
       "title": "Przydacz oskarża Sikorskiego ws. ambasadorów. \"Prosi o zgodę obce rządy\"",
@@ -537,7 +556,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.77,
     "items": [
      {
       "title": "Jacek Dubois: Kryzys w wymiarze sprawiedliwości – chaos w państwie prawa",
@@ -550,7 +569,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.75,
     "items": [
      {
       "title": "Apple szykuje największą ofensywę od lat. Aż 18 premier i rewolucja w iPhone’ach",
@@ -563,7 +582,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Mark Rutte broni Trumpa i jego relacji z Putinem. „To w interesie Polski”",
@@ -573,38 +592,12 @@
       "teaser": "Naruszenie polskiej przestrzeni powietrznej przez rosyjskie rakiety i drony było niebezpiecznym incydentem, ale nie oznaczało automatycznego uruchomienia art. 5 NATO – mówił sekretarz generalny Sojuszu Mark Rutte- mówił szef NATO Mark Rutte w wywiadzie dla TVN24."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "Nieoficjalnie: drony miały przelecieć nad amerykańską bazą wojskową na Sycylii",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45523641-nieoficjalnie-drony-mialy-przeleciec-nad-amerykanska-baza-wojskowa-na-sycylii",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T19:29+01:00",
-      "teaser": "W bazie wojskowej USA w Sigonelli na Sycylii w piątek wieczorem ogłoszono alarm z powodu podejrzenia obecności dronów niewiadomego pochodzenia - wynika z doniesień medialnych. Drony miały przelatywać zarówno nad bazą, jak i nad budynkiem mieszkalnym."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.75,
-    "items": [
-     {
-      "title": "Wyrok śmierci dla Polaka w USA. \"Wyrachowane zabójstwo\"",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33144546,wyrok-smierci-dla-polaka-w-usa-wyrachowane-zabojstwo.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-21T17:53+00:00",
-      "teaser": "Sąd Okręgowy dla hrabstwa Pinellas na Florydzie skazał Tomasza Kosowskiego za morderstwo prawnika Stevena Cozziego. Ciała ofiary nigdy nie odnaleziono w przeciwieństwie do śladów jej krwi."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.96,
+    "score": 5.87,
     "items": [
      {
       "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
@@ -631,7 +624,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.94,
+    "score": 5.86,
     "items": [
      {
       "title": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
@@ -658,7 +651,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.44,
+    "score": 5.35,
     "items": [
      {
       "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
@@ -685,7 +678,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.58,
+    "score": 2.5,
     "items": [
      {
       "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
@@ -708,6 +701,32 @@
     "score": 1.97,
     "items": [
      {
+      "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
+      "url": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-21T21:28+00:00",
+      "teaser": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Dream of gas-powered vehicles falters in China’s hydrogen capital",
+      "url": "https://www.ft.com/content/91d25e77-efa2-4ced-a9e1-92f53fa18e4d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-21T21:00+00:00",
+      "teaser": "High costs and dwindling subsidies leave rows of hydrogen-powered buggies sitting idle in the southern city of Foshan"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
       "title": "Jonas Grethlein im Interview: Der Preis des Feuers",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-elon-musk-bis-frankenstein-jonas-grethlein-erklaert-warum-prometheus-auch-heute-fasziniert-201639053.html",
       "source": "FAZ",
@@ -718,7 +737,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Scheitert die UN-Klimakonferenz in Antalya?",
@@ -731,20 +750,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Harald Christ im Gespräch: „Heute lasse ich mich nicht mehr von einer Partei vereinnahmen“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/was-denkt-harald-christ-der-investor-lobbyist-und-mann-zwischen-den-welten-201689491.html",
-      "source": "FAZ",
-      "date": "2026-11-21T20:03+00:00",
-      "teaser": "Harald Christ ist in vielen Rollen zwischen Wirtschaft und Politik unterwegs. Das sorgt immer wieder für Kritik. Mit seinem Unternehmen will er nicht weniger als einen Beitrag zur deutsch-europäischen Souveränität leisten."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
@@ -757,7 +763,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.85,
+    "items": [
+     {
+      "title": "Harald Christ im Gespräch: „Heute lasse ich mich nicht mehr von einer Partei vereinnahmen“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/was-denkt-harald-christ-der-investor-lobbyist-und-mann-zwischen-den-welten-201689491.html",
+      "source": "FAZ",
+      "date": "2026-11-21T20:03+00:00",
+      "teaser": "Harald Christ ist in vielen Rollen zwischen Wirtschaft und Politik unterwegs. Das sorgt immer wieder für Kritik. Mit seinem Unternehmen will er nicht weniger als einen Beitrag zur deutsch-europäischen Souveränität leisten."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.83,
     "items": [
      {
       "title": "Ostsee: Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand",
@@ -770,7 +789,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.77,
     "items": [
      {
       "title": "Paolo Bulgari: Schmuckunternehmer Paolo Bulgari ist tot",
@@ -780,52 +799,40 @@
       "teaser": "Er galt als einer der weltweit führenden Experten für Edelsteine und prägte den Stil des Hauses Bulgari über Jahrzehnte. Mit 89 ist Paolo Bulgari gestorben."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "Wachstum durch schulden?: Die Droge Defizit",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/lars-klingbeil-und-das-defizit-tappt-deutschland-in-die-schuldenfalle-201621537.html",
-      "source": "FAZ",
-      "date": "2026-11-21T18:30+00:00",
-      "teaser": "Die Schulden von heute gefährden die Staatsfinanzen morgen. Lars Klingbeil kümmert das wenig. Der Finanzminister spielt Zukunftsminister."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Thore Schölermann über den Wechsel vom Moderator zum McDonald's-Unternehmer",
-      "url": "https://www.spiegel.de/wirtschaft/thore-schoelermann-ueber-den-wechsel-vom-moderator-zum-mcdonalds-unternehmer-a-db3f070f-19e6-4d63-97b9-02ac76a21c37#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-21T19:29+01:00",
-      "teaser": "Tausche Millionenpublikum gegen Fast-Food-Franchise: Moderator Thore Schölermann betreibt nun drei McDonald’s-Filialen. Im Interview erklärt er den ungewöhnlichen Wechsel – und sagt, was die Jobs gemein haben."
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.95,
+    "score": 7.98,
     "favorite": true,
     "items": [
      {
-      "title": "LIVE! Nach emotionalen Szenen vor Anpfiff: Frühe kalte Dusche für Real",
+      "title": "LIVE! Vigo schrammt mehrmals am 2:0 vorbei - dann gleicht Bellingham doch aus",
       "url": "https://www.kicker.de/real-madrid-gegen-vigo-2026-la-liga-5223921/spielbericht#omrss",
       "source": "kicker",
-      "date": "2026-11-21T20:16+00:00",
+      "date": "2026-11-21T21:36+00:00",
       "teaser": "Im Heimspiel gegen Celta Vigo hat Real Madrid die Chance, mit Barcelona von der Punkteanzahl her gleichzuziehen. Die Katalanen sind erst am Sonntag gefordert. Kann Real den Rivalen unter Zugzwang setzen?"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.92,
+    "score": 7.97,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Belletti actualiza el estado de Hamza y asegura que el equipo va \"por el buen camino\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253873/belletti-actualiza-hamza-asegura-equipo-buen-camino.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-21T22:27+01:00",
+      "teaser": "El Barça Atlètic contaba con el refuerzo de Hamza Abdelkarim de cara a la visita a la Ciutat Esportiva Dani Jarque, pero el delantero finalmente no pudo entrar en la convocatoria a pesar de que se desplazó con el equipo a Sant Adrià de Besòs. \"Tenía una sobrecarga, le hemos dado descanso\" , explicó "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.83,
     "favorite": true,
     "items": [
      {
@@ -838,42 +845,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.86,
-    "favorite": true,
-    "items": [
-     {
-      "title": "0-0: El Barça Atlètic no pudo con un Espanyol que acabó con nueve",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253784/espanyol-b-barca-atletic-segunda-rfef.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-21T20:08+01:00",
-      "teaser": "El derbi de filiales terminó en empate a cero, pero el Barça Atlètic se marchó con un sabor más amargo que el Espanyol B. En un partido abierto y con ocasiones para ambos bandos, los blanquiazules se quedaron con un hombre menos a falta de 20 minutos y perdieron a otro a falta de 10. El final fue em"
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 4.0,
-    "items": [
-     {
-      "title": "LIVE! Wieder trifft St. Pauli gleich: Ando staubt ab",
-      "url": "https://www.kicker.de/live-wieder-trifft-st-pauli-gleich-ando-staubt-ab-1272810/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-21T20:37+00:00",
-      "teaser": "Sowohl St. Pauli als auch der VfL Bochum stecken im Mittelfeld der Zweitligatabelle fest. Im direkten Duell haben beide nun die Gelegenheit, ihr Fühler wieder nach oben auszustrecken - oder im Falle einer Niederlage, den Blick nach unten zu richten."
-     },
-     {
-      "title": "Jetzt live - St. Pauli trifft wieder direkt nach Anpfiff",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-2-bundesliga/ma12194956/fc-st-pauli_vfl-bochum/liveticker",
-      "source": "Sportschau",
-      "date": "2026-11-21T21:47+01:00",
-      "teaser": "Es ist für Bochum ein völlig irrer Abend: Sowohl in der ersten als auch in der zweiten Halbzeit kassieren die Gäste einen ganz frühen Gegentreffer und laufen somit einem 0:2-Rückstand hinterher."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.85,
     "items": [
      {
       "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
@@ -893,7 +866,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.85,
     "items": [
      {
       "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
@@ -913,7 +886,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.8,
     "items": [
      {
       "title": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
@@ -933,7 +906,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.58,
+    "score": 3.5,
     "items": [
      {
       "title": "FC Bayern und Musiala: „Das hat mit ‚Mia san mia‘ und der FC-Bayern-Familie wenig zu tun“",
@@ -953,14 +926,27 @@
    },
    {
     "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "STR - BRE: Elfmeter in der 95. Minute",
+      "url": "https://www.kicker.de/str-bre-elfmeter-in-der-95-minute-1273693/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-21T21:46+00:00",
+      "teaser": "Szene aus dem Spiel STR - BRE (Ligue 1 2025/26, 11. Spieltag)."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
     "score": 1.99,
     "items": [
      {
-      "title": "Große Emotionen vor Real-Spiel: Spalier der Teams für Familie des verstorbenen de Miguel",
-      "url": "https://www.kicker.de/grosse-emotionen-vor-real-spiel-spalier-der-teams-fuer-familie-des-verstorbenen-de-miguel-1273672/video#omrss",
+      "title": "Mbappé legt ab, Bellingham knipst: Real kommt zum 1:1-Ausgleich",
+      "url": "https://www.kicker.de/mbapp-legt-ab-bellingham-knipst-real-kommt-zum-1-1-ausgleich-1273692/video#omrss",
       "source": "kicker",
-      "date": "2026-11-21T20:41+00:00",
-      "teaser": "Vor dem Spiel von Real Madrid gegen Celta Vigo wurde gemeinsam mit der Familie von Jesus de Miguel im Estadio Santiago Bernabéu dem verstorbenen Profi gedacht."
+      "date": "2026-11-21T21:38+00:00",
+      "teaser": "Die Superstars brachten Real Madrid im Spiel gegen Celta Vigo zurück und besorgten den Ausgleich. Den Treffer gibt es hier im Video."
      }
     ]
    },
@@ -969,11 +955,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Lille - Lyon: Tor zum 0:1 durch Bidstrup in der 40. Minute",
-      "url": "https://www.kicker.de/lille-lyon-tor-zum-0-1-durch-bidstrup-in-der-40-minute-1273668/video#omrss",
+      "title": "Monaco - Auxerre: Tor zum 1:1 durch Diop in der 82. Minute",
+      "url": "https://www.kicker.de/monaco-auxerre-tor-zum-1-1-durch-diop-in-der-82-minute-1273691/video#omrss",
       "source": "kicker",
-      "date": "2026-11-21T20:28+00:00",
-      "teaser": "Szene aus dem Spiel Lille OSC - Olympique Lyon (Ligue 1 2026/27, 11. Spieltag)."
+      "date": "2026-11-21T21:36+00:00",
+      "teaser": "Szene aus dem Spiel AS Monaco - AJ Auxerre (Ligue 1 2026/27, 11. Spieltag)."
      }
     ]
    },
@@ -982,11 +968,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Bei Borussia Mönchengladbach geht aktuell alles schief",
-      "url": "https://www.sportschau.de/regional/wdr/wdr-bei-borussia-moenchengladbach-geht-aktuell-alles-schief-100.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-21T21:32+01:00",
-      "teaser": "Borussia Mönchengladbach verliert auch gegen den BVB und bleibt Tabellenletzter. Die Umstände dieser Niederlage sprechen Bände."
+      "title": "Zweite Bundesliga: St. Pauli schlägt Bochum dank doppeltem Blitzstart",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-bundesliga-fc-st-pauli-gewinnt-2-0-gegen-vfl-bochum-201304609.html",
+      "source": "FAZ",
+      "date": "2026-11-21T21:35+00:00",
+      "teaser": "Gegen Bochum trifft St. Pauli in beiden Halbzeiten früh und springt durch den 2:0-Sieg auf Rang acht der Tabelle. Der VfL hängt weiter im Mittelfeld fest."
      }
     ]
    },
@@ -995,11 +981,11 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Lens - Toulouse: Tor zum 0:1 durch Russell-Rowe in der 39. Minute",
-      "url": "https://www.kicker.de/lens-toulouse-tor-zum-0-1-durch-russell-rowe-in-der-39-minute-1273667/video#omrss",
+      "title": "Früh in der Spur: St. Pauli beendet seine Sieglos-Serie",
+      "url": "https://www.kicker.de/frueh-in-der-spur-st-pauli-beendet-seine-sieglos-serie-1272810/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-21T20:27+00:00",
-      "teaser": "Szene aus dem Spiel RC Lens - FC Toulouse (Ligue 1 2026/27, 11. Spieltag)."
+      "date": "2026-11-21T21:25+00:00",
+      "teaser": "St. Pauli jubelte bereits in der dritten Minute über den ersten Treffer gegen Bochum. Und auch nach dem Wechsel jubelten die Hamburger direkt wieder. Durch den Sieg klettert der Kiezklub in der Tabelle am VfL vorbei."
      }
     ]
    }
@@ -1007,7 +993,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 2.01,
+    "score": 1.92,
     "items": [
      {
       "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
@@ -1027,7 +1013,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.85,
     "items": [
      {
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -1040,7 +1026,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.79,
     "items": [
      {
       "title": "Microshifting im Homeoffice: Mit diesen 2 Regeln wird der Arbeitstrend auch für Arbeitgeber zum Gewinn",
@@ -1053,7 +1039,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.78,
     "items": [
      {
       "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
@@ -1066,7 +1052,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.78,
     "items": [
      {
       "title": "G.T.A. VI Is a Monumental Human Achievement",
@@ -1079,7 +1065,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.74,
     "items": [
      {
       "title": "GEO oder SEO? Was Daten von 1.200 B2B-Unternehmen über den wahren Wert von KI-Traffic verraten",
@@ -1092,7 +1078,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.72,
     "items": [
      {
       "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
@@ -1105,7 +1091,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.68,
     "items": [
      {
       "title": "99,4 Prozent nach 15 Tagen zerstört: Eine einzige Atombombe im All würde fast alle Starlink-Satelliten auslöschen",
@@ -1118,7 +1104,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.74,
+    "score": 1.66,
     "items": [
      {
       "title": "The FBI and USDA were reportedly hacked",
@@ -1131,7 +1117,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.61,
     "items": [
      {
       "title": "Lassen sich Chips tracken? Was Nvidia und Branchenverbände dazu sagen",
@@ -1144,7 +1130,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.56,
     "items": [
      {
       "title": "Schwarze Löcher vor den Sternen: James-Webb-Teleskop findet Urknall-Relikte",
@@ -1157,7 +1143,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.52,
     "items": [
      {
       "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
@@ -1235,7 +1221,7 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Welt & Politik",
@@ -1307,7 +1293,7 @@
    "topic": "Deutschland",
    "source": "Spiegel",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Deutschland",
@@ -1343,7 +1329,7 @@
    "topic": "Polen",
    "source": "Notes from Poland",
    "ok": true,
-   "items": 4
+   "items": 3
   },
   {
    "topic": "Polen",
@@ -1379,7 +1365,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "Handelsblatt (Finanzen)",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1463,7 +1449,7 @@
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "topic": "Sport",
@@ -1499,7 +1485,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 5
+   "items": 3
   },
   {
    "topic": "Tech & KI",
