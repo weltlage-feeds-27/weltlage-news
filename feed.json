@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-21T01:17:37+00:00",
+ "fetchedAt": "2026-11-21T02:54:17+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 6,
-    "score": 11.96,
+    "sourceCount": 5,
+    "score": 9.82,
     "items": [
      {
       "title": "Trump threatens ‘tremendous tax’ on US firms building AI data centres overseas",
@@ -34,6 +34,33 @@
     "score": 5.86,
     "items": [
      {
+      "title": "Denmark expels Russian diplomat over alleged assassination plot on Ukrainian rapper Kyivstoner",
+      "url": "https://kyivindependent.com/denmark-expels-russian-diplomat-over-alleged-assassination-plot-on-ukrainian-rapper-kyivstoner/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-20T19:00+00:00",
+      "teaser": "The expulsion follows the disclosure of an alleged plot by Russian intelligence services to assassinate Ukrainian rapper Albert Vasiliev, known professionally as Kyivstoner, ahead of a scheduled concert in Denmark on Sept. 25."
+     },
+     {
+      "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+      "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-21T01:12+00:00",
+      "teaser": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation."
+     },
+     {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-20T21:57+00:00",
+      "teaser": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.72,
+    "items": [
+     {
       "title": "Brooks and Capehart on Trump's summit with Putin and Xi",
       "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-summit-with-putin-and-xi",
       "source": "PBS NewsHour",
@@ -58,13 +85,33 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.96,
     "items": [
      {
-      "title": "Takeaways From Trump’s Post-Asia Trip News Conference",
-      "url": "https://www.nytimes.com/2026/11/20/us/politics/takeaways-from-trumps-post-asia-trip-news-conference.html",
+      "title": "Brasilien: Ex-Präsident Jair Bolsonaro wegen Bauchschmerzen im Krankenhaus",
+      "url": "https://www.spiegel.de/ausland/brasilien-ex-praesident-jair-bolsonaro-wegen-bauchschmerzen-im-krankenhaus-a-8b18eae1-a059-4ce0-8438-d2827e18dade#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-20T23:02+01:00",
+      "teaser": "Brasiliens Ex-Präsident Jair Bolsonaro ist seinem Sohn Carlos zufolge erneut im Krankenhaus. Der 71-Jährige musste Anfang des Jahres bereits behandelt werden. Sein Sohn unterstellt dem Staat Tötungsabsichten."
+     },
+     {
+      "title": "Unterleibsschmerzen: Brasiliens Ex-Präsident Jair Bolsonaro im Krankenhaus",
+      "url": "https://www.faz.net/aktuell/politik/ausland/jair-bolsonaro-im-krankenhaus-fast-vollstaendige-darmobstruktion-accg-201704017.html",
+      "source": "FAZ",
+      "date": "2026-11-21T02:26+00:00",
+      "teaser": "Seit einem Messerangriff 2018 musste Bolsonaro mehrfach operiert werden. Nun befindet er sich wieder in einer Klinik. Sein Sohn führt die Beschwerden auf dessen Inhaftierung zurück."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Takeaways From Trump’s Post-Trip News Conference",
+      "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
       "source": "New York Times (USA)",
-      "date": "2026-11-21T01:12+00:00",
+      "date": "2026-11-21T02:15+00:00",
       "teaser": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues."
      },
      {
@@ -78,7 +125,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "Krieg gegen die Ukraine: Russische Marschflugkörper stürzen in Polen ab",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/russland-raketen-luftraumverletzung-polen-ukraine-gxe",
+      "source": "Zeit",
+      "date": "2026-11-20T14:44+00:00",
+      "teaser": "Bei russischen Luftangriffen auf die Ukraine sind offenbar zwei Marschflugkörper und eine Drohne auf polnischem Gebiet abgestürzt. Polen spricht von einer »Provokation«."
+     },
+     {
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-21T02:09+00:00",
+      "teaser": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.93,
     "items": [
      {
       "title": "🦛 USA: Fiona, Cincinnati Zoo’s famous hippo, has died",
@@ -91,14 +158,14 @@
       "title": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
       "url": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
       "source": "New York Times (USA)",
-      "date": "2026-11-21T00:43+00:00",
+      "date": "2026-11-21T02:06+00:00",
       "teaser": "Social media commenters have called for investigations, the release of zoo video footage and punishment for the parents of a child whose hat Fiona ingested."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.8,
     "items": [
      {
       "title": "Rights groups urge sanctions after ICJ finds Myanmar guilty of genocide against Rohingya",
@@ -118,7 +185,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.89,
+    "score": 3.76,
     "items": [
      {
       "title": "New York: Zohran Mamdani will berüchtigtes Gefängnis Rikers Island schließen",
@@ -138,27 +205,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.89,
-    "items": [
-     {
-      "title": "Federal jury convicts man of starting deadly 2025 Palisades Fire in Los Angeles",
-      "url": "https://www.pbs.org/newshour/nation/federal-jury-convicts-man-of-starting-deadly-2025-palisades-fire-in-los-angeles",
-      "source": "PBS NewsHour",
-      "date": "2026-11-20T19:01-05:00",
-      "teaser": "The man accused of sparking last year's deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial."
-     },
-     {
-      "title": "Man convicted of starting deadly 2025 LA Palisades Fire",
-      "url": "https://www.abc.net.au/news/2026-11-21/man-convicted-of-starting-2025-la-palisades-fire/107412326",
-      "source": "ABC Australia",
-      "date": "2026-11-20T23:53+00:00",
-      "teaser": "Jonathan Rinderknecht is found guilty at his second trial of sparking last year's deadly Palisades Fire, which killed 12 people."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.73,
     "items": [
      {
       "title": "Josh Shapiro on foreign policy, Democratic wins and his 2028 ambitions",
@@ -178,7 +225,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.64,
     "items": [
      {
       "title": "Paris police officers sentenced to prison over 2020 beating of Black man",
@@ -198,27 +245,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.72,
-    "items": [
-     {
-      "title": "Denmark expels Russian diplomat over alleged assassination plot on Ukrainian rapper Kyivstoner",
-      "url": "https://kyivindependent.com/denmark-expels-russian-diplomat-over-alleged-assassination-plot-on-ukrainian-rapper-kyivstoner/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-20T19:00+00:00",
-      "teaser": "The expulsion follows the disclosure of an alleged plot by Russian intelligence services to assassinate Ukrainian rapper Albert Vasiliev, known professionally as Kyivstoner, ahead of a scheduled concert in Denmark on Sept. 25."
-     },
-     {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T21:57+00:00",
-      "teaser": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.49,
+    "score": 3.36,
     "items": [
      {
       "title": "Daniel Thomas: Britischer Rechtsextremist schlitzte Flüchtlingsboot auf – 15 Monate Haft",
@@ -235,32 +262,12 @@
       "teaser": "Der Aktivist Daniel Thomas filmte sich, wie er ein Schlauchboot im Ärmelkanal aufschlitzte. Nun wurde er von einem Gericht zu 15 Monaten Haft verurteilt."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.38,
-    "items": [
-     {
-      "title": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
-      "url": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
-      "source": "France 24",
-      "date": "2026-11-20T17:06+00:00",
-      "teaser": "🇬🇧🇪🇺 A fresh start after #Brexit? The #UK and #EU have agreed on a landmark #deal to rebuild ties, following a summit in Brussels this Friday. The agreement covers easier food export checks, youth mobility and carbon emission quotas."
-     },
-     {
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T17:49+00:00",
-      "teaser": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.4,
+    "score": 3.26,
     "items": [
      {
       "title": "Deutsche Bank: Koalitionspolitiker fordern nach Datenleck Reform der Erbschaftsteuer",
@@ -280,7 +287,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.35,
+    "score": 3.21,
     "items": [
      {
       "title": "Ukraine: Boris Pistorius zeigt sich offen für Gespräche mit Wladimir Putin",
@@ -300,7 +307,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.22,
+    "score": 3.08,
     "items": [
      {
       "title": "Ulrich Siegmund: Die neue Taktik der AfD: Überrumpelung",
@@ -320,7 +327,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.15,
+    "score": 3.01,
     "items": [
      {
       "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
@@ -343,17 +350,17 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Gen-Z-Proteste: Demos enden weitgehend friedlich",
-      "url": "https://www.zdfheute.de/politik/deutschland/gen-z-proteste-schulpolitik-militaerdienst-liveblog-100.html",
-      "source": "ZDF",
-      "date": "2026-11-21T02:00+01:00",
-      "teaser": "Die Gen-Z-Demos in vielen deutschen Städten sind inzwischen beendet. Die Proteste verliefen weitgehend friedlich. Ausschreitungen gab es laut Polizei in Hamburg und Leipzig."
+      "title": "Jugendliche erneut zu Tausenden auf den Straßen",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-21T03:38+01:00",
+      "teaser": "Zehntausende junge Menschen haben am Freitag friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween blieb aber aus."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.78,
     "items": [
      {
       "title": "Gen Z-Demos in BW: Polizei zieht durchwachsene Bilanz",
@@ -366,7 +373,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.7,
     "items": [
      {
       "title": "Bundesregierung: Juso-Chef Türmer kritisiert Koalition wegen Stromsteuersenkung",
@@ -379,7 +386,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.66,
+    "items": [
+     {
+      "title": "Bayern-Schock: Harry Kane fällt mehrere Monate aus",
+      "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-bayern-koeln-kane-verletzt-100.html",
+      "source": "ZDF",
+      "date": "2026-11-20T23:52+01:00",
+      "teaser": "Harry Kane fehlt dem FC Bayern mit einem Syndesmoseriss mehrere Monate. Bei Michael Olise gibt es nach dem 1:1 gegen Köln vorsichtige Entwarnung."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.57,
     "items": [
      {
       "title": "Gen-Z-Proteste: Wie die Jugend versucht, aus Demos eine Bewegung zu machen",
@@ -392,7 +412,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.67,
+    "score": 1.54,
     "items": [
      {
       "title": "Newsblog zu KI: Anthropic-Aktien rutschen fast auf den Ausgabekurs ab",
@@ -405,7 +425,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.45,
     "items": [
      {
       "title": "Gipfeltreffen: Auch in Shenzhen lässt Trump mit sich spielen",
@@ -418,7 +438,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.55,
+    "score": 1.42,
     "items": [
      {
       "title": "GTA VI: Diese deutschen Songs sind im Gaming-Radio gelandet",
@@ -428,25 +448,12 @@
       "teaser": "Das neue GTA VI ist schon jetzt ein Mega-Erfolg. Einen Anteil daran haben die fiktiven Radiostationen im Spiel. Dort können Spieler weltweit sogar mehrere deutsche Künstler hören."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.5,
-    "items": [
-     {
-      "title": "\"Das ist so richtig gemein\": Viele halten diesen Blitzer für eine Frechheit",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/ludwigsburg-blitzer-busspur-100.html",
-      "source": "SWR",
-      "date": "2026-11-20T20:15+01:00",
-      "teaser": "Während sich Autofahrer ärgern, dürfte der mobile Blitzer für die Stadt Ludwigsburg eine Goldgrube sein. Doch damit soll bald Schluss sein."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.57,
     "items": [
      {
       "title": "Moskwa zarzuca holenderskiej firmie udział w ataku na Most Krymski",
@@ -459,7 +466,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.52,
     "items": [
      {
       "title": "Rosyjskie pociski przekroczyły polską granicę. Najważniejsze wydarzenia dnia",
@@ -472,7 +479,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.51,
     "items": [
      {
       "title": "Nie żyje Piotr Moczulski. Wojsko sprowadziło go z Filipin do Polski. \"Miał zaledwie 43 lata\"",
@@ -485,7 +492,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.51,
     "items": [
      {
       "title": "Dlaczego wojsko nie zestrzeliło rosyjskiej rakiety? \"Nie było spełnionych wszystkich warunków\"",
@@ -498,7 +505,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.5,
     "items": [
      {
       "title": "Po nocnym ataku na Kijów UE odpowiada miliardem euro. Broń trafi do Ukrainy do 2027",
@@ -511,7 +518,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.5,
     "items": [
      {
       "title": "Rosja zleciła zamach na ukraińskiego rapera w Danii. Wcześniej próbowała w Warszawie",
@@ -524,7 +531,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.46,
     "items": [
      {
       "title": "Putin wzywa Ukraińców do zbliżenia z Rosją. „Wybierzcie właściwą stronę historii”",
@@ -537,7 +544,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.54,
+    "score": 1.4,
     "items": [
      {
       "title": "FedEx-led consortium completes €7.8bn takeover of Polish delivery giant InPost",
@@ -550,7 +557,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.53,
+    "score": 1.4,
     "items": [
      {
       "title": "Donald Trump zdradza kulisy rozmowy z Putinem. \"Jasno wyraził chęć zakończenia wojny\"",
@@ -563,7 +570,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.5,
+    "score": 1.36,
     "items": [
      {
       "title": "\"FT\": Biały Dom naciska na Ukrainę, by zawarła porozumienie z Rosją, zanim demokraci przejmą Kongres",
@@ -576,7 +583,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.47,
+    "score": 1.34,
     "items": [
      {
       "title": "Między dziećmi czekającymi na nowe serce. Film o miłości, bólu i zrozumieniu",
@@ -589,7 +596,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.44,
+    "score": 1.3,
     "items": [
      {
       "title": "Taurona martwią koszty profilu OZE, ale spółka widzi szansę na nowy rynek mocy",
@@ -604,7 +611,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 4,
-    "score": 7.71,
+    "score": 7.57,
     "items": [
      {
       "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
@@ -630,8 +637,55 @@
     ]
    },
    {
+    "sourceCount": 3,
+    "score": 5.98,
+    "items": [
+     {
+      "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+      "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+      "source": "The Guardian",
+      "date": "2026-11-20T23:42+00:00",
+      "teaser": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German compa"
+     },
+     {
+      "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+      "url": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
+      "source": "New York Times",
+      "date": "2026-11-21T02:36+00:00",
+      "teaser": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma."
+     },
+     {
+      "title": "Bayer’s $7.25bn settlement over cancer cases approved by US judge",
+      "url": "https://www.ft.com/content/e7d36416-9eb7-4479-a217-d593545499df?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-20T23:16+00:00",
+      "teaser": "Ruling will help German chemicals group contain legal bills after years of court battles"
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.9,
+    "items": [
+     {
+      "title": "Bayer: Gericht genehmigt milliardenschweren Glyphosat-Vergleich",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-gericht-genehmigt-7-25-milliarden-glyphosat-vergleich-201703914.html",
+      "source": "FAZ",
+      "date": "2026-11-20T22:18+00:00",
+      "teaser": "Nachdem Bayer schon vor dem Supreme Court Recht bekommen hatte, nimmt der Dax-Konzern nun eine weitere Hürde. Das dürfte der langersehnte Schlussstrich für die Prozesse sein, die Bayer Milliarden gekostet haben."
+     },
+     {
+      "title": "Unkrautvernichter Roundup: US-Gericht genehmigt Milliardenvergleich von Bayer im Glyphosatstreit",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/bayer-usa-roundup-glyphosat-sammelklage-monsanto-gericht-gebilligt",
+      "source": "Zeit",
+      "date": "2026-11-21T01:43+00:00",
+      "teaser": "Pharmakonzern Bayer will den jahrelangen Streit um das Krebsrisiko von Glyphosat mit Milliardenzahlungen an Kläger beilegen. Ein Richter billigte das Angebot als »fair«."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.85,
     "items": [
      {
       "title": "Nvidia faces US regulator’s probe into its accounting",
@@ -651,27 +705,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
-    "items": [
-     {
-      "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
-      "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-      "source": "The Guardian",
-      "date": "2026-11-20T23:42+00:00",
-      "teaser": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German compa"
-     },
-     {
-      "title": "Bayer’s $7.25bn settlement over cancer cases approved by US judge",
-      "url": "https://www.ft.com/content/e7d36416-9eb7-4479-a217-d593545499df?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-20T23:16+00:00",
-      "teaser": "Ruling will help German chemicals group contain legal bills after years of court battles"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.57,
+    "score": 3.43,
     "items": [
      {
       "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
@@ -691,7 +725,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.55,
+    "score": 3.41,
     "items": [
      {
       "title": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
@@ -711,7 +745,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.42,
+    "score": 3.36,
+    "items": [
+     {
+      "title": "KI-Industrie: Trump warnt US-Konzerne vor Bau von KI-Rechenzentren im Ausland und droht mit „enormen Strafen“",
+      "url": "https://www.handelsblatt.com/politik/international/ki-industrie-trump-warnt-us-konzerne-vor-bau-von-ki-rechenzentren-im-ausland/100271667.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-20T19:15+00:00",
+      "teaser": "Rechenzentren waren im US-Wahlkampf ein umstrittenes Thema: Die Demokraten wollen sie stärker regulieren. Der US-Präsident hingegen setzt sich für den Bau ein – aber nur im Inland."
+     },
+     {
+      "title": "Donald Trump will US-Konzernen verbieten, Rechenzentren im Ausland zu bauen",
+      "url": "https://www.spiegel.de/wirtschaft/donald-trump-will-us-konzernen-verbieten-rechenzentren-im-ausland-zu-bauen-a-e4b558c4-d9b8-4e7c-95c5-5a1c3ed2388f#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-20T19:42+01:00",
+      "teaser": "US-Bürger protestieren zusehends gegen den Bau von KI-Rechenzentren. Weichen die großen Unternehmen ins Ausland aus? Präsident Trump droht den Konzernen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.29,
     "items": [
      {
       "title": "What exactly is in the deal between the UK and the EU?",
@@ -731,7 +785,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.05,
+    "score": 2.91,
     "items": [
      {
       "title": "Galeria schließt drei Filialen - und noch viele mehr?",
@@ -751,7 +805,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.83,
+    "score": 2.7,
     "items": [
      {
       "title": "Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos",
@@ -771,7 +825,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.8,
     "items": [
      {
       "title": "Verbrenner-Aus: Verkehrsminister Steffen Bilger fordert Bekenntnis zu Deutschland",
@@ -784,7 +838,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.71,
     "items": [
      {
       "title": "Börsengang in den USA: Anthropic-Aktie rutscht am zweiten Handelstag deutlich ab",
@@ -794,38 +848,12 @@
       "teaser": "Der KI-Anbieter Anthropic schaffte den wertvollsten Börsengang aller Zeiten. Doch am Tag darauf erlebte der Konzern einen Ausverkauf, der die gesamten US-Börsen erfasste."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-20T22:53+00:00",
-      "teaser": "The mammoth figure surpasses every video game launch and single-day film box office record."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.79,
-    "items": [
-     {
-      "title": "Pharma: Bayers Glyphosat-Sammelvergleich von Richter genehmigt",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-bayers-glyphosat-sammelvergleich-von-richter-genehmigt/100271682.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-20T22:42+00:00",
-      "teaser": "Nach dem Erfolg vor dem Obersten Gericht der USA kann Bayer ein weiteres Kapitel seiner Glyphosat-Rechtsstreitigkeiten abschließen. Ein Richter gibt einen Milliarden-Sammelvergleich frei."
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.77,
+    "score": 7.63,
     "favorite": true,
     "items": [
      {
@@ -839,7 +867,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.76,
+    "score": 7.62,
     "favorite": true,
     "items": [
      {
@@ -853,7 +881,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.75,
+    "score": 7.62,
     "favorite": true,
     "items": [
      {
@@ -867,7 +895,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.13,
+    "score": 7.0,
     "items": [
      {
       "title": "Nations-League-Viertelfinale: Deutschland trifft auf Belgien",
@@ -894,7 +922,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.76,
+    "score": 5.63,
     "items": [
      {
       "title": "Herber Rückschlag für die Bayern: Kane erleidet Syndesmoseriss",
@@ -921,7 +949,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.69,
     "items": [
      {
       "title": "Die Sportschau vom Freitag mit Bayern gegen Köln",
@@ -941,7 +969,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.64,
     "items": [
      {
       "title": "Tom Brady steigt offenbar beim FC Chelsea ein",
@@ -961,7 +989,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.6,
     "items": [
      {
       "title": "Bei Remis gegen Köln: Kane und Olise verletzt ausgewechselt",
@@ -981,7 +1009,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.48,
+    "score": 3.34,
     "items": [
      {
       "title": "Pochettino the connector: will human touch lift Manchester United?",
@@ -1001,7 +1029,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.72,
     "items": [
      {
       "title": "Nach harter Rummenigge-Kritik: Kompany stellt sich vor Musiala",
@@ -1014,7 +1042,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.72,
     "items": [
      {
       "title": "Bayerns schwarzer Freitag: Die Hintergründe zu Rummenigge und Musiala",
@@ -1027,7 +1055,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.71,
     "items": [
      {
       "title": "Kompany: \"Haben andere Jungs, die die Mannschaft jetzt tragen müssen\"",
@@ -1042,7 +1070,7 @@
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 5.63,
+    "score": 5.5,
     "items": [
      {
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -1069,7 +1097,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.65,
     "items": [
      {
       "title": "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
@@ -1089,7 +1117,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.31,
+    "score": 3.17,
     "items": [
      {
       "title": "(g+) Jensen Huang: Wie die New York Times den Spionageskandal um Nvidia aufdeckte",
@@ -1109,7 +1137,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.77,
     "items": [
      {
       "title": "Can AI really help spot Black Friday deals? We put it to the test",
@@ -1122,7 +1150,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.71,
     "items": [
      {
       "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
@@ -1135,7 +1163,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.69,
     "items": [
      {
       "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
@@ -1148,7 +1176,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.67,
     "items": [
      {
       "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
@@ -1161,7 +1189,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.63,
     "items": [
      {
       "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
@@ -1174,7 +1202,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.61,
     "items": [
      {
       "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
@@ -1187,7 +1215,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.59,
     "items": [
      {
       "title": "Google rolls out new search homepage with AI chat history and no search button",
@@ -1200,7 +1228,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.57,
     "items": [
      {
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
@@ -1213,7 +1241,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.51,
     "items": [
      {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -1357,7 +1385,7 @@
    "topic": "Deutschland",
    "source": "Tagesschau",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Deutschland",
@@ -1399,7 +1427,7 @@
    "topic": "Polen",
    "source": "Notes from Poland",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Polen",
@@ -1501,7 +1529,7 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Sport",
@@ -1513,7 +1541,7 @@
    "topic": "Sport",
    "source": "FAZ",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "topic": "Sport",
