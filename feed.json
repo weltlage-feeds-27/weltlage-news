@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-21T22:49:17+00:00",
+ "fetchedAt": "2026-11-21T23:46:28+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 5,
-    "score": 9.92,
+    "score": 9.84,
     "items": [
      {
       "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
@@ -31,7 +31,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.84,
+    "score": 7.76,
     "items": [
      {
       "title": "FBI criminal database hacked",
@@ -58,14 +58,14 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.7,
+    "score": 7.62,
     "items": [
      {
       "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
       "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
       "source": "The Guardian",
       "date": "2026-11-21T17:46+00:00",
-      "teaser": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El"
+      "teaser": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Cha"
      },
      {
       "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off a burst of violence in Sinaloa",
@@ -85,7 +85,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.76,
+    "score": 5.68,
     "items": [
      {
       "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
@@ -112,7 +112,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "Mexico captures drug kingpin on FBI’s most wanted list in firefight that left 11 dead",
+      "url": "https://www.scmp.com/news/world/americas/article/3375342/mexico-captures-drug-kingpin-fbis-most-wanted-list",
+      "source": "South China Morning Post",
+      "date": "2026-11-21T14:00+00:00",
+      "teaser": "Mexico’s military announced on Saturday that it had captured a drug kingpin on the FBI’s list of 10 most wanted fugitives in an operation that left four soldiers and seven suspected gunmen dead. Fausto Isidro Meza, alias “Chapo Isidro,” was captured on Friday night during a special forces raid in th"
+     },
+     {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-21T23:31+00:00",
+      "teaser": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.91,
     "items": [
      {
       "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
@@ -132,7 +152,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.91,
     "items": [
      {
       "title": "Trump orders federal contractors to check with White House before responding to Congress",
@@ -152,27 +172,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
-    "items": [
-     {
-      "title": "Mexico captures drug kingpin on FBI’s most wanted list in firefight that left 11 dead",
-      "url": "https://www.scmp.com/news/world/americas/article/3375342/mexico-captures-drug-kingpin-fbis-most-wanted-list",
-      "source": "South China Morning Post",
-      "date": "2026-11-21T14:00+00:00",
-      "teaser": "Mexico’s military announced on Saturday that it had captured a drug kingpin on the FBI’s list of 10 most wanted fugitives in an operation that left four soldiers and seven suspected gunmen dead. Fausto Isidro Meza, alias “Chapo Isidro,” was captured on Friday night during a special forces raid in th"
-     },
-     {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-21T21:05+00:00",
-      "teaser": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.78,
     "items": [
      {
       "title": "UN talks on AI in warfare end with no commitment to binding rules",
@@ -192,7 +192,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.75,
     "items": [
      {
       "title": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
@@ -212,7 +212,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.65,
     "items": [
      {
       "title": "Finnland: Russisches Frachtschiff nach Drohnenangriff in Brand",
@@ -232,7 +232,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.71,
+    "score": 3.63,
     "items": [
      {
       "title": "Liveblog Ukrainekrieg: Rutte: NATO wird jeden Zentimeter von Polen verteidigen",
@@ -252,7 +252,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.48,
     "items": [
      {
       "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
@@ -274,7 +274,7 @@
   "Deutschland": [
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.91,
     "items": [
      {
       "title": "E-Autos besonders im Fokus: Was ein Wechsel der Kfz-Versicherung bringen kann",
@@ -287,20 +287,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Erste Bilder vom Abendspiel - Jonathan Burkardt im Studio",
-      "url": "https://www.zdf.de/video/shows/das-aktuelle-sportstudio-220/das-aktuelle-sportstudio-vom-21-november-2026-100",
-      "source": "ZDF",
-      "date": "2026-11-21T23:35+01:00",
-      "teaser": "\"das aktuelle sportstudio\" berichtet von den Spielen der 1. Bundesliga, zeigt Ausschnitte des Abendspiels als Free-TV-Premiere und den Sport des Tages. Nicht fehlen darf die Torwand."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "VfB Stuttgart wartet gegen Schalke vergeblich auf das \"Quäntchen Glück\"",
@@ -313,7 +300,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.75,
     "items": [
      {
       "title": "Heiraten ohne Trauschein: Der Trend zur \"Fake Wedding\"",
@@ -326,7 +313,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.78,
+    "score": 1.7,
     "items": [
      {
       "title": "Karl Lauterbach: »Dass KI die Menschheit auslöscht, halte ich für Unsinn«",
@@ -339,7 +326,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.68,
     "items": [
      {
       "title": "Wie ersetzt man den unersetzlichen Harry Kane?",
@@ -352,7 +339,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.67,
     "items": [
      {
       "title": "Jugendliche nehmen Krebsmedikament, um größer zu werden",
@@ -365,7 +352,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.64,
     "items": [
      {
       "title": "Bald Generalinspekteur: Im guten Geiste Preußens",
@@ -378,7 +365,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.63,
     "items": [
      {
       "title": "Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
@@ -391,7 +378,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.61,
     "items": [
      {
       "title": "Der SC Freiburg eine Spitzenmannschaft? Matanovic trifft und grinst",
@@ -404,7 +391,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.61,
     "items": [
      {
       "title": "\"Unreife\" TSG Hoffenheim beißt sich an der Eintracht die Zähne aus",
@@ -417,7 +404,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.57,
     "items": [
      {
       "title": "Berliner Linke: Schwerdtner befürwortet Fraktionsausschluss von Vanessa Emde",
@@ -427,12 +414,25 @@
       "teaser": "Die Berliner Linksfraktion entscheidet am Dienstag, ob sie die Abgeordnete Vanessa Emde ausschließt. Parteichefin Ines Schwerdtner wirft ihr eine »Egoshow« vor."
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.54,
+    "items": [
+     {
+      "title": "\"Ihr tötet die Zukunft\": Demonstrant unterbricht COP31",
+      "url": "https://www.zdfheute.de/video/politik-cop-klima-konferenz-100.html",
+      "source": "ZDF",
+      "date": "2026-11-21T19:15+01:00",
+      "teaser": "Mit einem roten Galgenstrick um den Hals wirft ein Aktivist den Delegierten vor, die Zukunft zu gefährden. Gleichzeitig stockt der Streit über fossile Energien."
+     }
+    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Baron narkotykowy „El Chapo Isidro” złapany w Meksyku",
@@ -445,7 +445,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.78,
     "items": [
      {
       "title": "NATO reaguje na rosyjskie obiekty w Polsce. Rutte: Absolutnie nie do przyjęcia",
@@ -458,7 +458,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Ozempic i Mounjaro nie tylko odchudzają. Naukowcy badają wpływ na pamięć",
@@ -471,7 +471,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.71,
     "items": [
      {
       "title": "Sikorski o porażce \"wielkiej fantazji\" Putina. \"Chińczycy pokazali jego miejsce w szeregu\"",
@@ -484,7 +484,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.74,
+    "score": 1.66,
     "items": [
      {
       "title": "Alarmy w obwodzie królewieckim. Miało dojść do eksplozji",
@@ -497,7 +497,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.74,
+    "score": 1.66,
     "items": [
      {
       "title": "Leszek Wiwała: O czym nie mówi się, gdy rosną ceny paliw",
@@ -510,7 +510,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.73,
+    "score": 1.65,
     "items": [
      {
       "title": "Spór o ambasadorów. Przydacz zarzuca Sikorskiemu eskalowanie konfliktu",
@@ -523,7 +523,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.64,
     "items": [
      {
       "title": "Puchar Świata w Lillehammer. Polacy odpadli na starcie",
@@ -536,7 +536,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.61,
     "items": [
      {
       "title": "Przydacz oskarża Sikorskiego ws. ambasadorów. \"Prosi o zgodę obce rządy\"",
@@ -549,7 +549,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.68,
+    "score": 1.6,
     "items": [
      {
       "title": "Jacek Dubois: Kryzys w wymiarze sprawiedliwości – chaos w państwie prawa",
@@ -562,7 +562,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.67,
+    "score": 1.59,
     "items": [
      {
       "title": "Apple szykuje największą ofensywę od lat. Aż 18 premier i rewolucja w iPhone’ach",
@@ -575,7 +575,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.51,
     "items": [
      {
       "title": "Wyrok śmierci dla Polaka w USA. \"Wyrachowane zabójstwo\"",
@@ -589,8 +589,8 @@
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 3,
-    "score": 5.79,
+    "sourceCount": 4,
+    "score": 7.71,
     "items": [
      {
       "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
@@ -607,17 +607,17 @@
       "teaser": "Die EU gewinnt die drittgrößte Demokratie der Welt als Partner: Indonesien. Schon bald sollen dadurch etwa Zölle auf europäische Autos entfallen, das ostasiatische Land will mehr wichtige Batterierohstoffe liefern."
      },
      {
-      "title": "Indonesien: EU besiegelt Freihandelsabkommen mit Indonesien – doch Präsident Prabowo verunsichert Investoren",
-      "url": "https://www.handelsblatt.com/politik/international/indonesien-eu-besiegelt-freihandelsabkommen-mit-indonesien/100271180.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-21T14:39+00:00",
-      "teaser": "Der Pakt soll das schwache Geschäft mit Südostasiens größter Volkswirtschaft beleben. Doch Rohstoffnationalismus, eine politische Krise und die rekordschwache Rupiah belasten das Land."
+      "title": "Freihandelsabkommen: EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-und-indonesien-unterzeichnen-weitreichendes-freihandelsabkommen-accg-201704887.html",
+      "source": "FAZ",
+      "date": "2026-11-21T14:53+00:00",
+      "teaser": "Weniger Zölle auf Autos, besserer Zugang zu wichtigen Rohstoffen: Neue Abkommen mit dem weltgrößten Inselstaat sollen europäischen Unternehmen neue Chancen eröffnen. Vielleicht sogar schon 2027?"
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.27,
+    "score": 5.19,
     "items": [
      {
       "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
@@ -644,7 +644,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.7,
     "items": [
      {
       "title": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
@@ -663,28 +663,34 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 2.42,
+    "sourceCount": 1,
+    "score": 1.98,
     "items": [
      {
-      "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
-      "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
-      "source": "The Guardian",
-      "date": "2026-11-21T03:51+00:00",
-      "teaser": "The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.79bn in retail sales on its first day , publisher Rockstar Games has announced, calling it the biggest launch for an"
-     },
-     {
-      "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
-      "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
-      "source": "New York Times",
-      "date": "2026-11-20T21:21+00:00",
-      "teaser": "Anticipation was high after a 13-year gap in the game franchise. No movie has ever made more than $3 billion at the box office."
+      "title": "COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’",
+      "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-21T23:34+00:00",
+      "teaser": "Talks run into second day of overtime as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "The Penny Is Dead. Now It’s Official.",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
+      "source": "New York Times",
+      "date": "2026-11-21T23:12+00:00",
+      "teaser": "President Trump signed a law on Friday formally putting the penny out of mint, a year after it stopped being struck."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "EU-Haushalt: Costa will 204 Milliarden sparen – Merz reicht das nicht",
@@ -697,7 +703,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.81,
     "items": [
      {
       "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
@@ -710,7 +716,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.77,
     "items": [
      {
       "title": "Dream of gas-powered vehicles falters in China’s hydrogen capital",
@@ -723,7 +729,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Jonas Grethlein im Interview: Der Preis des Feuers",
@@ -736,7 +742,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.72,
     "items": [
      {
       "title": "Scheitert die UN-Klimakonferenz in Antalya?",
@@ -749,7 +755,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.78,
+    "score": 1.71,
+    "items": [
+     {
+      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "source": "The Guardian",
+      "date": "2026-11-21T20:15+00:00",
+      "teaser": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in math"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.7,
     "items": [
      {
       "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
@@ -759,38 +778,26 @@
       "teaser": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.77,
-    "items": [
-     {
-      "title": "Harald Christ im Gespräch: „Heute lasse ich mich nicht mehr von einer Partei vereinnahmen“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/was-denkt-harald-christ-der-investor-lobbyist-und-mann-zwischen-den-welten-201689491.html",
-      "source": "FAZ",
-      "date": "2026-11-21T20:03+00:00",
-      "teaser": "Harald Christ ist in vielen Rollen zwischen Wirtschaft und Politik unterwegs. Das sorgt immer wieder für Kritik. Mit seinem Unternehmen will er nicht weniger als einen Beitrag zur deutsch-europäischen Souveränität leisten."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.75,
-    "items": [
-     {
-      "title": "Ostsee: Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand",
-      "url": "https://www.handelsblatt.com/politik/international/ostsee-russisches-frachtschiff-nach-drohnenangriff-vor-finnland-in-brand/100271784.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-21T19:46+00:00",
-      "teaser": "Finnland vermutet die Ukraine hinter dem Angriff. Der Frachter trieb in finnische Gewässer, wo die Behörden den Luft- und Seeverkehr einschränkten."
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.89,
+    "score": 7.9399999999999995,
+    "favorite": true,
+    "items": [
+     {
+      "title": "El probable once del Barça frente al Villarreal",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253851/cambios-medita-flick-villarreal-once.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-22T00:05+01:00",
+      "teaser": "Hansi Flick recupera jugadores, pero sigue teniendo que buscar soluciones ante una situación complicada por las lesiones, especialmente en defensa. Se recupera Koundé para recibir al Villarreal, pero en cambio ha perdido a Thomas Christensen , que se quedó en casa durante el parón para ponerse a pun"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.8100000000000005,
     "favorite": true,
     "items": [
      {
@@ -804,7 +811,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.75,
+    "score": 7.67,
     "favorite": true,
     "items": [
      {
@@ -817,22 +824,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.6899999999999995,
-    "favorite": true,
-    "items": [
-     {
-      "title": "0-0: El Barça Atlètic no pudo con un Espanyol que acabó con nueve",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253784/espanyol-b-barca-atletic-segunda-rfef.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-21T20:08+01:00",
-      "teaser": "El derbi de filiales terminó en empate a cero, pero el Barça Atlètic se marchó con un sabor más amargo que el Espanyol B. En un partido abierto y con ocasiones para ambos bandos, los blanquiazules se quedaron con un hombre menos a falta de 20 minutos y perdieron a otro a falta de 10. El final fue em"
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.68,
     "items": [
      {
       "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
@@ -852,7 +845,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.68,
     "items": [
      {
       "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
@@ -871,28 +864,8 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.42,
-    "items": [
-     {
-      "title": "FC Bayern und Musiala: „Das hat mit ‚Mia san mia‘ und der FC-Bayern-Familie wenig zu tun“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-laesst-jamal-musiala-diskussion-eskalieren-accg-201703349.html",
-      "source": "FAZ",
-      "date": "2026-11-21T15:50+00:00",
-      "teaser": "Hoeneß und Rummenigge tragen den Fall Jamal Musiala in die Öffentlichkeit. Präsident Hainer verteidigt ihr Vorgehen bei der Jahreshauptversammlung gegen Kritik. Doch die entscheidende Frage bleibt offen."
-     },
-     {
-      "title": "Jamal Musiala: Die FC Bayern-Patriarchen senden mit ihrer Demontage ein schlimmes Signal – Kommentar",
-      "url": "https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-21T16:22+01:00",
-      "teaser": "Statt dem wieder genesenen Musiala den Rücken zu stärken, demontieren die Bayern-Patriarchen ihn öffentlich. Sie zeigen damit, dass »Mia san mia« dann doch nicht mehr ist als ein Marketingspruch."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
-    "score": 2.85,
+    "score": 2.77,
     "items": [
      {
       "title": "Match of the Day",
@@ -905,7 +878,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Nemeths Worte erzielen ihre Wirkung: \"Können ruhig mal härter zueinander sein\"",
+      "url": "https://www.kicker.de/nemeths-worte-erzielen-ihre-wirkung-koennen-ruhig-mal-haerter-zueinander-sein-1273695/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-21T22:59+00:00",
+      "teaser": "\"Gespräche\" hatte David Nemeth als Kapitän vom FC St. Pauli nach dem 1:4 beim 1. FC Magdeburg angekündigt. Was daraus medial gemacht wurde, überraschte den Österreicher - gleichwohl war die Wirkung im Heimspiel gegen den VfL Bochum nicht zu übersehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Elfmeter-Fehlschuss und späte Rettung: Real feiert Comeback-Sieg",
@@ -918,7 +904,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
@@ -931,7 +917,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Kracher nach Außenrist-Vorlage: McTominay erlöst Napoli",
@@ -944,7 +930,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Trotz Mbappés Elfer-Fehlschuss: Real dreht Spiel gegen Vigo spät",
@@ -957,7 +943,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Vinicius Junior legt stark vor: Real jubelt über spätes 2:1 von Espi",
@@ -972,7 +958,7 @@
   "Tech & KI": [
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -985,7 +971,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Amazon is complaining about NYC Council on shipping labels, too",
@@ -998,7 +984,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 1.84,
+    "score": 1.76,
     "items": [
      {
       "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
@@ -1018,7 +1004,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.77,
+    "score": 1.69,
     "items": [
      {
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -1031,7 +1017,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.62,
     "items": [
      {
       "title": "Microshifting im Homeoffice: Mit diesen 2 Regeln wird der Arbeitstrend auch für Arbeitgeber zum Gewinn",
@@ -1044,7 +1030,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.62,
     "items": [
      {
       "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
@@ -1057,7 +1043,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.62,
     "items": [
      {
       "title": "G.T.A. VI Is a Monumental Human Achievement",
@@ -1070,7 +1056,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.57,
     "items": [
      {
       "title": "GEO oder SEO? Was Daten von 1.200 B2B-Unternehmen über den wahren Wert von KI-Traffic verraten",
@@ -1083,7 +1069,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.56,
     "items": [
      {
       "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
@@ -1096,7 +1082,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.52,
     "items": [
      {
       "title": "99,4 Prozent nach 15 Tagen zerstört: Eine einzige Atombombe im All würde fast alle Starlink-Satelliten auslöschen",
@@ -1109,7 +1095,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.57,
+    "score": 1.49,
     "items": [
      {
       "title": "The FBI and USDA were reportedly hacked",
@@ -1122,7 +1108,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.53,
+    "score": 1.45,
     "items": [
      {
       "title": "Lassen sich Chips tracken? Was Nvidia und Branchenverbände dazu sagen",
@@ -1164,7 +1150,7 @@
    "topic": "Welt & Politik",
    "source": "FAZ",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Welt & Politik",
@@ -1464,7 +1450,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "topic": "Tech & KI",
