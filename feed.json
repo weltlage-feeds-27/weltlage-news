@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-22T14:02:44+00:00",
+ "fetchedAt": "2026-11-22T14:55:41+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 5,
-    "score": 9.94,
+    "score": 9.93,
     "items": [
      {
       "title": "Indonesia factory hit by deadly blaze: Three killed and 36 missing",
@@ -30,8 +30,8 @@
     ]
    },
    {
-    "sourceCount": 5,
-    "score": 9.85,
+    "sourceCount": 4,
+    "score": 7.77,
     "items": [
      {
       "title": "South Korea: AI cheating sparks exam security chaos",
@@ -48,17 +48,44 @@
       "teaser": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has been g"
      },
      {
-      "title": "South Korea Education Minister resigns amid AI cheating scandal",
-      "url": "https://www.thehindu.com/news/international/south-korea-education-minister-resigns-amid-ai-cheating-scandal/article71730601.ece",
-      "source": "The Hindu",
-      "date": "2026-11-22T12:43+05:30",
-      "teaser": "The country has been gripped by fears of AI-assisted exam cheating since last Sunday (November 15, 2026), when the top scorer in a national tax accountant exam confessed to using a miniature camera and smartphone to achieve a near-perfect score"
+      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
+      "url": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
+      "source": "New York Times",
+      "date": "2026-11-22T08:35+00:00",
+      "teaser": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 4.84,
+    "score": 5.97,
+    "items": [
+     {
+      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "source": "The Guardian",
+      "date": "2026-11-21T17:46+00:00",
+      "teaser": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Cha"
+     },
+     {
+      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+      "source": "New York Times",
+      "date": "2026-11-22T10:16+00:00",
+      "teaser": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives."
+     },
+     {
+      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+      "url": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-22T14:33+00:00",
+      "teaser": "Operation in Sinaloa state resulted in deadly heavy battles between members of security forces and gunmen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 4.77,
     "items": [
      {
       "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
@@ -85,14 +112,34 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.89,
+    "score": 3.99,
     "items": [
      {
-      "title": "Weltklimakonferenz: Keine Einigung auf Abschlusserklärung",
+      "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
+      "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-21T08:26-05:00",
+      "teaser": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday."
+     },
+     {
+      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-22T14:48+00:00",
+      "teaser": "A Russian drone attack kills at least two people near Kyiv as Russian shelling kills one in Zaporizhzhia."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "Weltklimakonferenz COP31: Keine Einigung auf Abschlusserklärung",
       "url": "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
       "source": "Tagesschau",
-      "date": "2026-11-22T13:40+01:00",
-      "teaser": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. Zuvor hatte es am Papier unter anderem von Deutschland und der EU scharfe Kritik gegeben."
+      "date": "2026-11-22T15:12+01:00",
+      "teaser": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. An dem Papier gab es unter anderem von Deutschland und der EU scharfe Kritik."
      },
      {
       "title": "COP 31: Weltklimakonferenz scheitert an gemeinsamer Abschlusserklärung",
@@ -105,7 +152,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.85,
+    "score": 3.77,
     "items": [
      {
       "title": "USA unter Donald Trump: Gouverneur von Washington kritisiert ICE-Festnahmen",
@@ -125,27 +172,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.78,
-    "items": [
-     {
-      "title": "Russian military-linked cargo ship could sink after drone strike in Gulf of Finland, Finnish official warns",
-      "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-21T17:39+00:00",
-      "teaser": "Vladyslav Vlasiuk, Ukrainian President Volodymyr Zelensky's sanctions policy adviser, commented on the incident in remarks to the Kyiv Independent. “Yes, quite a coincidence, isn’t it? It seems that vessels sanctioned by Ukraine for systematically supporting Russia’s military-industrial complex have"
-     },
-     {
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-22T11:25+00:00",
-      "teaser": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.77,
+    "score": 3.7,
     "items": [
      {
       "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
@@ -165,7 +192,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.7,
+    "score": 3.63,
     "items": [
      {
       "title": "Man found dead on Flinders Island believed to have been shot by officer, police say",
@@ -185,27 +212,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.69,
-    "items": [
-     {
-      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-      "source": "The Guardian",
-      "date": "2026-11-21T17:46+00:00",
-      "teaser": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Cha"
-     },
-     {
-      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-      "source": "New York Times",
-      "date": "2026-11-22T10:16+00:00",
-      "teaser": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.67,
+    "score": 3.6,
     "items": [
      {
       "title": "Princess of Wales opens up about cancer",
@@ -225,76 +232,49 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.65,
+    "score": 2.65,
     "items": [
      {
-      "title": "Live: At least 14 feared trapped after Russian strike in Kyiv region, Zelensky says",
-      "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
-      "source": "France 24",
-      "date": "2026-11-22T06:15+00:00",
-      "teaser": "Ukrainian President Volodymyr Zelensky said at least 14 people were missing after a Russian drone struck a five-story residential building in Dymer, in the Kyiv region, injuring two others. Meanwhile, Finland warned the war was \"spilling over\" after a drone set fire to a Russian cargo ship in the ea"
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "url": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+      "source": "PBS NewsHour",
+      "date": "2026-11-21T14:29-05:00",
+      "teaser": "The order is the Republican administration's latest effort to resist what are expected to be wide-ranging and aggressive oversight efforts from Democrats when they take over Congress in January."
      },
      {
-      "title": "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskyy says",
-      "url": "https://www.thehindu.com/news/international/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskyy-says/article71731042.ece",
-      "source": "The Hindu",
-      "date": "2026-11-22T15:21+05:30",
-      "teaser": "Emergency ‌service footage showed rescuers ​searching through a large pile of ⁠rubble, helping residents descend ⁠from the damaged building by ‌ladder and crane platform"
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+      "source": "NPR (Politik)",
+      "date": "2026-11-21T17:40-05:00",
+      "teaser": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.52,
+    "score": 2.51,
     "items": [
      {
-      "title": "EU und Indonesien besiegeln Handelsabkommen",
-      "url": "https://www.dw.com/de/eu-und-indonesien-besiegeln-handelsabkommen/a-80012521?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-22T08:18+00:00",
-      "teaser": "Mit einem neuen Abkommen wollen EU und Indonesien Handel und Investitionen ausbauen. Besonders wichtig für Europa: der Zugang zu Rohstoffen wie Nickel und Kobalt für die Batterieindustrie."
+      "title": "UN talks on AI in warfare end with no commitment to binding rules",
+      "url": "https://www.cbc.ca/news/world/ai-warfare-regulations-un-talks-9.7431398?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-21T16:05-05:00",
+      "teaser": "UN-backed talks this week on regulating AI in warfare ended Saturday with nations agreeing to further discussion, but without a consensus on developing firm rules on how to rein in deadly autonomous weapons."
      },
      {
-      "title": "Freihandel: EU und Indonesien unterzeichnen Handelsabkommen",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/freihandelsabkommen-eu-indonesien-zolle-rohstoffe",
-      "source": "Zeit",
-      "date": "2026-11-21T23:28+00:00",
-      "teaser": "Die EU hat nach langen Verhandlungen ein Handelsabkommen mit dem weltgrößten Inselstaat unterzeichnet. Damit fallen etwa indonesische Zölle auf europäische Autos weg."
+      "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "source": "NPR",
+      "date": "2026-11-21T09:18-05:00",
+      "teaser": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
      }
     ]
    }
   ],
   "Deutschland": [
    {
-    "sourceCount": 3,
-    "score": 5.76,
-    "items": [
-     {
-      "title": "Deutschland Liveblog: FDP-Politikerin Preisler bei propalästinensischer Demo attackiert",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-22T08:38+00:00",
-      "teaser": "Demoteilnehmerin soll auf sie eingetreten haben +++ Linken-Vorsitzende Schwerdtner: Emdes Ego-Show brauchen wir nicht +++ Höcke bleibt Vorsitzender der Thüringer AfD +++ alle Entwicklungen im Liveblog"
-     },
-     {
-      "title": "Antisemitismus: FDP-Politikerin bei propalästinensischer Demo angegriffen",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/karoline-preisler-angriff-demonstration-berlin-antisemitismus-katharina-von-schnurbein",
-      "source": "Zeit",
-      "date": "2026-11-22T01:40+00:00",
-      "teaser": "Die Aktivistin Karoline Preisler macht sich gegen Antisemitismus stark. Jetzt ist sie in Berlin in ein Handgemenge geraten und getreten worden. Die Polizei griff ein."
-     },
-     {
-      "title": "Berlin: FDP-Politikerin bei propalästinensischer Demo attackiert",
-      "url": "https://www.sueddeutsche.de/politik/karoline-preisler-fdp-angriff-demo-berlin-li.3584235",
-      "source": "Süddeutsche",
-      "date": "2026-11-22T11:07+00:00",
-      "teaser": "Karoline Preisler wird nach Polizeiangaben geschubst und getreten, dann geht sie zu Boden. Der israelische Außenminister dankt der Politikerin für ihren Mut."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.84,
+    "score": 3.77,
     "items": [
      {
       "title": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
@@ -313,15 +293,22 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 1.99,
+    "sourceCount": 2,
+    "score": 3.48,
     "items": [
      {
-      "title": "Defekte Heizung: 19 Menschen in Allgäuer Kirche verletzt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/defekte-heizung-verletzte-kirche-allgaeu-100.html",
-      "source": "SWR",
-      "date": "2026-11-22T14:57+01:00",
-      "teaser": "Ein Heizungsdefekt setzte in einer Kirche im Allgäu Kohlenmonoxid frei: 19 Menschen wurden verletzt, vier davon schwer. Was über den Großeinsatz in Bad Grönenbach bekannt ist."
+      "title": "Deutschland Liveblog: FDP-Politikerin Preisler bei propalästinensischer Demo attackiert",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
+      "source": "FAZ",
+      "date": "2026-11-22T08:38+00:00",
+      "teaser": "Demoteilnehmerin soll auf sie eingetreten haben +++ Linken-Vorsitzende Schwerdtner: Emdes Ego-Show brauchen wir nicht +++ Höcke bleibt Vorsitzender der Thüringer AfD +++ alle Entwicklungen im Liveblog"
+     },
+     {
+      "title": "Antisemitismus: FDP-Politikerin bei propalästinensischer Demo angegriffen",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/karoline-preisler-angriff-demonstration-berlin-antisemitismus-katharina-von-schnurbein",
+      "source": "Zeit",
+      "date": "2026-11-22T01:40+00:00",
+      "teaser": "Die Aktivistin Karoline Preisler macht sich gegen Antisemitismus stark. Jetzt ist sie in Berlin in ein Handgemenge geraten und getreten worden. Die Polizei griff ein."
      }
     ]
    },
@@ -330,11 +317,24 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "source": "ZDF",
-      "date": "2026-11-22T14:50+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+      "title": "15 Euro: VdK lehnt Gebühr für Verfahren vor Sozialgerichten ab",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/sozialgerichte-vdk-gebuehr-eilverfahren-christian-heinz-gxe",
+      "source": "Zeit",
+      "date": "2026-11-22T14:43+00:00",
+      "teaser": "Die Justizministerkonferenz will für Eilverfahren an Sozialgerichten eine Gebühr erheben. Der Sozialverband VdK lehnt das grundsätzlich ab und schlägt Alternativen vor."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Defekte Heizung: 19 Menschen in Allgäuer Kirche verletzt",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/friedrichshafen/defekte-heizung-verletzte-kirche-allgaeu-100.html",
+      "source": "SWR",
+      "date": "2026-11-22T15:41+01:00",
+      "teaser": "Ein Heizungsdefekt setzte in einer Kirche im Allgäu Kohlenmonoxid frei: 19 Menschen wurden verletzt, vier davon schwer. Was über den Großeinsatz in Bad Grönenbach bekannt ist."
      }
     ]
    },
@@ -343,76 +343,76 @@
     "score": 1.97,
     "items": [
      {
+      "title": "Berliner Abgeordnete: Vanessa Emde hat unter West-Linken viele Freunde",
+      "url": "https://www.faz.net/aktuell/politik/inland/vanessa-emde-eine-galionsfigur-fuer-teile-der-linkspartei-accg-201706022.html",
+      "source": "FAZ",
+      "date": "2026-11-22T14:35+00:00",
+      "teaser": "Am Dienstag entscheidet die Berliner Linksfraktion, ob sie Vanessa Emde ausschließt. Die Auseinandersetzung um die Neuköllner Abgeordnete geht in der Linkspartei weit über Berlin hinaus."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Evangelische Kirche: Synoden stimmen Fusionsplan in Ostdeutschland zu",
+      "url": "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-synoden-stimmen-fusionsplan-in-ostdeutschland-zu-accg-201706371.html",
+      "source": "FAZ",
+      "date": "2026-11-22T14:30+00:00",
+      "teaser": "Die Beschlüsse öffnen die Tür zu einer gemeinsamen ostdeutschen Landeskirche. Bischöfe argumentieren mit schrumpfenden Mitgliederzahlen und Erträgen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Linke in Berlin: Schwertdner für Emdes Ausschluss",
+      "url": "https://www.sueddeutsche.de/politik/linke-in-berlin-schwertdner-fuer-emdes-ausschluss-li.3584422",
+      "source": "Süddeutsche",
+      "date": "2026-11-22T14:32+00:00",
+      "teaser": ""
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "AfD in Nordrhein-Westfalen: Wie viel Remigration darf’s denn sein?",
+      "url": "https://www.sueddeutsche.de/politik/afd-nordrhein-westfalen-martin-vincentz-remigration-parteitag-landtagswahl-li.3581449",
+      "source": "Süddeutsche",
+      "date": "2026-11-22T14:23+00:00",
+      "teaser": "Die AfD in Nordrhein-Westfalen steht vor der wichtigsten Wahl ihrer Geschichte. Nur: Sie ist zutiefst gespalten. Der Streit dreht sich um ein Kernkonzept der Radikalen in der Partei. Beim Parteitag gelingt noch mal ein Kompromiss. Fürs Erste."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Silvester: Kliniken, Feuerwehr und Polizei fordern Böllerverbot noch dieses Jahr",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/boellerverbot-berlin-polizei-feuerwehr-sprengstoffrecht-iris-spranger-gxe",
+      "source": "Zeit",
+      "date": "2026-11-22T14:19+00:00",
+      "teaser": "Berliner Einsatzkräfte wollen eine erneute Überforderung durch Feuerwerksunfälle verhindern. Für ein Böllerverbot braucht Berlin aber noch eine Rückmeldung vom Bund."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
       "title": "Bundesregierung: Merz würde bei Neustart als Bundeskanzler »Erwartungen dämpfen«",
       "url": "https://www.zeit.de/politik/deutschland/2026-11/friedrich-merz-bundeskanzler-sat1-frag-mal-den-kanzler-gxe",
       "source": "Zeit",
-      "date": "2026-11-22T13:40+00:00",
+      "date": "2026-11-22T14:16+00:00",
       "teaser": "Der Bundeskanzler zeigt sich weiter zufrieden mit dem Koalitionsvertrag. »Wenn du in der Politik nur beliebt sein willst, dann machst du nicht alles richtig«, sagt Merz."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Femizide: Stefanie Hubig will Mordparagrafen verschärfen",
-      "url": "https://www.spiegel.de/politik/deutschland/femizide-stefanie-hubig-will-mordparagrafen-verschaerfen-a-c6d29e6d-8edb-4651-8128-ef74725623e4#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-22T14:37+01:00",
-      "teaser": "»Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden«, sagt Justizministerin Hubig. Dazu hat sie jetzt einen Gesetzentwurf vorgelegt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Weltklimakonferenz endet ergebnislos - \"herbe Enttäuschung\"",
-      "url": "https://www.zdfheute.de/politik/ausland/cop-31-klimakonferenz-antalya-100.html",
-      "source": "ZDF",
-      "date": "2026-11-22T14:34+01:00",
-      "teaser": "So lange hat noch keine Weltklimakonferenz zuvor gedauert - gebracht hat es nichts: Die COP31 endet ohne Abschlusserklärung, auch weil Deutschland dem Text nicht zustimmen konnte."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "NRW-Innenminister Herbert Reul gibt Update über Gesundheitszustand",
-      "url": "https://www.spiegel.de/politik/deutschland/nrw-innenminister-herbert-reul-gibt-update-ueber-gesundheitszustand-a-1508172b-e030-493e-8b8a-03706f84c6bd#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-22T14:24+01:00",
-      "teaser": "Rund sechs Wochen nach seinem Sturz meldet sich Herbert Reul auf Instagram zu Wort. Nordrhein-Westfalens Innenminister erzählt dort, wie anstrengend die Reha sei – und wie er dabei vorankomme."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "COP31 in Antalya: Klimakonferenz scheitert an zentralem Abschlusstext",
-      "url": "https://www.sueddeutsche.de/politik/cop31-antalya-klimagipfel-einigung-gescheitert-li.3584161",
-      "source": "Süddeutsche",
-      "date": "2026-11-22T13:26+00:00",
-      "teaser": "Es seien keine Beschlüsse gefasst worden, sagt Konferenz-Präsident Murat Kurum. Mehrere Staaten lehnten den vorgelegten „Antalya-Pakt“ ab – auch die EU. Stark kritisiert wurde, dass der Abschied von fossilen Energien darin zu kurz komme."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Gegen das Vergessen - Wie ein jüdisches Kind die NS-Zeit überlebte",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/zeitzeugin-erzaehlt-verfolgungsgeschichte-in-der-ns-zeit-100.html",
-      "source": "SWR",
-      "date": "2026-11-22T14:27+01:00",
-      "teaser": "Eva Weyl hat das niederländische Durchgangslager Westerbork überlebt. Heute spricht die 91-Jährige an Schulen über den Holocaust und fordert Jugendliche auf, Haltung zu zeigen."
      }
     ]
    },
@@ -421,32 +421,117 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Nach Gipfeltreffen in China: Trump nennt Putin erneut „Freund“",
-      "url": "https://www.sueddeutsche.de/politik/nach-gipfeltreffen-in-china-trump-nennt-putin-erneut-freund-li.3584393",
+      "title": "Drohnen-Attacke in der Ostsee: „Der Krieg weitet sich auf unsere unmittelbare Nachbarschaft aus“",
+      "url": "https://www.sueddeutsche.de/politik/schattenflotte-drohnenangriff-ostsee-finnland-ukraine-russland-li.3584239",
       "source": "Süddeutsche",
-      "date": "2026-11-22T13:20+00:00",
-      "teaser": ""
+      "date": "2026-11-22T14:11+00:00",
+      "teaser": "In der Ostsee greifen Drohnen einen russischen Militärlogistik-Frachter an. Finnland vermutet dahinter die Ukraine. Auch in Deutschland löst der Vorfall große Sorgen um die Sicherheit aus."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.94,
     "items": [
      {
-      "title": "Bildung in Deutschland: \"Entwicklung besorgniserregend\"",
-      "url": "https://www.zdfheute.de/politik/deutschland/bildungsforscher-maaz-schule-pisa-diversitaet-100.html",
+      "title": "Indonesien: Tote und Vermisste nach Brand in Süßwarenfabrik",
+      "url": "https://www.zdfheute.de/video/panorama-jakarta-brand-100.html",
       "source": "ZDF",
-      "date": "2026-11-22T14:13+01:00",
-      "teaser": "Noch immer hänge Bildungserfolg \"stark\" von der sozialen Herkunft ab, sagt Bildungsforscher Kai Maaz im ZDF. Es brauche daher eine frühe Förderung und multiprofessionelle Teams."
+      "date": "2026-11-22T15:15+01:00",
+      "teaser": "Mindestens drei Menschen sind bei einem Brand in einer Süßwarenfabrik in Indonesien ums Leben gekommen. Mehr als 30 Menschen werden vermisst. Die Brandursache ist bislang unklar."
      }
     ]
    }
   ],
   "Polen": [
    {
+    "sourceCount": 2,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "Fiasko szczytu klimatycznego COP31. Państwa nie osiągnęły porozumienia",
+      "url": "https://www.rp.pl/polityka/art45524581-fiasko-szczytu-klimatycznego-cop31-panstwa-nie-osiagnely-porozumienia",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T15:08+01:00",
+      "teaser": "Delegaci uczestniczący w szczycie klimatycznym COP31 nie zdołali uzgodnić wspólnego stanowiska. Sprzeciw Unii Europejskiej wzbudził przede wszystkim brak odniesienia w projekcie porozumienia do paliw kopalnych."
+     },
+     {
+      "title": "Fiasko szczytu klimatycznego. Spór o paliwa kopalne",
+      "url": "https://www.dw.com/pl/fiasko-szczytu-klimatycznego-spór-o-paliwa-kopalne/a-80013584?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-22T12:36+00:00",
+      "teaser": "Podczas światowej konferencji klimatycznej COP31 w tureckiej Antalyi delegacjom nie udało się uzgodnić wspólnej deklaracji końcowej. Oznacza to fiasko szczytu."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Black Friday: Polowanie na okazje trwa, chociaż sklepy oszukują na promocjach",
+      "url": "https://www.rp.pl/handel/art45521911-black-friday-polowanie-na-okazje-trwa-chociaz-sklepy-oszukuja-na-promocjach",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T15:48+01:00",
+      "teaser": "Niemal trzy czwarte klientów planuje zrobić w tym roku okazyjne zakupy podczas Black Friday. Z drugiej strony niewiele mniej badanych zauważa podnoszenie przez sklepy cen przed tym dniem, by obniżka wyglądała atrakcyjniej."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Tomasz Salwa: Komisyjny projekt ustroju prokuratury a niezależność prokuratora",
+      "url": "https://www.rp.pl/rzecz-o-prawie/art45496351-tomasz-salwa-komisyjny-projekt-ustroju-prokuratury-a-niezaleznosc-prokuratora",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T15:41+01:00",
+      "teaser": "Propozycja komisji kodyfikacyjnej nie zapewnia dostatecznych gwarancji niezależności prokuratora. Łączy szerokie uprawnienia ingerowania w przydział spraw z mechanizmami oceny i odpowiedzialności, które osłabiają stabilność służby"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Maciej Zaborowski: Adwokackie wróżby",
+      "url": "https://www.rp.pl/rzecz-o-prawie/art45496411-maciej-zaborowski-adwokackie-wrozby",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T15:33+01:00",
+      "teaser": "Ludzie listy piszą. Do adwokatów również. I często mają już wszystko: opis zdarzeń, dowody, oczekiwany wynik. Potrzebują tylko kogoś, kto znajdzie rozwiązanie łączące te trzy elementy."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Bundeswehra odwołała przejazd kolumny czołgów przez Polskę. Media: Z uwagi na Rosję",
+      "url": "https://radar.rp.pl/przemysl-zbrojeniowy/art45524431-bundeswehra-odwolala-przejazd-kolumny-czolgow-przez-polske-media-z-uwagi-na-rosje",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T15:19+01:00",
+      "teaser": "Niemieckie czołgi i pojazdy wojskowe miały trafić na Litwę na ćwiczenia Grand Eagle 26 drogą lądową przez Polskę, jednak w ostatniej chwili zapadła decyzja, by sprzęt przetransportować koleją – podał „Bild”. Według tego źródła, chodziło o to, by nie prowokować rosyjskiego przywódcy Władimira Putina."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Bundeswehra zmienia plany, by uniknąć prowokowania Rosji",
+      "url": "https://www.dw.com/pl/bundeswehra-zmienia-plany-by-uniknąć-prowokowania-rosji/a-80013902?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-22T14:14+00:00",
+      "teaser": "Bundeswehra w ostatniej chwili zmieniła plany przerzutu niemieckich wojsk z Polski na Litwę, aby uniknąć prowokowania Rosji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Ukraina. Ludzie uwięzieni pod gruzami po rosyjskim ataku. Są ofiary śmiertelne",
@@ -459,7 +544,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.89,
     "items": [
      {
       "title": "Kierwiński żąda od polityków PiS przeprosin dla funkcjonariuszy. \"Szczuli na Policję\"",
@@ -472,7 +557,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.87,
     "items": [
      {
       "title": "Projekt PiS o „zabójstwie drogowym“ niewiele zmieni. Prawnik: trudno udowodnić zamiar",
@@ -485,7 +570,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Artur Bartkiewicz: Donald Trump jednym zdjęciem daje prawicy lekcję politycznego realizmu",
@@ -498,7 +583,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.86,
     "items": [
      {
       "title": "Jakub Józef Orliński zdobył operowego Oscara. Już po raz drugi",
@@ -511,7 +596,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.86,
     "items": [
      {
       "title": "Marzenie o 25 miliardach euro. Finlandia szuka u siebie majątku Rosji i Gazpromu",
@@ -521,117 +606,12 @@
       "teaser": "Finlandia stara się zająć majątek Rosji i Gazpromu o wartości ponad 25 mld euro. Na razie Helsinkom udało się nałożyć areszt na rosyjski majątek wart „kilkadziesiąt milionów euro”. Konfiskata całości jest nierealna."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Ewakuowano załogę rosyjskiego statku Sparta II. \"Akcja gaszenia pożaru jest nadal prowadzona\"",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33144954,ewakuowano-zaloge-rosyjskiego-statku-sparta-ii-akcja-gaszenia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-22T13:09+00:00",
-      "teaser": "Szesnastoosobowa załoga statku towarowego Sparta II, na którym w wyniku ataku dronów na Zatoce Fińskiej doszło do eksplozji i pożaru, została ewakuowana. W akcji gaśniczej biorą udział fińskie, estońskie oraz rosyjskie jednostki."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Polacy podzieleni w ocenie prezydentury Karola Nawrockiego. Nowy sondaż",
-      "url": "https://www.rp.pl/polityka/art45524321-polacy-podzieleni-w-ocenie-prezydentury-karola-nawrockiego-nowy-sondaz",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T14:02+01:00",
-      "teaser": "Niemal połowa respondentów dobrze ocenia prezydenturę Karola Nawrockiego, ale niewiele mniej wystawia mu negatywną ocenę. Jak wynika z sondażu opublikowanego przez Wirtualną Polskę, podział jest szczególnie widoczny między elektoratami największych partii."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Bogusław Chrabota: Fukuyama ma dla nas proste rady, ale czy ktoś się nimi przejmie?",
-      "url": "https://www.rp.pl/plus-minus/art45520881-boguslaw-chrabota-fukuyama-ma-dla-nas-proste-rady-ale-czy-ktos-sie-nimi-przejmie",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T14:02+01:00",
-      "teaser": "Na marginesie rozważań o przyszłości pojawiają się pytania, czy aby na pewno demokratyczny liberalizm nie będzie, czy nawet już dziś nie jest konfrontowany z innymi porządkami społecznymi?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Marcin Możdżonek o retorsjach wobec Rosji: Może i nasze pociski powinny gdzieś spaść",
-      "url": "https://www.rp.pl/polityka/art45524231-marcin-mozdzonek-o-retorsjach-wobec-rosji-moze-i-nasze-pociski-powinny-gdzies-spasc",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T13:54+01:00",
-      "teaser": "– Gdybyśmy byli bardzo silnym państwem, może i nasze jakieś pociski powinny spaść gdzieś w jakimś miejscu obok, w ramach retorsji – powiedział Marcin Możdżonek. Polityk Konfederacji komentował w Radiu Zet naruszenie polskiej przestrzeni powietrznej i upadek rosyjskich rakiet na terytorium Polski. – "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Dwie superpełnie rozświetlą niebo jeszcze w tym roku. Zimny Księżyc z wyjątkową datą",
-      "url": "https://www.rp.pl/kraj/art45520611-dwie-superpelnie-rozswietla-niebo-jeszcze-w-tym-roku-zimny-ksiezyc-z-wyjatkowa-data",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T13:53+01:00",
-      "teaser": "Jeszcze przed końcem tego roku miłośnicy astronomii będą mogli podziwiać na niebie dwa wyjątkowe zjawiska. Mowa o superpełniach. Pierwsza z nich pojawi się już w przyszłym tygodniu, natomiast drugą zobaczyć będzie można w Wigilię Bożego Narodzenia."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "PiS znów obiecuje tanie mieszkania i kredyt. Państwo ma być deweloperem",
-      "url": "https://www.rp.pl/nieruchomosci/art45524201-pis-znow-obiecuje-tanie-mieszkania-i-kredyt-panstwo-ma-byc-deweloperem",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T13:39+01:00",
-      "teaser": "Państwowa agencja miałaby budować mieszkania własnościowe, sprzedawane młodym rodzinom na tani kredyt. Nakłady na program miałyby sięgnąć 0,5 proc. PKB, co miałoby pozwolić budować 50-100 tys. mieszkań rocznie. PiS obiecuje M3 za 400-450 tys. zł."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 3,
-    "score": 4.52,
-    "items": [
-     {
-      "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
-      "source": "Tagesschau",
-      "date": "2026-11-21T21:17+01:00",
-      "teaser": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren."
-     },
-     {
-      "title": "EU und Indonesien unterzeichnen weitreichenden Handelspakt",
-      "url": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-21T19:25+01:00",
-      "teaser": "Die EU gewinnt die drittgrößte Demokratie der Welt als Partner: Indonesien. Schon bald sollen dadurch etwa Zölle auf europäische Autos entfallen, das ostasiatische Land will mehr wichtige Batterierohstoffe liefern."
-     },
-     {
-      "title": "Freihandelsabkommen: EU und Indonesien unterzeichnen weitreichenden Handelsdeal",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-und-indonesien-unterzeichnen-weitreichendes-freihandelsabkommen-accg-201704887.html",
-      "source": "FAZ",
-      "date": "2026-11-21T14:53+00:00",
-      "teaser": "Weniger Zölle auf Autos, besserer Zugang zu wichtigen Rohstoffen: Neue Abkommen mit dem weltgrößten Inselstaat sollen europäischen Unternehmen neue Chancen eröffnen. Vielleicht sogar schon 2027?"
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.91,
     "items": [
      {
       "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
@@ -651,7 +631,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.94,
+    "score": 3.87,
     "items": [
      {
       "title": "Keine Abschlusserklärung: Einigung bei Weltklimakonferenz gescheitert",
@@ -671,7 +651,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
+    "score": 3.76,
     "items": [
      {
       "title": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
@@ -691,27 +671,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.49,
     "items": [
-     {
-      "title": "Business-Ticker: FT-Bericht: Alice Huang hat Kontakte zu Chipschmugglern",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
-      "source": "FAZ",
-      "date": "2026-11-22T08:48+00:00",
-      "teaser": "IG Metall weitet 24-Stunden-Streiks im Norden aus +++ Tesla-Ausbau: Sorge wegen Verkehr und Wohnraum um Grünheide +++ „Unsinn“: Tiktok kritisiert Verkaufspläne vom Kulturstaatsminister Weimer +++ alle Neuigkeiten im Unternehmen-Liveblog"
-     },
      {
       "title": "Nvidia-Skandal: Hatte Alice Huang Kontakte zu Chipschmugglern?",
       "url": "https://www.handelsblatt.com/technik/ki/nvidia-skandal-hatte-alice-huang-kontakte-zu-chipschmugglern/100271827.html",
       "source": "Handelsblatt",
       "date": "2026-11-22T08:13+00:00",
       "teaser": "Die frühere Megaspeed-Managerin soll Nvidia-Chips über ein Netzwerk nach China gebracht haben. Ein neuer Bericht nennt Verbindungen zu Gaming-Konzernen und mutmaßlichen Schleusern."
+     },
+     {
+      "title": "Business-Ticker: FT-Bericht: Alice Huang hat Kontakte zu Chipschmugglern",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
+      "source": "FAZ",
+      "date": "2026-11-22T08:48+00:00",
+      "teaser": "IG Metall weitet 24-Stunden-Streiks im Norden aus +++ Tesla-Ausbau: Sorge wegen Verkehr und Wohnraum um Grünheide +++ alle Neuigkeiten im Unternehmen-Liveblog"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.43,
+    "score": 3.36,
     "items": [
      {
       "title": "Paolo Bulgari: Schmuckunternehmer Paolo Bulgari ist tot",
@@ -731,7 +711,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.51,
+    "score": 2.45,
+    "items": [
+     {
+      "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+      "source": "Tagesschau",
+      "date": "2026-11-21T21:17+01:00",
+      "teaser": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren."
+     },
+     {
+      "title": "EU und Indonesien unterzeichnen weitreichenden Handelspakt",
+      "url": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-21T19:25+01:00",
+      "teaser": "Die EU gewinnt die drittgrößte Demokratie der Welt als Partner: Indonesien. Schon bald sollen dadurch etwa Zölle auf europäische Autos entfallen, das ostasiatische Land will mehr wichtige Batterierohstoffe liefern."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.44,
     "items": [
      {
       "title": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
@@ -751,7 +751,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "How Six Americans Under 40 Are Saving for Retirement",
+      "url": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
+      "source": "New York Times",
+      "date": "2026-11-22T14:35+00:00",
+      "teaser": "Whether they take a traditional path or go their own way, some younger workers are managing to build a nest egg while juggling other financial challenges."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Legal, aber nicht gerecht?: Neue Debatte um Erbschaftsteuer",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/erbschaftsteuer-union-warnt-vor-schnellschuessen-nach-doepfner-affaere-accg-201706427.html",
+      "source": "FAZ",
+      "date": "2026-11-22T14:11+00:00",
+      "teaser": "Ein Milliardengeschenk für Springer-Chef Döpfner sorgt für Empörung. CDU-Finanzpolitiker Fritz Güntzler warnt davor, das Erbschaftsteuerrecht hektisch umzubauen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Sanctioned Russian vessel ablaze in Finnish waters after drone attack",
+      "url": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-22T14:15+00:00",
+      "teaser": "Finland’s prime minister says ‘war is spilling over into our immediate vicinity’"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Weltklimakonferenz: Das Klima-Drama von Antalya",
@@ -764,7 +803,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.91,
     "items": [
      {
       "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
@@ -774,51 +813,12 @@
       "teaser": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Deep Read: Zehn Wochen vom vertraulichen Brief bis zum Aus: So scheiterte der Milliarden-Plan von BASF",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/basf-und-evonik-der-zerplatzte-traum-vom-deutschen-chemie-champion/100271483.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-22T13:35+00:00",
-      "teaser": "BASF-Chef Kamieth wollte mit Evonik einen global mächtigen Chemie-Champion schaffen. Doch sein Management unterschätzte den politischen Widerstand. Rekonstruktion eines Fehlschlags."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Börse: Chinas Börsen lockern Regeln für Wertpapierkredite",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/china-boersen-anleger-koennen-sich-ab-30-november-mehr-geld-fuer-aktien-leihen/100271866.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-22T13:34+00:00",
-      "teaser": "Die chinesischen Leitindizes haben zuletzt deutlich nachgelassen. Darum werden nun die Vorgaben gelockert. Auch Südkorea und Taiwan planen Maßnahmen gegen fallende Kurse."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "South Africa takes the low road after the ANC’s humiliation",
-      "url": "https://www.ft.com/content/26ba0881-5865-433e-8389-fa98f0b28e31?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-22T13:23+00:00",
-      "teaser": "Former liberation party is ignoring voters and jeopardising the national coalition"
-     }
-    ]
    }
   ],
   "Sport": [
    {
-    "sourceCount": 1,
-    "score": 7.99,
+    "sourceCount": 2,
+    "score": 9.96,
     "favorite": true,
     "items": [
      {
@@ -827,40 +827,67 @@
       "source": "Mundo Deportivo (Barça)",
       "date": "2026-11-22T14:45+01:00",
       "teaser": "Malas sensaciones las que tuvo el FC Barcelona en la primera parte contra el Villarreal . El equipo de Hansi Flick encajó dos goles al poco del pitido inicial, con tantos de Buchanam y Oluwayesi y Lamine Yamal , que fue de los futbolistas más activos en la primera parte, erró un penalti en el minuto"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.95,
-    "favorite": true,
-    "items": [
+     },
      {
-      "title": "Buchanan y Oluwaseyi adelantaron al Villarreal en un arranque demoledor",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254094/buchanan-oluwaseyi-adelantan-villarreal-arranque-demoledor.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-22T14:24+01:00",
-      "teaser": "Inicio demoledor del Villarreal en el duelo contra el Barça en el Spotify Camp Nou. El 'submarino amarillo' golpeó dos veces en los primeros siete minutos para colocar el 0-2, gracias a los goles de Buchanan y Oluwaseyi . Un arranque que sorprendió a los azulgrana, que no se esperaban el arranque fr"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.9399999999999995,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Kalte Dusche für Barcelona: Villareal erhöht nach blitzsauberem Konter auf 2:0",
-      "url": "https://www.kicker.de/kalte-dusche-fuer-barcelona-villareal-erhoeht-nach-blitzsauberem-konter-auf-2-0-1273871/video#omrss",
+      "title": "Lamine Yamal bedient Fermin: Barca gleicht gegen Villarreal aus",
+      "url": "https://www.kicker.de/lamine-yamal-bedient-fermin-barca-gleicht-gegen-villarreal-aus-1273891/video#omrss",
       "source": "kicker",
-      "date": "2026-11-22T13:17+00:00",
-      "teaser": "Der FC Villarreal kontert den FC Barcelona aus und erhöht auf 2:0. Den Treffer gibt es hier im Video."
+      "date": "2026-11-22T14:30+00:00",
+      "teaser": "Fermin erzielt nach Vorarbeit von Lamine Yamal das 2:2. Den Treffer gibt es hier im Video."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.97,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Eigentor zum 3:2: Barca dreht die Partie",
+      "url": "https://www.kicker.de/eigentor-zum-3-2-barca-dreht-die-partie-1273896/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-22T14:35+00:00",
+      "teaser": "Pau Navarro trifft ins eigene Tor und bringt Barcelona in Führung. Den Treffer gibt es hier im Video."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.96,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Gerard Martin per Kopf: Barca verkürzt auf 1:2 gegen Villareal",
+      "url": "https://www.kicker.de/gerard-martin-per-kopf-barca-verkuerzt-auf-1-2-gegen-villareal-1273890/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-22T14:26+00:00",
+      "teaser": "Gerard Martin trifft per Kopf zum 1:2. Den Treffer gibt es hier im Video."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Hertha baut Vorsprung oben aus - FCK bleibt im Verfolgerfeld stecken",
+      "url": "https://www.kicker.de/hertha-baut-vorsprung-oben-aus-fck-bleibt-im-verfolgerfeld-stecken-1272815/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-22T14:28+00:00",
+      "teaser": "Am Sonntag kam der weiter ungeschlagene Spitzenreiter Hertha BSC bei Energie Cottbus in Überzahl zu einem klaren Erfolg. Kaiserslautern löste die anspruchsvolle Heimaufgabe gegen Dresden nach Rückstand mit einem Zähler, im Kellerduell gab es zwischen dem KSC und Osnabrück keine Tore."
+     },
+     {
+      "title": "Hertha gewinnt auch in Cottbus und baut Vorsprung aus",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-2-bundesliga/ma12195016/energie-cottbus_hertha-bsc/liveticker",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-22T15:26+01:00",
+      "teaser": "Hertha BSC bleibt das Maß der Dinge in der 2. Fußball-Bundesliga. Beim FC Energie Cottbus gab es einen deutlichen 4:0-Sieg. Beide Teams beendeten die Partie mit zehn Spielern."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.72,
     "items": [
      {
       "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
@@ -880,105 +907,92 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 2.11,
     "items": [
      {
-      "title": "Torsten Frings bei Werder Bremen: Kein Feingeist, aber ein Antreiber",
-      "url": "https://www.11freunde.de/bundesliga/torsten-frings-bei-werder-bremen-kein-feingeist-aber-ein-antreiber-a-ed75c6a1-57e0-4006-865f-1277450eee53#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-22T15:00+01:00",
-      "teaser": "Torsten Frings wird 50 Jahre alt. Für Bremen und für Deutschland war er eine verlässliche Größe im Mittelfeld, auch wenn seine ruppige Art nicht jedem gefiel. Unserem Autor schon. Zeit für eine Würdigung."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Wolfsburg will mit Breite an die Spitze - Große Sorgen um Shiogai",
-      "url": "https://www.kicker.de/wolfsburg-will-mit-breite-an-die-spitze-grosse-sorgen-um-shiogai-1273834/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-22T13:56+00:00",
-      "teaser": "\"Du weißt, dass du nicht vom Gas gehen kannst\": Der Konkurrenzkampf beim VfL Wolfsburg verschärft sich, Trainer Tobias Strobl schaut genau hin. Bitter: Stürmer Kento Shiogai droht eine längere Pause."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "LIVE! Cottbus in Unterzahl gegen Hertha - FCK arbeitet am Ausgleich",
-      "url": "https://www.kicker.de/live-cottbus-in-unterzahl-gegen-hertha-fck-arbeitet-am-ausgleich-1272815/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-22T13:52+00:00",
-      "teaser": "Am Sonntag erwartet den noch ungeschlagenen Spitzenreiter Hertha BSC das knifflige Auswärtsspiel bei Energie Cottbus, anspruchsvoll dürfte auch die Heimaufgabe des 1. FC Kaiserslautern gegen Dresden werden. Spannung verspricht das Kellerduell zwischen dem KSC und Osnabrück, beide mit elf Zählern."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Jetzt live - Hertha auf Kurs, kommt Lautern nochmal zurück?",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3960/",
+      "title": "Live hören: FC Augsburg gegen 1. FSV Mainz 05 - Bundesliga",
+      "url": "https://www.sportschau.de/fussball/bundesliga/fc-augsburg-gegen-1-fsv-mainz-05,audiostream-fc-augsburg-gegen-1-fsv-mainz-05-108.html",
       "source": "Sportschau",
-      "date": "2026-11-22T14:56+01:00",
-      "teaser": "Am Sonntagnachmittag will Hertha BSC seine Erfolgsserie in der 2. Bundesliga fortsetzen. Außerdem im Einsatz: Kaiserslautern gegen Dresden und KSC gegen Osnabrück."
+      "date": "2026-11-22T15:15+01:00",
+      "teaser": "10. Spieltag: Anpfiff des Spiels ist am 22.11.2026 um 15:30 Uhr. 1. FSV Mainz 05 spielt in Augsburg."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
     "items": [
      {
-      "title": "Torflaute bei S04: „Wir machen kleine Schritte, aber es geht nach vorne“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/schalke-04-und-die-last-der-null-ist-ein-ende-der-torflaute-in-sicht-accg-201706106.html",
-      "source": "FAZ",
-      "date": "2026-11-22T13:38+00:00",
-      "teaser": "Ein altes Stevens-Mantra wird bei Schalke zum Problem: Eine der besten Defensiven und schlechtesten Offensiven führen regelmäßig zum Nullsummenresultat 0:0. Ist ein Ende der Torflaute in Sicht?"
+      "title": "Bologna - Udinese: Tor zum 1:0 durch Zortea in der 43. Minute",
+      "url": "https://www.kicker.de/bologna-udinese-tor-zum-1-0-durch-zortea-in-der-43-minute-1273899/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-22T14:49+00:00",
+      "teaser": "Szene aus dem Spiel FC Bologna - Udinese Calcio (Serie A 2026/27, 12. Spieltag)."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
     "items": [
      {
-      "title": "Manchester City v Tottenham, Birmingham v Manchester United: WSL clockwatch – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/22/wsl-manchester-city-tottenham-birmingham-manchester-united-arsenal-west-ham-live",
-      "source": "The Guardian",
-      "date": "2026-11-22T13:43+00:00",
-      "teaser": "Women’s Super League news, kicking off from 12pm GMT Live scores | Table | Follow on TikTok | And email Emillia Shaw strikes for City! Rose wins the ball high up the pitch before passing to Shaw, who is left in plenty of space in the box. The striker then has plenty of time to slide the ball home. C"
+      "title": "LIVE! Findet Wolfsburg in Leipzig zurück in die Erfolgsspur?",
+      "url": "https://www.kicker.de/leipzig-gegen-wolfsburg-2026-frauen-bundesliga-5243506/spielbericht#omrss",
+      "source": "kicker",
+      "date": "2026-11-22T14:47+00:00",
+      "teaser": "Der VfL Wolfsburg hat das Topspiel gegen den FC Bayern deutlich mit 1:4 verloren. Dadurch ist das Meisterschaftsrennen in der Frauen-Bundesliga erneut nur mäßig spannend. Beim Auswärtsspiel in Leipzig wollen die Wölfinnen aber zumindest Platz 2 festigen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Jetzt live - Augsburg führt gegen kriselnde Mainzer",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193744/fc-augsburg_1-fsv-mainz-05/liveticker",
+      "source": "Sportschau",
+      "date": "2026-11-22T15:51+01:00",
+      "teaser": "Mainz 05 befindet sich in der Krise - hat aber eine beeindruckende Auswärtsbilanz in der Fußball-Bundesliga. Der FC Augsburg könnte mit einem Erfolg an den 05ern vorbeiziehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Argentinien: Boca-Juniors-Kapitän Leandro Paredes bricht nach Pokalsieg vor Kamera zusammen",
+      "url": "https://www.spiegel.de/sport/fussball/argentinien-boca-juniors-kapitaen-leandro-paredes-bricht-nach-pokalsieg-vor-kamera-zusammen-a-256ccf42-1d67-4bef-a4c0-3bf6bca21dae#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-22T15:45+01:00",
+      "teaser": "Er wurde schon vorher ausgewechselt, weil ihm schwindelig war: Der Argentinier Leandro Paredes ist kurz nach dem Finale der Copa Sudamericana vor laufender Kamera kollabiert. Doch er selbst gibt Entwarnung."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Sassuolo - Genoa: Tor zum 0:2 durch Osmajic in der 38. Minute",
+      "url": "https://www.kicker.de/sassuolo-genoa-tor-zum-0-2-durch-osmajic-in-der-38-minute-1273898/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-22T14:44+00:00",
+      "teaser": "Szene aus dem Spiel Sassuolo Calcio - CFC Genua 1893 (Serie A 2026/27, 12. Spieltag)."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
     "items": [
      {
       "title": "Hull City v Brighton: Premier League – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/22/hull-city-v-brighton-premier-league-live",
       "source": "The Guardian",
-      "date": "2026-11-22T13:41+00:00",
-      "teaser": "Premier League updates from the 2pm GMT kick-off Live scores | Table | Follow on TikTok | And mail Dom Well, maybe only City will lose this afternoon, Elisabeth Terland scored for United as I was typing. Women’s Super League: Both Manchester clubs are in serious danger of suffering shock defeats in "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Ski Alpin - Straßer fährt bei Haugans Sieg im Slalom hinterher",
-      "url": "https://www.sportschau.de/wintersport/ski-alpin/strasser-faehrt-bei-haugans-slalomsieg-hinterher,rennbericht-gurgl-slalom-maenner-100.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-22T14:39+01:00",
-      "teaser": "Linus Straßer und Gurgl - das passt einfach nicht. Beim zweiten Weltcup-Slalom des Winters riskiert der Münchner viel, ist aber weit weg von der Spitze."
+      "date": "2026-11-22T14:44+00:00",
+      "teaser": "Premier League updates from the 2pm GMT kick-off Live scores | Table | Follow on TikTok | And mail Dom Fabian Hürzeler sounded a little way of Hull in his pre-match press conference, citing the Tigers’ narrow 1-0 defeat to table-topping (and possible title rivals) Arsenal as a template for how today"
      }
     ]
    }
@@ -986,7 +1000,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 4.0,
+    "score": 3.92,
     "items": [
      {
       "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
@@ -1006,7 +1020,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.86,
     "items": [
      {
       "title": "How Tamagotchis got us hooked on digital pets",
@@ -1026,7 +1040,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.92,
     "items": [
      {
       "title": "‘The show is starting soon. Please turn on your headphones.’",
@@ -1039,7 +1053,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
       "title": "Rückschritt bei der Gleichstellung? Gen Z hält Frauen seltener für Führungspositionen geeignet",
@@ -1052,7 +1066,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.89,
     "items": [
      {
       "title": "Bis zu 1.800 Dollar für eine Konsole? Was bisher zu Playstation 6 und Xbox Helix bekannt ist",
@@ -1065,7 +1079,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.85,
     "items": [
      {
       "title": "Schäden bis zu 50.000 Euro: Wie Betrüger auf Linkedin die Namen echter Headhunter kapern, um Jobsuchende auszunehmen",
@@ -1078,7 +1092,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.84,
     "items": [
      {
       "title": "Your questions about Apple HomeView’s audio, answered",
@@ -1091,7 +1105,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.84,
     "items": [
      {
       "title": "The vibe-coding revolution is coming to all the gadgets",
@@ -1104,7 +1118,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.81,
     "items": [
      {
       "title": "Anzeige: Tapo D260 - Smarte 4K-Video-Türklingel 30 Euro günstiger im Vorverkauf",
@@ -1117,7 +1131,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.79,
     "items": [
      {
       "title": "Looking for the Formula to Stop an Apocalypse",
@@ -1130,20 +1144,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "KI-Angst an der Wall Street: US-Tech-Aktien rutschen in den Bärenmarkt",
-      "url": "https://www.golem.de/news/ki-angst-an-der-wall-street-us-tech-aktien-rutschen-in-den-baerenmarkt-2611-215510.html",
-      "source": "Golem",
-      "date": "2026-11-22T13:04+01:00",
-      "teaser": "Die US-Technologiebörse erlebt ihre schlechteste Woche seit der Coronakrise. Aus der Euphorie über KI ist Unbehagen geworden. ( Börse , KI )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.77,
     "items": [
      {
       "title": "Fehler im Quelltext: Betrüger verraten versehentlich ihre eigene Liste mit über 2.500 Fake-Shops",
@@ -1151,6 +1152,19 @@
       "source": "t3n",
       "date": "2026-11-22T13:10+01:00",
       "teaser": "Verbraucherschützer:innen der Watchlist Internet haben im Quelltext eines Fake-Shops über 2.500 Domains weiterer betrügerischer Online-Shops entdeckt. Gut 1.800 dieser teils schon aktiven Fake-Shops sollen auch für Deutschland relevant sein. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.77,
+    "items": [
+     {
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "source": "Ars Technica",
+      "date": "2026-11-22T12:07+00:00",
+      "teaser": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy."
      }
     ]
    }
@@ -1287,7 +1301,7 @@
    "topic": "Deutschland",
    "source": "Tagesschau",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "topic": "Deutschland",
@@ -1431,13 +1445,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "topic": "Sport",
