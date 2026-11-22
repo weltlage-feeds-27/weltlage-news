@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-22T03:59:10+00:00",
+ "fetchedAt": "2026-11-22T05:03:59+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.68,
+    "score": 7.59,
     "items": [
      {
       "title": "FBI criminal database hacked",
@@ -31,7 +31,34 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.28,
+    "score": 5.97,
+    "items": [
+     {
+      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "source": "The Guardian",
+      "date": "2026-11-21T17:46+00:00",
+      "teaser": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Cha"
+     },
+     {
+      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+      "source": "New York Times",
+      "date": "2026-11-21T16:30+00:00",
+      "teaser": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives."
+     },
+     {
+      "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/first-images-of-mexican-cartel-boss-el-chapo-isidro-after-arrest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-22T04:42+00:00",
+      "teaser": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest"
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.19,
     "items": [
      {
       "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
@@ -58,7 +85,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.47,
     "items": [
      {
       "title": "Trump orders federal contractors to check with White House before responding to Congress",
@@ -78,27 +105,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.44,
-    "items": [
-     {
-      "title": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
-      "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
-      "source": "France 24",
-      "date": "2026-11-21T20:49+00:00",
-      "teaser": "Israeli opposition leader Gadi Eisenkot has invited caretaker prime minister Benjamin Netanyahu's right-wing Likud party for coalition talks, his centrist Yashar party said Saturday. The \"marathon series of talks\" starts Sunday, the party said, adding that the move reflected a commitment to form \"th"
-     },
-     {
-      "title": "Eisenkot invites Netanyahu’s party for Israeli coalition talks",
-      "url": "https://www.thehindu.com/news/international/eisenkot-invites-netanyahus-party-for-israeli-coalition-talks/article71729470.ece",
-      "source": "The Hindu",
-      "date": "2026-11-22T02:44+05:30",
-      "teaser": "‘In an effort to pursue every option for forming a new government, Yashar Chair Gadi Eisenkot has instructed the party's negotiating team to invite its Likud counterparts to a marathon series of talks beginning with the meeting already scheduled for tomorrow’ read a statement"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.43,
+    "score": 3.34,
     "items": [
      {
       "title": "UN talks on AI in warfare end with no commitment to binding rules",
@@ -118,7 +125,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.33,
+    "score": 3.24,
     "items": [
      {
       "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
@@ -138,7 +145,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.29,
+    "score": 3.2,
     "items": [
      {
       "title": "Finnland: Russisches Frachtschiff nach Drohnenangriff in Brand",
@@ -158,7 +165,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.28,
+    "score": 3.19,
     "items": [
      {
       "title": "Liveblog Ukrainekrieg: Rutte: NATO wird jeden Zentimeter von Polen verteidigen",
@@ -178,7 +185,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.18,
+    "score": 3.09,
     "items": [
      {
       "title": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
@@ -198,27 +205,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.15,
-    "items": [
-     {
-      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
-      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
-      "source": "The Guardian",
-      "date": "2026-11-21T17:46+00:00",
-      "teaser": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Cha"
-     },
-     {
-      "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-      "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-      "source": "New York Times",
-      "date": "2026-11-21T16:30+00:00",
-      "teaser": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.13,
+    "score": 3.04,
     "items": [
      {
       "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
@@ -238,7 +225,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.11,
+    "score": 3.02,
     "items": [
      {
       "title": "Man convicted of starting palisades fire",
@@ -255,12 +242,25 @@
       "teaser": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Apartment building 'destroyed' in Kyiv Oblast following Russian drone attack",
+      "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-22T04:49+00:00",
+      "teaser": "Tymur Tkachenko, head of the Kyiv Oblast Military Administration, reported that five-story residential building was damaged in the Vyshhorod district of Kyiv Oblast, just north of the capital, amid the attack."
+     }
+    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.91,
     "items": [
      {
       "title": "Starke Rauchentwicklung in Hochhaus: 60 Personen evakuiert - möglicherweise zwei Verletzte",
@@ -273,20 +273,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.79,
     "items": [
      {
-      "title": "COP31 in Antalya: COP31-Präsident: Einigung auf Weltklimakonferenz in Reichweite",
+      "title": "COP31 in Antalya: Neuer Entwurf für COP31-Erklärung erwähnt Öl, Kohle und Gas nicht explizit",
       "url": "https://www.sueddeutsche.de/politik/klimapolitik-cop31-antalya-klima-klimawandel-klimaschutz-umwelt-umweltschutz-klimagipfel-li.3584161",
       "source": "Süddeutsche",
       "date": "2026-11-22T02:34+00:00",
-      "teaser": "Der Klimagipfel mit fast 200 Delegationen im türkischen Antalya sollte eigentlich längst vorbei sein. Es hakt an der gemeinsamen Abschlusserklärung – jetzt liegt ein neuer Entwurf vor."
+      "teaser": "Der Klimagipfel im türkischen Antalya sollte eigentlich längst vorbei sein, doch es hakte an der gemeinsamen Abschlusserklärung. Nun gibt es einen neuen Entwurf – Öl, Kohle und Gas werden darin weiterhin nicht erwähnt."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.72,
     "items": [
      {
       "title": "Antisemitismus: FDP-Politikerin bei propalästinensischer Demo angegriffen",
@@ -299,7 +299,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.56,
+    "score": 1.47,
     "items": [
      {
       "title": "E-Autos besonders im Fokus: Was ein Wechsel der Kfz-Versicherung bringen kann",
@@ -312,7 +312,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.51,
+    "score": 1.42,
     "items": [
      {
       "title": "VfB Stuttgart wartet gegen Schalke vergeblich auf das \"Quäntchen Glück\"",
@@ -325,7 +325,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.4,
+    "score": 1.31,
     "items": [
      {
       "title": "Heiraten ohne Trauschein: Der Trend zur \"Fake Wedding\"",
@@ -338,7 +338,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.35,
+    "score": 1.26,
     "items": [
      {
       "title": "Karl Lauterbach: »Dass KI die Menschheit auslöscht, halte ich für Unsinn«",
@@ -351,7 +351,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.33,
+    "score": 1.24,
     "items": [
      {
       "title": "Wie ersetzt man den unersetzlichen Harry Kane?",
@@ -364,7 +364,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.32,
+    "score": 1.23,
     "items": [
      {
       "title": "Jugendliche nehmen Krebsmedikament, um größer zu werden",
@@ -377,7 +377,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.29,
+    "score": 1.2,
     "items": [
      {
       "title": "Bald Generalinspekteur: Im guten Geiste Preußens",
@@ -390,7 +390,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.28,
+    "score": 1.19,
     "items": [
      {
       "title": "Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
@@ -403,7 +403,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.26,
+    "score": 1.17,
     "items": [
      {
       "title": "Der SC Freiburg eine Spitzenmannschaft? Matanovic trifft und grinst",
@@ -418,7 +418,20 @@
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Marek Roefler: Kolekcja sztuki uwiarygadnia w biznesie. To lepsze niż nowe auto",
+      "url": "https://sukces.rp.pl/ludzie/art45521761-marek-roefler-kolekcja-sztuki-uwiarygadnia-w-biznesie-to-lepsze-niz-nowe-auto",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T06:00+01:00",
+      "teaser": "To wielka artystka – mówi o Meli Muter, której wystawę, obejmującą ponad dwieście prac, można oglądać w należącym do niego muzeum pod Warszawą. Marek Roefler jest, jak mówi, „przedsiębiorcą z krwi i kości”, ale jego prawdziwą pasją jest kolekcjonowanie sztuki. – Mówię otwarcie: jestem od tego całkow"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
     "items": [
      {
       "title": "Polak miał zaprojektować miasto w Indiach. Jego plany pokrzyżowała katastrofa lotnicza",
@@ -431,7 +444,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.52,
+    "score": 1.43,
     "items": [
      {
       "title": "Baron narkotykowy „El Chapo Isidro” złapany w Meksyku",
@@ -444,7 +457,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.43,
+    "score": 1.34,
     "items": [
      {
       "title": "NATO reaguje na rosyjskie obiekty w Polsce. Rutte: Absolutnie nie do przyjęcia",
@@ -457,7 +470,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.38,
+    "score": 1.29,
     "items": [
      {
       "title": "Ozempic i Mounjaro nie tylko odchudzają. Naukowcy badają wpływ na pamięć",
@@ -470,7 +483,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.36,
+    "score": 1.27,
     "items": [
      {
       "title": "Sikorski o porażce \"wielkiej fantazji\" Putina. \"Chińczycy pokazali jego miejsce w szeregu\"",
@@ -483,7 +496,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.31,
+    "score": 1.22,
     "items": [
      {
       "title": "Alarmy w obwodzie królewieckim. Miało dojść do eksplozji",
@@ -496,7 +509,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.31,
+    "score": 1.22,
     "items": [
      {
       "title": "Leszek Wiwała: O czym nie mówi się, gdy rosną ceny paliw",
@@ -509,7 +522,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.3,
+    "score": 1.21,
     "items": [
      {
       "title": "Spór o ambasadorów. Przydacz zarzuca Sikorskiemu eskalowanie konfliktu",
@@ -522,7 +535,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.29,
+    "score": 1.2,
     "items": [
      {
       "title": "Puchar Świata w Lillehammer. Polacy odpadli na starcie",
@@ -535,7 +548,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.26,
+    "score": 1.17,
     "items": [
      {
       "title": "Przydacz oskarża Sikorskiego ws. ambasadorów. \"Prosi o zgodę obce rządy\"",
@@ -548,20 +561,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.25,
-    "items": [
-     {
-      "title": "Jacek Dubois: Kryzys w wymiarze sprawiedliwości – chaos w państwie prawa",
-      "url": "https://www.rp.pl/rzecz-o-prawie/art45496311-jacek-dubois-kryzys-w-wymiarze-sprawiedliwosci-chaos-w-panstwie-prawa",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T20:01+01:00",
-      "teaser": "Obecnie praktycznie nie ma żadnego organu w szeroko pojętym wymiarze sprawiedliwości, którego obsada nie jest kwestionowana. Z dobrze funkcjonującego państwa prawa weszliśmy w tryb chaosu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.16,
+    "score": 1.07,
     "items": [
      {
       "title": "Wyrok śmierci dla Polaka w USA. \"Wyrachowane zabójstwo\"",
@@ -576,7 +576,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.36,
+    "score": 5.27,
     "items": [
      {
       "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
@@ -602,35 +602,8 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 4.84,
-    "items": [
-     {
-      "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
-      "url": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-20T17:20+01:00",
-      "teaser": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier."
-     },
-     {
-      "title": "Aktien: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/boerse-inside/aktien-ist-der-ki-boom-nach-dem-anthropic-boersengang-vorbei/100270470.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-20T20:06+00:00",
-      "teaser": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu."
-     },
-     {
-      "title": "Börse: Die Woche, in der der KI-Boom endete",
-      "url": "https://www.zeit.de/geld/2026-11/ki-boom-boersencrash-technologieaktien-nasdaq",
-      "source": "Zeit",
-      "date": "2026-11-21T14:03+00:00",
-      "teaser": "US-amerikanische Technologieaktien sind in einer Woche um zehn Prozent gefallen. So begannen früher Börsenkrisen. Und heute?"
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.35,
+    "score": 3.26,
     "items": [
      {
       "title": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
@@ -650,7 +623,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.9,
     "items": [
      {
       "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
@@ -663,7 +636,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.75,
     "items": [
      {
       "title": "AfD: „Absolut schlechtes Zeichen“ – Gefährdet die AfD die Kooperation mit Partnergeheimdiensten?",
@@ -676,7 +649,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.74,
     "items": [
      {
       "title": "+++ Ukraine-Krieg +++: Ukrainische Drohnen werden in Großbritannien gebaut",
@@ -689,7 +662,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.7,
     "items": [
      {
       "title": "India’s $126bn insurance sector slams proposed commission cap",
@@ -702,7 +675,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.67,
     "items": [
      {
       "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
@@ -715,7 +688,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.61,
     "items": [
      {
       "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
@@ -728,7 +701,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.54,
     "items": [
      {
       "title": "COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’",
@@ -741,7 +714,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.51,
     "items": [
      {
       "title": "The Penny Is Dead. Now It’s Official.",
@@ -754,7 +727,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.56,
+    "score": 1.47,
     "items": [
      {
       "title": "EU-Haushalt: Costa will 204 Milliarden sparen – Merz reicht das nicht",
@@ -764,12 +737,39 @@
       "teaser": "Neue Digitalsteuer, weniger Geld für Verteidigung und Kohäsion: Der Haushaltsplan des EU-Ratspräsidenten stellt gleich mehrere Prioritäten des Kanzlers infrage."
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.37,
+    "items": [
+     {
+      "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
+      "url": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-21T21:28+00:00",
+      "teaser": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US"
+     }
+    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.96,
+    "score": 7.91,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Pedri y Lamine, los intocables de Flick",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253810/pedri-lamine-intocables-flick.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-22T05:00+01:00",
+      "teaser": "legados a los tres primeros meses de temporada oficial, Pedri González y Lamine Yamal son los únicos futbolistas del Barça que han disputado todos los partidos oficiales entre Liga y Champions . Son 16 los compromisos que suman ambos, a los que hay que sumar los de la selección española."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.87,
     "favorite": true,
     "items": [
      {
@@ -783,7 +783,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.92,
+    "score": 7.83,
     "favorite": true,
     "items": [
      {
@@ -796,22 +796,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.83,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Vaso medio vacío, vaso medio lleno",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253666/vaso-medio-vacio-vaso-medio-lleno.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-22T03:00+01:00",
-      "teaser": "Estas semanas en las que hay paro liguero por los partidos de selecciones, suelen alimentarse de debates espurios. En ese paréntesis el protagonismo se lo han repartido, para variar, dos jugadores del Barça . El vaso medio vacío son las referencias a los supuestos tratos de preferencia hacia Lamine "
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.33,
+    "score": 3.24,
     "items": [
      {
       "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
@@ -831,7 +817,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.33,
+    "score": 3.24,
     "items": [
      {
       "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
@@ -851,7 +837,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.28,
+    "score": 3.19,
     "items": [
      {
       "title": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
@@ -870,8 +856,42 @@
     ]
    },
    {
+    "sourceCount": 2,
+    "score": 2.9,
+    "items": [
+     {
+      "title": "FC Bayern und Musiala: „Das hat mit ‚Mia san mia‘ und der FC-Bayern-Familie wenig zu tun“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-laesst-jamal-musiala-diskussion-eskalieren-accg-201703349.html",
+      "source": "FAZ",
+      "date": "2026-11-21T15:50+00:00",
+      "teaser": "Hoeneß und Rummenigge tragen den Fall Jamal Musiala in die Öffentlichkeit. Präsident Hainer verteidigt ihr Vorgehen bei der Jahreshauptversammlung gegen Kritik. Doch die entscheidende Frage bleibt offen."
+     },
+     {
+      "title": "Jamal Musiala: Die FC Bayern-Patriarchen senden mit ihrer Demontage ein schlimmes Signal – Kommentar",
+      "url": "https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-21T16:22+01:00",
+      "teaser": "Statt dem wieder genesenen Musiala den Rücken zu stärken, demontieren die Bayern-Patriarchen ihn öffentlich. Sie zeigen damit, dass »Mia san mia« dann doch nicht mehr ist als ein Marketingspruch."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.74,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Vaso medio vacío, vaso medio lleno",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253666/vaso-medio-vacio-vaso-medio-lleno.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-22T03:00+01:00",
+      "teaser": "Estas semanas en las que hay paro liguero por los partidos de selecciones, suelen alimentarse de debates espurios. En ese paréntesis el protagonismo se lo han repartido, para variar, dos jugadores del Barça . El vaso medio vacío son las referencias a los supuestos tratos de preferencia hacia Lamine "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.56,
     "items": [
      {
       "title": "Absage \"nachvollziehbar\": Burkardt spricht über Klopps Anruf",
@@ -884,7 +904,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.5,
     "favorite": true,
     "items": [
      {
@@ -898,7 +918,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.58,
+    "score": 1.49,
     "items": [
      {
       "title": "Nemeths Worte erzielen ihre Wirkung: \"Können ruhig mal härter zueinander sein\"",
@@ -911,7 +931,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.55,
+    "score": 1.46,
     "items": [
      {
       "title": "Elfmeter-Fehlschuss und späte Rettung: Real feiert Comeback-Sieg",
@@ -921,38 +941,12 @@
       "teaser": "Real Madrid hatte im Heimspiel gegen Celta Vigo lang Schwierigkeiten, drehte gegen Ende dann aber doch auf und holte den Sieg. Die Highlights der Partie gibt es hier."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.53,
-    "items": [
-     {
-      "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
-      "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
-      "source": "The Guardian",
-      "date": "2026-11-21T22:20+00:00",
-      "teaser": "Steven Pressley: ‘I’m embarrassed … I apologise’ Celtic 4-1 St Mirren; Rangers 2-1 Motherwell Wouter Vrancken said Hearts ’ remarkable 8-0 demolition of 10-man Dundee was his team’s best performance since he took charge at Tynecastle. Sabah Kerjota and Pierre Landry Kaboré both scored twice with Cla"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.52,
-    "items": [
-     {
-      "title": "5 Uhr live: Verstappen gegen Russell im Showdown von Vegas",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/motorsport/formel-1/co2558/usa-las-vegas-grand-prix/ma11135862/liveticker-list",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-21T23:11+01:00",
-      "teaser": "Max Verstappen und George Russell gehen in Las Vegas von der ersten Startreihe aus ins Rennen. Wie weit gehen die beiden Rivalen?"
-     }
-    ]
    }
   ],
   "Tech & KI": [
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.67,
     "items": [
      {
       "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
@@ -965,7 +959,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.52,
+    "score": 1.43,
     "items": [
      {
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -978,7 +972,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.5,
+    "score": 1.41,
     "items": [
      {
       "title": "Amazon is complaining about NYC Council on shipping labels, too",
@@ -991,7 +985,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 1.41,
+    "score": 1.32,
     "items": [
      {
       "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
@@ -1011,7 +1005,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.34,
+    "score": 1.25,
     "items": [
      {
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -1024,7 +1018,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.27,
+    "score": 1.18,
     "items": [
      {
       "title": "Microshifting im Homeoffice: Mit diesen 2 Regeln wird der Arbeitstrend auch für Arbeitgeber zum Gewinn",
@@ -1037,7 +1031,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.27,
+    "score": 1.18,
     "items": [
      {
       "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
@@ -1050,7 +1044,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.27,
+    "score": 1.18,
     "items": [
      {
       "title": "G.T.A. VI Is a Monumental Human Achievement",
@@ -1063,7 +1057,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.22,
+    "score": 1.13,
     "items": [
      {
       "title": "GEO oder SEO? Was Daten von 1.200 B2B-Unternehmen über den wahren Wert von KI-Traffic verraten",
@@ -1076,7 +1070,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.17,
+    "score": 1.08,
     "items": [
      {
       "title": "99,4 Prozent nach 15 Tagen zerstört: Eine einzige Atombombe im All würde fast alle Starlink-Satelliten auslöschen",
@@ -1089,7 +1083,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.14,
+    "score": 1.05,
     "items": [
      {
       "title": "The FBI and USDA were reportedly hacked",
@@ -1102,7 +1096,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.1,
+    "score": 1.01,
     "items": [
      {
       "title": "Lassen sich Chips tracken? Was Nvidia und Branchenverbände dazu sagen",
@@ -1186,7 +1180,7 @@
    "topic": "Welt & Politik",
    "source": "NPR (Politik)",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Welt & Politik",
@@ -1246,13 +1240,13 @@
    "topic": "Deutschland",
    "source": "Tagesschau",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "topic": "Deutschland",
    "source": "Spiegel",
    "ok": true,
-   "items": 8
+   "items": 5
   },
   {
    "topic": "Deutschland",
@@ -1270,7 +1264,7 @@
    "topic": "Deutschland",
    "source": "Süddeutsche",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Deutschland",
@@ -1348,7 +1342,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "BBC",
    "ok": true,
-   "items": 7
+   "items": 5
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1408,7 +1402,7 @@
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 4
+   "items": 3
   },
   {
    "topic": "Sport",
