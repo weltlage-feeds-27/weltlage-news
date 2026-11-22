@@ -1,10 +1,37 @@
 {
- "fetchedAt": "2026-11-22T17:49:10+00:00",
+ "fetchedAt": "2026-11-22T18:55:31+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 5,
-    "score": 9.69,
+    "sourceCount": 4,
+    "score": 7.94,
+    "items": [
+     {
+      "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "The Guardian",
+      "date": "2026-11-22T16:55+00:00",
+      "teaser": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said. There was no immed"
+     },
+     {
+      "title": "Russian warship docked in Benghazi hit by suspected drone attack, Libyan officials say",
+      "url": "https://kyivindependent.com/russian-warship-docked-in-benghazi-hit-by-suspected-drone-attack-libyan-officials-say/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-22T18:02+00:00",
+      "teaser": "Libyan officials have reported that the Russian Navy corvette Merkury was severely damaged by Ukrainian sea drones. Kyiv has not commented on the claim."
+     },
+     {
+      "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+      "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-22T17:12+00:00",
+      "teaser": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack."
+     }
+    ]
+   },
+   {
+    "sourceCount": 4,
+    "score": 7.6,
     "items": [
      {
       "title": "Indonesia factory hit by deadly blaze: Three killed and 36 missing",
@@ -30,62 +57,8 @@
     ]
    },
    {
-    "sourceCount": 4,
-    "score": 7.95,
-    "items": [
-     {
-      "title": "Cop31 climate talks collapse as EU and others reject deal",
-      "url": "https://www.scmp.com/news/world/article/3375393/cop31-climate-talks-collapse-eu-and-others-reject-deal",
-      "source": "South China Morning Post",
-      "date": "2026-11-22T14:57+00:00",
-      "teaser": "UN climate talks collapsed on Sunday as ⁠the European Union and others rejected a final draft deal put forward by Cop31 presidents Turkey and Australia, saying it was too weak to advance the fight against global warming. The failed talks reflect world governments’ struggle this year to muster ambiti"
-     },
-     {
-      "title": "COP 31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
-      "url": "https://www.thehindu.com/news/international/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
-      "source": "The Hindu",
-      "date": "2026-11-22T21:53+05:30",
-      "teaser": "EU, Panama among about 130 parties that refuse to accept COP President’s consensus cover text, alleges that it “greenwashes” fossil fuels; India, China, Saudi Arabia are on the other side of the divide"
-     },
-     {
-      "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
-      "url": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-22T12:11-05:00",
-      "teaser": "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever UN climate summit with no deal to show for it."
-     }
-    ]
-   },
-   {
     "sourceCount": 3,
-    "score": 5.96,
-    "items": [
-     {
-      "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
-      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "source": "The Guardian",
-      "date": "2026-11-22T16:55+00:00",
-      "teaser": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said. There was no immed"
-     },
-     {
-      "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
-      "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-22T17:12+00:00",
-      "teaser": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack."
-     },
-     {
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-22T17:16+00:00",
-      "teaser": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.88,
+    "score": 5.97,
     "items": [
      {
       "title": "Russian strike kills 2 in Kyiv",
@@ -95,24 +68,51 @@
       "teaser": "A Russian attack struck an apartment building in the village of Dymer, just north of Kyiv, on Sunday, killing at least two people and wounding four others. The morning strike destroyed a five-storey building, while rescuers evacuated nine people, including a child. At least 11 others are believed to"
      },
      {
-      "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
-      "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-21T08:26-05:00",
-      "teaser": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday."
+      "title": "Russian strikes kill 6 in Kyiv region, Ukraine says",
+      "url": "https://www.scmp.com/news/world/europe/article/3375401/russian-strikes-kill-6-kyiv-region-ukraine-says",
+      "source": "South China Morning Post",
+      "date": "2026-11-22T18:32+00:00",
+      "teaser": "Russian strikes across the Kyiv region, including on a block of flats that partially collapsed, killed at least six people, Ukraine said on Sunday, warning there could be more victims under the rubble. Russia has been pummelling Ukraine with nightly aerial barrages as the war-torn country braces for"
      },
      {
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 5 in Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-22T14:48+00:00",
-      "teaser": "Two Russian attacks kill at least four people near Kyiv as Russian shelling kills one in Zaporizhzhia."
+      "title": "Russian attacks across Ukraine injure 30 over past day as rescue operation continues near Kyiv after drone strike",
+      "url": "https://kyivindependent.com/russian-attacks-across-ukraine-injure-30-over-past-day-as-rescue-operation-continues-near-kyiv-after-drone-strike/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-22T09:54+00:00",
+      "teaser": "Ukraine's Air Force said Russian troops launched 186 attack drones against Ukraine overnight, of which 161 were shot down."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.53,
+    "score": 5.95,
+    "items": [
+     {
+      "title": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
+      "url": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-22T17:19+01:00",
+      "teaser": "Nach der Schließung mehrerer oppositionsnaher Medien sind in Istanbul Tausende Menschen auf die Straße gegangen. Zu der Demonstration hatte die größte Oppositionspartei Yeni aufgerufen."
+     },
+     {
+      "title": "Pressefreiheit in der Türkei: Tausende protestieren gegen Schließung oppositioneller Medien",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/proteste-istanbul-pressefreiheit-tuerkei-halk-tv-sozcu-tv-yeni-gxe",
+      "source": "Zeit",
+      "date": "2026-11-22T15:52+00:00",
+      "teaser": "In Istanbul demonstrieren Tausende Menschen für die Pressefreiheit. Die Regierung hatte zuletzt mehrere regierungskritische Medien zur Schließung gezwungen."
+     },
+     {
+      "title": "Türkei: Tausende protestieren in Istanbul gegen Schließung regierungskritischer Medien",
+      "url": "https://www.spiegel.de/ausland/tuerkei-tausende-protestieren-in-istanbul-gegen-schliessung-regierungskritischer-medien-a-96b78e92-3227-42f7-9a22-4cd1494db7a8#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-22T19:20+01:00",
+      "teaser": "Sender und Websites geschlossen, Journalisten festgenommen: In Istanbul gehen Menschen für die Pressefreiheit auf die Straße."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.44,
     "items": [
      {
       "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
@@ -138,35 +138,88 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 4.53,
+    "sourceCount": 2,
+    "score": 3.96,
     "items": [
      {
-      "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
-      "url": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+      "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-22T18:23+00:00",
+      "teaser": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades."
+     },
+     {
+      "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+      "url": "https://www.pbs.org/newshour/politics/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992",
       "source": "PBS NewsHour",
-      "date": "2026-11-21T15:55-05:00",
-      "teaser": "The National Crime Information Center, known as the NCIC, is a computerized database of criminal justice information that is available to local, state and federal law enforcement agencies and includes records on fugitives, missing persons, criminal history data, stolen property and other topics."
-     },
-     {
-      "title": "FBI investigating apparent hack of its criminal database",
-      "url": "https://www.cbc.ca/player/play/9.7431322?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-21T12:36-05:00",
-      "teaser": "The FBI is investigating a reported breach of its criminal information database, according to U.S. media reports. This is the second time the FBI has been the target of a cyberattack since September."
-     },
-     {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-22T00:10+00:00",
-      "teaser": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+      "date": "2026-11-22T13:24-05:00",
+      "teaser": "The 258-seat tally was reached Sunday after Democrat Chuck Hubbard defeated Republican Rep. Virginia Foxx in North Carolina."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "COP31 in Antalya: Klimakonferenz endet ohne gemeinsame Abschlusserklärung",
+      "url": "https://www.spiegel.de/ausland/cop31-in-antalya-klimakonferenz-endet-ohne-gemeinsame-abschlusserklaerung-a-bd3592c1-a2b1-41be-a497-33522c4e6cf7#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-22T19:23+01:00",
+      "teaser": "Die Uno-Klimakonferenz geht ohne gemeinsamen Text zu Ende. SPIEGEL-Redakteurin Susanne Götze über einen Plenarsaal voller Frust und einen überforderten Gastgeber."
+     },
+     {
+      "title": "UN-Klimakonferenz COP31 ist in Antalya gescheitert",
+      "url": "https://www.dw.com/de/un-klimakonferenz-cop31-ist-in-antalya-gescheitert/a-80012944?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-22T12:19+00:00",
+      "teaser": "Der türkische Entwurf für den Abschlusstext des Klimagipfels hat Öl, Kohle und Gas nicht erwähnt. Zu viele Delegationen haben ihre Zustimmung verweigert."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+      "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-22T16:33+00:00",
+      "teaser": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'."
+     },
+     {
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-22T18:17+00:00",
+      "teaser": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "Drone strikes hit homes, UN premises in Sudan's capital",
+      "url": "https://www.thehindu.com/news/international/drone-strikes-hit-homes-un-premises-in-sudans-capital/article71731677.ece",
+      "source": "The Hindu",
+      "date": "2026-11-22T19:58+05:30",
+      "teaser": "A drone strike completely destroyed a house, a witness said, while a Sudanese Army source said the drones had been launched from Ethiopia"
+     },
+     {
+      "title": "Civilians killed in RSF drone strikes in Sudan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-22T18:12+00:00",
+      "teaser": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.89,
     "items": [
      {
       "title": "French activists demand tear gas suspension after reported changes to menstrual cycles",
@@ -186,47 +239,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.85,
     "items": [
      {
-      "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
-      "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-      "source": "New York Times (Politik)",
-      "date": "2026-11-21T19:11+00:00",
-      "teaser": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code."
+      "title": "Cop31 climate talks collapse as EU and others reject deal",
+      "url": "https://www.scmp.com/news/world/article/3375393/cop31-climate-talks-collapse-eu-and-others-reject-deal",
+      "source": "South China Morning Post",
+      "date": "2026-11-22T14:57+00:00",
+      "teaser": "UN climate talks collapsed on Sunday as ⁠the European Union and others rejected a final draft deal put forward by Cop31 presidents Turkey and Australia, saying it was too weak to advance the fight against global warming. The failed talks reflect world governments’ struggle this year to muster ambiti"
      },
      {
-      "title": "As AI detects flaws in computer systems, is it causing more tech outages and disruptions?",
-      "url": "https://www.pbs.org/newshour/nation/as-ai-detects-flaws-in-computer-systems-is-it-causing-more-tech-outages-and-disruptions",
-      "source": "PBS NewsHour",
-      "date": "2026-11-22T12:13-05:00",
-      "teaser": "AI rapidly identifies computer system vulnerabilities and companies are pressured to fix them. Experts say that might lead to unintended consequences, like tech outages."
+      "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
+      "url": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-22T12:11-05:00",
+      "teaser": "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever UN climate summit with no deal to show for it."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
-    "items": [
-     {
-      "title": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
-      "url": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-22T17:19+01:00",
-      "teaser": "Nach der Schließung mehrerer oppositionsnaher Medien sind in Istanbul Tausende Menschen auf die Straße gegangen. Zu der Demonstration hatte die größte Oppositionspartei Yeni aufgerufen."
-     },
-     {
-      "title": "Pressefreiheit in der Türkei: Tausende protestieren gegen Schließung oppositioneller Medien",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/proteste-istanbul-pressefreiheit-tuerkei-halk-tv-sozcu-tv-yeni-gxe",
-      "source": "Zeit",
-      "date": "2026-11-22T15:52+00:00",
-      "teaser": "In Istanbul demonstrieren Tausende Menschen für die Pressefreiheit. Die Regierung hatte zuletzt mehrere regierungskritische Medien zur Schließung gezwungen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.79,
     "items": [
      {
       "title": "Israel investigates West Bank fires",
@@ -243,72 +276,38 @@
       "teaser": "Israeli authorities said on Sunday that they opened an investigation after Palestinian cars and properties were torched in four occupied West Bank villages, in attacks a local activist said were carried out by Israeli settlers. Israeli soldiers and police were deployed to Deir as-Sudan, Deir Abu Mas"
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.87,
-    "items": [
-     {
-      "title": "Immigration officers make arrests at Seattle airport in 'distressing' scene, delaying flight",
-      "url": "https://www.pbs.org/newshour/nation/immigration-officers-make-arrests-at-seattle-airport-in-distressing-scene-delaying-flight",
-      "source": "PBS NewsHour",
-      "date": "2026-11-22T11:18-05:00",
-      "teaser": "Video of the incident showed officers dragging away at least one person at Seattle-Tacoma International Airport as a woman screams that her daughter is being taken and she has a work permit."
-     },
-     {
-      "title": "ICE Officers Arrest 2 Passengers Boarding a Flight at Seattle Airport",
-      "url": "https://www.nytimes.com/2026/11/22/us/ice-arrest-passengers-seattle-airport.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-22T07:08+00:00",
-      "teaser": "The arrests were criticized by Washington’s governor and airport officials, who called the incident “distressing.”"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.77,
-    "items": [
-     {
-      "title": "Rebels kill 15 in South Sudan",
-      "url": "https://www.thehindu.com/news/international/rebels-kill-many-in-south-sudan/article71731298.ece",
-      "source": "The Hindu",
-      "date": "2026-11-22T17:57+05:30",
-      "teaser": "An official hinted at fighters loyal to the country's former first Vice-President Riek Machar, a longtime rival of President Salva Kiir who has been under house arrest since March 2025"
-     },
-     {
-      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-      "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-22T15:03+00:00",
-      "teaser": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
-    "sourceCount": 2,
-    "score": 3.98,
+    "sourceCount": 1,
+    "score": 1.95,
     "items": [
      {
-      "title": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-22T18:36+01:00",
-      "teaser": "Zwei Frauen sollen die Berliner FDP-Politikerin Preisler am Rande einer pro-palästinensischen Demonstration geschubst und getreten haben. Bundesfamilienministerin Prien kritisiert das scharf. Von Mario Kubina."
-     },
-     {
-      "title": "Deutschland Liveblog: FDP-Politikerin Preisler bei propalästinensischer Demo attackiert",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-22T08:38+00:00",
-      "teaser": "Demoteilnehmerin soll auf sie eingetreten haben +++ Linken-Vorsitzende Schwerdtner: Emdes Ego-Show brauchen wir nicht +++ Höcke bleibt Vorsitzender der Thüringer AfD +++ alle Entwicklungen im Liveblog"
+      "title": "Kalte Progression: Grüne werfen Söder »öffentliches Lamentieren« vor",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/kalte-progression-ausgleich-markus-soeder-britta-hasselmann-gxe",
+      "source": "Zeit",
+      "date": "2026-11-22T18:18+00:00",
+      "teaser": "CSU-Chef Markus Söder fordert »dringend einen Ausgleich der kalten Progression«. Die Opposition wirft ihm Inszenierung vor und warnt, er verspiele damit Vertrauen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Deutschland Liveblog: Opposition übt scharfe Kritik an Plänen für neuen Spritpreisdeckel",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-kritik-an-plaenen-fuer-spritpreisdeckel-faz-110093143.html",
+      "source": "FAZ",
+      "date": "2026-11-22T18:19+00:00",
+      "teaser": "Linke: „Lobby-Ministerin Reiche vertritt die Interessen von Konzernen“ +++ Künftiger Generalinspekteur: Hart durchgreifen gegen Fehlverhalten +++ alle Entwicklungen im Liveblog"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Defektes Heizgerät? Mehr als 50 Menschen in Allgäuer Kirche verletzt",
@@ -321,20 +320,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.89,
     "items": [
      {
-      "title": "Kalte Progression: Grüne werfen Söder »öffentliches Lamentieren« vor",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/kalte-progression-ausgleich-markus-soeder-britta-hasselmann-gxe",
-      "source": "Zeit",
-      "date": "2026-11-22T17:35+00:00",
-      "teaser": "CSU-Chef Markus Söder fordert »dringend einen Ausgleich der kalten Progression«. Die Opposition wirft ihm Inszenierung vor und warnt, er verspiele damit Vertrauen."
+      "title": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-22T18:36+01:00",
+      "teaser": "Zwei Frauen sollen die Berliner FDP-Politikerin Preisler am Rande einer pro-palästinensischen Demonstration geschubst und getreten haben. Bundesfamilienministerin Prien kritisiert das scharf. Von Mario Kubina."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.89,
     "items": [
      {
       "title": "Glätte und Schnee möglich: Es wird winterlich in Baden-Württemberg",
@@ -347,7 +346,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.88,
     "items": [
      {
       "title": "Vor Landtagswahl: Nordrhein-Westfalens AfD will „rechtsstaatliche Remigration“",
@@ -360,7 +359,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.88,
     "items": [
      {
       "title": "SZ am Abend: Nachrichten vom 22. November 2026",
@@ -373,7 +372,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.85,
     "items": [
      {
       "title": "Politiker und Jugend: Sie wollen einen früheren Fehler nicht wiederholen",
@@ -386,7 +385,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.79,
     "items": [
      {
       "title": "Mordparagraph: Die Union reagiert auf Hubigs Vorstoß zurückhaltend",
@@ -399,7 +398,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.77,
     "items": [
      {
       "title": "Nach Brand in Hochhaus-Keller: Reparatur von Wasser- und Stromversorgung ab Montag",
@@ -412,7 +411,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.75,
     "items": [
      {
       "title": "Podcast: „Auf den Punkt“: Klimakonferenz gescheitert: Einmalig in der Klima-Diplomatie der vergangenen 20 Jahre",
@@ -425,7 +424,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.75,
     "items": [
      {
       "title": "So kann GTA den Klimawandel sichtbar machen",
@@ -435,25 +434,129 @@
       "teaser": "Die Klimaforschung setzt auf ein Videospiel: Zum Start von GTA 6 wurde eine Studie veröffentlicht, in der die Folgen des Klimawandels anhand der Spielereihe simuliert werden."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Ausgleich der kalten Progression: Droht schon der nächste Koalitionsstreit?",
-      "url": "https://www.spiegel.de/politik/deutschland/ausgleich-der-kalten-progression-droht-schon-der-naechste-koalitionsstreit-a-68edb092-41fd-4ae8-9494-01ebc13ee219#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-22T16:47+01:00",
-      "teaser": "Nur mit Mühe verständigte sich die Koalition zuletzt auf die Stromsteuersenkung. Nun drängt CSU-Chef Markus Söder auf weitere Maßnahmen. Unterstützung kommt von der CDU. Doch die SPD und einige Länder halten dagegen."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Rosyjski statek trafiony dronem opuszcza fińskie wody. Załoga została ewakuowana",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45525581-rosyjski-statek-trafiony-dronem-opuszcza-finskie-wody-zaloga-zostala-ewakuowana",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T19:53+01:00",
+      "teaser": "Rosyjski statek handlowy Sparta II, najprawdopodobniej trafiony ukraińskim dronem w Zatoce Fińskiej, jest holowany poza wody terytorialne Finlandii. Na pokładzie wybuchł pożar, a 16 członków załogi ewakuowano. Estońska marynarka zwraca uwagę na łatwopalny ładunek jednostki."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Kanadyjski premier zadrwił z Trumpa. \"Dekorator wnętrz\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33145144,kanadyjski-premier-zadrwil-z-trumpa-dekorator-wnetrz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-22T18:51+00:00",
+      "teaser": "Mark Carney podczas sobotniego wystąpienia żartował ze zmian w Gabinecie Owalnym, które wprowadził Donald Trump. W pewnym momencie na scenę wyszedł sobowtór amerykańskiego prezydenta."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Internet zalewa fala treści tworzonych przez AI. „Slop” słowem roku 2026",
+      "url": "https://cyfrowa.rp.pl/technologie/art45525591-internet-zalewa-fala-tresci-tworzonych-przez-ai-slop-slowem-roku-2026",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T19:43+01:00",
+      "teaser": "Masowo produkowane przez sztuczną inteligencję treści niskiej jakości stają się jednym z największych problemów internetu. Nic dziwnego, że określające to zjawisko słowo „slop” wygrało ogólnopolski plebiscyt na Technologiczne Słowo Roku 2026. W głosowaniu pokonało m.in. „vibe-coding” i „deepfake”."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Oszuści mogą wykorzystać twój PESEL. Ministerstwo Cyfryzacji podaje, jak się chronić",
+      "url": "https://cyfrowa.rp.pl/it/art45525471-oszusci-moga-wykorzystac-twoj-pesel-ministerstwo-cyfryzacji-podaje-jak-sie-chronic",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T19:25+01:00",
+      "teaser": "Ponad 9 mln Polaków zastrzegło już swój numer PESEL, chroniąc się przed próbami wyłudzenia kredytu lub pożyczki. Ministerstwo Cyfryzacji ruszyło z ogólnopolską kampanią, która ma zachęcić kolejnych obywateli do zabezpieczenia swoich danych i korzystania z narzędzi chroniących przed cyberoszustami."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Szef wywiadu USA o Putinie. Zareagował na słowa Trumpa o „przyjacielu”",
+      "url": "https://www.rp.pl/polityka/art45525511-szef-wywiadu-usa-o-putinie-zareagowal-na-slowa-trumpa-o-przyjacielu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T19:16+01:00",
+      "teaser": "Dyrektor amerykańskiego wywiadu narodowego Jay Clayton skomentował określanie Władimira Putina przez Donalda Trumpa mianem przyjaciela. Jak powiedział w rozmowie z ABC News, rosyjski przywódca nie jest przyjacielem Stanów Zjednoczonych w sprawie Ukrainy. Jednocześnie uznał, że słowa Trumpa można zro"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Rosja traci okręt za okrętem. Tym razem eksplozja w Libii",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45525441-rosja-traci-okret-za-okretem-tym-razem-eksplozja-w-libii",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T19:09+01:00",
+      "teaser": "Dzień po uszkodzeniu przez ukraińskie drony rosyjskiego statku w Zatoce Fińskiej, jeden z najnowszych rosyjskich okrętów wyleciał w powietrze w libijskim porcie Bengazi."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Karol Nawrocki leci do Argentyny i Chile. W planach rozmowy z prezydentami",
+      "url": "https://www.rp.pl/polityka/art45525491-karol-nawrocki-leci-do-argentyny-i-chile-w-planach-rozmowy-z-prezydentami",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T18:58+01:00",
+      "teaser": "Prezydent Karol Nawrocki w poniedziałek rozpocznie pięciodniową wizytę w Ameryce Południowej. W Argentynie i Chile spotka się z przywódcami obu państw, przedstawicielami Polonii oraz odwiedzi m.in. kopalnię z udziałami KGHM."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Rząd chce ograniczyć dzieciom dostęp do mediów społecznościowych",
+      "url": "https://edukacja.rp.pl/rodzice-i-uczniowie/art45525481-rzad-chce-ograniczyc-dzieciom-dostep-do-mediow-spolecznosciowych",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T18:56+01:00",
+      "teaser": "Serwisy społecznościowe zostaną zobowiązane do weryfikowania wieku użytkowników, a za nieprzestrzeganie przepisów będą grozić im wysokie kary finansowe. Projekt trafił już do uzgodnień międzyresortowych i konsultacji społecznych."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "„The Telegraph”: Polska nie uruchomiła art. 4 NATO. Putin może to uznać za słabość Sojuszu",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45525411-the-telegraph-polska-nie-uruchomila-art-4-nato-putin-moze-to-uznac-za-slabosc-sojuszu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T18:33+01:00",
+      "teaser": "Brytyjski dziennik „The Telegraph” ocenia, że rezygnacja Polski z uruchomienia art. 4 NATO po naruszeniu polskiej przestrzeni powietrznej przez rosyjskie pociski może mieć poważne konsekwencje. Zdaniem gazety Moskwa może uznać brak zdecydowanej reakcji za dowód podziałów w Sojuszu i zachętę do kolej"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.84,
     "items": [
      {
       "title": "„Rzecz o idei”: Paulina Matysiak: fajna lewaczka prawicy, czy zmarnowana szansa Razem?",
@@ -466,7 +569,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.82,
     "items": [
      {
       "title": "Sędzia Jakub Stelina: Ja do takiego Trybunału, jaki jest dziś, nie pójdę",
@@ -479,20 +582,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Trzy rosyjskie pociski Ch-101 spadły w Polsce. Nowe ustalenia prokuratury",
-      "url": "https://www.rp.pl/sluzby/art45525381-trzy-rosyjskie-pociski-ch-101-spadly-w-polsce-nowe-ustalenia-prokuratury",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T17:44+01:00",
-      "teaser": "W trzech miejscowościach na Lubelszczyźnie i Podkarpaciu odnaleziono szczątki rosyjskich pocisków manewrujących Ch-101 – potwierdziła Prokuratura Okręgowa w Lublinie. Wszystkie wyprodukowano w IV kwartale 2026 roku w zakładach w obwodzie moskiewskim."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.82,
     "items": [
      {
       "title": "Fala dezinformacji po wtargnięciu rosyjskich rakiet. Gawkowski nie wyklucza zatrzymań",
@@ -502,116 +592,12 @@
       "teaser": "Oskarżenia o ukraińską prowokację oraz teorie o uzależnieniu działań służb od zgody Niemiec - to tylko część dezinformacji, która pojawiła się po naruszeniu polskiej przestrzeni powietrznej przez rosyjskie rakiety. Minister cyfryzacji poinformował, że przygotowały ją moskiewskie boty i trolle."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Chrupalla domaga się deportacji 2,6 miliona obcokrajowców. Sprzeciw nawet w AfD",
-      "url": "https://www.rp.pl/polityka/art45525341-chrupalla-domaga-sie-deportacji-2-6-miliona-obcokrajowcow-sprzeciw-nawet-w-afd",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T17:21+01:00",
-      "teaser": "Lider AfD Tino Chrupalla postuluje powrót do krajów pochodzenia nawet 2,6 mln osób mieszkających w Niemczech. Na liście znaleźli się Ukraińcy, Syryjczycy i Afgańczycy. Polityk uzależnia ich pozostanie w kraju od dalszego istnienia przesłanek do udzielania im ochrony. Jego propozycja wywołała jednak "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Amerykańscy konserwatyści mają najlepszy moment, by znaleźć kandydata w stylu Reagana",
-      "url": "https://www.rp.pl/plus-minus/art45522211-amerykanscy-konserwatysci-maja-najlepszy-moment-by-znalezc-kandydata-w-stylu-reagana",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T17:00+01:00",
-      "teaser": "Od ponad 10 lat amerykańscy konserwatyści nie potrafią wyłonić kandydata na prezydenta, który byłby wiarygodną twarzą bliskiej im wizji świata. Czy po dwóch kadencjach Donalda Trumpa i populizmie ruchu MAGA znajdzie się jeszcze miejsce dla konserwatystów „takich jak dawniej”?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Terror na ulicach Ełku. 38-latek miał nóż. Policja: Wyciągnął kobietę z auta",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33145099,terror-na-ulicach-elku-38-latek-mial-noz-policja-wyciagnal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-22T15:51+00:00",
-      "teaser": "Policja bada wielowątkową sprawę, która zaczęła się od wtargnięcia 38-latka do przypadkowego domu w Ełku, z którego zabrał nóż. Mężczyzna najpierw wystraszył nim osoby w lokalu gastronomicznym, a później zabrał auto czekającej na światłach kobiecie."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Niemców czekają duże podwyżki cen gazu i prądu",
-      "url": "https://www.dw.com/pl/niemców-czekają-duże-podwyżki-cen-gazu-i-prądu/a-80014124?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-22T15:54+00:00",
-      "teaser": "Setki niemieckich dostawców energii podnosi ceny od grudnia. W przypadku gazu to średnio aż 14 procent."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Eksplozja w libijskiej bazie marynarki wojennej. Nieoficjalnie: uderzono w rosyjski okręt",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45525301-eksplozja-w-libijskiej-bazie-marynarki-wojennej-nieoficjalnie-uderzono-w-rosyjski-okret",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T16:47+01:00",
-      "teaser": "W bazie marynarki wojennej w libijskim Bengazi doszło do eksplozji i pożaru. DNE Africa i Anadolu Agency informują o wybuchu w składzie amunicji. Naval News donosi natomiast, że w ogniu stanęła rosyjska korweta Merkury. Jej zniszczenie nie zostało jednak oficjalnie potwierdzone."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Femicyd jako morderstwo. Niemcy szykują zaostrzenie prawa",
-      "url": "https://www.dw.com/pl/femicyd-jako-morderstwo-niemcy-szykują-zaostrzenie-prawa/a-80014395?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-22T15:47+00:00",
-      "teaser": "„Kto zabija kobietę, ponieważ chce się ona z nim rozstać, musi zostać ukarany jak morderca” – uważa niemiecka ministra sprawiedliwości i zamierza zaostrzyć przepisy prawne."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "Dobromir Sośnierz: Prezydent powinien przyjąć ślubowania od sędziów TK",
-      "url": "https://www.rp.pl/polityka/art45525291-dobromir-sosnierz-prezydent-powinien-przyjac-slubowania-od-sedziow-tk",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T16:35+01:00",
-      "teaser": "– Dystansuję się wobec niektórych zachowań narodowców. Chociażby nie podoba mi się ich powielanie narracji PiS wobec zaprzysiężenia sędziów Trybunału Konstytucyjnego – powiedział polityk Konfederacji Dobromir Sośnierz w rozmowie z Onetem."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.79,
-    "items": [
-     {
-      "title": "Zimowa pogoda w Polsce. IMGW prognozuje intensywny śnieg. Może wydać ostrzeżenia",
-      "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198071,33145052,zimowa-pogoda-w-polsce-imgw-prognozuje-intensywny-snieg-moze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-22T15:17+00:00",
-      "teaser": "Synoptycy z IMGW spodziewają się w najbliższych dniach głównie deszczu oraz deszczu ze śniegiem. Opady w dzień i nocne przymrozki spowodują gołoledź, która może spowodować utrudnienia zarówno dla pieszych, jak i kierowców."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.52,
+    "score": 3.43,
     "items": [
      {
       "title": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
@@ -631,7 +617,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.12,
+    "score": 3.02,
     "items": [
      {
       "title": "Paolo Bulgari: Schmuckunternehmer Paolo Bulgari ist tot",
@@ -651,7 +637,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.21,
+    "score": 2.11,
     "items": [
      {
       "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
@@ -671,7 +657,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.2,
+    "score": 2.1,
     "items": [
      {
       "title": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
@@ -691,7 +677,72 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "source": "CNBC",
+      "date": "2026-11-22T18:55+00:00",
+      "teaser": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Souveränität: Deutschlands teurer Alleingang im All",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschlands-teurer-alleingang-bei-satellitenkommunikation-201699724.html",
+      "source": "FAZ",
+      "date": "2026-11-22T18:31+00:00",
+      "teaser": "Europa entwickelt ein System für Satellitenkommunikation. Deutschland bezahlt mit – und entwickelt parallel einen eigenen Dienst."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Rather Than Sell Their House, They Became Landlords Instead",
+      "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+      "source": "New York Times",
+      "date": "2026-11-22T18:05+00:00",
+      "teaser": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
+      "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+      "source": "New York Times",
+      "date": "2026-11-22T17:55+00:00",
+      "teaser": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office",
+      "url": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
+      "source": "New York Times",
+      "date": "2026-11-22T17:53+00:00",
+      "teaser": "“The Hunger Games: Sunrise on the Reaping” had nearly three times the domestic opening box office total of its predecessor, extending a Lionsgate hot streak."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Demographie und Wirtschaft: Kinder sind zum Luxusgut geworden",
@@ -704,7 +755,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.89,
     "items": [
      {
       "title": "Nvidia: Verbindungen zwischen Alice Huang und Chinas Chip-Unterwelt?",
@@ -717,7 +768,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.88,
     "items": [
      {
       "title": "Reaktionen auf COP: „Wir können das Feuer nicht löschen, während wir Brennstoff darauf gießen“",
@@ -727,77 +778,12 @@
       "teaser": "Nach den gescheiterten Verhandlungen in Antalya ist UN-Generalsekretär Guterres tief enttäuscht. Man werde sich nicht davon abhalten lassen, das Richtige zu tun, sagt Bundesumweltminister Schneider."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Statistik: Führt Bürokratieabbau in den wirtschaftlichen Blindflug? Wie Deutschland um die richtige Balance ringt",
-      "url": "https://www.handelsblatt.com/politik/konjunktur/statistik-buerokratieabbau-gegen-oekonomie-wann-wird-es-schaedlich/100267313.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-22T17:08+00:00",
-      "teaser": "Mit einer großen Reform will die Bundesregierung die Unternehmen von Statistikpflichten befreien, ohne die Datengrundlage über die Wirtschaft zu gefährden. Kann das gut gehen?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Aufschwung tief unten: Deutsche Deeptech-Start-ups sammeln Rekordsumme ein",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-deeptech-startups-sammeln-rekordsumme-ein-201695243.html",
-      "source": "FAZ",
-      "date": "2026-11-22T16:49+00:00",
-      "teaser": "Noch nie ist so viel Geld in deutsche Deeptech-Start-ups geflossen. Welche Technologien sind zukünftig besonders gefragt?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Gastkommentar: Europa muss bei der Diversifizierung Druck machen",
-      "url": "https://www.handelsblatt.com/meinung/gastbeitraege/gastkommentar-europa-muss-bei-der-diversifizierung-druck-machen/100270690.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-22T16:32+00:00",
-      "teaser": "Die EU muss ihre Marktmacht bündeln, um Abhängigkeiten zu bekämpfen. Firmen fürchten Kosten und Bürokratie, doch es geht auch anders, argumentiert Geoökonomie-Experte Tobias Gehrke."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Kraftstoff: Preisdeckel könnte Sprit 7,5 Cent pro Liter vergünstigen – Höchstpreise würden fast jeden Tag greifen",
-      "url": "https://www.handelsblatt.com/politik/deutschland/kraftstoff-preisdeckel-koennte-sprit-bis-zu-75-cent-pro-liter-verguenstigen/100271834.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-22T16:13+00:00",
-      "teaser": "Handelsblatt-Berechnungen zum neuen Spritpreisdeckel-Vorschlag von Wirtschaftsministerin Reiche zeigen: Der Höchstpreis würde regelmäßig greifen – vor allem um eine bestimmte Uhrzeit."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "COP31: Abschlusserklärung „nicht zustimmungsfähig“: Einigung bei Weltklimakonferenz gescheitert",
-      "url": "https://www.handelsblatt.com/politik/deutschland/cop31-einigung-bei-weltklimakonferenz-gescheitert/100270720.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-22T16:04+00:00",
-      "teaser": "Der Streit um den Ausstieg aus fossilen Energien bringt das Gipfeltreffen in Antalya zum Scheitern. Nach zwei Wochen endet die Konferenz ohne Abschlusserklärung."
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 2,
-    "score": 9.879999999999999,
+    "score": 9.79,
     "favorite": true,
     "items": [
      {
@@ -818,68 +804,115 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.92,
+    "score": 7.95,
     "favorite": true,
     "items": [
      {
-      "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
-      "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
-      "source": "The Guardian",
-      "date": "2026-11-22T16:53+00:00",
-      "teaser": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Juventus put four past Venezia, Paris FC climb to second Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two goals inside seven minutes from Tajon Buch"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.92,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Eric: \"El Barça de la segunda parte es el que queremos ver siempre\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254172/eric-barca-segunda-parte-queremos-ver-siempre.html",
+      "title": "El extraño gesto de Lamine Yamal que dejó atónito a Fermín López: ¿un bebé en camino?",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254207/extrano-gesto-lamine-yamal-dejo-atonito-fermin-lopez-bebe-camino.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-22T17:49+01:00",
-      "teaser": "Eric Garcia reapareció en el Metropolitano en el tramo final del triunfo ante el Atlético (1-2) y, tras el parón, ya fue titular contra el Villarreal en la remontada 3-2. El defensa explicó en las televisiones tras el partido que \"fue una montaña rusa de emociones. Empezamos fatal, pero después de i"
+      "date": "2026-11-22T19:20+01:00",
+      "teaser": "El Barcelona protagonizó una remontada espectacular ante el Villarreal (3-2), pero uno de los momentos más curiosos del encuentro llegó durante la celebración del empate. Lamine Yamal sorprendió a todos al esconder un balón debajo de su camiseta, simulando una barriga de embarazada, mientras Fermín "
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 7.92,
+    "favorite": true,
     "items": [
      {
-      "title": "Jetzt live - Wann fällt der erste Treffer in Bremen?",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193789/werder-bremen_hamburger-sv/liveticker",
+      "title": "El Barça quiere encarrilar en Croacia su ronda de octavos en la Champions",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254015/barca-quiere-encarrilar-croacia-ronda-octavos-champions.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-22T19:00+01:00",
+      "teaser": "El Barça afronta hoy lunes (20 horas/Esport 3) el partido de ida de los octavos de final de la UEFA Futsal Champions League , visitando en Croacia al MNK Olmissum en el Sportska dvorana Ribnjak de Omis ."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.99,
+    "items": [
+     {
+      "title": "Friedl wie ein Stürmer, Njinmah doppelt: Werder deklassiert HSV im Nordderby",
+      "url": "https://www.kicker.de/bremen-gegen-hsv-2026-bundesliga-5226896/spielbericht#omrss",
+      "source": "kicker",
+      "date": "2026-11-22T18:37+00:00",
+      "teaser": "Werder Bremen hat das Nordderby nach der Pause für sich entschieden und am Ende deutlich gegen den Hamburger SV gewonnen. Kapitän Friedl eröffnete sehenswert, Njinmah legte per Doppelpack nach."
+     },
+     {
+      "title": "4:0 gegen HSV: Njinmah schießt Werder Bremen zum Sieg im Nordderby",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/justin-njinmah-schiesst-werder-bremen-zum-sieg-im-nordderby-gegen-den-hamburger-sv-201304429.html",
+      "source": "FAZ",
+      "date": "2026-11-22T18:50+00:00",
+      "teaser": "Viele Emotionen, vier Tore und ein Held: Justin Njinmah ist der überragende Spieler beim Derby-Erfolg gegen den HSV. Auch in Bremen werden die Hamburger vom Verletzungspech verfolgt."
+     },
+     {
+      "title": "Werder Bremen hämmert den HSV im Nordderby weg",
+      "url": "https://www.sportschau.de/fussball/bundesliga/bremen-haemmert-hsv-im-nordderby-weg,spielbericht-werder-bremen-hamburger-sv-104.html",
       "source": "Sportschau",
-      "date": "2026-11-22T18:46+01:00",
-      "teaser": "Letztes Spiel des Bundesliga-Spieltags: Werder Bremen empfängt den Hamburger SV zum Nordderby. Die Gastgeber haben gute Chancen, lassen aber viel liegen."
+      "date": "2026-11-22T19:42+01:00",
+      "teaser": "Werder Bremen bleibt die Bundesliga-Überraschung. Mit einem deutlichen Erfolg im Derby gegen den Hamburger SV halten die Grün-Weißen den Anschluss an die Spitzengruppe."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Jetzt live - Gelingt Zverev noch ein Comeback gegen Alcaraz?",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-barclays-atp-world-tour-finals/ma12655025/alexander-zverev_carlos-alcaraz/liveticker",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-22T19:35+01:00",
+      "teaser": "Im Endspiel der ATP Finals in Turin stehen sich der Deutsche Alexander Zverev und der Spanier Carlos Alcaraz gegenüber. Der erste Satz geht an den Spanier."
+     },
+     {
+      "title": "ATP Finals: Zverev siegt über Medwedew und trifft im Finale auf Alcaraz",
+      "url": "https://www.zeit.de/sport/2026-11/atp-finals-alexander-zverev-carlos-alcaraz-tennis-finale-gxe",
+      "source": "Zeit",
+      "date": "2026-11-22T09:58+00:00",
+      "teaser": "Der deutsche Tennisstar Alexander Zverev hat sich gegen Daniil Medwedew durchgesetzt. Damit tritt er im Finale der ATP Finals gegen Carlos Alcaraz an."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.98,
     "items": [
      {
-      "title": "Jetzt live - Wirtz-Treffer bringt Liverpool auf Kurs",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma12153466/liverpool-fc_manchester-united/liveticker",
-      "source": "Sportschau",
-      "date": "2026-11-22T18:46+01:00",
-      "teaser": "Das Duell der Rekordmeister in der Premier League: Der FC Liverpool empfängt das kriselnde Manchester United. Die Gastgeber führen, die Gäste könnten ein erneutes Debakel erleben."
+      "title": "\"Glück des Tüchtigen\": Picks später Siegtreffer im Video",
+      "url": "https://www.kicker.de/glueck-des-tuechtigen-picks-spaeter-siegtreffer-im-video-1274017/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-22T18:42+00:00",
+      "teaser": "Florian Pick schoss den 1. FC Saarbrücken zum 2:1-Sieg gegen den SV Wehen Wiesbaden. Im Interview nach dem Spiel konnte er sich seinen Treffer noch einmal anschauen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05",
-      "url": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
-      "source": "Sportschau",
-      "date": "2026-11-22T18:38+01:00",
-      "teaser": "Der FC Augsburg hat in der Bundesliga trotz einer Roten Karte erstmals seit dem zweiten Spieltag wieder gewonnen und damit die Krise des 1. FSV Mainz 05 weiter verschärft."
+      "title": "Bundesliga, 10. Spieltag – Sonntag: Bremen gewinnt Nordderby gegen Hamburg – Augsburg schlägt Mainz",
+      "url": "https://www.zeit.de/sport/2026-11/bundesliga-augsburg-mainz-bremen-hamburg",
+      "source": "Zeit",
+      "date": "2026-11-22T18:37+00:00",
+      "teaser": "Der Hamburger SV verliert das Nordderby in Bremen, auch Niclas Füllkrug trifft wieder. Der FC Augsburg gewinnt das Heimspiel gegen den 1. FSV Mainz 05. Die Spielberichte"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Tor und Vorlage: Wirtz glänzt bei deutlichem Liverpool-Sieg gegen United",
+      "url": "https://www.faz.net/aktuell/sport/fussball/florian-wirtz-glaenzt-bei-deutlichem-sieg-fuer-fc-liverpool-gegen-manchester-united-201707442.html",
+      "source": "FAZ",
+      "date": "2026-11-22T18:43+00:00",
+      "teaser": "Mauricio Pochettino erlebt bei Manchester United einen Einstand zum Vergessen. Nach früher Roter Karte geht United beim FC Liverpool unter. Florian Wirtz trifft sehenswert."
      }
     ]
    },
@@ -888,10 +921,10 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Milan - Frosinone: Tor zum 2:1 durch Masini in der 25. Minute",
-      "url": "https://www.kicker.de/milan-frosinone-tor-zum-2-1-durch-masini-in-der-25-minute-1273989/video#omrss",
+      "title": "Milan - Frosinone: Tor zum 5:1 durch Pulisic in der 68. Minute",
+      "url": "https://www.kicker.de/milan-frosinone-tor-zum-5-1-durch-pulisic-in-der-68-minute-1274015/video#omrss",
       "source": "kicker",
-      "date": "2026-11-22T17:30+00:00",
+      "date": "2026-11-22T18:33+00:00",
       "teaser": "Szene aus dem Spiel AC Mailand - Frosinone Calcio (Serie A 2026/27, 12. Spieltag)."
      }
     ]
@@ -901,11 +934,11 @@
     "score": 1.97,
     "items": [
      {
-      "title": "LOR - Rennes: Elfmeter in der 52. Minute",
-      "url": "https://www.kicker.de/lor-rennes-elfmeter-in-der-52-minute-1273986/video#omrss",
+      "title": "Verkorkstes Pochettino-Debüt: Liverpool meldet ManUnited mit 4:0 ab",
+      "url": "https://www.kicker.de/liverpool-gegen-manunited-2026-premier-league-5213376/spielbericht#omrss",
       "source": "kicker",
-      "date": "2026-11-22T17:29+00:00",
-      "teaser": "Szene aus dem Spiel LOR - Rennes (Ligue 1 2025/26, 11. Spieltag)."
+      "date": "2026-11-22T18:31+00:00",
+      "teaser": "Mauricio Pochettino anstelle von Michael Carrick - für den Moment brachte diese Maßnahme bei Manchester United nichts. Vielmehr verloren die Red Devils das Duell der Rekordmeister beim FC Liverpool schon in den ersten Minuten und verblieben damit tief im Keller."
      }
     ]
    },
@@ -914,24 +947,11 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Jetzt kommen auch noch Ecken hinzu: Hertha bleibt der Gold-Standard",
-      "url": "https://www.kicker.de/jetzt-kommen-auch-noch-ecken-hinzu-hertha-bleibt-der-gold-standard-1273945/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-22T17:29+00:00",
-      "teaser": "Hertha, das Über-Team der 2. Liga, entwickelt gerade eine neue Spezialität. Zwei Tore nach Eckbällen entscheiden das Derby in Cottbus - und festigen die Berliner Dominanz. Trainer Stefan Leitl will sich dem nächsten \"Thema\" widmen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Liverpool v Manchester United: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+      "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
       "source": "The Guardian",
-      "date": "2026-11-22T17:23+00:00",
-      "teaser": "Premier League updates from the 4.30pm GMT kick-off Live scores | Latest table | And follow us over on TikTok “Rob ‘Bob’ Smyth, as I live and breathe,” writes Ian Copestake. “Glad this game is in such .... hands. I will miss it, though. I am in the city as I need a break from looking after mother, a"
+      "date": "2026-11-22T18:35+00:00",
+      "teaser": "Green shoots of recovery have lasted longer in a blast-furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino’s debut descended into an ordeal after merely eight minutes when Leny Yoro was sent off for denying "
      }
     ]
    },
@@ -940,24 +960,11 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Jetzt live - Showdown in Turin zwischen Zverev und Alcaraz",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-barclays-atp-world-tour-finals/ma12655025/alexander-zverev_carlos-alcaraz/liveticker",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-22T18:17+01:00",
-      "teaser": "Im Endspiel der ATP Finals in Turin stehen sich der Deutsche Alexander Zverev und der Spanier Carlos Alcaraz gegenüber."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Skispringen: DSV-Adler starten erschreckend schwach in die Saison",
-      "url": "https://www.sportschau.de/wintersport/skispringen/dsv-adler-starten-erschreckend-schwach-in-die-saison,lillehammer-maenner-sonntag-100.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-22T18:18+01:00",
-      "teaser": "Der Fehlstart der deutschen Skispringer in die neue Weltcup-Saison ist komplett: Beim zweiten Einzel in Lillehammer sprang nur Philipp Raimund auf gewohntem Niveau."
+      "title": "Statement gegen Investoren: FC-Mitglieder stimmen Satzungsreform zu",
+      "url": "https://www.kicker.de/statement-gegen-investoren-fc-mitglieder-stimmen-satzungsreform-zu-1273837/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-22T18:24+00:00",
+      "teaser": "Auf der Jahreshauptversammlung am Sonntag stimmten die Mitglieder des 1. FC Köln einer umfassenden Reform der Klubsatzung zu. Das soll den Klub zukunftssicher machen."
      }
     ]
    }
@@ -965,7 +972,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.84,
     "items": [
      {
       "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
@@ -985,7 +992,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.62,
+    "score": 3.53,
     "items": [
      {
       "title": "How Tamagotchis got us hooked on digital pets",
@@ -1005,7 +1012,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "„Ask Maps“ startet in Deutschland: Google Maps plant jetzt deinen kompletten Tagesablauf – und bucht sogar Termine",
+      "url": "https://t3n.de/news/google-ask-maps-start-deutschland-1773919/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-22T19:40+01:00",
+      "teaser": "Über Google Maps könnt ihr jetzt Termine machen. Das funktioniert mithilfe der neuen KI-Funktion „Ask Maps“. Was sie sonst noch alles bietet. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "25 Grad Durchschnittstemperatur und Tausende Inseln: So stellen sich Forscher eine „superhabitable“ Welt vor",
+      "url": "https://t3n.de/news/superhabitable-planeten-weltall-1768470/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-22T19:05+01:00",
+      "teaser": "Bei der Suche nach Leben im All galt ein zweiter blauer Planet lange als Maßstab. Doch ausgerechnet die Bedingungen auf unserem Heimatplaneten erweisen sich bei näherer Betrachtung der kosmischen Nachbarschaft als ein knapper Grenzfall. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "KI-Rechenzentren: Warum der wahre Konflikt beim Strom liegt",
+      "url": "https://t3n.de/news/ki-rechenzentren-stromverbrauch-konflikt-1772777/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-22T18:40+01:00",
+      "teaser": "Big-Tech-Firmen sehen in der Bewegung gegen KI-Rechenzentren einen Kulturkampf um den Fortschritt. Doch für die Anwohner:innen bei solchen Bauten verläuft die e weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Delta flights in and out of Atlanta delayed due to system outage",
@@ -1018,20 +1064,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "source": "The Verge",
-      "date": "2026-11-22T12:25-05:00",
-      "teaser": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.87,
     "items": [
      {
       "title": "Mit den eigenen Waffen geschlagen: Metas KI-Agent zieht vor Gericht – und verklagt Meta auf 75.000 Dollar",
@@ -1044,7 +1077,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
+      "date": "2026-11-22T12:25-05:00",
+      "teaser": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files wi"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.83,
     "items": [
      {
       "title": "Nur 1 von 1.000 Ausfällen ist ein Hack: Wie du erkennst, ob hinter einer IT-Störung wirklich ein Cyberangriff steckt",
@@ -1057,7 +1103,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.8,
     "items": [
      {
       "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
@@ -1070,7 +1116,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.77,
     "items": [
      {
       "title": "Nie wieder aussperren: Welche Smart Locks sich lohnen",
@@ -1083,7 +1129,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.71,
     "items": [
      {
       "title": "Erst die Miethöhe verraten, dann das T-Shirt bestellen: Wie eine neue EU-Regel das Zahlen mit Klarna und Paypal verändert",
@@ -1091,45 +1137,6 @@
       "source": "t3n",
       "date": "2026-11-22T16:30+01:00",
       "teaser": "Wer in Zukunft auf Rechnung oder in Raten bezahlen will, muss bei BNPL-Diensten wie Klarna oder Paypal wohl bald mehr über seine finanzielle Situation offenlegen. Eine neue EU-Regel sieht das vor, die selbst für kleinere Einkäufe gilt. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.79,
-    "items": [
-     {
-      "title": "Protesters storm Meta offices in India",
-      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "source": "The Verge",
-      "date": "2026-11-22T10:15-05:00",
-      "teaser": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congre"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "Internet weg, Wasser verseucht – erstmal den KI-Bot fragen? Warum „Survival LLM“ im Ernstfall gefährlich werden kann",
-      "url": "https://t3n.de/news/survival-llm-keine-gute-idee-1773996/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-22T15:55+01:00",
-      "teaser": "Survival LLM ist ein lokales KI-Modell, das euch im Katastrophenfall mit möglicherweise überlebenswichtigen Informationen versorgt. Warum das in der Praxis weni weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.7,
-    "items": [
-     {
-      "title": "Ein Satz reicht: Googles Gemini Notebook verwandelt deine losen Notizen ab sofort in interaktive Webseiten",
-      "url": "https://t3n.de/news/google-gemini-notebook-website-1773890/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-22T15:15+01:00",
-      "teaser": "Das Notiz- und Recherchetool Gemini Notebook bekommt ein neues Feature spendiert. Die Google-KI kann jetzt sämtliche Informationen in einem Projekt in eine waschechte Webseite verwandeln. Wann sich das lohnen soll. weiterlesen auf t3n.de"
      }
     ]
    }
@@ -1386,7 +1393,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "CNBC",
    "ok": true,
-   "items": 2
+   "items": 3
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1464,7 +1471,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 1
+   "items": 2
   },
   {
    "topic": "Tech & KI",
