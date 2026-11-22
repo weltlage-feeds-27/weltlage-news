@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-22T05:03:59+00:00",
+ "fetchedAt": "2026-11-22T06:02:03+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.59,
+    "score": 7.51,
     "items": [
      {
       "title": "FBI criminal database hacked",
@@ -31,7 +31,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.97,
+    "score": 5.89,
     "items": [
      {
       "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -58,7 +58,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.19,
+    "score": 5.11,
     "items": [
      {
       "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
@@ -85,7 +85,47 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.47,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "Immigration officers make arrest at Seattle airport in ‘distressing’ scene, delaying flight",
+      "url": "https://www.thehindu.com/news/international/immigration-officers-make-arrest-at-seattle-airport-in-distressing-scene-delaying-flight/article71730599.ece",
+      "source": "The Hindu",
+      "date": "2026-11-22T10:00+05:30",
+      "teaser": "The Port of Seattle said in a statement that the arrest was distressing not only for the affected family but for other passengers, and that local authorities would \"engage federal officials to understand more about what occurred\""
+     },
+     {
+      "title": "ICE Officers Arrest 2 Passengers Boarding a Flight at Seattle Airport",
+      "url": "https://www.nytimes.com/2026/11/22/us/ice-arrest-passengers-seattle-airport.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-22T05:08+00:00",
+      "teaser": "The arrests were criticized by Washington’s governor and airport officials, who called the incident “distressing.”"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+      "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+      "source": "The Guardian",
+      "date": "2026-11-22T05:04+00:00",
+      "teaser": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the lead-up to the country’s key university en"
+     },
+     {
+      "title": "South Korea Education Minister resigns amid AI cheating scandal",
+      "url": "https://www.thehindu.com/news/international/south-korea-education-minister-resigns-amid-ai-cheating-scandal/article71730601.ece",
+      "source": "The Hindu",
+      "date": "2026-11-22T09:52+05:30",
+      "teaser": "The country has been gripped by fears of AI-assisted exam cheating since last Sunday (November 15, 2026), when the top scorer in a national tax accountant exam confessed to using a miniature camera and smartphone to achieve a near-perfect score"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.39,
     "items": [
      {
       "title": "Trump orders federal contractors to check with White House before responding to Congress",
@@ -105,7 +145,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.34,
+    "score": 3.25,
     "items": [
      {
       "title": "UN talks on AI in warfare end with no commitment to binding rules",
@@ -125,7 +165,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.24,
+    "score": 3.16,
     "items": [
      {
       "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
@@ -145,7 +185,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.2,
+    "score": 3.12,
     "items": [
      {
       "title": "Finnland: Russisches Frachtschiff nach Drohnenangriff in Brand",
@@ -165,7 +205,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.19,
+    "score": 3.11,
     "items": [
      {
       "title": "Liveblog Ukrainekrieg: Rutte: NATO wird jeden Zentimeter von Polen verteidigen",
@@ -185,7 +225,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.09,
+    "score": 3.01,
     "items": [
      {
       "title": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
@@ -205,7 +245,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.04,
+    "score": 2.96,
     "items": [
      {
       "title": "Trump auditions potential successors as Rubio and Vance join him for White House briefing",
@@ -222,71 +262,77 @@
       "teaser": "Bei einer Pressekonferenz im Weißen Haus holt der US-Präsident plötzlich seinen Stabschef ans Mikrofon. Und teilt danach gegen Vize Vance und Außenminister Rubio aus."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.02,
-    "items": [
-     {
-      "title": "Man convicted of starting palisades fire",
-      "url": "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
-      "source": "France 24",
-      "date": "2026-11-21T17:21+00:00",
-      "teaser": "A Los Angeles County jury found former rideshare driver Jonathan Rinderknecht guilty on Friday of starting the 2025 Palisades fire, which caused widespread destruction and loss of life. He faces a prison sentence of between five and 40 years. Liza Kaminov has more."
-     },
-     {
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-21T04:34+00:00",
-      "teaser": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Apartment building 'destroyed' in Kyiv Oblast following Russian drone attack",
-      "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-22T04:49+00:00",
-      "teaser": "Tymur Tkachenko, head of the Kyiv Oblast Military Administration, reported that five-story residential building was damaged in the Vyshhorod district of Kyiv Oblast, just north of the capital, amid the attack."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.98,
     "items": [
      {
-      "title": "Starke Rauchentwicklung in Hochhaus: 60 Personen evakuiert - möglicherweise zwei Verletzte",
+      "title": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+      "source": "Tagesschau",
+      "date": "2026-11-22T06:47+01:00",
+      "teaser": "Antisemitismus so offen wie seit dem Holocaust nicht mehr: Bundesbeauftragte Schnurbein warnt vor wachsendem Judenhass in Deutschland. Die AfD-Ideologie sei ein gefährlicher Angriff auf die Erinnerungskultur. Ihr Appell ist eindringlich."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Trittscheid: Wo der Neubau einer Straße Existenzen bedroht",
+      "url": "https://www.zdfheute.de/politik/deutschland/rheinland-pfalz-infrastruktur-strassenbau-100.html",
+      "source": "ZDF",
+      "date": "2026-11-22T06:43+01:00",
+      "teaser": "In Rheinland-Pfalz müssen Eigentümer für den Neubau von Dorfstraßen zahlen. Viele können sich das nicht leisten und protestieren. Doch die Kommunen sind auf das Geld angewiesen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Starke Rauchentwicklung in Hochhaus: 60 Personen wegen Kellerbrand evakuiert",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/starke-rauchentwicklung-hochhaus-eppelheim-100.html",
       "source": "SWR",
-      "date": "2026-11-22T04:57+01:00",
-      "teaser": "Ein Hochhaus in Eppelheim wurde in der Nacht zu Sonntag von der Feuerwehr evakuiert. Grund dafür war starker Rauch im Gebäude. Zwei Personen wurden von Rettungskräften untersucht."
+      "date": "2026-11-22T06:39+01:00",
+      "teaser": "Ein Hochhaus in Eppelheim wurde in der Nacht zu Sonntag von der Feuerwehr evakuiert. Grund dafür war ein Brand im Keller. Mehrere Personen wurden von Rettungskräften untersucht."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.94,
     "items": [
      {
-      "title": "COP31 in Antalya: Neuer Entwurf für COP31-Erklärung erwähnt Öl, Kohle und Gas nicht explizit",
-      "url": "https://www.sueddeutsche.de/politik/klimapolitik-cop31-antalya-klima-klimawandel-klimaschutz-umwelt-umweltschutz-klimagipfel-li.3584161",
-      "source": "Süddeutsche",
-      "date": "2026-11-22T02:34+00:00",
-      "teaser": "Der Klimagipfel im türkischen Antalya sollte eigentlich längst vorbei sein, doch es hakte an der gemeinsamen Abschlusserklärung. Nun gibt es einen neuen Entwurf – Öl, Kohle und Gas werden darin weiterhin nicht erwähnt."
+      "title": "Gewalt gegen Frauen: Bundesjustizministerin will Femizid als Mord erfassen",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/mordparagraf-stephanie-hubig-femizid-strafrecht-gesetzesentwurf",
+      "source": "Zeit",
+      "date": "2026-11-22T05:19+00:00",
+      "teaser": "Stefanie Hubig stößt weitere Gesetze zum Schutz von Frauen an. Ihr neuester Plan soll es strafrechtlich leichter machen, Femizide als Mord einzustufen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.71,
+    "items": [
+     {
+      "title": "Klimagipfel in Antalya: Neuer Entwurf für COP31-Erklärung erwähnt Öl, Kohle und Gas nicht explizit",
+      "url": "https://www.sueddeutsche.de/politik/cop31-antalya-klimagipfel-erklaerung-li.3584161",
+      "source": "Süddeutsche",
+      "date": "2026-11-22T02:34+00:00",
+      "teaser": "Der Klimagipfel in Antalya sollte eigentlich längst vorbei sein. Es hakt an der gemeinsamen Abschlusserklärung – jetzt liegt ein neuer Entwurf vor."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.64,
     "items": [
      {
       "title": "Antisemitismus: FDP-Politikerin bei propalästinensischer Demo angegriffen",
@@ -299,7 +345,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.47,
+    "score": 1.39,
     "items": [
      {
       "title": "E-Autos besonders im Fokus: Was ein Wechsel der Kfz-Versicherung bringen kann",
@@ -312,7 +358,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.42,
+    "score": 1.33,
     "items": [
      {
       "title": "VfB Stuttgart wartet gegen Schalke vergeblich auf das \"Quäntchen Glück\"",
@@ -325,7 +371,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.31,
+    "score": 1.23,
     "items": [
      {
       "title": "Heiraten ohne Trauschein: Der Trend zur \"Fake Wedding\"",
@@ -338,7 +384,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.26,
+    "score": 1.18,
     "items": [
      {
       "title": "Karl Lauterbach: »Dass KI die Menschheit auslöscht, halte ich für Unsinn«",
@@ -351,7 +397,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.24,
+    "score": 1.16,
     "items": [
      {
       "title": "Wie ersetzt man den unersetzlichen Harry Kane?",
@@ -364,7 +410,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.23,
+    "score": 1.14,
     "items": [
      {
       "title": "Jugendliche nehmen Krebsmedikament, um größer zu werden",
@@ -374,51 +420,64 @@
       "teaser": "Das Bundesinstitut für Arzneimittel warnt vor Heightmaxxing: Jugendliche nehmen offenbar ein Krebsmedikament ein, um größer zu werden - trotz erheblicher Gesundheitsrisiken."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.2,
-    "items": [
-     {
-      "title": "Bald Generalinspekteur: Im guten Geiste Preußens",
-      "url": "https://www.faz.net/aktuell/politik/inland/christian-freuding-staerkt-der-neue-generalinspekteur-die-bundeswehr-201694897.html",
-      "source": "FAZ",
-      "date": "2026-11-21T19:26+00:00",
-      "teaser": "Manche erinnert der künftige Generalinspekteur Christian Freuding an den preußischen Militärreformer Scharnhorst. Ähnlich ist jedenfalls die Aufgabe, „unserem Unglück zuvorzukommen“."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.19,
-    "items": [
-     {
-      "title": "Krieg in der Ukraine: Drohnen greifen Schiff im Finnischen Meerbusen an",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohnen-frachter-finnland-li.3571967",
-      "source": "Süddeutsche",
-      "date": "2026-11-21T19:20+00:00",
-      "teaser": "Finnland schränkt den Luft- und Seeverkehr wegen des brennenden Frachters vorsorglich ein. Nach Aussagen von Selenskij habe die Krim-Brücke keine Zukunft."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.17,
-    "items": [
-     {
-      "title": "Der SC Freiburg eine Spitzenmannschaft? Matanovic trifft und grinst",
-      "url": "https://www.swr.de/sport/fussball/elversberg-freiburg-matanovic-nachbericht-100.html",
-      "source": "SWR",
-      "date": "2026-11-21T20:02+01:00",
-      "teaser": "Der SC Freiburg gewinnt dank Igor Matanovic auch bei der SV Elversberg. Der Sieg macht sich in der Tabelle und in den Geschichtsbüchern des Sport-Clubs bemerkbar."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Lider prawicy w Polsce. Polacy wybrali w sondażu swojego faworyta",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33144657,lider-prawicy-w-polsce-polacy-wybrali-w-sondazu-swojego-faworyta.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-22T05:30+00:00",
+      "teaser": "Liderem prawicy został bezpartyjny, choć popierany przez PiS, Karol Nawrocki - wynika z sondażu SW Research dla \"Rzeczpospolitej\". Zdaniem dziennikarzy celem prezydenta może być zjednoczenie prawej strony sceny politycznej."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Rollercoaster emocji we Włocławku. Polki zagrają o turniej finałowy Billie Jean King Cup",
+      "url": "https://sport.rp.pl/tenis/art45523801-rollercoaster-emocji-we-wloclawku-polki-zagraja-o-turniej-finalowy-billie-jean-king-cup",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T06:26+01:00",
+      "teaser": "Pięć meczów potrzebowały polskie tenisistki, by pokonać we Włocławku Szwecję. Zwycięstwo 3:2 i awans zagwarantowała Linda Klimovicova. W kwietniu nasza drużyna powalczy o udział w turnieju finałowym Billie Jean King Cup."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Sejm zdecydował w sprawie wynagrodzeń medyków. Są nowe limity",
+      "url": "https://www.rp.pl/ochrona-zdrowia/art45514401-sejm-zdecydowal-w-sprawie-wynagrodzen-medykow-sa-nowe-limity",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T06:08+01:00",
+      "teaser": "Sejm rozpatrzył poprawki Senatu do ustawy ograniczającej zarobki i czas pracy lekarzy. Posłowie poparli większość zmian, w tym całkowite usunięcie sankcji dla medyków poświadczających nieprawdę oraz obniżenie minimalnego wymiaru zatrudnienia do jednej czwartej etatu. Ustawa trafi teraz do prezydenta"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Polska produkcja najlepszym filmem wszech czasów. Na podium z „Ojcem chrzestnym” i „Casablancą”",
+      "url": "https://www.rp.pl/film/art45501671-polska-produkcja-najlepszym-filmem-wszech-czasow-na-podium-z-ojcem-chrzestnym-i-casablanca",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T06:06+01:00",
+      "teaser": "„Dekalog” Krzysztofa Kieślowskiego został uznany przez amerykańskich krytyków za najlepszą produkcję filmową w historii. Cykl dziesięciu obrazów z 1988 r. zajmuje pierwsze miejsce w prestiżowym zestawieniu portalu Metacritic, obok takich ikon światowego kina jak „Ojciec chrzestny” czy „Casablanca”."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Marek Roefler: Kolekcja sztuki uwiarygadnia w biznesie. To lepsze niż nowe auto",
@@ -431,7 +490,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.78,
     "items": [
      {
       "title": "Polak miał zaprojektować miasto w Indiach. Jego plany pokrzyżowała katastrofa lotnicza",
@@ -444,7 +503,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.43,
+    "score": 1.35,
     "items": [
      {
       "title": "Baron narkotykowy „El Chapo Isidro” złapany w Meksyku",
@@ -457,7 +516,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.34,
+    "score": 1.26,
     "items": [
      {
       "title": "NATO reaguje na rosyjskie obiekty w Polsce. Rutte: Absolutnie nie do przyjęcia",
@@ -470,7 +529,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.29,
+    "score": 1.21,
     "items": [
      {
       "title": "Ozempic i Mounjaro nie tylko odchudzają. Naukowcy badają wpływ na pamięć",
@@ -483,7 +542,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.27,
+    "score": 1.19,
     "items": [
      {
       "title": "Sikorski o porażce \"wielkiej fantazji\" Putina. \"Chińczycy pokazali jego miejsce w szeregu\"",
@@ -496,20 +555,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.22,
-    "items": [
-     {
-      "title": "Alarmy w obwodzie królewieckim. Miało dojść do eksplozji",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45523701-alarmy-w-obwodzie-krolewieckim-mialo-dojsc-do-eksplozji",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T20:39+01:00",
-      "teaser": "W obwodzie królewieckim miało dojść do kilku eksplozji, m.in. w Bałtyjsku w pobliżu rosyjskiej bazy Floty Bałtyckiej. Zawyły syreny alarmowe, a ludziom wskazano, żeby szukali schronienia - donosi ukraiński dziennik The Kyiv Independent powołując się na ukraińskie kanały na Telegramie."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.22,
+    "score": 1.14,
     "items": [
      {
       "title": "Leszek Wiwała: O czym nie mówi się, gdy rosną ceny paliw",
@@ -522,53 +568,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.21,
+    "score": 1.13,
     "items": [
      {
-      "title": "Spór o ambasadorów. Przydacz zarzuca Sikorskiemu eskalowanie konfliktu",
-      "url": "https://www.rp.pl/polityka/art45523691-spor-o-ambasadorow-przydacz-zarzuca-sikorskiemu-eskalowanie-konfliktu",
+      "title": "Alarmy w obwodzie królewieckim. Miało dojść do eksplozji",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45523701-alarmy-w-obwodzie-krolewieckim-mialo-dojsc-do-eksplozji",
       "source": "Rzeczpospolita",
-      "date": "2026-11-21T20:38+01:00",
-      "teaser": "Szef prezydenckiego Biura Polityki Międzynarodowej Marcin Przydacz zarzucił MSZ, że bez uzgodnienia z Karolem Nawrockim rozesłało do kilkunastu państw wnioski o agrément dla kandydatów na ambasadorów. Zapowiedział, że nie otrzymają oni prezydenckich listów uwierzytelniających."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.2,
-    "items": [
-     {
-      "title": "Puchar Świata w Lillehammer. Polacy odpadli na starcie",
-      "url": "https://sport.rp.pl/skoki-narciarskie/art45523661-puchar-swiata-w-lillehammer-polacy-odpadli-na-starcie",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-21T20:26+01:00",
-      "teaser": "Żaden z czterech polskich skoczków nie awansował do drugiej serii w sobotnim inauguracyjnym konkursie Pucharu Świata 2026/2027 w Lillehammer w Norwegii."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.17,
-    "items": [
-     {
-      "title": "Przydacz oskarża Sikorskiego ws. ambasadorów. \"Prosi o zgodę obce rządy\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33144620,przydacz-oskarza-sikorskiego-ws-ambasadorow-prosi-o-zgode.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-21T19:09+00:00",
-      "teaser": "Szef Biura Polityki Międzynarodowej Prezydenta napisał, że MSZ rozesłało do kilkunastu krajów wnioski o zaakceptowanie kandydatów na nowych ambasadorów. \"Zrobiło to z pełną świadomością braku uzgodnienia tych nazwisk z prezydentem\" - napisał Marcin Przydacz."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.07,
-    "items": [
-     {
-      "title": "Wyrok śmierci dla Polaka w USA. \"Wyrachowane zabójstwo\"",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33144546,wyrok-smierci-dla-polaka-w-usa-wyrachowane-zabojstwo.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-21T17:53+00:00",
-      "teaser": "Sąd Okręgowy dla hrabstwa Pinellas na Florydzie skazał Tomasza Kosowskiego za morderstwo prawnika Stevena Cozziego. Ciała ofiary nigdy nie odnaleziono w przeciwieństwie do śladów jej krwi."
+      "date": "2026-11-21T20:39+01:00",
+      "teaser": "W obwodzie królewieckim miało dojść do kilku eksplozji, m.in. w Bałtyjsku w pobliżu rosyjskiej bazy Floty Bałtyckiej. Zawyły syreny alarmowe, a ludziom wskazano, żeby szukali schronienia - donosi ukraiński dziennik The Kyiv Independent powołując się na ukraińskie kanały na Telegramie."
      }
     ]
    }
@@ -576,7 +583,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.27,
+    "score": 5.19,
     "items": [
      {
       "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
@@ -603,7 +610,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.26,
+    "score": 3.18,
     "items": [
      {
       "title": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
@@ -623,131 +630,131 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.92,
     "items": [
      {
-      "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
-      "source": "Tagesschau",
-      "date": "2026-11-22T04:50+01:00",
-      "teaser": "Bundesweit hatten am Freitag Beschäftigte der Metall- und Elektroindustrie ihre Arbeit niedergelegt. Im Norden will die IG Metall Küste jetzt nachlegen: Nochmal soll für 24 Stunden gestreikt werden - teils schon ab heute Abend."
+      "title": "COP31 in Antalya: Klimagipfel: Textentwurf erwähnt fossile Energien nicht",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
+      "source": "FAZ",
+      "date": "2026-11-22T05:05+00:00",
+      "teaser": "Die Weltklimakonferenz in der Türkei steht nach langen Verhandlungen vor der Abstimmung über einen Entwurf für die Abschlusserklärung. Öl, Kohle und Gas werden darin nicht ausdrücklich genannt."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.91,
     "items": [
      {
-      "title": "AfD: „Absolut schlechtes Zeichen“ – Gefährdet die AfD die Kooperation mit Partnergeheimdiensten?",
-      "url": "https://www.handelsblatt.com/politik/deutschland/afd-politiker-sorgen-sich-um-kooperation-mit-partnergeheimdiensten/100271788.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-22T02:01+00:00",
-      "teaser": "Die AfD in Sachsen-Anhalt kontrolliert künftig über ein Parlamentsgremium den Landesverfassungsschutz mit, der die Partei selbst beobachtet. Sicherheitspolitiker schlagen Alarm."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.74,
-    "items": [
-     {
-      "title": "+++ Ukraine-Krieg +++: Ukrainische Drohnen werden in Großbritannien gebaut",
-      "url": "https://www.handelsblatt.com/politik/international/ukraine-ukrainische-drohnen-werden-in-grossbritannien-gebaut/27982126.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-22T02:00+00:00",
-      "teaser": "Russisches Frachtschiff nach Drohnenangriff vor Finnland in Brand +++ Großbritannien und Niederlande sichern Ukraine weitere Hilfe zu +++ Der Newsblog."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.7,
-    "items": [
-     {
-      "title": "India’s $126bn insurance sector slams proposed commission cap",
-      "url": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1",
+      "title": "How measles spread across the world",
+      "url": "https://www.ft.com/content/a71192b7-708c-4bd4-abb6-31c82113794a?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-22T01:30+00:00",
-      "teaser": "Industry argues regulation would hamper growth of a market that only recently opened up fully to foreign investment"
+      "date": "2026-11-22T05:00+00:00",
+      "teaser": "Vaccine misinformation, austerity and aid cuts have led to the resurgence of a disease once regarded as eliminated in rich countries"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.67,
+    "score": 1.91,
     "items": [
      {
-      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
-      "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-      "source": "New York Times",
-      "date": "2026-11-22T01:05+00:00",
-      "teaser": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.61,
-    "items": [
-     {
-      "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
-      "source": "The Guardian",
-      "date": "2026-11-22T00:20+00:00",
-      "teaser": "US justice department brings charges against group after at least 36 trains burglarized for shoes and tools Fourteen people in southern California have been accused of burglarizing more than $22m worth of goods from moving freight trains, in a plot reminiscent of the US old west, when outlaws and ba"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.54,
-    "items": [
-     {
-      "title": "COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’",
-      "url": "https://www.ft.com/content/b3ba64e9-9482-4525-acc7-49825f3daace?syn-25a6b1a6=1",
+      "title": "A rocky road to Irish unity",
+      "url": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-21T23:34+00:00",
-      "teaser": "Talks run into second day of overtime as Saudi Arabia leads opposition to inclusion of fossil fuel phase out in final agreement"
+      "date": "2026-11-22T05:00+00:00",
+      "teaser": "Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.51,
+    "score": 1.91,
     "items": [
      {
-      "title": "The Penny Is Dead. Now It’s Official.",
-      "url": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
-      "source": "New York Times",
-      "date": "2026-11-21T23:12+00:00",
-      "teaser": "President Trump signed a law on Friday formally putting the penny out of mint, a year after it stopped being struck."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.47,
-    "items": [
-     {
-      "title": "EU-Haushalt: Costa will 204 Milliarden sparen – Merz reicht das nicht",
-      "url": "https://www.handelsblatt.com/politik/international/eu-haushalt-costa-will-204-milliarden-sparen-merz-reicht-das-nicht/100271749.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-21T22:45+00:00",
-      "teaser": "Neue Digitalsteuer, weniger Geld für Verteidigung und Kohäsion: Der Haushaltsplan des EU-Ratspräsidenten stellt gleich mehrere Prioritäten des Kanzlers infrage."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.37,
-    "items": [
-     {
-      "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
-      "url": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
+      "title": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
+      "url": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-21T21:28+00:00",
-      "teaser": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US"
+      "date": "2026-11-22T05:00+00:00",
+      "teaser": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Le Pen’s shadow looms over Burnham’s EU dreams",
+      "url": "https://www.ft.com/content/b3b86fe5-e7ac-4922-b45b-480ba1c88613?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-22T05:00+00:00",
+      "teaser": "Prime minister’s attempt to confine next stage of EU debate to ‘informal brainstorming’ may turn out to be in vain."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Getting the UK’s Neets into work is worth the cost",
+      "url": "https://www.ft.com/content/937a6804-e8b8-428d-bb8f-67f83fe874c5?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-22T05:00+00:00",
+      "teaser": "Calculating the direct benefit to the exchequer is not the only measure that matters when evaluating fixes to youth unemployment"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Cheap Chinese parcels flood into UK",
+      "url": "https://www.ft.com/content/2b2824e2-16b9-4621-85a0-7dad220644d5?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-22T05:00+00:00",
+      "teaser": "Value of small imported packages rose fourfold in the past two years as purchases from Asian ecommerce groups and platforms boomed"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Khartoum goes on the offensive in Sudan war",
+      "url": "https://www.ft.com/content/90cec5dc-f699-4966-886d-6277cc289ed0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-22T05:00+00:00",
+      "teaser": "Wave of defections from paramilitary rivals aids government advance"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Tech suppliers hike AI server prices up to 45% months after deals are signed",
+      "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-22T05:00+00:00",
+      "teaser": "Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading firms"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "The ‘austere’ conservative poised to lead Spain with the far right",
+      "url": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-22T05:00+00:00",
+      "teaser": "Alberto Núñez Feijóo is on course to become the country’s next prime minister — but only with the backing of the Vox party"
      }
     ]
    }
@@ -755,49 +762,49 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.91,
+    "score": 8.0,
     "favorite": true,
     "items": [
      {
-      "title": "Pedri y Lamine, los intocables de Flick",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253810/pedri-lamine-intocables-flick.html",
+      "title": "Iñigo Pérez buscará revertir su mal balance ante el Barça con la buena racha del Villarreal",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253766/inigo-perez-buscara-revertir-mal-balance-barca-buena-racha-villarreal.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-22T05:00+01:00",
-      "teaser": "legados a los tres primeros meses de temporada oficial, Pedri González y Lamine Yamal son los únicos futbolistas del Barça que han disputado todos los partidos oficiales entre Liga y Champions . Son 16 los compromisos que suman ambos, a los que hay que sumar los de la selección española."
+      "date": "2026-11-22T07:00+01:00",
+      "teaser": "Iñigo Pérez tendrá la posibilidad este mediodía (14h.) de revertir el mal balance que tiene ante el Barça . El técnico del Villarreal aun no sabe lo que es ganarle al equipo azulgrana, ya que de los cinco partidos en los que se ha enfrentado al Barcelona siendo técnico del Rayo Vallecano perdió cuat"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.87,
+    "score": 7.98,
     "favorite": true,
     "items": [
      {
-      "title": "Las claves del Villarreal-Barça, por Lobo Carrasco",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253805/claves-villarreal-barca-lobo-carrasco.html",
+      "title": "El ascensor de Àlex Campos",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253900/ascensor-alex-campos.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-22T04:30+01:00",
-      "teaser": "1. Partido de pelota"
+      "date": "2026-11-22T06:45+01:00",
+      "teaser": "Desde que Hansi Flick citó a Àlex Campos (18 años) para sumarse a la convocatoria ante el Paris Saint-Germain , el central se ha mantenido en dinámica de primer equipo. Un mes después, Campos volvió a disputar minutos con el Barça Atlètic . Rindió a un buen nivel en el derbi disputado en la Dani Jar"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.83,
+    "score": 7.96,
     "favorite": true,
     "items": [
      {
-      "title": "El libro que convirtió a Luis Enrique en el mejor entrenador del mundo",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253793/libro-convirtio-luis-enrique-mejor-entrenador-mundo.html",
+      "title": "Con Dani Olmo vuelve la magia y la rotación perfecta",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253750/dani-olmo-vuelve-magia-rotacion-perfecta.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-22T04:00+01:00",
-      "teaser": "Esta semana el equipo de ‘La Porteria’ de betevé presentó y emitió, bajo la sabia batuta de Pitu Abril y Marc Marbà , el magnífico documental ‘ Marcats per Luis Enrique’ . En él se repasa el exitoso paso de Lucho por el filial del Barça , desde el 2008 hasta el 2011, con un meritorio ascenso de Segu"
+      "date": "2026-11-22T06:30+01:00",
+      "teaser": "Un mal apoyo tras un choque fortuito con Vitinha en el Parque de los Príncipes de París frenó a un Dani Olmo que llegaba a ese momento de la temporada en línea ascendente y a un gran nivel. El Barça perdió 4-2 aquel 20 de octubre, su primera derrota de la temporada, y el mediapunta de 28 años sufrió"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.24,
+    "score": 3.16,
     "items": [
      {
       "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
@@ -817,7 +824,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.24,
+    "score": 3.16,
     "items": [
      {
       "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
@@ -837,7 +844,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.19,
+    "score": 3.11,
     "items": [
      {
       "title": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
@@ -857,7 +864,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.9,
+    "score": 2.82,
     "items": [
      {
       "title": "FC Bayern und Musiala: „Das hat mit ‚Mia san mia‘ und der FC-Bayern-Familie wenig zu tun“",
@@ -877,7 +884,63 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.74,
+    "score": 1.96,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Presión para el Barça femenino ante el Athletic",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253745/presion-barca-femenino-athletic.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-22T06:30+01:00",
+      "teaser": "Superado el bache de los dos empates seguidos ante Arsenal (1-1) y Deportivo (1-1), una vez sellado el billete directo a los cuartos de final de la Champions League con una goleada (6-0) al Servette suizo, el Barça femenino también está obligado a reencontrarse con la victoria este domingo (19.00 h."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.83,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Pedri y Lamine, los intocables de Flick",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253810/pedri-lamine-intocables-flick.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-22T05:00+01:00",
+      "teaser": "legados a los tres primeros meses de temporada oficial, Pedri González y Lamine Yamal son los únicos futbolistas del Barça que han disputado todos los partidos oficiales entre Liga y Champions . Son 16 los compromisos que suman ambos, a los que hay que sumar los de la selección española."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.79,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Las claves del Villarreal-Barça, por Lobo Carrasco",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253805/claves-villarreal-barca-lobo-carrasco.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-22T04:30+01:00",
+      "teaser": "1. Partido de pelota"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.75,
+    "favorite": true,
+    "items": [
+     {
+      "title": "El libro que convirtió a Luis Enrique en el mejor entrenador del mundo",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253793/libro-convirtio-luis-enrique-mejor-entrenador-mundo.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-22T04:00+01:00",
+      "teaser": "Esta semana el equipo de ‘La Porteria’ de betevé presentó y emitió, bajo la sabia batuta de Pitu Abril y Marc Marbà , el magnífico documental ‘ Marcats per Luis Enrique’ . En él se repasa el exitoso paso de Lucho por el filial del Barça , desde el 2008 hasta el 2011, con un meritorio ascenso de Segu"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.66,
     "favorite": true,
     "items": [
      {
@@ -888,65 +951,25 @@
       "teaser": "Estas semanas en las que hay paro liguero por los partidos de selecciones, suelen alimentarse de debates espurios. En ese paréntesis el protagonismo se lo han repartido, para variar, dos jugadores del Barça . El vaso medio vacío son las referencias a los supuestos tratos de preferencia hacia Lamine "
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.56,
-    "items": [
-     {
-      "title": "Absage \"nachvollziehbar\": Burkardt spricht über Klopps Anruf",
-      "url": "https://www.kicker.de/absage-nachvollziehbar-burkardt-spricht-ueber-klopps-anruf-1273715/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-21T23:49+00:00",
-      "teaser": "Von Bundestrainer Jürgen Klopp wurde Jonathan Burkardt nicht für die November-Länderspiele eingeladen. Nun gab der Eintracht-Angreifer Einblicke in das Telefonat - und bezeichnete die Absage als \"nachvollziehbar\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.5,
-    "favorite": true,
-    "items": [
-     {
-      "title": "El probable once del Barça frente al Villarreal",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253851/cambios-medita-flick-villarreal-once.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-22T00:05+01:00",
-      "teaser": "Hansi Flick recupera jugadores, pero sigue teniendo que buscar soluciones ante una situación complicada por las lesiones, especialmente en defensa. Se recupera Koundé para recibir al Villarreal, pero en cambio ha perdido a Thomas Christensen , que se quedó en casa durante el parón para ponerse a pun"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.49,
-    "items": [
-     {
-      "title": "Nemeths Worte erzielen ihre Wirkung: \"Können ruhig mal härter zueinander sein\"",
-      "url": "https://www.kicker.de/nemeths-worte-erzielen-ihre-wirkung-koennen-ruhig-mal-haerter-zueinander-sein-1273695/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-21T22:59+00:00",
-      "teaser": "\"Gespräche\" hatte David Nemeth als Kapitän vom FC St. Pauli nach dem 1:4 beim 1. FC Magdeburg angekündigt. Was daraus medial gemacht wurde, überraschte den Österreicher - gleichwohl war die Wirkung im Heimspiel gegen den VfL Bochum nicht zu übersehen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.46,
-    "items": [
-     {
-      "title": "Elfmeter-Fehlschuss und späte Rettung: Real feiert Comeback-Sieg",
-      "url": "https://www.kicker.de/elfmeter-fehlschuss-und-spaete-rettung-real-feiert-comeback-sieg-1273706/video#omrss",
-      "source": "kicker",
-      "date": "2026-11-21T22:35+00:00",
-      "teaser": "Real Madrid hatte im Heimspiel gegen Celta Vigo lang Schwierigkeiten, drehte gegen Ende dann aber doch auf und holte den Sieg. Die Highlights der Partie gibt es hier."
-     }
-    ]
    }
   ],
   "Tech & KI": [
    {
     "sourceCount": 1,
-    "score": 1.67,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Was wäre, wenn auf der Erde nie Leben entstanden wäre? Forscher haben es durchgerechnet",
+      "url": "https://t3n.de/news/erde-leben-forscher-simulation-1773522/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-22T06:25+01:00",
+      "teaser": "Wie unterscheidet man tatsächlich belebte Welten von nur potenziell bewohnbaren Planeten? Ganz einfach: Man erstellt ein Modell unserer Erde – aber bereinigt um alles Leben. Dies hat ein Forschungsteam getan. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.59,
     "items": [
      {
       "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
@@ -959,7 +982,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.43,
+    "score": 1.35,
     "items": [
      {
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
@@ -972,7 +995,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.41,
+    "score": 1.33,
     "items": [
      {
       "title": "Amazon is complaining about NYC Council on shipping labels, too",
@@ -985,7 +1008,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 1.32,
+    "score": 1.24,
     "items": [
      {
       "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
@@ -1005,7 +1028,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.25,
+    "score": 1.17,
     "items": [
      {
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -1018,7 +1041,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.18,
+    "score": 1.1,
     "items": [
      {
       "title": "Microshifting im Homeoffice: Mit diesen 2 Regeln wird der Arbeitstrend auch für Arbeitgeber zum Gewinn",
@@ -1031,7 +1054,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.18,
+    "score": 1.1,
     "items": [
      {
       "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
@@ -1044,7 +1067,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.18,
+    "score": 1.1,
     "items": [
      {
       "title": "G.T.A. VI Is a Monumental Human Achievement",
@@ -1057,7 +1080,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.13,
+    "score": 1.05,
     "items": [
      {
       "title": "GEO oder SEO? Was Daten von 1.200 B2B-Unternehmen über den wahren Wert von KI-Traffic verraten",
@@ -1070,7 +1093,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.08,
+    "score": 1.0,
     "items": [
      {
       "title": "99,4 Prozent nach 15 Tagen zerstört: Eine einzige Atombombe im All würde fast alle Starlink-Satelliten auslöschen",
@@ -1083,7 +1106,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.05,
+    "score": 0.97,
     "items": [
      {
       "title": "The FBI and USDA were reportedly hacked",
@@ -1091,19 +1114,6 @@
       "source": "The Verge",
       "date": "2026-11-21T12:42-05:00",
       "teaser": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state,"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.01,
-    "items": [
-     {
-      "title": "Lassen sich Chips tracken? Was Nvidia und Branchenverbände dazu sagen",
-      "url": "https://t3n.de/news/nvidia-chips-tracking-1773433/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-21T18:10+01:00",
-      "teaser": "Der US-Gesetzentwurf namens Chip Security Act zielt darauf, den Standort von KI-Chips zu tracken, um so Schmuggel nach China zu unterbinden. Das gewinnt nach de weiterlesen auf t3n.de"
      }
     ]
    }
@@ -1120,7 +1130,7 @@
    "topic": "Welt & Politik",
    "source": "Deutsche Welle",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "topic": "Welt & Politik",
@@ -1240,19 +1250,19 @@
    "topic": "Deutschland",
    "source": "Tagesschau",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "topic": "Deutschland",
    "source": "Spiegel",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Deutschland",
    "source": "Zeit",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Deutschland",
@@ -1264,7 +1274,7 @@
    "topic": "Deutschland",
    "source": "Süddeutsche",
    "ok": true,
-   "items": 9
+   "items": 7
   },
   {
    "topic": "Deutschland",
@@ -1318,7 +1328,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "Handelsblatt (Finanzen)",
    "ok": true,
-   "items": 7
+   "items": 5
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1342,7 +1352,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "BBC",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Wirtschaft & Börse",
