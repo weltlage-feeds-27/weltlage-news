@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-22T08:21:04+00:00",
+ "fetchedAt": "2026-11-22T09:53:53+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 4,
-    "score": 7.99,
+    "sourceCount": 5,
+    "score": 9.95,
     "items": [
      {
       "title": "South Korea’s education minister quits amid backlash over anti-cheating exam checks",
@@ -30,15 +30,22 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.95,
+    "sourceCount": 4,
+    "score": 7.96,
     "items": [
      {
-      "title": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
+      "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
       "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
       "source": "The Guardian",
       "date": "2026-11-22T07:11+00:00",
       "teaser": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesian rescue official says. Drone footage showed large parts of the factory destroye"
+     },
+     {
+      "title": "Bodies found, 36 workers missing after Indonesian factory fire",
+      "url": "https://www.abc.net.au/news/2026-11-22/bodies-recovered-after-indonesian-factory-fire/107414720",
+      "source": "ABC Australia",
+      "date": "2026-11-22T09:23+00:00",
+      "teaser": "A fire has swept through a confectionary factory in Indonesia's Banten province, killing at least three workers and leaving 36 others unaccounted-for, officials say."
      },
      {
       "title": "Indonesia factory fire kills three, 36 missing",
@@ -46,46 +53,12 @@
       "source": "Al Jazeera",
       "date": "2026-11-22T07:46+00:00",
       "teaser": "At least 15 people rescued, including four taken to hospital, as authorities say it is unclear what caused the blaze."
-     },
-     {
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-22T06:05+00:00",
-      "teaser": "At least three people were killed and 36 are still missing after a fire at a confectionary factory."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.83,
-    "items": [
-     {
-      "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
-      "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
-      "source": "France 24",
-      "date": "2026-11-21T18:02+00:00",
-      "teaser": "A Russian cargo ship caught fire after ​being hit by drones in the Baltic Sea on Saturday and drifted into Finnish waters. Reporting from Kyiv, FRANCE 24's Gulliver Cragg notes that the ship is affiliated with a major Russian military logistics company. While Ukrainian authorities typically neither "
-     },
-     {
-      "title": "Russian military-linked cargo ship could sink after drone strike in Gulf of Finland, Finnish official warns",
-      "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-21T17:39+00:00",
-      "teaser": "Vladyslav Vlasiuk, Ukrainian President Volodymyr Zelensky's sanctions policy adviser, commented on the incident in remarks to the Kyiv Independent. “Yes, quite a coincidence, isn’t it? It seems that vessels sanctioned by Ukraine for systematically supporting Russia’s military-industrial complex have"
-     },
-     {
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-21T19:20+00:00",
-      "teaser": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.32,
+    "score": 5.19,
     "items": [
      {
       "title": "AP source: FBI investigating apparent hack of its key national criminal justice database",
@@ -112,7 +85,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 4.0,
+    "score": 3.87,
     "items": [
      {
       "title": "EU und Indonesien besiegeln Handelsabkommen",
@@ -132,7 +105,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.77,
     "items": [
      {
       "title": "Immigration officers make arrest at Seattle airport in ‘distressing’ scene, delaying flight",
@@ -152,7 +125,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.75,
     "items": [
      {
       "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
@@ -172,7 +145,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.19,
+    "score": 3.7,
+    "items": [
+     {
+      "title": "Live: At least 14 feared trapped after Russian strike in Kyiv region, Zelensky says",
+      "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
+      "source": "France 24",
+      "date": "2026-11-22T06:15+00:00",
+      "teaser": "Ukrainian President Volodymyr Zelensky said at least 14 people were missing after a Russian drone struck a five-story residential building in Dymer, in the Kyiv region, injuring two others. Meanwhile, Finland warned the war was \"spilling over\" after a drone set fire to a Russian cargo ship in the ea"
+     },
+     {
+      "title": "14 feared trapped after Russian drone hits apartment building near Kyiv, injuring 2",
+      "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-22T04:49+00:00",
+      "teaser": "\"People may still be trapped under the rubble,\" President Volodymyr Zelensky said."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.06,
     "items": [
      {
       "title": "Trump orders federal contractors to check with White House before responding to Congress",
@@ -192,7 +185,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.06,
+    "score": 2.93,
     "items": [
      {
       "title": "UN talks on AI in warfare end with no commitment to binding rules",
@@ -212,7 +205,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.96,
+    "score": 2.84,
     "items": [
      {
       "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
@@ -232,27 +225,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.93,
+    "score": 2.79,
     "items": [
      {
-      "title": "Finnland: Russisches Frachtschiff nach Drohnenangriff in Brand",
-      "url": "https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand-a-4a4de76e-5165-4547-9c57-787de3fec8d8#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-21T20:27+01:00",
-      "teaser": "»Der Krieg greift auf Gebiete in unserer Nachbarschaft über«, so Finnlands Ministerpräsident Orpo: Vor der Küste des Landes hat vermutlich eine ukrainische Drohne ein russisches Schiff getroffen."
+      "title": "Russian military-linked cargo ship could sink after drone strike in Gulf of Finland, Finnish official warns",
+      "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-21T17:39+00:00",
+      "teaser": "Vladyslav Vlasiuk, Ukrainian President Volodymyr Zelensky's sanctions policy adviser, commented on the incident in remarks to the Kyiv Independent. “Yes, quite a coincidence, isn’t it? It seems that vessels sanctioned by Ukraine for systematically supporting Russia’s military-industrial complex have"
      },
      {
-      "title": "Drohnenangriff auf »Sparta II«: Finnland bestätigt Drohnenangriff auf russisches Schiff in der Ostsee",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/drohnenangriff-sparta-2-russisches-frachtschiff-ostsee-gogland-gxe",
-      "source": "Zeit",
-      "date": "2026-11-21T19:31+00:00",
-      "teaser": "Ein russischer Frachter ist im Finnischen Meerbusen von einer Drohne angegriffen worden und in Brand geraten. Finnlands Militär geht von einem ukrainischen Angriff aus."
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-21T19:20+00:00",
+      "teaser": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 2.82,
+    "score": 2.69,
     "items": [
      {
       "title": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
@@ -273,8 +266,35 @@
   ],
   "Deutschland": [
    {
-    "sourceCount": 1,
-    "score": 1.99,
+    "sourceCount": 3,
+    "score": 5.89,
+    "items": [
+     {
+      "title": "Deutschland Liveblog: FDP-Politikerin Preisler bei propalästinensischer Demo attackiert",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
+      "source": "FAZ",
+      "date": "2026-11-22T08:38+00:00",
+      "teaser": "Demoteilnehmerin soll auf sie eingetreten haben +++ Linken-Vorsitzende Schwerdtner: Emdes Ego-Show brauchen wir nicht +++ Höcke bleibt Vorsitzender der Thüringer AfD +++ alle Entwicklungen im Liveblog"
+     },
+     {
+      "title": "Antisemitismus: FDP-Politikerin bei propalästinensischer Demo angegriffen",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/karoline-preisler-angriff-demonstration-berlin-antisemitismus-katharina-von-schnurbein",
+      "source": "Zeit",
+      "date": "2026-11-22T01:40+00:00",
+      "teaser": "Die Aktivistin Karoline Preisler macht sich gegen Antisemitismus stark. Jetzt ist sie in Berlin in ein Handgemenge geraten und getreten worden. Die Polizei griff ein."
+     },
+     {
+      "title": "Berlin: FDP-Politikerin bei propalästinensischer Demo attackiert",
+      "url": "https://www.sueddeutsche.de/politik/karoline-preisler-fdp-angriff-demo-berlin-li.3584235",
+      "source": "Süddeutsche",
+      "date": "2026-11-22T08:15+00:00",
+      "teaser": "Karoline Preisler wird nach Polizeiangaben geschubst und getreten, dann geht sie zu Boden. Der israelische Außenminister dankt der Politikerin für ihren Mut."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.98,
     "items": [
      {
       "title": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
@@ -282,19 +302,26 @@
       "source": "Tagesschau",
       "date": "2026-11-22T09:16+01:00",
       "teaser": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor."
+     },
+     {
+      "title": "Justizministerin Hubig: Femizide sollen als Mord gelten",
+      "url": "https://www.sueddeutsche.de/politik/justizministerin-hubig-femizide-sollen-als-mord-gelten-li.3584292",
+      "source": "Süddeutsche",
+      "date": "2026-11-22T09:39+00:00",
+      "teaser": ""
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
     "items": [
      {
-      "title": "Künstliche Intelligenz: Lauterbach kritisiert Regierung für zu wenig Ehrgeiz bei KI-Förderung",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/kuenstliche-intelligenz-karl-lauterbach-spd-deutschland-usa-china-gxe",
-      "source": "Zeit",
-      "date": "2026-11-22T08:10+00:00",
-      "teaser": "Deutschland spiele bei der künstlichen Intelligenz »nirgendwo wirklich führend und entscheidend« mit, kritisiert Karl Lauterbach. Er fordert mehr finanzielle Förderung."
+      "title": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-22T10:51+01:00",
+      "teaser": "Die Bundeswehr hat ein Problem mit sexualisiertem Fehlverhalten. Das belegt eine Studie. Der künftige Generalinspekteur der Bundeswehr, Freuding, will hier \"unerbittlich hart durchgreifen\". Die Zahlen seien \"unerträglich\"."
      }
     ]
    },
@@ -303,11 +330,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Bundespolitik: Söder: Bayern will Ausgleich kalter Progression mittragen",
-      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-soeder-kalte-progression-li.3580621",
+      "title": "Klimagipfel in Antalya: Deutschland lehnt neuen Entwurf für COP31-Erklärung ab",
+      "url": "https://www.sueddeutsche.de/politik/cop31-antalya-klimagipfel-erklaerung-li.3584161",
       "source": "Süddeutsche",
-      "date": "2026-11-22T08:04+00:00",
-      "teaser": "Das sagte der CSU-Politiker der „Bild am Sonntag“. Diese Entlastungen beim Ausgleich der Einkommensteuer im Jahr 2027 würde Bund, Länder und Kommunen zusammen etwa 4,2 Milliarden Euro kosten."
+      "date": "2026-11-22T09:38+00:00",
+      "teaser": "Bundesumweltminister Carsten Schneider (SPD) warnte vor einem Rückfall hinter bereits erreichte Vereinbarungen. Am frühen Morgen war ein neuer Entwurf für eine gemeinsame Abschlusserklärung vorgelegt worden."
      }
     ]
    },
@@ -316,24 +343,37 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Chip im Gehirn: Wie Fortschritt mit Verantwortung gelingt",
-      "url": "https://www.zdfheute.de/wissen/neurotechnologie-gehirnimplantate-terrax-nano-marcello-ienca-kolumne-100.html",
-      "source": "ZDF",
-      "date": "2026-11-22T09:00+01:00",
-      "teaser": "Gehirn-Computer-Schnittstellen können Menschen mit Lähmungen neue Selbstständigkeit ermöglichen. Entscheidend ist, wie wir sie entwickeln und wofür wir sie einsetzen."
+      "title": "USA: Trump erhofft sich Gutes von Hackerangriff auf das FBI",
+      "url": "https://www.sueddeutsche.de/politik/usa-trump-erhofft-sich-gutes-von-hackerangriff-auf-das-fbi-li.3584268",
+      "source": "Süddeutsche",
+      "date": "2026-11-22T09:35+00:00",
+      "teaser": ""
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.97,
     "items": [
      {
-      "title": "Robert Habeck: Habeck kritisiert fehlende geopolitische Geschlossenheit der EU",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/robert-habeck-arktis-geopolitik-usa-russland-china-gxe",
-      "source": "Zeit",
-      "date": "2026-11-22T07:49+00:00",
-      "teaser": "Der Grünen-Politiker Robert Habeck warnt davor, dass der Einfluss Euopas schwinden könnte. Russland, China und die USA seien dabei, »die Welt unter sich aufzuteilen«."
+      "title": "Feuer in Scheune und Wohnhäusern: Räucherschrank als Brandursache?",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/millionen-schaden-nach-scheunen-brand-koenigheim-gissigheim-100.html",
+      "source": "SWR",
+      "date": "2026-11-22T10:33+01:00",
+      "teaser": "Ein Scheunenbrand in Königheim hat sich am frühen Sonntagmorgen auf mehrere Wohnhäuser und Nebengebäude ausgebreitet. Der Schaden geht wohl in die Millionen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Brand in Hochhaus-Keller: 60 Personen in Sicherheit gebracht",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/starke-rauchentwicklung-hochhaus-eppelheim-100.html",
+      "source": "SWR",
+      "date": "2026-11-22T10:35+01:00",
+      "teaser": "Ein Hochhaus in Eppelheim wurde in der Nacht zu Sonntag von der Feuerwehr evakuiert. Grund dafür war ein Brand im Keller. Mehrere Personen wurden von Rettungskräften untersucht."
      }
     ]
    },
@@ -342,11 +382,50 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Strafprozesse: So wird die Justiz nicht schneller",
-      "url": "https://www.faz.net/aktuell/politik/inland/die-strafverfahren-in-deutschland-dauern-zu-lange-201691488.html",
-      "source": "FAZ",
-      "date": "2026-11-22T07:34+00:00",
-      "teaser": "Bei den Staatsanwaltschaften türmen sich die unerledigten Strafverfahren. Doch statt großer Lösungen liefert eine Expertenkommission nur einen Minimalkompromiss."
+      "title": "Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+      "url": "https://www.zdfheute.de/politik/ausland/cop-31-klimakonferenz-antalya-100.html",
+      "source": "ZDF",
+      "date": "2026-11-22T10:12+01:00",
+      "teaser": "Die Verhandlungen bei der COP31 in Antalya stecken fest. Bislang gibt es keine gemeinsame Haltung zu fossilen Energien. Deutschland erteilt dem Abschlusstext-Entwurf eine Absage."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "News: Treffen von Donald Trump, Wladimir Putin und Xi Jinping in Shenzhen, dreckige Deals der Deutschen Bank",
+      "url": "https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-22T10:00+01:00",
+      "teaser": "Wieder hat sich gezeigt, dass der US-Präsident die Demokratien nicht würdig und wirkungsvoll vertreten kann. Das ist die Lage am Sonntag."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Sorgen der Gen Z: Der Tatendrang der Jugend",
+      "url": "https://www.sueddeutsche.de/politik/gen-z-quentin-gaertner-jugend-politik-proteste-li.3578974",
+      "source": "Süddeutsche",
+      "date": "2026-11-22T09:06+00:00",
+      "teaser": "Junge Menschen sind verärgert über die Politik. Quentin Gärtner, ehemaliger Generalsekretär der Bundesschülerkonferenz, zeigt in seinem Buch die Gründe – und mögliche Lösungen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Raphael Lemkin über deutsche Besatzungsherrschaft: Warum Genozid nicht nur Massenmord ist",
+      "url": "https://www.sueddeutsche.de/politik/raphael-lemkin-genozid-ns-herrschaft-voelkermord-rezension-li.3577632",
+      "source": "Süddeutsche",
+      "date": "2026-11-22T09:06+00:00",
+      "teaser": "Raphael Lemkins Grundlagenwerk über die NS-Herrschaft in Europa aus dem Jahr 1944 liegt erstmals auf Deutsch vor – und bietet aktuelle Denkanstöße. Ein würdiges Denkmal für den Völkerrechtler, der den Begriff Genozid definierte."
      }
     ]
    },
@@ -355,76 +434,11 @@
     "score": 1.91,
     "items": [
      {
-      "title": "Antisemitismusbeauftragte Katharina von Schnurbein warnt vor AfD-Regierung",
-      "url": "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-22T08:13+01:00",
-      "teaser": "Kommt die AfD an die Macht, sieht die Antisemitismusbeauftragte Katharina von Schnurbein KZ-Gedenkstätten und die Erinnerungskultur in Gefahr. In jüdischen Gemeinden spüre sie Unsicherheit."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Große Koalition: Die politische Mitte und die Lust am Untergang",
-      "url": "https://www.faz.net/aktuell/politik/inland/die-koalition-und-ihr-personal-in-der-mitte-nichts-neues-accg-201691253.html",
-      "source": "FAZ",
-      "date": "2026-11-22T06:58+00:00",
-      "teaser": "Die große Koalition und ihr Personal: So wird das nichts mehr mit der Mitte"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "CDU: Annegret Kramp-Karrenbauer fordert Fokus auf Alltagsängste statt Rechtskurs",
-      "url": "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-22T07:52+01:00",
-      "teaser": "Die Beliebtheitswerte für Kanzler Merz sind miserabel, auch seine Partei schwächelt. Die frühere CDU-Chefin Kramp-Karrenbauer sagt, was sie in ihrer Partei vermisst und was die richtige Antwort auf den AfD-Höhenflug wäre."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Klimagipfel in Antalya: Neuer Entwurf für COP31-Erklärung erwähnt Öl, Kohle und Gas nicht explizit",
-      "url": "https://www.sueddeutsche.de/politik/cop31-antalya-klimagipfel-erklaerung-li.3584161",
-      "source": "Süddeutsche",
-      "date": "2026-11-22T06:52+00:00",
-      "teaser": "Der Klimagipfel in Antalya sollte eigentlich längst vorbei sein. Es hakt an der gemeinsamen Abschlusserklärung – jetzt liegt ein neuer Entwurf vor."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "source": "ZDF",
-      "date": "2026-11-22T07:56+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Starke Rauchentwicklung in Hochhaus: 60 Personen wegen Kellerbrand evakuiert",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/starke-rauchentwicklung-hochhaus-eppelheim-100.html",
-      "source": "SWR",
-      "date": "2026-11-22T07:34+01:00",
-      "teaser": "Ein Hochhaus in Eppelheim wurde in der Nacht zu Sonntag von der Feuerwehr evakuiert. Grund dafür war ein Brand im Keller. Mehrere Personen wurden von Rettungskräften untersucht."
+      "title": "Josef Schuster: Zentralratspräsident fordert klare Abgrenzung von Extremisten",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/josef-schuster-zentralrat-juden-antisemitismus-deutschland-gxe",
+      "source": "Zeit",
+      "date": "2026-11-22T08:50+00:00",
+      "teaser": "Jüdisches Leben hat aus Sicht von Josef Schuster eine Zukunft in Deutschland. Eine Regierungsbeteiligung extremistischer Parteien könne das jedoch grundlegend verändern."
      }
     ]
    }
@@ -432,7 +446,85 @@
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Nie żyje twórca jubilerskiej potęgi. Paolo Bulgari zmarł w Rzymie",
+      "url": "https://www.rp.pl/spoleczenstwo/art45523971-nie-zyje-tworca-jubilerskiej-potegi-paolo-bulgari-zmarl-w-rzymie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T10:27+01:00",
+      "teaser": "Paolo Bulgari, włoski jubiler, który przekształcił rodzinny biznes w znaną na całym świecie luksusową markę, zmarł w Rzymie w wieku 89 lat."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "„To był jeden z kluczy do sukcesu”. Marek Magierowski o wygranej demokratów w wyborach do Kongresu",
+      "url": "https://www.rp.pl/polityka/art45524031-to-byl-jeden-z-kluczy-do-sukcesu-marek-magierowski-o-wygranej-demokratow-w-wyborach-do-kongresu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T10:21+01:00",
+      "teaser": "– Republikanie uznali, że to, co przyniosło im sukces dwa lata wcześniej, wystarczy ponownie. Nie uwzględnili, jak bardzo zmieniły się priorytety społeczne – stwierdził Marek Magierowski, były ambasador RP w Izraelu i USA, komentując wyniki wyborów połówkowych do Kongresu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Taras Myszljajew: Trzy obrazy Ukraińca w jednej polskiej głowie",
+      "url": "https://www.rp.pl/publicystyka/art45514461-taras-myszljajew-trzy-obrazy-ukrainca-w-jednej-polskiej-glowie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T10:00+01:00",
+      "teaser": "Nie wystarczy pytać, czy Polacy lubią Ukraińców. Trzeba dodać, jak oceniają tych, których naprawdę znają, co sądzą o Ukraińcach jako grupie i czego oczekują od polskiego państwa w kontekście migrantów. Te trzy odpowiedzi mogą się różnić bez sprzeczności. Niebezpiecznie robi się dopiero wtedy, gdy po"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Spór wokół ambasadorów. Sikorski: Prezydent nie może sobie mianować, kogo chce",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33144805,spor-wokol-ambasadorow-sikorski-prezydent-nie-moze-sobie-mianowac.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-22T08:59+00:00",
+      "teaser": "- To jest taka metoda polityczna: \"ja wam sparaliżuję jakąś instytucję, a wy, jak chcecie, żeby działała, to musicie się zgodzić, żebym ja ją przejął\" - tak o sprawie nominacji ambasadorskich mówił w TVP Info wicepremier, szef MSZ Radosław Sikorski. - Oni sobie wymyślili, że będą wszystkich blokować"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Niepokojący stan niemieckiej motoryzacji. Czy jest jeszcze szansa na ratunek?",
+      "url": "https://www.dw.com/pl/niepokojący-stan-niemieckiej-motoryzacji-czy-jest-jeszcze-szansa-na-ratunek/a-80010755?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-22T08:59+00:00",
+      "teaser": "Niemiecki przemysł samochodowy ogranicza inwestycje w kraju, co rodzi coraz większe obawy o jego przyszłość. Niektórzy eksperci widzą jednak jeszcze szansę, by powstrzymać jego schyłek. Co trzeba zrobić?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "Michał Szułdrzyński: Trumpowi trudno będzie zakończyć wojnę Rosji z Ukrainą, bo nie rozumie, dlaczego wybuchła",
+      "url": "https://www.rp.pl/komentarze/art45523781-michal-szuldrzynski-trumpowi-trudno-bedzie-zakonczyc-wojne-rosji-z-ukraina-bo-nie-rozumie-dlaczego-wybuchla",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-22T09:20+01:00",
+      "teaser": "Donald Trump upatruje przyczyn trwania wojny w Ukrainie we wzajemnej nienawiści Władimira Putina i Wołodymyra Zełenskiego. Kluczem do zrozumienia rosyjskiej inwazji są tymczasem imperialne ambicje Moskwy i sprzeciw Kremla wobec prozachodniego kursu Kijowa, a nie emocje."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.84,
     "items": [
      {
       "title": "„Mój przyjaciel”. Donald Trump opublikował grafikę z Władimirem Putinem",
@@ -445,7 +537,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.84,
     "items": [
      {
       "title": "Sławomir Dębski: Politycy muszą określić, do jakiej wojny Polska ma się przygotowywać",
@@ -458,7 +550,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.84,
     "items": [
      {
       "title": "Trump pokazał zdjęcie z Putinem. W podpisie tylko dwa słowa",
@@ -471,7 +563,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.82,
     "items": [
      {
       "title": "Litwa odrzuca pogłoski o udziale w rzekomym ataku dronów na obwód królewiecki",
@@ -484,7 +576,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.79,
     "items": [
      {
       "title": "Tragiczny pożar w Trzciance, Max Verstappen najlepszy w Las Vegas",
@@ -497,7 +589,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.76,
     "items": [
      {
       "title": "Danuta Waniek: Generał przekonywał, by w ustroju RP dominowały Kościół i wojsko",
@@ -507,90 +599,12 @@
       "teaser": "Prezydent Lech Wałęsa chyba wyobrażał sobie swoją wielkość na wzór pierwszych sekretarzy KC z czasów PRL, a oni mogli wszystko. Rządzili policją, wojskiem, służbami. Innych wzorców nie znał, a państwo demokratyczne wprowadza swoje ograniczenia.Rozmowa z danutą Waniek, wiceszefową MON w latach 1994–1"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Dziadkowie i 12-letnie dziecko zginęli w pożarze. Tragedia w Trzciance",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33144775,dziadkowie-i-12-letnie-dziecko-zgineli-w-pozarze-tragedia-w.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-22T06:29+00:00",
-      "teaser": "Trwa wyjaśnianie okoliczności pożaru, do którego doszło w nocy z soboty na niedzielę w jednym z domów w Trzciance w woj. wielkopolskim. Zginęły trzy osoby, w tym 12-letnie dziecko."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.82,
-    "items": [
-     {
-      "title": "Rosja chciała przeprowadzić prowokację na polskiej granicy. Zakładała dużą liczbę ofiar",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45490041-rosja-chciala-przeprowadzic-prowokacje-na-polskiej-granicy-zakladala-duza-liczbe-ofiar",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T07:11+01:00",
-      "teaser": "Operacja polskich służb oraz wojska na przełomie października i listopada zapobiegła rosyjskiej prowokacji na granicy z obwodem królewieckim – wynika z ustaleń „Rz”. Rosjanie szykowali prowokację z dużą liczbą ofiar."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "Sondaż: Utrzymanie władzy przez obecną koalicję ma więcej zwolenników niż rząd prawicy",
-      "url": "https://www.rp.pl/polityka/art45523821-sondaz-utrzymanie-wladzy-przez-obecna-koalicje-ma-wiecej-zwolennikow-niz-rzad-prawicy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T07:04+01:00",
-      "teaser": "Niemal co piąty Polak uważa, że zarówno utrzymanie władzy przez obecną koalicję rządzącą lub część partii jej tworzących, jak i zdobycie władzy przez prawicową opozycję będą scenariuszami niekorzystnymi dla Polski - wynika z sondażu SW Research dla rp.pl."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "Lewica chce chronić hymn Polski przed przeróbkami. Proponuje karę więzienia",
-      "url": "https://www.rp.pl/polityka/art45494721-lewica-chce-chronic-hymn-polski-przed-przerobkami-proponuje-kare-wiezienia",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T07:03+01:00",
-      "teaser": "Lewica chce zaostrzyć ochronę „Mazurka Dąbrowskiego”. Do Sejmu trafił projekt, który przewiduje grzywnę, ograniczenie wolności, a nawet rok więzienia za publiczne znieważenie hymnu. Politycy nie ukrywają, że impulsem do zmian były głośne przeróbki autorstwa polityków i celebrytów."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "Rollercoaster emocji we Włocławku. Polki zagrają o turniej finałowy Billie Jean King Cup",
-      "url": "https://sport.rp.pl/tenis/art45523801-rollercoaster-emocji-we-wloclawku-polki-zagraja-o-turniej-finalowy-billie-jean-king-cup",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-22T06:26+01:00",
-      "teaser": "Pięć meczów potrzebowały polskie tenisistki, by pokonać we Włocławku Szwecję. Zwycięstwo 3:2 i awans zagwarantowała Linda Klimovicova. W kwietniu nasza drużyna powalczy o udział w turnieju finałowym Billie Jean King Cup."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "Lider prawicy w Polsce. Polacy wybrali w sondażu swojego faworyta",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33144657,lider-prawicy-w-polsce-polacy-wybrali-w-sondazu-swojego-faworyta.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-22T05:30+00:00",
-      "teaser": "Liderem prawicy został bezpartyjny, choć popierany przez PiS, Karol Nawrocki - wynika z sondażu SW Research dla \"Rzeczpospolitej\". Zdaniem dziennikarzy celem prezydenta może być zjednoczenie prawej strony sceny politycznej."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.0,
+    "score": 4.87,
     "items": [
      {
       "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
@@ -620,6 +634,26 @@
     "score": 3.91,
     "items": [
      {
+      "title": "Business-Ticker: IG Metall weitet 24-Stunden-Streiks im Norden aus",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
+      "source": "FAZ",
+      "date": "2026-11-22T08:48+00:00",
+      "teaser": "Tesla-Ausbau: Sorge wegen Verkehr und Wohnraum um Grünheide +++ „Unsinn“: Tiktok kritisiert Verkaufspläne vom Kulturstaatsminister Weimer +++ Hackerangriff auf Hugendubel +++ alle Neuigkeiten im Unternehmen-Liveblog"
+     },
+     {
+      "title": "Metall-Tarifkonflikt: IG Metall Küste – 24-Stunden-Streiks werden ausgeweitet",
+      "url": "https://www.handelsblatt.com/politik/deutschland/metall-tarifkonflikt-ig-metall-kueste-24-stunden-streiks-werden-ausgeweitet/100271781.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-22T01:54+00:00",
+      "teaser": "Im festgefahrenen Tarifstreit sind am Montag mehr als 23.000 Beschäftigte in 19 Betrieben zum Streik aufgerufen. Auch bei Mercedes-Benz und der Meyer Werft soll die Arbeit ruhen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.78,
+    "items": [
+     {
       "title": "Paolo Bulgari: Schmuckunternehmer Paolo Bulgari ist tot",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/paolo-bulgari-schmuckunternehmer-tod-edelsteine",
       "source": "Zeit",
@@ -637,7 +671,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.98,
+    "score": 2.86,
     "items": [
      {
       "title": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
@@ -660,17 +694,56 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Nvidia-Skandal: Hatte Alice Huang Kontakte zu Chipschmugglern?",
-      "url": "https://www.handelsblatt.com/technik/ki/nvidia-skandal-hatte-alice-huang-kontakte-zu-chipschmugglern/100271827.html",
+      "title": "COP31: Deutschland und Frankreich weisen neuen Abschluss-Entwurf zurück – Klimagipfel droht zu scheitern",
+      "url": "https://www.handelsblatt.com/politik/deutschland/cop31-oelstaaten-fuehren-abwehrkampf-klimagipfel-droht-zu-scheitern/100270720.html",
       "source": "Handelsblatt",
-      "date": "2026-11-22T08:13+00:00",
-      "teaser": "Die frühere Megaspeed-Managerin soll Nvidia-Chips über Briefkastenfirmen nach China gebracht haben. Ein neuer Bericht nennt Verbindungen zu Gaming-Konzernen und mutmaßlichen Schleusern."
+      "date": "2026-11-22T09:43+00:00",
+      "teaser": "Australien und die Türkei haben ein neues Verhandlungspaket vorgelegt. Die Konferenz soll an diesem Sonntag darüber entscheiden."
      }
     ]
    },
    {
     "sourceCount": 1,
     "score": 1.99,
+    "items": [
+     {
+      "title": "Interaktiver Rechner: 333 Gasanbieter erhöhen zum 1. Januar ihr Tarife – so viel teurer kann es für Sie werden",
+      "url": "https://www.handelsblatt.com/unternehmen/energie/heizen-333-gasanbieter-erhoehen-zum-1.-januar-tarife-wie-teuer-es-wird/100270528.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-22T09:50+00:00",
+      "teaser": "Hunderte Grundversorger bekommen die hohen Gaspreise durch den Irankrieg jetzt zu spüren – und kündigen Preiserhöhungen an. Wie hoch die Mehrkosten für Familien werden, zeigt dieser Rechner."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "How to Plan for an A.I. Emergency, or Any Calamity",
+      "url": "https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html",
+      "source": "New York Times",
+      "date": "2026-11-22T09:28+00:00",
+      "teaser": "One person’s attempt to prepare for the unthinkable."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.86,
+    "items": [
+     {
+      "title": "Nvidia-Skandal: Hatte Alice Huang Kontakte zu Chipschmugglern?",
+      "url": "https://www.handelsblatt.com/technik/ki/nvidia-skandal-hatte-alice-huang-kontakte-zu-chipschmugglern/100271827.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-22T08:13+00:00",
+      "teaser": "Die frühere Megaspeed-Managerin soll Nvidia-Chips über ein Netzwerk nach China gebracht haben. Ein neuer Bericht nennt Verbindungen zu Gaming-Konzernen und mutmaßlichen Schleusern."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.86,
     "items": [
      {
       "title": "COP31 negotiators try to break impasse after EU raises prospect of ‘no deal’",
@@ -683,7 +756,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.85,
     "items": [
      {
       "title": "Mutterschutz für Selbstständige: Erholen nach der Geburt? Schön wär’s!",
@@ -696,7 +769,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.84,
     "items": [
      {
       "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
@@ -709,7 +782,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.81,
     "items": [
      {
       "title": "Brennholz für Kamine: Warum Heizen mit Holz teurer wird",
@@ -719,179 +792,54 @@
       "teaser": "Mit der Energiekrise sind auch die Holzpreise in den vergangenen Jahren deutlich gestiegen. Doch Kamine sind in Deutschland immer noch verbreitet. Wie Kaminbesitzer sparen können."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "MP criticises Guernsey and Jersey company ownership register plans",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-22T07:22+00:00",
-      "teaser": "Sir Andrew Mitchell says access should be easier for people tackling financial crime."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
-      "url": "https://www.theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront",
-      "source": "The Guardian",
-      "date": "2026-11-22T07:00+00:00",
-      "teaser": "AI is being used to clone retailers’ sites and ‘poison’ chatbots into recommending them, experts say Black Friday is coming so you search online for the coat you have been after in the hope you can get it at a good price. Within a few minutes, you find just the right one, in the colour you want and "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "COP31: „Ölstaaten führen heftigen Abwehrkampf“ – Ringen auf der Klimakonferenz geht weiter",
-      "url": "https://www.handelsblatt.com/politik/deutschland/cop31-oelstaaten-fuehren-abwehrkampf-ringen-auf-klimakonferenz-geht-weiter/100270720.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-22T06:15+00:00",
-      "teaser": "Australien und die Türkei haben ein neues Verhandlungspaket vorgelegt. Die Konferenz soll am Sonntagmorgen darüber entscheiden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
-      "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
-      "source": "The Guardian",
-      "date": "2026-11-22T06:00+00:00",
-      "teaser": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom and announced what was to become the longest nationw"
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.8,
+    "score": 7.93,
     "favorite": true,
     "items": [
      {
-      "title": "Iñigo Pérez buscará revertir su mal balance ante el Barça con la buena racha del Villarreal",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253766/inigo-perez-buscara-revertir-mal-balance-barca-buena-racha-villarreal.html",
+      "title": "Vive en directo los partidos de Champions del Barça y disfruta de la mejor gastronomía en Time Out Market",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253425/vive-directo-partidos-champions-barca-disfruta-mejor-gastronomia-time-out-market.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-22T10:05+01:00",
+      "teaser": "¿Te imaginas ver un partido de Champions del Barça mientras disfrutas de una buena hamburguesa, unas pizzas o unas tapas, y compartes la emoción con otros aficionados? Esta temporada, el fútbol azulgrana tendrá un nuevo punto de encuentro en Barcelona: el Time Out Market."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.87,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Oportunidad de Raphinha para ampliar su ventaja en la lucha por su primer Pichichi",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254001/oportunidad-raphinha-ampliar-ventaja-lucha-primer-pichichi.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-22T09:18+01:00",
+      "teaser": "Raphinha Dias retoma este domingo la Liga después de una difícil ventana FIFA como capitán de la selección brasileña. El delantero del FC Barcelona , que también luce brazalete como azulgrana, tiene ante el Villarreal en el Spotify Camp Nou a partir de las 14 horas la ocasión de recuperar la sonrisa"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.68,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Barça-Villarreal: Un regreso exigente",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253901/barca-villarreal-regreso-exigente.html",
       "source": "Mundo Deportivo (Barça)",
       "date": "2026-11-22T07:00+01:00",
-      "teaser": "Iñigo Pérez tendrá la posibilidad este mediodía (14h.) de revertir el mal balance que tiene ante el Barça . El técnico del Villarreal aun no sabe lo que es ganarle al equipo azulgrana, ya que de los cinco partidos en los que se ha enfrentado al Barcelona siendo técnico del Rayo Vallecano perdió cuat"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.78,
-    "favorite": true,
-    "items": [
-     {
-      "title": "El ascensor de Àlex Campos",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253900/ascensor-alex-campos.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-22T06:45+01:00",
-      "teaser": "Desde que Hansi Flick citó a Àlex Campos (18 años) para sumarse a la convocatoria ante el Paris Saint-Germain , el central se ha mantenido en dinámica de primer equipo. Un mes después, Campos volvió a disputar minutos con el Barça Atlètic . Rindió a un buen nivel en el derbi disputado en la Dani Jar"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.76,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Con Dani Olmo vuelve la magia y la rotación perfecta",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253750/dani-olmo-vuelve-magia-rotacion-perfecta.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-22T06:30+01:00",
-      "teaser": "Un mal apoyo tras un choque fortuito con Vitinha en el Parque de los Príncipes de París frenó a un Dani Olmo que llegaba a ese momento de la temporada en línea ascendente y a un gran nivel. El Barça perdió 4-2 aquel 20 de octubre, su primera derrota de la temporada, y el mediapunta de 28 años sufrió"
+      "teaser": "Dos semanas después, el Barça vuelve a competir. Y lo hace en un momento de la temporada en el que el calendario entra en una fase frenética, con encuentros cada tres días –nueve antes de Navidad– y poco margen para el descanso o los errores. El primer obstáculo será el Villarreal en el Spotify Camp"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 2.97,
-    "items": [
-     {
-      "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
-      "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
-      "source": "The Guardian",
-      "date": "2026-11-21T19:47+00:00",
-      "teaser": "If Mikel Arteta was delighted to see the back of Eddie Howe as Newcastle’s head coach, the bad news is that another similarly awkward technical area adversary has been installed at St James’ Park. Arsenal’s manager never seemed to relish trips to face Howe’s old team and he certainly did not enjoy t"
-     },
-     {
-      "title": "Arsenal go six points clear after lively draw at Newcastle",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-21T19:59+00:00",
-      "teaser": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.97,
-    "items": [
-     {
-      "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
-      "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
-      "source": "The Guardian",
-      "date": "2026-11-21T17:10+00:00",
-      "teaser": "Marco Rose saluted the in-form Evanilson after the Brazilian scored for a sixth Premier League game in a row to lift Bournemouth up to fourth place with a 2-0 win over Nottingham Forest. Evanilson’s brilliantly taken 19th-minute opener set his side on course for a club record ninth straight win in a"
-     },
-     {
-      "title": "Evanilson strikes again as Bournemouth beat Forest",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-21T19:59+00:00",
-      "teaser": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.62,
-    "items": [
-     {
-      "title": "FC Bayern und Musiala: „Das hat mit ‚Mia san mia‘ und der FC-Bayern-Familie wenig zu tun“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-laesst-jamal-musiala-diskussion-eskalieren-accg-201703349.html",
-      "source": "FAZ",
-      "date": "2026-11-21T15:50+00:00",
-      "teaser": "Hoeneß und Rummenigge tragen den Fall Jamal Musiala in die Öffentlichkeit. Präsident Hainer verteidigt ihr Vorgehen bei der Jahreshauptversammlung gegen Kritik. Doch die entscheidende Frage bleibt offen."
-     },
-     {
-      "title": "Jamal Musiala: Die FC Bayern-Patriarchen senden mit ihrer Demontage ein schlimmes Signal – Kommentar",
-      "url": "https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-21T16:22+01:00",
-      "teaser": "Statt dem wieder genesenen Musiala den Rücken zu stärken, demontieren die Bayern-Patriarchen ihn öffentlich. Sie zeigen damit, dass »Mia san mia« dann doch nicht mehr ist als ein Marketingspruch."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "\"Man unterschätzt das\": Schlotterbeck erklärt Dortmunds träge erste Hälfte",
-      "url": "https://www.kicker.de/man-unterschaetzt-das-schlotterbeck-erklaert-dortmunds-traege-erste-haelfte-1273570/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-22T08:14+00:00",
-      "teaser": "Der BVB hat am Samstag einen knappen 1:0-Sieg in Mönchengladbach eingefahren. Warum es im ersten Durchgang nicht rund lief, erklärte nach der Begegnung Nico Schlotterbeck."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
+    "score": 3.94,
     "items": [
      {
       "title": "Boca Juniors holen Copa Sudamericana - Paredes bricht beim Interview zusammen",
@@ -899,52 +847,47 @@
       "source": "kicker",
       "date": "2026-11-22T07:20+00:00",
       "teaser": "Lange mussten die Boca Juniors darauf warten: Nach 18-jähriger Titel-Durststrecke gewinnt der Traditionsverein aus Buenos Aires die Copa Sudamericana. Doch auf den Sieg folgt ein Schockmoment - und Entwarnung."
+     },
+     {
+      "title": "Boca Juniors gewinnen die Copa Sudamericana",
+      "url": "https://www.sportschau.de/fussball/mehr-internationale-ligen/boca-juniors-gewinnen-die-copa-sudamericana,boca-suedamerika-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-22T10:12+01:00",
+      "teaser": "Der argentinische Fußball-Traditionsklub Boca Juniors hat zum dritten Mal die Copa Sudamericana gewonnen, das lateinamerikanische Pendant zur Europa League."
      }
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 1.92,
+    "sourceCount": 2,
+    "score": 3.92,
     "items": [
      {
-      "title": "Dreierpack von Voronin: Als Hertha von der Meisterschaft träumte",
-      "url": "https://www.kicker.de/dreierpack-von-voronin-als-hertha-von-der-meisterschaft-traeumte-1272685/video#omrss",
+      "title": "Jamal Musiala: Die FC Bayern-Patriarchen senden mit ihrer Demontage ein schlimmes Signal – Kommentar",
+      "url": "https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-21T16:22+01:00",
+      "teaser": "Statt dem wieder genesenen Musiala den Rücken zu stärken, demontieren die Bayern-Patriarchen ihn öffentlich. Sie zeigen damit, dass »Mia san mia« dann doch nicht mehr ist als ein Marketingspruch."
+     },
+     {
+      "title": "Ist das Bayern-Vorgehen bei Musiala richtig?",
+      "url": "https://www.kicker.de/ist-das-bayern-vorgehen-bei-musiala-richtig-1273782/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-22T07:23+00:00",
-      "teaser": "Im März 2009 führte Andrey Voronin Hertha mit einem Dreierpack zum Sieg in Cottbus. Für einige Wochen konnten die Fans der Alten Dame tatsächlich vom Titel träumen."
+      "date": "2026-11-22T08:57+00:00",
+      "teaser": "Die Bosse des FC Bayern haben eine Debatte um Jamal Musiala losgetreten. Wie bewertest du das Vorgehen? Hier geht es zu unserer Umfrage."
      }
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 1.92,
+    "sourceCount": 2,
+    "score": 3.87,
     "items": [
      {
-      "title": "Vuskovic und Stage traumhaft: Alle Nordderby-Tore aus der Saison 2025/26",
-      "url": "https://www.kicker.de/vuskovic-und-stage-traumhaft-alle-nordderby-tore-aus-der-saison-2025-26-1273239/video#omrss",
-      "source": "kicker",
-      "date": "2026-11-22T07:22+00:00",
-      "teaser": "Die Nordderbys der Saison 2025/26 boten echtes Spektakel, besonders die Treffer von Luka Vuskovic im Hinspiel und Jens Stage im Rückspiel waren echte Highlights. Alle Tore gibt es hier im Video."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Why Arsenal are behind in race for Champions League spots",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-22T07:17+00:00",
-      "teaser": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
+      "title": "Inter verliert klar: Frustriertem Messi droht mit Miami das frühe Playoff-Aus",
+      "url": "https://www.faz.net/aktuell/sport/fussball/lionel-messi-droht-mit-inter-miami-das-fruehe-playoff-aus-in-der-mls-accg-201705854.html",
+      "source": "FAZ",
+      "date": "2026-11-22T08:18+00:00",
+      "teaser": "Achterbahn der Gefühle für Lionel Messi: Erst wird der Star als bester MLS-Torschütze ausgezeichnet, dann verliert er mit Miami deutlich im ersten Playoff-Spiel. Eine Aktion von ihm sorgt für Wirbel."
+     },
      {
       "title": "Messi sorgt für hässliche Szene - Miami droht frühes Playoff-Aus",
       "url": "https://www.kicker.de/inter-miami-gegen-columbus-2026-mls-playoffs-5276397/spielbericht#omrss",
@@ -953,12 +896,168 @@
       "teaser": "Titelverteidiger Inter Miami steht nach dem 0:3 gegen Columbus Crew zum MLS-Playoff-Auftakt schon mit dem Rücken zur Wand. Auch bei Lionel Messi entlud sich der Frust."
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Ab 15 Uhr live - Hürzeler mit Brighton zu Gast in Hull",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma12153463/hull-city_brighton--hove-albion/liveticker",
+      "source": "Sportschau",
+      "date": "2026-11-22T10:51+01:00",
+      "teaser": "In der Premier League gastiert das Überraschungsteam Brighton mit Trainer Fabian Hürzeler bei Hull City."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Jetzt live - Braathen beim Slalom früh raus",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/ski-alpin/co9782/gurgl/ma12539424/liveticker-list",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-22T10:39+01:00",
+      "teaser": "Zweiter Slalom der Saison in Gurgl. Für Topfavorit Lucas Pinheiro Braathen war das Rennen schnell vorbei. Wie schlägt sich Linus Straßer?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Ab 18 Uhr live - Showdown in Turin zwischen Zverev und Alcaraz",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-barclays-atp-world-tour-finals/ma12655025/alexander-zverev_carlos-alcaraz/liveticker",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-22T10:35+01:00",
+      "teaser": "Im Endspiel der ATP Finals in Turin stehen sich der Deutsche Alexander Zverev und der Spanier Carlos Alcaraz gegenüber."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Liverpool v Manchester United buildup and more Premier League news – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
+      "source": "The Guardian",
+      "date": "2026-11-22T09:30+00:00",
+      "teaser": "All the latest match news and buildup for today’s games Today’s games | Tables | Follow on TikTok | And mail us The Tottenham head coach Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal following his heroics against Ipswich. He said: “Luca is a special player. I’m not surprised becaus"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Olise einfach abgemeldet: Sosa glänzt mit einer 100-Prozent-Quote",
+      "url": "https://www.kicker.de/olise-einfach-abgemeldet-sosa-glaenzt-mit-einer-100-prozent-quote-1273431/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-22T09:16+00:00",
+      "teaser": "Es war eine undankbare Aufgabe, die Borna Sosa am Freitagabend in München zu bewältigen hatte. Dass der 1. FC Köln einen Punkt gegen den FC Bayern ergattern konnte, lag aber auch an der Klasse-Leistung des Linksverteidigers."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Comeback nach Sperre: Blackbox Vušković",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/mario-vuskovi-beim-hsv-ist-er-nach-vier-jahren-doping-sperre-noch-gut-genug-accg-201651345.html",
+      "source": "FAZ",
+      "date": "2026-11-22T09:18+00:00",
+      "teaser": "Die Rückkehr von Mario Vušković aus seiner Doping-Sperre emotionalisiert den Hamburger SV und seine Fans. Dabei ist das Comeback von einer nüchternen Frage überschrieben: Ist er noch gut genug?"
+     }
+    ]
    }
   ],
   "Tech & KI": [
    {
     "sourceCount": 1,
     "score": 1.98,
+    "items": [
+     {
+      "title": "Anzeige: Wärmebildkamera fürs Handy am Black Friday günstig wie nie bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-waermebildkamera-fuers-handy-am-black-friday-guenstig-wie-nie-bei-amazon-2611-215373.html",
+      "source": "Golem",
+      "date": "2026-11-22T10:40+01:00",
+      "teaser": "Mit der Topdon TC001 Mini hat Amazon eine Wärmebildkamera fürs Handy im Angebot, die Temperaturunterschiede präzise per App analysiert. ( Technik/Hardware , Black Friday )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Cybercrime: Unbefugte verschaffen sich Zugang zu FBI-Datenbank",
+      "url": "https://www.golem.de/news/cybercrime-unbefugte-verschaffen-sich-zugang-zu-fbi-datenbank-2611-215508.html",
+      "source": "Golem",
+      "date": "2026-11-22T10:40+01:00",
+      "teaser": "Hacker haben nicht nur die US-Bundespolizei FBI erfolgreich infiltriert, sondern auch das US-Landwirtschaftsministerium. ( FBI , Cyberwar )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "GTA 6: Auf diese 4 Dinge solltet ihr beim ersten Spielen achten",
+      "url": "https://t3n.de/news/gta-6-4-dinge-achten-1774244/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-22T10:15+01:00",
+      "teaser": "GTA 6 sieht natürlich super aus – doch das Interessanteste an dem Spiel steckt unter der Oberfläche. Tief in der Engine, in Systemen, die im Hintergrund arbeiten und Leonida erst wirklich zum Leben erwecken. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Blutzucker messen ohne Nadel: Zahnseide prüft Glukose in 3 Minuten",
+      "url": "https://t3n.de/news/blutzucker-messen-ohne-nadel-zahnseide-1774198/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-22T10:10+01:00",
+      "teaser": "Wer seinen Stoffwechsel überwacht, greift meist zu Nadeln für den Fingerstich oder klebt Sensoren auf die Haut. Forscher:innen aus Hongkong verlagern diese Messung nun an einen Ort im Körper, der bisher fast ausschließlich bei der täglichen Hygiene Beachtung fand. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "(g+) Agenten und SQL: Mit strengem Datenbankdesign zu besseren KI-Ergebnissen",
+      "url": "https://www.golem.de/news/agenten-und-sql-mit-strengem-datenbankdesign-zu-besseren-ki-ergebnissen-2611-215226.html",
+      "source": "Golem",
+      "date": "2026-11-22T10:00+01:00",
+      "teaser": "KI-Agenten können bei Datenbankabfragen halluzinieren. Klare Strukturen und Regeln helfen, Fehler zu vermeiden. Ein Plädoyer für sorgfältiges Database Design. Ein Ratgebertext von Antony Ghiroz ( Datenbank , PostgreSQL )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "Vegane Souveränität: Wie diese Biotech-Startups Europa Soja-unabhängig machen wollen",
+      "url": "https://t3n.de/news/vegane-souveraenitaet-biotech-startups-soja-unabhaengigkeit-1772279/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-22T09:20+01:00",
+      "teaser": "Die EU will ihre Abhängigkeit von Sojaimporten senken und ihren Proteinbedarf zunehmend selbst decken. Eine aufstrebende Biotech-Industrie sieht das als Chance: weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.85,
     "items": [
      {
       "title": "Diese Retro-Gadgets machen deinen Alltag nicht nur schöner, sondern auch smarter",
@@ -971,7 +1070,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.81,
     "items": [
      {
       "title": "370 Bücher in 20 Monaten: So schreibt eine Autorin mit ChatGPT, Claude und Grok",
@@ -984,7 +1083,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.79,
     "items": [
      {
       "title": "Wenn diese KI Walter findet, findet sie jeden: Künstler zeigt die Gefahr offener Kameras",
@@ -997,7 +1096,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.77,
     "items": [
      {
       "title": "OpenAI setzt auf Rechenzentren, ein 19-Jähriger auf Ghost Core – den KI-Computer für daheim",
@@ -1010,7 +1109,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.75,
     "items": [
      {
       "title": "FritzOS 8.50 und 8.51: Was das Fritzbox-Update bringt",
@@ -1023,7 +1122,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.72,
     "items": [
      {
       "title": "Pädophilenjäger: Selbstjustiz im Netz",
@@ -1031,84 +1130,6 @@
       "source": "Golem",
       "date": "2026-11-22T07:30+01:00",
       "teaser": "Sie geben vor, Kinder zu schützen. Doch selbst ernannte Pädophilenjäger werden immer wieder selbst zu Tätern - mit teilweise tödlichen Folgen. Von Elke Wittich ( Politik , Soziales Netz )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Schutz vor KI-Agenten: Das ändert Apple beim Festplattenzugriff am Mac",
-      "url": "https://t3n.de/news/macos-ki-agenten-festplattenzugriff-sicherheit-1774075/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-22T07:25+01:00",
-      "teaser": "Mit macOS 27.3 baut Apple die Zugriffsrechte um. Wer einer App künftig Festplattenvollzugriff geben will, muss sich durch mehrere Warnungen klicken. Grund sind KI-Agenten, die tief ins System eingreifen. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.79,
-    "items": [
-     {
-      "title": "Morgens zuerst Claude, dann Mails: Wie ich mir einen KI-Assistenten gebaut habe und damit arbeite",
-      "url": "https://t3n.de/news/morgens-claude-dann-mails-ki-assistent-arbeit-1772873/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-22T06:50+01:00",
-      "teaser": "Dass nur der Chef einen persönlichen Assistenten hat, gilt heute nicht mehr: Unser Autor hat ausprobiert, ob er sich mit KI einen Sparringspartner und Coach bau weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "Was wäre, wenn auf der Erde nie Leben entstanden wäre? Forscher haben es durchgerechnet",
-      "url": "https://t3n.de/news/erde-leben-forscher-simulation-1773522/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-22T06:25+01:00",
-      "teaser": "Wie unterscheidet man tatsächlich belebte Welten von nur potenziell bewohnbaren Planeten? Ganz einfach: Man erstellt ein Modell unserer Erde – aber bereinigt um alles Leben. Dies hat ein Forschungsteam getan. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.39,
-    "items": [
-     {
-      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
-      "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-      "source": "New York Times",
-      "date": "2026-11-22T01:05+00:00",
-      "teaser": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.16,
-    "items": [
-     {
-      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-      "source": "Ars Technica",
-      "date": "2026-11-21T22:12+00:00",
-      "teaser": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.14,
-    "items": [
-     {
-      "title": "Amazon is complaining about NYC Council on shipping labels, too",
-      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-      "source": "The Verge",
-      "date": "2026-11-21T16:59-05:00",
-      "teaser": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-p"
      }
     ]
    }
@@ -1179,13 +1200,13 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "topic": "Welt & Politik",
    "source": "NPR (Politik)",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Welt & Politik",
@@ -1215,7 +1236,7 @@
    "topic": "Welt & Politik",
    "source": "CBC",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "topic": "Welt & Politik",
@@ -1245,13 +1266,13 @@
    "topic": "Deutschland",
    "source": "Tagesschau",
    "ok": true,
-   "items": 7
+   "items": 9
   },
   {
    "topic": "Deutschland",
    "source": "Spiegel",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "topic": "Deutschland",
@@ -1269,7 +1290,7 @@
    "topic": "Deutschland",
    "source": "Süddeutsche",
    "ok": true,
-   "items": 8
+   "items": 10
   },
   {
    "topic": "Deutschland",
@@ -1305,7 +1326,7 @@
    "topic": "Polen",
    "source": "Deutsche Welle (Polen)",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1347,7 +1368,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "BBC",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1365,7 +1386,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "CNBC",
    "ok": true,
-   "items": 2
+   "items": 1
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1389,13 +1410,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 6
+   "items": 4
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Sport",
@@ -1461,7 +1482,7 @@
    "topic": "Tech & KI",
    "source": "BBC",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Tech & KI",
@@ -1473,7 +1494,7 @@
    "topic": "Tech & KI",
    "source": "Ars Technica",
    "ok": true,
-   "items": 9
+   "items": 5
   },
   {
    "topic": "Tech & KI",
