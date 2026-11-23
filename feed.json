@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-23T04:13:59+00:00",
+ "fetchedAt": "2026-11-23T05:29:27+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 5,
-    "score": 9.9,
+    "sourceCount": 6,
+    "score": 11.93,
     "items": [
      {
       "title": "Russian ship attacked near Benghazi in suspected drone attack",
@@ -31,7 +31,34 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.25,
+    "score": 7.98,
+    "items": [
+     {
+      "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+      "source": "The Guardian",
+      "date": "2026-11-22T07:11+00:00",
+      "teaser": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesian rescue official says. Drone footage showed large parts of the factory destroye"
+     },
+     {
+      "title": "Indonesia says 24 killed in factory blaze as rescuers search for dozens missing",
+      "url": "https://www.thehindu.com/news/international/indonesia-banten-factory-fire-death-toll-people-missing/article71733448.ece",
+      "source": "The Hindu",
+      "date": "2026-11-23T10:45+05:30",
+      "teaser": "Authorities ⁠were still investigating the cause of the fire, which broke out on Saturday (November 21, 2026) evening, in one building of the ‌PT Fonusa Agung Mulia confectionery factory in Cikande in Banten province, about an hour’s drive ‌from the capital Jakarta"
+     },
+     {
+      "title": "Fire at Indonesian candy factory leaves 3 dead, dozens of workers missing",
+      "url": "https://www.cbc.ca/news/world/indonesian-candy-factory-fire-9.7431686?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-22T08:17-05:00",
+      "teaser": "A fire swept through a candy factory in Indonesia's Banten province Saturday, leaving three people dead and rescue teams searching for 36 workers who remained unaccounted for, officials said."
+     }
+    ]
+   },
+   {
+    "sourceCount": 4,
+    "score": 7.14,
     "items": [
      {
       "title": "Türkei: Tausende demonstrieren in Istanbul für Pressefreiheit",
@@ -58,7 +85,34 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.85,
+    "score": 5.98,
+    "items": [
+     {
+      "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-22T23:30+00:00",
+      "teaser": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades."
+     },
+     {
+      "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+      "url": "https://www.pbs.org/newshour/politics/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-the-largest-since-1992",
+      "source": "PBS NewsHour",
+      "date": "2026-11-22T13:24-05:00",
+      "teaser": "The 258-seat tally was reached Sunday after Democrat Chuck Hubbard defeated Republican Rep. Virginia Foxx in North Carolina."
+     },
+     {
+      "title": "Democrats clinch a historic House majority of at least 258 seats, largest since 1992",
+      "url": "https://www.thehindu.com/news/international/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-largest-since-1992/article71733328.ece",
+      "source": "The Hindu",
+      "date": "2026-11-23T10:41+05:30",
+      "teaser": "Republicans will have at least 173 seats in the minority"
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.74,
     "items": [
      {
       "title": "Trump calling Putin a friend is 'appalling,' says former ambassador to NATO",
@@ -85,7 +139,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.42,
+    "score": 5.32,
     "items": [
      {
       "title": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
@@ -112,34 +166,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 4.82,
-    "items": [
-     {
-      "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
-      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
-      "source": "The Guardian",
-      "date": "2026-11-22T07:11+00:00",
-      "teaser": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesian rescue official says. Drone footage showed large parts of the factory destroye"
-     },
-     {
-      "title": "Fire at Indonesian candy factory leaves 3 dead, dozens of workers missing",
-      "url": "https://www.cbc.ca/news/world/indonesian-candy-factory-fire-9.7431686?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-22T08:17-05:00",
-      "teaser": "A fire swept through a candy factory in Indonesia's Banten province Saturday, leaving three people dead and rescue teams searching for 36 workers who remained unaccounted for, officials said."
-     },
-     {
-      "title": "Three killed and dozens missing after fire at Indonesian factory",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-22T14:05+00:00",
-      "teaser": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 4.66,
+    "score": 4.56,
     "items": [
      {
       "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
@@ -166,7 +193,47 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "COP31 climate talks in Turkey collapse",
+      "url": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
+      "source": "France 24",
+      "date": "2026-11-23T00:44+00:00",
+      "teaser": "EU member states on Sunday objected to adopting an 11th-hour deal that omitted explicit references to fossil fuels, the bloc's presidency said. The issue remains a major point of contention at the summit, which is taking place amid soaring energy prices and geopolitical tensions fuelled by the war i"
+     },
+     {
+      "title": "What's next after no deal at COP31 climate talks?",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-22T18:57+00:00",
+      "teaser": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.88,
+    "items": [
+     {
+      "title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
+      "source": "The Hindu",
+      "date": "2026-11-23T09:35+05:30",
+      "teaser": "EU, Panama among about 130 parties that refuse to accept COP President’s consensus cover text, alleges that it “greenwashes” fossil fuels; India, China, Saudi Arabia are on the other side of the divide"
+     },
+     {
+      "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
+      "url": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-22T12:11-05:00",
+      "teaser": "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever United Nations climate summit with no deal to show for it."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.76,
     "items": [
      {
       "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
@@ -186,7 +253,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.7,
     "items": [
      {
       "title": "Poland says Russia allegedly twice tried to kill a Ukrainian American rapper",
@@ -206,27 +273,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.79,
-    "items": [
-     {
-      "title": "COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece",
-      "source": "The Hindu",
-      "date": "2026-11-23T07:09+05:30",
-      "teaser": "EU, Panama among about 130 parties that refuse to accept COP President’s consensus cover text, alleges that it “greenwashes” fossil fuels; India, China, Saudi Arabia are on the other side of the divide"
-     },
-     {
-      "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
-      "url": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-22T12:11-05:00",
-      "teaser": "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever United Nations climate summit with no deal to show for it."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.72,
+    "score": 3.62,
     "items": [
      {
       "title": "US-Repräsentantenhaus: Demokraten so stark wie zuletzt 1992",
@@ -243,52 +290,116 @@
       "teaser": "Auch in North Carolina steht nach den US-Midterms ein Sieger fest. Dort setzte sich Chuck Hubbard durch. Die Demokraten haben nun die größte Mehrheit seit über 30 Jahren."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.72,
-    "items": [
-     {
-      "title": "Explosion auf russischem Schiff in Libyen - Behörden vermuten Drohnenangriff",
-      "url": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-23T01:51+01:00",
-      "teaser": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen von einem Angriff mit Drohnen aus. Berichten zufolge wird die Ukraine verantwortlich gemacht."
-     },
-     {
-      "title": "Libyen: Explosion auf russischem Schiff – ukrainischer Angriff vermutet",
-      "url": "https://www.spiegel.de/ausland/libyen-explosion-auf-russischem-schiff-ukrainischer-angriff-vermutet-a-bc74e064-fd7a-4770-aebd-0d742578cfeb#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-22T21:41+01:00",
-      "teaser": "In einem Hafen der ostlibyschen Stadt Bengasi hat es eine Explosion auf einem russischen Kriegsschiff gegeben. Die Behörden gehen von einem Drohnenangriff aus."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.72,
-    "items": [
-     {
-      "title": "COP31 climate talks in Turkey collapse",
-      "url": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
-      "source": "France 24",
-      "date": "2026-11-23T00:44+00:00",
-      "teaser": "EU member states on Sunday objected to adopting an 11th-hour deal that omitted explicit references to fossil fuels, the bloc's presidency said. The issue remains a major point of contention at the summit, which is taking place amid soaring energy prices and geopolitical tensions fuelled by the war i"
-     },
-     {
-      "title": "What's next after no deal at COP31 climate talks?",
-      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-22T18:57+00:00",
-      "teaser": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 1,
     "score": 1.99,
+    "items": [
+     {
+      "title": "++ Großbrand in Königheim - Häuser unbewohnbar ++ Täter nach Messerangriff in Ulm auf der Flucht ++",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-11-23-100.html",
+      "source": "SWR",
+      "date": "2026-11-23T06:23+01:00",
+      "teaser": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Sicherheitspolitik: Geheimdienste fürchten: Russland vor atomarer Aufrüstung im All",
+      "url": "https://www.sueddeutsche.de/politik/russland-atomwaffe-weltraum-nato-sputnik-s-satelliten-bundeswehr-aufruestung-li.3582627",
+      "source": "Süddeutsche",
+      "date": "2026-11-23T05:00+00:00",
+      "teaser": "Innerhalb der Nato kursiert ein Szenario, wonach die Stationierung einer Nuklearwaffe im Orbit unmittelbar bevorsteht. Es wäre der Höhepunkt eines Wettrüstens im Weltall – und Deutschland ist schlecht vorbereitet."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Parkende Lkw an Autobahnen: Mehr Kontrollen, aber kaum Entspannung",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/parkplatznot-auf-autobahnen-parkende-lkw-a6-a81-gefaehrlich-telematik-100.html",
+      "source": "SWR",
+      "date": "2026-11-23T06:00+01:00",
+      "teaser": "Ein tödlicher Unfall bei Widdern hat im November die Aufmerksamkeit erneut auf parkende Lkw gelenkt. Was hat sich seit dem medialen Aufschrei 2025 an den Autobahnen getan?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "EU-Parlament: Erlebt die Brandmauer in Brüssel ein Comeback?",
+      "url": "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-23T05:54+01:00",
+      "teaser": "Zuletzt suchten Konservative im EU-Parlament Mehrheiten mit Rechtsextremen. Doch jetzt steht nach SPIEGEL-Informationen ein Kurswechsel bevor: Es soll eine Abmachung der politischen Mitte geben."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Kalte Progression: CDU-Arbeitnehmer kritisieren Söders Entlastungsvorstoß als »zu spät«",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/kalte-progression-ausgleich-markus-soeder-cdu-dennis-radtke",
+      "source": "Zeit",
+      "date": "2026-11-23T04:48+00:00",
+      "teaser": "Mehrere Unionspolitiker halten den von der CSU geforderten Ausgleich der kalten Progression für unrealistisch. Die SPD wünscht sich eine dauerhafte Gegenfinanzierung."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Libyen meldet Explosion auf russischem Schiff",
+      "url": "https://www.zdfheute.de/politik/ausland/libyen-explosion-kriegsschiff-ukraine-krieg-russland-100.html",
+      "source": "ZDF",
+      "date": "2026-11-23T05:39+01:00",
+      "teaser": "Nach einer Explosion ist ein russisches Kriegsschiff an einer libyschen Marinebasis offenbar zerstört worden. Die Regierung geht von einem Angriff mit Drohnen aus."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "News: Markus Söder will Kalte Progression ausgleichen, Klimakonferenz zurecht gescheitert, Pressefreiheit in der Türkei",
+      "url": "https://www.spiegel.de/politik/deutschland/news-markus-soeder-will-kalte-progression-ausgleichen-klimakonferenz-zurecht-gescheitert-pressefreiheit-in-der-tuerkei-a-4890e582-898f-4c5b-b4ce-526c57e443b1#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-23T05:29+01:00",
+      "teaser": "Markus Söder stiftet Unruhe mit der kalten Progression. Das Scheitern der Klimakonferenz hat auch eine gute Seite. Und in der Türkei konnte Erdoğan noch nicht alle zum Schweigen bringen. Das ist die Lage am Montagmorgen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-23T05:31+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Energiepreise: Bundesregierung weitet Förderung für einkommensschwache Haushalte aus",
@@ -301,7 +412,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.89,
     "items": [
      {
       "title": "Defektes Heizgerät? Mehr als 50 Menschen in Allgäuer Kirche verletzt",
@@ -314,7 +425,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.78,
     "items": [
      {
       "title": "USA: US-Demokraten erringen im Repräsentantenhaus größte Mehrheit seit Jahrzehnten",
@@ -327,7 +438,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.68,
+    "score": 1.58,
     "items": [
      {
       "title": "Demokraten im Repräsentantenhaus so stark wie zuletzt 1992",
@@ -337,116 +448,142 @@
       "teaser": "Die US-Demokraten werden ab Januar sowohl das Repräsentantenhaus als auch den Senat kontrollieren. Damit könnte sich erheblicher Widerstand gegen Präsident Donald Trump bilden."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.54,
-    "items": [
-     {
-      "title": "Karlsruhe in Minecraft - Warum Studierende die ganze Stadt nachbauen",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/studierende-bauen-stadt-in-videospiel-minecraft-nach-100.html",
-      "source": "SWR",
-      "date": "2026-11-22T23:43+01:00",
-      "teaser": "Das Karlsruher Schloss steht schon, jetzt ist der Rest der Stadt dran: Studierende bauen die Fächerstadt Block für Block in einem Videospiel nach. Und jeder kann mitmachen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.48,
-    "items": [
-     {
-      "title": "Benner verteidigt Streiks: \"Wir müssen diesen Druck machen\"",
-      "url": "https://www.zdfheute.de/wirtschaft/ig-metall-chefin-christiane-benner-heute-journal-interview-100.html",
-      "source": "ZDF",
-      "date": "2026-11-22T22:58+01:00",
-      "teaser": "Trotz neuer Gespräche hält die IG Metall an ihren Streiks fest. Im heute journal weist Gewerkschaftschefin Christiane Benner Warnungen vor Stellenabbau als \"Erpressung\" zurück."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.42,
-    "items": [
-     {
-      "title": "Krieg in der Ukraine: Russisches Kriegsschiff sinkt nach Explosion in libyschem Hafen",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-drohne-libyen-explosion-schiff-russland-li.3571967",
-      "source": "Süddeutsche",
-      "date": "2026-11-22T21:19+00:00",
-      "teaser": "Die ostlibysche Regierung vermutet, dass eine Drohne das Schiff getroffen hat. Russland und die Ukraine äußern sich bisher nicht zu dem Vorfall."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.41,
-    "items": [
-     {
-      "title": "Erzählen gegen das Vergessen: Wie ein jüdisches Kind die NS-Zeit überlebte",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/zeitzeugin-erzaehlt-verfolgungsgeschichte-in-der-ns-zeit-100.html",
-      "source": "SWR",
-      "date": "2026-11-22T22:09+01:00",
-      "teaser": "Eva Weyl hat das niederländische Durchgangslager Westerbork überlebt. Heute spricht die 91-Jährige an Schulen über den Holocaust und fordert Jugendliche auf, Haltung zu zeigen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.39,
-    "items": [
-     {
-      "title": "Schnee im Schwarzwald: Es wird winterlich in Baden-Württemberg",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/wetter-frost-glaette-schnee-100.html",
-      "source": "SWR",
-      "date": "2026-11-22T21:53+01:00",
-      "teaser": "Die Temperaturen sinken in der Nacht vielerorts unter null Grad. Es kann zum Wochenstart glatt werden. Vor allem im Allgäu und im Schwarzwald ist mit Schnee zu rechnen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.34,
-    "items": [
-     {
-      "title": "Weihnachtszeit offiziell eingeläutet",
-      "url": "https://www.zdfheute.de/video/weihnachten-madrid-spanien-100.html",
-      "source": "ZDF",
-      "date": "2026-11-22T21:18+01:00",
-      "teaser": "Mehr als 14 Millionen LED-Lichter, 500 Drohnen und ein Feuerwerk: Madrid hat die Weihnachtszeit mit einer spektakulären Zeremonie vor 150.000 Zuschauern eröffnet."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.33,
-    "items": [
-     {
-      "title": "Bundespolitik: Wüst weist Söders Forderung zur kalten Progression zurück",
-      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-wuest-soeder-kalte-progression-li.3580621",
-      "source": "Süddeutsche",
-      "date": "2026-11-22T20:10+00:00",
-      "teaser": "Bayerns Ministerpräsident hatte sich für einen sofortigen Ausgleich der Steuermehrbelastung ausgesprochen. Man habe bereits anders entschieden, erwidert sein Amtskollege aus Nordrhein-Westfalen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.31,
-    "items": [
-     {
-      "title": "Kalte Progression: Grüne werfen Söder »öffentliches Lamentieren« vor",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/kalte-progression-ausgleich-markus-soeder-britta-hasselmann-gxe",
-      "source": "Zeit",
-      "date": "2026-11-22T20:00+00:00",
-      "teaser": "CSU-Chef Markus Söder fordert »dringend einen Ausgleich der kalten Progression«. Die Opposition wirft ihm Inszenierung vor. Die SPD hält Söders Vorstoß für chancenlos."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
     "score": 1.99,
+    "items": [
+     {
+      "title": "Sparta II mogła sprowokować militarną eskalację. Alarmujące doniesienia fińskiej prasy",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45526171-sparta-ii-mogla-sprowokowac-militarna-eskalacje-alarmujace-doniesienia-finskiej-prasy",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-23T06:21+01:00",
+      "teaser": "Finlandia rozważała przejęcie uszkodzonego rosyjskiego statku Sparta II, objętego międzynarodowymi sankcjami. Ostatecznie oddała jednostkę Rosjanom w obawie przed eskalacją konfliktu, interwencją rosyjskiej marynarki wojennej i katastrofą ekologiczną."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Największy sukces Partii Demokratycznej od ponad 30 lat. Rosjanie uderzyli w blok mieszkalny",
+      "url": "https://www.rp.pl/przeglad-wydarzen-z-nocy/art45526101-najwiekszy-sukces-partii-demokratycznej-od-ponad-30-lat-rosjanie-uderzyli-w-blok-mieszkalny",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-23T06:02+01:00",
+      "teaser": "Przedstawiamy przegląd najważniejszych wydarzeń mijającej nocy: Zdzisława Różańska wygrała wybory uzupełniające do Senatu; Partia Demokratyczna może być już pewna 258 miejsc w Izbie Reprezentantów Kongresu USA; w rosyjskim ataku na obwód kijowski zginęło co najmniej 13 osób; Jared Kushner pisze, że "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Julita Karaś-Gasparska: MDR – krajowe schematy przeszły do historii",
+      "url": "https://pro.rp.pl/zmiany-w-przepisach-podatkowych/art45512691-julita-karas-gasparska-mdr-krajowe-schematy-przeszly-do-historii",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-23T06:00+01:00",
+      "teaser": "Z polskiego porządku prawnego zniknął obowiązek raportowania krajowych uzgodnień. Nowe regulacje zawęziły zakres obowiązków tylko do schematów do transgranicznych."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "30 listopada mija termin na złożenie TPR za 2025 rok",
+      "url": "https://pro.rp.pl/pit/art45512701-30-listopada-mija-termin-na-zlozenie-tpr-za-2025-rok",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-23T05:50+01:00",
+      "teaser": "Podatnicy, których rok podatkowy pokrywa się z rokiem kalendarzowym, mają czas do końca miesiąca na złożenie informacji TPR za 2025 r. Ministerstwo Finansów opublikowało kolejne wydanie Informatora TPR, który ma im w tym pomóc."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Sondaż: Jedna lista prawicy w wyborach. Wierzących w ten scenariusz jest mniej niż sceptycznych",
+      "url": "https://www.rp.pl/polityka/art45526141-sondaz-jedna-lista-prawicy-w-wyborach-wierzacych-w-ten-scenariusz-jest-mniej-niz-sceptycznych",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-23T05:41+01:00",
+      "teaser": "Niemal 42 proc. uczestników sondażu SW Research dla rp.pl uważa, że nie jest możliwe, aby cztery prawicowe partie - PiS, Konfederacja, Konfederacja Korona Polska i Rozwój Plus - wystartowały w wyborach do Sejmu z jednej listy."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Rosną przychody? Czas na pełną księgowość",
+      "url": "https://pro.rp.pl/ksiegi-rachunkowe/art45512711-rosna-przychody-czas-na-pelna-ksiegowosc",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-23T05:40+01:00",
+      "teaser": "Jeżeli łączne przychody podatnika z prowadzonych poszczególnych działalności przekroczą kwotę 2,5 mln euro, to będzie on zobowiązany do stosowania przepisów o rachunkowości i prowadzenia w kolejnym roku ksiąg rachunkowych."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Pracodawca organizuje konkurs z nagrodami. Co na to fiskus?",
+      "url": "https://pro.rp.pl/pit-zrodla-przychodu/art45512721-pracodawca-organizuje-konkurs-z-nagrodami-co-na-to-fiskus",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-23T05:30+01:00",
+      "teaser": "Dla oceny skutków podatkowych otrzymania nagrody w konkursie organizowanym przez pracodawcę decydujące znaczenie ma krąg adresatów tego konkursu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Polacy ocenili prezydenturę Nawrockiego. Sondaż pokazał polaryzację",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33145265,polacy-ocenili-prezydenture-nawrockiego-sondaz-pokazal-polaryzacje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-23T04:30+00:00",
+      "teaser": "49,6 proc. respondentów pozytywnie oceniło prezydenturę Karola Nawrockiego, a 48 proc. badanych - negatywnie - wynika z sondażu United Surveys by IBRiS dla Wirtualnej Polski. Krytykami głowy państwa są przeważnie wybory obozu rządzącego, a zwolennikami - sympatycy opozycji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "Przymusowe przejęcie akcji nie daje prawa do rozliczenia straty",
+      "url": "https://pro.rp.pl/pit-rozliczenia-roczne/art45512791-przymusowe-przejecie-akcji-nie-daje-prawa-do-rozliczenia-straty",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-23T05:20+01:00",
+      "teaser": "Przymusowe przejęcie bezwartościowych akcji bez wynagrodzenia nie stanowi odpłatnego zbycia papierów wartościowych. Choć inwestor bezpowrotnie stracił zainwestowane środki, to nie uwzględni kosztów ich nabycia i nie wykaże straty w zeznaniu PIT-38."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "Jared Kushner: Donald Trump gotów rozważyć gwarancje dla Ukrainy wzorowane na artykule 5 Traktatu Północnoatlantyckiego",
+      "url": "https://www.rp.pl/dyplomacja/art45526091-jared-kushner-donald-trump-gotow-rozwazyc-gwarancje-dla-ukrainy-wzorowane-na-artykule-5-traktatu-polnocnoatlantyckiego",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-23T05:19+01:00",
+      "teaser": "Gwarancje bezpieczeństwa dla Ukrainy po zakończeniu wojny, wzorowane na artykule 5 Traktatu Północnoatlantyckiego, mogłyby znacząco ograniczyć ryzyko wybuchu kolejnej wojny. Muszą być one konkretne, wiarygodne i jasno udokumentowane - napisał zięć prezydenta Donalda Trumpa, Jared Kushner, który wraz"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Preferencyjny wykup auta służbowego jest przychodem pracownika",
@@ -459,124 +596,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Marek A. Cichocki: Imperialny pokój Trumpa nie przetrwa końca jego prezydentury",
-      "url": "https://www.rp.pl/publicystyka/art45524131-marek-a-cichocki-imperialny-pokoj-trumpa-nie-przetrwa-konca-jego-prezydentury",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-23T05:00+01:00",
-      "teaser": "Pokój imperialny, zawarty właśnie przez Trumpa z Xi Jinpingiem i Władimirem Putinem, ma być po prostu kolejnym pomnikiem wielkości i geniuszu amerykańskiego prezydenta. Czy może natomiast stać się nową rzeczywistością, w której będziemy żyli przez następne dekady?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Kto faktycznie odpowiada za zobowiązania podatkowe spółki kapitałowej",
-      "url": "https://pro.rp.pl/prawo-podatkowe/art45512771-kto-faktycznie-odpowiada-za-zobowiazania-podatkowe-spolki-kapitalowej",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-23T05:00+01:00",
-      "teaser": "Formalne zakończenie funkcji nie wyłącza odpowiedzialności, jeżeli dana osoba nadal wykonuje obowiązki członka zarządu. Znaczenie ma zatem to, czy rezygnacja doprowadziła do rzeczywistej zmiany sposobu zarządzania spółką."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Donald Trump: Ceny ropy spadły po wyborach. To wielkie oszustwo",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45526071-donald-trump-ceny-ropy-spadly-po-wyborach-to-wielkie-oszustwo",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-23T04:59+01:00",
-      "teaser": "Donald Trump zarzucił Iranowi i Partii Demokratycznej działania prowadzące do utrzymywania się wysokich cen ropy przed wyborami połówkowymi. Ostrzegł też Iran, że może przeprowadzić kolejne ataki na ten kraj po 1 stycznia."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "„Byliśmy w opozycji do koncesjonowanego rocka”. Krzysztof Grabowski o Dezerterze i SS-20",
-      "url": "https://www.rp.pl/muzyka-popularna/art45488341-bylismy-w-opozycji-do-koncesjonowanego-rocka-krzysztof-grabowski-o-dezerterze-i-ss-20",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-23T04:54+01:00",
-      "teaser": "Dziś panuje powszechna opinia, że społeczeństwo się buntowało przeciwko komunie. Buntowała się garstka - mówi Krzysztof Grabowski, autor tekstów, perkusista Dezertera, wcześniej SS-20. Niewydany dotąd album „Nie jestem gotowy\" właśnie się ukazuje."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Etanol w procesach przemysłowych jest zwolniony z akcyzy",
-      "url": "https://pro.rp.pl/podatki/art45522261-etanol-w-procesach-przemyslowych-jest-zwolniony-z-akcyzy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-23T04:50+01:00",
-      "teaser": "Możliwość zastosowania zwolnienia alkoholu etylowego z akcyzy zależy nie tylko od jego przeznaczenia i właściwości produktu końcowego, ale również od sposobu jego wykorzystania w procesie technologicznym."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Skutki awarii ePUAP w sądach administracyjnych – będzie stanowisko NSA",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art45521471-skutki-awarii-epuap-w-sadach-administracyjnych-bedzie-stanowisko-nsa",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-23T04:45+01:00",
-      "teaser": "Przez dziesięć dni elektroniczne składanie pism i odbiór korespondencji z sądów administracyjnych były niemożliwy lub mocno utrudniony. System ePUAP znów działa, ale konsekwencje awarii mogą być długo odczuwane. NSA zapowiedział przygotowanie stanowiska w tej sprawie."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Wdowa po generale Różańskim zajmie jego miejsce w Senacie",
-      "url": "https://www.rp.pl/polityka/art45526081-wdowa-po-generale-rozanskim-zajmie-jego-miejsce-w-senacie",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-23T04:40+01:00",
-      "teaser": "Wybory uzupełniające do Senatu w okręgu wyborczym nr 20 w woj. lubuskim wygrała Zdzisława Różańska, kandydatka Komitetu Wyborczego Wyborców Koalicji 15 Października. Wdowa po generale Mirosławie Różańskim zdobyła 42,68 proc. oddanych w niedzielnych wyborach głosów (w liczbach bezwzględnych 14 159) -"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Uwaga na pułapki cen transferowych przy restrukturyzacji",
-      "url": "https://pro.rp.pl/ceny-transferowe-obowiazki/art45512761-uwaga-na-pulapki-cen-transferowych-przy-restrukturyzacji",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-23T04:40+01:00",
-      "teaser": "Wdrożenie nowego modelu biznesowego wymaga analizy jego wpływu na profil poszczególnych spółek oraz dostosowania sposobu kalkulacji cen transferowych do funkcji, aktywów i ryzyk po stronie spółek uczestniczących w restrukturyzacji."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Prywatna opieka medyczna coraz droższa. Firmy stały się zakładnikami popularnego benefitu",
-      "url": "https://www.rp.pl/praca/art45512261-prywatna-opieka-medyczna-coraz-drozsza-firmy-staly-sie-zakladnikami-popularnego-benefitu",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-23T04:38+01:00",
-      "teaser": "Pakiety medyczne dla pracowników zdrożeją w 2027 r. średnio o 15 proc. – wynika z szacunków udostępnionych „Rzeczpospolitej”. Od 2020 r. ich koszty wzrosły już o 91 proc. Firmy coraz częściej ograniczają zakres świadczeń, a UOKiK bada praktyki największych sieci prywatnej opieki medycznej."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.35,
+    "score": 1.25,
     "items": [
      {
       "title": "Sikorski wytknął Pałacowi \"głupotę w dyplomacji\". Przydacz odpowiada",
@@ -586,25 +606,12 @@
       "teaser": "Minister spraw zagranicznych stwierdził, że Pałac Prezydencki ubiega się o wizytę w Chinach po \"nakłanianiach\" Jakuba Kumocha do porzucenia tamtejszej ambasady. Szef prezydenckiego Biura Polityki Międzynarodowej poinformował, że Karol Nawrocki został zaproszony do Chin już w ubiegłym roku."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.22,
-    "items": [
-     {
-      "title": "Kanadyjski premier zadrwił z Trumpa. \"Dekorator wnętrz\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33145144,kanadyjski-premier-zadrwil-z-trumpa-dekorator-wnetrz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-22T18:51+00:00",
-      "teaser": "Mark Carney podczas sobotniego wystąpienia żartował ze zmian w Gabinecie Owalnym, które wprowadził Donald Trump. W pewnym momencie na scenę wyszedł sobowtór amerykańskiego prezydenta."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.81,
     "items": [
      {
       "title": "Belgien: Streik-Tag legt Flugverkehr am Montag lahm",
@@ -624,7 +631,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.69,
+    "score": 3.59,
     "items": [
      {
       "title": "Paolo Bulgari: Schmuckunternehmer Paolo Bulgari ist tot",
@@ -644,131 +651,131 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
     "items": [
      {
-      "title": "Asien-Börsen: KI-Ausverkauf setzt sich in Asien fort – Kopsi sackt um mehr als fünf Prozent ab",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/asien-boersen-ki-ausverkauf-setzt-sich-in-asien-fort-kopsi-sackt-um-mehr-als-fuenf-prozent-ab/100271898.html",
+      "title": "Börse am 20. November: Dax vorbörslich im Minus: Sieben Punkte, die für Anleger wichtig sind",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-sieben-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html",
       "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-23T03:59+00:00",
-      "teaser": "Die Chiphersteller an Ostasiens Börsen setzen den Abwärtstrend der Wall Street fort. Nur ein Markt stemmte sich am Montag gegen den globalen Ausverkauf."
+      "date": "2026-11-23T05:20+00:00",
+      "teaser": "Zum Ende der Handelswoche erwarten Anleger zwar einige Termine. Ob der Dax allerdings den Sprung über die Marke von 26.000 Punkten schaffen dürfte, bleibt fraglich."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.96,
     "items": [
      {
-      "title": "Will Tata be able to list India’s biggest company?",
-      "url": "https://www.ft.com/content/0f2e8392-8d51-440a-928c-e47402017128?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-23T03:36+00:00",
-      "teaser": "Bankers say feud between scion and chair makes initial public offering difficult as conglomerate faces pressure from regulators"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Tech stock sell-off deepens in Asia",
-      "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-23T03:27+00:00",
-      "teaser": "South Korea’s Kospi slides more than 5% after Friday’s heavy losses on Wall Street"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Kommentar: Dieser Haushalt ist für die Demokratie brandgefährlich",
-      "url": "https://www.handelsblatt.com/politik/deutschland/kommentar-dieser-haushalt-ist-fuer-die-demokratie-brandgefaehrlich/100271477.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-23T03:08+00:00",
-      "teaser": "Die Koalition zerstört eingeübte demokratische Verfahren: Die CDU beschädigt den Prozess der Budgetaufstellung, Lars Klingbeil das Amt des Finanzministers. Freuen darf sich die AfD."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Märkte: Anthropic-Aktie stürzt Richtung Ausgabekurs – Ist der KI-Boom nach dem Mega-Börsengang vorbei?",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-euphorie-weicht-furcht-sorge-vor-einem-ende-des-ki-booms-waechst/100271863.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-23T03:02+00:00",
-      "teaser": "„Alle Bären wachen auf“: Am zweiten Handelstag startet die Aktie des KI-Pioniers zehn Prozent im Minus. Die Wall Street steuert auf die längste Verluststrecke seit drei Jahren zu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Autoindustrie: Ford-Europachef: „Wir würden uns wünschen, dass für alle die gleichen Wettbewerbsbedingungen gelten“",
-      "url": "https://www.handelsblatt.com/unternehmen/industrie/autobauer-wir-wuerden-uns-wuenschen-dass-fuer-alle-gleiche-bedingungen-gelten/100268849.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-23T03:05+00:00",
-      "teaser": "Jim Baumbick warnt vor den Folgen der neuen EU‑Industriepolitik. Im Interview fordert er, dass europäische Hersteller viel mehr gegen die gemeinsame Konkurrenz aus China gestärkt werden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "S&P 500 Futures Rise After Tough Week",
-      "url": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
+      "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
+      "url": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
       "source": "New York Times",
-      "date": "2026-11-23T01:17+00:00",
-      "teaser": "Early investor bets pointed to some stability when regular trading resumes on Monday, though analysts warned that more volatility could still be ahead."
+      "date": "2026-11-23T05:01+00:00",
+      "teaser": "An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.74,
+    "score": 1.96,
     "items": [
      {
-      "title": "Energy bills will soar - here's how you can ease the pain",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-23T01:05+00:00",
-      "teaser": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure."
+      "title": "Built to Whisper, E.V.s Look to Mimic the Growl of Gas Engines",
+      "url": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
+      "source": "New York Times",
+      "date": "2026-11-23T05:01+00:00",
+      "teaser": "With electric supercars from Lexus and Ferrari on the way, designers are hoping to help their cars stand out with a roar, while quieter city-bound cars try to be good neighbors."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.68,
+    "score": 1.96,
     "items": [
      {
-      "title": "What is going on with Poundland?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-23T00:22+00:00",
-      "teaser": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?"
+      "title": "What happens when bubbles burst",
+      "url": "https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-23T05:00+00:00",
+      "teaser": "AI enthusiasm has turned into major investor concern that a market might be heading for a fall"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.96,
     "items": [
      {
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-23T00:08+00:00",
-      "teaser": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
+      "title": "China is winning the car war",
+      "url": "https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-23T05:00+00:00",
+      "teaser": "Western carmakers have been routed from China as EVs go mainstream. Now they are battling to avoid a similar fate at home"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Consultants reap public sector boom thanks to AI and cyber security",
+      "url": "https://www.ft.com/content/54b6f97e-7818-4902-9755-63d9a4867a2d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-23T05:00+00:00",
+      "teaser": "Spending on external advisers accelerates despite central government’s pledge to cut costs"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "The problem with the circular AI economy",
+      "url": "https://www.ft.com/content/e49add11-3cc8-4edd-8daa-db8daaf994dd?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-23T05:00+00:00",
+      "teaser": "What will happen if the Jenga tower of Nvidia’s vendor financing collapses?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Boost for £1bn Acorn carbon capture scheme as new developer buys stake",
+      "url": "https://www.ft.com/content/a216892d-190c-41dd-8473-03643a8c5350?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-23T05:00+00:00",
+      "teaser": "Carbon storage company EnEarth acquires interest in flagship North Sea project seen as key to UK decarbonisation plans"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Why private capital is betting big on mix-and-match deals",
+      "url": "https://www.ft.com/content/78b01bf4-3550-41cb-ac52-2f3426b58232?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-23T05:00+00:00",
+      "teaser": "With the traditional buyout business stuck in the doldrums, firms are using hybrid capital to seal transactions and raise funds"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "The Bear’s Matty Matheson eats his way around Toronto",
+      "url": "https://www.ft.com/content/42dca35f-cda1-4ca6-bcb4-b81d58d5b7ba",
+      "source": "Financial Times",
+      "date": "2026-11-23T05:00+00:00",
+      "teaser": "The chef and actor on the dumplings, baseball and beats that stir his city"
      }
     ]
    }
@@ -776,7 +783,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.51,
+    "score": 7.4,
     "favorite": true,
     "items": [
      {
@@ -790,7 +797,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.34,
+    "score": 7.24,
     "favorite": true,
     "items": [
      {
@@ -804,7 +811,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.33,
+    "score": 7.23,
     "favorite": true,
     "items": [
      {
@@ -818,7 +825,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.58,
+    "score": 3.48,
     "items": [
      {
       "title": "FC Arsenal: Lisa Baum bricht im Spiel mit Atemnot zusammen",
@@ -838,7 +845,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.46,
     "items": [
      {
       "title": "4:0 gegen HSV: Njinmah schießt Werder Bremen zum Sieg im Nordderby",
@@ -858,27 +865,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.31,
-    "items": [
-     {
-      "title": "Alcaraz zu stark - Zverev verpasst Titel bei ATP Finals",
-      "url": "https://www.sportschau.de/tennis/atp/zverev-verpasst-finals-titel,finale-zverev-alcaraz-100.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-22T20:31+01:00",
-      "teaser": "Nichts zu holen gegen Carlos Alcaraz: Alexander Zverev hat das Endspiel bei den ATP Finals verloren. Dabei war das Match zu Beginn deutlich, zum Ende hochspannend."
-     },
-     {
-      "title": "ATP Finals: Alexander Zverev verpasst dritten Titel bei ATP Finals",
-      "url": "https://www.zeit.de/sport/2026-11/atp-finals-finale-alexander-zverev-carlos-alcaraz-turin",
-      "source": "Zeit",
-      "date": "2026-11-22T19:56+00:00",
-      "teaser": "Carlos Alcaraz besiegt Alexander Zverev im Endspiel der ATP Finals. Zverev macht zu viele Fehler, aus Frust wirft er seinen Schläger auf den Boden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.31,
+    "score": 3.21,
     "items": [
      {
       "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
@@ -897,8 +884,41 @@
     ]
    },
    {
+    "sourceCount": 2,
+    "score": 3.2,
+    "items": [
+     {
+      "title": "Alcaraz zu stark - Zverev verpasst Titel bei ATP Finals",
+      "url": "https://www.sportschau.de/tennis/atp/zverev-verpasst-finals-titel,finale-zverev-alcaraz-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-22T20:31+01:00",
+      "teaser": "Nichts zu holen gegen Carlos Alcaraz: Alexander Zverev hat das Endspiel bei den ATP Finals verloren. Dabei war das Match zu Beginn deutlich, zum Ende hochspannend."
+     },
+     {
+      "title": "ATP Finals: Alexander Zverev verliert ATP Final gegen Alcaraz in Turin",
+      "url": "https://www.zeit.de/sport/2026-11/atp-finals-finale-alexander-zverev-carlos-alcaraz-turin",
+      "source": "Zeit",
+      "date": "2026-11-22T19:56+00:00",
+      "teaser": "Der Spanier Carlos Alcaraz besiegt Alexander Zverev im Endspiel der ATP Finals. Zverev macht zu viele Fehler, aus Frust wirft er seinen Schläger auf den Boden."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Bundesligarückschau: Diesen BVB muss man erst mal schlagen",
+      "url": "https://www.zeit.de/sport/2026-11/bundesliga-rueckschau-jamal-musiala",
+      "source": "Zeit",
+      "date": "2026-11-23T04:58+00:00",
+      "teaser": "Plötzlich ist Dortmund wieder Tabellenführer. Beim Nordderby wird einem schummrig. Und alle stehen auf Jamal Musialas Seite. Das Fußballwochenende"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.49,
     "items": [
      {
       "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
@@ -911,7 +931,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.58,
+    "score": 1.48,
     "items": [
      {
       "title": "Trainerstreit und Platzverweis: Duisburg gewinnt in Überzahl gegen Hansa",
@@ -924,23 +944,10 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.56,
+    "score": 1.46,
     "items": [
      {
-      "title": "Brennende Sitze und zerstörte Sanitäranlage in Bremen",
-      "url": "https://www.kicker.de/brennende-sitze-und-zerstoerte-sanitaeranlage-in-bremen-1274110/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-22T22:55+00:00",
-      "teaser": "Im Zuge des Nordderbys zwischen Werder Bremen und dem Hamburger SV kam es auch zu mutwilligen Zerstörungen. So brannte es auf einem der Blöcke, während auch eine Sanitäreinrichtung gehörig ramponiert wurde."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.56,
-    "items": [
-     {
-      "title": "FC Augsburgs Befreiungsschlag verschärft Krise von Mainz 05",
+      "title": "Augsburger Befreiungsschlag verschärft Krise von Mainz 05",
       "url": "https://www.sportschau.de/fussball/bundesliga/augsburger-befreiungsschlag-verschaerft-mainzer-krise,spielbericht-fc-augsburg-mainz-05-100.html",
       "source": "Sportschau",
       "date": "2026-11-23T00:00+01:00",
@@ -950,7 +957,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.56,
+    "score": 1.46,
     "items": [
      {
       "title": "Köln feiert Überraschungspunkt in München",
@@ -965,7 +972,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.31,
+    "score": 3.21,
     "items": [
      {
       "title": "How Tamagotchis got us hooked on digital pets",
@@ -985,7 +992,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.06,
+    "score": 2.96,
     "items": [
      {
       "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
@@ -1005,7 +1012,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.79,
     "items": [
      {
       "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
@@ -1018,7 +1025,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.55,
     "items": [
      {
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
@@ -1031,7 +1038,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.55,
+    "score": 1.44,
     "items": [
      {
       "title": "We haven’t seen the last of the major tech outages",
@@ -1044,7 +1051,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.44,
+    "score": 1.33,
     "items": [
      {
       "title": "Sorge vor Kontrollverlust: ChatGPT-Entwickler OpenAI will KI-Training begrenzen",
@@ -1057,7 +1064,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.39,
+    "score": 1.29,
     "items": [
      {
       "title": "Kohlenstoff aus dem äußeren Sonnensystem: Was Magma auf Hawaii über die frühe Erde verrät",
@@ -1070,7 +1077,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.38,
+    "score": 1.27,
     "items": [
      {
       "title": "Schutz vor Siri und Gemini: Signal blockiert Screenshots in Chats",
@@ -1083,7 +1090,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.24,
+    "score": 1.14,
     "items": [
      {
       "title": "Alternative zu Microsoft Copilot? Das können die neuen Office-Funktionen von Claude wirklich – und das fehlt noch",
@@ -1096,7 +1103,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.22,
+    "score": 1.12,
     "items": [
      {
       "title": "2,7 Billionen Dollar futsch: Nvidia verliert in 6 Wochen fast die Hälfte seines Börsenwerts",
@@ -1109,7 +1116,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.2,
+    "score": 1.1,
     "items": [
      {
       "title": "„Ask Maps“ startet in Deutschland: Google Maps plant jetzt deinen kompletten Tagesablauf – und bucht sogar Termine",
@@ -1122,7 +1129,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.15,
+    "score": 1.05,
     "items": [
      {
       "title": "25 Grad Durchschnittstemperatur und Tausende Inseln: So stellen sich Forscher eine „superhabitable“ Welt vor",
@@ -1146,7 +1153,7 @@
    "topic": "Welt & Politik",
    "source": "Deutsche Welle",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "topic": "Welt & Politik",
@@ -1236,7 +1243,7 @@
    "topic": "Welt & Politik",
    "source": "CBC",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Welt & Politik",
@@ -1344,7 +1351,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "Handelsblatt (Finanzen)",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1356,19 +1363,19 @@
    "topic": "Wirtschaft & Börse",
    "source": "Spiegel",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Wirtschaft & Börse",
    "source": "Zeit",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "topic": "Wirtschaft & Börse",
    "source": "BBC",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1410,7 +1417,7 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Sport",
