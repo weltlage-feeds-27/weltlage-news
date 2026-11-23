@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-23T21:58:13+00:00",
+ "fetchedAt": "2026-11-23T22:59:20+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 7,
-    "score": 13.9,
+    "score": 13.82,
     "items": [
      {
       "title": "Ukraine claims it sank Russian warship off Libya",
@@ -30,8 +30,8 @@
     ]
    },
    {
-    "sourceCount": 7,
-    "score": 13.89,
+    "sourceCount": 5,
+    "score": 9.74,
     "items": [
      {
       "title": "Nvidia reinstates Huang as CEO after Trump intervention",
@@ -48,17 +48,44 @@
       "teaser": "Nvidia's board reinstated Jensen Huang as its president and CEO on Monday in a surprise move shortly after rejecting his offer to return. It's the latest twist in the fallout from Huang's admission of an affair with a woman suspected of being a Chinese spy."
      },
      {
-      "title": "Live: Wall Street roars back as Nvidia's Jensen Huang reinstated",
-      "url": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524",
-      "source": "ABC Australia",
-      "date": "2026-11-23T20:36+00:00",
-      "teaser": "Wall Street comes roaring back, after Nvidia sensationally announced the return of its scandal-engulfed chief executive and founder, Jensen Huang. Follow the day's events and insights from our business reporters on the ABC News live markets blog."
+      "title": "Nvidia: Donald Trump will Wiedereinsetzung von Jensen Huang erwirkt haben",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-nvidia-jensen-huang-chipkonzern-usa",
+      "source": "Zeit",
+      "date": "2026-11-23T16:11+00:00",
+      "teaser": "Der US-Präsident hat Nvidia wohl davon überzeugt, Jensen Huang zurückzuholen. Von mutmaßlichen Kontakten von dessen Geliebter nach China zeigt er sich unbeeindruckt."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.84,
+    "score": 5.83,
+    "items": [
+     {
+      "title": "Paukenschlag: Jensen Huang wieder Chef von Nvidia",
+      "url": "https://www.dw.com/de/paukenschlag-jensen-huang-wieder-chef-von-nvidia/a-80022063?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-23T14:43+00:00",
+      "teaser": "Der US-Chipriese Nvidia holt seinen Mitbegründer Jensen Huang an die Spitze des Unternehmens zurück. Mit sofortiger Wirkung solle er wieder die Aufgaben als Präsident und Firmenchef übernehmen, teilte Nvidia mit."
+     },
+     {
+      "title": "Jensen Huang: Ein krasser Powermove (5/5)",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-ceo-boerse-aktie",
+      "source": "Zeit",
+      "date": "2026-11-23T20:57+00:00",
+      "teaser": "Jensen Huang kehrt zurück an die Spitze von Nvidia. Die Börse feiert, der US-Präsident ist hocherfreut. Doch viele Fragen bleiben offen."
+     },
+     {
+      "title": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-23T20:22+00:00",
+      "teaser": "Just 11 days after resigning over a suspected espionage scandal, Jensen Huang has been reinstated as Nvidia’s CEO."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.76,
     "items": [
      {
       "title": "Iran: Sängerin Parastu Ahmadi wegen Verstoß gegen Kopftuchpflicht ausgepeitscht",
@@ -84,35 +111,48 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.63,
+    "sourceCount": 2,
+    "score": 3.98,
     "items": [
      {
-      "title": "Cop31 collapses: why did climate talks fall apart? - The Latest",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
-      "source": "The Guardian",
-      "date": "2026-11-23T17:19+00:00",
-      "teaser": "Countries at the Cop31 climate summit failed to reach a keystone agreement for the first time in 17 years. The talks, co-chaired by Turkey and Australia, were intended to produce a pact that would have injected urgency into climate action and financing for vulnerable states. Instead, the deal failed"
+      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+      "source": "New York Times (Politik)",
+      "date": "2026-11-23T22:18+00:00",
+      "teaser": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision."
      },
      {
-      "title": "The collapse of UN climate talks over fossil fuels was years in the making",
-      "url": "https://www.pbs.org/newshour/world/the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making",
-      "source": "PBS NewsHour",
-      "date": "2026-11-23T12:31-05:00",
-      "teaser": "While negotiations collapsed over one main point of contention — whether to include language about fossil fuels, the main driver of global warming — this fight over this has been building for many years."
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
-      "source": "NPR",
-      "date": "2026-11-22T11:33-05:00",
-      "teaser": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming."
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-23T22:45+00:00",
+      "teaser": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+      "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+      "source": "The Guardian",
+      "date": "2026-11-23T22:41+00:00",
+      "teaser": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and jour"
+     },
+     {
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-23T17:14+00:00",
+      "teaser": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.91,
     "items": [
      {
       "title": "Federal appeals court gives President Donald Trump path to erasing hush money conviction",
@@ -132,7 +172,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.88,
     "items": [
      {
       "title": "Nato verstärkt Kontrolle von Polens Luftraum - verlegt Awacs-Frühwarnflugzeug",
@@ -152,47 +192,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
-    "items": [
-     {
-      "title": "UK’s former prince Andrew took ‘bribe’ to help Turkish heiress, UK court told",
-      "url": "https://www.scmp.com/news/world/europe/article/3375527/uks-former-prince-andrew-took-bribe-help-turkish-heiress-uk-court-told",
-      "source": "South China Morning Post",
-      "date": "2026-11-23T18:35+00:00",
-      "teaser": "Britain’s former prince Andrew received £750,000 (US$976,000) as an alleged “bribe” to help a Turkish heiress, the High Court in London was told on Monday, with the disgraced British royal due to testify in the civil trial. The claim around the payment emerged at the start of the anticipated four-mo"
-     },
-     {
-      "title": "Turkish heiress paid former prince Andrew 750k pound 'bribe', UK court told",
-      "url": "https://www.abc.net.au/news/2026-11-24/ex-prince-andrew-took-bribe-to-help-turkish-heiress-court-told/107419512",
-      "source": "ABC Australia",
-      "date": "2026-11-23T21:07+00:00",
-      "teaser": "A lawyer for the Turkish heiress's former adviser says the payment to Andrew Mountbatten-Windsor \"was a bribe, either for assistance with her passport or her UK residency\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.92,
-    "items": [
-     {
-      "title": "Paukenschlag: Jensen Huang wieder Chef von Nvidia",
-      "url": "https://www.dw.com/de/paukenschlag-jensen-huang-wieder-chef-von-nvidia/a-80022063?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-23T14:43+00:00",
-      "teaser": "Der US-Chipriese Nvidia holt seinen Mitbegründer Jensen Huang an die Spitze des Unternehmens zurück. Mit sofortiger Wirkung solle er wieder die Aufgaben als Präsident und Firmenchef übernehmen, teilte Nvidia mit."
-     },
-     {
-      "title": "Jensen Huang: Ein krasser Powermove (5/5)",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/jensen-huang-nvidia-ceo-boerse-aktie",
-      "source": "Zeit",
-      "date": "2026-11-23T20:57+00:00",
-      "teaser": "Jensen Huang kehrt zurück an die Spitze von Nvidia. Die Börse feiert, der US-Präsident ist hocherfreut. Doch viele Fragen bleiben offen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.71,
     "items": [
      {
       "title": "Iranian singer subjected to 74 lashes for performing without her hijab",
@@ -212,7 +212,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.7,
     "items": [
      {
       "title": "Trump tells U.S. army not to detonate unstable, lead-rich explosives without court approval",
@@ -232,7 +232,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.77,
+    "score": 3.68,
     "items": [
      {
       "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
@@ -252,7 +252,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.7,
+    "score": 3.62,
     "items": [
      {
       "title": "NATO-Treffen in Berlin: Keine Einstimmigkeit zu einem Beitritt der Ukraine",
@@ -274,7 +274,7 @@
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.21,
+    "score": 5.13,
     "items": [
      {
       "title": "Freie Wähler: Tobias Gotthardt soll in Bayern auf Hubert Aiwanger als Wirtschaftsminister folgen",
@@ -301,7 +301,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.69,
+    "score": 3.61,
     "items": [
      {
       "title": "Nachfolge von Hubert Aiwanger: Freie Wähler stellen sich breiter auf",
@@ -321,7 +321,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.69,
+    "score": 3.6,
     "items": [
      {
       "title": "Kalte Progression: Söders Paradedisziplin: Provokation",
@@ -340,8 +340,28 @@
     ]
    },
    {
+    "sourceCount": 2,
+    "score": 3.58,
+    "items": [
+     {
+      "title": "Bombendrohungen an Hunderten Schulen bundesweit",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html",
+      "source": "Tagesschau",
+      "date": "2026-11-23T15:13+01:00",
+      "teaser": "Freiburg, Erfurt oder Hamburg: Hunderte Schulen im ganzen Land haben Drohschreiben bekommen. Mehrere Schulen wurden vorsorglich geräumt. Laut verschiedenen Polizeibehörden gibt es aber keine Hinweise auf eine konkrete Gefahr."
+     },
+     {
+      "title": "Bombendrohungen an Schulen im ganzen Land verschickt - einzelne Schulen geräumt",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bombendrohungen-schulen-100.html",
+      "source": "SWR",
+      "date": "2026-11-23T18:55+01:00",
+      "teaser": "Deutschlandweit sind Bombendrohungen gegen hunderte Schulen eingegangen. In Baden-Württemberg allein sind mehr als 450 Einrichtungen betroffen. Die Polizei gibt aber Entwarnung."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Schlagzeilen",
@@ -354,7 +374,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Aktuelles zum Krieg in der Ukraine",
@@ -367,20 +387,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.86,
     "items": [
      {
-      "title": "Am Weihnachtsmarkt: Betrunkene Frauen sollen 19 Teddybären geklaut haben",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/mutmassliche-baerendiebe-in-reutlingen-festgenommen-100.html",
-      "source": "SWR",
-      "date": "2026-11-23T21:49+01:00",
-      "teaser": "Zwei Frauen sollen Teddybären von einem Tor am Weihnachtsmarkt Reutlingen gestohlen haben. Die Polizei hat 19 mutmaßlich gestohlene Stofftiere sichergestellt."
+      "title": "Lange zu Putin-Plänen: \"Das Ziel lautet Erpressung\"",
+      "url": "https://www.zdfheute.de/politik/russland-atomwaffe-weltall-plaene-100.html",
+      "source": "ZDF",
+      "date": "2026-11-23T22:21+01:00",
+      "teaser": "Russland arbeitet an Atomwaffen fürs All. Im ZDF-Interview warnt Experte Nico Lange vor einer \"realistischen Gefahr\" – und kritisiert mangelnde Härte der Nato."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.82,
     "items": [
      {
       "title": "Deutsche Bank: Grüne Deals oder schmutzige Geschäfte?",
@@ -393,7 +413,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.82,
+    "items": [
+     {
+      "title": "Am Weihnachtsmarkt: Betrunkene Frauen sollen 19 Teddybären geklaut haben",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/mutmassliche-baerendiebe-in-reutlingen-festgenommen-100.html",
+      "source": "SWR",
+      "date": "2026-11-23T21:49+01:00",
+      "teaser": "Zwei Frauen sollen Teddybären von einem Tor am Weihnachtsmarkt Reutlingen gestohlen haben. Die Polizei hat 19 mutmaßlich gestohlene Stofftiere sichergestellt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.75,
     "items": [
      {
       "title": "Transparenzregister: Milliardär Dieter Schwarz scheitert mit Klage um Schutz seiner Daten",
@@ -406,7 +439,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Weihnachtsgeschäft: Einzelhandel in Baden-Württemberg befürchtet Flaute",
@@ -419,7 +452,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.71,
     "items": [
      {
       "title": "Merz: Keine Nato-Aufnahme der Ukraine 2008 war Fehler",
@@ -429,58 +462,38 @@
       "teaser": "Beim Treffen mit Nato-Generalsekretär Rutte hat Kanzler Merz die Nicht-Aufnahme der Ukraine 2008 in die Nato einen Fehler genannt. Zudem warnte er Russland vor neuen Provokationen."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "Drohnenangriff auf die »Sparta II«: Boris Pistorius warnt vor Ausweitung des Ukrainekriegs auf die Ostsee",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/drohnenangriff-finnischer-meerbusen-russischer-frachter-ostsee-ukraine",
-      "source": "Zeit",
-      "date": "2026-11-23T19:20+00:00",
-      "teaser": "Der Verteidigungsminister zeigt sich besorgt über die Angriffe auf ein russisches Schiff vor der Küste Finnlands. Auch die Ukraine habe eine Verantwortung."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "Bundespolitik: Merz: Bericht über russische Atombewaffnung im All „schockierend“",
-      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-berichte-russland-atomwaffen-all-schockierend-li.3580621",
-      "source": "Süddeutsche",
-      "date": "2026-11-23T19:17+00:00",
-      "teaser": "Der Bundeskanzler hat sich besorgt über Berichte von SZ, NDR und WDR gezeigt, dass Russland Satelliten mit atomarer Bewaffnung ins All schießen könnte. Verteidigungsminister Pistorius mahnt dagegen zur Besonnenheit."
-     }
-    ]
    }
   ],
   "Polen": [
    {
-    "sourceCount": 2,
-    "score": 3.71,
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
-      "title": "TK na uchodźstwie? Bogdan Święczkowski: Nie będziemy robić z siebie idiotów",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art45532151-tk-na-uchodzstwie-bogdan-swieczkowski-nie-bedziemy-robic-z-siebie-idiotow",
+      "title": "Uczniowie wykorzystują AI do nękania nauczycieli. Fałszywe materiały niszczą ich reputację",
+      "url": "https://www.rp.pl/spoleczenstwo/art45532691-uczniowie-wykorzystuja-ai-do-nekania-nauczycieli-falszywe-materialy-niszcza-ich-reputacje",
       "source": "Rzeczpospolita",
-      "date": "2026-11-23T19:28+01:00",
-      "teaser": "Na pewno nie będziemy orzekać w innej siedzibie Trybunału Konstytucyjnego niż przy al. Szucha – zapewnił w poniedziałek zawieszony prezes TK Bogdan Święczkowski. Potwierdził również, że zamierza udać się do Strasburga. Jak zapowiedział, pokaże europarlamentarzystom „zdjęcia policjantów z pałami prze"
-     },
-     {
-      "title": "Święczkowski wyklucza \"trybunał na uchodźstwie\". \"Nie będziemy robić z siebie idiotów\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33146946,swieczkowski-wyklucza-trybunal-na-uchodzstwie-nie-bedziemy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-23T18:21+00:00",
-      "teaser": "Zawieszony w czynnościach prezesa TK Bogdan Święczkowski ponownie próbował dostać się do budynku Trybunału Konstytucyjnego przy Alei Szucha w Warszawie, ale funkcjonariusze nie wpuścili go do środka. Prezes TK zapowiedział, że nie zamierza orzekać poza oficjalną siedzibą."
+      "date": "2026-11-23T23:50+01:00",
+      "teaser": "W hiszpańskich szkołach pojawiła się nowa forma cyberprzemocy wobec nauczycieli. Uczniowie wykorzystują sztuczną inteligencję do tworzenia fałszywych obrazów i nagrań, w których ośmieszają pedagogów, a nawet sugerują, że dopuścili się niewłaściwych zachowań wobec uczennic."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "RCB wydało ostrzeżenie dla województwa lubelskiego. Rosyjski dron wleciał w polską przestrzeń",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33147126,rcb-wydal-ostrzezenie-dla-wojewodztwa-lubelskiego-zagrozenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-23T22:31+00:00",
+      "teaser": "W polską przestrzeń wleciał rosyjski odrzutowy dron obserwacyjny i po kilku minutach ją opuścił. Był śledzony przez polskie systemy - poinformowało źródło zbliżone do ministerstwa obrony narodowej. Rządowe Centrum Bezpieczeństwa wydało ostrzeżenie o zagrożeniu atakiem z powietrza na terenie wojewódz"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Spór o stanowiska w spółkach Skarbu Państwa po artykule „Rz”. Czarzasty uderza w Zandberga",
@@ -493,7 +506,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Iran omijał sankcje przez firmy w Dubaju i Hongkongu. USA odpowiadają restrykcjami",
@@ -506,7 +519,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.79,
     "items": [
      {
       "title": "Gawkowski poprosił Nawrockiego o wyjaśnienia. \"Nie chcę się bawić w kotka i myszkę\"",
@@ -519,7 +532,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.78,
     "items": [
      {
       "title": "74 baty za koncert bez hidżabu. W Iranie ukarano piosenkarkę i czterech muzyków",
@@ -532,7 +545,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.77,
     "items": [
      {
       "title": "Władysław Kosiniak-Kamysz chce zmiany zasad podwyżek w ochronie zdrowia",
@@ -545,7 +558,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.76,
     "items": [
      {
       "title": "Zaginęła 38-letnia kobieta z Oświęcimia. Policja apeluje o pomoc",
@@ -558,7 +571,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.73,
     "items": [
      {
       "title": "Już kilkunastu kierowców straciło prawa jazdy. Nowe przepisy weszły w życie",
@@ -571,7 +584,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.72,
     "items": [
      {
       "title": "Atak na rosyjski okręt w Bengazi. Czy Ukraina zaszkodzi tworzeniu nowej dyktatury w Libii?",
@@ -584,7 +597,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.72,
     "items": [
      {
       "title": "Tusk o nowym budżecie UE: Na pewno nie zaakceptuję takiej propozycji. Będę bardzo stanowczy",
@@ -597,7 +610,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.71,
     "items": [
      {
       "title": "Co dalej z listem żelaznym dla Marcina Romanowskiego? Sąd musi wyznaczyć nowy termin",
@@ -607,31 +620,18 @@
       "teaser": "Zaplanowane na środę posiedzenie sądu w sprawie listu żelaznego dla Marcina Romanowskiego nie dojdzie do skutku - ustaliło nieoficjalnie RMF FM. Przyczyną jest tygodniowe zwolnienie lekarskie sędzi Małgorzaty Janicz."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "Donald Tusk ostrzega przed Rosją i apeluje o europejską solidarność z Polską",
-      "url": "https://www.rp.pl/polityka/art45532351-donald-tusk-ostrzega-przed-rosja-i-apeluje-o-europejska-solidarnosc-z-polska",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-23T20:23+01:00",
-      "teaser": "Premier Donald Tusk zaapelował do przywódców Austrii, Czech, Słowacji i Węgier o wspólne działania na rzecz wsparcia Ukrainy. Jak podkreślił, pomoc dla Kijowa jest dziś również wyrazem solidarności z Polską i całą Europą. Poruszył również kwestię przyszłego budżetu UE, sprzeciwiając się ograniczaniu"
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 8,
-    "score": 15.96,
+    "score": 15.95,
     "items": [
      {
       "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
       "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
       "source": "The Guardian",
-      "date": "2026-11-23T18:51+00:00",
+      "date": "2026-11-23T22:23+00:00",
       "teaser": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen Huang as chie"
      },
      {
@@ -652,14 +652,34 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.41,
+    "score": 3.99,
+    "items": [
+     {
+      "title": "FirstFT: Nvidia adds nearly $1tn in value after Jensen Huang reinstated",
+      "url": "https://www.ft.com/content/5fd14979-e239-4eaf-bbfb-cde969afb514?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-23T22:08+00:00",
+      "teaser": "Also in today’s newsletter: Ukraine blows up Russian warship in Libya’s Benghazi and Nepal’s PM seals aid deal with India’s Narendra Modi"
+     },
+     {
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-23T21:23+00:00",
+      "teaser": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.32,
     "items": [
      {
       "title": "Next issues cyber-attack warning after ‘benign’ data accessed by hackers",
       "url": "https://www.theguardian.com/business/2026/nov/23/next-issues-cyber-attack-warning-after-benign-data-accessed-by-hackers",
       "source": "The Guardian",
       "date": "2026-11-23T14:50+00:00",
-      "teaser": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier Business live – latest updates Next has warned that hackers have gained access to data relating to the clothing and homewares retailer through a technology supplier. The company, which"
+      "teaser": "Retailer says it believes no personal data that could lead to fraud was accessed after hack of third-party supplier Next has warned that hackers have gained access to data relating to the clothing and homewares retailer through a technology supplier. The company, which has more than 800 stores in th"
      },
      {
       "title": "Next data accessed in cyber breach",
@@ -672,7 +692,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.3,
+    "score": 3.22,
     "items": [
      {
       "title": "Einzelhandel: Rewe steigt bei Baumarktkette Obi ein – Toom verschwindet als Marke",
@@ -692,7 +712,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.12,
+    "score": 3.04,
     "items": [
      {
       "title": "Capita boss exits and shares crash after civil service pensions failures",
@@ -712,7 +732,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
+      "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-23T22:46+00:00",
+      "teaser": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+      "source": "New York Times",
+      "date": "2026-11-23T22:18+00:00",
+      "teaser": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Nasdaq jumps 7% as Nvidia shares soar",
+      "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-23T22:01+00:00",
+      "teaser": "Chip giant gains 31.5% after Huang reinstated while S&P rises 4.7%"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
@@ -725,7 +784,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Audra Fordin Fixes Cars, and Eases Women’s Fears",
@@ -738,20 +797,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-23T21:23+00:00",
-      "teaser": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Nvidia: „Ich habe sie überzeugt“: Wie Trump Huangs Rückkehr für sich reklamiert",
@@ -764,7 +810,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Rückkehr zu Nvidia: Huang will „beim zweiten Mal ein besserer Chef sein“",
@@ -774,51 +820,26 @@
       "teaser": "Der über Affären gestolperte Nvidia-Gründer darf seinen Vorstandsposten wieder beziehen. Offenbar hat Donald Trump eine Rolle gespielt. Vor jubelnden Mitarbeitern gelobt Huang „Bescheidenheit“."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Nvidia-Affäre: Huangs Comeback stinkt zum Himmel",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-und-nvidia-das-comeback-stinkt-zum-himmel-201710277.html",
-      "source": "FAZ",
-      "date": "2026-11-23T21:06+00:00",
-      "teaser": "Unter Druck von Donald Trump holt Nvidia seinen Mitgründer zurück. Das ist ein ungeheuerlicher Vorgang. Und ob es wirklich gut für das Unternehmen ist, ist fraglich."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Business-Ticker: Trump postet bizarre Fotomontage zu Huang-Rückkehr",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-postet-bizarre-fotomontage-zu-huang-rueckkehr-faz-200452404.html",
-      "source": "FAZ",
-      "date": "2026-11-23T21:10+00:00",
-      "teaser": "Roche erhält Zulassung für Brustkrebsmittel in den USA +++ Lego investiert über eine Milliarde Euro in neues Werk in Portugal +++ Crowdstrike will Zscaler kaufen +++ alle Neuigkeiten im Unternehmen-Liveblog"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/11/23/technology/nvidia-jensen-huang-reinstated/nvidia-jensen-huang",
-      "source": "New York Times",
-      "date": "2026-11-23T21:07+00:00",
-      "teaser": "Mr. Huang resigned from Nvidia on Nov. 12 after revelations of multiple extramarital relationships."
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.87,
+    "score": 7.88,
+    "favorite": true,
+    "items": [
+     {
+      "title": "1-5: Paso de gigante del Barça en la Champions League",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254674/paso-gigante-barca-champions-league.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-23T22:32+01:00",
+      "teaser": "El Barça dio un paso de gigante en la Champions League después de superar con nota la ida de los octavos de final ante el MNK Olmissum (1-5) . El equipo azulgrana encarriló la eliminatoria con 0-4 en el primer tiempo y aunque los croatas reaccionaron en la segunda con un parcial de 1-1, la superiori"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.79,
     "favorite": true,
     "items": [
      {
@@ -832,7 +853,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.82,
+    "score": 7.74,
     "favorite": true,
     "items": [
      {
@@ -845,22 +866,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.66,
-    "favorite": true,
-    "items": [
-     {
-      "title": "El Barça aterriza en Bakú tras un largo viaje y con una gran expectación",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254617/barca-llega-baku-viaje-medio-gran-expectacion.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-23T18:54+01:00",
-      "teaser": "El FC Barcelona aterrizó en Bakú, donde este miércoles se medirá al Sabah (18:45 horas) en la quinta jornada de la fase liga de la Champions, tras cuatro horas y 20 minutos de vuelo, en medio de una gran expectación y con una temperatura cercana a los 14ºC. La expedición azulgrana, con su presidente"
-     }
-    ]
-   },
-   {
     "sourceCount": 3,
-    "score": 5.93,
+    "score": 5.85,
     "items": [
      {
       "title": "Ann-Katrin Berger: Nationaltorhüterin wechselt vom US-Club Gotham FC zu Union Berlin",
@@ -887,7 +894,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.7,
+    "score": 5.61,
     "items": [
      {
       "title": "Fußball-Weltverband: FIFA vergibt WM-Endrunden der Frauen für 2031 und 2035",
@@ -914,32 +921,45 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.96,
     "items": [
      {
-      "title": "Brentford v Everton: Premier League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/23/brentford-v-everton-premier-league-live",
+      "title": "Lewis-Potter double and Janelt stunner ease Brentford past 10-man Everton",
+      "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
       "source": "The Guardian",
-      "date": "2026-11-23T21:45+00:00",
-      "teaser": "Minute-by-minute updates on the 8pm UK kick-off Haaland must be worried’: Moyes on Barry | Email Daniel Later tonight, Sky are doing something on the best centre-back partnerships in the Premier League era. Is this one even close? I can’t for the life of me think how you’d make a case for it not bei"
+      "date": "2026-11-23T22:09+00:00",
+      "teaser": "It was a record-breaking occasion in more ways than one. David Moyes made history for Everton, edging clear of Harry Catterick by overseeing his 593rd game in charge of the club, but calamitous defending ruined the Scot’s evening and defeat to Brentford was inevitable after James Tarkowski received "
      },
      {
-      "title": "Premier League: Pochettino soll United retten, erlebt 0:4-Debakel in Liverpool",
-      "url": "https://www.spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-22T20:25+01:00",
-      "teaser": "Mauricio Pochettino gab seinen Job als US-Nationaltrainer auf, um Manchester United zu alten Erfolgen zurückzuführen. Beim Start zeigte sich: Das wird sehr schwer. An diesem Tag lag das auch an Florian Wirtz."
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-23T22:31+00:00",
+      "teaser": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 3.73,
+    "items": [
+     {
+      "title": "Live hören: Die Konferenz | Fußball Champions League",
+      "url": "https://www.sportschau.de/fussball/championsleague/champions-league-die-konferenz,audiostream-champions-league-die-konferenz-188.html",
+      "source": "Sportschau",
+      "date": "2026-11-24T20:45+01:00",
+      "teaser": "Champions League live - alle Spiele mit deutscher Beteiligung am 24.11.2026 um 21:00 Uhr in der Konferenz."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.63,
+    "score": 3.54,
     "items": [
      {
       "title": "Darf der FC Bayern Musialas Gehalt kürzen?",
       "url": "https://www.sportschau.de/regional/br/br-debatte-um-jamal-musiala-darf-der-fc-bayern-sein-gehalt-kuerzen-102.html",
-      "source": "Sportschau",
+      "source": "Sportschau (alle Sportarten)",
       "date": "2026-11-23T18:30+01:00",
       "teaser": "Jamal Musiala steht nach seiner Erkrankung im Zentrum einer hitzigen Debatte: Die FC-Bayern-Bosse sprechen über mögliche Gehaltskürzung. Aber wäre das überhaupt erlaubt?"
      },
@@ -954,7 +974,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.45,
+    "score": 3.37,
     "items": [
      {
       "title": "David Raya’s shoulder injury ‘not too serious’ and no surgery needed for Arsenal goalkeeper",
@@ -974,7 +994,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.34,
+    "score": 3.26,
     "items": [
      {
       "title": "Lennart Karl: »Bin keine sehr, sehr schlaue Person im ganzen Leben«",
@@ -994,7 +1014,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.28,
+    "score": 3.19,
     "items": [
      {
       "title": "Bundesliga: Werder Bremen überrollt HSV und wird zur Überraschung der Saison",
@@ -1014,7 +1034,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.1,
+    "score": 2.02,
     "items": [
      {
       "title": "FC Arsenal: Lisa Baum bricht im Spiel mit Atemnot zusammen",
@@ -1031,32 +1051,19 @@
       "teaser": "Während eines Spiels des FC Arsenal gegen West Ham United ist Lisa Baum kollabiert. Der Klub gibt erste Entwarnung, der Zustand der deutschen Fußballerin sei stabil."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Levante - Elche: Tor zum 1:1 durch Requena in der 88. Minute",
-      "url": "https://www.kicker.de/levante-elche-tor-zum-1-1-durch-requena-in-der-88-minute-1274443/video#omrss",
-      "source": "kicker",
-      "date": "2026-11-23T21:50+00:00",
-      "teaser": "Szene aus dem Spiel UD Levante - FC Elche (La Liga 2026/27, 13. Spieltag)."
-     }
-    ]
    }
   ],
   "Tech & KI": [
    {
     "sourceCount": 6,
-    "score": 11.83,
+    "score": 11.93,
     "items": [
      {
-      "title": "How Jensen Huang ended up as Nvidia CEO again",
-      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "source": "The Verge",
-      "date": "2026-11-23T14:57-05:00",
-      "teaser": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfai"
+      "date": "2026-11-23T17:10-05:00",
+      "teaser": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence of another affair, this time with an Nvidia execu"
      },
      {
       "title": "Überraschende Rückkehr: Jensen Huang wird wieder Nvidia-Chef",
@@ -1076,14 +1083,14 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.96,
+    "score": 7.95,
     "items": [
      {
-      "title": "Jensen Huang says he’ll be a ‘better CEO’ as staff applauds his return",
-      "url": "https://www.theverge.com/tech/1040487/nvidia-ceo-jensen-huang-staff-applauds-return",
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
       "source": "The Verge",
-      "date": "2026-11-23T14:58-05:00",
-      "teaser": "Jensen Huang returned to Nvidia's office as CEO today to a crowd of applauding employees who stood and filmed the cofounder's first moments back. \"Thank you all for the second chances. I'm gonna be a better CEO the second time around,\" Huang said, as shown in a video of his return. Huang resigned as"
+      "date": "2026-11-23T17:25-05:00",
+      "teaser": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Hua"
      },
      {
       "title": "How to Win Big Betting on Jensen Huang? Listen to Trump",
@@ -1102,28 +1109,22 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 1.99,
+    "sourceCount": 2,
+    "score": 3.98,
     "items": [
      {
       "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-      "url": "https://www.nytimes.com/2026/11/23/technology/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+      "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
       "source": "New York Times",
-      "date": "2026-11-23T21:50+00:00",
+      "date": "2026-11-23T22:18+00:00",
       "teaser": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
+     },
      {
-      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
-      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
-      "source": "Wired",
-      "date": "2026-11-23T21:46+00:00",
-      "teaser": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data."
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-23T22:45+00:00",
+      "teaser": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
      }
     ]
    },
@@ -1132,17 +1133,56 @@
     "score": 1.97,
     "items": [
      {
-      "title": "B&H Photo Promo Codes and Deals This November 2026",
-      "url": "https://www.wired.com/story/bh-photo-coupon/",
-      "source": "Wired",
-      "date": "2026-11-23T21:39+00:00",
-      "teaser": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo."
+      "title": "Ladybird, the first new browser engine in years, is now available to test",
+      "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+      "source": "The Verge",
+      "date": "2026-11-23T17:38-05:00",
+      "teaser": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of development. The release makes Ladybird the first"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "source": "The Verge",
+      "date": "2026-11-23T17:09-05:00",
+      "teaser": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a \"free market\" is "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "source": "Ars Technica",
+      "date": "2026-11-23T21:58+00:00",
+      "teaser": "The Army said on Sunday that it would carry out the detonation on Wednesday."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-23T16:36-05:00",
+      "teaser": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off) at Amazon and Walmart, beating its most sale pric"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
@@ -1155,7 +1195,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
@@ -1168,7 +1208,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "AI data centers throw another wrench into chaotic UN climate talks",
@@ -1181,7 +1221,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.83,
+    "items": [
+     {
+      "title": "5,4 Billionen Teilchen: Wie KI die Milchstraße auf drei Supercomputern nachbildet",
+      "url": "https://t3n.de/news/milchstrasse-simulation-ki-supercomputer-1774940/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-23T21:54+01:00",
+      "teaser": "Blicke von der Erde in den Nachthimmel zeigen immer nur eine kurze Momentaufnahme aus Milliarden Jahren Kosmosgeschichte. Wer diesen Wandel im Computer nachstellen will, wurde bislang regelmäßig von explodierenden Sternen ausgebremst. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.83,
     "items": [
      {
       "title": "Apple renews Ted Lasso for season 5",
@@ -1189,45 +1242,6 @@
       "source": "The Verge",
       "date": "2026-11-23T15:56-05:00",
       "teaser": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are currently no details about the new season nor when "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
-      "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
-      "source": "Ars Technica",
-      "date": "2026-11-23T20:34+00:00",
-      "teaser": "\"I would ask you to please reach out to Roscosmos directly.\""
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Surveillance pricing uses our personal data to make us pay more",
-      "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
-      "source": "Ars Technica",
-      "date": "2026-11-23T20:11+00:00",
-      "teaser": "Personalized pricing can mean unfair, and even biased, prices."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "source": "The Verge",
-      "date": "2026-11-23T15:00-05:00",
-      "teaser": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks t"
      }
     ]
    }
@@ -1298,13 +1312,13 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "topic": "Welt & Politik",
    "source": "NPR (Politik)",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Welt & Politik",
@@ -1508,13 +1522,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Sport",
@@ -1562,7 +1576,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "topic": "Tech & KI",
@@ -1580,7 +1594,7 @@
    "topic": "Tech & KI",
    "source": "BBC",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Tech & KI",
