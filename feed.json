@@ -1,11 +1,18 @@
 {
- "fetchedAt": "2026-11-24T13:24:05+00:00",
+ "fetchedAt": "2026-11-24T15:10:00+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 6,
-    "score": 11.88,
+    "sourceCount": 7,
+    "score": 13.9,
     "items": [
+     {
+      "title": "Trump's role in Huang's Nvidia return under scrutiny",
+      "url": "https://www.france24.com/en/video/20261124-trump-s-role-in-huang-s-nvidia-return-under-scrutiny",
+      "source": "France 24",
+      "date": "2026-11-24T13:48+00:00",
+      "teaser": "Jensen Huang's return as CEO of Nvidia was greeted with triumph by US President Donald Trump, and the AI chipmaker's stock price was sent soaring. But the national security implications of Huang's extra-marital affair with an alleged Chinese spy, as well as Trump's intervention in the operations of "
+     },
      {
       "title": "Why Trump pushed for Jensen Huang's return to Nvidia",
       "url": "https://www.pbs.org/newshour/show/why-trump-pushed-for-jensen-huangs-return-to-nvidia",
@@ -14,24 +21,17 @@
       "teaser": "Jensen Huang is back as CEO of Nvidia just two weeks after resigning amid revelations of extramarital affairs, including one with a woman suspected of ties to Chinese intelligence. President Trump personally intervened to push for his reinstatement, saying he believed Huang did nothing wrong. White "
      },
      {
-      "title": "'Nothing will ever be the same' for Jensen Huang and Nvidia after his return",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20261124-nothing-will-ever-be-the-same-for-jensen-huang-and-nvidia-after-his-return",
-      "source": "France 24",
-      "date": "2026-11-24T11:28+00:00",
-      "teaser": "PRESS REVIEW – Tuesday, November 24: Jensen Huang's return to Nvidia dominates the papers. In other news, leaked records shed new light on Russian military losses in Ukraine. Also, the UK will host the 2035 Women's World Cup. Finally, a devilled eggs world championship crowns its winner."
-     },
-     {
-      "title": "Why Trump's move to get Jensen Huang reinstated as Nvidia CEO won't end the questions",
-      "url": "https://www.cbc.ca/news/world/trump-jensen-huang-nvidia-china-9.7433543?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-24T04:00-05:00",
-      "teaser": "U.S. President Donald Trump's extraordinary intervention to get Jensen Huang reinstated as Nvidia CEO does little to shut down many pressing questions about a scandal that has rocked both Washington and the stock markets."
+      "title": "How Jensen Huang’s Nvidia return could deepen US rift over China chip curbs",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375631/how-jensen-huangs-nvidia-return-could-deepen-us-rift-over-china-chip-curbs",
+      "source": "South China Morning Post",
+      "date": "2026-11-24T14:00+00:00",
+      "teaser": "Jensen Huang’s return as Nvidia CEO could complicate Washington’s China policy, widening the gap between a White House keen to steady ties with Beijing and an incoming Democratic-led Congress poised to tighten chip curbs. The assessment from analysts comes after the AI chip giant on Monday reinstate"
      }
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.98,
+    "sourceCount": 4,
+    "score": 7.9,
     "items": [
      {
       "title": "Israeli strikes on Gaza kill senior Hamas security official and six other people, medics say",
@@ -41,11 +41,11 @@
       "teaser": "Israeli air strikes on the devastated Gaza Strip killed Brigadier General Naeem Abu Nahel, director-general of the Palestinian territory's Internal Security Service on Tuesday, the ministry said. Another six people, including two police officers and a 17-year-old teenager, were killed in Israeli str"
      },
      {
-      "title": "Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
-      "url": "https://www.thehindu.com/news/international/hamas-security-official-killed-in-israel-strikes-in-gaza/article71738279.ece",
-      "source": "The Hindu",
-      "date": "2026-11-24T16:40+05:30",
-      "teaser": "The ‌Israeli military and the Shin ‌Bet domestic ​security service said in ⁠a joint statement they ‌had struck a senior Hamas member, without identifying ‌him, adding ​that further details would ⁠be provided later"
+      "title": "Hamas security chief killed in Israeli air strike on Gaza City",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3375657/hamas-security-chief-killed-israeli-air-strike-gaza-city",
+      "source": "South China Morning Post",
+      "date": "2026-11-24T13:28+00:00",
+      "teaser": "Israeli air strikes in Gaza on Tuesday killed seven people including Hamas’ director of internal security, Palestinian officials in the territory said, despite a ceasefire in place since last year. Israel’s military said it had “struck a senior terrorist” from Hamas. Gaza’s interior ministry, which "
      },
      {
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
@@ -58,7 +58,34 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.82,
+    "score": 5.77,
+    "items": [
+     {
+      "title": "Landminen-Monitor: Zahl der Opfer von Landminen gestiegen",
+      "url": "https://www.tagesschau.de/ausland/europa/landminen-monitor-102.html",
+      "source": "Tagesschau",
+      "date": "2026-11-24T10:41+01:00",
+      "teaser": "Fast 7.000 Menschen wurden im vergangenen Jahr weltweit Opfer von Landminen. Das ist die höchste Zahl seit fünf Jahren. Am meisten gefährdet sind Kinder - oft halten sie die Minen für Spielzeug. Von Sandra Biegger."
+     },
+     {
+      "title": "Landminen: Zahl der Opfer steigt wieder – darunter viele Kinder",
+      "url": "https://www.spiegel.de/ausland/landminen-zahl-der-opfer-steigt-wieder-darunter-viele-kinder-a-e96f9da9-e8b0-4f39-85b1-7ba51586577d#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-24T10:50+01:00",
+      "teaser": "In der Erde versteckt und oft jahrzehntelang explosionsfähig: Landminen haben 2025 viele zivile Opfer gefordert, am meisten in Myanmar. Der russische Angriffskrieg bringt zudem ein wichtiges Abkommen ins Wanken."
+     },
+     {
+      "title": "Zahl der Landminen-Opfer stark gestiegen",
+      "url": "https://www.dw.com/de/zahl-der-landminen-opfer-stark-gestiegen/a-80032671?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-24T12:28+00:00",
+      "teaser": "Sie explodieren, wenn ein Soldat darauf tritt - oder ein Kind: Anti-Personen-Minen. Die Ottawa-Konvention von 1997 sollte ihr Ende einläuten. Doch dieses Abkommen ist brüchig."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.67,
     "items": [
      {
       "title": "Pope Francis's private diary details encounters with the devil",
@@ -85,27 +112,107 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.98,
     "items": [
      {
-      "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
-      "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-24T00:55+00:00",
-      "teaser": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies."
+      "title": "Zelensky confirms Ukrainian attack on Russian ship in Gulf of Finland",
+      "url": "https://kyivindependent.com/zelensky-confirms-ukrainian-attack-on-russian-ship-in-gulf-of-finland/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-24T14:34+00:00",
+      "teaser": "While he defended Ukraine's right to strike the ship, he also acknowledged that the strike may have raised concerns among Ukraine's allies."
      },
      {
-      "title": "Trump’s Nvidia intervention: What’s at stake?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/trumps-nvidia-intervention-whats-at-stake?traffic_source=rss",
+      "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
       "source": "Al Jazeera",
-      "date": "2026-11-24T12:44+00:00",
-      "teaser": "Trump’s intervention to reinstate Nvidia CEO Jensen Huang has raised concerns over US government influence in business."
+      "date": "2026-11-24T14:56+00:00",
+      "teaser": "The Russian cargo ship Sparta II was towed back to home waters after a Ukrainian drone attack in the Gulf of Finland"
      }
     ]
    },
    {
     "sourceCount": 2,
     "score": 3.93,
+    "items": [
+     {
+      "title": "Trump administration blacklists Megaspeed cloud company linked to Nvidia scandal",
+      "url": "https://www.cbc.ca/news/world/trump-megaspeed-blacklist-nvidia-9.7433587?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-23T21:46-05:00",
+      "teaser": "The U.S. Commerce Department on Monday added Singapore-based Megaspeed, the cloud company at the centre of the Nvidia scandal, to its trade blacklist following criticism from lawmakers and administration officials."
+     },
+     {
+      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+      "source": "New York Times (Politik)",
+      "date": "2026-11-24T14:17+00:00",
+      "teaser": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.9,
+    "items": [
+     {
+      "title": "UK police arrest 2 men after break-in at Prince William’s Norfolk home",
+      "url": "https://www.scmp.com/news/world/europe/article/3375660/uk-police-arrest-2-men-after-break-prince-williams-norfolk-home",
+      "source": "South China Morning Post",
+      "date": "2026-11-24T13:57+00:00",
+      "teaser": "Two men were arrested on the royal family’s Sandringham estate, British police said on Tuesday, after a reported break-in at the country home of the Prince and Princess of Wales. Norfolk Police said that officers were called on Monday evening to reported “suspicious activity” at an address on the es"
+     },
+     {
+      "title": "Prince William and Catherine’s Country Home Broken Into, Police Say",
+      "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
+      "source": "New York Times",
+      "date": "2026-11-24T13:48+00:00",
+      "teaser": "The men were arrested at Anmer Hall, the couple’s retreat in Norfolk, on Monday night."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.87,
+    "items": [
+     {
+      "title": "U.S. army says it will detonate Iowa bomb-making material Wednesday, after court's approval",
+      "url": "https://www.cbc.ca/news/world/iowa-lead-azide-explosion-explosive-army-9.7432313?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-23T12:52-05:00",
+      "teaser": "The U.S. army plans to detonate bomb-making chemicals in Iowa on Wednesday morning after getting approval from a federal appeals court in a saga that has sowed confusion and included an unusual twist from President Donald Trump."
+     },
+     {
+      "title": "Getting court approval, U.S. Army to detonate degraded bomb-making material in Iowa on Wednesday",
+      "url": "https://www.pbs.org/newshour/nation/getting-court-approval-u-s-army-to-detonate-degraded-bomb-making-material-in-iowa-on-wednesday",
+      "source": "PBS NewsHour",
+      "date": "2026-11-24T08:34-05:00",
+      "teaser": "The detonation of 68 barrels of lead azide was initially planned for last Friday, but the Army has since changed the date three times following an outpouring of public concern about potential health and environmental effects."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.86,
+    "items": [
+     {
+      "title": "Indonesia puts ‘skin in the game’ to lure Chinese tech amid US rivalry",
+      "url": "https://www.scmp.com/week-asia/economics/article/3375656/indonesia-puts-skin-game-lure-chinese-tech-amid-us-rivalry",
+      "source": "South China Morning Post",
+      "date": "2026-11-24T13:26+00:00",
+      "teaser": "Indonesian officials pitched closer artificial intelligence and green energy technology ties with China at a business forum in Shenzhen on Friday, seeking to move beyond the country’s traditional reliance on natural resources and develop higher-value industries. Chinese executives at the Indonesia-C"
+     },
+     {
+      "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
+      "url": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-23T21:46+00:00",
+      "teaser": "American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.78,
     "items": [
      {
       "title": "Iranian singer subjected to 74 lashes for performing without her hijab",
@@ -125,47 +232,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
-    "items": [
-     {
-      "title": "Landminen-Monitor: Zahl der Opfer von Landminen gestiegen",
-      "url": "https://www.tagesschau.de/ausland/europa/landminen-monitor-102.html",
-      "source": "Tagesschau",
-      "date": "2026-11-24T10:41+01:00",
-      "teaser": "Fast 7.000 Menschen wurden im vergangenen Jahr weltweit Opfer von Landminen. Das ist die höchste Zahl seit fünf Jahren. Am meisten gefährdet sind Kinder - oft halten sie die Minen für Spielzeug. Von Sandra Biegger."
-     },
-     {
-      "title": "Zahl der Landminen-Oper stark gestiegen",
-      "url": "https://www.dw.com/de/zahl-der-landminen-oper-stark-gestiegen/a-80032671?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-24T12:28+00:00",
-      "teaser": "Sie explodieren, wenn ein Soldat darauf tritt - oder ein Kind: Anti-Personen-Minen. Die Ottawa-Konvention von 1997 sollte ihr Ende einläuten. Doch dieses Abkommen ist brüchig."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.91,
-    "items": [
-     {
-      "title": "Huang returns as Nvidia CEO in sudden reversal after Trump intervention",
-      "url": "https://www.france24.com/en/video/20261124-huang-returns-as-nvidia-ceo-in-sudden-reversal-after-trump-intervention",
-      "source": "France 24",
-      "date": "2026-11-24T12:19+00:00",
-      "teaser": "Nvidia reinstated Jensen Huang as CEO on Monday under pressure from US President Donald Trump, drawing approval/plaudits/cheers from Wall Street and criticism from US lawmakers. The sudden reversal was the latest twist in the fallout from Huang’s admission that he had an affair with a woman suspecte"
-     },
-     {
-      "title": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy",
-      "source": "NPR (Politik)",
-      "date": "2026-11-24T06:42-05:00",
-      "teaser": "President Trump touted the return of Jensen Huang to Nvidia's C-suite as good for the company -- and good for the United States economy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.89,
+    "score": 3.74,
     "items": [
      {
       "title": "Angriffe auf russische Schiffe: \"Das kann brandgefährlich für uns alle werden\"",
@@ -185,27 +252,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
-      "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-      "source": "NPR",
-      "date": "2026-11-23T05:16-05:00",
-      "teaser": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault."
-     },
-     {
-      "title": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
-      "url": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-24T11:27+00:00",
-      "teaser": "Ukraine is stepping up 'long-range sanctions' attacks on Russian vessels far beyond the battlefield."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.64,
     "items": [
      {
       "title": "Why Nvidia couldn't afford to lose Jensen Huang | About That",
@@ -222,72 +269,12 @@
       "teaser": "Auf Drängen von Donald Trump kehrt Jensen Huang an die Spitze des Chipkonzerns Nvidia zurück. Außenminister Johann Wadephul zeigt sich darüber entsetzt."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.73,
-    "items": [
-     {
-      "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
-      "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
-      "source": "The Guardian",
-      "date": "2026-11-24T04:14+00:00",
-      "teaser": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airspace, prompting a pr"
-     },
-     {
-      "title": "'Evacuation, air raid,' — Russian military aircraft approach South Korean island, trigger air raid alert",
-      "url": "https://kyivindependent.com/evacuation-air-raid-russian-aircraft-approach-south-korean-island-trigger-air-raid-alert-2/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-24T10:07+00:00",
-      "teaser": "The alert was the first time South Korea's military issued a preliminary air raid alert over a possible airspace intrusion by Russian warplanes."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.43,
-    "items": [
-     {
-      "title": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
-      "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-24T05:23+01:00",
-      "teaser": "Mehrere russische Militärflugzeuge sind südkoreanischen Sicherheitsbehören zufolge am Dienstagmorgen in Südkoreas Luftverteidigungszone eingedrungen. Erst kürzlich meldeten Taiwan und Japan ähnliche Vorfälle."
-     },
-     {
-      "title": "Südkorea: Russische Militärflugzeuge nähern sich südkoreanischer Insel",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/russische-militaerflugzeuge-suedkorea-adiz-insel-ulleung",
-      "source": "Zeit",
-      "date": "2026-11-24T06:34+00:00",
-      "teaser": "Mehrere russische Militärjets sind in Südkoreas Luftraum eingedrungen. Behörden gaben für die Insel Ulleungdo vor der Ostküste Südkoreas eine Evakuierungswarnung aus."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.92,
-    "items": [
-     {
-      "title": "342 getötete Frauen: Gewalt gegen Frauen steigt weiter an",
-      "url": "https://www.zdfheute.de/politik/deutschland/bka-haeusliche-gewalt-opfer-mehrheit-weiblich-100.html",
-      "source": "ZDF",
-      "date": "2026-11-24T13:27+01:00",
-      "teaser": "Schläge vom Partner, sexuelle Übergriffe oder sogar Mord: Jedes Jahr werden Zehntausende Frauen in Deutschland Opfer von Gewalt. Die Zahl erfasster Übergriffe ist 2025 gestiegen."
-     },
-     {
-      "title": "Geschlechtsspezifische Gewalt: Gewalt gegen Frauen nimmt weiter zu",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/geschlechtsspezifische-gewalt-bka-lagebild-frauen",
-      "source": "Zeit",
-      "date": "2026-11-24T11:20+00:00",
-      "teaser": "2025 gab es fast jeden Tag in Deutschland einen Femizid. Aktuelle Zahlen zeigen, dass die Gewalt gegen Frauen im vergangenen Jahr deutlich zugenommen hat."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.71,
     "items": [
      {
       "title": "Berliner Koalition: Brantner: Emdes Ausschluss ist Bedingung für Rot-Grün-Rot",
@@ -307,7 +294,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.45,
+    "score": 3.31,
     "items": [
      {
       "title": "News: Linke, Vanessa Emde, CSU, Markus Söder, Femizid soll ins Strafgesetzbuch",
@@ -327,7 +314,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.41,
+    "score": 2.26,
     "items": [
      {
       "title": "Nachfolge von Hubert Aiwanger: Freie Wähler stellen sich breiter auf",
@@ -347,14 +334,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "Krieg in der Ukraine: Welthungerhilfe: Jeder zehnte Ukrainer unterernährt",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-welthungerhilfe-unterernaehrung-li.3571967",
-      "source": "Süddeutsche",
-      "date": "2026-11-24T13:16+00:00",
-      "teaser": "In den Frontgebieten sei die Ernährungslage besonders kritisch. Schätzungen zufolge werden im Winter 2,5 Millionen Menschen humanitäre Nahrungsmittelhilfe benötigen."
+      "title": "Mannheimer Diakonissenkrankenhaus meldet Insolvenz an",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/mannheimer-diakonissenkrankenhaus-meldet-insolvenz-an-100.html",
+      "source": "SWR",
+      "date": "2026-11-24T15:57+01:00",
+      "teaser": "Das Diako in Mannheim hat Insolvenz angemeldet. Für die rund 1.500 Beschäftigten soll die Situation vorerst unverändert bleiben. Die Suche nach einem neuen Träger läuft."
      }
     ]
    },
@@ -363,11 +350,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Bundeshaushalt 2027: Klingbeil sieht \"wichtige Zukunftsinvestitionen\"",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-24T14:10+01:00",
-      "teaser": "Zu Beginn der Haushaltsberatungen im Bundestag hat Finanzminister Klingbeil den geplanten Rekordetat verteidigt. Es gehe um Spielräume für eine \"gute Zukunft\". Harsche Kritik kommt von der Opposition."
+      "title": "Diebe wüten auf Friedhof: Gedenktafeln und Dachrinne der Leichenhalle geklaut",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/gedenktafeln-von-friedhof-in-vellberg-gestohlen-buergermeister-entsetzt-100.html",
+      "source": "SWR",
+      "date": "2026-11-24T15:56+01:00",
+      "teaser": "Seit der Nacht auf Montag fehlen auf dem Friedhof in Vellberg zahlreiche bronzene Gedenktafeln an den Urnengräbern. Auch die Kupferdachrinne der Leichenhalle wurde gestohlen."
      }
     ]
    },
@@ -376,130 +363,11 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Schutzgeld bis \"Shooter\"-Verleih: So agieren Berlins Banden",
-      "url": "https://www.zdfheute.de/panorama/kriminalitaet/frontal-berlin-bandenkrieg-mord-ohne-grenzen-100.html",
+      "title": "Senegal erhält Afrika-Cup-Titel zurück",
+      "url": "https://www.zdfheute.de/sport/fussball-cas-urteil-afrika-cup-titel-doch-an-senegal-100.html",
       "source": "ZDF",
-      "date": "2026-11-24T14:00+01:00",
-      "teaser": "International agierende Banden ringen um die Macht in der Berliner Unterwelt. Es geht um Drogen, Schutzgelderpressung und Mord. Frontal mit einem exklusiven Einblick ins Milieu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Frankreich: Der Libertäre von der Côte d’Azur",
-      "url": "https://www.sueddeutsche.de/politik/david-lisnard-praesidentschaftskandidat-frankreich-cannes-javier-milei-marine-le-pen-luc-melenchon-li.3584960",
-      "source": "Süddeutsche",
-      "date": "2026-11-24T12:56+00:00",
-      "teaser": "David Lisnard stand als Bürgermeister von Cannes bisher nur bei den Filmfestspielen im Rampenlicht. Jetzt kandidiert er als Präsident und zieht mit seinem staatskritischen Programm in den Umfragen gleich auf Platz drei."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Haushalt 2027: „Das ist schon eine Missachtung des Parlaments“",
-      "url": "https://www.sueddeutsche.de/politik/haushalt-2027-bundeshaushalt-stromsteuer-bundestag-schwarz-rot-li.3584890",
-      "source": "Süddeutsche",
-      "date": "2026-11-24T12:55+00:00",
-      "teaser": "Hohe Schulden und Nickligkeiten prägen die Haushaltsdebatte im Bundestag. Selbst die Regierungsfraktionen finden ihr eigenes Budget „wirklich heftig“."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Nordhein-Westfalen: Unbekannter stürmt Sitzung in Grünen-Büro in Schwerte",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/schwerte-groene-parteibuero-angriff-polizei-krankenhaus-gxe",
-      "source": "Zeit",
-      "date": "2026-11-24T12:46+00:00",
-      "teaser": "Ein Unbekannter attackierte eine Sitzung der Grünen in Nordrhein-Westfalen. Mehrere Menschen kamen in ein Krankenhaus. Der Staatsschutz hat die Ermittlungen übernommen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "source": "ZDF",
-      "date": "2026-11-24T13:51+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Supermond: So nah ist uns der Mond heute Nacht",
-      "url": "https://www.zdfheute.de/video/panorama-supermond-hell-erzgebirge-100.html",
-      "source": "ZDF",
-      "date": "2026-11-24T13:51+01:00",
-      "teaser": "Beim Supermond kommt der Mond der Erde besonders nah. Nur rund 361.000 Kilometer trennen ihn am 24.November von der Erde. Dadurch erscheint er größer und heller als gewöhnlich."
-     }
-    ]
-   }
-  ],
-  "Polen": [
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Ukraina używa już systemu DESNA. Padło pytanie o jego rozmieszczenie w Polsce",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45534811-ukraina-uzywa-juz-systemu-desna-padlo-pytanie-o-jego-rozmieszczenie-w-polsce",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-24T14:16+01:00",
-      "teaser": "Ministrowie obrony Ukrainy i Norwegii, Jewhenij Chmara i Tore O. Sandvik, poinformowali we wtorek w Oslo o opracowaniu nowego systemu antydronowego o nazwie DESNA. Łączy on norweską technologię kierowania ogniem z tanimi, produkowanymi masowo pociskami ukraińskimi i jest już stosowany w walce - doda"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Totalizator toczy walkę z przysłowiowymi wiatrakami, czyli nielegalnymi kasynami",
-      "url": "https://www.rp.pl/ekonomia/art45534511-totalizator-toczy-walke-z-przyslowiowymi-wiatrakami-czyli-nielegalnymi-kasynami",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-24T14:07+01:00",
-      "teaser": "Totalizator Sportowy to w Polsce monopolista, tyle że monopol nie chroni tej spółki Skarbu Państwa przed nieuczciwą konkurencją tak krajową, jak i przede wszystkim zagraniczną. Co więcej, sytuacja jest absurdalna, gdyż legalnie działający Totalizator Sportowy nie może nawet podać nazw swych dwóch ka"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Sondaż: Karol Nawrocki oceniany najlepiej. Gorzej wypadają Sejm i Senat",
-      "url": "https://www.rp.pl/polityka/art45535021-sondaz-karol-nawrocki-oceniany-najlepiej-gorzej-wypadaja-sejm-i-senat",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-24T14:06+01:00",
-      "teaser": "52 proc. respondentów dobrze ocenia działalność prezydenta Karola Nawrockiego – wynika z najnowszego sondażu CBOS. Znacznie gorzej w badaniu wypadają Sejm i Senat, których pracę częściej oceniano negatywnie."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Pat ws. zmian w TK. Kaczyński wywrócił stolik. \"Wiemy, że resetu nie będzie\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,197990,33147905,pat-ws-zmian-w-tk-kaczynski-wywrocil-stolik-wiemy-ze-resetu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-24T13:11+00:00",
-      "teaser": "Prezydenckie konsultacje na temat \"resetu\" w TK to już raczej przeszłość. Nie zanosi się na to, by w najbliższym czasie nastąpiła kolejna runda rozmów w tej sprawie - wynika z ustaleń Gazeta.pl. - Wydaje się, że Jarosław Kaczyński na trwale zaciągnął tutaj hamulec - mówi nam szef klubu PSL Krzysztof"
+      "date": "2026-11-24T15:51+01:00",
+      "teaser": "Nächste Wende im Streit um den Afrika-Cup: Der Internationale Sportgerichtshof CAS hat dem sportlichen Sieger Senegal den Titel wieder zuerkannt und Marokko zum Verlierer erklärt."
      }
     ]
    },
@@ -508,89 +376,11 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Prezes PAŻP: zamykanie nieba to codzienność. W tym roku 40 tys. stref dla wojska",
-      "url": "https://www.rp.pl/transport/art45528881-prezes-pazp-zamykanie-nieba-to-codziennosc-w-tym-roku-40-tys-stref-dla-wojska",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-24T14:00+01:00",
-      "teaser": "Strefy zamykane dla samolotów pasażerskich kilkadziesiąt tysięcy razy w roku, zmiany tras niemal każdego dnia i zagłuszany sygnał GPS – tak od wybuchu wojny w Ukrainie wygląda praca Polskiej Agencji Żeglugi Powietrznej. W piątek, gdy nad Polskę wleciały rosyjskie pociski, kontrolerzy z wieży w Rzesz"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "EBI rozmawia o finansowaniu Portu Polska i elektrowni atomowej",
-      "url": "https://pro.rp.pl/magazyn-o-biznesie/art45533331-ebi-rozmawia-o-finansowaniu-portu-polska-i-elektrowni-atomowej",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-24T14:00+01:00",
-      "teaser": "Bank EBI rozważa finansowanie projektu Port Polska i elektrowni atomowej, trwają rozmowy, mówi w Magazynie o Biznesie Piotr Michałowski, nowy dyrektor biura Grupy Europejskiego Banku Inwestycyjnego w Polsce."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Plotki o spotkaniu Morawieckiego z Tuskiem. Były premier zrzuca winę na PiS. \"Podłe insynuacje\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33147981,plotki-o-spotkaniu-morawieckiego-z-tuskiem-byly-premier-zrzuca.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-24T13:02+00:00",
-      "teaser": "W sieci pojawiły się wpisy sugerujące, że Mateusz Morawiecki spotkał się z Donaldem Tuskiem w Nowym Sączu. Plotkę podał też związany z PiS aktywista Oskar Szafarowicz. - Ani się nie spotkałem (z Tuskiem - red.), ani się nie zamierzam spotkać - powiedział były premier."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Hakerzy ujawnili skalę rosyjskich strat. Ponad 700 tysięcy poległych żołnierzy",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45534821-hakerzy-ujawnili-skale-rosyjskich-strat-ponad-700-tysiecy-poleglych-zolnierzy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-24T13:51+01:00",
-      "teaser": "Dane wykradzione z Rosstatu przez hakerów ujawniają skalę rosyjskich strat w wojnie z Ukrainą. Niezależni dziennikarze zidentyfikowali około 700 tysięcy zgonów rosyjskich żołnierzy. Analizy wskazują na gwałtowny wzrost liczby poległych oraz rosnącą medianę ich wieku."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Rzecznik rządu o wezwaniu ambasadora Rosji do MSZ: To gest, nie ma większego znaczenia",
-      "url": "https://www.rp.pl/polityka/art45534911-rzecznik-rzadu-o-wezwaniu-ambasadora-rosji-do-msz-to-gest-nie-ma-wiekszego-znaczenia",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-24T13:48+01:00",
-      "teaser": "Znacznie skuteczniejszym działaniem jest zawsze działanie dotkliwe - mówił na konferencji prasowej po posiedzeniu rządu jego rzecznik Adam Szłapka odpowiadając na pytanie, czy w związku z naruszeniami przestrzeni powietrznej Polski przez rosyjskie pociski manewrujące oraz drona, MSZ wezwie rosyjskie"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Port Polska z „architektonicznym Oscarem”. Nagroda za projekt lotniska",
-      "url": "https://sukces.rp.pl/architektura/art45534581-port-polska-z-architektonicznym-oscarem-nagroda-za-projekt-lotniska",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-24T13:45+01:00",
-      "teaser": "Projekt Port Polska zdobył nagrodę w konkrusie World Architecture Festival. To dzieło brytyjskiej pracowni Foster + Partners, która współpracuje przy tym projekcie z polskim biurem Kuryłowicz & Associates."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "IMGW ostrzega mieszkańców trzech województw. Najpierw intensywne opady, a nocą do -10 stopni",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33148031,imgw-ostrzega-mieszkancow-trzech-wojewodztw-najpierw-intensywne.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-24T12:49+00:00",
-      "teaser": "Zimowa aura przybiera na sile, a synoptycy wydali ostrzeżenia przed intensywnymi opadami śniegu dla kilku regionów. Niepokojące są również prognozy na najbliższą noc, kiedy temperatura miejscami mocno spadnie."
+      "title": "Blitzeis und glatte Straßen: Hier müssen Autofahrer am Mittwoch aufpassen",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/glatteis-und-schnee-im-land-100.html",
+      "source": "SWR",
+      "date": "2026-11-24T15:51+01:00",
+      "teaser": "Am Mittwoch trifft Regen auf frostige Temperaturen - so kann es in Teilen von Baden-Württemberg schnell zu gefährlichem Glatteis kommen. In höheren Lagen wird zudem Schnee erwartet."
      }
     ]
    },
@@ -599,126 +389,229 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Sąd przedłużył areszt dla Radosława Piesiewicza",
-      "url": "https://www.rp.pl/przestepczosc/art45534971-sad-przedluzyl-areszt-dla-radoslawa-piesiewicza",
+      "title": "Kriminalität: Immer mehr registrierte Straftaten gegen Frauen",
+      "url": "https://www.sueddeutsche.de/politik/straftaten-gegen-frauen-haeusliche-gewalt-sexualstraftaten-statistik-bka-li.3584894",
+      "source": "Süddeutsche",
+      "date": "2026-11-24T14:29+00:00",
+      "teaser": "Höchststand bei häuslicher Gewalt: Für Innenminister Dobrindt sind die Opferzahlen „zutiefst schockierend“. Auffällig ist auch die Entwicklung bei Sexualstraftaten."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Schiri-Boss zieht VAR-Bilanz",
+      "url": "https://www.zdfheute.de/sport/video/weniger-var-eingriffe-bundesliga-100.html",
+      "source": "ZDF",
+      "date": "2026-11-24T15:23+01:00",
+      "teaser": "Der VAR steht seit seiner Einführung nicht nur bei Fans in der Kritik. Nun gibt es Angaben, wie sich die Eingriffe des Videoschiedsrichters entwickelt haben."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Kita-Gap-Portal: Trotz weniger Geburten fehlen Kitaplätze",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/kitaplaetze-mangel-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-24T15:12+01:00",
+      "teaser": "Obwohl in Deutschland weniger Kinder geboren werden, fehlt es weiterhin an Kitaplätzen. Vor allem ärmere und nicht Deutsch sprechende Familien sind betroffen. Große Unterschiede gibt es zwischen Ost und West."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Wenn Reichweite zur Währung wird: Wie Social Media den Leistungssport verändert",
+      "url": "https://www.swr.de/sport/mehr-sport/sport-social-media-vermarktung-reichweite-erfolg-100.html",
+      "source": "SWR",
+      "date": "2026-11-24T15:11+01:00",
+      "teaser": "Erfolge allein reichen häufig nicht mehr. Warum Spitzensportler heute oft zur Marke werden müssen, um Geld mit ihrem Sport zu verdienen und wo sie Grenzen ziehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Hochansteckender Norovirus: Komplette Schule für vier Tage geschlossen",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/norovirus-ausbruch-schule-folgen-102.html",
+      "source": "SWR",
+      "date": "2026-11-24T15:08+01:00",
+      "teaser": "Der Norovirus hat eine ganze Schule lahmgelegt. In Malsch traf es Kinder und Lehrkräfte. Jetzt läuft der Unterricht wieder. Warum in so einem Fall speziell gehandelt werden muss."
+     }
+    ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Policja interweniowała w posiadłości przyszłego króla. Zatrzymano dwóch mężczyzn",
+      "url": "https://www.rp.pl/przestepczosc/art45535861-policja-interweniowala-w-posiadlosci-przyszlego-krola-zatrzymano-dwoch-mezczyzn",
       "source": "Rzeczpospolita",
-      "date": "2026-11-24T13:43+01:00",
-      "teaser": "Sąd Okręgowy w Warszawie przedłużył o trzy miesiące areszt dla byłego prezesa PKOl Radosława Piesiewicza, który usłyszał zarzuty w śledztwie w sprawie Zondacrypto."
+      "date": "2026-11-24T16:07+01:00",
+      "teaser": "Dwóch mężczyzn trafiło do aresztu w związku z podejrzeniem włamania do posiadłości księcia Williama i jego żony Kate - poinformowała we wtorek brytyjska policja."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Poland, Lithuania and Latvia violated rights of migrants sent back to Belarus, finds European court",
+      "url": "https://notesfrompoland.com/2026/11/24/poland-lithuania-and-latvia-violated-rights-of-migrants-sent-back-to-belarus-finds-european-court/",
+      "source": "Notes from Poland",
+      "date": "2026-11-24T15:03+00:00",
+      "teaser": "However, the ECHR also recognised their right to prevent the entry of migrants who have been \"instrumentalised\" by Belarus."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Nie poczekała kilku sekund i straciła prawo jazdy. Nowe przepisy już działają",
+      "url": "https://www.rp.pl/prawo/art45535751-nie-poczekala-kilku-sekund-i-stracila-prawo-jazdy-nowe-przepisy-juz-dzialaja",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-24T16:05+01:00",
+      "teaser": "Od 21 listopada obowiązują surowsze przepisy dotyczące bezpieczeństwa na przejazdach kolejowych. Po zaledwie dwóch dniach od ich wprowadzenia policjanci radomskiej drogówki ukarali mandatem i punktami karnymi 28-latkę, która wjechała na tory, mimo że rogatki nie były całkowicie podniesione. Kobieta "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Nastroje w branży transportowej najniższe od 2020 roku",
+      "url": "https://logistyka.rp.pl/drogowy/art45535841-nastroje-w-branzy-transportowej-najnizsze-od-2020-roku",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-24T15:59+01:00",
+      "teaser": "Branżę gnębią opóźnione płatności i niska rentowność. Mimo to spora grupa przewoźników wymienia tabor, co widać po wysokich statystykach rejestracji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Rosjanin objęty sankcjami ma trafić do kierownictwa MAEA. Ukraina protestuje. \"Absurdalne\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33148520,rosjanin-objety-sankcjami-ma-trafic-do-kierownictwa-maea-ukraina.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-24T15:03+00:00",
+      "teaser": "Minister spraw zagranicznych Ukrainy Andrij Sybiha polecił wystosować oficjalny demarche dyplomatyczny wobec Międzynarodowej Agencji Energii Atomowej (MAEA) oraz przekazać notę protestacyjną w związku z mianowaniem Aleksieja Fierapontowa na stanowisko zastępcy dyrektora generalnego MAEA."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Sektor budowlany w Polsce ma potencjał do realizacji wielkich inwestycji",
+      "url": "https://www.rp.pl/multimedia/art45535831-sektor-budowlany-w-polsce-ma-potencjal-do-realizacji-wielkich-inwestycji",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-24T15:56+01:00",
+      "teaser": "Branża potrzebuje stabilności prawa i wsparcia ze strony prawa oraz wzajemnego zrozumienia. Tak, żeby projektanci, wykonawcy, producenci, dobrze się rozumieli, bo mają jeden cel: chcemy się rozwijać – mówi Henryk Kwapisz, dyrektor ds. relacji instytucjonalnych Grupy Saint-Gobain w Polsce."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Sędzia Igor Zgoliński pokieruje Izbą Karną Sądu Najwyższego. Prezydent podjął decyzję",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45535781-sedzia-igor-zgolinski-pokieruje-izba-karna-sadu-najwyzszego-prezydent-podjal-decyzje",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-24T15:51+01:00",
+      "teaser": "Prezydent Karol Nawrocki powołał sędziego Igora Zgolińskiego na stanowisko Prezesa Sądu Najwyższego kierującego pracą Izby Karnej - poinformowano we wtorek w komunikacie opublikowanym na stronie SN."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Koniec epoki Krzysztofa Pawińskiego w Maspeksie. „Ze spokojem przekazuję stery”",
+      "url": "https://www.rp.pl/biznes/art45534871-koniec-epoki-krzysztofa-pawinskiego-w-maspeksie-ze-spokojem-przekazuje-stery",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-24T15:45+01:00",
+      "teaser": "Zbudował od zera jedną z największych prywatnych grup spożywczych w Europie Środkowej, a teraz po 36 latach schodzi z fotela prezesa. Krzysztof Pawiński, współzałożyciel Maspeksu, od stycznia będzie nadzorował firmę z rady nadzorczej. Codzienne kierowanie wadowickim gigantem, który ma 15,5 mld zł pr"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Ryanair chce inwestować w Niemczech. Stawia jednak warunek",
+      "url": "https://www.dw.com/pl/ryanair-chce-inwestować-w-niemczech-stawia-jednak-warunek/a-80035222?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-24T14:51+00:00",
+      "teaser": "Największe europejskie tanie linie lotnicze zapowiadają duże inwestycje na niemieckim rynku lotniczym, ale stawiają jeden warunek."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Wiceszefowa MON leci do USA. Resort liczy, że Trump nie zmienił zdania ws. bazy w Polsce",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33148487,wiceszefowa-mon-leci-do-usa-resort-liczy-ze-trump-nie-zmienil.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-24T14:44+00:00",
+      "teaser": "Ostateczną decyzję w sprawie utworzenia amerykańskiej bazy w Polsce podejmie Donald Trump. Wiceministerka obrony narodowej, Magdalena Sobkowiak-Czarnecka, podkreśliła, że zgoda na jej powstanie byłaby \"jasnym sygnałem wobec Moskwy, że Amerykanie są obecni i wspomagają Polskę\"."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Prezydent Łotwy: Jeśli Ukraina przetrwa zimę, w 2027 roku możliwy przełom w wojnie",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45535631-prezydent-lotwy-jesli-ukraina-przetrwa-zime-w-2027-roku-mozliwy-przelom-w-wojnie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-24T15:32+01:00",
+      "teaser": "Edgars Rinkēvičs w rozmowie z agencją Reutera stwierdził, że w przyszłym roku może dojść do przełomowego momentu wojny Rosji z Ukrainą, który doprowadzi do porażki Rosji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Sędziowie TK odpowiadają na wezwanie Anny Korwin-Piotrowskiej. Wydali oświadczenie",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45535661-sedziowie-tk-odpowiadaja-na-wezwanie-anny-korwin-piotrowskiej-wydali-oswiadczenie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-24T15:30+01:00",
+      "teaser": "Zastępująca prezesa Trybunału Konstytucyjnego Anna Korwin-Piotrowska wezwała sędziów TK na naradę dotyczącą organizacji pracy i współpracy z asystentami. Jej polecenie spotkało się ze sprzeciwem sześciu tzw. starych sędziów TK, którzy w wydanym oświadczeniu napisali o „bezprawnym zamachu na tajemnic"
      }
     ]
    }
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 3,
-    "score": 5.7,
-    "items": [
-     {
-      "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
-      "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-23T20:07+01:00",
-      "teaser": "Dieser Rücktritt war von kurzer Dauer: Jensen Huang soll zurück an die Spitze des US-Konzerns Nvidia. Präsident Trump rühmt sich damit, Einfluss genommen zu haben. Doch das könnte noch Ärger geben."
-     },
-     {
-      "title": "Nvidia und CEO Jensen Huang: In den USA sind die Tech-Bros jetzt der Staat",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-und-die-anderen-tech-bros-sind-in-den-usa-jetzt-der-staat-a-7adbbe97-8e4c-4d8c-9928-f429f3d494ed#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-24T10:49+01:00",
-      "teaser": "Der Fall Jensen Huang zeigt: Das Silicon Valley ist zu mächtig geworden. Ein paar Unternehmensbosse machen sich die Welt, wie sie ihnen gefällt – auf Kosten des Rechtsstaats."
-     },
-     {
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-23T16:12+00:00",
-      "teaser": "The Nvidia chief executive has been at the centre of the artificial intelligence boom."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.95,
-    "items": [
-     {
-      "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-      "source": "The Guardian",
-      "date": "2026-11-24T12:50+00:00",
-      "teaser": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with China and Trump’s intervention Jensen Hua"
-     },
-     {
-      "title": "The rise and fall and rise again of Jensen Huang",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-23T15:49+00:00",
-      "teaser": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.88,
-    "items": [
-     {
-      "title": "US tech stocks set to slip after blistering rally",
-      "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-24T11:54+00:00",
-      "teaser": "Asian markets rise as investors react to news of Jensen Huang’s reinstatement as Nvidia chief"
-     },
-     {
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-23T21:23+00:00",
-      "teaser": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.86,
-    "items": [
-     {
-      "title": "Ifo-Index steigt: \"Erholung der deutschen Wirtschaft kommt voran\"",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html",
-      "source": "Tagesschau",
-      "date": "2026-11-24T11:28+01:00",
-      "teaser": "In der deutschen Wirtschaft nimmt der Aufschwung weiter Fahrt auf: Die Stimmung hat sich im November den siebten Monat in Folge verbessert. Der ifo-Index erreichte sogar den höchsten Stand seit dem Frühjahr 2023."
-     },
-     {
-      "title": "Ifo-Chef Fuest: „Die Erholung der deutschen Wirtschaft kommt voran, es fehlt jedoch an Breite“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/ifo-geschaeftsklimaindex-steigt-erholung-ohne-breite-accg-201712678.html",
-      "source": "FAZ",
-      "date": "2026-11-24T11:42+00:00",
-      "teaser": "Der Ifo-Index steigt. Die Elektrotechnik und der Maschinenbau führen neben der Verteidigungsbranche die wirtschaftliche Erholung an."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.85,
-    "items": [
-     {
-      "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-      "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
-      "source": "New York Times",
-      "date": "2026-11-24T10:03+00:00",
-      "teaser": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own."
-     },
-     {
-      "title": "Alice Huang: „Siehst du aus wie eine chinesische Spionin?“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/alice-huang-doppelgaengerinnen-wettbewerb-in-new-york-accg-201708910.html",
-      "source": "FAZ",
-      "date": "2026-11-24T11:37+00:00",
-      "teaser": "Alice Huang spielt eine zentrale Rolle im Nvidia-Skandal. In einem Wettbewerb in New York wurden jetzt Doppelgängerinnen von ihr gesucht."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.8,
+    "sourceCount": 4,
+    "score": 7.9,
     "items": [
      {
       "title": "Donald Trump und Nvidia-CEO Jensen Huang: Chronologie einer Männerfreundschaft",
@@ -726,6 +619,13 @@
       "source": "Spiegel",
       "date": "2026-11-24T12:00+01:00",
       "teaser": "Nvidia-Boss Jensen Huang ist zurück, auch dank Donald Trump. Das Team von dessen früherer Gegenspielerin Kamala Harris listet eine Chronologie der Männerfreundschaft auf. Inklusive finanzieller Vorteile des US-Präsidenten."
+     },
+     {
+      "title": "Nvidia: Aufstand der Mächtigen: Wie Trump und die Tech-Branche für das Comeback von Jensen Huang sorgten",
+      "url": "https://www.handelsblatt.com/technik/ki/nvidia-wie-trump-und-big-tech-fuer-das-comeback-von-jensen-huang-sorgten/100272287.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-24T13:27+00:00",
+      "teaser": "Der Nvidia-Chef räumte seinen Posten nach Berichten über mehrere Affären. Dann schaltete sich der US-Präsident ein und Huang kam zurück. Wie es dazu kam – eine Rekonstruktion in sechs Akten."
      },
      {
       "title": "Jensen Huang: Es geht um weit mehr als eine Männerfreundschaft",
@@ -738,27 +638,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.98,
     "items": [
      {
-      "title": "Konjunktur: Ifo-Geschäftsklima steigt auf Höchststand seit Frühjahr 2023",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/konjunktur-ifo-geschaeftsklima-steigt-auf-hoechststand-seit-fruehjahr-2023-a-cfccd10f-85d6-4cab-b772-17222a85e822#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-24T10:33+01:00",
-      "teaser": "In der deutschen Wirtschaft nimmt der Aufschwung Fahrt auf. Das wichtigste deutsche Konjunkturbarometer legte erneut zu, aber dem Aufschwung fehlt es laut dem Ifo-Institut »noch an Breite«."
+      "title": "US tech stocks slide as Jensen Huang return rally fades",
+      "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-24T14:52+00:00",
+      "teaser": "Shares in Anthropic dip below IPO price as investor relief over reinstatement of Nvidia co-founder subsides"
      },
      {
-      "title": "Deutsche Wirtschaft: Ifo-Geschäftsklima steigt auf Höchstwert seit Frühjahr 2023",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/ifo-geschaeftsklima-konjunktur-index-unternehmen-deutschland-gxe",
-      "source": "Zeit",
-      "date": "2026-11-24T11:02+00:00",
-      "teaser": "Die Stimmung der deutschen Wirtschaft hat sich im November den siebten Monat in Folge verbessert. Die Erholung der deutschen Wirtschaft kommt laut dem ifo Institut voran."
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-23T21:23+00:00",
+      "teaser": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.54,
+    "score": 3.4,
     "items": [
      {
       "title": "Rückkehr von Nvidia-Chef: \"Nie dagewesenes Verwischen von Grenzen\"",
@@ -778,7 +678,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.53,
+    "score": 3.38,
     "items": [
      {
       "title": "Nvidia-Skandal: US-Regierung setzt Megaspeed auf schwarze Liste",
@@ -797,15 +697,35 @@
     ]
    },
    {
+    "sourceCount": 2,
+    "score": 2.33,
+    "items": [
+     {
+      "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
+      "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-23T20:07+01:00",
+      "teaser": "Dieser Rücktritt war von kurzer Dauer: Jensen Huang soll zurück an die Spitze des US-Konzerns Nvidia. Präsident Trump rühmt sich damit, Einfluss genommen zu haben. Doch das könnte noch Ärger geben."
+     },
+     {
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-23T16:12+00:00",
+      "teaser": "The Nvidia chief executive has been at the centre of the artificial intelligence boom."
+     }
+    ]
+   },
+   {
     "sourceCount": 1,
     "score": 2.0,
     "items": [
      {
-      "title": "Tarifrunde bei Volkswagen: IG Metall will sich bei VW-Tarifauftakt »keinen Millimeter« bewegen",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/tarifrunde-volkswagen-ig-metall-thorsten-groeger-emden-gxe",
-      "source": "Zeit",
-      "date": "2026-11-24T13:20+00:00",
-      "teaser": "Mitten in der Krise beginnt die Tarifrunde bei Volkswagen. Der Autokonzern hat mit hohen Kosten zu kämpfen und will sparen. Tausende demonstrieren dagegen in Emden."
+      "title": "Öl: Brent-Peise stabilisiert sich nach Vortagsverlusten",
+      "url": "https://www.spiegel.de/wirtschaft/oel-brent-peise-stabilisiert-sich-nach-vortagsverlusten-a-bc31a2d2-29a0-493f-990a-53971fb94289#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-24T16:08+01:00",
+      "teaser": "Vorsichtiger Optimismus bei den Verhandlungen zwischen den USA und Iran hat die Ölpreise zuletzt fallen lassen. Nun zeichnet sich ein erneuter Anstieg beim Brent-Preis ab – die Lage bleibt unsicher."
      }
     ]
    },
@@ -817,8 +737,8 @@
       "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
       "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
       "source": "New York Times",
-      "date": "2026-11-24T13:14+00:00",
-      "teaser": "Markets have veered wildly for days, pushed and pulled by the drama at Nvidia and the record-breaking trading debut of Anthropic."
+      "date": "2026-11-24T15:01+00:00",
+      "teaser": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering."
      }
     ]
    },
@@ -827,11 +747,63 @@
     "score": 1.98,
     "items": [
      {
-      "title": "IW-Studie: Deutschland bleibt der mit Abstand größte EU-Nettozahler",
-      "url": "https://www.handelsblatt.com/politik/international/iw-studie-deutschland-bleibt-der-mit-abstand-groesste-eu-nettozahler/100272316.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-24T13:10+00:00",
-      "teaser": "Der Beitrag ist einer neuen IW-Berechnung zufolge im Jahr 2025 auf 14,9 Milliarden Euro gestiegen. Das meiste Geld geht nach Polen und Rumänien. Deutschland drängt auf Reformen."
+      "title": "Immobilienfinanzierung: So viel Haus kannst du dir leisten",
+      "url": "https://www.zeit.de/geld/2026-11/immobilien-finanzierung-hauskauf-eigenheim",
+      "source": "Zeit",
+      "date": "2026-11-24T14:54+00:00",
+      "teaser": "Der Traum vieler Deutscher: endlich im Eigentum wohnen. Aber wie teuer darf die Immobilie sein? Und wie finanziert man sie?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-24T15:51+01:00",
+      "teaser": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profiteur dessen war offenbar auch US-Präsident Donald Trump - der sich zuvor für den Huang eingesetzt hatte."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Nach Evonik-Absage: BASF bleibt auf der Lauer",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/basf-sucht-nach-evonik-scheitern-weiter-nach-uebernahmezielen-201712927.html",
+      "source": "FAZ",
+      "date": "2026-11-24T14:51+00:00",
+      "teaser": "Übernahmen blieben Teil des Drehbuchs, sagt der Vorstandsvorsitzende von BASF, Markus Kamieth. Intern treibt er den Sparkurs voran."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – business live",
+      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+      "source": "The Guardian",
+      "date": "2026-11-24T14:49+00:00",
+      "teaser": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump over Huang’s return – US politics live Have you downloaded Meta’s AI assistant Muse or do you plan to? Congress to grill Je"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+      "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+      "source": "CNBC",
+      "date": "2026-11-24T14:51+00:00",
+      "teaser": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance."
      }
     ]
    }
@@ -839,49 +811,76 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.95,
+    "score": 7.98,
     "favorite": true,
     "items": [
      {
-      "title": "Juega a la Tanda de Mundo Deportivo y gana dos entradas para el Barça–City",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261124/1004254816/juega-tanda-mundo-deportivo-gana-dos-entradas-barca-city.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-24T13:49+01:00",
-      "teaser": "Mundo Deportivo ya tiene su propia Tanda. Desde hoy, cualquier aficionado puede entrar en la Tanda de Mundo Deportivo, dentro de la aplicación Feeberse Score, y competir en ella durante toda la temporada. Mundo Deportivo se convierte así en el primer medio que abre su propia Tanda en Feeberse Score "
+      "title": "Stuttgarts Leihspieler Catovic verletzt sich im Barca-Trikot schwer",
+      "url": "https://www.kicker.de/stuttgarts-leihspieler-catovic-verletzt-sich-im-barca-trikot-schwer-1274625/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-24T14:54+00:00",
+      "teaser": "Mirza Catovic gelang im Sommer noch nicht der Sprung von der Drittliga-Reserve in die Bundesliga-Elf des VfB Stuttgart. Daher entschied sich der Sechser, im Unterbau des FC Barcelona Erfahrungen zu sammeln, doch damit ist es jetzt erst mal vorbei."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.9,
+    "score": 7.98,
     "favorite": true,
     "items": [
      {
-      "title": "Las condiciones meteorológicas que aguardan al Barça",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261124/1004254899/condiciones-meteorologicas-aguardan-barca.html",
+      "title": "Rueda de Prensa de Flick y De Jong | Última hora del FC Barcelona en la Champions League",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261124/1004254039/rueda-prensa-flick-jugador-ultima-hora-fc-barcelona-champions-league.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-24T13:14+01:00",
-      "teaser": "Las condiciones meteorológicas pueden ser otro escollo para el Barcelona, además del largo viaje y las ganas de dar la campanada del modesto Sabah , debutante en Champions. Sin embargo, el fuerte viento que soplará a lo largo del día y que ya ha soplado hoy, en la previa, habrá amainado a la hora de"
+      "date": "2026-11-24T15:53+01:00",
+      "teaser": ""
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.89,
+    "score": 7.97,
     "favorite": true,
     "items": [
      {
-      "title": "El Barça Atlètic se jugará el liderato ante el Terrassa",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261124/1004254862/belletti-juega-liderato-terrassa.html",
+      "title": "\"Si necesitas motivar a los jugadores contra el Barça, son los jugadores equivocados\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261124/1004254966/necesitas-motivar-jugadores-barca-son-jugadores-equivocados.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-24T13:05+01:00",
-      "teaser": "El Barça Atlètic de Juliano Belletti recibirá el sábado (17.30 horas) en la jornada 13 del Grupo 2 de Segunda RFEF al Terrassa FC , segundo clasificado, en un pulso con el liderato en juego. Tras el 0-0 del pasado sábado en el pulso de filiales ante el Espanyol B en la Ciutat Esportiva Dani Jarque ,"
+      "date": "2026-11-24T15:50+01:00",
+      "teaser": "Valdas Dambrauskas , entrenador del Sabah, considera que \"incluso dando el 100% puede no ser suficiente\" para lograr nun buen resultado ante el Barcelona. Consciente de sus posibilidades, Dambrauskas asegura que \"no debemos mostrar miedo, porque es una oportunidad para nosotros\". Tiene claro que \"es"
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 4.65,
+    "score": 5.99,
+    "items": [
+     {
+      "title": "CAS-Urteil: Senegal ist Sieger des Afrika Cups 2025",
+      "url": "https://www.kicker.de/cas-urteil-senegal-ist-sieger-des-afrika-cups-2025-1274626/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-24T14:59+00:00",
+      "teaser": "Senegal heißt der Sieger des Afrika Cups 2025. Am Donnerstag fällte der Internationale Sportgerichtshof (CAS) ein Urteil über den fast ein Jahr lang andauerten Rechtsstreit, das Votum fiel für die Westafrikaner aus."
+     },
+     {
+      "title": "CAS-Urteil: Senegal erhält Afrika-Cup-Titel nach Skandal-Finale zurück",
+      "url": "https://www.faz.net/aktuell/sport/fussball/cas-urteil-senegal-statt-marokko-sieger-bei-afrika-cup-2026-201713620.html",
+      "source": "FAZ",
+      "date": "2026-11-24T14:38+00:00",
+      "teaser": "Im Streit um den Afrika-Cup gibt es die nächste Wende: Der Internationale Sportgerichtshof CAS erkennt dem sportlichen Sieger Senegal den Titel wieder zu und erklärt Gastgeber Marokko zum Verlierer."
+     },
+     {
+      "title": "Finale des Afrika-Cups: Senegal erhält nach Urteil des Cas Afrika-Cup-Titel zurück",
+      "url": "https://www.zeit.de/sport/2026-11/afrika-cup-finale-cas-senegal-marokko-caf-gxe",
+      "source": "Zeit",
+      "date": "2026-11-24T14:54+00:00",
+      "teaser": "Der Internationale Sportgerichtshof Cas erklärt den Senegal zum Gewinner des Afrika-Cups 2027. Damit widerruft er eine Entscheidung des Afrikanischen Fußballverbandes."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 4.5,
     "items": [
      {
       "title": "Ann-Katrin Berger: Nationaltorhüterin wechselt vom US-Club Gotham FC zu Union Berlin",
@@ -908,7 +907,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.82,
     "items": [
      {
       "title": "‘I’m loving it at Brugge’: Freddie Potts on going from West Ham’s bench to Champions League",
@@ -928,7 +927,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.76,
     "items": [
      {
       "title": "Crystal Palace docked three WSL points for extra substitution against Everton",
@@ -938,7 +937,7 @@
       "teaser": "Too many substitutes used during win in opening game They drop place to 13th but no extra points for Everton Crystal Palace have been deducted three points in the Women’s Super League after they made substitutions in four separate windows during their 1-0 victory over Everton in September. Palace ad"
      },
      {
-      "title": "Palace docked points for using four sub windows in win",
+      "title": "Palace docked points for using four sub windows in WSL win",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "date": "2026-11-24T12:14+00:00",
@@ -948,27 +947,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
-      "url": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
-      "source": "The Guardian",
-      "date": "2026-11-24T11:31+00:00",
-      "teaser": "Our cartoonist on a nightmare start for the Argentinian as he took charge of the Premier League’s biggest crisis club Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading..."
-     },
-     {
-      "title": "Manchester United in der Krise: Too big to fail?",
-      "url": "https://www.11freunde.de/international/premier-league/manchester-united-in-der-krise-too-big-to-fail-a-6bda36fa-9d91-429b-b53b-31366ace8f07#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-24T10:09+01:00",
-      "teaser": "Tommy Docherty stürzte 1974 als Trainer mit Manchester United in die 2. Liga ab. Nach dem jüngsten 0:4 in Liverpool geht die Angst um, dass Neu-Trainer Mauricio Pochettino zu „Pocherty“ werden könnte."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.55,
+    "score": 3.4,
     "items": [
      {
       "title": "De Bruyne’s Napoli return will remind Manchester City what they are missing",
@@ -988,7 +967,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.53,
+    "score": 2.38,
     "items": [
      {
       "title": "Live hören: Die Konferenz | Fußball Champions League",
@@ -1001,7 +980,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.41,
+    "score": 2.27,
     "items": [
      {
       "title": "Fußball-Weltverband: FIFA vergibt WM-Endrunden der Frauen für 2031 und 2035",
@@ -1020,83 +999,36 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 2.05,
+    "sourceCount": 1,
+    "score": 2.0,
     "items": [
      {
-      "title": "Lennart Karl: »Bin keine sehr, sehr schlaue Person im ganzen Leben«",
-      "url": "https://www.spiegel.de/sport/fussball/lennart-karl-bayern-profi-ohne-plan-b-bin-keine-sehr-sehr-schlaue-person-im-ganzen-leben-a-024722c9-3f79-4889-8005-6ee1259a7d56#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-23T11:12+01:00",
-      "teaser": "Lennart Karl ist ein begnadeter Fußballer. Doch was wäre gewesen, wenn es nicht geklappt hätte? »Ich hatte keinen Plan B«, sagt der Bayern-Profi – und spricht humorvoll und selbstkritisch über sein intellektuelles Leistungsvermögen."
-     },
-     {
-      "title": "Lennart Karl vom FC Bayern: „Ich bin keine sehr, sehr schlaue Person im ganzen Leben“",
-      "url": "https://www.11freunde.de/bundesliga/fc-bayern-muenchen-lennart-karl-ich-bin-keine-sehr-sehr-schlaue-person-im-ganzen-leben-a-7896c8e2-f1fc-4c3e-856b-59bf71e49dac#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-23T15:03+01:00",
-      "teaser": "Als Fußballer verfügt Lennart Karl über herausragende Fähigkeiten. Und das ist wohl auch ganz gut so, wie er nun selbstkritisch einräumt."
+      "title": "Senegal reinstated as Afcon 2025 winners by court ruling",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-24T15:07+00:00",
+      "teaser": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 2.0,
     "items": [
      {
-      "title": "Okon-Engstler zu seinen Deutsch-Kenntnissen: \"Mein Opa will, dass ich es lerne\"",
-      "url": "https://www.kicker.de/okon-engstler-zu-seinen-deutsch-kenntnissen-mein-opa-will-dass-ich-es-lerne-1274594/video#omrss",
-      "source": "kicker",
-      "date": "2026-11-24T13:03+00:00",
-      "teaser": "Kölns australischer Mittelfeldspieler Paul Okon-Engstler spricht im Interview über seinen Spielstil und Position. Überrascht ist der 21-Jährige von der Frage nach seinem Deutsch."
+      "title": "Biathlon: Puff verpasst erkrankt den Saisonstart",
+      "url": "https://www.sportschau.de/wintersport/biathlon-puff-verpasst-erkrankt-saisonstart,liveblog-wintersport-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-24T16:06+01:00",
+      "teaser": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27."
      }
     ]
    }
   ],
   "Tech & KI": [
    {
-    "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "Google alternative Kagi launches an email service",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "source": "The Verge",
-      "date": "2026-11-23T19:02-05:00",
-      "teaser": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Ka"
-     },
-     {
-      "title": "Google-Alternative: Kagi bringt E-Mail-Dienst mit Privacy-Funktionen",
-      "url": "https://www.golem.de/news/google-alternative-kagi-bringt-e-mail-dienst-mit-privacy-funktionen-2611-215577.html",
-      "source": "Golem",
-      "date": "2026-11-24T12:27+01:00",
-      "teaser": "Kagi Mail soll bei der Organisation von E-Mails helfen und einen verbesserten Datenschutz bieten. Umsonst ist der Dienst aber nicht. ( E-Mail , CalDAV )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.35,
-    "items": [
-     {
-      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-      "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-      "source": "New York Times",
-      "date": "2026-11-24T05:39+00:00",
-      "teaser": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision."
-     },
-     {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-23T23:16+00:00",
-      "teaser": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.01,
+    "sourceCount": 3,
+    "score": 5.98,
     "items": [
      {
       "title": "Trump engineered a risky comeback for Jensen Huang",
@@ -1111,12 +1043,39 @@
       "source": "New York Times",
       "date": "2026-11-23T23:18+00:00",
       "teaser": "It was a rare instance of the G.O.P. pushing back on the president and threatening to use its oversight and legislative power to challenge his administration’s approach."
+     },
+     {
+      "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+      "source": "Ars Technica",
+      "date": "2026-11-24T14:56+00:00",
+      "teaser": "Huang’s allies enlisted Trump and Vance to pressure Nvidia’s board into taking him back."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 2.67,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+      "source": "New York Times",
+      "date": "2026-11-24T14:17+00:00",
+      "teaser": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision."
+     },
+     {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-23T23:16+00:00",
+      "teaser": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.52,
     "items": [
      {
       "title": "Nvidia setzt Jensen Huang wieder als CEO ein",
@@ -1136,14 +1095,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "Anzeige: Akkuschrauber mit 20 Bits zum Black Friday erstmals unter 50 Euro bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-akkuschrauber-mit-20-bits-zum-black-friday-erstmals-unter-50-euro-bei-amazon-2611-215586.html",
+      "title": "Statt Palantir: NRW setzt künftig deutsche Polizei-Software ein",
+      "url": "https://www.golem.de/news/statt-palantir-nrw-setzt-kuenftig-deutsche-polizei-software-ein-2611-215593.html",
       "source": "Golem",
-      "date": "2026-11-24T14:17+01:00",
-      "teaser": "Der Fanttik S2 Pro schraubt mit sieben Drehmomentstufen vom Smartphone bis zum Schrank und ist zum Black Friday so günstig wie nie. ( Technik/Hardware , Amazon )"
+      "date": "2026-11-24T15:53+01:00",
+      "teaser": "Zwischenzeitlich sah es so aus, als wollte NRW keine Alternative zu Palantir finden. Doch nun hat ein deutscher Anbieter den Zuschlag erhalten. ( Polizei , Security )"
      }
     ]
    },
@@ -1152,76 +1111,37 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Vertix 4: Coros erneuert einen der wichtigsten Fenix-Konkurrenten",
-      "url": "https://www.golem.de/news/vertix-4-coros-erneuert-einen-der-wichtigsten-fenix-konkurrenten-2611-215587.html",
+      "title": "Anzeige: Logitech-Tastatur MX Keys S am Black Friday zum Sensationspreis auf Amazon",
+      "url": "https://www.golem.de/news/anzeige-logitech-tastatur-mx-keys-s-am-black-friday-zum-sensationspreis-auf-amazon-2611-215588.html",
       "source": "Golem",
-      "date": "2026-11-24T14:05+01:00",
-      "teaser": "Taschenlampe, schnelle Karten, AMOLED: Coros hat die auf Outdoor spezialisierte Vertix 4 vorgestellt. Der Akku soll einen Monat durchhalten. ( Coros , Amoled )"
+      "date": "2026-11-24T14:47+01:00",
+      "teaser": "Zum Black Friday gibt es nicht nur die Tastatur MX Keys S besonders günstig. Auch die Logitech-Maus MX Master gibt es zum Amazon-Tiefstpreis. ( Black Friday , Amazon )"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.96,
     "items": [
      {
-      "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
-      "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
-      "source": "The Verge",
-      "date": "2026-11-24T08:00-05:00",
-      "teaser": "Uber's high-stakes robotaxi bet is officially ditching its human safety net. Nuro, Lucid, and Uber are starting fully driverless public road testing in the San Francisco Bay Area, with employee-only rides launching shortly after. First announced in July 2025, this three-way alliance represents Uber'"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "(g+) Post-Quanten-Kryptografie: Wie Admins ihre IT-Infrastruktur quantensicher machen",
-      "url": "https://www.golem.de/news/post-quanten-kryptografie-wie-admins-ihre-it-infrastruktur-quantensicher-machen-2611-215584.html",
+      "title": "Nahe deutscher Grenze: BYD will Automobilwerk in Frankreich übernehmen",
+      "url": "https://www.golem.de/news/nahe-deutscher-grenze-byd-will-automobilwerk-in-frankreich-uebernehmen-2611-215592.html",
       "source": "Golem",
-      "date": "2026-11-24T13:50+01:00",
-      "teaser": "Der quantensichere Schlüsselaustausch läuft in Browsern, Bibliotheken und SSH längst mit, oft ohne Zutun der Admins. Bei Signaturen, VPNs und E-Mail sieht es düsterer aus. Was heute geht, wo es klemmt und was es kostet. Ein Ratgebertext von Marvin Sprey ( Post-Quanten-Kryptografie , Verschlüsselung "
+      "date": "2026-11-24T15:38+01:00",
+      "teaser": "Unweit der Grenze zu Deutschland will BYD eine Autofabrik kaufen. Mit in der EU produzierten Fahrzeugen würden Zölle umgangen. ( BYD , Elektroauto )"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.96,
     "items": [
      {
-      "title": "Anzeige: Elektrischer Schimmelentferner für die Wand zum Tiefstpreis bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-elektrischer-schimmelentferner-fuer-die-wand-zum-tiefstpreis-bei-amazon-2611-215585.html",
-      "source": "Golem",
-      "date": "2026-11-24T13:32+01:00",
-      "teaser": "Amazon hat den Schimmelentferner Elias Schimmel Dry im Angebot, der die Ursachen von Schimmel an der Wand ohne Chemie mit Infrarot bekämpft. ( Technik/Hardware , Black Friday )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Smarte Schwimmbrille im Test: Kann ein KI-Coach meinen Freistil retten?",
-      "url": "https://t3n.de/news/smarte-schwimmbrille-im-test-kann-ein-ki-coach-meinen-freistil-retten-1774277/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "title": "Black Friday: Diese 9 Fritzboxen, Repeater und Co. sind wirklich günstig",
+      "url": "https://t3n.de/news/black-friday-fritzbox-repeater-thermostat-dect-1775043/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n",
-      "date": "2026-11-24T13:32+01:00",
-      "teaser": "Eine Schwimmbrille für jederfrau oder -mann, die Bahnen zählt, Zeiten überwacht und gegen Aufpreis das Schwimmtraining managt: Das jedenfalls verspricht die Sma weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "8 Best Espresso Machines for Home (2026), Tested by Coffee Pros",
-      "url": "https://www.wired.com/gallery/best-espresso-machines/",
-      "source": "Wired",
-      "date": "2026-11-24T12:32+00:00",
-      "teaser": "The best espresso makers can turn your kitchen into a café and help you hone the art of the perfect shot."
+      "date": "2026-11-24T15:40+01:00",
+      "teaser": "Rund um den Black Friday reduzieren viele Anbieter die Preise auf Fritzboxen und passendes Zubehör. Wie gut sind die Preise für Router, Repeater und Smarthome-Zubehör? Wir machen den Check. weiterlesen auf t3n.de"
      }
     ]
    },
@@ -1230,11 +1150,63 @@
     "score": 1.92,
     "items": [
      {
-      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "source": "Ars Technica",
-      "date": "2026-11-24T12:30+00:00",
-      "teaser": "The Cairn AI framework is proving to be a boon for defenders and attackers."
+      "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
+      "url": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-24T09:13-05:00",
+      "teaser": "Harman Kardon’s alien-looking SoundSticks became synonymous with the Mac in the early 2000s, and they sounded pretty great. But did you know the company still makes them? After selling steadily for $300 for several years and then spiking to $330 in recent months, the last-gen version of the iconic t"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Nach Microsoft-Ausfall: So abhängig ist die deutsche Verwaltung von Outlook, Teams und Co.",
+      "url": "https://t3n.de/news/microsoft-teams-outlook-ausfall-deutsche-politik-exchange-1774968/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-24T15:05+01:00",
+      "teaser": "Die Ausfälle von Outlook, Teams und Co. haben in manchen Firmen für Chaos gesorgt. Aber wie stark war die deutsche Politik betroffen? Wir haben nachgefragt. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
+      "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
+      "source": "The Verge",
+      "date": "2026-11-24T09:00-05:00",
+      "teaser": "Three weeks ago, Bambu Lab introduced the state of the art in home printing tech at $2,499 - now, you can get many of its fancy new features for less than half the price. Like that bigger H3C, the new $1,149 Bambu P3C can also swap between materials on the fly, mix different colors to […]"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "Änderungen im Bildungssystem gefordert: Deutschland verliert immer mehr MINT-Nachwuchs",
+      "url": "https://www.golem.de/news/aenderungen-im-bildungssystem-gefordert-deutschland-verliert-immer-mehr-mint-nachwuchs-2611-215589.html",
+      "source": "Golem",
+      "date": "2026-11-24T14:35+01:00",
+      "teaser": "In Deutschland fehlen nicht nur Akademiker im MINT-Bereich, sondern auch Meister und Techniker. ( Mint , Wirtschaft )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.86,
+    "items": [
+     {
+      "title": "Browser auf dem iPhone: Warum Mozilla und 55.000 andere Unternehmen die EU auffordern, gegen Apple vorzugehen",
+      "url": "https://t3n.de/news/browser-auf-dem-iphone-warum-mozilla-und-55-000-andere-unternehmen-die-eu-auffordern-gegen-apple-vorzugehen-1774997/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-24T14:30+01:00",
+      "teaser": "Mozilla, Shopify und bis zu 55.000 weitere Firmen verlangen von der EU-Kommission, gegen Apple vorzugehen. Der Vorwurf: Das Unternehmen blockiere alternative Browser-Technik auf iPhone und iPad – trotz klarer Vorgaben aus Brüssel. weiterlesen auf t3n.de"
      }
     ]
    }
@@ -1305,7 +1277,7 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "topic": "Welt & Politik",
@@ -1413,7 +1385,7 @@
    "topic": "Polen",
    "source": "Notes from Poland",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Polen",
@@ -1521,7 +1493,7 @@
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 3
+   "items": 5
   },
   {
    "topic": "Sport",
