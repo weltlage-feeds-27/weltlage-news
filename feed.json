@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-25T21:02:36+00:00",
+ "fetchedAt": "2026-11-25T22:02:34+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.98,
+    "score": 7.89,
     "items": [
      {
       "title": "In boost for Netanyahu, judges question corruption trial charges",
@@ -31,7 +31,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.75,
+    "score": 5.66,
     "items": [
      {
       "title": "Israeli strike kills Hamas official, his wife and children",
@@ -58,7 +58,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.51,
+    "score": 5.42,
     "items": [
      {
       "title": "Liveblog Ukrainekrieg: Polen will Flugverbotszone an Grenze zur Ukraine einrichten",
@@ -85,7 +85,47 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+      "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+      "source": "New York Times",
+      "date": "2026-11-25T17:00+00:00",
+      "teaser": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination."
+     },
+     {
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T21:51+00:00",
+      "teaser": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Fuel tanker crash on major Cairo highway kills at least 30",
+      "url": "https://www.abc.net.au/news/2026-11-26/egypt-deadly-fuel-tanker-crash-cairo-highway/107428222",
+      "source": "ABC Australia",
+      "date": "2026-11-25T21:04+00:00",
+      "teaser": "There are fears the death toll could rise after the crash, which also injured dozens of people and left cars and motorcycles charred."
+     },
+     {
+      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T21:25+00:00",
+      "teaser": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.89,
     "items": [
      {
       "title": "New photos reveal stadium-sized crater in asteroid knocked off course by NASA",
@@ -105,27 +145,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.89,
+    "score": 3.82,
     "items": [
      {
-      "title": "WATCH: Army carries out controlled detonation of Iowa lead azide stockpile amid concerns",
-      "url": "https://www.pbs.org/newshour/nation/watch-live-army-expected-to-carry-out-controlled-detonation-of-iowa-lead-azide-stockpile",
-      "source": "PBS NewsHour",
-      "date": "2026-11-25T09:38-05:00",
-      "teaser": "The U.S. Army intentionally blew up the nation's entire stockpile of lead azide at an ammunition plant in southeastern Iowa on Wednesday after officials said the 5 tons of degraded bomb-making materials were at risk of exploding uncontrollably as temperatures cooled."
+      "title": "US Army detonates lead-based explosives in Iowa despite fears of toxic dust",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375808/us-army-carries-out-controlled-blast-unstable-lead-azide-iowa-town",
+      "source": "South China Morning Post",
+      "date": "2026-11-25T15:48+00:00",
+      "teaser": "The US government on Wednesday ⁠conducted its planned detonation of an ageing stockpile of lead-based explosives at a US Army munitions depot, as residents of an adjacent tiny Iowa farm town hunkered down in their homes to avoid any toxic dust emitted from the blast. The Environmental Protection Age"
      },
      {
-      "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
-      "url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-25T19:41+00:00",
-      "teaser": "Army hails Iowa's lead azide disposal operation as some experts warn of potentially hidden toxins."
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T19:54+00:00",
+      "teaser": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.8,
     "items": [
      {
       "title": "Proteste gegen Gewalt an Frauen in Istanbul verboten",
@@ -139,33 +179,13 @@
       "url": "https://www.spiegel.de/ausland/tuerkei-istanbul-verbietet-proteste-gegen-gewalt-an-frauen-a-7536cb86-b75e-44bb-a599-ac7f7c949cfb#ref=rss",
       "source": "Spiegel",
       "date": "2026-11-25T18:14+01:00",
-      "teaser": "Frauenrechtsorganisationen wollten in der türkischen Hauptstadt demonstrieren, sie halten die Strafverfolgung bei Femiziden für unzureichend. Die Stadt reagiert mit einem Versammlungsverbot."
+      "teaser": "Frauenrechtsorganisationen wollten in der türkischen Metropole Istanbul demonstrieren, sie halten die Strafverfolgung bei Femiziden für unzureichend. Die Stadt reagiert mit einem Versammlungsverbot."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
-    "items": [
-     {
-      "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
-      "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
-      "source": "New York Times",
-      "date": "2026-11-25T17:00+00:00",
-      "teaser": "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination."
-     },
-     {
-      "title": "North Korea expels Swiss diplomat in sanctions row",
-      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-25T19:19+00:00",
-      "teaser": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.78,
     "items": [
      {
       "title": "Poland says will create no-fly zone at Ukraine border after repeated airspace violations",
@@ -185,7 +205,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.85,
+    "score": 3.77,
     "items": [
      {
       "title": "US unveils proposed tariffs on major partners, including EU and China",
@@ -205,27 +225,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.85,
-    "items": [
-     {
-      "title": "Ukrainian combat laser intercepts Russian jet-powered drone for first time",
-      "url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-25T17:47+00:00",
-      "teaser": "So far, persistent cloud cover and fog over Kyiv had reportedly prevented the system from engaging Russian drones effectively."
-     },
-     {
-      "title": "Ukrainian laser downs Russian jet-powered drone in world first",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-25T19:16+00:00",
-      "teaser": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.75,
     "items": [
      {
       "title": "Libyan army says 2 officers were killed in Ukraine's attack on Russian warship",
@@ -245,7 +245,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.65,
     "items": [
      {
       "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
@@ -267,7 +267,7 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.85,
     "items": [
      {
       "title": "Deutschland Liveblog: Unionspolitiker schlagen Kompromiss im Rentenstreit vor",
@@ -287,7 +287,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.78,
     "items": [
      {
       "title": "Rente mit 63: Union bietet SPD Kompromiss für Geringverdiener an",
@@ -307,7 +307,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.66,
+    "score": 3.58,
     "items": [
      {
       "title": "Was über die rechtsextremistische Gruppe \"Terror 18\" bekannt ist",
@@ -327,7 +327,59 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Rente mit 63: CDU schlägt abschlagsfreie Rente für Bezieher geringer Einkommen vor",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/rente-mit-63-cdu-bundestag-abgeordnete-abschaffung",
+      "source": "Zeit",
+      "date": "2026-11-25T21:30+00:00",
+      "teaser": "Die Union geht im Rentenstreit auf die SPD zu. Laut ihrem Vorschlag soll die Rente nach 45 Beitragsjahren für Menschen mit unterdurchschnittlichem Einkommen bleiben."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Regierungsbildung in Berlin: Franziska Giffey sieht mit Ausschluss von Vanessa Emde keine Lösung mit Linken",
+      "url": "https://www.spiegel.de/politik/deutschland/regierungsbildung-in-berlin-franziska-giffey-sieht-mit-ausschluss-von-vanessa-emde-keine-loesung-mit-linken-a-19e6423b-d6dd-4769-a1c5-e9eabe7a0350#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-25T22:14+01:00",
+      "teaser": "Die umstrittene Berliner Abgeordnete Vanessa Emde gehört nicht mehr zur Linke-Fraktion. Für Franziska Giffey ein »symbolischer Schritt« – er reiche aber nicht für eine Koalition von Rot-Rot-Grün."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Kompromissvorschlag der Union: Bewegung im Renten-Streit",
+      "url": "https://www.zdfheute.de/politik/deutschland/rente-63-vorschlag-union-100.html",
+      "source": "ZDF",
+      "date": "2026-11-25T22:13+01:00",
+      "teaser": "Aus der Unionsfraktion kommt ein Vorschlag, um den gordischen Knoten im Streit bei der \"Rente mit 63\" zu lösen. Die SPD reagiert zunächst skeptisch auf das überraschende Angebot."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Protest in Berlin: Linke blockieren Veranstaltung mit Ex-Mossad-Chef im Bundestag",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/mossad-david-barnea-bundestag-linksfraktion-blockade-gxe",
+      "source": "Zeit",
+      "date": "2026-11-25T21:03+00:00",
+      "teaser": "Zwei Bundestagsabgeordnete der Linken haben kurzzeitig den Zugang zu einem Treffen mit David Barnea versperrt. Jetzt soll sich der Ältestenrat mit dem Vorfall befassen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "Streit um \"Rente mit 63\": Unionsabgeordnete schlagen \"Respekt-Rente\" vor",
@@ -340,20 +392,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Rente mit 63: CDU schlägt abschlagsfreie Rente für Bezieher geringer Einkommen vor",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/rente-mit-63-cdu-bundestag-abgeordnete-abschaffung",
-      "source": "Zeit",
-      "date": "2026-11-25T20:44+00:00",
-      "teaser": "Die Union geht im Rentenstreit auf die SPD zu. Laut ihrem Vorschlag soll die Rente nach 45 Beitragsjahren für Menschen mit unterdurchschnittlichem Einkommen bleiben."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Russland: »Putin kann keinen Krieg führen wie Stalin« Sönke Neitzel und Hanna Notte im SPIEGEL-Talk",
@@ -366,7 +405,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Sicherheit auf Weihnachtsmärkten: BW-Innenminister sieht sich auf \"ernste\" Lage vorbereitet",
@@ -379,7 +418,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Besuch in der Ukraine: Magyar zeigt, wie man ungarische Interessen wirkungsvoll vertritt",
@@ -392,7 +431,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.84,
     "items": [
      {
       "title": "Studium: Zu viele Hochschulen bieten Islamische Theologie an",
@@ -402,91 +441,38 @@
       "teaser": "Vor einigen Jahren wurden die ersten Institute für Islamische Theologie geschaffen. Was wurde seither erreicht?"
      }
     ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Co ze stałą bazą wojsk USA w Polsce? Wskazano termin decyzji Białego Domu",
+      "url": "https://www.rp.pl/polityka/art45544751-co-ze-stala-baza-wojsk-usa-w-polsce-wskazano-termin-decyzji-bialego-domu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-25T22:57+01:00",
+      "teaser": "Wiceminister obrony narodowej Paweł Zalewski powiedział w środę PAP, że oczekuje decyzji Białego Domu w sprawie stałej dyslokacji wojsk USA w Polsce najwcześniej na przełomie roku. Zaznaczył, że nie ma mowy o żadnym opóźnieniu."
+     }
+    ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.94,
     "items": [
      {
-      "title": "US-Armee sprengt gefährliche Chemikalien",
-      "url": "https://www.zdfheute.de/video/us-armee-sprengt-chemikalien-video-100.html",
-      "source": "ZDF",
-      "date": "2026-11-25T21:07+01:00",
-      "teaser": "Die US-Armee hat 68 Bleiazid-Fässer kontrolliert gesprengt. Alles sei zerstört worden. Die gefährlichen Chemikalien sollten dem Bau von Bomben dienen und lagerten über 20 Jahre."
+      "title": "Cielecka i Linda oskarżeni ws. reklam alkoholu. Wkrótce wyrok",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33151005,cielecka-i-linda-oskarzeni-ws-reklam-alkoholu-wkrotce-wyrok.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-25T21:20+00:00",
+      "teaser": "7 grudnia ma zapaść wyrok w procesie aktorów Bogusława Lindy i Magdaleny Cieleckiej. Prokuratura zarzuciła im nielegalną reklamę alkoholu. Na ławie oskarżonych znalazły się też cztery inne osoby, które odpowiadają za zlecenie reklamy napojów alkoholowych na portalach społecznościowych."
      }
     ]
    },
    {
     "sourceCount": 1,
     "score": 1.91,
-    "items": [
-     {
-      "title": "Sie war Deutschlands erstes Supermodel: Veruschka ist tot",
-      "url": "https://www.zdfheute.de/panorama/prominente/veruschka-graefin-von-lehndorff-supermodel-gestorben-100.html",
-      "source": "ZDF",
-      "date": "2026-11-25T16:49+01:00",
-      "teaser": "Sie war Deutschlands erstes Supermodel: Veruschka Gräfin von Lehndorff. Nun ist Lehndorff, die auch Künstlerin und Schauspielerin war, im Alter von 87 Jahren gestorben."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Rechtsterrorismus: Bundesanwaltschaft lässt mutmaßliche Rechtsterroristen festnehmen",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundesanwaltschaft-laesst-mutmassliche-rechtsterroristen-festnehmen",
-      "source": "Zeit",
-      "date": "2026-11-25T19:40+00:00",
-      "teaser": "Drei Teenager sind unter dem Verdacht festgenommen worden, einer rechtsextremistischen terroristischen Gruppe anzugehören. Sie sollen geplant haben, Ausländer zu töten."
-     }
-    ]
-   }
-  ],
-  "Polen": [
-   {
-    "sourceCount": 2,
-    "score": 3.83,
-    "items": [
-     {
-      "title": "Święczkowski w Parlamencie Europejskim. \"Jestem prezesem na uchodźstwie\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33150517,swieczkowski-w-parlamencie-europejskim-jestem-prezesem-na.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-25T15:05+00:00",
-      "teaser": "- Szczerze mówiąc, nie przyszło mi do głowy, że ktoś będzie próbował na pałkach policyjnych wejść do Trybunału Konstytucyjnego - przekonywał w środę w Parlamencie Europejskim w Strasburgu zawieszony prezes TK Bogdan Święczkowski. Wziął udział w wysłuchaniu w sprawie sytuacji wokół Trybunału Konstytu"
-     },
-     {
-      "title": "Święczkowski w Parlamencie Europejskim: Jestem prezesem TK na uchodźstwie",
-      "url": "https://www.rp.pl/polityka/art45544431-swieczkowski-w-parlamencie-europejskim-jestem-prezesem-tk-na-uchodzstwie",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-25T20:03+01:00",
-      "teaser": "Bogdan Święczkowski oskarżył polskie władze o bezprawne przejęcie siedziby Trybunału Konstytucyjnego przy użyciu policji. Podczas wysłuchania w Parlamencie Europejskim w Strasburgu przekonywał, że działania rządu Donalda Tuska są elementem szerszego planu zmiany ustroju państwa. – Od 30 października"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.65,
-    "items": [
-     {
-      "title": "Mężczyzna podpalił się naprzeciwko Pałacu Prezydenckiego",
-      "url": "https://www.rp.pl/spoleczenstwo/art45543341-mezczyzna-podpalil-sie-naprzeciwko-palacu-prezydenckiego",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-25T17:50+01:00",
-      "teaser": "Przed siedzibą Ministerstwa Kultury w Warszawie podpalił się mężczyzna. Pomocy udzielili mu funkcjonariusze Służby Ochrony Państwa, którzy wezwali straż pożarną i pogotowie. Na miejscu zdarzenia pracuje policja."
-     },
-     {
-      "title": "Samopodpalenie naprzeciwko Pałacu Prezydenckiego",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33150781,samopodpalenie-naprzeciwko-palacu-prezydenckiego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-25T16:37+00:00",
-      "teaser": "Mężczyzna dokonał samopodpalenia przed budynkiem Ministerstwa Kultury, naprzeciwko Pałacu Prezydenckiego w Warszawie. Pierwszy o sprawie poinformował \"Fakt\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
     "items": [
      {
       "title": "Łódź. Ukradli dzieła sztuki warte miliony złotych. \"Skrępowali właściciela taśmą\"",
@@ -499,7 +485,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
       "title": "Nie żyje Veruschka. Światowa ikona mody dzieciństwo spędziła na Mazurach",
@@ -512,7 +498,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
       "title": "Prezydent zawetuje zmiany w podatkach? Apel Donalda Tuska",
@@ -525,7 +511,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.89,
     "items": [
      {
       "title": "Miliarder ze świata sportu przejmuje aktywa Łukoilu. Rosjanie nie zobaczą ani dolara",
@@ -538,7 +524,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Mniej rzeczy zostawić przypadkowi. Najlepsze reprezentacje mają po kilkudziesięciu specjalistów",
@@ -551,7 +537,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.88,
     "items": [
      {
       "title": "Przełom na froncie w Ukrainie. Bojowy laser po raz pierwszy zniszczył odrzutowy dron Gierań",
@@ -564,7 +550,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Dariusz Korneluk o artykule „Rz” ws. immunitetu Hołowni. „Utnę wszelkie spekulacje”",
@@ -577,7 +563,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.81,
     "items": [
      {
       "title": "Tusk mówi o kolejnym wecie Nawrockiego. „Nad czym tu się zastanawiać?”",
@@ -590,7 +576,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.79,
     "items": [
      {
       "title": "ETPCz wznawia rozpatrywanie skarg na Polskę. W Strasburgu czeka 1600 spraw",
@@ -603,7 +589,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.79,
     "items": [
      {
       "title": "Tragedia na obwodnicy w Egipcie. Zginęło kilkadziesiąt osób",
@@ -618,7 +604,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 4,
-    "score": 7.54,
+    "score": 7.46,
     "items": [
      {
       "title": "USA kündigen neue Zölle an - auch gegen EU und China",
@@ -645,7 +631,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.96,
     "items": [
      {
       "title": "Poundland collapses, putting more than 10,000 jobs at risk",
@@ -658,14 +644,14 @@
       "title": "Poundland collapses putting 11,000 jobs at risk",
       "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-25T20:43+00:00",
+      "date": "2026-11-25T21:31+00:00",
       "teaser": "The discount chain has fallen into administration after its owners failed to find a buyer."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
+    "score": 3.82,
     "items": [
      {
       "title": "Business-Ticker: Ratingagentur S&P warnt Nvidia vor möglicher Herabstufung",
@@ -685,27 +671,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "KI-Ausverkauf und neue Zölle: Zollpläne belasten US-Börsen",
-      "url": "https://www.spiegel.de/wirtschaft/ki-ausverkauf-und-neue-zoelle-zollplaene-belasten-us-boersen-a-cf9db6a8-f3a2-4e85-9fd9-f448c9cf168f#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-25T18:01+01:00",
-      "teaser": "Heftige Kursverluste bei Technologieaktien sowie die neu angekündigten Zölle von Donald Trumps Regierung haben den US-Börsen zugesetzt. Damit steigt die Sorge vor dem sogenannten Bärenmarkt."
-     },
-     {
-      "title": "Wall Street: US-Börsen machen Tech-Ausverkauf im frühen Handel im Verlauf wett – Nvidia verliert erneut deutlich",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-sp-500-nasdaq-us-boersen-machen-fruehes-minus-weitgehend-wett-nvidia-verliert/100272701.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-25T19:05+00:00",
-      "teaser": "Auch die Rückendeckung des US-Präsidenten für Nvidia-Chef Huang ändert nichts am Ausverkauf der Techwerte. Derweil denkt Trump sogar über eine Staatsbeteiligung bei dem Unternehmen nach."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.58,
+    "score": 3.49,
     "items": [
      {
       "title": "Trump proposing new tariffs on 14 partners including China and EU",
@@ -724,22 +690,15 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.37,
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
-      "title": "EZB-Befragung: Kartenzahlung überholt erstmals Bargeld in Geschäften",
-      "url": "https://www.spiegel.de/wirtschaft/service/befragung-der-ezb-kartenzahlung-ueberholt-erstmals-bargeld-in-geschaeften-a-c4d64b3b-ca8d-4c98-a329-8564cf224ba7#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-25T12:45+01:00",
-      "teaser": "Im Euroraum bezahlen in Geschäften mittlerweile mehr Menschen mit Karte als mit Scheinen und Münzen. Das geht aus einer Umfrage der Europäischen Zentralbank hervor. Allerdings verzichtet kaum jemand ganz auf Bargeld."
-     },
-     {
-      "title": "Kartenzahlung überholt erstmals Bargeld in Geschäften",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/ezb-zahlungsverhalten-bargeld-kartenzahlung-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-25T14:32+01:00",
-      "teaser": "Verbraucher in der Eurozone nutzen immer häufiger Kartenzahlungen. Trotzdem bleibt Bargeld beliebt - vor allem geringe Summen werden nach wie vor oft bar bezahlt."
+      "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
+      "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+      "source": "New York Times",
+      "date": "2026-11-25T21:52+00:00",
+      "teaser": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds."
      }
     ]
    },
@@ -748,10 +707,49 @@
     "score": 1.99,
     "items": [
      {
+      "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+      "source": "CNBC",
+      "date": "2026-11-25T21:55+00:00",
+      "teaser": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T21:43+00:00",
+      "teaser": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+      "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+      "source": "New York Times",
+      "date": "2026-11-25T21:36+00:00",
+      "teaser": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
       "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
       "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
       "source": "New York Times",
-      "date": "2026-11-25T20:58+00:00",
+      "date": "2026-11-25T21:36+00:00",
       "teaser": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return."
      }
     ]
@@ -761,11 +759,11 @@
     "score": 1.96,
     "items": [
      {
-      "title": "EU-Kommission: 470-Millionen-Euro-Strafe gegen Parfümkartell",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/eu-kommission-470-millionen-euro-strafe-gegen-parfuemkartell-a-b67298ac-ea3c-4961-8257-0d44689c4b2b#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-25T21:36+01:00",
-      "teaser": "Drei der weltweit größten Duftstoffhersteller sollen sich über Jahre hinweg über Preise und Kosten abgestimmt haben. Die EU-Kommission verhängt deshalb Geldbußen von insgesamt mehr als 470 Millionen Euro."
+      "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+      "url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+      "source": "New York Times",
+      "date": "2026-11-25T21:30+00:00",
+      "teaser": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies."
      }
     ]
    },
@@ -774,11 +772,11 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Lukoil to Sell Foreign Assets, but Not to Kushner and Witkoff Associates",
-      "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+      "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
+      "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
       "source": "New York Times",
-      "date": "2026-11-25T20:31+00:00",
-      "teaser": "Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium. But Middle Eastern business contacts of the two Trump envoys pulled out because of political winds."
+      "date": "2026-11-25T21:32+00:00",
+      "teaser": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates."
      }
     ]
    },
@@ -787,37 +785,11 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Beige Book: US-Wirtschaft wächst laut Notenbank-Bericht leicht bis moderat",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/konjunktur-us-wirtschaft-waechst-laut-notenbank-bericht-leicht-bis-moderat/100272820.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-25T20:24+00:00",
-      "teaser": "Im Konjunkturbericht Beige Book der Fed heißt es, zugleich bleibe die Inflation hartnäckig. Die Notenbanker zeigen sich zunehmend besorgt über die Teuerung."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Reformpläne: Unionspolitiker schlagen Kompromiss im Rentenstreit vor",
-      "url": "https://www.handelsblatt.com/politik/deutschland/reformplaene-unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor/100272818.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-25T20:07+00:00",
-      "teaser": "Die vorgeschlagene Abschaffung der Rente mit 63 ist ein Knackpunkt bei der Reform der Alterssicherung. Fachpolitiker der CDU wollen die abschlagsfreie Frührente für Geringverdiener erhalten."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-      "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-      "source": "New York Times",
-      "date": "2026-11-25T19:39+00:00",
-      "teaser": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates."
+      "title": "US stocks close lower in volatile session as AI trade remains under pressure",
+      "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-25T21:26+00:00",
+      "teaser": "Chip group Nvidia among losers but AI start-up Anthropic a bright spot as shares finish higher"
      }
     ]
    }
@@ -825,7 +797,7 @@
   "Sport": [
    {
     "sourceCount": 2,
-    "score": 9.94,
+    "score": 9.85,
     "favorite": true,
     "items": [
      {
@@ -846,7 +818,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.98,
+    "score": 7.9,
     "favorite": true,
     "items": [
      {
@@ -860,7 +832,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.96,
+    "score": 7.88,
     "favorite": true,
     "items": [
      {
@@ -874,7 +846,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.68,
+    "score": 7.6,
     "items": [
      {
       "title": "Champions League: Borussia Dortmund punktet beim FC Arsenal",
@@ -901,7 +873,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.58,
+    "score": 5.5,
     "items": [
      {
       "title": "Jamal Musiala: Das Statement des FC Bayern zwischen den Zeilen",
@@ -928,47 +900,67 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.99,
     "items": [
      {
-      "title": "Sporting v Manchester United: Champions League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
-      "source": "The Guardian",
-      "date": "2026-11-25T20:44+00:00",
-      "teaser": "⚽️ Match at Estádio José Alvalade kicks off at 8pm GMT ⚽️ Live scoreboard | Read Football Daily | Email Rob In which Poch gets the Squires treatment “Trying to calm my nerves enough to come out from behind the sofa by rewatching Bob and Paul fishing,” writes Bruce Jackson. “Obviously still following"
+      "title": "Inter eine Nummer zu groß für den VfB Stuttgart",
+      "url": "https://www.kicker.de/inter-eine-nummer-zu-gross-fuer-den-vfb-stuttgart-1274325/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-25T21:52+00:00",
+      "teaser": "Auf den VfB Stuttgart wartete am Mittwoch eine knifflige Aufgabe in Mailand. Am Ende eine Nummer zu groß, denn Inter setzte sich mit 2:0 gegen den Bundesligisten durch."
      },
      {
-      "title": "Are Manchester United this season's Tottenham?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-25T06:22+00:00",
-      "teaser": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?"
+      "title": "Champions League: Inter Mailand kocht den VfB Stuttgart ab",
+      "url": "https://www.sportschau.de/fussball/championsleague/inter-kocht-stuttgart-ab,spielbericht-inter-mailand-vfb-stuttgart-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-25T22:53+01:00",
+      "teaser": "Trotz einer ordentlichen Leistung hat der VfB Stuttgart in der Champions League die nächste Niederlage kassiert - und wieder kein Tor erzielt."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.99,
     "items": [
      {
       "title": "Club Brugge v Liverpool, Lille v Bayern Munich and more: Champions League clockwatch – live",
       "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
       "source": "The Guardian",
-      "date": "2026-11-25T20:43+00:00",
-      "teaser": "⚽️ Updates from Wednesday’s 8pm GMT matches ⚽️ Live scoreboard | Read Football Daily | Email Simon And it’s equally over in Prague, where Slavia had twice as many shots as Villarreal, had 40 touches in their opponents’ box to Villarreal’s 15, and lost 1-0. It’s all over in Baku, where Sabah drew 1-1"
+      "date": "2026-11-25T21:56+00:00",
+      "teaser": "⚽️ Updates from Wednesday’s 8pm GMT matches ⚽️ Live scoreboard | Sporting v Man Utd | Email Simon And it’s equally over in Prague, where Slavia had twice as many shots as Villarreal, had 40 touches in their opponents’ box to Villarreal’s 15, and lost 1-0. It’s all over in Baku, where Sabah drew 1-1 "
      },
      {
-      "title": "Live hören: Lille OSC gegen Bayern München - Champions League",
-      "url": "https://www.sportschau.de/fussball/championsleague/lille-osc-gegen-bayern-muenchen,audiostream-lille-osc-gegen-bayern-muenchen-100.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-25T20:45+01:00",
-      "teaser": "Ligaphase: Anpfiff des Spiels ist am 25.11.2026 um 21:00 Uhr. Bayern München spielt in Villeneuve d'Ascq."
+      "title": "Champions League: Bayern verstolpern Sieg in Lille",
+      "url": "https://www.sportschau.de/fussball/championsleague/fc-bayern-stuermt-mit-karl-gegen-lille,spielbericht-lille-bayern-muenchen-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-25T22:52+01:00",
+      "teaser": "Bayern München hat in der Champions League beim Tabellenvorletzten OSC Lille verloren - und mit der Verletztenliste und Jamal Musialas Zukunft zwei wichtige Themen zu klären."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
+      "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
+      "source": "The Guardian",
+      "date": "2026-11-25T21:17+00:00",
+      "teaser": "‘Players are here for four years and can’t speak English’ Glasner has held talks with owner over January moves Nottingham Forest’s manager, Oliver Glasner, believes standards at the club were not good enough prior to his arrival as he questioned why some of his squad cannot speak English after a num"
+     },
+     {
+      "title": "Glasner criticises Forest players yet to learn English",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T18:32+00:00",
+      "teaser": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.64,
     "items": [
      {
       "title": "Ziel VfL Gummersbach - Andreas Wolff verlässt den THW Kiel",
@@ -988,53 +980,40 @@
    },
    {
     "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Handball: SC Magdeburg besiegt Sporting und bleibt makellos",
+      "url": "https://www.sportschau.de/regional/mdr/handball-champions-league-sc-magdeburg-sporting-lissabon,spielbericht-scm-lis-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-25T23:01+01:00",
+      "teaser": "Mit einer bemerkenswerten Vorstellung hat der SC Magdeburg in der Champions League den nächsten Schritt Richtung Viertelfinale gemacht."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Àlex Campos: \"Trabajaré para ser titular\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255555/alex-campos-trabajare-titular.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-25T22:59+01:00",
+      "teaser": "Àlex Campos (18 años) cumplió ante el Sabah el sueño de cualquier jugador de La Masia. El defensa debutó con el primer equipo, saliendo en el minuto 64' con un 1-4 y con cerca de media hora por delante. El de Aitona es el joven número 12 que debuta con Hansi Flick y, tras el partido, reconoció ante "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
     "score": 1.99,
     "items": [
      {
-      "title": "Liverpool mull Quansah return - Thursday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n831jk3x4mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-25T20:57+00:00",
-      "teaser": "Liverpool consider return for Jarrell Quansah, Tottenham scout Vangelis Pavlidis and Paris St-Germain target Estevao Willian, plus more"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Freund bekräftigt: Bayern planen keine Transfers im Winter",
-      "url": "https://www.kicker.de/freund-bekraeftigt-bayern-planen-keine-transfers-im-winter-1275073/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-25T20:47+00:00",
-      "teaser": "Der FC Bayern ist aktuell schwer von Verletzungen gebeutelt. Im Winter nachbessern will der Rekordmeister trotzdem nicht, das bekräftigte Sportdirektor Christoph Freund am Mittwoch vor der Partie in Lille."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Jetzt live - Stuttgart und Inter bisher harmlos",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma12517701/inter-mailand_vfb-stuttgart/liveticker",
-      "source": "Sportschau",
-      "date": "2026-11-25T21:51+01:00",
-      "teaser": "Der VfB Stuttgart ist bei Inter Mailand zu Gast. Können die Schwaben den italienischen Meister überraschen?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Adeyemi: \"Tenemos calidad para suplir a cualquier jugador y no depender de nadie\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255541/adeyemi-calidad-suplir-jugador-no-depender-nadie.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-25T21:38+01:00",
-      "teaser": "Adeyemi volvió a ver puerta en Champions. El jugador alemán ha marcado en tres de los cinco partidos que el equipo azulgrana ha disputado en competición europea. Flick apostó por él para suplir la baja de Lamine Yamal en Bakú y el ex del Dortmund respondió siendo uno de los jugadores más activos del"
+      "title": "Sporting v Manchester United: Champions League – live",
+      "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
+      "source": "The Guardian",
+      "date": "2026-11-25T21:55+00:00",
+      "teaser": "⚽️ Match at Estádio José Alvalade kicks off at 8pm GMT ⚽️ Live scoreboard | Follow our clockwatch In which Poch gets the Squires treatment “Trying to calm my nerves enough to come out from behind the sofa by rewatching Bob and Paul fishing,” writes Bruce Jackson. “Obviously still following your MBM,"
      }
     ]
    }
@@ -1042,7 +1021,27 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "Wegen ChatGPT-Abos: Verbraucherzentrale verklagt OpenAI",
+      "url": "https://t3n.de/news/verbraucherzentrale-verklagt-openai-1775427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-25T21:59+01:00",
+      "teaser": "Die Verbraucherzentrale Brandenburg hat OpenAI verklagt. Anlass sind Hürden bei der Kündigung kostenpflichtiger ChatGPT-Abos sowie eine möglicherweise unwirksame Klausel zu Preiserhöhungen. Eine außergerichtliche Einigung war zuvor gescheitert. weiterlesen auf t3n.de"
+     },
+     {
+      "title": "Vertragskündigung: Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo",
+      "url": "https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html",
+      "source": "Golem",
+      "date": "2026-11-25T17:58+01:00",
+      "teaser": "Nach Ansicht der Verbraucherzentrale Brandenburg sind die Hürden bei der Kündigung eines kostenpflichtigen ChatGPT-Abos zu hoch. ( ChatGPT , KI )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.69,
     "items": [
      {
       "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
@@ -1062,7 +1061,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.66,
+    "score": 3.58,
     "items": [
      {
       "title": "The Verge’s guide to affordable holiday gifts under $25",
@@ -1082,7 +1081,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.63,
+    "score": 3.54,
     "items": [
      {
       "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
@@ -1102,7 +1101,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
+      "url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+      "source": "New York Times",
+      "date": "2026-11-25T21:30+00:00",
+      "teaser": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
+      "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+      "source": "New York Times",
+      "date": "2026-11-25T21:36+00:00",
+      "teaser": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Google search alternative Kagi launches Gmail rival",
@@ -1115,7 +1140,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.87,
     "items": [
      {
       "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
@@ -1128,7 +1153,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.81,
     "items": [
      {
       "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
@@ -1141,7 +1166,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.76,
     "items": [
      {
       "title": "1Password breach leaked customer names and emails, but not passwords",
@@ -1154,20 +1179,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
-      "url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
-      "source": "New York Times",
-      "date": "2026-11-25T19:00+00:00",
-      "teaser": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.72,
     "items": [
      {
       "title": "Backblaze explains why it's sharing customer information with advertisers",
@@ -1180,7 +1192,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.72,
     "items": [
      {
       "title": "The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It",
@@ -1188,32 +1200,6 @@
       "source": "Wired",
       "date": "2026-11-25T18:38+00:00",
       "teaser": "Early results indicate minimal signs of lead in the environment, though it will take days for more rigorous testing."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.75,
-    "items": [
-     {
-      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
-      "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "date": "2026-11-25T13:00-05:00",
-      "teaser": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.75,
-    "items": [
-     {
-      "title": "The loneliest peptide party in New York",
-      "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
-      "source": "The Verge",
-      "date": "2026-11-25T13:00-05:00",
-      "teaser": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea Market had a small lin"
      }
     ]
    }
@@ -1284,13 +1270,13 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "topic": "Welt & Politik",
    "source": "NPR (Politik)",
    "ok": true,
-   "items": 8
+   "items": 6
   },
   {
    "topic": "Welt & Politik",
@@ -1331,9 +1317,8 @@
   {
    "topic": "Welt & Politik",
    "source": "South China Morning Post",
-   "ok": false,
-   "items": 0,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 10
   },
   {
    "topic": "Welt & Politik",
@@ -1393,7 +1378,7 @@
    "topic": "Polen",
    "source": "Notes from Poland",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Polen",
@@ -1471,7 +1456,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "CNBC",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1549,7 +1534,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Tech & KI",
@@ -1567,7 +1552,7 @@
    "topic": "Tech & KI",
    "source": "BBC",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Tech & KI",
