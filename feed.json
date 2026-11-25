@@ -1,18 +1,38 @@
 {
- "fetchedAt": "2026-11-25T16:21:49+00:00",
+ "fetchedAt": "2026-11-25T17:55:58+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.99,
+    "score": 7.92,
     "items": [
      {
-      "title": "Iowa: Toxic dust fears as US Army blows up 10,000 pounds of explosives",
-      "url": "https://www.france24.com/en/video/20261125-iowa-toxic-dust-fears-as-us-army-blows-up-10-000-pounds-of-explosives",
-      "source": "France 24",
-      "date": "2026-11-25T16:14+00:00",
-      "teaser": "An enormous explosion rang out across rural Iowa Tuesday as the US military carried out the controlled detonation of some 10,000 pounds of lead azide. US officials say the material, which was once used as a detonator in munitions, had become unstable and was at risk at risk of spontaneous explosion."
+      "title": "Israeli strike kills Hamas official, his wife and children",
+      "url": "https://www.thehindu.com/news/international/israeli-strike-kills-hamas-official-his-wife-and-children/article71743893.ece",
+      "source": "The Hindu",
+      "date": "2026-11-25T22:29+05:30",
+      "teaser": "The Israeli military confirmed it had killed Abuelouf, whom it described as a significant figure who \"served as ‌a key source of expertise in efforts to restrict the IDF’s counterterrorism operations in the ‌Gaza ⁠Strip\""
      },
+     {
+      "title": "Israeli strike kills 2 senior Hamas officials",
+      "url": "https://www.cbc.ca/news/world/gaza-hamas-israel-kills-two-hamas-officials-9.7435419?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-25T11:04-05:00",
+      "teaser": "The second strike left four people dead, including two children. Witnesses say they were given no prior warning and the explosion happened in the middle of the night, while everyone was sleeping."
+     },
+     {
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T14:06+00:00",
+      "teaser": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.97,
+    "items": [
      {
       "title": "Army plans explosive detonation in Iowa despite residents' concerns",
       "url": "https://www.pbs.org/newshour/show/army-plans-explosive-detonation-in-iowa-despite-residents-concerns",
@@ -26,66 +46,19 @@
       "source": "South China Morning Post",
       "date": "2026-11-25T15:48+00:00",
       "teaser": "The US Army detonated nearly 5 tonnes of toxic explosives at an ammunition plant in a tiny Iowa town on Wednesday, media reports said, after officials warned the material was too unstable to move and urged residents to evacuate. A New York Times reporter said the blast could be heard some 16km (10 m"
+     },
+     {
+      "title": "US Army detonates country's entire stockpile of lead azide explosives",
+      "url": "https://www.abc.net.au/news/2026-11-26/iowa-us-army-lead-azide/107427996",
+      "source": "ABC Australia",
+      "date": "2026-11-25T17:32+00:00",
+      "teaser": "Residents in the area are being urged to take precautions due to concerns the explosion may throw lead particles into the air."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.95,
-    "items": [
-     {
-      "title": "What's next for Nvidia and Jensen Huang after Trump's intervention",
-      "url": "https://www.pbs.org/newshour/show/whats-next-for-nvidia-and-jensen-huang-after-trumps-intervention",
-      "source": "PBS NewsHour",
-      "date": "2026-11-24T18:50-05:00",
-      "teaser": "Questions are still being raised about Jensen Huang's reinstatement as Nvidia's CEO, the role President Trump played in that decision and what other investigations could mean for the company. To help break it all down, Amna Nawaz spoke with Greg Ip, chief economics commentator for The Wall Street Jo"
-     },
-     {
-      "title": "Nvidia: Warum die Rückkehr von Jensen Huang für Donald Trump zum Problem werden könnte",
-      "url": "https://www.spiegel.de/ausland/gefaehrliche-bromance-warum-die-rueckkehr-von-nvidia-chef-huang-fuer-trump-zum-problem-werden-koennte-a-2668e5ab-9cf5-4605-9f80-cdf0838c0964#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-25T06:00+01:00",
-      "teaser": "Der US-Präsident intervenierte, um Jensen Huang zurück an die Spitze von Nvidia zu manövrieren – und die Talfahrt an der Börse zu stoppen. Zuletzt brüstete sich Donald Trump mit dem Coup. Doch ausgestanden ist diese Affäre längst nicht."
-     },
-     {
-      "title": "Jensen Huang: Achill in Sneakern",
-      "url": "https://www.zeit.de/2026/51/jensen-huang-nvidia-chef-rueckkehr-aktie",
-      "source": "Zeit",
-      "date": "2026-11-25T15:48+00:00",
-      "teaser": "Jensen Huang kehrt umjubelt zu Nvidia zurück. Aber kann einer zum Helden werden, ohne vorher eine Prüfung bestanden zu haben?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.93,
-    "items": [
-     {
-      "title": "Kilmar Abrego Garcia, who faced U.S. deportation efforts and 'vindictive prosecution,' arrives in Spain",
-      "url": "https://www.cbc.ca/news/world/us-spain-abrego-garcia-9.7435157?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-25T07:56-05:00",
-      "teaser": "Kilmar Abrego Garcia, the Salvadoran national who fought his mistaken deportation from the U.S., arrived in Spain on Wednesday after voluntarily leaving the United States, potentially ending a defining saga of the Trump administration's immigration crackdown."
-     },
-     {
-      "title": "Abrego Garcia Arrives in Spain After Voluntarily Leaving U.S.",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-      "source": "New York Times (Politik)",
-      "date": "2026-11-25T12:32+00:00",
-      "teaser": "Kilmar Armando Abrego Garcia, who was wrongfully deported from the United States last year, arrived in Madrid on Wednesday, ending a 20-month legal fight."
-     },
-     {
-      "title": "Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain",
-      "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-25T15:34+00:00",
-      "teaser": "The Salvadoran national's lawyer said in a statement that it was 'a temporary departure'."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.9,
+    "score": 5.77,
     "items": [
      {
       "title": "Liveblog Ukrainekrieg: Polen will Flugverbotszone an Grenze zur Ukraine einrichten",
@@ -112,7 +85,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.99,
+    "items": [
+     {
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+      "source": "NPR",
+      "date": "2026-11-24T07:12-05:00",
+      "teaser": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1."
+     },
+     {
+      "title": "Jensen Huang: Achill in Sneakern",
+      "url": "https://www.zeit.de/2026/51/jensen-huang-nvidia-chef-rueckkehr-aktie",
+      "source": "Zeit",
+      "date": "2026-11-25T17:51+00:00",
+      "teaser": "Jensen Huang kehrt umjubelt zu Nvidia zurück. Aber kann einer zum Helden werden, ohne vorher eine Prüfung bestanden zu haben?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.9,
     "items": [
      {
       "title": "All hostages rescued after Colombian security forces storm supermarket, says president",
@@ -122,37 +115,57 @@
       "teaser": "Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially held Colombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one ho"
      },
      {
-      "title": "Colombia: Security forces rescue hostages in supermarket siege",
-      "url": "https://www.france24.com/en/video/20261125-colombia-security-forces-rescue-hostages-in-supermarket-siege",
-      "source": "France 24",
-      "date": "2026-11-25T16:08+00:00",
-      "teaser": "Some 25 people being held hostage by gunmen in a supermarket in Cartagena, Colombia, were freed Tuesday after security forces stormed the building. One assailant was killed during the operation but no hostages were injured."
+      "title": "Colombian forces rescue all hostages after supermarket siege",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-25T16:44+00:00",
+      "teaser": "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.87,
     "items": [
      {
-      "title": "Israeli strike kills 2 senior Hamas officials",
-      "url": "https://www.cbc.ca/news/world/gaza-hamas-israel-kills-two-hamas-officials-9.7435419?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-25T11:04-05:00",
-      "teaser": "The second strike left four people dead, including two children. Witnesses say they were given no prior warning and the explosion happened in the middle of the night, while everyone was sleeping."
+      "title": "Iowa: Toxic dust fears as US Army blows up 10,000 pounds of explosives",
+      "url": "https://www.france24.com/en/video/20261125-iowa-toxic-dust-fears-as-us-army-blows-up-10-000-pounds-of-explosives",
+      "source": "France 24",
+      "date": "2026-11-25T16:14+00:00",
+      "teaser": "An enormous explosion rang out across rural Iowa Tuesday as the US military carried out the controlled detonation of some 10,000 pounds of lead azide. US officials say the material, which was once used as a detonator in munitions, had become unstable and was at risk at risk of spontaneous explosion."
      },
      {
-      "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
+      "title": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss",
       "source": "Al Jazeera",
-      "date": "2026-11-25T16:02+00:00",
-      "teaser": "Israel assassinated Hamas’s internal security chief in Gaza City, killing him and six others in a strike"
+      "date": "2026-11-25T16:22+00:00",
+      "teaser": "The US Army has carried out a controlled blast of nearly five tonnes of deteriorating lead azide at a military plant."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.87,
+    "items": [
+     {
+      "title": "US unveils proposed tariffs on major partners, including EU and China",
+      "url": "https://www.france24.com/en/video/20261125-us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
+      "source": "France 24",
+      "date": "2026-11-25T16:21+00:00",
+      "teaser": "The United States on Wednesday unveiled proposed tariffs on 14 economies including the European Union and China, after a months-long probe into alleged excess production – the latest move by US President Donald Trump to remake Washington's trade relationships. The new tariffs will need to undergo a "
+     },
+     {
+      "title": "Trump unveils suite of new tariffs on major trading partners",
+      "url": "https://www.abc.net.au/news/2026-11-26/trump-new-tariffs-major-trading-partners/107425504",
+      "source": "ABC Australia",
+      "date": "2026-11-25T13:59+00:00",
+      "teaser": "Goods from China, Brazil, the EU and Vietnam are all set to be taxed higher as Donald Trump doubles down on his tariff policies after a midterms drubbing."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.83,
     "items": [
      {
       "title": "USA kündigen neue Zölle an - auch gegen EU und China",
@@ -172,7 +185,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.61,
     "items": [
      {
       "title": "2 men charged in break-in at country residence of Prince William, Princess of Wales",
@@ -192,7 +205,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.16,
+    "score": 3.58,
+    "items": [
+     {
+      "title": "Kilmar Abrego Garcia, who faced U.S. deportation efforts and 'vindictive prosecution,' arrives in Spain",
+      "url": "https://www.cbc.ca/news/world/us-spain-abrego-garcia-9.7435157?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-25T07:56-05:00",
+      "teaser": "Kilmar Abrego Garcia, the Salvadoran national who fought his mistaken deportation from the U.S., arrived in Spain on Wednesday after voluntarily leaving the United States, potentially ending a defining saga of the Trump administration's immigration crackdown."
+     },
+     {
+      "title": "Abrego Garcia Arrives in Spain After Voluntarily Leaving U.S.",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+      "source": "New York Times (Politik)",
+      "date": "2026-11-25T12:32+00:00",
+      "teaser": "Kilmar Armando Abrego Garcia, who was wrongfully deported from the United States last year, arrived in Madrid on Wednesday, ending a 20-month legal fight."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.03,
     "items": [
      {
       "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
@@ -211,41 +244,22 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 2.0,
+    "sourceCount": 2,
+    "score": 2.5,
     "items": [
      {
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-25T16:20+00:00",
-      "teaser": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
+      "title": "What's next for Nvidia and Jensen Huang after Trump's intervention",
+      "url": "https://www.pbs.org/newshour/show/whats-next-for-nvidia-and-jensen-huang-after-trumps-intervention",
+      "source": "PBS NewsHour",
+      "date": "2026-11-24T18:50-05:00",
+      "teaser": "Questions are still being raised about Jensen Huang's reinstatement as Nvidia's CEO, the role President Trump played in that decision and what other investigations could mean for the company. To help break it all down, Amna Nawaz spoke with Greg Ip, chief economics commentator for The Wall Street Jo"
+     },
      {
-      "title": "Russian casualties in Ukraine war: New reports suggest death toll as high as 700,000",
-      "url": "https://www.france24.com/en/video/20261125-russian-casualties-in-ukraine-war-new-reports-suggest-death-toll-as-high-as-700-000",
-      "source": "France 24",
-      "date": "2026-11-25T16:17+00:00",
-      "teaser": "New analysis of leaked Russian government data suggests some 700,000 Russian soldiers have died in the war against Ukraine. Independent Russian media outlets have updated their estimates of Moscow's military casualties after Belarusian and Ukrainian hackers obtained figures from the Russian statisti"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine",
-      "url": "https://kyivindependent.com/poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-25T16:13+00:00",
-      "teaser": "The proposals come amid growing concerns over Russian aerial incursions into NATO territory, following a series of incidents involving Russian missiles and drones entering Polish airspace during attacks on Ukraine on Nov. 23 and 24."
+      "title": "Trump takes credit for Jensen Huang returns to Nvidia, says its good for the economy",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy",
+      "source": "NPR (Politik)",
+      "date": "2026-11-24T06:42-05:00",
+      "teaser": "President Trump touted the return of Jensen Huang to Nvidia's C-suite as good for the company -- and good for the United States economy."
      }
     ]
    }
@@ -253,7 +267,27 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "Was über die rechtsextremistische Gruppe \"Terror 18\" bekannt ist",
+      "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-25T14:15+01:00",
+      "teaser": "Sie sind fast noch Kinder und planten laut Bundesanwaltschaft schwerste Straftaten, etwa auf eine Flüchtlingsunterkunft. Nun gingen Ermittler gegen mutmaßliche Mitglieder der rechtsextremistischen Gruppe \"Terror 18\" vor. Was ist bekannt? Von Max Bauer."
+     },
+     {
+      "title": "Brandanschlag geplant?: Rechte Gruppe „Terror 18“ zerschlagen – 15-Jähriger mit Treibstoff und Benzinkanister",
+      "url": "https://www.sueddeutsche.de/politik/razzia-rechtsextremismus-gruppe-terror-18-jugendliche-brandanschlag-festnahmen-li.3585919",
+      "source": "Süddeutsche",
+      "date": "2026-11-25T16:59+00:00",
+      "teaser": "Die Vereinigung soll einen Brandanschlag auf ein Flüchtlingsheim sowie die Tötung von Ausländern und politischen Gegnern geplant haben. Drei Jugendliche werden festgenommen, zwei kommen später wieder frei."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.85,
     "items": [
      {
       "title": "Generaldebatte im Bundestag: Nachdenkliche Töne und ein Zugeständnis",
@@ -273,27 +307,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
-    "items": [
-     {
-      "title": "Was über die rechtsextremistische Gruppe \"Terror 18\" bekannt ist",
-      "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-25T14:15+01:00",
-      "teaser": "Sie sind fast noch Kinder und planten laut Bundesanwaltschaft schwerste Straftaten, etwa auf eine Flüchtlingsunterkunft. Nun gingen Ermittler gegen mutmaßliche Mitglieder der rechtsextremistischen Gruppe \"Terror 18\" vor. Was ist bekannt? Von Max Bauer."
-     },
-     {
-      "title": "Brandanschlag geplant?: Rechte Gruppe „Terror 18“ zerschlagen – 15-Jähriger mit Treibstoff und Benzinkanister",
-      "url": "https://www.sueddeutsche.de/politik/razzia-rechtsextremismus-gruppe-terror-18-jugendliche-brandanschlag-festnahmen-li.3585919",
-      "source": "Süddeutsche",
-      "date": "2026-11-25T15:07+00:00",
-      "teaser": "Die Vereinigung soll einen Brandanschlag auf ein Flüchtlingsheim sowie die Tötung von Ausländern und politischen Gegnern geplant haben. Nun sind drei Jugendliche festgenommen worden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.75,
     "items": [
      {
       "title": "Sachsen-Anhalt: AfD-Fraktion reicht Wahlvorschlag für Ulrich Siegmund offiziell ein",
@@ -312,141 +326,15 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.88,
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
-      "title": "Protest in Berlin: Linke blockieren Veranstaltung mit Ex-Mossad-Chef im Bundestag",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/mossad-david-barnea-bundestag-linksfraktion-blockade-gxe",
+      "title": "Generaldebatte: Natürlich wird hier niemand überzeugt",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/generaldebatte-bundestag-politische-diskussions-debatte-haushalt",
       "source": "Zeit",
-      "date": "2026-11-25T14:54+00:00",
-      "teaser": "Zwei Bundestagsabgeordnete der Linken haben kurzzeitig den Zugang zu einem Treffen mit David Barnea versperrt. Jetzt soll sich der Ältestenrat mit dem Vorfall befassen."
-     },
-     {
-      "title": "Bei Auftritt von Ex-Mossad-Chef im Bundestag: Linken-Abgeordnete blockieren Tür",
-      "url": "https://www.sueddeutsche.de/politik/bei-auftritt-von-ex-mossad-chef-im-bundestag-linken-abgeordnete-blockieren-tuer-li.3586089",
-      "source": "Süddeutsche",
-      "date": "2026-11-25T13:33+00:00",
-      "teaser": ""
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Union und SPD blockieren einander bei Einkommensteuer und Arbeitsmarktgesetzen",
-      "url": "https://www.spiegel.de/politik/deutschland/union-und-spd-blockieren-einander-bei-einkommensteuer-und-arbeitsmarktgesetzen-a-4ae828fd-330d-4b52-8fef-63e2ad5c6e4c#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-25T17:07+01:00",
-      "teaser": "Eigentlich sollten Erwerbstätige bei der Einkommensteuer entlastet werden. Doch die Union will da nicht mitmachen, solange sich die Sozialdemokraten Reformen im Arbeitsrecht verweigern. Die sehen das Problem beim Kanzler."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "News des Tages: Jamal Musiala, rechtsterroristische Teenager, Migranten auf El Hierro",
-      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-jamal-musiala-rechtsterroristische-teenager-migranten-auf-el-hierro-a-8c1d423a-7204-4b8f-9043-b60b3894da3d#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-25T17:00+01:00",
-      "teaser": "Die Bayern-Chefs verständigen sich mit den Beratern des Fußballstars. Die Bundesanwaltschaft geht gegen mutmaßlich rechtsterroristische Teenager vor. Und auf der Insel El Hierro kommt eine Rekordzahl von Migranten an. Das ist die Lage am Mittwochabend."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Podcast: „Auf den Punkt“: Haushaltsdebatte: Merz zeigt Mut zur Demut",
-      "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-merz-kanzler-generaldebatte-bundestag-li.3585953",
-      "source": "Süddeutsche",
-      "date": "2026-11-25T15:57+00:00",
-      "teaser": "Der Kanzler hat den Haushalt 2027 als „vertretbar“ verteidigt. Auch wenn die Art, wie er zustande gekommen sei, keinen „Schönheitspreis“ gewinnen würde."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Truthahn öffnet Wasserhahn und flutet Wohnung in Mannheim",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/truthahn-flutet-mannheimer-wohnhaus-100.html",
-      "source": "SWR",
-      "date": "2026-11-25T16:59+01:00",
-      "teaser": "In Mannheim setzt ein Truthahn versehentlich ein Bad unter Wasser. Polizei, Feuerwehr und Tierrettung rücken an - und prüfen mögliche Konsequenzen für die Tierhaltung."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Höchste Steuereinnahmen in der Geschichte zwingen Aalen zum Sparen",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/aalen-mehr-einnahmen-durch-gewerbesteuer-trotzdem-minus-im-haushalt-100.html",
-      "source": "SWR",
-      "date": "2026-11-25T16:52+01:00",
-      "teaser": "Die Stadt Aalen gilt erstmals als steuerstark: Die Einnahmen aus der Gewerbesteuer steigen. Dennoch wird das Haushaltsloch größer. Warum Aalen trotz mehr Einnahmen mit mehr Schulden rechnet."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Sie war Deutschlands erstes Supermodel: Veruschka ist tot",
-      "url": "https://www.zdfheute.de/panorama/prominente/veruschka-graefin-von-lehndorff-supermodel-gestorben-100.html",
-      "source": "ZDF",
-      "date": "2026-11-25T16:49+01:00",
-      "teaser": "Sie war Deutschlands erstes Supermodel: Veruschka Gräfin von Lehndorff. Nun ist Lehndorff, die auch Künstlerin und Schauspielerin war, im Alter von 87 Jahren gestorben."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Drei Vorschläge, wie Prostituierte geschützt werden sollen",
-      "url": "https://www.zdfheute.de/politik/deutschland/prostitution-schutz-gesetz-prien-100.html",
-      "source": "ZDF",
-      "date": "2026-11-25T16:45+01:00",
-      "teaser": "Eine Expertenkommission hat in Berlin 51 Maßnahmen für den besseren Schutz von Sexarbeiterinnen und Sexarbeitern vorgelegt - unter anderem soll es für Freier neue Strafen geben."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Debatte im Bundestag: Wird die Koalition noch zu einer Gemeinschaft der Gutwilligen?",
-      "url": "https://www.faz.net/aktuell/politik/inland/kommentar-der-deutsche-sozialstaat-wird-auch-in-der-ukraine-verteidigt-201716616.html",
-      "source": "FAZ",
-      "date": "2026-11-25T15:36+00:00",
-      "teaser": "Der Kanzler hat im Bundestag eine gute Rede gehalten. Doch wird sein Appell verfangen, wenigstens im eigenen Regierungsbündnis? An Böswilligen fehlt es nicht."
-     }
-    ]
-   }
-  ],
-  "Polen": [
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "Włamanie do księcia Williama. Z garderoby przyszłego króla zniknęły spinki do mankietów",
-      "url": "https://www.rp.pl/przestepczosc/art45542761-wlamanie-do-ksiecia-williama-z-garderoby-przyszlego-krola-zniknely-spinki-do-mankietow",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-25T17:19+01:00",
-      "teaser": "Dwaj mężczyźni zatrzymani na terenie Anmer Hall, wiejskiej rezydencji księcia Williama i księżnej Kate, stanęli w środę przed sądem w Norwich. Usłyszeli zarzuty i pozostaną w areszcie do poniedziałku. Trzeci podejrzany nadal jest na wolności."
+      "date": "2026-11-25T17:49+00:00",
+      "teaser": "Regierungsmelancholie, Oppositionsfloskeln, automatenhafte AfD-Gehässigkeit: Man kann bei der Generaldebatte im Bundestag kaum zuhören. Muss das so sein?"
      }
     ]
    },
@@ -455,11 +343,37 @@
     "score": 1.99,
     "items": [
      {
-      "title": "TV Republika promuje torebki. Polskie czy chińskie? Burza w sieci",
-      "url": "https://www.rp.pl/media/art45540761-tv-republika-promuje-torebki-polskie-czy-chinskie-burza-w-sieci",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-25T17:12+01:00",
-      "teaser": "Już sam fakt, że telewizja przerywa rozmowę z gościem, by promować jakikolwiek produkt, zaskakuje wystarczająco. Ale dyskusja weszła na nowy poziom: jakie tak naprawdę damskie torebki chce w ten sposób sprzedawać TV Republika? W sieci zawrzało."
+      "title": "Leiche in Wald bei Murrhardt gefunden - wahrscheinlich vermisste 39-Jährige",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/vermisste-frau-aus-murrhardt-wohl-tot-100.html",
+      "source": "SWR",
+      "date": "2026-11-25T18:49+01:00",
+      "teaser": "In einem Wald bei Murrhardt ist eine Leiche gefunden worden. Sehr wahrscheinlich handelt es sich um die vermisste Mutter, so die Polizei."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Nach Schließung: Norovirus-Ausbruch an Schule in Malsch ebbt langsam ab",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/norovirus-ausbruch-karlsruhe-lage-normalisiert-sich-100.html",
+      "source": "SWR",
+      "date": "2026-11-25T18:48+01:00",
+      "teaser": "Vom Norovirus-Ausbruch an einer Schule in Malsch bei Karlsruhe waren bis zu 130 Kinder betroffen. Inzwischen hat sich die Lage aber laut Gesundheitsamt normalisiert."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Höchste Steuereinnahmen in der Geschichte zwingen Aalen zum Sparen",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/aalen-mehr-einnahmen-durch-gewerbesteuer-trotzdem-minus-im-haushalt-100.html",
+      "source": "SWR",
+      "date": "2026-11-25T18:40+01:00",
+      "teaser": "Die Stadt Aalen gilt erstmals als steuerstark: Die Einnahmen aus der Gewerbesteuer steigen. Dennoch wird das Haushaltsloch größer. Warum Aalen trotz mehr Einnahmen mit mehr Schulden rechnet."
      }
     ]
    },
@@ -468,11 +382,11 @@
     "score": 1.97,
     "items": [
      {
-      "title": "„Bo Tusk”. Konrad Szymański: Prawica zdemonizowała premiera i karmi elektorat amokiem",
-      "url": "https://www.rp.pl/opinie-polityczno-spoleczne/art45539931-bo-tusk-konrad-szymanski-prawica-zdemonizowala-premiera-i-karmi-elektorat-amokiem",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-25T17:02+01:00",
-      "teaser": "Na dzisiejszej prawicy nie można być po prostu oponentem politycznym Donalda Tuska i jego partii. Taka letnia, demokratyczna praktyka to stanowczo za mało. Trzeba wyznawać dogmat czystej demoniczności obecnego premiera w polskiej historii. To dopiero probierz patriotycznej świadomości – pisze Konrad"
+      "title": "Arbeitsmarktpolitik: Warum der Weg zu mehr Tarifverträgen so schwierig ist",
+      "url": "https://www.sueddeutsche.de/politik/tarifvertraege-studie-li.3585893",
+      "source": "Süddeutsche",
+      "date": "2026-11-25T17:33+00:00",
+      "teaser": "Der DGB präsentiert eine dicke Studie, wie man die schwächelnde Tarifbindung für Beschäftigte stärken könnte. Arbeitsminister Schweitzer reagiert zurückhaltend. Doch ein Arbeitgebervertreter spendet etwas Hoffnung."
      }
     ]
    },
@@ -481,37 +395,24 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Tragiczne odkrycie w lesie na Mazowszu. W samochodzie znaleziono ciała dwóch mężczyzn",
-      "url": "https://www.rp.pl/spoleczenstwo/art45542571-tragiczne-odkrycie-w-lesie-na-mazowszu-w-samochodzie-znaleziono-ciala-dwoch-mezczyzn",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-25T16:59+01:00",
-      "teaser": "W samochodzie stojącym w lesie w Słuchocinie pod Węgrowem znaleziono ciała dwóch mężczyzn. Policjanci pod nadzorem prokuratora ustalają okoliczności ich śmierci. Według informacji przekazanych przez tvnwarszawa.pl jeden z mężczyzn był poszukiwany od poniedziałku."
+      "title": "Fünf Tote in Kehl: Erste Obduktion deutet auf eine Kohlenmonoxid-Vergiftung hin",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/fuenf-tote-in-kehl-wohl-co2-vergiftung-durch-defekte-heizunganlage-100.html",
+      "source": "SWR",
+      "date": "2026-11-25T18:34+01:00",
+      "teaser": "Nach dem Tod von fünf Menschen in einer Wohnung in Kehl gibt es neue Erkenntnisse. Laut Staatsanwaltschaft deute die Obduktion eines Opfers auf eine Kohlenmonoxidvergiftung hin."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.94,
     "items": [
      {
-      "title": "Melania Trump pomogła sprowadzić do domów kolejne ukraińskie dzieci",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45541751-melania-trump-pomogla-sprowadzic-do-domow-kolejne-ukrainskie-dzieci",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-25T16:47+01:00",
-      "teaser": "Kolejnych dziewięcioro ukraińskich dzieci wróciło do swoich domów dzięki inicjatywie pierwszej damy Stanów Zjednoczonych Melanii Trump. Według władz w Kijowie Rosja nielegalnie deportowała lub przemieściła ponad 19 tys. dzieci z Ukrainy."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Firmy potrzebują stabilnych zasad zatrudnienia cudzoziemców",
-      "url": "https://www.rp.pl/demografia/art45539711-firmy-potrzebuja-stabilnych-zasad-zatrudnienia-cudzoziemcow",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-25T16:45+01:00",
-      "teaser": "Od 2019 r. liczba Polaków ubezpieczonych w ZUS spadła o około 450 tys., a cudzoziemców wzrosła o 637 tys. Migracja pomaga pracodawcom uzupełniać niedobory kadrowe. Wciąż problemem są bariery administracyjne oraz integracja."
+      "title": "Rechtsterrorismus: Bundesanwaltschaft lässt mutmaßliche Rechtsterroristen festnehmen",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bundesanwaltschaft-laesst-mutmassliche-rechtsterroristen-festnehmen",
+      "source": "Zeit",
+      "date": "2026-11-25T17:12+00:00",
+      "teaser": "Drei Teenager sind unter dem Verdacht festgenommen worden, einer rechtsextremistischen terroristischen Gruppe anzugehören. Sie sollen geplant haben, Ausländer zu töten."
      }
     ]
    },
@@ -520,11 +421,137 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Anna Korwin-Piotrowska domaga się od prezesa NBP dostępu do rachunków TK",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art45542431-anna-korwin-piotrowska-domaga-sie-od-prezesa-nbp-dostepu-do-rachunkow-tk",
+      "title": "Prostitution: Die Freier in die Pflicht nehmen",
+      "url": "https://www.faz.net/aktuell/politik/inland/eine-expertenkommission-will-prostitution-strenger-regeln-gut-so-201716907.html",
+      "source": "FAZ",
+      "date": "2026-11-25T17:07+00:00",
+      "teaser": "Wie lässt sich die Lage von Personen in der Prostitution verbessern? Eine Kommission schlägt strengere Regeln vor – auch für Freier. Gut so."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Peitschenhiebe für Konzert",
+      "url": "https://www.zdfheute.de/video/saengerin-iran-parastoo-100.html",
+      "source": "ZDF",
+      "date": "2026-11-25T17:54+01:00",
+      "teaser": "Parastoo Ahmadis Konzert ging millionenfach auf YouTube viral. Wegen ihres Auftritts ohne Kopftuch wurde sie in Iran verurteilt."
+     }
+    ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 2,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "Mężczyzna podpalił się naprzeciwko Pałacu Prezydenckiego",
+      "url": "https://www.rp.pl/spoleczenstwo/art45543341-mezczyzna-podpalil-sie-naprzeciwko-palacu-prezydenckiego",
       "source": "Rzeczpospolita",
-      "date": "2026-11-25T16:34+01:00",
-      "teaser": "Kierująca pracami Trybunału Konstytucyjnego sędzia Anna Korwin-Piotrowska napisała list do Adama Glapińskiego. Domaga się w nim przywrócenia możliwości obsługi rachunków bankowych TK – podaje TVN24."
+      "date": "2026-11-25T17:50+01:00",
+      "teaser": "Przed siedzibą Ministerstwa Kultury w Warszawie podpalił się mężczyzna. Pomocy udzielili mu funkcjonariusze Służby Ochrony Państwa, którzy wezwali straż pożarną i pogotowie. Na miejscu zdarzenia pracuje policja."
+     },
+     {
+      "title": "Mężczyzna podpalił się naprzeciwko Pałacu Prezydenckiego",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33150781,samopodpalenie-naprzeciwko-palacu-prezydenckiego.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-25T16:37+00:00",
+      "teaser": "Mężczyzna dokonał samopodpalenia przed budynkiem ministerstwa kultury, naprzeciwko Pałacu Prezydenckiego w Warszawie. Jak potwierdziła w rozmowie z Gazeta.pl policja, został on przewieziony do szpitala."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Bez decyzji ws. Święczkowskiego. Sąd dyscyplinarny przerwał posiedzenie",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33150794,bez-decyzji-ws-swieczkowskiego-sad-dyscyplinarny-przerwal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-25T17:53+00:00",
+      "teaser": "W czwartek kontynuowane ma być posiedzenie sądu dyscyplinarnego Trybunału Konstytucyjnego. Dotyczy ono kontroli zarządzenia o zawieszeniu sędziego Bogdana Święczkowskiego. W środę 25 listopada sąd dyscyplinarny TK zajmował się tą kwestią przez ponad trzy godziny."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Owsianka nazywana w sieci „naturalnym Ozempikiem”. Sprzedaż wystrzeliła",
+      "url": "https://www.rp.pl/spoleczenstwo/art45543211-owsianka-nazywana-w-sieci-naturalnym-ozempikiem-sprzedaz-wystrzelila",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-25T18:40+01:00",
+      "teaser": "Płatki owsiane, nasiona i rośliny strączkowe przyciągają uwagę osób szukających produktów, które pomagają dłużej zachować uczucie sytości. W Wielkiej Brytanii trend ten zyskał już nawet w mediach społecznościowych nazwę „naturalny Ozempic” i „oatzempic”."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Rynek pracy musi oswoić choroby",
+      "url": "https://www.rp.pl/demografia/art45543411-rynek-pracy-musi-oswoic-choroby",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-25T18:40+01:00",
+      "teaser": "W 2025 r. absencja chorobowa pracowników sięgnęła 290 mln dni. W obliczu zmian demograficznych priorytetem pracodawców powinno być nie tylko ograniczanie nieobecności, ale też zatrzymanie w pracy osób przewlekle chorych."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Michał Płociński: Na ratunek protestowi pod TK. Dlaczego Trzaskowski podaje pomocną dłoń PiS-owi?",
+      "url": "https://www.rp.pl/komentarze/art45542971-michal-plocinski-na-ratunek-protestowi-pod-tk-dlaczego-trzaskowski-podaje-pomocna-dlon-pis-owi",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-25T18:39+01:00",
+      "teaser": "Na miesiąc przed świętami PiS nie mógł dostać lepszego prezentu. Rafał Trzaskowski odmówił przedłużenia zgody na zgromadzenie pod Trybunałem Konstytucyjnym. I tak dogasający protest, który naprawdę już mało kogo interesował, dostanie teraz nowego paliwa."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Trump strzela cłami w 14 głównych partnerów handlowych, w tym w UE",
+      "url": "https://www.rp.pl/gospodarka/art45543401-trump-strzela-clami-w-14-glownych-partnerow-handlowych-w-tym-w-ue",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-25T18:30+01:00",
+      "teaser": "Najwięcej zapłacą Chiny – 20 proc. ponad dotychczasowe cła, a jeśli rozejm handlowy się załamie, nawet 40 proc. Unia Europejska ma dostać stawkę 15 proc. Administracja Donalda Trumpa przedstawiła listę nowych ceł dla 14 kluczowych partnerów handlowych USA. Pierwotnie mówiło się o 20–40 proc., ale os"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Przeszukania ws. Zondacrypto. Funkcjonariusze m.in. w siedzibie \"Gazety Polskiej\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33150696,przeszukania-ws-zondacrypto-funkcjonariusze-m-in-w-siedzibie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-25T17:24+00:00",
+      "teaser": "W środę policjanci Centralnego Biura Zwalczania Cyberprzestępczości przeprowadzali kolejne przeszukania w dziewięciu lokalizacjach. Czynności odbywały się w ramach śledztwa dotyczącego działalności giełdy kryptowalutowej Zondacrypto."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "KE stawia warunek USA. Cła na towary z UE nie mogą przekroczyć 15 proc.",
+      "url": "https://www.rp.pl/handel/art45543221-ke-stawia-warunek-usa-cla-na-towary-z-ue-nie-moga-przekroczyc-15-proc",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-25T18:19+01:00",
+      "teaser": "Komisja Europejska nie zgadza się na nakładanie przez USA dodatkowych ceł z pominięciem ustaleń handlowych zawartych w 2025 roku. Bruksela podkreśla, że limit 15 proc. powinien obejmować również nowe taryfy stosowane łącznie z już obowiązującymi."
      }
     ]
    },
@@ -533,11 +560,11 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Setki ofiar i dziesiątki skazanych księży. Włoski episkopat ujawnia dane o nadużyciach",
-      "url": "https://www.rp.pl/kosciol/art45541771-setki-ofiar-i-dziesiatki-skazanych-ksiezy-wloski-episkopat-ujawnia-dane-o-naduzyciach",
+      "title": "Fala migrantów zalewa Wyspy Kanaryjskie. Rekord pobity zaledwie po 10 dniach",
+      "url": "https://www.rp.pl/polityka/art45543681-fala-migrantow-zalewa-wyspy-kanaryjskie-rekord-pobity-zaledwie-po-10-dniach",
       "source": "Rzeczpospolita",
-      "date": "2026-11-25T16:27+01:00",
-      "teaser": "We Włoszech 57 księży zostało prawomocnie skazanych na kary więzienia za wykorzystywanie seksualne dzieci – wynika z opublikowanego w środę raportu przygotowanego na zlecenie Konferencji Episkopatu Włoch (CEI). Opracowanie obejmuje sprawy zgłoszone w latach 2001–2021."
+      "date": "2026-11-25T18:08+01:00",
+      "teaser": "Prawie 2 tys. migrantów dotarło we wtorek na Wyspy Kanaryjskie, bijąc rekord jednodniowego napływu na archipelag. Przybysze przypłynęli na 15 łodziach. Wśród nich było około stu nieletnich, w tym czterodniowe niemowlę urodzone podczas przeprawy przez Atlantyk."
      }
     ]
    },
@@ -546,11 +573,11 @@
     "score": 1.92,
     "items": [
      {
-      "title": "Polska czwartym największym rynkiem GTA VI na globalnej platformie. Kupujemy więcej niż Amerykanie",
-      "url": "https://cyfrowa.rp.pl/gry-e-sport/art45540111-polska-czwartym-najwiekszym-rynkiem-gta-vi-na-globalnej-platformie-kupujemy-wiecej-niz-amerykanie",
+      "title": "Prof. Marek Migalski: Oni Nie Rządzili. Dlaczego nowe partie szybko upadają?",
+      "url": "https://www.rp.pl/komentarze/art45535651-prof-marek-migalski-oni-nie-rzadzili-dlaczego-nowe-partie-szybko-upadaja",
       "source": "Rzeczpospolita",
-      "date": "2026-11-25T16:27+01:00",
-      "teaser": "Polacy wydają na gry znacznie mniej niż gracze z innych krajów i często czekają miesiącami na obniżki cen. Jednak w przypadku „GTA VI” nie oszczędzają. Na globalnej platformie G2A odpowiadają za ponad 10 proc. zakupów, wyprzedzając nawet Amerykanów."
+      "date": "2026-11-25T18:01+01:00",
+      "teaser": "Co wybory w polskiej polityce pojawiają się nowe ugrupowania, które określam hasłem „ONR” („Oni Nie Rządzili”). Widzę trzy powody, dla których każdy z tych projektów prędzej czy później skończył się porażką – pisze prof. Marek Migalski, politolog z Uniwersytetu Śląskiego."
      }
     ]
    },
@@ -559,11 +586,11 @@
     "score": 1.92,
     "items": [
      {
-      "title": "„Najwyższy czas, by Mongolia zgłosiła roszczenia wobec Rosji”. Łukaszenko kpi z Putina",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45542441-najwyzszy-czas-by-mongolia-zglosila-roszczenia-wobec-rosji-lukaszenko-kpi-z-putina",
+      "title": "Już dziś startuje 3. BNP Paribas Warsaw SerialCon - wszystko, co musisz wiedzieć przed wizytą w Kinotece!",
+      "url": "https://www.rp.pl/film/art45543361-juz-dzis-startuje-3-bnp-paribas-warsaw-serialcon-wszystko-co-musisz-wiedziec-przed-wizyta-w-kinotece",
       "source": "Rzeczpospolita",
-      "date": "2026-11-25T16:22+01:00",
-      "teaser": "Samozwańczy prezydent Białorusi, Aleksander Łukaszenko, zakpił z historycznych argumentów Władimira Putina, wykorzystywanych przez Kreml do uzasadniania roszczeń terytorialnych wobec Ukrainy. - Najwyższy czas, żeby Mongolia zaczęła wysuwać roszczenia terytorialne wobec Rosji - stwierdził w wywiadzie"
+      "date": "2026-11-25T17:57+01:00",
+      "teaser": "Warszawska Kinoteka w Pałacu Kultury i Nauki ponownie stanie się centrum serialowego świata - rozpoczynamy trzecią edycję Festiwalu BNP Paribas Warsaw SerialCon, która potrwa od 25 do 29 listopada, i przyniesie prawdziwą kumulację serialowych emocji: od spotkania z hollywoodzką gwiazdą Elizabeth McG"
      }
     ]
    },
@@ -572,32 +599,19 @@
     "score": 1.89,
     "items": [
      {
-      "title": "Święczkowski w Parlamencie Europejskim. \"Jestem prezesem na uchodźstwie\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33150517,swieczkowski-w-parlamencie-europejskim-jestem-prezesem-na.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-25T15:05+00:00",
-      "teaser": "- Szczerze mówiąc, nie przyszło mi do głowy, że ktoś będzie próbował na pałkach policyjnych wejść do Trybunału Konstytucyjnego - przekonywał w środę w Parlamencie Europejskim w Strasburgu zawieszony prezes TK Bogdan Święczkowski. Wziął udział w wysłuchaniu w sprawie sytuacji wokół Trybunału Konstytu"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Zestrzeliwanie rosyjskich rakiet nad Ukrainą? Tomczyk: NATO nie jest temu przychylne",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33150470,zestrzeliwanie-rosyjskich-rakiet-nad-ukraina-tomczyk-nato.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-25T15:04+00:00",
-      "teaser": "- Tego typu dyskusja toczyła się wiele miesięcy temu i zakończyła się tym, że NATO zdecydowało, aby taka procedura nie wchodziła w grę. I na tym w tej chwili stoimy - skomentował doniesienia Bloomberga wiceszef resortu obrony Cezary Tomczyk."
+      "title": "Ma niszczarkę i może pokrzyżować plany Marine Le Pen. To może być czarny koń wyborów",
+      "url": "https://www.rp.pl/polityka/art45539511-ma-niszczarke-i-moze-pokrzyzowac-plany-marine-le-pen-to-moze-byc-czarny-kon-wyborow",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-25T17:37+01:00",
+      "teaser": "To jest czarny koń wyborów prezydenckich. Ultraliberalny mer Cannes David Lisnard niespodziewanie może uchronić kraj przed diabelskim wyborem między skrajnie prawicową Marine Le Pen i skrajnie lewicowym Jean-Luc Mélenchonem."
      }
     ]
    }
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 5,
-    "score": 9.93,
+    "sourceCount": 4,
+    "score": 7.8,
     "items": [
      {
       "title": "USA kündigen neue Zölle an - auch gegen EU und China",
@@ -624,67 +638,87 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 4.0,
     "items": [
      {
       "title": "Poundland collapses into administration, putting 12,000 jobs at risk",
       "url": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
       "source": "The Guardian",
-      "date": "2026-11-25T15:52+00:00",
-      "teaser": "US owner Gordon Brothers has rejected at least two last-ditch bids for UK budget retailer Do you work for Poundland? Tell us how you’re affected Poundland has called in administrators putting 12,000 jobs at risk ahead of Christmas after its owners rejected at least two last-ditch bids for the budget"
+      "date": "2026-11-25T16:41+00:00",
+      "teaser": "US owner Gordon Brothers rejected at least two last-ditch bids for UK budget retailer Do you work for Poundland? Tell us how you’re affected Poundland has called in administrators, putting 12,000 jobs at risk in the run-up to Christmas after its owners rejected at least two last-ditch bids for the b"
      },
      {
       "title": "Poundland collapses putting 11,000 jobs at risk",
       "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-25T16:03+00:00",
+      "date": "2026-11-25T17:53+00:00",
       "teaser": "The discount chain has collapsed into administration after its owners failed to find a buyer."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.95,
     "items": [
      {
-      "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live",
+      "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – as it happened",
       "url": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
       "source": "The Guardian",
-      "date": "2026-11-25T15:56+00:00",
+      "date": "2026-11-25T17:19+00:00",
       "teaser": "New tariffs planned as Trump administration clamps down on ‘unfair trade practices’ Hannah Webster , senior economist at the think tank New Economics Foundation , also called for other measures. The price cap increase will be difficult news for households to bear, especially during the winter when o"
      },
      {
       "title": "US announces new tariffs on host of countries including China",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-25T14:52+00:00",
+      "date": "2026-11-25T16:21+00:00",
       "teaser": "The new levies would hit many of America's biggest trading partners, including China and the EU."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.92,
     "items": [
      {
-      "title": "Why tiny cars are taking off across Europe",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-25T00:34+00:00",
-      "teaser": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic."
+      "title": "KI-Ausverkauf und neue Zölle: Zollpläne belasten US-Börsen",
+      "url": "https://www.spiegel.de/wirtschaft/ki-ausverkauf-und-neue-zoelle-zollplaene-belasten-us-boersen-a-cf9db6a8-f3a2-4e85-9fd9-f448c9cf168f#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-25T18:01+01:00",
+      "teaser": "Heftige Kursverluste bei Technologieaktien sowie die neu angekündigten Zölle von Donald Trumps Regierung haben den US-Börsen zugesetzt. Damit steigt die Sorge vor dem sogenannten Bärenmarkt."
      },
      {
-      "title": "No, Burnham is not taking a risk over Europe",
-      "url": "https://www.ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-25T14:44+00:00",
-      "teaser": "As long as he stops short of full Rejoin, all the political danger is on the side of his opponents"
+      "title": "Wall Street: Erneuter Ausverkauf: US-Börsen brechen weiter ein – Nvidia verliert sieben Prozent",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-erneuter-ausverkauf-us-boersen-brechen-weiter-ein/100272701.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-25T15:58+00:00",
+      "teaser": "Auch die Rückendeckung des US-Präsidenten für Nvidia-Chef Huang ändert nichts am Ausverkauf der Techwerte. Derweil denkt Trump sogar über eine Staatsbeteiligung bei dem Unternehmen nach."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.76,
+    "score": 3.81,
+    "items": [
+     {
+      "title": "Business-Ticker: Flixtrain-Tickets bald bei der Deutschen Bahn buchbar",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-flixtrain-tickets-bald-bei-der-deutschen-bahn-buchbar-faz-200452404.html",
+      "source": "FAZ",
+      "date": "2026-11-25T15:40+00:00",
+      "teaser": "Briten können bald Autos über Amazon kaufen +++ Trump: Begnadigung Huangs „immer eine Option“ +++ China Southern beschert Boeing größten China-Auftrag seit fast zehn Jahren +++ alle Neuigkeiten im Unternehmen-Liveblog"
+     },
+     {
+      "title": "Flixtrain-Tickets bald auch bei Deutscher Bahn buchbar",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/flixtrain-deutsche-bahn-ticketverkauf-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-25T12:01+01:00",
+      "teaser": "Zugreisende können demnächst auch Tickets für den Wettbewerber Flixtrain auf der Buchungsplattform der Deutschen Bahn buchen. Das vereinfacht den Ticketkauf erheblich - einige Hürden bleiben aber bestehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.63,
     "items": [
      {
       "title": "Befragung der EZB: Kartenzahlung überholt erstmals Bargeld in Geschäften",
@@ -704,54 +738,21 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.39,
+    "score": 3.31,
     "items": [
      {
-      "title": "Jensen Huang: Huang will Nvidia weiter ohne Nachfolgeplan führen",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/jensen-huang-nvidia-ruecktritt-rueckkehr-donald-trump",
-      "source": "Zeit",
-      "date": "2026-11-24T22:18+00:00",
-      "teaser": "Der Nvidia-Chef verzichtet laut Medienberichten auf eine designierte Nachfolge. Er entschuldigte sich für seine Fehler und sagte, er gehe jeden Tag zur Therapie."
-     },
-     {
-      "title": "Donald Trump und Nvidia-CEO Jensen Huang: Der ökonomische American Dream ist am Ende",
-      "url": "https://www.spiegel.de/wirtschaft/donald-trump-und-nvidia-ceo-jensen-huang-der-oekonomische-american-dream-ist-am-ende-a-2e49fbe0-f898-410b-bf08-f077bc0fde4e#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-25T10:03+01:00",
-      "teaser": "Der Präsident und seine Helfer greifen in die Wirtschaft ein, wo sie nur können. Sie ruinieren, was die USA groß gemacht hat."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.05,
-    "items": [
-     {
-      "title": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+      "title": "Kerzen dürften deutlich teurer werden",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
       "source": "Tagesschau",
-      "date": "2026-11-24T21:17+01:00",
-      "teaser": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst."
+      "date": "2026-11-25T10:40+01:00",
+      "teaser": "Der Adventskranz gehört für viele zur Vorweihnachtszeit, doch die Kerzen dafür könnten in diesem Jahr ziemlich teuer werden. Hersteller rechnen mit Preissteigerungen von 30 bis 50 Prozent."
      },
      {
-      "title": "Nvidia: Der Zentralbank-Chef der KI",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/nvidia-jensen-huang-aktien-blase-crash-donald-trump",
-      "source": "Zeit",
-      "date": "2026-11-25T04:56+00:00",
-      "teaser": "Jensen Huang ist durch sein System persönlicher Abhängigkeiten zu wichtig, um gefeuert zu werden. Donald Trumps Eingreifen hat den KI-Crash womöglich aber nur verzögert."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
-      "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
-      "source": "New York Times",
-      "date": "2026-11-25T16:18+00:00",
-      "teaser": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L."
+      "title": "Kerzen dürften deutlich teurer werden",
+      "url": "https://www.spiegel.de/wirtschaft/service/kerzen-duerften-deutlich-teurer-werden-a-516a9c19-aedb-4161-bd4f-2471951052cf#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-25T10:38+01:00",
+      "teaser": "Weihnachtsfreunde müssen jetzt stark sein: Kerzen werden wohl spürbar mehr kosten. Hintergrund ist unter anderem die Entwicklung des Ölpreises."
      }
     ]
    },
@@ -760,11 +761,37 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Märkte Insight: Ist Anthropic nach dem Kursrutsch bereits entzaubert?",
-      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/aktien-ist-anthropic-nach-dem-kursrutsch-bereits-entzaubert/100271552.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-25T16:11+00:00",
-      "teaser": "Trotz der Verluste bleiben die meisten Analysten optimistisch. Der Claude-Entwickler hat zweifellos Substanz. Doch seriöse Prognosen für die Aktie sind kaum möglich, meint Michael Maisch."
+      "title": "Rechenzentren in Südostasien: Die verschlungenen Wege von Nvidia nach China",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chips-fuer-china-wie-malaysia-zum-schlupfloch-wurde-201712558.html",
+      "source": "FAZ",
+      "date": "2026-11-25T17:46+00:00",
+      "teaser": "Chinas KI-Konzerne haben Nvidia-Chips nicht nur durch Schmuggel genutzt, sondern durch Rechenzentren in Ländern wie Malaysia. Dort kehrt mit Jensen Huang auch die Hoffnung aufs Geschäft zurück."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T17:48+00:00",
+      "teaser": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "US Treasury financial crime watchdog hit by suspected cyber attack",
+      "url": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-25T17:45+00:00",
+      "teaser": "FinCen takes systems offline after detecting unauthorised access amid growing fears over vulnerability of technology systems"
      }
     ]
    },
@@ -773,87 +800,108 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Dax aktuell: Dax rutscht unter 25.000-Punkte-Marke – Goldpreis fällt auf tiefsten Stand seit mehr als einem Jahr",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-rutscht-unter-25.000-punkte-marke/100272589.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-25T16:05+00:00",
-      "teaser": "Die Rally infolge der Reinstallation von Jensen Huang überzeugt Anleger nicht nachhaltig. Unterdessen verliert nicht nur der deutsche Aktienmarkt weiter."
+      "title": "Unterkunftsplattform: Airbnb zieht es aufs Land",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/airbnb-in-deutschland-wachstum-kommt-vom-land-201714527.html",
+      "source": "FAZ",
+      "date": "2026-11-25T17:39+00:00",
+      "teaser": "Vor 15 Jahren startete Airbnb in Deutschland. Schnell folgte Kritik, Stadtwohnungen würden als Urlaubsquartiere missbraucht. Heute wächst Airbnb vor allem im Ländlichen – und beobachtet Marotten deutscher Nutzer."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
     "items": [
      {
-      "title": "Deep Read: Kupfer aus Deutschland? Warum der Bergbau vor einem Comeback stehen könnte",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kupferschiefer-kupfer-aus-deutschland-bergbau-koennte-vor-comeback-stehen/100255103.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-25T16:05+00:00",
-      "teaser": "Die Kupfernachfrage steigt, die Erzgehalte der südamerikanischen Vorkommen sinken – plötzlich werden auch Vorkommen in Deutschland für Bergbaukonzerne interessant. Ein Ortstermin."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "EU verlängert Lockerung bei Staatshilfen wegen Energiekrise",
-      "url": "https://www.spiegel.de/wirtschaft/eu-verlaengert-lockerung-bei-staatshilfen-wegen-energiekrise-a-2a42cfb1-d7a5-4d1b-8873-cdb7f9feaa4f#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-25T17:08+01:00",
-      "teaser": "Deutschland und andere EU-Staaten dürfen angesichts der Energiekrise länger Landwirte, Industrie und andere Unternehmen besonders entlasten. Die EU lockert ihre strengen Regeln für staatliche Beihilfen bis Juni 2027."
+      "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
+      "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-25T18:37+01:00",
+      "teaser": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer. Von A. Kartschall."
      }
     ]
    }
   ],
   "Sport": [
    {
-    "sourceCount": 1,
-    "score": 7.93,
+    "sourceCount": 2,
+    "score": 9.97,
     "favorite": true,
     "items": [
      {
-      "title": "El siguiente paso que dará el Barça ante la sanción a Fermín",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255417/siguiente-paso-dara-barca-sancion-fermin.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-25T16:28+01:00",
-      "teaser": "El FC Barcelona no se quedará de brazos cruzados después de que este mediodía el Comité de Disciplina de la RFEF (Real Federación Española de Fútbol ) hiciera pública la sanción de dos partidos a Fermín López tras su expulsión ante el Villarreal desestimando las alegacions que formuló el club azulgr"
+      "title": "LIVE! Barca ohne Lamine Yamal und mit Adeyemi - Villarreal bei Slavia Prag",
+      "url": "https://www.kicker.de/live-barca-ohne-lamine-yamal-und-mit-adeyemi-villarreal-bei-slavia-prag-1274319/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-25T17:31+00:00",
+      "teaser": "Am Wochenende drehte der FC Barcelona gegen den FC Villarreal einen frühen Rückstand noch in einen Sieg. Nun sind beide Klubs in der Champions League gefordert: Die Submarinos gastieren in Prag, Barca beim Sabah FK."
+     },
+     {
+      "title": "Jetzt live - Barca mit Adeyemi bei Sabah FK",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma12517725/sabah-fk_fc-barcelona/liveticker",
+      "source": "Sportschau",
+      "date": "2026-11-25T17:58+01:00",
+      "teaser": "Am 5. Spieltag der Champions League trifft der FC Barcelona auswärts auf Sabah FK. Ein Sieg gegen den Außenseiter ist für die Katalanen fast schon Pflicht."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.86,
+    "score": 7.89,
     "favorite": true,
     "items": [
      {
-      "title": "Competición sanciona con dos partidos a Fermín, que no estará ante el Atlético",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255321/competicion-sanciona-dos-partidos-fermin-no-estara-atletico.html",
+      "title": "Revolución en el once del Barça en Bakú",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255456/hay-once-barca-baku-dos-sorpresas.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-25T15:42+01:00",
-      "teaser": "Ya se conoce la sanción al jugador del FC Barcelona Fermín López tras su expulsión el pasado domingo en el encuentro entre el Barça y el Villarreal . La expulsión tuvo lugar una vez sustituido y que el colegiado Alejandro Hernández Hernández recogió así en el acta arbitral: \"Por levantarse de su ban"
+      "date": "2026-11-25T17:38+01:00",
+      "teaser": "Hansi Flick ya ha facilitado el once que arrancará ante el Sabah en el partido de la 5ª jornada de la fase Liga de la Champions League que se juega a partir de las 18.45 horas en el Olympic Stadium de Bakú (A zerbaiyán). Se trata de una alineación con dos sorpresas principales."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.83,
+    "score": 7.87,
     "favorite": true,
     "items": [
      {
-      "title": "Cesc se pronuncia sobre la opción de entrenar al Barça",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255404/cesc-pronuncia-sobre-opcion-entrenar-barca.html",
+      "title": "Las pruebas de Flick para el Sabah-Barça",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255328/pruebas-flick-sabah-barca.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-25T15:17+01:00",
-      "teaser": "Cesc Fàbregas (39 años) sigue creciendo como entrenador en el Como de Italia. El ex jugador del FC Barcelona inició su carrera como técnico en verano de 2023, una vez colgó las botas en el mismo Como . Desde entonces, y tras iniciarse como ayudante, Cesc logró un ascenso y clasificar al conjunto ita"
+      "date": "2026-11-25T12:29+01:00",
+      "teaser": "Hansi Flick probó una alineación con muchas rotaciones de cara al Sabah-Barça de esta noche en Bakú. Gabriel Jesus sería el 'nueve', dando descanso a Raphinha , con Adeyemi por la derecha en lugar nde Lamine Yamal y Gordon por la izquierda. En defensa, Frenkie de Jong repitiría como central."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.97,
+    "score": 5.94,
+    "items": [
+     {
+      "title": "Champions League: Borussia Dortmund punktet beim FC Arsenal",
+      "url": "https://www.spiegel.de/sport/fussball/champions-league-dortmund-punktet-beim-fc-arsenal-maximilian-beier-trifft-a-e5d9487d-3b7e-4256-a911-c5e89b58c0cf#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-24T23:43+01:00",
+      "teaser": "Wie zäh ist dieser BVB? Niko Kovačs Borussia gelingt beim Premier-League-Tabellenführer dank des vom DFB verschmähten Maxi Beier das Comeback. Auch Abwehr-Youngster Joane Gadou bringt seine Kollegen ins Schwärmen."
+     },
+     {
+      "title": "Champions League, 5. Spieltag: Dortmund und Arsenal trennen sich unentschieden, Leipzig schlägt Lens",
+      "url": "https://www.zeit.de/sport/2026-11/champions-league-dortmund-leipzig-arsenal-lens",
+      "source": "Zeit",
+      "date": "2026-11-24T22:03+00:00",
+      "teaser": "Der BVB spielt in London nach Rückstand gegen Arsenal remis. RB Leipzig holt sich gegen Frankreichs Vizemeister den zweiten Sieg in der Ligaphase. Die Spielberichte"
+     },
+     {
+      "title": "Borussia Dortmund vs. FC Arsenal: Was das Remis über die Kovac-Elf verrät",
+      "url": "https://www.11freunde.de/international/champions-league/borussia-dortmund-vs-fc-arsenal-was-das-remis-ueber-die-kovac-elf-verraet-a-7718250d-59fe-4f6d-bed1-6537061a099b#ref=rss",
+      "source": "11 Freunde",
+      "date": "2026-11-25T18:12+01:00",
+      "teaser": "Borussia Dortmund besteht auch beim FC Arsenal und ein Jungspund erlebt seinen Durchbruch. Bespricht den Chsampions-League-Abend: das Themenfrühstück."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.84,
     "items": [
      {
       "title": "Jamal Musiala: Das Statement des FC Bayern zwischen den Zeilen",
@@ -880,7 +928,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 4.54,
+    "score": 4.41,
     "items": [
      {
       "title": "Champions League: RB Leipzig besiegt RC Lens, Real Madrid bezwingt PSV Eindhoven",
@@ -907,27 +955,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.53,
+    "score": 3.99,
     "items": [
      {
-      "title": "Champions League: Borussia Dortmund punktet beim FC Arsenal",
-      "url": "https://www.spiegel.de/sport/fussball/champions-league-dortmund-punktet-beim-fc-arsenal-maximilian-beier-trifft-a-e5d9487d-3b7e-4256-a911-c5e89b58c0cf#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-24T23:43+01:00",
-      "teaser": "Wie zäh ist dieser BVB? Niko Kovačs Borussia gelingt beim Premier-League-Tabellenführer dank des vom DFB verschmähten Maxi Beier das Comeback. Auch Abwehr-Youngster Joane Gadou bringt seine Kollegen ins Schwärmen."
+      "title": "Ziel VfL Gummersbach - Andreas Wolff verlässt den THW Kiel",
+      "url": "https://www.sportschau.de/regional/ndr/ziel-vfl-gummersbach-wolff-verlaesst-thw-kiel,thw-kiel-594.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-25T18:37+01:00",
+      "teaser": "Handball-Nationaltorhüter Andreas Wolff verlässt den THW Kiel und schließt sich Medienberichten zufolge dem Bundesliga-Konkurrenten VfL Gummersbach an. Der am 30. Juni 2028 auslaufende Vertrag werde nicht verlängert, teilten die Norddeutschen mit."
      },
      {
-      "title": "Champions League, 5. Spieltag: Dortmund und Arsenal trennen sich unentschieden, Leipzig schlägt Lens",
-      "url": "https://www.zeit.de/sport/2026-11/champions-league-dortmund-leipzig-arsenal-lens",
+      "title": "Handball: Andreas Wolff verlässt THW Kiel",
+      "url": "https://www.zeit.de/sport/2026-11/handball-andreas-wolff-nationaltorwart-thw-kiel-vfl-gummersbach",
       "source": "Zeit",
-      "date": "2026-11-24T22:03+00:00",
-      "teaser": "Der BVB spielt in London nach Rückstand gegen Arsenal remis. RB Leipzig holt sich gegen Frankreichs Vizemeister den zweiten Sieg in der Ligaphase. Die Spielberichte"
+      "date": "2026-11-25T17:46+00:00",
+      "teaser": "Mit 35 Jahren sucht Handballnationaltorwart Andreas Wolff noch einmal eine neue Herausforderung. Er verlässt Rekordmeister Kiel – vermutlich in Richtung Gummersbach."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 2.28,
+    "score": 2.15,
     "items": [
      {
       "title": "Live hören: Die Konferenz | Fußball Champions League",
@@ -940,66 +988,53 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Auch dank Egwuatus traumhaften Lupfer: Bayern-Nachwuchs feiert Dreier in Lille",
-      "url": "https://www.kicker.de/lille-osc-gegen-bayern-2026-uefa-youth-league-5264985/spielbericht#omrss",
-      "source": "kicker",
-      "date": "2026-11-25T16:17+00:00",
-      "teaser": "Die U 19 des FC Bayern feiert am 5. Spieltag der Youth League bei Lille OSC den dringend benötigten Dreier, den Egwuatu mit einem traumhaften Lupfer garnierte. Mit nun sieben Punkten haben die Münchner nun wieder bessere Karten für ein Weiterkommen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Regionalliga-Reform: WDFV setzt auf den \"Kompass\"",
-      "url": "https://www.kicker.de/regionalliga-reform-wdfv-setzt-auf-den-kompass-1275006/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-25T16:12+00:00",
-      "teaser": "In wenigen Wochen soll auf einem außerordentlichen DFB-Bundestag über die Zukunft der Regionalliga entschieden werden. Während sich im Nordosten und in Bayern zuletzt die Stimmen gegen das Kompassmodell mehrten, positionierte sich der Westdeutsche Fußballverband nun klar hinter der vom DFB präferier"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Luxussituation für Thioune: \"Normalerweise wird die Mannschaft noch besser\"",
-      "url": "https://www.kicker.de/luxussituation-fuer-thioune-normalerweise-wird-die-mannschaft-noch-besser-1274995/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-25T16:06+00:00",
-      "teaser": "Werder Bremen surft auf der Erfolgswelle - und Trainer Daniel Thioune hat wieder personelle Optionen. Justin Njinmah und Eren Dinkci machen Druck - und Stammkräfte kehren in den Kader zurück. Der Konkurrenzkampf wächst."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Nach Olympia-Märchen: Ski-Star Brignone beendet Karriere",
-      "url": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-25T17:08+01:00",
-      "teaser": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
     "score": 1.97,
     "items": [
      {
-      "title": "Wer mehr von Schalkes Systemumstellung profitiert und wer weniger",
-      "url": "https://www.kicker.de/wer-mehr-von-schalkes-systemumstellung-profitiert-und-wer-weniger-1274819/artikel#omrss",
+      "title": "Guardiola bestätigt Gespräche mit Italien",
+      "url": "https://www.kicker.de/guardiola-bestaetigt-gespraeche-mit-italien-1275030/video#omrss",
       "source": "kicker",
-      "date": "2026-11-25T16:00+00:00",
-      "teaser": "Bei Schalke 04 kommen im neuen System bei etlichen Profis Fähigkeiten deutlicher zum Tragen. Zur Wahrheit gehört aber auch, dass es Spieler gibt, die ihrer Stärken eher beraubt werden. Auf wen diese Erkenntnisse vor allem zutreffen."
+      "date": "2026-11-25T17:37+00:00",
+      "teaser": "Im Interview mit Brasilien-Legende Romario spricht Pep Guardiola über das Angebot Italiens, den Posten als Nationaltrainer der Squadra Azzurra zu übernehmen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Mit Hertha in die Bundesliga? Seguins Vertrag hat sich automatisch verlängert",
+      "url": "https://www.kicker.de/mit-hertha-in-die-bundesliga-seguins-vertrag-hat-sich-automatisch-verlaengert-1275018/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-25T16:56+00:00",
+      "teaser": "Paul Seguin ist in der derzeit überragenden Mannschaft von Hertha BSC ein elementares Puzzleteil im Mittelfeld - und bleibt der Alten Dame über den Sommer hinaus und damit vielleicht in der Bundesliga erhalten."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
+      "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
+      "source": "The Guardian",
+      "date": "2026-11-25T17:00+00:00",
+      "teaser": "Unai Emery wanted the winger but, like Harvey Elliott last season, he has been left out in the cold despite Villa’s attacking struggles It is three years this week since Alejandro Garnacho opened the scoring for Manchester United in a 3-3 draw at Galatasaray in the Champions League, on a typically b"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "'Best midfielder in the world' - where does Bellingham rank?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T16:46+00:00",
+      "teaser": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?"
      }
     ]
    }
@@ -1007,14 +1042,14 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.62,
+    "score": 3.92,
     "items": [
      {
-      "title": "The Verge’s 2026 gift guide for dads",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "title": "The Verge’s guide to affordable holiday gifts under $25",
+      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
       "source": "The Verge",
-      "date": "2026-11-24T18:59-05:00",
-      "teaser": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated thi"
+      "date": "2026-11-25T10:00-05:00",
+      "teaser": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with. For this list, we've rounded up a barrage of fun gadgets a"
      },
      {
       "title": "The 36 Best Gifts for Dads (2026)",
@@ -1026,15 +1061,61 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 1.99,
+    "sourceCount": 2,
+    "score": 3.89,
     "items": [
      {
-      "title": "Anzeige: Ankers Soundcore-Lautsprecher zum Black Friday für 18 Euro bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-ankers-soundcore-lautsprecher-zum-black-friday-fuer-18-euro-bei-amazon-2611-215646.html",
+      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+      "source": "Ars Technica",
+      "date": "2026-11-25T16:33+00:00",
+      "teaser": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says."
+     },
+     {
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T10:52+00:00",
+      "teaser": "The verdict follows a months-long trial in New York."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Anzeige: Was die IT vor dem Start von Microsoft 365 Copilot klärt",
+      "url": "https://www.golem.de/news/anzeige-was-die-it-vor-dem-start-von-microsoft-365-copilot-klaert-2611-215615.html",
       "source": "Golem",
-      "date": "2026-11-25T14:41+01:00",
-      "teaser": "Er schwimmt sogar im Wasser: Der Bluetooth-Lautsprecher Anker Soundcore Select 4 Go ist bei Amazon zum Black Friday zum neuen Tiefstpreis zu haben. ( Black Friday , Sound-Hardware )"
+      "date": "2026-11-25T18:45+01:00",
+      "teaser": "Wer Microsoft 365 Copilot einführt, muss Lizenzen und Zugriffe klären. Im Workshop übt die IT, wie das geht. In der Black Week kostet der Kurs 20 Prozent weniger. ( Golem Karrierewelt , Server-Applikationen )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Anzeige: Amazons meistegekaufter Hi-Fi-Verstärker kostet vorübergehend unter 100 Euro",
+      "url": "https://www.golem.de/news/anzeige-amazons-meistegekaufter-hi-fi-verstaerker-kostet-voruebergehend-unter-100-euro-2611-215665.html",
+      "source": "Golem",
+      "date": "2026-11-25T18:39+01:00",
+      "teaser": "Der Fosi Audio BT20A Pro macht passive Lautsprecher fit für Musik vom Smartphone. Nun kostet der kompakte Stereo-Verstärker weniger als 100 Euro. ( Technik/Hardware )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "date": "2026-11-25T12:44-05:00",
+      "teaser": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, t"
      }
     ]
    },
@@ -1043,11 +1124,37 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "source": "The Verge",
-      "date": "2026-11-25T11:00-05:00",
-      "teaser": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes "
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "source": "Ars Technica",
+      "date": "2026-11-25T17:33+00:00",
+      "teaser": "An independent browser engine arrives on Linux and macOS, and we've tried it."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Nach Einschlag von Dart: Hera findet riesigen Krater auf Asteroiden Dimorphos",
+      "url": "https://www.heise.de/news/Weltraumsonde-Hera-entdeckt-hunderte-Mini-Asteroiden-rund-um-Dimorphos-11538102.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-25T18:30+01:00",
+      "teaser": "Die Asteroidensonde Hera hat bei Didymos und Dimorphos nicht nur einen deutlich sichtbaren Krater nach dem Einschlag der NASA-Sonde Dart entdeckt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Anzeige: Black Friday bei Amazon - zweite Hälfte mit 40 neuen Top-Deals",
+      "url": "https://www.golem.de/news/anzeige-black-friday-bei-amazon-zweite-haelfte-mit-40-neuen-top-deals-2611-215656.html",
+      "source": "Golem",
+      "date": "2026-11-25T16:10+01:00",
+      "teaser": "Die erste Hälfte der Black Friday Woche ist vorbei. In dieser Zeit ist viel passiert, Deals kamen und gingen. Das sind derzeit die 40 besten Angebote. ( Black Friday , Amazon )"
      }
     ]
    },
@@ -1056,11 +1163,11 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
-      "url": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
-      "source": "New York Times",
-      "date": "2026-11-25T15:43+00:00",
-      "teaser": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies."
+      "title": "Wirtschaftskrieg: US-Gericht muss Huawei in wichtigsten Anklagepunkten freisprechen",
+      "url": "https://www.golem.de/news/wirtschaftskrieg-us-gericht-muss-huawei-in-wichtigsten-anklagepunkten-freisprechen-2611-215662.html",
+      "source": "Golem",
+      "date": "2026-11-25T18:22+01:00",
+      "teaser": "Ein US-Geschworenengericht hat Huawei schuldig gesprochen. Die wichtigsten Anklagepunkte wurden aber fallengelassen. Eine Analyse von Achim Sawall ( Huawei , Wirtschaft )"
      }
     ]
    },
@@ -1069,102 +1176,37 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
-      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
       "source": "Ars Technica",
-      "date": "2026-11-25T15:35+00:00",
-      "teaser": "Prior modeling estimated the plume would cover hundreds of square miles."
+      "date": "2026-11-25T17:12+00:00",
+      "teaser": "One veteran illustrator dismisses revisions as \"sugar coating.\""
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.92,
     "items": [
      {
-      "title": "Elektroautos: \"Geisterfabrik\" in China kostet Audi Hunderte Millionen",
-      "url": "https://www.golem.de/news/elektroautos-geisterfabrik-in-china-kostet-audi-hunderte-millionen-2611-215657.html",
+      "title": "(g+) Security: Die iranische Hackereinheit hinter den Kühlanlagen-Angriffen",
+      "url": "https://www.golem.de/news/security-die-iranische-hackereinheit-hinter-den-kuehlanlagen-angriffen-2611-215660.html",
       "source": "Golem",
-      "date": "2026-11-25T16:30+01:00",
-      "teaser": "Audis neue Fabrik für Elektroautos in China ist kaum ausgelastet. E-Tron-Modelle wie der Q6 oder A6 verkaufen sich sehr schlecht. ( Audi , Technologie )"
+      "date": "2026-11-25T18:00+01:00",
+      "teaser": "Die FT rekonstruiert mit Geheimdiensterkenntnissen und Expertenaussagen, wer mutmaßlich hinter den Angriffen auf Supermarkt-Kühlanlagen steckt. Von Tom Wilson ( Security , Stuxnet )"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.92,
     "items": [
      {
-      "title": "MVNO Simsalasim: Internationale 10-Euro-Datenflatrate Simsalasim weiter ohne festen Starttermin",
-      "url": "https://www.golem.de/news/mvno-simsalasim-10-euro-datenflatrate-simsalasim-weiter-ohne-festen-starttermin-2611-215652.html",
+      "title": "Vertragskündigung: Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo",
+      "url": "https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html",
       "source": "Golem",
-      "date": "2026-11-25T16:00+01:00",
-      "teaser": "Ein konkreter Termin für den Start des neuen Mobilfunkanbieters Simsalasim steht aus. Aber es gibt viele Voranmeldungen. ( Simsalasim , Mobilfunk )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Euclid entdeckt bislang entferntesten Quasar – er leuchtete bereits 630 Millionen Jahre nach dem Urknall",
-      "url": "https://t3n.de/news/euclid-entferntester-quasar-schwarzes-loch-1775239/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-25T16:00+01:00",
-      "teaser": "Mehr als 13 Milliarden Jahre war ein schwaches Infrarotsignal durch den Kosmos unterwegs, bevor Weltraumteleskope es auffingen. Hinter dem unscheinbaren roten Lichtpunkt steckt ein schweres Objekt, das gängige Modelle zum frühen Universum herausfordert. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "The Verge’s guide to affordable holiday gifts under $25",
-      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
-      "source": "The Verge",
-      "date": "2026-11-25T10:00-05:00",
-      "teaser": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with. For this list, we've rounded up a barrage of fun gadgets a"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "The 30 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
-      "url": "https://www.wired.com/story/best-black-friday-deals-11-25-2026/",
-      "source": "Wired",
-      "date": "2026-11-25T15:03+00:00",
-      "teaser": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Anzeige: Beliebter WLAN-Repeater für nur 23,32 Euro im Black Friday Angebot",
-      "url": "https://www.golem.de/news/anzeige-beliebter-wlan-repeater-fuer-nur-23-32-euro-im-black-friday-angebot-2611-215653.html",
-      "source": "Golem",
-      "date": "2026-11-25T15:48+01:00",
-      "teaser": "Den WLAN-Repeater TP-Link RE330 mit LAN-Anschluss, Dualbandtechnologie und Easymesh gibt es zum Black Friday günstig bei Amazon. ( TP-Link , Black Friday )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Moritz Schularick: Ökonom schlägt Verkauf von VW an China vor",
-      "url": "https://www.golem.de/news/moritz-schularick-oekonom-schlaegt-verkauf-von-vw-an-china-vor-2611-215651.html",
-      "source": "Golem",
-      "date": "2026-11-25T15:40+01:00",
-      "teaser": "VW sollte an China verkauft werden, \"solange wir noch was für die kriegen\", schlägt der Präsident des Kiel-Instituts für Weltwirtschaft vor. ( VW , Wirtschaft )"
+      "date": "2026-11-25T17:58+01:00",
+      "teaser": "Nach Ansicht der Verbraucherzentrale Brandenburg sind die Hürden bei der Kündigung eines kostenpflichtigen ChatGPT-Abos zu hoch. ( ChatGPT , KI )"
      }
     ]
    }
@@ -1241,7 +1283,7 @@
    "topic": "Welt & Politik",
    "source": "NPR (Politik)",
    "ok": true,
-   "items": 6
+   "items": 8
   },
   {
    "topic": "Welt & Politik",
@@ -1499,7 +1541,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 8
+   "items": 10
   },
   {
    "topic": "Tech & KI",
