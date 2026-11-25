@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-24T23:54:55+00:00",
+ "fetchedAt": "2026-11-25T01:23:33+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 6,
-    "score": 11.97,
+    "sourceCount": 5,
+    "score": 9.98,
     "items": [
      {
       "title": "New York jury convicts Huawei of stealing trade secrets",
@@ -31,8 +31,15 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.32,
+    "score": 7.88,
     "items": [
+     {
+      "title": "What's next for Nvidia and Jensen Huang after Trump's intervention",
+      "url": "https://www.pbs.org/newshour/show/whats-next-for-nvidia-and-jensen-huang-after-trumps-intervention",
+      "source": "PBS NewsHour",
+      "date": "2026-11-24T18:50-05:00",
+      "teaser": "Questions are still being raised about Jensen Huang's reinstatement as Nvidia's CEO, the role President Trump played in that decision and what other investigations could mean for the company. To help break it all down, Amna Nawaz spoke with Greg Ip, chief economics commentator for The Wall Street Jo"
+     },
      {
       "title": "Why Trump's move to get Jensen Huang reinstated as Nvidia CEO won't end the questions",
       "url": "https://www.cbc.ca/news/world/trump-jensen-huang-nvidia-china-9.7433543?cmp=rss",
@@ -46,40 +53,46 @@
       "source": "New York Times",
       "date": "2026-11-24T11:55+00:00",
       "teaser": "Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say."
-     },
-     {
-      "title": "Nvidia-Skandal: Wie Donald Trump die Rückkehr von Jensen Huang durchsetzte",
-      "url": "https://www.spiegel.de/ausland/nvidia-skandal-wie-donald-trump-die-rueckkehr-von-jensen-huang-durchsetzte-a-5133b7fe-b964-4915-a3ad-579bedcb1659#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-24T16:42+01:00",
-      "teaser": "Der Präsident der USA hat eingegriffen, damit Nvidia-Chef Jensen Huang zurück auf seinen Posten kann. Rekonstruktion einer dreisten Kampagne."
      }
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.8,
+    "sourceCount": 2,
+    "score": 3.99,
     "items": [
      {
-      "title": "Trump awards Rudy Giuliani the Medal of Freedom, highest US civilian honour",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375672/trump-awards-rudy-giuliani-medal-freedom-highest-us-civilian-honour",
+      "title": "Thomas Markle charged in US with possessing child sex abuse material",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375679/thomas-markle-charged-us-possessing-child-sex-abuse-material",
       "source": "South China Morning Post",
-      "date": "2026-11-24T20:04+00:00",
-      "teaser": "US President Donald Trump on Tuesday awarded the Medal of Freedom, the country’s highest civilian honour, to Rudy Giuliani, the former New York mayor who became a national figure after the September 11, 2001, attacks and later helped Trump try to overturn his 2020 election defeat. Trump announced he"
+      "date": "2026-11-25T01:17+00:00",
+      "teaser": "Thomas Markle, the estranged father of Britain’s Duchess of Sussex, Meghan Markle, and father-in-law of Britain’s Prince Harry, was indicted on Tuesday in US federal court on two counts of ‌possessing child sexual abuse material. The indictment doubles the number of federal charges currently lodged "
      },
      {
-      "title": "Rudy Giuliani: Trump zeichnet früheren New Yorker Bürgermeister Giuliani mit »Medal of Freedom« aus",
-      "url": "https://www.spiegel.de/ausland/rudy-giuliani-trump-zeichnet-frueheren-new-yorker-buergermeister-giuliani-mit-medal-of-freedom-aus-a-696c53ba-4efd-4206-97f7-886b4dc1ec2f#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-24T22:17+01:00",
-      "teaser": "Er wurde am 11. September zum amerikanischen Helden und verbreitete später Trumps Lüge von der verlorenen Wahl 2020: New Yorks Ex-Bürgermeister Rudy Giuliani hat vom Präsidenten die höchste zivile Auszeichnung der USA bekommen."
+      "title": "Megan Markle's father indicted on 2 counts of possessing child sex abuse materials",
+      "url": "https://www.cbc.ca/news/world/thomas-markle-child-sex-abuse-materials-9.7434831?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-24T18:42-05:00",
+      "teaser": "Thomas Markle, the estranged father of ‌the Duchess of Sussex, Meghan Markle, was indicted on Tuesday in ​a Los Angeles federal court on two counts of possessing child sexual abuse material."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.99,
+    "items": [
+     {
+      "title": "China’s Shenzhou-24 spacecraft lifts off with first foreign astronaut on board",
+      "url": "https://www.scmp.com/news/china/science/article/3375677/chinas-shenzhou-24-spacecraft-lifts-first-foreign-astronaut-board",
+      "source": "South China Morning Post",
+      "date": "2026-11-25T00:26+00:00",
+      "teaser": "China’s latest crewed space mission, Shenzhou-24, lifted off on Wednesday morning, taking three astronauts – including the first foreign crew member – to the Tiangong space station. In a sign of the space programme’s increasing diversity, for about a week, the station will be home to four astronauts"
      },
      {
-      "title": "Trump Awards Rudy Giuliani Presidential Medal of Freedom",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-24T21:32+00:00",
-      "teaser": "The award honored a Trump ally who was once known as “America’s mayor” but whose reputation was tarnished by his efforts to overturn the 2020 election on behalf of the president."
+      "title": "China’s Shenzhou-24 space flight takes off with Pakistani national as first foreign astronaut",
+      "url": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut/article71740891.ece",
+      "source": "The Hindu",
+      "date": "2026-11-25T06:47+05:30",
+      "teaser": "Using a Long March-2F rocket, the spacecraft took ‌off at 8:18 a.m. (0018 GMT) ‌from ⁠the Jiuquan Satellite Launch Centre ⁠in northwest China"
      }
     ]
    },
@@ -88,24 +101,24 @@
     "score": 3.98,
     "items": [
      {
-      "title": "Megan Markle's father indicted on 2 counts of possessing child sex abuse materials",
-      "url": "https://www.cbc.ca/news/world/thomas-markle-child-sex-abuse-materials-9.7434831?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-24T18:42-05:00",
-      "teaser": "Thomas Markle, the estranged father of ‌the Duchess of Sussex, Meghan Markle, was indicted on Tuesday in ​a Los Angeles federal court on two counts of possessing child sexual abuse material."
+      "title": "Ukrainian drones reportedly strike 2 Russian oil refineries in massive attack",
+      "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-russian-oil-refineries-in-massive-attack/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-25T01:08+00:00",
+      "teaser": "Ukrainian forces struck two Russian oil refineries, setting the sites ablaze in a massive attack overnight on Nov. 25, monitoring channels reported."
      },
      {
-      "title": "Thomas Markle indicted on possessing child sexual abuse material charges",
-      "url": "https://www.abc.net.au/news/2026-11-25/thomas-markle-father-in-law-of-prince-harry-indicted/107424340",
-      "source": "ABC Australia",
-      "date": "2026-11-24T23:36+00:00",
-      "teaser": "Thomas Markle, the father of Meghan, Duchess of Sussex and father-in-law to Prince Harry, has been indicted in a US court."
+      "title": "A Russian strike on Ukraine kills two, wounds 48 as Kyiv explains its attack in Libya",
+      "url": "https://www.thehindu.com/news/international/russian-attack-kills-two-people-wounds-22-in-ukraines-zaporizhzhia-official-says/article71737237.ece",
+      "source": "The Hindu",
+      "date": "2026-11-24T22:44+05:30",
+      "teaser": "A Russian nighttime attack on Zaporizhzhia in southern Ukraine has killed two civilians and wounded 48 others including four children"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.8,
     "items": [
      {
       "title": "U.S. CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports",
@@ -125,27 +138,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
-    "items": [
-     {
-      "title": "Why the U.S. Army is about to blow up 5 tons of lead explosives in Iowa | About That",
-      "url": "https://www.cbc.ca/player/play/9.7434811?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-24T18:05-05:00",
-      "teaser": "The U.S. army plans to detonate nearly 10,000 pounds of lead azide — an extremely volatile explosive used to trigger bombs — at a military base in Iowa. Andrew Chang breaks down why officials say this is the safest option despite the risks to the community. Images provided by The Canadian Press, Reu"
-     },
-     {
-      "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
-      "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-24T20:28+00:00",
-      "teaser": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.85,
+    "score": 3.72,
     "items": [
      {
       "title": "Jensen Huang's Nvidia comeback sends AI videos into overdrive",
@@ -165,27 +158,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.68,
     "items": [
      {
-      "title": "Ukraine war latest: 'Evacuation, air raid,' — Russian military aircraft approach South Korean island, trigger alert",
-      "url": "https://kyivindependent.com/ukraine-war-latest-evacuation-air-raid-russian-military-aircraft-approach-south-korean-island-trigger-alert/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-24T19:14+00:00",
-      "teaser": "Key developments on Nov. 24: 'Evacuation, air raid,' — Russian military aircraft approach South Korean island, trigger air raid alert Zelensky confirms Ukrainian attack on Russian ship in Gulf of Finland Russia breaks yearly troop losses record in Ukraine at 432,519 casualties, General Staff says Uk"
+      "title": "Rudy Giuliani: Trump zeichnet früheren New Yorker Bürgermeister Giuliani mit »Medal of Freedom« aus",
+      "url": "https://www.spiegel.de/ausland/rudy-giuliani-trump-zeichnet-frueheren-new-yorker-buergermeister-giuliani-mit-medal-of-freedom-aus-a-696c53ba-4efd-4206-97f7-886b4dc1ec2f#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-24T22:17+01:00",
+      "teaser": "Er wurde am 11. September zum amerikanischen Helden und verbreitete später Trumps Lüge von der verlorenen Wahl 2020: New Yorks Ex-Bürgermeister Rudy Giuliani hat vom Präsidenten die höchste zivile Auszeichnung der USA bekommen."
      },
      {
-      "title": "Russian jets spark air raid alert in South Korea",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-24T21:14+00:00",
-      "teaser": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday."
+      "title": "Trump Awards Rudy Giuliani Presidential Medal of Freedom",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-24T21:32+00:00",
+      "teaser": "The award honored a Trump ally who was once known as “America’s mayor” but whose reputation was tarnished by his efforts to overturn the 2020 election on behalf of the president."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.75,
+    "score": 3.63,
     "items": [
      {
       "title": "Menschenrechtsgerichtshof: Pushbacks in Ausnahmefällen zulässig",
@@ -205,7 +198,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.75,
+    "score": 3.63,
     "items": [
      {
       "title": "UN slams Iran after it flogs singer for performing without veil",
@@ -225,7 +218,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.63,
+    "score": 3.5,
     "items": [
      {
       "title": "Wladimir Putin wirft bekannten Regisseur Alexander Sokurow aus Menschenrechtsrat",
@@ -245,21 +238,21 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.63,
+    "score": 3.49,
     "items": [
      {
-      "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-      "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-      "source": "NPR",
-      "date": "2026-11-23T07:42-05:00",
-      "teaser": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history."
+      "title": "Ukraine war latest: 'Evacuation, air raid,' — Russian military aircraft approach South Korean island, trigger alert",
+      "url": "https://kyivindependent.com/ukraine-war-latest-evacuation-air-raid-russian-military-aircraft-approach-south-korean-island-trigger-alert/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-24T19:14+00:00",
+      "teaser": "Key developments on Nov. 24: 'Evacuation, air raid,' — Russian military aircraft approach South Korean island, trigger air raid alert Zelensky confirms Ukrainian attack on Russian ship in Gulf of Finland Russia breaks yearly troop losses record in Ukraine at 432,519 casualties, General Staff says Uk"
      },
      {
-      "title": "Broderick Wins Tennessee House Race, Giving Democrats Largest Majority in 30 Years",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html",
-      "source": "New York Times (Politik)",
-      "date": "2026-11-24T19:26+00:00",
-      "teaser": "Democrats’ midterm rout kept expanding in the House after a tech support worker ousted an eight-term Republican without having aired a single TV ad."
+      "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+      "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
+      "source": "The Guardian",
+      "date": "2026-11-24T04:14+00:00",
+      "teaser": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airspace, prompting a pr"
      }
     ]
    }
@@ -267,7 +260,7 @@
   "Deutschland": [
    {
     "sourceCount": 4,
-    "score": 7.67,
+    "score": 7.54,
     "items": [
      {
       "title": "Berliner Linke schließt Emde aus Fraktion aus",
@@ -294,7 +287,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.75,
+    "score": 5.63,
     "items": [
      {
       "title": "Eine Hürde weniger für Rot-Grün-Rot in Berlin",
@@ -321,7 +314,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.84,
     "items": [
      {
       "title": "Haushaltspolitik: Pflegekassen warnen vor Milliardendefizit trotz Bundeskrediten",
@@ -334,7 +327,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.69,
     "items": [
      {
       "title": "Stadt steigt bei Horber Ritterspielen aus: Warum es trotzdem weitergeht",
@@ -347,7 +340,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.62,
     "items": [
      {
       "title": "Angst vor Femizid: Wie einer Betroffenen die Flucht gelang",
@@ -360,7 +353,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.59,
     "items": [
      {
       "title": "Blitzeis und glatte Straßen: Hier müssen Autofahrer am Mittwoch aufpassen",
@@ -373,7 +366,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.53,
     "items": [
      {
       "title": "Palantir-Ausstieg von NRW erhöht den Druck auf Özdemir und die Landesregierung",
@@ -386,7 +379,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.62,
+    "score": 1.5,
     "items": [
      {
       "title": "Bundesregierung: Wie du mir, so ich dir!",
@@ -399,7 +392,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.61,
+    "score": 1.49,
     "items": [
      {
       "title": "Einbruch bei William und Kate - Polizei schnappt Verdächtige",
@@ -412,7 +405,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.61,
+    "score": 1.49,
     "items": [
      {
       "title": "Fünf Tote in Kehler Familienwohnung gefunden: Zwei Kinder weiter in kritischem Zustand",
@@ -425,7 +418,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.48,
     "items": [
      {
       "title": "Verbraucherschützer haben die smarte Brille im Blick",
@@ -438,7 +431,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.48,
     "items": [
      {
       "title": "Lehrer aus Künzelsau kniet auf Schüler: Landgericht verhängt Geldstrafe",
@@ -453,7 +446,20 @@
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.81,
+    "items": [
+     {
+      "title": "Całe podium dla BYD. Ile kosztują najtańsze hybrydy plug-in w Polsce?",
+      "url": "https://moto.rp.pl/tu-i-teraz/art45477631-cale-podium-dla-byd-ile-kosztuja-najtansze-hybrydy-plug-in-w-polsce",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-25T00:05+01:00",
+      "teaser": "Sprzedaż hybryd plug-in rośnie dziś najszybciej na polskim rynku. Pomagają w tym coraz niższe ceny – najtańszy model kosztuje obecnie niespełna 90 tys. zł. Wśród najtańszych PHEV-ów dominuje jednak jedna marka."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.8,
     "items": [
      {
       "title": "Zwiększamy nasz potencjał w energii odnawialnej",
@@ -466,7 +472,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.8,
     "items": [
      {
       "title": "Polski przemysł spożywczy szuka nowej przewagi",
@@ -479,7 +485,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.8,
     "items": [
      {
       "title": "Liga Mistrzów. Real Madryt z perfekcyjnym bilansem, Pietuszewski bohaterem Porto",
@@ -492,7 +498,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.68,
     "items": [
      {
       "title": "Nikt nie chce pracować z Kashem Patelem. Masowe odejścia z FBI",
@@ -505,7 +511,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.68,
     "items": [
      {
       "title": "Kredyt zaufania u prezesa. Jana Urbana uratuje jednak tylko awans na Euro",
@@ -518,7 +524,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.62,
     "items": [
      {
       "title": "„Nie tak się umawialiśmy”. Starosta chce przywrócić konie na całej trasie do Morskiego Oka",
@@ -531,7 +537,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.62,
     "items": [
      {
       "title": "Koniec wakatu w Izbie Karnej Sądu Najwyższego. Nawrocki powołał nowego prezesa",
@@ -544,7 +550,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.59,
     "items": [
      {
       "title": "Magyar spotkał się z Zełenskim. Węgry deklarują pomoc i potępiają rosyjską agresję",
@@ -557,7 +563,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.59,
     "items": [
      {
       "title": "Gen. Polko gorzko o incydencie z rakietami. „Zamiast zwalczać, wykazujemy bezradność”",
@@ -570,7 +576,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.59,
     "items": [
      {
       "title": "Sędziowie TK z obozu Święczkowskiego wydali oświadczenie. \"Bezprawny zamach na tajemnicę\"",
@@ -583,7 +589,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.57,
     "items": [
      {
       "title": "Poland and US sign defence technology cooperation agreement",
@@ -593,25 +599,12 @@
       "teaser": "The deal follows 17 years of negotiations."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.68,
-    "items": [
-     {
-      "title": "\"Ali Musajew\" i ponad sto lotów prywatnymi samolotami. Tak syn Kadyrowa zdobył serbski paszport",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33149013,ali-musajew-i-ponad-sto-lotow-prywatnymi-samolotami-tak-syn.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-24T20:02+00:00",
-      "teaser": "19-letni Ali Kadyrow, otrzymał serbskie obywatelstwo i może podróżować po Europie bez wizy - donosi bałkańska redakcja Radia Wolna Europa. Dziennikarze powołują się na rosyjską Fundację Walki z Korupcją, założoną przez opozycjonistę Aleksieja Nawalnego."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 3,
-    "score": 5.69,
+    "score": 5.56,
     "items": [
      {
       "title": "Trump made up to $15m on Nvidia stock after Huang’s return",
@@ -638,7 +631,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "FirstFT: Huawei convicted of fraud and stealing trade secrets in US trial",
+      "url": "https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-24T21:55+00:00",
+      "teaser": "Also in today’s newsletter: Nvidia’s Jensen Huang strikes a defiant tone and Trump readies a raft of new tariffs"
+     },
+     {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T01:11+00:00",
+      "teaser": "The verdict follows a months-long trial in New York."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.74,
     "items": [
      {
       "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
@@ -658,27 +671,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
-    "items": [
-     {
-      "title": "FirstFT: Huawei convicted of fraud and stealing trade secrets in US trial",
-      "url": "https://www.ft.com/content/6f89d7f9-563e-4c80-b071-e1bfeecbba7b?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-24T21:55+00:00",
-      "teaser": "Also in today’s newsletter: Nvidia’s Jensen Huang strikes a defiant tone and Trump readies a raft of new tariffs"
-     },
-     {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-24T22:24+00:00",
-      "teaser": "The verdict follows a months-long trial in New York."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.43,
+    "score": 3.3,
     "items": [
      {
       "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
@@ -698,7 +691,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.65,
+    "score": 2.53,
     "items": [
      {
       "title": "Nvidia-Skandal: US-Regierung setzt Megaspeed auf schwarze Liste",
@@ -718,14 +711,40 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.98,
     "items": [
      {
-      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-      "source": "New York Times",
-      "date": "2026-11-24T23:27+00:00",
-      "teaser": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries."
+      "title": "Nvidia: Jensen Huang entschuldigt sich bei Belegschaft und spricht über seine Therapie",
+      "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-entschuldigt-sich-bei-belegschaft-und-spricht-ueber-seine-therapie-a-b5286ad4-9ebb-4aa8-b004-d1825b9f262e#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-25T02:06+01:00",
+      "teaser": "Einen Tag nach seiner Rückkehr an die Spitze von Nvidia wendet sich Jensen Huang an die Belegschaft: Er räumt »schreckliche Fehler« ein, verteidigt aber sein Comeback. Und erklärt Donald Trumps Rolle dabei."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Huawei-Prozess: US-Geschworene sprechen Huawei der Geldwäsche schuldig",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/huawei-us-prozess-anklage-schuldspruch-meng-wanzhou-iran",
+      "source": "Zeit",
+      "date": "2026-11-25T00:44+00:00",
+      "teaser": "Der chinesische Technologiekonzern Huawei soll Banken betrogen und US-Firmengeheimnisse gestohlen haben. Das Unternehmen will gegen das Urteil in Berufung gehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "US preparing to unveil new tariffs on global trading partners",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T00:38+00:00",
+      "teaser": "The new levies would hit many of America's biggest trading partners, including China and the EU."
      }
     ]
    },
@@ -734,11 +753,11 @@
     "score": 1.93,
     "items": [
      {
-      "title": "DealBook Summit 2026: Groundbreakers Tell What Is On Their Minds",
-      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
-      "source": "New York Times",
-      "date": "2026-11-24T22:57+00:00",
-      "teaser": "Leaders from a range of disciplines who led talks at the summit about global issues responded to questions in advance. Their answers have been lightly edited."
+      "title": "Households braced for soaring energy bills with new price cap to be announced",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T00:29+00:00",
+      "teaser": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap."
      }
     ]
    },
@@ -747,37 +766,24 @@
     "score": 1.93,
     "items": [
      {
-      "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
-      "url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
-      "source": "New York Times",
-      "date": "2026-11-24T23:06+00:00",
-      "teaser": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913."
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T00:30+00:00",
+      "teaser": "The BBC speaks to three people about steps they take to keep their energy bills under control."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.93,
     "items": [
      {
-      "title": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
-      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
-      "source": "New York Times",
-      "date": "2026-11-24T23:00+00:00",
-      "teaser": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "25 Years of DealBook Moments",
-      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html",
-      "source": "New York Times",
-      "date": "2026-11-24T22:56+00:00",
-      "teaser": "These photographs are drawn from events since DealBook began publishing that have left an indelible mark on business, policy and culture. We’re still feeling their ripples today."
+      "title": "Why tiny cars are taking off across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T00:34+00:00",
+      "teaser": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic."
      }
     ]
    },
@@ -786,24 +792,11 @@
     "score": 1.89,
     "items": [
      {
-      "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
-      "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
+      "title": "AI powers double-digit jump in ‘authorised’ fraud",
+      "url": "https://www.ft.com/content/eb6f11e6-f16a-4a2c-92db-0e4731731018?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-24T22:36+00:00",
-      "teaser": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Jensen Huang: „Ich mache täglich eineinhalb Stunden Therapie“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kleinlaut-und-kaempferisch-nvidia-chef-jensen-huang-entschuldigt-sich-bei-mitarbeitern-201714458.html",
-      "source": "FAZ",
-      "date": "2026-11-24T22:16+00:00",
-      "teaser": "Der alte und neue Nvidia-Vorstandschef hält die erste Mitarbeiterversammlung seit seiner Rückkehr. Er gibt sich dabei kleinlaut und kämpferisch zugleich."
+      "date": "2026-11-25T00:01+00:00",
+      "teaser": "‘Industrialised nature’ of scams sees criminals extract £659mn from UK victims in first half of 2026"
      }
     ]
    }
@@ -811,7 +804,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.68,
+    "score": 7.55,
     "favorite": true,
     "items": [
      {
@@ -825,7 +818,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.59,
+    "score": 7.47,
     "favorite": true,
     "items": [
      {
@@ -839,7 +832,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.54,
+    "score": 7.41,
     "items": [
      {
       "title": "CAS-Urteil: Senegal erhält Afrika-Cup-Titel zurück",
@@ -866,7 +859,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.43,
+    "score": 7.3,
     "favorite": true,
     "items": [
      {
@@ -880,7 +873,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.78,
     "items": [
      {
       "title": "RB Leipzig hält dem Druck gegen RC Lens stand",
@@ -900,7 +893,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.76,
     "items": [
      {
       "title": "Champions League: RB Leipzig besiegt RC Lens, Real Madrid bezwingt PSV Eindhoven",
@@ -920,7 +913,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.74,
     "items": [
      {
       "title": "Champions League: BVB liefert FC Arsenal einen großen Kampf",
@@ -940,7 +933,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.85,
+    "score": 3.72,
     "items": [
      {
       "title": "Pochettino criticises Premier League officiating after Yoro red card overturned",
@@ -960,7 +953,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.62,
     "items": [
      {
       "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
@@ -980,7 +973,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.44,
     "items": [
      {
       "title": "Schach-WM: Warum werden die Meister immer jünger, Herr Gukesh, Herr Sindarov?",
@@ -1000,27 +993,27 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.88,
     "items": [
      {
-      "title": "Arteta says Arsenal need more luck to kill off games",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-24T23:44+00:00",
-      "teaser": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund."
+      "title": "Kovac grinst wegen Gadou: \"Heißt nicht, dass er jetzt jedes Spiel spielt\"",
+      "url": "https://www.kicker.de/kovac-grinst-wegen-gadou-heisst-nicht-dass-er-jetzt-jedes-spiel-spielt-1274768/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-24T23:58+00:00",
+      "teaser": "Niko Kovac spricht bemerkenswert offen über Joane Gadou, lobt den Innenverteidiger und betont trotzdem, dass er körperlich noch aufzuholen habe."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.88,
     "items": [
      {
-      "title": "Mourinho und die Vorkommnisse in der Pause: \"Die Kabine ist wie Las Vegas\"",
-      "url": "https://www.kicker.de/mourinho-und-die-vorkommnisse-in-der-pause-die-kabine-ist-wie-las-vegas-1274762/artikel#omrss",
+      "title": "Kobel: \"Solange ich den Ball habe, kann er mir auch ins Gesicht treten\"",
+      "url": "https://www.kicker.de/kobel-solange-ich-den-ball-habe-kann-er-mir-auch-ins-gesicht-treten-1274769/video#omrss",
       "source": "kicker",
-      "date": "2026-11-24T23:36+00:00",
-      "teaser": "Beim 5:1 gegen die PSV Eindhoven zeigte Real Madrid Licht und Schatten. Nach einer ziemlich dürftigen ersten Hälfte trumpften die Königlichen in der zweiten Hälfte plötzlich auf. Was war also in der Halbzeitpause passiert?"
+      "date": "2026-11-24T23:55+00:00",
+      "teaser": "Nach dem 1:1 beim FC Arsenal sprach BVB-Torwart Gregor Kobel über das Gegentor, seinen Zusammenprall mit Niko Schlotterbeck und das zwischenzeitliche Powerplay der Gastgeber."
      }
     ]
    }
@@ -1028,7 +1021,7 @@
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 5.82,
+    "score": 5.7,
     "items": [
      {
       "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
@@ -1058,6 +1051,26 @@
     "score": 3.98,
     "items": [
      {
+      "title": "Huawei found guilty of stealing trade secrets",
+      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "source": "The Verge",
+      "date": "2026-11-24T17:23-05:00",
+      "teaser": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from seve"
+     },
+     {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T01:11+00:00",
+      "teaser": "The verdict follows a months-long trial in New York."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.85,
+    "items": [
+     {
       "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
       "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
       "source": "Wired",
@@ -1074,28 +1087,47 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.87,
+    "sourceCount": 1,
+    "score": 1.97,
     "items": [
      {
-      "title": "Huawei found guilty of stealing trade secrets",
-      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
       "source": "The Verge",
-      "date": "2026-11-24T17:23-05:00",
-      "teaser": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from seve"
-     },
-     {
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-24T22:24+00:00",
-      "teaser": "The verdict follows a months-long trial in New York."
+      "date": "2026-11-24T20:00-05:00",
+      "teaser": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't off"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Why tiny cars are taking off across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-25T00:34+00:00",
+      "teaser": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "The Verge’s 2026 gift guide for dads",
+      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+      "source": "The Verge",
+      "date": "2026-11-24T18:59-05:00",
+      "teaser": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated thi"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.84,
     "items": [
      {
       "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
@@ -1108,7 +1140,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.84,
     "items": [
      {
       "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
@@ -1121,7 +1153,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.79,
     "items": [
      {
       "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
@@ -1134,7 +1166,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.77,
     "items": [
      {
       "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
@@ -1147,7 +1179,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.75,
     "items": [
      {
       "title": "The 24 Very Best Amazon Black Friday Deals to Get Now (2026)",
@@ -1160,7 +1192,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.69,
     "items": [
      {
       "title": "GTA VI PC recompilation project shut down by Take-Two",
@@ -1168,45 +1200,6 @@
       "source": "The Verge",
       "date": "2026-11-24T16:39-05:00",
       "teaser": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leak"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-24T21:19+00:00",
-      "teaser": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.77,
-    "items": [
-     {
-      "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
-      "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
-      "source": "New York Times",
-      "date": "2026-11-24T21:09+00:00",
-      "teaser": "Abdulrahman Alfozan, who has been jailed since October, will be freed on a $1 million bond. Prosecutors say he recorded dozens of meetings."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.77,
-    "items": [
-     {
-      "title": "The Verge’s 2026 holiday gift guide for moms",
-      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-      "source": "The Verge",
-      "date": "2026-11-24T16:09-05:00",
-      "teaser": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]"
      }
     ]
    }
@@ -1277,13 +1270,13 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "topic": "Welt & Politik",
    "source": "NPR (Politik)",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "topic": "Welt & Politik",
@@ -1385,7 +1378,7 @@
    "topic": "Polen",
    "source": "Notes from Poland",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Polen",
