@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-26T16:12:59+00:00",
+ "fetchedAt": "2026-11-26T17:17:43+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 3,
-    "score": 5.99,
+    "sourceCount": 4,
+    "score": 7.95,
     "items": [
      {
       "title": "2 Italians killed in Iranian drone attack in Kuwait, Italy says",
@@ -21,44 +21,17 @@
       "teaser": "The attack was one of several reported across the region over 24 hours, including two targeting ships transiting through the Strait of Hormuz."
      },
      {
-      "title": "Two Italians killed after Iranian strike in Kuwait",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-26T15:36+00:00",
-      "teaser": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry."
+      "title": "Two dead after Iranian drone attack on Kuwait",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-26T15:55+00:00",
+      "teaser": "Kuwait’s army says two Italian workers were killed and four others were injured in an Iranian drone attack."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.93,
-    "items": [
-     {
-      "title": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway",
-      "url": "https://www.cbc.ca/news/world/fedex-plane-miami-overrun-runway-9.7436760?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-26T04:54-05:00",
-      "teaser": "There were no reports of injuries after the plane ran off the runway at about 8:40 p.m. ET, the airport reported. By early Thursday, the Federal Aviation Administration was reporting hourslong flight delays."
-     },
-     {
-      "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
-      "url": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-26T15:20+00:00",
-      "teaser": "The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries."
-     },
-     {
-      "title": "FedEx airplane overruns runway at Miami airport, closing all but one runway",
-      "url": "https://www.thehindu.com/news/international/fedex-airplane-overruns-runway-at-miami-airport-closing-all-but-one-runway/article71745686.ece",
-      "source": "The Hindu",
-      "date": "2026-11-26T13:41+05:30",
-      "teaser": "There were no reports of injuries after the plane ran off the runway at about 8.40 p.m., the airport reported"
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.8,
+    "score": 5.92,
     "items": [
      {
       "title": "UK net migration falls to 77,000, lowest annual level in nearly 30 years",
@@ -71,7 +44,7 @@
       "title": "U.K. net migration falls to lowest since 1997; Indians largest foreign group entering and leaving the country",
       "url": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece",
       "source": "The Hindu",
-      "date": "2026-11-26T18:25+05:30",
+      "date": "2026-11-26T21:48+05:30",
       "teaser": "Some 44,000 Indians arrived in the U.K. for work-related reasons, 77,000 to study, and 5,000 for other reasons. Some 28,000 Indians on work visas left the U.K. and 55,000 on study visas departed"
      },
      {
@@ -85,7 +58,107 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.94,
+    "score": 3.99,
+    "items": [
+     {
+      "title": "Myanmar says it will not fully comply with ICJ genocide orders",
+      "url": "https://www.thehindu.com/news/international/myanmar-says-it-will-not-fully-comply-with-icj-genocide-orders/article71747952.ece",
+      "source": "The Hindu",
+      "date": "2026-11-26T22:42+05:30",
+      "teaser": "The ruling by ‌the ⁠ICJ, the first instance of the UN court holding a ⁠state responsible for genocide, is final but the court has very limited options to enforce it"
+     },
+     {
+      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-26T10:25+00:00",
+      "teaser": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "Trump calls GDP figures ‘fake’, demands probe of his own Commerce Department",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375962/trump-calls-gdp-figures-fake-demands-probe-his-own-commerce-department",
+      "source": "South China Morning Post",
+      "date": "2026-11-26T17:06+00:00",
+      "teaser": "US President Donald Trump on Thursday accused his Commerce Department of purposely issuing incorrect economic growth figures before the midterm elections and said he wants to launch an investigation. Trump has repeatedly sought to undermine trust in economic data that fails to match his claims of a "
+     },
+     {
+      "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
+      "url": "https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department",
+      "source": "PBS NewsHour",
+      "date": "2026-11-26T11:36-05:00",
+      "teaser": "President Donald Trump on Thursday accused his Commerce Department of purposely issuing incorrect economic growth figures before the midterm elections, and said he wants to launch an investigation."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "Trump tells Putin to 'pull back all military aggression' across Europe",
+      "url": "https://kyivindependent.com/trump-tells-putin-to-pull-back-all-military-aggression-across-europe/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-26T15:21+00:00",
+      "teaser": "\"During my conversations in China with President Vladimir Putin of Russia, I spent a lot of time talking about the fact that I would like to see President Putin pull back all Military aggression against territories throughout Europe,\" U.S. President Donald Trump said."
+     },
+     {
+      "title": "Trump urges Putin to end 'military aggression' in Europe",
+      "url": "https://www.abc.net.au/news/2026-11-27/trump-urges-putin-to-pull-back-military-aggression/107433138",
+      "source": "ABC Australia",
+      "date": "2026-11-26T17:03+00:00",
+      "teaser": "Donald Trump described the war in Ukraine as a complete \"bloodbath\" and urged Vladimir Putin to help end the conflict sooner."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "Israel: Gadi Eisenkot einigt sich mit Oppositionspartei auf Koalitionsvereinbarung",
+      "url": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-einigt-sich-mit-oppositionspartei-auf-koalitionsvereinbarung-a-a5b9f938-bb22-4de1-b33b-8a89e1d65c2d#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T17:19+01:00",
+      "teaser": "Gadi Eisenkot muss bis Anfang Dezember eine Mehrheit in der Knesset hinter sich vereinen. Gespräche mit der Partei von Benjamin Netanyahu blieben zuletzt erfolglos. Mit den linksliberalen Demokraten lief es nun besser."
+     },
+     {
+      "title": "Liveblog Nahost: Eisenkot einigt sich mit weiterer Partei auf Koalitionsvereinbarung",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eisenkot-einigt-sich-mit-weiterer-partei-auf-koalitionsvereinbarung-faz-200583539.html",
+      "source": "FAZ",
+      "date": "2026-11-26T15:56+00:00",
+      "teaser": "Iran meldet wieder Explosionen an Öltankern +++ Siedler reißen palästinensisches Haus mit Bulldozer ab +++ Zwei Rheinmetall-Mitarbeiter durch Drohnenangriff auf Kuwait getötet +++ alle Entwicklungen im Liveblog"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.89,
+    "items": [
+     {
+      "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-26T15:56+00:00",
+      "teaser": "Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza."
+     },
+     {
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-26T15:17+00:00",
+      "teaser": "The possible environmental damage is still being assessed by Spain's sea rescue service."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.85,
     "items": [
      {
       "title": "Judge blocks FCC review of Disney's ABC stations, says Trump administration appears retaliatory",
@@ -105,7 +178,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.84,
+    "items": [
+     {
+      "title": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway",
+      "url": "https://www.cbc.ca/news/world/fedex-plane-miami-overrun-runway-9.7436760?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-26T04:54-05:00",
+      "teaser": "There were no reports of injuries after the plane ran off the runway at about 8:40 p.m. ET, the airport reported. By early Thursday, the Federal Aviation Administration was reporting hourslong flight delays."
+     },
+     {
+      "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
+      "url": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-26T15:20+00:00",
+      "teaser": "The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.83,
     "items": [
      {
       "title": "China: Der Fall Chen Jining und der Machtkampf in der KP",
@@ -125,7 +218,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.79,
     "items": [
      {
       "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
@@ -145,7 +238,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.77,
     "items": [
      {
       "title": "Israel: Staatsanwältin im Netanjahu-Prozess vor Dilemma",
@@ -162,105 +255,12 @@
       "teaser": "Richter in Jerusalem glauben nicht an eine Verurteilung Netanjahus. Der noch amtierende Regierungschef feiert das als Ende des Verfahrens. Doch alle Vorwürfe wären damit nicht aus dem Weg geräumt."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "Fighting in eastern Congo forces Ebola workers to evacuate, disrupts outbreak response",
-      "url": "https://www.france24.com/en/video/20261126-fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-disrupts-outbreak-response",
-      "source": "France 24",
-      "date": "2026-11-26T14:20+00:00",
-      "teaser": "Escalating fighting in eastern Congo has forced Ebola response workers to leave affected areas and disrupted efforts to contain the deadliest outbreak in the country, health officials and humanitarian workers said Wednesday. Congo’s Ebola outbreak has infected more than 11,700 people and killed more"
-     },
-     {
-      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
-      "source": "NPR",
-      "date": "2026-11-26T08:47-05:00",
-      "teaser": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.8,
-    "items": [
-     {
-      "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
-      "url": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-26T14:51+01:00",
-      "teaser": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert. Bei dem Unglück kam ein Seemann ums Leben."
-     },
-     {
-      "title": "Tanker vor Ibiza gekentert: Ein Besatzungsmitglied tot",
-      "url": "https://www.dw.com/de/tanker-vor-ibiza-gekentert-ein-besatzungsmitglied-tot/a-80062333?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-26T13:43+00:00",
-      "teaser": "Mit 8,2 Millionen Litern Dieseltreibstoff in den Tanks geriet die \"Med Emre\" vor der spanischen Insel Ibiza in Seenot. Dann kenterte das Schiff. Wird es sinken?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.55,
-    "items": [
-     {
-      "title": "Trump und Rutte: Putin soll Ukraine-Krieg nicht \"ausweiten\"",
-      "url": "https://www.dw.com/de/trump-und-rutte-putin-soll-ukraine-krieg-nicht-ausweiten/a-80058560?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-26T10:48+00:00",
-      "teaser": "Vor seinem Gespräch mit dem US-Präsidenten plädierte der NATO-Generalsekretär für mehr Druck auf Russlands Machthaber Putin. Nach dem Treffen klangen Trump und Rutte moderater."
-     },
-     {
-      "title": "Krieg gegen die Ukraine: Trump und Rutte warnen Russland vor »Ausweitung« des Krieges",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "source": "Zeit",
-      "date": "2026-11-26T04:59+00:00",
-      "teaser": "Nato-Generalsekretär Rutte und US-Präsident Trump mahnen zur Zurückhaltung. Hilfsorganisation warnt vor »härtestem Winter« für die Kinder in der Ukraine. Das Liveblog"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.7,
-    "items": [
-     {
-      "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
-      "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
-      "source": "The Guardian",
-      "date": "2026-11-26T00:39+00:00",
-      "teaser": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said. The blaze on the ring road, a key"
-     },
-     {
-      "title": "At least 31 dead after fuel tanker fire in Egypt",
-      "url": "https://www.cbc.ca/news/world/egypt-fire-petroleum-vehicle-overturns-9.7436271?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-25T17:05-05:00",
-      "teaser": "Thirty-one people were killed and 21 wounded in a fire after a vehicle carrying petroleum products overturned on a major ring road in Egypt, authorities said on Wednesday."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Judge blocks FCC from early license review for ABC, which network says has had a chilling effect",
-      "url": "https://www.pbs.org/newshour/nation/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect",
-      "source": "PBS NewsHour",
-      "date": "2026-11-26T11:09-05:00",
-      "teaser": "A federal judge on Wednesday blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses, agreeing with the network that the Trump administration was chilling the network's free speech rights."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.89,
+    "score": 5.8,
     "items": [
      {
       "title": "Urteil in Köln: Missbrauchsopfer erhält mehr als eine halbe Million Euro Schmerzensgeld",
@@ -287,180 +287,41 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.94,
+    "score": 4.0,
     "items": [
      {
-      "title": "IG Metall und Arbeitgeber: Einigung im Tarifstreit",
+      "title": "IG Metall und Arbeitgeber: 4,3 Prozent mehr Gehalt",
       "url": "https://www.zdfheute.de/wirtschaft/unternehmen/ig-metall-tarifstreit-einigung-100.html",
       "source": "ZDF",
-      "date": "2026-11-26T16:31+01:00",
-      "teaser": "Nach mehr als 24 Stunden Verhandlungsmarathon haben sich die Gewerkschaft IG Metall und die Arbeitgeber im Tarifstreit der Metall- und Elektroindustrie geeinigt."
+      "date": "2026-11-26T17:41+01:00",
+      "teaser": "Nach einem Verhandlungsmarathon haben sich die Gewerkschaft IG Metall und die Arbeitgeber im Tarifstreit der Metall- und Elektroindustrie geeinigt. Das sind die Ergebnisse."
      },
      {
-      "title": "Metall- und Elektroindustrie: IG Metall und Arbeitgeber bei Tarifverhandlungen einig",
-      "url": "https://www.swr.de/swraktuell/tarifverhandlungen-ig-metall-ergebnisse-100.html",
+      "title": "Metall- und Elektroindustrie: Beschäftigte erhalten 4,3 Prozent mehr Geld",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tarifverhandlungen-ig-metall-ergebnisse-100.html",
       "source": "SWR",
-      "date": "2026-11-26T16:25+01:00",
-      "teaser": "Bei den Tarifverhandlungen zwischen IG Metall und Arbeitgeber konnte am Donnerstag eine Einigung erzielt werden."
+      "date": "2026-11-26T18:16+01:00",
+      "teaser": "Mehr Geld für die Beschäftigten, Investitionen in deutsche Standorte: Bei den Tarifverhandlungen für die Metall- und Elektroindustrie hat es einen Durchbruch gegeben."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.91,
     "items": [
      {
-      "title": "SPD reagiert verhalten auf CDU-Vorstoß zur Rente",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html",
-      "source": "Tagesschau",
-      "date": "2026-11-26T11:41+01:00",
-      "teaser": "Überzeugt der neue Vorschlag zur \"Rente mit 63\" aus der Union die SPD? Erste Reaktionen von den Sozialdemokraten deuten nicht auf eine Einigung hin. Die Union fordert dagegen, \"die ausgestreckte Hand zu ergreifen\"."
-     },
-     {
-      "title": "Reddig verteidigt Vorstoß zur \"Rente mit 63\"",
-      "url": "https://www.zdfheute.de/politik/rente-mit-63-reddig-cdu-junge-gruppe-100.html",
+      "title": "Werden Weihnachtsmärkte den Kommunen zu teuer?",
+      "url": "https://www.zdfheute.de/wirtschaft/hohe-kosten-weihnachtsmaerkte-kommunen-100.html",
       "source": "ZDF",
-      "date": "2026-11-26T15:34+01:00",
-      "teaser": "Bewegung im Renten-Streit? Die Union will die abschlagsfreie Frührente künftig vom Einkommen abhängig machen. Aus der SPD kommt Kritik, CDU-Politiker Reddig verteidigt die Idee."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.16,
-    "items": [
-     {
-      "title": "Bundestag: Julia Klöckner prüft Sanktionen gegen Linke nach Blockade von David Barnea",
-      "url": "https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-prueft-sanktionen-nach-blockade-von-david-barnea-a-c51e85d0-19f5-4fc9-8e09-1e10a697679e#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T07:08+01:00",
-      "teaser": "Mit Sitzblockaden haben zwei Linkenabgeordnete gegen den Besuch von Ex-Mossad-Chef Barnea im Bundestag protestiert. Bundestagspräsidentin Klöckner nennt die Aktion einen »Tiefpunkt« – und lotet nun Konsequenzen aus."
+      "date": "2026-11-26T17:13+01:00",
+      "teaser": "Hohe Ausgaben bei Personal und Sicherheit machen die Organisation von Weihnachtsmärkten deutschlandweit teuer. Und dann kommt noch die angespannte Kassenlage der Kommunen dazu."
      },
      {
-      "title": "Sitzblockade im Bundestag: Klöckner prüft Sanktionen nach Protestaktion gegen Ex-Mossad-Chef",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/julia-kloeckner-linke-abgeordnete-david-barnea-mossad-bundestag",
+      "title": "Sicherheitskosten: Kommunen fordern mehr Geld für Sicherung der Weihnachtsmärkte",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/weihnachtsmaerkte-sicherheitskosten-kommunen-terrorabwehr-dstgb-gxe",
       "source": "Zeit",
-      "date": "2026-11-26T03:38+00:00",
-      "teaser": "Zwei Linkenabgeordnete haben mit einer Sitzblockade gegen ein Treffen mit Ex-Mossad-Chef David Barnea protestiert. Die Bundestagspräsidentin hält Konsequenzen für nötig."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "Nach Norovirus-Ausbruch: Das rät das Gesundheitsamt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/norovirus-malsch-gesundheitsamt-infektion-102.html",
-      "source": "SWR",
-      "date": "2026-11-26T17:12+01:00",
-      "teaser": "Nach einem Norovirus-Ausbruch an einer Schule in Malsch mit 130 infizierten Kindern lobt das Gesundheitsamt den Umgang der Schule mit der Situation. Bei diesem Virus sei besondere Vorsicht geboten."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Podcast „Auf den Punkt“: Spanien wählt – und rückt wohl nach rechts",
-      "url": "https://www.sueddeutsche.de/politik/podcast-nachrichten-auf-den-punkt-spanien-pedro-sanchez-li.3586500",
-      "source": "Süddeutsche",
-      "date": "2026-11-26T16:00+00:00",
-      "teaser": "Kurz vor der Parlamentswahl in Spanien zeichnet sich ab, dass die linke Regierung von Pedro Sánchez abgelöst werden könnte. Woran das liegt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Polizeisoftware: Mit Palantir ist kein Staat mehr zu machen",
-      "url": "https://www.faz.net/aktuell/politik/inland/immer-mehr-bundeslaender-nehmen-abstand-von-palantir-201718852.html",
-      "source": "FAZ",
-      "date": "2026-11-26T15:39+00:00",
-      "teaser": "Die umstrittene Polizeisoftware des US-Unternehmens Palantir ist in NRW bald Geschichte. Und auch andere Länder wenden sich langsam von der Firma Peter Thiels ab, wie die F.A.Z. erfuhr."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Urteil: dm darf Augenscreenings in seinen Filialen anbieten",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/urteil-dm-augenscreening-klage-wettbewerbszentrale-100.html",
-      "source": "SWR",
-      "date": "2026-11-26T16:33+01:00",
-      "teaser": "Die Drogeriemarktkette dm darf KI-unterstützte Augenscreenings in ihren Filialen anbieten. Das hat das Landgericht Karlsruhe heute entschieden. Das Urteil ist nicht rechtskräftig."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Amt zweifelt an Homosexualität: Mann droht Abschiebung in Senegal",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/senegal-homosexuell-abschiebung-asylantrag-100.html",
-      "source": "SWR",
-      "date": "2026-11-26T16:18+01:00",
-      "teaser": "Der Senegal gilt als sicheres Herkunftsland. André sieht das nicht so. Er ist schwul und sagt, dass er dort verfolgt wird. Weil ihm das Gericht nicht glaubt, soll er jetzt zurück."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Gondel-Absturz an Horber Hochbrücke: Kranführer zu elf Monaten auf Bewährung und Geldstrafe verurteilt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/hochbruecke-horb-gericht-urteil-tote-kranfuehrer-100.html",
-      "source": "SWR",
-      "date": "2026-11-26T16:08+01:00",
-      "teaser": "Bei einem Unfall auf der Baustelle der Horber Hochbrücke sind drei Männer gestorben. Das Amtsgericht Horb hat den Kranführer wegen fahrlässiger Tötung schuldig gesprochen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Eurojackpot geknackt - und was dann? Wozu Experten Lotto-Gewinnern raten",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/nach-millionengewinn-wie-gewinner-mit-ihrem-geld-umgehen-sollten-100.html",
-      "source": "SWR",
-      "date": "2026-11-26T16:05+01:00",
-      "teaser": "Ein Stuttgarter knackt den Eurojackpot und gewinnt 10 Millionen Euro. Doch Reichsein will gelernt sein. Experten raten: Keine übereilten Entscheidungen und Geldanlage gut planen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Medizin: „Wer einmal in die Fresse gekriegt hat, arbeitet anders“",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/koerperverletzung-krankenhaus-aerzte-patienten-notaufnahme-e153148/",
-      "source": "Süddeutsche",
-      "date": "2026-11-26T14:59+00:00",
-      "teaser": "Es wird gebrüllt und randaliert, da werden Ärzte krankenhausreif geschlagen: mitten im Krankenhaus. Die Zahl der Übergriffe im Gesundheitssektor steigt – Pfleger müssen jetzt lernen, wie man sich aus Würgegriffen befreit. Ein Tag im Klinikum Darmstadt."
-     }
-    ]
-   }
-  ],
-  "Polen": [
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "Zełenski alarmuje przed kolejnym atakiem Rosji. Poprzedni uderzył też w Polskę",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33152433,zelenski-alarmuje-przed-kolejnym-atakiem-rosji-poprzedni-uderzyl.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T16:11+00:00",
-      "teaser": "Rosja kończy przygotowania do kolejnego zmasowanego ataku na Ukrainę - ostrzegł prezydent Ukrainy Wołodymyr Zełenski. Ukraiński wywiad przekazał tę informację zaledwie kilka dni po poprzednim rosyjskim ostrzale, podczas którego trzy pociski manewrujące spadły na terytorium Polski."
+      "date": "2026-11-26T10:19+00:00",
+      "teaser": "Wegen Terrorgefahr ergreifen Kommunen strengere Sicherheitsmaßnahmen auf Weihnachtsmärkten. Dafür fordern sie Unterstützung von Bund und Ländern."
      }
     ]
    },
@@ -469,11 +330,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Trump ujawnia kulisy rozmów z Putinem. „Chciałbym, żeby się wycofał”",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45549521-trump-ujawnia-kulisy-rozmow-z-putinem-chcialbym-zeby-sie-wycofal",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T17:09+01:00",
-      "teaser": "Donald Trump powiedział w Chinach Władimirowi Putinowi, że chciałby, aby przywódca Rosji „wycofał wszelkie działania militarne wymierzone w terytoria w całej Europie”. O kulisach spotkania amerykański prezydent poinformował w czwartek na Truth Social."
+      "title": "Gondel-Absturz an Horber Hochbrücke: Kranführer zu elf Monaten auf Bewährung und Geldstrafe verurteilt",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/hochbruecke-horb-gericht-urteil-tote-kranfuehrer-100.html",
+      "source": "SWR",
+      "date": "2026-11-26T18:07+01:00",
+      "teaser": "Bei einem Unfall auf der Baustelle der Horber Hochbrücke sind drei Männer gestorben. Das Amtsgericht Horb hat den Kranführer wegen fahrlässiger Tötung schuldig gesprochen."
      }
     ]
    },
@@ -482,11 +343,24 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Jerzy Haszczyński: Zachwyt nad Rosjanami. Kushner potwierdza najgorsze obawy",
-      "url": "https://www.rp.pl/komentarze/art45547611-jerzy-haszczynski-zachwyt-nad-rosjanami-kushner-potwierdza-najgorsze-obawy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T16:51+01:00",
-      "teaser": "Jared Kushner, pewnie nieświadomie, potwierdził najgorsze obawy dotyczące negocjacji z Rosjanami i przyszłości bezpieczeństwa w naszym regionie."
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-26T17:55+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Hochhausbrand in Hongkong: Gedenken an die 168 Todesopfer",
+      "url": "https://www.zdfheute.de/video/gedenken-hongkong-video-100.html",
+      "source": "ZDF",
+      "date": "2026-11-26T17:56+01:00",
+      "teaser": "Ein Jahr nach dem verheerenden Hochhausbrand in Hongkong haben die Menschen der 168 Todesopfer gedacht. Die strafrechtliche Verfolgung der Verantwortlichen dauert unterdessen an."
      }
     ]
    },
@@ -495,37 +369,11 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Kolejny generał Putina za kratami. Grozi mu 15 lat więzienia",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45548071-kolejny-general-putina-za-kratami-grozi-mu-15-lat-wiezienia",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T16:42+01:00",
-      "teaser": "Kolejny wysoki rangą rosyjski generał trafił za kraty. Gen. Jurij Griechow, zastępca dowódcy sił powietrznych i kosmicznych Rosji, jest oskarżony o przyjmowanie łapówek na szczególnie dużą skalę. Grozi mu 15 lat więzienia."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Miliardy na inwestycje, miliony na odsetki. Tak zadłużają się największe polskie miasta",
-      "url": "https://regiony.rp.pl/budzet/art45548311-miliardy-na-inwestycje-miliony-na-odsetki-tak-zadluzaja-sie-najwieksze-polskie-miasta",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T16:39+01:00",
-      "teaser": "Choć duże miasta są poważnie zadłużone, zaciągają nowe zobowiązania, żeby finansować inwestycje. Niewielu udaje się realizować duże programy inwestycyjne przy relatywnie niskim zadłużeniu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Burmistrz Budapesztu: Nie ma w mieście miejsca dla mieszkań dla turystów",
-      "url": "https://turystyka.rp.pl/nowe-trendy/art45548571-burmistrz-budapesztu-nie-ma-w-miescie-miejsca-dla-mieszkan-dla-turystow",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T16:38+01:00",
-      "teaser": "Burmistrz Budapesztu Gergely Karacsony wezwał do wyeliminowania w stolicy Węgier usług krótkoterminowego wynajmu mieszkań - przekazał w czwartek portal Daily News Hungary. Miasto potrzebuje bardziej zrównoważonego modelu turystyki, który lepiej pogodzi potrzeby turystów i mieszkańców - podkreślił."
+      "title": "Wirbel um Ex-Mossad-Chef: Was folgt aus der Bundestagsaktion?",
+      "url": "https://www.zdfheute.de/politik/deutschland/bundestag-barnea-kloeckner-notz-gruene-linke-100.html",
+      "source": "ZDF",
+      "date": "2026-11-26T17:52+01:00",
+      "teaser": "Proteste wie gestern kommen im Bundestag selten vor. Abgeordnete stellten sich gegen andere Abgeordnete. Der Grund: ein umstrittener Gast aus Israel."
      }
     ]
    },
@@ -534,11 +382,11 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Polish PM orders alternative financing channel for constitutional court after central bank freezes accounts",
-      "url": "https://notesfrompoland.com/2026/11/26/polish-pm-orders-alternative-financing-channel-for-constitutional-court-after-central-bank-freezes-accounts/",
-      "source": "Notes from Poland",
-      "date": "2026-11-26T15:29+00:00",
-      "teaser": "The government's move aims to ensure the court can continue operating amid a dispute over its leadership."
+      "title": "Rentenstreit: Die SPD muss sich fragen, ob sie diese Koalition überhaupt noch will – Kommentar",
+      "url": "https://www.spiegel.de/politik/deutschland/rentenstreit-die-spd-muss-sich-fragen-ob-sie-diese-koalition-ueberhaupt-noch-will-kommentar-a-2b52ea0b-7f74-45a3-bce0-500abba12907#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T17:32+01:00",
+      "teaser": "Die Sozialdemokraten fühlen sich bei der Rente und der Reichensteuer nicht an ihr Wort gebunden. So kann man nicht regieren."
      }
     ]
    },
@@ -547,50 +395,143 @@
     "score": 1.94,
     "items": [
      {
-      "title": "La Mania: W stronę miłości nieznanej. Nowa kolekcja to hołd dła słynnej artystki",
-      "url": "https://sukces.rp.pl/moda/art45535591-la-mania-w-strone-milosci-nieznanej-nowa-kolekcja-to-hold-dla-slynnej-artystki",
+      "title": "News des Tages: Anschlagspläne auf Synagoge in Köln, die große Macht der Techmilliardäre, Diskussion über neue Vorschläge zur Rentenreform",
+      "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-anschlagplaene-auf-synagoge-in-koeln-die-grosse-macht-der-techmilliardaere-diskussion-ueber-neue-vorschlaege-zur-rentenreform-a-71d88c8d-ac74-4b6f-a29e-3e1a5fd96dfb#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T17:32+01:00",
+      "teaser": "Elon Musk darf Hunderttausende Satelliten für KI-Rechenzentren ins All schießen. Islamisten sollen Anschlag auf Kölner Synagoge geplant haben. Und der Rentenstreit in der Regierung geht doch nicht in den Ruhestand. Das ist die Lage am Donnerstagabend."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Kirchenasyl: Gemeinden in BW konnten 2026 nur acht Menschen helfen",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/kirchenasyl-gemeinden-in-bw-erfuellen-nur-wenige-bitten-100.html",
+      "source": "SWR",
+      "date": "2026-11-26T17:33+01:00",
+      "teaser": "Von 168 Hilfesuchenden haben in diesem Jahr in Baden-Württemberg nur acht Menschen Kirchenasyl bekommen. Das Problem: Die Hürden für die Gemeinden sind hoch."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Glosse: Das Streiflicht",
+      "url": "https://www.sueddeutsche.de/politik/glosse-das-streiflicht-li.3586477",
+      "source": "Süddeutsche",
+      "date": "2026-11-26T16:18+00:00",
+      "teaser": "Manche finden das krasse Baller-Spiel GTA 6 ganz toll, auch weil darin eine Frau prügelt und brandschatzt. Zum Glück ist die Wirklichkeit noch einen Tick schrecklicher."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "SZ-Podcast „Deutsch-Amerikanische Freundschaft“: „Es gibt nichts Blöderes als Aktienmärkte“",
+      "url": "https://www.sueddeutsche.de/politik/sz-podcast-deutsch-amerikanische-freundschaft-es-gibt-nichts-bloederes-als-aktienmaerkte-li.3586741",
+      "source": "Süddeutsche",
+      "date": "2026-11-26T16:12+00:00",
+      "teaser": "Jensen Huang verlässt Nvidia, kommt elf Tage später zurück und Donald Trump freut sich mit den Investoren. Zeit, sich den trumpfreien Nachrichten zu widmen. Die neue Folge des Podcasts zwischen Berlin und New York."
+     }
+    ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Limit cen paliw w Niemczech. Badanie RWI: tylko kilka euro oszczędności rocznie",
+      "url": "https://www.dw.com/pl/limit-cen-paliw-w-niemczech-badanie-rwi-tylko-kilka-euro-oszczędności-rocznie/a-80067912?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-26T17:07+00:00",
+      "teaser": "Planowany limit cen paliw w Niemczech przyniósłby kierowcom niewielką ulgę – wynika z symulacji dla lat 2025–2026. Roczna oszczędność wyniosłaby od niespełna 1,60 do 5,20 euro."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Paweł Czuryło: Sami swoi ciąg dalszy. KO obiecywała, że będzie inaczej",
+      "url": "https://www.rp.pl/komentarze/art45546791-pawel-czurylo-sami-swoi-ciag-dalszy-ko-obiecywala-ze-bedzie-inaczej",
       "source": "Rzeczpospolita",
-      "date": "2026-11-26T16:33+01:00",
-      "teaser": "Breakout na najnowszym pokazie MMC Studio. Bajm i Beata Kozidrak jako tło dla prezentacji nowej kolekcji Magdy Burtym w Nowym Jorku. Alicja Majewska w nowej kampanii marki La Mania. Polska piosenka ma się świetnie i wciąż budzi emocje, także w świecie mody."
+      "date": "2026-11-26T18:03+01:00",
+      "teaser": "Kilka dni po publikacji „Rzeczpospolitej” dowiadujemy się z anteny TVN24, że Marcin Kierwiński skorzystał z obecności samych swoich w państwowych spółkach. A miało być inaczej."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.98,
     "items": [
      {
-      "title": "Propozycja Trumpa dla Ukrainy może uniemożliwić przyznanie gwarancji bezpieczeństwa",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45548271-propozycja-trumpa-dla-ukrainy-moze-uniemozliwic-przyznanie-gwarancji-bezpieczenstwa",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T16:32+01:00",
-      "teaser": "Zaproponowana przez USA procedura zatwierdzania gwarancji bezpieczeństwa dla Ukrainy opóźni ich przyznanie i może wręcz uniemożliwić Ukraińcom uzyskanie takiej ochrony – ocenił w najnowszej analizie amerykański think tank Instytut Studiów nad Wojną (ISW)."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Wolne duże magazyny zniknęły w Polsce jak kamfora",
-      "url": "https://logistyka.rp.pl/rynek/art45548361-wolne-duze-magazyny-zniknely-w-polsce-jak-kamfora",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T16:30+01:00",
-      "teaser": "Chińskie platformy handlu internetowego rozbiły bank magazynów w Polsce, to samo mogą uczynić na Węgrzech i w Rumunii."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Trump ujawnił szczegóły rozmowy z Putinem. \"Poświęciłem dużo czasu\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33152604,trump-ujawnil-szczegoly-rozmowy-z-putinem-poswiecilem-duzo.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "title": "Armenia chce przejąć kontrolę nad granicami. Już nie chce rosyjskiej FSB",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33152542,armenia-chce-przejac-kontrole-nad-granicami-juz-nie-chce-rosyjskiej.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T15:29+00:00",
-      "teaser": "Amerykański prezydent rozmawiał z Władimirem Putinem o zakończeniu agresji militarnej. Wyraził również nadzieję na porozumienie Rosji z Ukrainą."
+      "date": "2026-11-26T17:04+00:00",
+      "teaser": "Armenia zamierza całkowicie przejąć kontrolę nad swoimi granicami i zrezygnować z pomocy rosyjskiej Federalnej Służby Bezpieczeństwa (FSB) - zapowiedział premier Nikol Paszynian."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Turystyka w Turcji coraz bardziej zrównoważona. Certyfikacja hoteli, restauracji i całych miast nabiera tempa",
+      "url": "https://turystyka.rp.pl/popularne-trendy/art45548251-turystyka-w-turcji-coraz-bardziej-zrownowazona-certyfikacja-hoteli-restauracji-i-calych-miast-nabiera-tempa",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T17:58+01:00",
+      "teaser": "Turcja jako pierwszy kraj na świecie zawarła ze Światową Radą Turystyki Zrównoważonej (GSTC) porozumienie na szczeblu rządowym, na mocy którego certyfikacja w zakresie zrównoważonego rozwoju stała się obowiązkowa dla wszystkich obiektów noclegowych w kraju."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Michał Szułdrzyński: Czy AI pozna dobro i zło? Pomoże zobaczyć Boga?",
+      "url": "https://www.rp.pl/plus-minus/art45545571-michal-szuldrzynski-czy-ai-pozna-dobro-i-zlo-pomoze-zobaczyc-boga",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T17:56+01:00",
+      "teaser": "Zdaniem młodego, bo zaledwie 29-letniego, a zarazem bajecznie bogatego (posiadającego majątek wart już miliardy dolarów) inżyniera z Mety, właściciela Facebooka, jesteśmy świadkami nadejścia superinteligencji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Polska Amunicja przejmie Kuźnię Glinik. Ponar i WB budują prywatne zaplecze artyleryjskie",
+      "url": "https://radar.rp.pl/wojsko-polskie/art45548301-polska-amunicja-przejmie-kuznie-glinik-ponar-i-wb-buduja-prywatne-zaplecze-artyleryjskie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T17:51+01:00",
+      "teaser": "Polska Amunicja, wspólna spółka Grupy WB i Ponaru Wadowice, kupi Kuźnię Glinik z Gorlic. Zakład kuje korpusy granatów 120 mm i elementy pocisków 155 mm. To brakujące ogniwo prywatnego zaplecza artyleryjskiego, które budują obie firmy."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Darczyńcy Kierwińskiego. W partii Tuska przyznają: to problem wizerunkowy",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,197990,33152649,darczyncy-kierwinskiego-w-partii-tuska-przyznaja-to-problem.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-26T16:42+00:00",
+      "teaser": "Dymisji nie będzie, ale problem wizerunkowy jest - przyznają niektórzy politycy Koalicji Obywatelskiej, gdy pytamy o opisane przez TVN24 przypadki wpłat na kampanię Marcina Kierwińskiego. Inni szefa MSWiA bronią. - A ci ludzie mieli na PiS wpłacać? - dziwi się jeden z posłów."
      }
     ]
    },
@@ -599,53 +540,105 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Palantir w polskiej armii budzi obawy. Politycy i aktywiści ruszają do prezydenta",
-      "url": "https://radar.rp.pl/wojsko-polskie/art45452431-palantir-w-polskiej-armii-budzi-obawy-politycy-i-aktywisci-ruszaja-do-prezydenta",
+      "title": "Morawiecki dał się ubiec. Ludzie Brauna „ukradli” nazwę Rozwój Plus",
+      "url": "https://www.rp.pl/polityka/art45548371-morawiecki-dal-sie-ubiec-ludzie-brauna-ukradli-nazwe-rozwoj-plus",
       "source": "Rzeczpospolita",
-      "date": "2026-11-26T16:23+01:00",
-      "teaser": "Amerykański Palantir może wkrótce podpisać umowę z polskim MON, ale wokół planowanego kontraktu robi się gorąco. Posłowie trzech ugrupowań i aktywiści ostrzegają przed ryzykiem utraty kontroli nad wrażliwymi danymi armii. Żądają audytu, a w niedzielę wyjdą na ulice Warszawy."
+      "date": "2026-11-26T17:30+01:00",
+      "teaser": "Sąd Okręgowy w Warszawie zarejestrował partię Rozwój Plus. Tyle że nie jest to ugrupowanie Mateusza Morawieckiego, bo nazwę „podkradli” działacze Grzegorza Brauna – dowiedziała się „Rzeczpospolita”. – To dziecinada – komentują współpracownicy Morawieckiego."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Święczkowski nie uznaje decyzji o zawieszeniu. Waldemar Żurek: Koniec prywatnego folwarku",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45549081-swieczkowski-nie-uznaje-decyzji-o-zawieszeniu-waldemar-zurek-koniec-prywatnego-folwarku",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T17:26+01:00",
+      "teaser": "„Przebrani w togi uzurpatorzy” – tak Bogdan Święczkowski skomentował decyzję sądu dyscyplinarnego TK o zawieszeniu go na 12 miesięcy. Minister sprawiedliwości Waldemar Żurek ocenił natomiast, że Trybunał Konstytucyjny wraca do służby obywatelom."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "MON podpisze umowę z Palantir Technologies. Jest data",
+      "url": "https://radar.rp.pl/wojsko-polskie/art45548401-mon-podpisze-umowe-z-palantir-technologies-jest-data",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T17:19+01:00",
+      "teaser": "Ministerstwo Obrony Narodowej po dwóch latach od memorandum o współpracy ws. cyberbezpieczeństwa kupuje system Maven od amerykańskiej firmy Palantir Technologies. Jak ma działać?"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Rosyjski generał aresztowany za korupcję. Kreml twierdzi, że nic nie wie",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33152455,rosyjski-general-aresztowany-za-korupcje-kreml-twierdzi-ze.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-26T16:20+00:00",
+      "teaser": "Jurij Grechow - zdaniem Unii Europejskiej - od lat wspiera i realizuje działania rosyjskich sił zbrojnych, które podważają suwerenność Ukrainy. Kolejny problem wojskowego dotyczy nieprawidłowości w samej Rosji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Większa swoboda w wydawaniu pieniędzy na obronę cywilną. Co kupią samorządy?",
+      "url": "https://regiony.rp.pl/z-regionow/art45548941-wieksza-swoboda-w-wydawaniu-pieniedzy-na-obrone-cywilna-co-kupia-samorzady",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T17:12+01:00",
+      "teaser": "Samorządy mogą przeznaczyć część środków zaplanowanych na inwestycje w ramach Programu Ochrony Ludności i Obrony Cywilnej na zakup sprzętu i wyposażenia. To efekt zmian w przepisach, które weszły w życie w listopadzie."
      }
     ]
    }
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 4,
-    "score": 7.54,
+    "sourceCount": 3,
+    "score": 5.97,
     "items": [
      {
-      "title": "UniCredit ist bei Commerzbank am Ziel – und will schnell Personal austauschen",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-ist-bei-commerzbank-am-ziel-und-will-schnell-personal-austauschen-a-ca320f98-a8ad-4687-a3e5-e6930ac6ff09#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T11:19+01:00",
-      "teaser": "Nachdem alle Behörden der Commerzbank-Übernahme zugestimmt haben, drücken die künftigen Eigentümer aus Italien aufs Tempo. Den Aufsichtsrat soll UniCredit-Chef Orcel führen, den bisherigen Vorständen wird das Vertrauen entzogen."
-     },
-     {
-      "title": "UniCredit beantragt Hauptversammlung bei Commerzbank",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-commerzbank-hauptversammlung-100.html",
+      "title": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
+      "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html",
       "source": "Tagesschau",
-      "date": "2026-11-26T09:54+01:00",
-      "teaser": "Die UniCredit will den Einstieg bei der Commerzbank umsetzen und dafür die Macht im Aufsichtsrat übernehmen. Darum hat die italienische Bank eine Hauptversammlung beantragt, um eigene Vertreter zu entsenden."
+      "date": "2026-11-26T17:43+01:00",
+      "teaser": "Die Beschäftigten in der Metall- und Elektroindustrie sollen in zwei Stufen insgesamt 4,3 Prozent mehr Lohn erhalten. Darauf haben sich Arbeitgeber und IG Metall geeinigt. Der Pilotabschluss ermöglicht aber auch Ausnahmen."
      },
      {
-      "title": "Unicredit: Orcel will Aufsichtsratschef der Commerzbank werden und Vorstände rasch austauschen",
-      "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/unicredit-orcel-will-aufsichtsratschef-der-commerzbank-werden/100272891.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-26T10:38+00:00",
-      "teaser": "Unicredit hat alle Genehmigungen für die Übernahme der Commerzbank und will neun Aufsichtsratsmitglieder austauschen. Auch im Vorstand wollen die Italiener schnell Fakten schaffen."
+      "title": "Metall- und Elektroindustrie: Gewerkschaft und Arbeitgeber erzielen Einigung in Metall-Tarifrunde",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/metall-tarifrunde-gewerkschaft-und-arbeitgeber-erzielen-einigung",
+      "source": "Zeit",
+      "date": "2026-11-26T16:58+00:00",
+      "teaser": "In der vierten Verhandlungsrunde der Metall- und Elektroindustrie hat sich die IG Metall mit den Arbeitgebern geeinigt. Zuvor war mehr als 24 Stunden verhandelt worden."
+     },
+     {
+      "title": "Tarifstreit: Einigung bei den Tarifverhandlungen in der Metallindustrie",
+      "url": "https://www.handelsblatt.com/politik/deutschland/tarifstreit-metallindustrie-einigung-bei-den-tarifverhandlungen/100272604.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-26T15:26+00:00",
+      "teaser": "Zähe Verhandlungen finden damit ein Ende. Die IG Metall hatte zuvor mit ganztägigen Warnstreiks den Druck auf die Arbeitgeberseite erhöht."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.9,
+    "score": 5.97,
     "items": [
      {
-      "title": "Spanier Hernández de Cos soll laut Medien Nachfolger von EZB-Chefin Lagarde werden",
+      "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
       "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
       "source": "Tagesschau",
-      "date": "2026-11-26T16:00+01:00",
-      "teaser": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge laut Medienberichten geklärt: Die Wahl fiel auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen."
+      "date": "2026-11-26T17:53+01:00",
+      "teaser": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen."
      },
      {
       "title": "EZB: Spanier ​Pablo Hernández de Cos soll Nachfolger von Christine Lagarde werden",
@@ -665,14 +658,54 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-26T17:12+01:00",
+      "teaser": "Der Spanier Pablo Hernández de Cos bringt viel geldpolitische Erfahrung mit. Welcher Kurs ist von dem 55-Jährigen Ökonomen zu erwarten, wenn er an die Spitze der Europäischen Zentralbank rückt?"
+     },
+     {
+      "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+      "url": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
+      "source": "New York Times",
+      "date": "2026-11-26T16:29+00:00",
+      "teaser": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "IG Metall und Arbeitgeber einigen sich in Tarifstreit",
+      "url": "https://www.spiegel.de/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-in-tarifstreit-a-152b7f28-1470-44a8-9958-c6fe9db5d584#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T16:28+01:00",
+      "teaser": "Im Tarifkonflikt in der deutschen Metall- und Elektroindustrie haben die Vertreter von Arbeitgebern und Arbeitnehmern eine Vereinbarung getroffen. Auch unbezahlte Mehrarbeit und Lohnverzicht sollen künftig möglich sein."
+     },
+     {
+      "title": "Tarifstreit: IG Metall und Arbeitgeber einigen sich auf 4,3 Prozent mehr Gehalt",
+      "url": "https://www.faz.net/aktuell/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-auf-4-3-prozent-mehr-gehalt-201720943.html",
+      "source": "FAZ",
+      "date": "2026-11-26T16:21+00:00",
+      "teaser": "Nach einem 24-stündigen Verhandlungsmarathon einigen sich die IG-Metall und Arbeitgeber. Die 35-Stunden-Woche ist nun nicht mehr in Stein gemeißelt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.9,
     "items": [
      {
       "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
       "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
       "source": "The Guardian",
       "date": "2026-11-26T14:41+00:00",
-      "teaser": "Shares in UK tobacco company jump 13% on news US rival is looking into making offer Business live – latest updates Imperial Brands could become the next UK company to fall to a foreign takeover after US rival Altria announced it was considering a bid for the tobacco firm. Altria told the City on Thu"
+      "teaser": "Shares in UK tobacco company jump by more than 14% on news US rival is looking into making offer Business live – latest updates Imperial Brands could become the next UK company to fall to a foreign takeover after its US rival Altria announced a possible bid for the tobacco firm. Altria, whose Philip"
      },
      {
       "title": "Altria explores takeover bid for Imperial Brands",
@@ -685,27 +718,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
-    "items": [
-     {
-      "title": "IG Metall und Arbeitgeber einigen sich in Tarifstreit",
-      "url": "https://www.spiegel.de/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-in-tarifstreit-a-152b7f28-1470-44a8-9958-c6fe9db5d584#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T16:28+01:00",
-      "teaser": "Im Tarifkonflikt in der deutschen Metall- und Elektroindustrie haben die Vertreter von Arbeitgebern und Arbeitnehmern eine Vereinbarung getroffen. Die Tarifrunde war dieses Mal besonders schwierig."
-     },
-     {
-      "title": "Metall- und Elektroindustrie: Gewerkschaft und Arbeitgeber erzielen Einigung in Metall-Tarifrunde",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/metall-tarifrunde-gewerkschaft-und-arbeitgeber-erzielen-einigung",
-      "source": "Zeit",
-      "date": "2026-11-26T16:00+00:00",
-      "teaser": "In der vierten Verhandlungsrunde der Metall- und Elektroindustrie hat sich die IG Metall mit den Arbeitgebern geeinigt. Zuvor war mehr als 24 Stunden verhandelt worden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.71,
     "items": [
      {
       "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
@@ -725,7 +738,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.45,
+    "score": 3.42,
+    "items": [
+     {
+      "title": "UniCredit ist bei Commerzbank am Ziel – und will schnell Personal austauschen",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-ist-bei-commerzbank-am-ziel-und-will-schnell-personal-austauschen-a-ca320f98-a8ad-4687-a3e5-e6930ac6ff09#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T11:19+01:00",
+      "teaser": "Nachdem alle Behörden der Commerzbank-Übernahme zugestimmt haben, drücken die künftigen Eigentümer aus Italien aufs Tempo. Den Aufsichtsrat soll UniCredit-Chef Orcel führen, den bisherigen Vorständen wird das Vertrauen entzogen."
+     },
+     {
+      "title": "Übernahme der Commerzbank: Unicredit-CEO soll Aufsichtsratschef bei Commerzbank werden",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/unicredit-commerzbank-uebernahme-andrea-orcel-aufsichtsrat-gxe",
+      "source": "Zeit",
+      "date": "2026-11-26T09:10+00:00",
+      "teaser": "Die Übernahme der Commerzbank durch Unicredit nimmt Formen an. Auf einer außerordentlichen Hauptversammlung soll der Aufsichtsrat der Commerzbank neu besetzt werden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.36,
     "items": [
      {
       "title": "UK regulator admits error in calculating car finance compensation payments",
@@ -745,40 +778,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 2.0,
     "items": [
      {
-      "title": "Märkte Insight: Dem Bitcoin stehen noch schwierigere Zeiten bevor",
-      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/bitcoin-der-kryptowaehrung-stehen-noch-schwierigere-zeiten-bevor/100271553.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-26T16:07+00:00",
-      "teaser": "Die bekannteste Cyberdevise hat in nur einem Monat mehr als 20 Prozent an Wert verloren. Gleich mehrere Gründe sprechen dafür, dass sich der Abverkauf fortsetzen wird, meint Martin Müller."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Global stocks climb after volatile US trading over AI risks",
-      "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-26T16:08+00:00",
-      "teaser": "Tech shares hit this month by fears over whether boom can be sustained"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Pablo Hernández de Cos: the ‘consensus-builder’ taking over the ECB",
-      "url": "https://www.ft.com/content/1fda901a-222a-4b3e-8e20-ea80c3fbf1d2?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-26T16:02+00:00",
-      "teaser": "Spanish economist is seen as a skilled diplomat with a ‘unique blend of diplomatic finesse and academic rigour’"
+      "title": "EU-Gipfel: Agrarsubventionen treiben Merz, Macron und Meloni auseinander",
+      "url": "https://www.spiegel.de/wirtschaft/eu-gipfel-agrarsubventionen-treiben-merz-macron-und-meloni-auseinander-a-ceae53ab-e73d-40f0-8b3e-f93864547653#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T18:16+01:00",
+      "teaser": "In der Debatte über das künftige EU-Budget drohen sich Kanzler Merz, Frankreichs Präsident Macron und Italiens Ministerpräsidentin Meloni weiter voneinander zu entfernen, statt sich anzunähern. Streitpunkt sind die Agrarsubventionen."
      }
     ]
    },
@@ -787,24 +794,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "When will Poundland shops close? Five key questions answered",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-26T15:55+00:00",
-      "teaser": "Why is Poundland closing down, and what will happen to staff and suppliers?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Two Italians killed in Iranian strike on Kuwait",
-      "url": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-26T15:56+00:00",
-      "teaser": "Rheinmetall workers are the first reported deaths from Iranian attacks since Washington and Tehran restarted exchanging fire this month"
+      "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
+      "url": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+      "source": "New York Times",
+      "date": "2026-11-26T17:03+00:00",
+      "teaser": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs."
      }
     ]
    },
@@ -813,11 +807,24 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Geldpolitik: Pablo Hernández de Cos wird neuer Chef der Europäischen Zentralbank",
-      "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-pablo-hernandez-de-cos-wird-neuer-chef-der-euro-notenbank/100272970.html",
+      "title": "Two Italians killed in Iranian strike on Kuwait",
+      "url": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-26T16:57+00:00",
+      "teaser": "Rheinmetall workers are the first reported deaths from Iranian attacks since Washington and Tehran restarted exchanging fire this month"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Dax aktuell: Dax schließt im Plus – Tech-Aktien erholen sich",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-tech-aktien-erholen-sich/100272884.html",
       "source": "Handelsblatt",
-      "date": "2026-11-26T15:48+00:00",
-      "teaser": "Der Spanier wechselt von der Bank für Internationalen Zahlungsausgleich an die EZB-Spitze. Damit verbunden sind weitere wichtige Personalentscheidungen."
+      "date": "2026-11-26T16:49+00:00",
+      "teaser": "Nachlassende Zollsorgen bescheren der deutschen Börse Gewinne. Der Leitindex schafft es wieder über die 25.000‑Punkte-Marke. Anleger haben bei zuletzt stark fallenden Aktien zugegriffen."
      }
     ]
    }
@@ -825,7 +832,7 @@
   "Sport": [
    {
     "sourceCount": 5,
-    "score": 9.9,
+    "score": 9.69,
     "items": [
      {
       "title": "Joshua Kimmich über Fall Jamal Musiala: „Das ist ein absolutes No-Go und nicht Bayern-like“",
@@ -852,7 +859,35 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.9399999999999995,
+    "score": 7.97,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Patri: \"¿Optimismo con mi renovación? Los culés pueden estar tranquilos\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004255890/patri-juega-despiste-cules-tranquilos.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-26T17:57+01:00",
+      "teaser": "El caso de Patri Guijarro (28 años) será una de las 'patatas calientes' en la oficina del FC Barcelona a lo largo de esta temporada. La capitana azulgrana, una de las líderes del equipo de Pere Romeu , acaba contrato a final de campaña, el 30 de junio de 2027, y su renovación empieza a preocupar a l"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.92,
+    "favorite": true,
+    "items": [
+     {
+      "title": "El Barça ya sabe su rival en octavos de Copa de la Reina",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004255907/barca-rival-octavos-copa-reina.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-26T17:22+01:00",
+      "teaser": "El FC Barcelona ya sabe cuál será su rival de octavos de la Copa de la Reina. El líder absoluto del torneo, ha sido campeón en 12 ediciones y ha ganado las últimas tres de forma consecutiva, viajará a La Rioja para enfrentarse al Logroño United , eliminatoria que se disputará a partido único los día"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.85,
     "favorite": true,
     "items": [
      {
@@ -865,9 +900,16 @@
     ]
    },
    {
-    "sourceCount": 4,
-    "score": 7.87,
+    "sourceCount": 3,
+    "score": 5.99,
     "items": [
+     {
+      "title": "Laura Freigang: 16 Monate Sperre für Nationalspielerin und die Folgen",
+      "url": "https://www.spiegel.de/sport/fussball/laura-freigang-16-monate-sperre-fuer-nationalspielerin-und-die-folgen-a-905ae30f-a2d7-452b-ba03-c181d282efad#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T18:12+01:00",
+      "teaser": "Laura Freigang ist nach drei verpassten Dopingtests bis Oktober 2027 gesperrt und wird damit auch bei der Fußball-WM fehlen. Die Stürmerin sagt, es »bricht mir das Herz«, kündigt aber auch schon den Kampf zurück an."
+     },
      {
       "title": "Fußball: WM-Aus für Laura Freigang durch Sperre über 16 Monate",
       "url": "https://www.faz.net/aktuell/sport/fussball/laura-freigang-16-monate-sperre-bedeuten-fussball-wm-2027-aus-accg-201719985.html",
@@ -876,52 +918,17 @@
       "teaser": "Mit einer „Vereinbarung zur Streitbeilegung“ endet der Fall Laura Freigang. Wegen ihrer Meldeversäumnisse im Zusammenhang mit Dopingkontrollen wird die Nationalspielerin für 16 Monate gesperrt."
      },
      {
-      "title": "Laura Freigang: Nationalspielerin wegen verpasster Dopingtests bis Oktober 2027 gesperrt",
-      "url": "https://www.spiegel.de/sport/fussball/laura-freigang-nationalspielerin-wegen-verpasster-dopingtests-gesperrt-a-95f6c7e9-6ee6-435b-b0cb-fb09eeb29041#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T13:53+01:00",
-      "teaser": "Weil sie gegen Meldepflichten der Antidopingagentur Nada verstoßen hat, darf Laura Freigang lange kein Fußballspiel mehr bestreiten. Durch die Sperre verpasst sie auch die kommende WM."
-     },
-     {
-      "title": "Nationalspielerin Laura Freigang bis Oktober 2027 gesperrt",
-      "url": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-laura-freigang-bis-oktober-2027-gesperrt-100.html",
-      "source": "Sportschau",
-      "date": "2026-11-26T14:20+01:00",
-      "teaser": "Saisonaus für Laura Freigang: Wegen ihrer Meldeversäumnisse im Zusammenhang mit Dopingkontrollen fehlt die Eintracht-Kapitänin lange und verpasst auch die kommende Fußball-WM."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.72,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Aubameyang: \"Pedri es el jugador que más me impresiona\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004255820/aubameyang-pedri-jugador-me-impresiona.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-26T13:48+01:00",
-      "teaser": "Pierre-Emerick Aubameyang sufrió esta mañana un leve accidente de coche que quedó en \"un pequeño susto\" cuando se dirigía a entrenar con sus compañeros. Afortunadamente, los daños solo fueron materiales y pudo llegar a la ciudad deportiva y ejercitarse con normalidad. Este fin de semana se enfrenta "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.66,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Gerard López explica su versión sobre el 'caso Negreira': \"Para mí eran informes de total utilidad\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004255454/gerard-lopez-rompe-silencio-sobre-caso-negreira-mi-informes-total-utilidad.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-26T13:11+01:00",
-      "teaser": "El exfutbolista y exentrenador del Barça B Gerard López explicó cómo fue su experiencia con los informes arbitrales durante las tres temporadas que dirigió al filial azulgrana, entre 2015 y 2018. Ese periodo coincidió con los últimos años de los pagos del FC Barcelona a sociedades vinculadas a José "
+      "title": "Fußball: Nationalspielerin Laura Freigang wegen versäumter Dopingtests gesperrt",
+      "url": "https://www.zeit.de/sport/2026-11/laura-freigang-sperre-doping-kontrollen-dfb-gxe",
+      "source": "Zeit",
+      "date": "2026-11-26T13:34+00:00",
+      "teaser": "Das DFB-Team der Frauen wird die WM in Brasilien ohne Laura Freigang bestreiten. Die Frankfurter Kapitänin erhält eine Sperre von über einem Jahr wegen Dopingvergehens."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.36,
+    "score": 5.27,
     "items": [
      {
       "title": "Champions League: FC Bayern München verliert nach Führung gegen OSC Lille",
@@ -948,7 +955,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 4.49,
+    "score": 4.4,
     "items": [
      {
       "title": "Champions League: Florian Wirtz trifft schon wieder, VFB Stuttgart scheitert in Mailand",
@@ -975,7 +982,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "Musiala \"zwischen den Fronten\": Wie das Thema den FC Bayern spaltet",
+      "url": "https://www.kicker.de/musiala-zwischen-den-fronten-wie-das-thema-den-fc-bayern-spaltet-1275390/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-26T16:17+00:00",
+      "teaser": "Beim FC Bayern herrscht nicht nur wegen der Niederlage in der Champions League gegen Lille schlechte Stimmung. Die Situation rund um Jamal Musiala bringt zusätzlich Unruhe rein. Unruhe, die der Rekordmeister gerade absolut nicht brauchen kann."
+     },
+     {
+      "title": "Jamal Musiala: Das Statement des FC Bayern zwischen den Zeilen",
+      "url": "https://www.11freunde.de/bundesliga/jamal-musiala-das-statement-des-fc-bayern-zwischen-den-zeilen-a-b86780cb-329c-4028-87e9-f57ddcd85d7b#ref=rss",
+      "source": "11 Freunde",
+      "date": "2026-11-25T17:00+01:00",
+      "teaser": "Der FC Bayern hat im Fall Jamal Musiala nachgelegt, und Louis liest das Statement zwischen den Zeilen. Dazu geht es um die Lehren aus dem Durcheinander und darum, wie der Klub seine öffentlichen Stimmen besser im Griff bekommt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.84,
     "items": [
      {
       "title": "FC Bayern München: Wie es nach der Kimmich-Kritik weitergeht – „Die Würde des Funktionärs ist unantastbar“",
@@ -995,53 +1022,40 @@
    },
    {
     "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Germany's Freigang given 16-month ban over drugs test issues",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-26T17:12+00:00",
+      "teaser": "Germany international Laura Freigang is suspended from football for 16 months over issues relating to three drugs tests."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
     "score": 1.98,
     "items": [
      {
-      "title": "Rechtsruck im Amateurfußball",
-      "url": "https://www.11freunde.de/amateure/rechtsruck-im-amateurfussball-a-8cdba335-e59d-4c7b-aad7-79da94eac8c3#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-26T17:00+01:00",
-      "teaser": "Mia Guethe hat für ihre Recherche mit Spielern, Trainern und Schiedsrichtern gesprochen und zeigt, wie der Rechtsruck im Amateurfußball längst sichtbar wird. Im Gespräch mit Louis ordnet sie ein, welche Erfahrungen sie besonders beschäftigt haben."
+      "title": "\"Meilenstein\" für die Frauen: FC Bayern investiert 80 Millionen Euro in Unterhaching",
+      "url": "https://www.kicker.de/meilenstein-fuer-die-frauen-fc-bayern-investiert-80-millionen-euro-in-unterhaching-1275404/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-26T17:00+00:00",
+      "teaser": "Vor knapp einem Jahr ging der Sportpark in Unterhaching in den Besitz des FC Bayern über, der machte am Donnerstag nun seine weiteren Pläne publik - und investiert für die erfolgreichen Frauen eine immense Summe."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.98,
     "items": [
      {
-      "title": "Muslic ohne \"Endspiel-Rhetorik\" und mit Rückhalt für Karaman",
-      "url": "https://www.kicker.de/muslic-ohne-endspiel-rhetorik-und-mit-rueckhalt-fuer-karaman-1275363/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-26T15:51+00:00",
-      "teaser": "Der FC Schalke reist am Samstag zum Aufsteigerduell zum SC Paderborn. Keine Frage, ein sehr wichtiges Spiel für den Drittletzten gegen den Tabellennachbarn. Personelle Überraschungen inklusive? Miron Muslic ließ sich nicht in die Karten schauen, sprach aber unter anderem seinem Kapitän das Vertrauen"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Für den TSV 1860 München schließt sich ein Kreis",
-      "url": "https://www.kicker.de/fuer-den-tsv-1860-muenchen-schliesst-sich-ein-kreis-1275359/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-26T15:40+00:00",
-      "teaser": "Der TSV 1860 München bestreitet am Freitagabend gegen den 1. FC Schweinfurt sein letztes Spiel 2026. Gegen die Schnüdel hatte die Regionalliga-Reise der Löwen im Sommer auch begonnen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Polzin: \"Geht nicht darum, den Bus zu parken\"",
-      "url": "https://www.kicker.de/polzin-geht-nicht-darum-den-bus-zu-parken-1275381/video#omrss",
-      "source": "kicker",
-      "date": "2026-11-26T15:36+00:00",
-      "teaser": "Vor dem Spiel gegen den FC Bayern zeigt HSV-Trainer Merlin Polzin Möglichkeiten auf, gegen den Rekordmeister zu bestehen."
+      "title": "Biathlon: Justus Strelow stürmt beim Biathlon-Auftakt auf Platz 2",
+      "url": "https://www.sportschau.de/wintersport/biathlon/justus-strelow-stuermt-bei-wrights-debuetsieg-auf-platz-zwei,biathlon-kontiolahti-einzel-maenner-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-26T18:00+01:00",
+      "teaser": "Justus Strelow hat beim ersten Weltcup-Rennen in Kontiolahti gleich einen Sahnetag erwischt und wurde Zweiter. Der Sieger ist ein Debütant ganz oben auf dem Treppchen."
      }
     ]
    }
@@ -1049,7 +1063,27 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.44,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "The best Black Friday deals we’ve already found",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "source": "The Verge",
+      "date": "2026-11-26T11:55-05:00",
+      "teaser": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t"
+     },
+     {
+      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+      "source": "Wired",
+      "date": "2026-11-26T16:10+00:00",
+      "teaser": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.35,
     "items": [
      {
       "title": "Musk's plan to send a million SpaceX data satellites into space approved",
@@ -1068,8 +1102,99 @@
     ]
    },
    {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-26T12:07-05:00",
+      "teaser": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is […]"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Anzeige: Aufladbare Teelichter am Black Friday günstig bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-aufladbare-teelichter-am-black-friday-guenstig-bei-amazon-2611-215710.html",
+      "source": "Golem",
+      "date": "2026-11-26T18:03+01:00",
+      "teaser": "Aufladbare Teelichter mit Fernbedienung, Timer und Dimmfunktion gibt es am Black Friday bei Amazon im günstigen Sechserpack. ( Technik/Hardware , Black Friday )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "(g+) Alice Huang: Aus Chinas Provinz ins Zentrum des Nvidia-Skandals",
+      "url": "https://www.golem.de/news/alice-huang-aus-chinas-provinz-ins-zentrum-des-nvidia-skandals-2611-215704.html",
+      "source": "Golem",
+      "date": "2026-11-26T18:00+01:00",
+      "teaser": "Die New York Times hat Alice Huangs Lebensweg in vier Ländern recherchiert, interne Firmendokumente ausgewertet und mit mehr als einem Dutzend Insidern gesprochen. Von Paul Mozur, Keith Bradsher und Mara Hvistendahl ( Nvidia , Wirtschaft )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Android app developers will soon have to share their address publicly",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "source": "The Verge",
+      "date": "2026-11-26T12:06-05:00",
+      "teaser": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says c"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Chinas KI-Labore unter Druck: US-Maßnahmen bremsen Modellentwicklung",
+      "url": "https://www.heise.de/news/Chinas-KI-Labore-unter-Druck-US-Massnahmen-bremsen-Modellentwicklung-11539653.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-26T17:53+01:00",
+      "teaser": "Wegen US-Chipauflagen und Maßnahmen gegen Destillation drohen Chinas KI-Entwicklern angeblich verspätete Modellstarts und längere Entwicklungszyklen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Anzeige: Bestseller zum neuen Bestpreis: DJI Osmo Action 4 erstmals für 170 Euro bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-bestseller-zum-neuen-bestpreis-dji-osmo-action-4-erstmals-fuer-170-euro-bei-amazon-2611-215707.html",
+      "source": "Golem",
+      "date": "2026-11-26T17:45+01:00",
+      "teaser": "Die DJI Osmo Action 4 filmt mit 1/1,3-Zoll-Sensor in 4K bei 120 fps und ist als Bestseller jetzt so günstig wie noch nie. ( Technik/Hardware , Ultra-HD )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Höhenwind: Windpark auf 5.100 Meter Höhe eröffnet",
+      "url": "https://www.golem.de/news/hoehenwind-windpark-auf-5-100-meter-hoehe-eroeffnet-2611-215712.html",
+      "source": "Golem",
+      "date": "2026-11-26T17:40+01:00",
+      "teaser": "Im Himalaya geht ein Windpark auf einem Gebirgskamm in Betrieb. Aufgrund stärkerer Winde soll der Ertrag deutlich höher sein als anderswo. ( Windkraft , Windpark )"
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 2.03,
+    "score": 1.94,
     "items": [
      {
       "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
@@ -1089,131 +1214,27 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.94,
     "items": [
      {
-      "title": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
-      "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
-      "source": "Wired",
-      "date": "2026-11-26T16:10+00:00",
-      "teaser": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now."
+      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+      "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+      "source": "New York Times",
+      "date": "2026-11-26T16:30+00:00",
+      "teaser": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.94,
     "items": [
      {
-      "title": "Anzeige: Beliebter Plattenspieler mit Bluetooth von Sony und Vinyl im Amazon-Preisfall",
-      "url": "https://www.golem.de/news/anzeige-beliebter-plattenspieler-mit-bluetooth-von-sony-und-vinyl-im-amazon-preisfall-2611-215706.html",
-      "source": "Golem",
-      "date": "2026-11-26T17:05+01:00",
-      "teaser": "Günstiger als im Schnitt der vergangenen Wochen gibt es einen Plattenspieler von Sony mit Bluetooth bei Amazon. Auch Schallplatten sind reduziert. ( Bluetooth , USB-Plattenspieler )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Robotaxis: Unbekannter stoppt Waymos in Denver und bewirft sie mit Eiern",
-      "url": "https://www.golem.de/news/robotaxis-unbekannter-stoppt-waymos-in-denver-und-bewirft-sie-mit-eiern-2611-215708.html",
-      "source": "Golem",
-      "date": "2026-11-26T16:55+01:00",
-      "teaser": "Ein Unbekannter soll in Denver mindestens 30 Mal Waymo-Robotaxis mit Eiern beworfen haben. Zuvor stellte er Leitkegel um die Fahrzeuge herum. ( Waymo , Auto )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
       "source": "The Verge",
-      "date": "2026-11-26T11:00-05:00",
-      "teaser": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu […]"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "GTA VI developers vote against unionization",
-      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
-      "source": "The Verge",
-      "date": "2026-11-26T10:55-05:00",
-      "teaser": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organi"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Ab Version 28.0 und höher: New York Times untersagt Fotografen Nutzung von Photoshop",
-      "url": "https://www.golem.de/news/ab-version-28-0-und-hoeher-new-york-times-untersagt-fotografen-nutzung-von-photoshop-2611-215705.html",
-      "source": "Golem",
-      "date": "2026-11-26T16:24+01:00",
-      "teaser": "Die New York Times verfolgt strenge Regeln bei der Bearbeitung von Bildern. Sie sieht durch KI deren Glaubwürdigkeit gefährdet. ( KI , Photoshop )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Die besten Balkonkraftwerk-Angebote zum Black Friday 2026 von Kleines Kraftwerk",
-      "url": "https://t3n.de/news/kleines-kraftwerk-black-week-balkonkraftwerk-1775182/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-26T16:00+01:00",
-      "teaser": "Zur Black Week gibt es bei Kleines Kraftwerk starke Angebote für Balkonkraftwerke – ob für Einsteiger oder erfahrene Nutzer. Von kompakten Sets bis hin zu Komplettpaketen mit Speicher ist alles dabei, um Stromkosten zu senken. Besonders spannend: Die Deals bieten Preisvorteile von bis zu mehreren hu"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Über 100 Gaskraftwerke geplant: Warum US-Rechenzentren auf diese Strategie setzen",
-      "url": "https://t3n.de/news/ueber-100-gaskraftwerke-geplant-warum-us-rechenzentren-auf-diese-strategie-setzen-1775049/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-26T16:00+01:00",
-      "teaser": "Insbesondere in den USA werden KI-Rechenzentren immer öfter ohne Netzanschluss gebaut. Die Energie kommt von eigenen Gasturbinen. Das mag schneller für die Inbe weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Why GTA VI’s version of Florida feels so real",
-      "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
-      "source": "The Verge",
-      "date": "2026-11-26T10:00-05:00",
-      "teaser": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is unmatched when it comes to re-creating the feeling of a b"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "EMAG: Tesla gründet Gesellschaft am Standort eines deutschen Maschinenbauers",
-      "url": "https://www.golem.de/news/emag-tesla-gruendet-gesellschaft-am-standort-eines-deutschen-maschinenbauers-2611-215702.html",
-      "source": "Golem",
-      "date": "2026-11-26T15:41+01:00",
-      "teaser": "Tesla hat in Deutschland ein neues Unternehmen registriert - mit der Firmenadresse des angeschlagenen Werkzeugmaschinenbauers EMAG. ( Tesla , Roboter )"
+      "date": "2026-11-26T11:38-05:00",
+      "teaser": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights an"
      }
     ]
    }
@@ -1548,7 +1569,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "topic": "Tech & KI",
@@ -1572,7 +1593,7 @@
    "topic": "Tech & KI",
    "source": "New York Times",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "topic": "Tech & KI",
