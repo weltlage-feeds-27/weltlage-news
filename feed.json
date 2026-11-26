@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-26T21:01:58+00:00",
+ "fetchedAt": "2026-11-26T22:00:48+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.77,
+    "score": 7.69,
     "items": [
      {
       "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
@@ -31,7 +31,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.96,
+    "score": 5.94,
     "items": [
      {
       "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
@@ -51,22 +51,95 @@
       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
       "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-26T20:35+00:00",
+      "date": "2026-11-26T21:17+00:00",
       "teaser": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry."
      }
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.82,
+    "sourceCount": 2,
+    "score": 3.98,
     "items": [
      {
-      "title": "UK net migration falls to 77,000, lowest annual level in nearly 30 years",
-      "url": "https://www.scmp.com/news/world/europe/article/3375952/uk-net-migration-falls-77000-lowest-annual-level-nearly-30-years",
-      "source": "South China Morning Post",
-      "date": "2026-11-26T13:19+00:00",
-      "teaser": "Net migration to the UK fell to 77,000 for the year to June, the lowest annual figure since 1997 excluding the Covid years, statistics showed on Thursday. The net migration figures – the difference between the numbers of people arriving in and leaving Britain – are a boost for the UK’s centre-left L"
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "url": "https://www.pbs.org/newshour/world/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+      "source": "PBS NewsHour",
+      "date": "2026-11-26T16:48-05:00",
+      "teaser": "North Korean leader Kim Jong Un visited facilities that produce nuclear ingredients and called for building more nuclear weapons, days after ignoring U.S. President Donald Trump's offer to meet during his recent visit to Asia."
      },
+     {
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+      "source": "NPR",
+      "date": "2026-11-26T08:31-05:00",
+      "teaser": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+      "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "source": "The Guardian",
+      "date": "2026-11-26T00:39+00:00",
+      "teaser": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said. The blaze on the ring road, a key"
+     },
+     {
+      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-26T21:08+00:00",
+      "teaser": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.88,
+    "items": [
+     {
+      "title": "Hamas weighs response after Israel kills 10 people in Gaza",
+      "url": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
+      "source": "France 24",
+      "date": "2026-11-26T20:35+00:00",
+      "teaser": "Five Israeli strikes and a shooting overnight and on Thursday killed 10 Palestinians across Gaza, according to officials at Shifa and Al-Aqsa Martyrs hospitals, where the casualties were taken. A strike on a residential apartment in Deir Al-Balah in central Gaza killed a man and his wife, the offici"
+     },
+     {
+      "title": "Israel kills nine in Gaza, including Hamas-appointed deputy Education Minister, officials say",
+      "url": "https://www.thehindu.com/news/international/israel-kills-nine-in-gaza-including-hamas-appointed-deputy-education-minister-officials-say/article71747983.ece",
+      "source": "The Hindu",
+      "date": "2026-11-26T23:05+05:30",
+      "teaser": "Medics said an Israeli airstrike hit an apartment in Deir Al-Balah in central Gaza Strip, killing ‌Khaled Abu Nada, the Deputy Gaza Education Minister, and his wife."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.85,
+    "items": [
+     {
+      "title": "Trump urges Putin to end 'military aggression' in Europe",
+      "url": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe",
+      "source": "France 24",
+      "date": "2026-11-26T20:10+00:00",
+      "teaser": "US President Donald Trump said Thursday he had asked Vladimir Putin to \"pull back all military aggression\" against Europe, in a shift in tone towards the leader Russian he called his friend just a week ago. Trump said he had made the request to Putin when they met in China last week, adding that he "
+     },
+     {
+      "title": "Trump tells Putin to 'pull back all military aggression' across Europe",
+      "url": "https://kyivindependent.com/trump-tells-putin-to-pull-back-all-military-aggression-across-europe/",
+      "source": "Kyiv Independent",
+      "date": "2026-11-26T15:21+00:00",
+      "teaser": "\"During my conversations in China with President Vladimir Putin of Russia, I spent a lot of time talking about the fact that I would like to see President Putin pull back all Military aggression against territories throughout Europe,\" U.S. President Donald Trump said."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.74,
+    "items": [
      {
       "title": "U.K. net migration falls to lowest since 1997; Indians largest foreign group entering and leaving the country",
       "url": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece",
@@ -84,35 +157,8 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.79,
-    "items": [
-     {
-      "title": "Trump calls GDP figures ‘fake’, demands probe of his own Commerce Department",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375962/trump-calls-gdp-figures-fake-demands-probe-his-own-commerce-department",
-      "source": "South China Morning Post",
-      "date": "2026-11-26T17:06+00:00",
-      "teaser": "US President Donald Trump on Thursday accused his Commerce Department of purposely issuing incorrect economic growth figures before the midterm elections and said he wants to launch an investigation. Trump has repeatedly sought to undermine trust in economic data that fails to match his claims of a "
-     },
-     {
-      "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
-      "url": "https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department",
-      "source": "PBS NewsHour",
-      "date": "2026-11-26T11:36-05:00",
-      "teaser": "President Donald Trump on Thursday accused his Commerce Department of purposely issuing incorrect economic growth figures before the midterm elections, and said he wants to launch an investigation."
-     },
-     {
-      "title": "Trump calls GDP data released before midterms ‘fake’, demands investigation",
-      "url": "https://www.aljazeera.com/economy/2026/11/26/trump-calls-gdp-data-released-before-midterms-fake-demands-investigation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-26T18:27+00:00",
-      "teaser": "President says it was a deliberate decision to release 'fake' growth numbers before US midterm elections."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.73,
     "items": [
      {
       "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
@@ -132,27 +178,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.82,
-    "items": [
-     {
-      "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
-      "url": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners",
-      "source": "NPR (Politik)",
-      "date": "2026-11-26T06:43-05:00",
-      "teaser": "President Trump's new proposed tariffs are already meeting pushback from Democrats and some free trade advocates."
-     },
-     {
-      "title": "What will Trump’s latest tariffs mean for the world?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-26T18:53+00:00",
-      "teaser": "New measures come after previous trade tariffs ruled illegal."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.68,
+    "score": 3.6,
     "items": [
      {
       "title": "Myanmar says it will not fully comply with ICJ genocide orders",
@@ -172,27 +198,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.53,
+    "score": 3.59,
     "items": [
      {
-      "title": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway",
-      "url": "https://www.cbc.ca/news/world/fedex-plane-miami-overrun-runway-9.7436760?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-26T04:54-05:00",
-      "teaser": "There were no reports of injuries after the plane ran off the runway at about 8:40 p.m. ET, the airport reported. By early Thursday, the Federal Aviation Administration was reporting hourslong flight delays."
+      "title": "Trump calls GDP figures ‘fake’, demands probe of his own Commerce Department",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375962/trump-calls-gdp-figures-fake-demands-probe-his-own-commerce-department",
+      "source": "South China Morning Post",
+      "date": "2026-11-26T17:06+00:00",
+      "teaser": "US President Donald Trump on Thursday accused his Commerce Department of purposely issuing incorrect economic growth figures before the midterm elections and said he wants to launch an investigation. Trump has repeatedly sought to undermine trust in economic data that fails to match his claims of a "
      },
      {
-      "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
-      "url": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-26T15:20+00:00",
-      "teaser": "The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries."
+      "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department",
+      "url": "https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department",
+      "source": "PBS NewsHour",
+      "date": "2026-11-26T11:36-05:00",
+      "teaser": "President Donald Trump on Thursday accused his Commerce Department of purposely issuing incorrect economic growth figures before the midterm elections, and said he wants to launch an investigation."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.53,
+    "score": 3.45,
     "items": [
      {
       "title": "Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows",
@@ -212,61 +238,21 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.52,
+    "score": 3.44,
     "items": [
      {
-      "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-      "url": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-      "source": "NPR",
-      "date": "2026-11-25T04:44-05:00",
-      "teaser": "The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth."
+      "title": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway",
+      "url": "https://www.cbc.ca/news/world/fedex-plane-miami-overrun-runway-9.7436760?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-26T04:54-05:00",
+      "teaser": "There were no reports of injuries after the plane ran off the runway at about 8:40 p.m. ET, the airport reported. By early Thursday, the Federal Aviation Administration was reporting hourslong flight delays."
      },
      {
-      "title": "China: Der Fall Chen Jining und der Machtkampf in der KP",
-      "url": "https://www.dw.com/de/china-der-fall-chen-jining-und-der-machtkampf-in-der-kp/a-80066009?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-26T15:14+00:00",
-      "teaser": "2027 wird die Führung der Kommunistischen Partei (KP) neu gewählt. Da wirft der überraschende Sturz des Hoffnungsträgers Chen Jining viele Fragen auf. Bleibt jetzt alles beim Alten?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.46,
-    "items": [
-     {
-      "title": "Israel: Staatsanwältin im Netanjahu-Prozess vor Dilemma",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-26T14:02+01:00",
-      "teaser": "Im Korruptionsprozess gegen Israels Premier Netanjahu haben die Richter empfohlen, den Vorwurf wegen Bestechlichkeit fallen zu lassen. Netanjahus Lager feiert das als Triumph - und die Staatsanwaltschaft steht massiv unter Zugzwang. Von J. Segador."
-     },
-     {
-      "title": "prozess in Israel: Richter wollen Korruptionsvorwürfe gegen Netanjahu weitgehend fallen lassen",
-      "url": "https://www.faz.net/aktuell/politik/ausland/korruptionsprozess-richter-empfehlen-vorwuerfe-gegen-netanjahu-fallen-zu-lassen-201719142.html",
-      "source": "FAZ",
-      "date": "2026-11-26T14:31+00:00",
-      "teaser": "Richter in Jerusalem glauben nicht an eine Verurteilung Netanjahus. Der noch amtierende Regierungschef feiert das als Ende des Verfahrens. Doch alle Vorwürfe wären damit nicht aus dem Weg geräumt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.4,
-    "items": [
-     {
-      "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
-      "url": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-26T14:51+01:00",
-      "teaser": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert. Bei dem Unglück kam ein Seemann ums Leben."
-     },
-     {
-      "title": "Tanker vor Ibiza gekentert: Ein Besatzungsmitglied tot",
-      "url": "https://www.dw.com/de/tanker-vor-ibiza-gekentert-ein-besatzungsmitglied-tot/a-80062333?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-26T13:43+00:00",
-      "teaser": "Mit 8,2 Millionen Litern Dieseltreibstoff in den Tanks geriet die \"Med Emre\" vor der spanischen Insel Ibiza in Seenot. Dann kenterte das Schiff. Wird es sinken?"
+      "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
+      "url": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-26T15:20+00:00",
+      "teaser": "The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries."
      }
     ]
    }
@@ -274,7 +260,7 @@
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.49,
+    "score": 5.41,
     "items": [
      {
       "title": "Urteil in Köln: Missbrauchsopfer erhält mehr als eine halbe Million Euro Schmerzensgeld",
@@ -301,7 +287,59 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-26T22:46+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Schwerer Lkw-Unfall auf A8 bei Pforzheim - Fahrbahn Richtung Stuttgart gesperrt",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/schwerer-lkw-unfall-auf-a8-bei-pforzheim-100.html",
+      "source": "SWR",
+      "date": "2026-11-26T22:32+01:00",
+      "teaser": "Ein 38-jähriger Lkw-Fahrer wurde auf der A8 bei Pforzheim schwer verletzt. Ein Pkw, der den Unfall vermeintlich verursachte, flüchtete."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "EU-Gipfel: Merz kündigt vorzeitiges Ende der Haushaltsberatungen an",
+      "url": "https://www.spiegel.de/politik/deutschland/eu-gipfel-merz-kuendigt-vorzeitiges-ende-der-haushaltsberatungen-an-a-7a483887-37b0-474f-9aeb-59cc2f83db36#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T22:28+01:00",
+      "teaser": "Die Staats- und Regierungschefs der EU beenden ihre Beratungen über den künftigen Haushalt laut Kanzler Merz bereits am Donnerstag. Die Mitgliedstaaten liegen mit ihren Forderungen weiterhin auseinander."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Psychotherapeut wegen Missbrauchs einer Patientin verurteilt",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/urteil-psychotherapeut-missbrauch-patientin-heidelberg-100.html",
+      "source": "SWR",
+      "date": "2026-11-26T22:17+01:00",
+      "teaser": "Ein früherer Psychotherapeut ist in Heidelberg wegen des Missbrauchs einer Patientin zu einer Freiheitsstrafe von drei Jahren und sechs Monaten verurteilt worden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
     "items": [
      {
       "title": "USA: Medien: Entscheidung über US-Truppenabzug aus Europa verschiebt sich",
@@ -314,20 +352,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Schlagzeilen",
-      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
-      "source": "ZDF",
-      "date": "2026-11-26T21:34+01:00",
-      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Schnee und Glätte sorgen für Verkehrschaos im Süden",
@@ -340,7 +365,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "Rente: Union überrumpelt SPD mit überraschendem Kompromissvorschlag",
@@ -353,7 +378,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.82,
     "items": [
      {
       "title": "Immer wieder Tote durch Kohlenmonoxid: Ministerium dennoch gegen Melder-Pflicht",
@@ -366,7 +391,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.82,
     "items": [
      {
       "title": "Gondel-Absturz an Horber Hochbrücke: Kranführer zu elf Monaten auf Bewährung und Geldstrafe verurteilt",
@@ -379,7 +404,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.79,
     "items": [
      {
       "title": "Depardieu muss wegen Vergewaltigungsvorwurf vor Gericht",
@@ -392,7 +417,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.79,
     "items": [
      {
       "title": "Metall- und Elektroindustrie: Beschäftigte erhalten 4,3 Prozent mehr Geld",
@@ -402,51 +427,90 @@
       "teaser": "Mehr Geld für die Beschäftigten, Investitionen in deutsche Standorte: Bei den Tarifverhandlungen für die Metall- und Elektroindustrie hat es einen Durchbruch gegeben."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-26T20:16+01:00",
-      "teaser": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Tankerunglück vor Ibiza",
-      "url": "https://www.zdfheute.de/video/tanker-unglueck-ibiza-video-100.html",
-      "source": "ZDF",
-      "date": "2026-11-26T20:14+01:00",
-      "teaser": "Vor der spanischen Urlaubsinsel Ibiza ist ein Tanker mit rund 8,2 Millionen Litern Diesel an Bord gekentert und hat damit Sorgen vor einer Umweltkatastrophe ausgelöst."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "Prostitution: Warum ein Sexkaufverbot den Frauen nicht helfen würde",
-      "url": "https://www.spiegel.de/politik/deutschland/prostitution-warum-ein-sexkaufverbot-den-frauen-nicht-helfen-wuerde-a-7b908479-c243-4dcd-a745-727def1b568f#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T19:27+01:00",
-      "teaser": "Wie kann man Prostituierte tatsächlich besser schützen? Eine Kommission hat Empfehlungen vorgelegt. Wenn Familienministerin Prien sich daran hält, könnte sie wirklich etwas für die Frauen bewegen."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Rosja nasila operacje hybrydowe. Polska drugim najczęstszym celem w Europie",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45550961-rosja-nasila-operacje-hybrydowe-polska-drugim-najczestszym-celem-w-europie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T22:37+01:00",
+      "teaser": "Niemcy i Polska to dwa europejskie kraje najczęściej atakowane przez Rosję metodami hybrydowymi i sabotażowymi. Autorzy nowego raportu ostrzegają, że sprawcy są coraz lepiej przygotowani, a ryzyko ataku z dużą liczbą ofiar rośnie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "ESG wymaga sprawczości i prawa do decyzji",
+      "url": "https://pro.rp.pl/esg-w-praktyce/art45550911-esg-wymaga-sprawczosci-i-prawa-do-decyzji",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T22:29+01:00",
+      "teaser": "Wiarygodne dane i jasno określone cele ESG nie wystarczą, aby przedsiębiorstwo osiągało oczekiwane rezultaty. Potrzebny jest jeszcze mechanizm pozwalający podejmować decyzje i uruchamiać działania."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Brauniści ubiegli Morawieckiego. Zakładają partię Rozwój Plus",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33152886,braunisci-ubiegli-morawieckiego-zakladaja-partie-rozwoj-plus.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-26T21:17+00:00",
+      "teaser": "Sąd Okręgowy w Warszawie wydał nieprawomocne postanowienie o rejestracji partii Rozwój Plus. Jej założycielem nie jest jednak Mateusz Morawiecki, a troje członków Konfederacji Korony Polskiej Grzegorza Brauna."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Zielony transport potrzebuje czystej i bezpiecznej energii. Wnioski z Polskiego Forum Zielonego Transportu 2026",
+      "url": "https://klimat.rp.pl/transport/art45547271-zielony-transport-potrzebuje-czystej-i-bezpiecznej-energii-wnioski-z-polskiego-forum-zielonego-transportu-2026",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T22:12+01:00",
+      "teaser": "Bezpieczeństwo dostaw, konkurencyjne ceny energii, rozwój infrastruktury oraz wykorzystanie lokalnych zasobów – to najważniejsze warunki zielonej transformacji transportu wskazane podczas Polskiego Forum Zielonego Transportu 2026, które odbyło się 23-24 listopada w Warszawie. W wydarzeniu uczestnicz"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Zmarł Strobe Talbott, wpływowy amerykański dyplomata i znawca Europy Wschodniej",
+      "url": "https://www.rp.pl/dyplomacja/art45550741-zmarl-strobe-talbott-wplywowy-amerykanski-dyplomata-i-znawca-europy-wschodniej",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T22:06+01:00",
+      "teaser": "W wieku 80 zmarł były zastępca sekretarza stanu USA, dziennikarz, dyplomata, autor książek i znawca Europy Wschodniej Strobe Talbott - poinformował dziennik „New York Times”. Przetłumaczył m.in. wspomnienia Nikity Chruszczowa."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Rosjanie ryzykują życie, jadąc na Krym. „Płonące ciężarówki i drony nad głowami”",
+      "url": "https://www.rp.pl/spoleczenstwo/art45550721-rosjanie-ryzykuja-zycie-jadac-na-krym-plonace-ciezarowki-i-drony-nad-glowami",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T22:02+01:00",
+      "teaser": "Zniszczenie drogowej części Mostu Krymskiego przez Ukraińców zmusiło rosyjskich kierowców do podróżowania przez okupowane tereny południowej Ukrainy. Zagrożenie atakami dronów, problemy z zaopatrzeniem i ograniczenia komunikacyjne mogą mieć poważne konsekwencje dla gospodarki półwyspu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Protest przed TK. Prezydent Warszawy zakazał, sąd wydał decyzję",
@@ -459,7 +523,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.9,
     "items": [
      {
       "title": "Protest przed Trybunałem Konstytucyjnym. Sąd uchylił decyzję warszawskiego ratusza",
@@ -472,7 +536,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.87,
     "items": [
      {
       "title": "Lech Poznań wciąż bez zwycięstwa w Lidze Europy. A było tak blisko",
@@ -485,7 +549,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.86,
     "items": [
      {
       "title": "Rosyjskie emerytury idą na wojnę. Przyszli emeryci bez prawa głosu",
@@ -498,20 +562,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Samopodpalenie w Warszawie. Jest stanowisko Ambasady Ukrainy",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33152874,samopodpalenie-w-warszawie-jest-stanowisko-ambasady-ukrainy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T20:16+00:00",
-      "teaser": "Ambasada Ukrainy w Polsce otrzymała oficjalne potwierdzenie, że mężczyzna, który dokonał samopodpalenia w centrum Warszawy to obywatel ukraiński. \"Policja sprawdza czy osoby trzecie mogły mieć związek ze zdarzeniem lub wpłynąć na jego zachowanie\" - przekazała placówka."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Szwecja reaguje na rosyjskie pociski na terenie Polski. Ambasador wezwany do MSZ",
@@ -524,79 +575,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Zabójstwa w warszawskim pustostanie. Sąd ogłosił wyroki dla sprawców",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33152847,zabojstwa-w-warszawskim-pustostanie-zapadl-surowy-wyrok-dla.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T20:08+00:00",
-      "teaser": "Sąd Okręgowy w Warszawie skazał Andriia S. na 30 lat więzienia, a Iona B. na 15 lat więzienia za zabójstwa w opuszczonej kamienicy przy ul. Grzybowskiej 71. Wyrok nie kończy sprawy zabójstw w kamienicy na Woli. Przed sądem stanie trzeci mężczyzna."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Wszystkie plagi Bayernu. W Monachium problem goni problem",
-      "url": "https://sport.rp.pl/pilka-nozna/art45550431-wszystkie-plagi-bayernu-w-monachium-problem-goni-problem",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T20:34+01:00",
-      "teaser": "Bayern nie jest już niepokonany. W dodatku stracił na kilka miesięcy Harry'ego Kane'a, kontuzje leczy też kilku innych piłkarzy, a Jamal Musiala zmaga się z chorobą, która hamuje jego karierę."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Sikorski wypomniał Nawrockiemu problem z ambasadorami. Podał przykład z Chile",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33152830,sikorski-wypomnial-nawrockiemu-problem-z-ambasadorami-podal.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T19:37+00:00",
-      "teaser": "Wizytę Karola Nawrockiego w Chile, gdzie prezydent został \"godnie przyjęty\", przygotował Michał Świetlik - poinformował minister spraw zagranicznych Radosław Sikorski. Świetlik pełni funkcję charge d'affaires, ponieważ Karol Nawrocki nie mianował go na ambasadora."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "W tym roku Enter Air zwiększył przychody o 26 procent. „To był rekordowy sezon\"",
-      "url": "https://turystyka.rp.pl/linie-lotnicze/art45550551-w-tym-roku-enter-air-zwiekszyl-przychody-o-26-procent-to-byl-rekordowy-sezon",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T20:27+01:00",
-      "teaser": "Największa w Polsce czarterowa linia lotnicza, Enter Air, osiągnęła w ciągu dziewięciu miesięcy tego roku przychody w wysokości 3,1 miliarda złotych, co oznacza wzrost o 26 procent, porównując rok do roku. W ujęciu dolarowym, w którym rozliczana jest większość kontraktów spółki, przychody wyniosły 8"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Pogoda paraliżuje USA. Słynna parada w Nowym Jorku została przełożona",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33152812,pogoda-paralizuje-usa-slynna-parada-w-nowym-jorku-zostala-przelozona.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T19:21+00:00",
-      "teaser": "Silne wiatry i intensywne opady deszczu pokrzyżowały plany Amerykanom, którzy obchodzą w czwartek Dzień Dziękczynienia. Ponad pół miliona odbiorców w USA nie ma prądu. W Nowym Jorku po raz pierwszy w historii z powodu pogody przełożona została doroczna parada Macy's."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
     "score": 1.85,
     "items": [
      {
-      "title": "Historyczna zmiana na czele EBC. Wiadomo, kto ma zastąpić Christine Lagarde",
-      "url": "https://www.rp.pl/banki/art45550421-historyczna-zmiana-na-czele-ebc-wiadomo-kto-ma-zastapic-christine-lagarde",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T20:14+01:00",
-      "teaser": "Pablo Hernández de Cos ma zostać nowym prezesem Europejskiego Banku Centralnego – informuje CNN. Były szef Banku Hiszpanii zastąpi Christine Lagarde w lutym. Po raz pierwszy w historii na czele EBC stanie Hiszpan."
+      "title": "Samopodpalenie w Warszawie. Jest stanowisko Ambasady Ukrainy",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33152874,samopodpalenie-w-warszawie-jest-stanowisko-ambasady-ukrainy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-26T20:16+00:00",
+      "teaser": "Ambasada Ukrainy w Polsce otrzymała oficjalne potwierdzenie, że mężczyzna, który dokonał samopodpalenia w centrum Warszawy to obywatel ukraiński. \"Policja sprawdza czy osoby trzecie mogły mieć związek ze zdarzeniem lub wpłynąć na jego zachowanie\" - przekazała placówka."
      }
     ]
    }
@@ -604,7 +590,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 4,
-    "score": 7.89,
+    "score": 7.81,
     "items": [
      {
       "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
@@ -631,7 +617,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.72,
+    "score": 7.64,
     "items": [
      {
       "title": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
@@ -658,7 +644,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.75,
+    "score": 5.67,
     "items": [
      {
       "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
@@ -685,7 +671,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.65,
     "items": [
      {
       "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
@@ -705,7 +691,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.39,
+    "score": 3.31,
     "items": [
      {
       "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
@@ -725,7 +711,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.11,
+    "score": 3.03,
     "items": [
      {
       "title": "UniCredit ist bei Commerzbank am Ziel – und will schnell Personal austauschen",
@@ -748,6 +734,45 @@
     "score": 1.97,
     "items": [
      {
+      "title": "EU-Sondergipfel: Gipfel zum EU-Haushalt vorzeitig beendet",
+      "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushaltsgipfel-abgebrochen-merz-bleibt-zuversichtlich-201721642.html",
+      "source": "FAZ",
+      "date": "2026-11-26T21:42+00:00",
+      "teaser": "Die Spitzen der EU-Staaten brechen ihre Verhandlungen über den nächsten EU-Haushalt vorzeitig ab. Merz zeigt sich dennoch optimistisch, dass eine Einigung vor Jahresende gelingt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Synagogen im Visier: Regierung wertet Anschlagspläne als „gefährliche Eskalation“",
+      "url": "https://www.handelsblatt.com/politik/deutschland/synagogen-im-visier-regierung-wertet-anschlagsplaene-als-gefaehrliche-eskalation/100273126.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-26T21:34+00:00",
+      "teaser": "Mutmaßliche Anschlagspläne einer proiranischen Terrorgruppe alarmieren die Bundesregierung. Die Grünen warnen vor einer zunehmenden Gefahr durch das iranische Regime."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+      "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+      "source": "New York Times",
+      "date": "2026-11-26T21:25+00:00",
+      "teaser": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
+    "items": [
+     {
       "title": "Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.",
       "url": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
       "source": "New York Times",
@@ -758,7 +783,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.86,
     "items": [
      {
       "title": "Two Italians killed in drone strike on Kuwait",
@@ -771,7 +796,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.83,
     "items": [
      {
       "title": "Großkonzerne laufen Sturm gegen steigende Transportkosten auf der Schiene",
@@ -781,51 +806,26 @@
       "teaser": "Unternehmen wie BASF, Bayer und Salzgitter sollen immer mehr Geld für den Transport ihrer Güter zahlen. Das liegt am steigenden Preis für die Nutzung der Gleise. In einem Brief an den Verkehrsminister fordern sie Reformen."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-26T19:55+00:00",
-      "teaser": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Stellenabbau: SAP plant einen massiven Stellenabbau",
-      "url": "https://www.handelsblatt.com/technik/ki/sap-dax-konzern-plant-massiven-stellenabbau/100273115.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-26T19:43+00:00",
-      "teaser": "SAP erwägt den Abbau von mehr als 10.000 Stellen. Das hat auch mit der Ausrichtung auf KI zu tun. Offen ist, ob die Zahl der Mitarbeiter nach dem Abbau wirklich kleiner sein wird."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Tarifabschluss: „Kein Verzicht ohne Gegenleistung“: Mehr Geld für Metaller, mehr Flexibilität für Unternehmen",
-      "url": "https://www.handelsblatt.com/politik/deutschland/tarifabschluss-mehr-geld-fuer-metaller-mehr-flexibilitaet-fuer-unternehmen/100272604.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-26T19:14+00:00",
-      "teaser": "In einem 27-stündigen Verhandlungsmarathon finden IG Metall und Arbeitgeber einen Tarifkompromiss. Der berücksichtigt auch die tiefe Strukturkrise Deutschlands größter Industrie."
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 8.0,
+    "score": 7.95,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Marta Torrejón y Martina González, este sábado en el Catalunya-Corea del Sur",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004256015/marta-torrejon-martina-gonzalez-sabado-catalunya-corea-sur.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-26T22:24+01:00",
+      "teaser": "El seleccionador catalán, Xavi Llorens , anunció el pasado lunes la convocatoria de 22 jugadoras para el partido que disputarán Catalunya y Corea del Sur este sábado 28 de noviembre (12.00 horas), entre las que destacan las jugadores del FC Barcelona Marta Torrejón y Martina González ."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.92,
     "favorite": true,
     "items": [
      {
@@ -839,7 +839,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.8,
+    "score": 7.72,
     "favorite": true,
     "items": [
      {
@@ -852,22 +852,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.78,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Hansi Flick desbanca a Guardiola en un record de Champions",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004255928/hansi-flick-desbanca-guardiola-champions.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-26T19:26+01:00",
-      "teaser": "Hansi Flick suma y sigue en la élite del mundo del fútbol. El entrenador alemán, que está logrando otro buen inicio de campaña en la que es su tercera temporada en el Barça, logró que su equipo superara al Sabah en Azerbaiyán en un partido complejo, ya que fue el desplazamiento más largo del conjunt"
-     }
-    ]
-   },
-   {
     "sourceCount": 4,
-    "score": 7.38,
+    "score": 7.3,
     "items": [
      {
       "title": "Joshua Kimmich über Fall Jamal Musiala: „Das ist ein absolutes No-Go und nicht Bayern-like“",
@@ -894,7 +880,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.68,
+    "score": 5.6,
     "items": [
      {
       "title": "Laura Freigang: 16 Monate Sperre für Nationalspielerin und die Folgen",
@@ -921,7 +907,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 4.18,
+    "score": 4.87,
     "items": [
      {
       "title": "Champions League: FC Bayern München verliert nach Führung gegen OSC Lille",
@@ -947,28 +933,35 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.98,
+    "sourceCount": 3,
+    "score": 4.01,
     "items": [
      {
-      "title": "LIVE! Diakité lässt Graz jubeln: TSG liegt zurück",
-      "url": "https://www.kicker.de/live-diakit-laesst-graz-jubeln-tsg-liegt-zurueck-1275443/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-26T20:45+00:00",
-      "teaser": "Nach der knappen Niederlage am Wochenende in der Bundesliga geht es für die TSG Hoffenheim am Donnerstagabend in der Europa League weiter. Um 21 Uhr trifft die Ilzer-Elf auf den österreichischen Bundesligisten Sturm Graz."
+      "title": "Champions League: Florian Wirtz trifft schon wieder, VFB Stuttgart scheitert in Mailand",
+      "url": "https://www.spiegel.de/sport/fussball/champions-league-florian-wirtz-trifft-schon-wieder-stuttgart-scheitert-in-mailand-a-507c132a-6d1c-40e1-a50c-de57c0ecaa4b#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-25T23:03+01:00",
+      "teaser": "In der Nationalmannschaft läuft es, mittlerweile auch immer besser beim FC Liverpool: Florian Wirtz findet seine Form. Der VfB Stuttgart hatte ein schwieriges Auswärtsspiel bei Inter Mailand."
      },
      {
-      "title": "Jetzt live - Diakité bringt Graz gegen TSG in Führung",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520497/tsg-hoffenheim_sturm-graz/liveticker",
+      "title": "0:2 bei Inter: Stuttgart verliert im strömenden Regen von Mailand",
+      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/vfb-stuttgart-verliert-in-champions-league-bei-inter-mailand-201305466.html",
+      "source": "FAZ",
+      "date": "2026-11-25T22:06+00:00",
+      "teaser": "Die Stuttgarter beginnen in Mailand forsch – und ohne ihren Kapitän Deniz Undav. Ein Handspiel bringt sie in Rückstand. Dann entscheidet Inters Fan-Liebling Lautaro Martínez die Partie."
+     },
+     {
+      "title": "Champions League: Inter Mailand kocht den VfB Stuttgart ab",
+      "url": "https://www.sportschau.de/fussball/championsleague/inter-kocht-stuttgart-ab,spielbericht-inter-mailand-vfb-stuttgart-100.html",
       "source": "Sportschau",
-      "date": "2026-11-26T21:45+01:00",
-      "teaser": "In der Europa League trifft die TSG Hoffenheim am 5. Spieltag auf das punktgleiche Sturm Graz aus Österreich."
+      "date": "2026-11-25T23:01+01:00",
+      "teaser": "Trotz einer ordentlichen Leistung bei Inter Mailand hat der VfB Stuttgart in der Champions League die nächste Niederlage kassiert."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.85,
     "items": [
      {
       "title": "Europa League: Bayer 04 gewinnt locker in Zagreb und ist wieder in der Spur",
@@ -988,7 +981,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.53,
+    "score": 3.45,
     "items": [
      {
       "title": "FC Bayern München: Wie es nach der Kimmich-Kritik weitergeht – „Die Würde des Funktionärs ist unantastbar“",
@@ -1007,22 +1000,15 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 2.12,
+    "sourceCount": 1,
+    "score": 2.0,
     "items": [
      {
-      "title": "0:2 bei Inter: Stuttgart verliert im strömenden Regen von Mailand",
-      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/vfb-stuttgart-verliert-in-champions-league-bei-inter-mailand-201305466.html",
-      "source": "FAZ",
-      "date": "2026-11-25T22:06+00:00",
-      "teaser": "Die Stuttgarter beginnen in Mailand forsch – und ohne ihren Kapitän Deniz Undav. Ein Handspiel bringt sie in Rückstand. Dann entscheidet Inters Fan-Liebling Lautaro Martínez die Partie."
-     },
-     {
-      "title": "Champions League, 5. Spieltag: Bayern verliert durch Eigentor, Mailand gewinnt gegen Stuttgart",
-      "url": "https://www.zeit.de/sport/2026-11/champions-league-fc-bayern-losc-lille-inter-mailand-vfb-stuttgart",
-      "source": "Zeit",
-      "date": "2026-11-25T22:29+00:00",
-      "teaser": "Ein Eigentor von Pavlović sorgt für den Sieg von Lille über die verletzungsgeplagten Münchner. VfB Stuttgart verliert gegen den italienischen Meister. Die Spielberichte"
+      "title": "SC Freiburg gewinnt nach wilder Schlussphase gegen Enschede",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520659/sc-freiburg_twente-enschede/liveticker",
+      "source": "Sportschau",
+      "date": "2026-11-26T22:59+01:00",
+      "teaser": "Der SC Freiburg hat in der Europa League gegen Twente Enschede gewonnen. Den Siegtreffer erzielte Niklas Beste in der Nachspielzeit."
      }
     ]
    },
@@ -1031,24 +1017,24 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League – live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live",
-      "source": "The Guardian",
-      "date": "2026-11-26T20:58+00:00",
-      "teaser": "⚽️ Updates from Thursday’s 8pm GMT matches ⚽️ Live scoreboard | Read Football Daily | Email Will One man down? No problem as the Brazilian put the Cherries ahead. Sunderland: Roefs, Hume, Danso, Alderete, Mandava, Fofana, Sadiki, Rigg, Le Fee, Nilson Angulo, Tutierov. Continue reading..."
+      "title": "Die Joker stechen: Hoffenheim besiegt Graz nach Rückstand",
+      "url": "https://www.kicker.de/die-joker-stechen-hoffenheim-besiegt-graz-nach-rueckstand-1275443/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-26T21:54+00:00",
+      "teaser": "Nach der knappen Niederlage am Wochenende in der Bundesliga sah es für Hoffenheim am Donnerstagabend in der Europa League gegen Sturm Graz zunächst schlecht aus, doch die TSG gewann am Ende dennoch nach Rückstand mit 3:1."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
     "items": [
      {
-      "title": "Flekken über Tillman: \"Wir wissen alle, dass Malik in einer schwierigen Situation steckte\"",
-      "url": "https://www.kicker.de/flekken-ueber-tillman-wir-wissen-alle-dass-malik-in-einer-schwierigen-situation-steckte-1275462/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-26T20:50+00:00",
-      "teaser": "Bayer 04 Leverkusen hat in Zagreb den nächsten Sieg eingefahren - die Tür zum Dreier öffnete Malik Tillman, der zuletzt mit seinen ungewohnt ehrlichen Worten für Schlagzeilen gesorgt hatte. In Kroatien trat der 24-Jährige nicht ans Mikro, dafür sprach Mark Flekken über ihn."
+      "title": "TSG Hoffenheim dreht Spiel gegen Sturm Graz",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520497/tsg-hoffenheim_sturm-graz/liveticker",
+      "source": "Sportschau",
+      "date": "2026-11-26T22:56+01:00",
+      "teaser": "Die TSG Hoffenheim hat in der Europa League einen Rückstand gegen Sturm Graz gedreht und das Spiel am Ende dank einer Leistungssteigerung gewonnen."
      }
     ]
    }
@@ -1056,7 +1042,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.73,
     "items": [
      {
       "title": "The best Black Friday deals we’ve already found",
@@ -1076,7 +1062,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.04,
+    "score": 2.95,
     "items": [
      {
       "title": "Musk's plan to send a million SpaceX data satellites into space approved",
@@ -1096,7 +1082,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+      "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+      "source": "New York Times",
+      "date": "2026-11-26T21:25+00:00",
+      "teaser": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Netflix’s coziest show has made a very quiet return",
@@ -1109,20 +1108,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.89,
     "items": [
      {
-      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
-      "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-      "source": "New York Times",
-      "date": "2026-11-26T19:16+00:00",
-      "teaser": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there."
+      "title": "Telefonieren und Chatten auf Reisen: Whatsapp bekommt E-Sim-Funktion",
+      "url": "https://t3n.de/news/telefonieren-whatsapp-e-sim-1775657/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-26T21:40+01:00",
+      "teaser": "Whatsapp will es Nutzer:innen ermöglichen, in anderen Ländern E-Sim-Karten zu kaufen und zu installieren. Damit soll die Kommunikation über die Messenger-App im Ausland auch ohne WLAN-Verbindung, Roaming oder lokale Sim-Karte funktionieren. weiterlesen auf t3n.de"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.75,
     "items": [
      {
       "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
@@ -1135,7 +1134,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.74,
     "items": [
      {
       "title": "Abgetaucht mit Kokain: Wie Kartelle ihre Drogen mit autonomen U-Booten schmuggeln",
@@ -1148,7 +1147,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.71,
     "items": [
      {
       "title": "KI-orientierte Umstrukturierung: SAP erwägt erneut Abbau von mindestens 10.000 Arbeitsplätzen",
@@ -1161,7 +1160,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.67,
     "items": [
      {
       "title": "„Glosslighting“ bei KI: Warum wir von „Halluzination“ sprechen – und nicht von Fehlern",
@@ -1174,7 +1173,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.67,
     "items": [
      {
       "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
@@ -1187,7 +1186,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.73,
+    "score": 1.64,
     "items": [
      {
       "title": "Anzeige: Daten in Microsoft 365 schützen und Vorfälle untersuchen",
@@ -1200,7 +1199,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.61,
     "items": [
      {
       "title": "Globale Aktionen: Amazon-Beschäftigte streiken am Black Friday an elf Standorten",
@@ -1208,19 +1207,6 @@
       "source": "Golem",
       "date": "2026-11-26T18:17+01:00",
       "teaser": "Verdi wirft dem Konzern Einschüchterung und Falschinformationen zu Streiks vor. Amazon weist das entschieden zurück. ( Black Friday , Amazon )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.67,
-    "items": [
-     {
-      "title": "Anzeige: Aufladbare Teelichter am Black Friday günstig bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-aufladbare-teelichter-am-black-friday-guenstig-bei-amazon-2611-215710.html",
-      "source": "Golem",
-      "date": "2026-11-26T18:03+01:00",
-      "teaser": "Aufladbare Teelichter mit Fernbedienung, Timer und Dimmfunktion gibt es am Black Friday bei Amazon im günstigen Sechserpack. ( Technik/Hardware , Black Friday )"
      }
     ]
    }
@@ -1291,7 +1277,7 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 8
+   "items": 7
   },
   {
    "topic": "Welt & Politik",
@@ -1309,7 +1295,7 @@
    "topic": "Welt & Politik",
    "source": "Politico",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "topic": "Welt & Politik",
