@@ -1,10 +1,37 @@
 {
- "fetchedAt": "2026-11-26T10:24:51+00:00",
+ "fetchedAt": "2026-11-26T12:08:29+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 3,
-    "score": 5.96,
+    "score": 5.89,
+    "items": [
+     {
+      "title": "Trump und Rutte: Putin soll Ukraine-Krieg nicht \"ausweiten\"",
+      "url": "https://www.dw.com/de/trump-und-rutte-putin-soll-ukraine-krieg-nicht-ausweiten/a-80058560?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-26T10:48+00:00",
+      "teaser": "Vor seinem Gespräch mit dem US-Präsidenten plädierte der NATO-Generalsekretär für mehr Druck auf Russlands Machthaber Putin. Nach dem Treffen klangen Trump und Rutte moderater."
+     },
+     {
+      "title": "Krieg gegen die Ukraine: Trump und Rutte warnen Russland vor »Ausweitung« des Krieges",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "source": "Zeit",
+      "date": "2026-11-26T04:59+00:00",
+      "teaser": "Nato-Generalsekretär Rutte und US-Präsident Trump mahnen zur Zurückhaltung. Hilfsorganisation warnt vor »härtestem Winter« für die Kinder in der Ukraine. Das Liveblog"
+     },
+     {
+      "title": "USA unter Trump: Trump und Rutte: Russland soll Ukrainekrieg nicht „ausweiten“",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-und-rutte-russland-soll-ukrainekrieg-nicht-ausweiten-faz-19444916.html",
+      "source": "FAZ",
+      "date": "2026-11-26T04:05+00:00",
+      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.89,
     "items": [
      {
       "title": "FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway",
@@ -17,7 +44,7 @@
       "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
       "url": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
       "source": "New York Times (USA)",
-      "date": "2026-11-26T05:14+00:00",
+      "date": "2026-11-26T10:50+00:00",
       "teaser": "The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries."
      },
      {
@@ -31,7 +58,67 @@
    },
    {
     "sourceCount": 2,
-    "score": 4.0,
+    "score": 3.99,
+    "items": [
+     {
+      "title": "Türkei: Tausende demonstrieren gegen Gewalt an Frauen – trotz Verbot",
+      "url": "https://www.spiegel.de/ausland/tuerkei-tausende-demonstrieren-gegen-gewalt-an-frauen-trotz-verbot-a-1cbc9fe0-4f48-495c-b616-90a1b5af9d5b#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T03:07+01:00",
+      "teaser": "Eigentlich hatten die Behörden für Istanbul ein Verbot verhängt: Trotzdem sind die Menschen dort und in vielen anderen türkischen Städten auf die Straße gegangen. Sie forderten härteres Vorgehen gegen Femizide."
+     },
+     {
+      "title": "Türkei: Istanbulerinnen protestieren trotz Verbots gegen Gewalt gegen Frauen",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/proteste-istanbul-gewalt-an-frauen-tuerkei-istanbul-konvention-gxe",
+      "source": "Zeit",
+      "date": "2026-11-26T12:01+00:00",
+      "teaser": "In mehreren Städten der Türkei haben Menschen für mehr Schutz für Frauen demonstriert. In Istanbul widersetzen sich die Demonstrierenden einem Veranstaltungsverbot."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.94,
+    "items": [
+     {
+      "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gesunken",
+      "url": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-26T11:33+01:00",
+      "teaser": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gesunken. Bei dem Unglück kam ein Seemann ums Leben."
+     },
+     {
+      "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-26T11:27+00:00",
+      "teaser": "The possible environmental damage is still being assessed by Spain's sea rescue service."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.92,
+    "items": [
+     {
+      "title": "US-Zölle: Für seine Zölle hat Trump einen Überzeugungstäter",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/us-zoelle-usa-donald-trump-eu-china-demokraten",
+      "source": "Zeit",
+      "date": "2026-11-26T04:48+00:00",
+      "teaser": "Der US-Präsident will nach den Midterms keine lahme Ente sein – und setzt erneut auf Zölle. Warum die EU den Namen seines Handelsbeauftragten bald kennen dürfte."
+     },
+     {
+      "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+      "url": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-26T11:07+00:00",
+      "teaser": "New US policy threatens further tariff hikes on China, India, Vietnam if trade negotiations fall through."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.85,
     "items": [
      {
       "title": "Tai Po fire: remembering the victims",
@@ -51,27 +138,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
-    "items": [
-     {
-      "title": "Huge explosion at oil depot in Bangkok sends fireball into sky",
-      "url": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky",
-      "source": "France 24",
-      "date": "2026-11-26T08:27+00:00",
-      "teaser": "An explosion at an oil depot in Bangkok sent a large fireball and thick black smoke into the sky, journalists said Thursday, as local authorities urged people nearby to evacuate."
-     },
-     {
-      "title": "Seven injured in explosion at oil facility in Thailand’s Bangkok",
-      "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-26T08:49+00:00",
-      "teaser": "Authorities urge residents in area surrounding oil depot in eastern Bangkok to evacuate their homes."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.79,
+    "score": 3.65,
     "items": [
      {
       "title": "What the Army's Iowa detonation means for nearby communities",
@@ -91,27 +158,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.74,
-    "items": [
-     {
-      "title": "Nvidia: Pentagon soll erwogen haben Kriegsgesetz für Rückkehr von Jensen Huang zu nutzen",
-      "url": "https://www.spiegel.de/ausland/nvidia-pentagon-soll-erwogen-haben-kriegsgesetz-fuer-rueckkehr-von-jensen-huang-zu-nutzen-a-7eab9879-1219-4257-b3f7-72d8ed8af9ca#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T08:16+01:00",
-      "teaser": "US-Präsident Trump hat massiven Druck ausgeübt, um Jensen Huang trotz Spionageaffäre wieder auf den Chefsessel von Nvidia zu heben. Dabei soll auch an ein Gesetz aus dem Kalten Krieg als Hebel gedacht worden sein."
-     },
-     {
-      "title": "Jensen Huang: Achill in Sneakern",
-      "url": "https://www.zeit.de/2026/51/jensen-huang-nvidia-chef-rueckkehr-aktie",
-      "source": "Zeit",
-      "date": "2026-11-25T17:51+00:00",
-      "teaser": "Jensen Huang kehrt umjubelt zu Nvidia zurück. Aber kann einer zum Helden werden, ohne vorher eine Prüfung bestanden zu haben?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.58,
+    "score": 3.43,
     "items": [
      {
       "title": "Andy Taylor, guitarist of new wave icons Duran Duran, dead at 65",
@@ -131,27 +178,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.55,
-    "items": [
-     {
-      "title": "Krieg gegen die Ukraine: Trump und Rutte warnen Russland vor »Ausweitung« des Krieges",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "source": "Zeit",
-      "date": "2026-11-26T04:59+00:00",
-      "teaser": "Nato-Generalsekretär Rutte und US-Präsident Trump mahnen zur Zurückhaltung. Hilfsorganisation warnt vor »härtestem Winter« für die Kinder in der Ukraine. Das Liveblog"
-     },
-     {
-      "title": "USA unter Trump: Trump und Rutte: Russland soll Ukrainekrieg nicht „ausweiten“",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-und-rutte-russland-soll-ukrainekrieg-nicht-ausweiten-faz-19444916.html",
-      "source": "FAZ",
-      "date": "2026-11-26T04:05+00:00",
-      "teaser": "Liveticker zur US-Politik unter Donald Trump / Trump dampft Militärübung mit Südkorea ein / Jetzt lesen im Liveticker der FAZ"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.19,
+    "score": 3.04,
     "items": [
      {
       "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
@@ -174,50 +201,37 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Massive fire at Bangkok oil refinery leaves several injured, Bangchak Corp shuts all units",
-      "url": "https://www.thehindu.com/news/international/bangkok-oil-refinery-fire-blast-bangchak-injured-casualties-nov-26-2026/article71745999.ece",
-      "source": "The Hindu",
-      "date": "2026-11-26T15:49+05:30",
-      "teaser": "Flames rose high above the site, followed by black smoke that swept across the Thai capital’s skyline"
+      "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-26T12:58+01:00",
+      "teaser": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
     "items": [
      {
-      "title": "BSW-Europaabgeordnete in Moskau: »Letztlich wird das in einem Atomkrieg enden«",
-      "url": "https://www.zeit.de/2026/51/bsw-michael-von-der-schulenburg-ruth-firmenich-sergej-karaganow-moskau",
+      "title": "Donald Trump und Jensen Huang: Amerikas wahre Elite",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-jensen-huang-nvidia-ok-america",
       "source": "Zeit",
-      "date": "2026-11-26T10:09+00:00",
-      "teaser": "Ein Treffen von BSW-Politikern mit Sergej Karaganow in der russischen Hauptstadt wurde heimlich aufgenommen. Darin zeigen die Russen, wie wenig kompromissbereit sie sind."
+      "date": "2026-11-26T12:00+00:00",
+      "teaser": "Jensen Huang ist zurück an der Spitze von Nvidia und lobt Trump. Worum es bei der Männerfreundschaft wirklich geht, diskutieren wir im US-Podcast. Und: eine ICE-Bilanz"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
     "items": [
      {
-      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-      "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-      "source": "New York Times",
-      "date": "2026-11-26T10:00+00:00",
-      "teaser": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
-      "url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
-      "source": "New York Times",
-      "date": "2026-11-26T10:02+00:00",
-      "teaser": "More governments in Europe are telling citizens to prepare for emergencies. After unexpected disruptions, many are listening."
+      "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "source": "The Guardian",
+      "date": "2026-11-26T12:00+00:00",
+      "teaser": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed new tari"
      }
     ]
    }
@@ -225,27 +239,7 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.99,
-    "items": [
-     {
-      "title": "Deutschland Liveblog: Islamisten sollen Anschlag auf Kölner Synagoge geplant haben",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-islamisten-sollen-anschlag-auf-koelner-synagoge-geplant-haben-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-26T09:53+00:00",
-      "teaser": "Zwei mutmaßliche Terroristen in Köln und Heidelberg festgenommen +++ Klüssendorf verspricht, im Rentenstreit „kompromissbereit“ zu sein +++ Christdemokraten bringen „Respektrente“ ins Spiel +++ alle Entwicklungen im Liveblog"
-     },
-     {
-      "title": "Terrorgruppe soll Anschlag auf Kölner Synagoge geplant haben",
-      "url": "https://www.zdfheute.de/politik/deutschland/festnahme-anschlagsplan-synagoge-koeln-islamismus-100.html",
-      "source": "ZDF",
-      "date": "2026-11-26T11:15+01:00",
-      "teaser": "Die Bundesanwaltschaft hat zwei mutmaßliche Mitglieder einer islamistischen Terrorgruppe festnehmen lassen. Die Gruppe soll einen Anschlag auf eine Kölner Synagoge geplant haben."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.94,
+    "score": 3.8,
     "items": [
      {
       "title": "Terrorverdacht - zwei Iraker in Köln und Heidelberg festgenommen",
@@ -265,7 +259,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.64,
+    "score": 3.5,
     "items": [
      {
       "title": "Bundestag: Julia Klöckner prüft Sanktionen gegen Linke nach Blockade von David Barnea",
@@ -285,66 +279,27 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Sicherheitskosten: Kommunen fordern mehr Geld für Sicherung der Weihnachtsmärkte",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/weihnachtsmaerkte-sicherheitskosten-kommunen-terrorabwehr-dstgb-gxe",
-      "source": "Zeit",
-      "date": "2026-11-26T10:19+00:00",
-      "teaser": "Wegen Terrorgefahr ergreifen Kommunen strengere Sicherheitsmaßnahmen auf Weihnachtsmärkten. Dafür fordern sie Unterstützung von Bund und Ländern."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Migration: Alexander Dobrindt dringt trotz Kritik auf Abschiebezentrum in Ruanda",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/abschiebezentrum-ruanda-alexander-dobrindt-csu-spd-gxe",
-      "source": "Zeit",
-      "date": "2026-11-26T10:18+00:00",
-      "teaser": "Er halte Abschiebungen von abgelehnten Asylsuchenden in ihnen unbekannte Staaten für notwendig, sagt der Bundesinnenminister. Die Pläne sind auch rechtlich umstritten."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
     "score": 1.98,
     "items": [
      {
-      "title": "Bundesanwaltschaft: Mutmaßliche Mitglieder islamistischer Terrorgruppe gefasst",
-      "url": "https://www.sueddeutsche.de/politik/festnahmen-koeln-heidelberg-mutmassliche-mitglieder-terrorgruppe-islamismus-hayi-li.3586526",
+      "title": "Urteil in Köln: Missbrauchsopfer erhält mehr als eine halbe Million Euro Schmerzensgeld",
+      "url": "https://www.faz.net/aktuell/politik/inland/oberlandesgericht-koeln-missbrauchsopfer-erhaelt-schmerzensgeld-in-rekordhoehe-accg-201719348.html",
+      "source": "FAZ",
+      "date": "2026-11-26T11:51+00:00",
+      "teaser": "Noch nie wurde einem Missbrauchsopfer in Deutschland ein so hohes Schmerzensgeld zuerkannt: Das Erzbistum Köln muss mehr 550.000 Euro an eine Frau zahlen, die von einem Priester missbraucht wurde."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Urteil: Erzbistum Köln muss Rekord-Schmerzensgeld zahlen",
+      "url": "https://www.sueddeutsche.de/politik/urteil-erzbistum-koeln-katholische-kirche-missbrauch-scherzensgeld-rekord-li.3586491",
       "source": "Süddeutsche",
-      "date": "2026-11-26T10:10+00:00",
-      "teaser": "Die Beschuldigten sollen unter anderem einen Anschlag auf eine Synagoge in Köln geplant haben."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Ex-Neonazi: \"Auf meinem Lebensweg gibt es nur Opfer\"",
-      "url": "https://www.zdfheute.de/video/panorama-rechts-extremismus-trend-100.html",
-      "source": "ZDF",
-      "date": "2026-11-26T11:01+01:00",
-      "teaser": "Neonazi-Aussteiger Philip Schlaffer warnt vor der Radikalisierung in Kinderzimmern. Auf seine eigene Zeit in der Szene blickt er überaus kritisch."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Darf dm Augenscreenings machen? Heute fällt das Urteil",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/urteil-dm-augenscreening-klage-wettbewerbszentrale-100.html",
-      "source": "SWR",
-      "date": "2026-11-26T11:05+01:00",
-      "teaser": "Ein kurzer Blick in die Augen sorgt für großen Streit. Was darf dm beim Thema Gesundheit leisten und wo beginnt ärztliche Behandlung? Am Landgericht Karlsruhe wird das Urteil verkündet."
+      "date": "2026-11-26T11:44+00:00",
+      "teaser": "Melanie F. wurde als Mädchen von ihrem Pflegevater sexuell missbraucht – einem Priester. Das Erzbistum Köln muss als dessen Dienstgeber nun 550 000 Euro bezahlen."
      }
     ]
    },
@@ -353,85 +308,117 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Baden-Württemberg: Die Kunst, nichts zu beschließen",
-      "url": "https://www.sueddeutsche.de/politik/baden-wuerttemberg-cem-oezdemir-manuel-hagel-finanzkrise-buerokratieabbau-li.3584873",
-      "source": "Süddeutsche",
-      "date": "2026-11-26T09:54+00:00",
-      "teaser": "Eine ausgefallene Kabinettssitzung muss kein schlechtes Zeichen sein. Baden-Württembergs grün-schwarze Koalition steht vor einem ganz anderen Problem."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "SPD reagiert verhalten auf CDU-Vorstoß zur Rente",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html",
+      "title": "Mitglieder von früherer AfD-Jugend dürfen Waffenschein behalten",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
       "source": "Tagesschau",
-      "date": "2026-11-26T10:26+01:00",
-      "teaser": "Überzeugt der neue Vorschlag zur \"Rente mit 63\" aus der Union die SPD? Erste Reaktionen von den Sozialdemokraten deuten nicht auf eine Einigung hin. Die Union fordert dagegen, \"die ausgestreckte Hand zu ergreifen\"."
+      "date": "2026-11-26T12:39+01:00",
+      "teaser": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Waffenschein zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.96,
     "items": [
      {
-      "title": "Familienministerin Prien für bildschirmfreie Zeit bei Kleinkindern",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-26T10:07+01:00",
-      "teaser": "Bildschirme lenken ab - egal ob Smartphone, Tablet oder Fernsehen. Familienministerin Prien hat sich deshalb dafür ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme aufwachsen sollen."
+      "title": "Live: Sollte Sexkauf verboten werden?",
+      "url": "https://www.zdfheute.de/video/zdfheute-live/sexkauf-prostitution-kommission-video-100.html",
+      "source": "ZDF",
+      "date": "2026-11-26T12:40+01:00",
+      "teaser": "Reicht die Regulierung von Sexarbeit oder sollte es ein Sexkaufverbot nach nordischem Modell geben? Bei ZDFheute live diskutieren beide Seiten."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.95,
     "items": [
      {
-      "title": "Ukraine-Hilfe: Friedrich Merz muss endlich Klartext reden – Meinung",
-      "url": "https://www.spiegel.de/politik/deutschland/ukrainehilfe-der-kanzler-muss-endlich-klartext-reden-a-10475eeb-5899-4756-ad1d-df3e4f1add56#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T10:08+01:00",
-      "teaser": "Die Mehrheit der Deutschen lehnt Militärhilfen für die Ukraine ab. Umso wichtiger, dass der Kanzler endlich Klartext redet, auch wenn es schmerzt."
+      "title": "Deutschland Liveblog: Reichsbürgern darf der Besitz von Schreckschusswaffen verboten werden",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-reichsbuergern-darf-der-besitz-von-schreckschusswaffen-verboten-werden-faz-110093143.html",
+      "source": "FAZ",
+      "date": "2026-11-26T11:29+00:00",
+      "teaser": "Bundesverwaltungsgericht bestätigt umfassendes Waffenverbot +++ Mutmaßliche Terroristen festgenommen +++ Klüssendorf verspricht Kompromissbereitschaft +++ alle Entwicklungen im Liveblog"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "BSW-Politikerin Wittig: \"Notfalls auch mit der AfD\"",
+      "url": "https://www.zdfheute.de/video/lanz-wittig-bsw-afd-video-100.html",
+      "source": "ZDF",
+      "date": "2026-11-26T12:31+01:00",
+      "teaser": "Claudia Wittig (BSW) hat bei \"Lanz\" die Bereitschaft zu einer sachbezogenen Zusammenarbeit mit der AfD in Sachsen-Anhalt verteidigt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Chili-Pfanne auf dem Weihnachtsmarkt: Rettungskräfte rücken an",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/scharfe-chili-pfanne-weihnachtsmarkt-atemwegsreizungen-rettungskraefte-100.html",
+      "source": "SWR",
+      "date": "2026-11-26T12:33+01:00",
+      "teaser": "Ein Budenbetreiber bereitet auf dem Karlsruher Weihnachtsmarkt Chilimandeln in einer Pfanne zu - mit Folgen für die Besucher drumherum. Rettungskräfte rücken an."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Angriff auf Straßenmusiker in Ulm - Münsterpfarrer verfolgt Tatverdächtigen",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/angriff-auf-cellist-instrument-zerstoert-100.html",
+      "source": "SWR",
+      "date": "2026-11-26T12:35+01:00",
+      "teaser": "In der Ulmer Innenstadt hat ein Mann einen Straßenmusiker angegriffen. Er trat ein Loch in dessen Instrument. Passanten und der Münsterpfarrer verfolgten den Tatverdächtigen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Köln und Heidelberg: Festnahmen wegen möglicher Anschlagspläne auf Synagogen",
+      "url": "https://www.faz.net/aktuell/politik/inland/zwei-iraker-in-koeln-und-heidelberg-festgenommen-accg-201719222.html",
+      "source": "FAZ",
+      "date": "2026-11-26T11:20+00:00",
+      "teaser": "Zwei Iraker sollen Mitglieder einer Terrorgruppe gewesen sein, die Sprengstoffanschläge plante. Auch die Kölner Synagoge soll die Gruppe im Visier gehabt haben."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "\"Kein Ausverkauf\": Experte sieht Verkauf von Ziehl-Abegg als Chance",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/milliardendeal-hohenlohe-ziehl-abegg-ebm-papst-nill-reaktion-100.html",
+      "source": "SWR",
+      "date": "2026-11-26T12:15+01:00",
+      "teaser": "Vor wenigen Tagen wurde der Verkauf des Ventilatorenherstellers Ziehl-Abegg bekannt. Während sich viele Menschen Sorgen machen, sieht ein Experte dies als Chance für mehr Wachstum."
      }
     ]
    }
   ],
   "Polen": [
    {
-    "sourceCount": 2,
-    "score": 3.99,
-    "items": [
-     {
-      "title": "Poseł Rozwoju Plus zarzucił kłamstwo Terlikowskiemu. Dziennikarz przerwał wywiad",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33151275,posel-rozwoju-plus-zarzucil-klamstwo-terlikowskiemu-dziennikarz.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T10:16+00:00",
-      "teaser": "Paweł Jabłoński z Rozwoju Plus bronił postawy Karola Nawrockiego ws. nominacji ambasadorskich. Dziennikarz Tomasz Terlikowski zauważył, że zgodnie z polskim prawem politykę zagraniczną prowadzi rząd, a nie prezydent."
-     },
-     {
-      "title": "„Dlaczego pan kłamie?”. Dziennikarz przerwał wywiad z posłem Rozwoju Plus",
-      "url": "https://www.rp.pl/polityka/art45545851-dlaczego-pan-klamie-dziennikarz-przerwal-wywiad-z-poslem-rozwoju-plus",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T11:12+01:00",
-      "teaser": "Spór o nominacje ambasadorskie i uprawnienia Karola Nawrockiego doprowadził do przerwania rozmowy w RMF FM. Paweł Jabłoński zarzucił Tomaszowi Terlikowskiemu kłamstwo, a dziennikarz zakończył wywiad przed czasem."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
     "score": 2.0,
     "items": [
      {
-      "title": "Kuter zatonął u wybrzeży Islandii. Obywatel Polski wśród ofiar",
-      "url": "https://www.rp.pl/wypadki/art45546291-kuter-zatonal-u-wybrzezy-islandii-obywatel-polski-wsrod-ofiar",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T11:21+01:00",
-      "teaser": "Kuter rybacki zatonął około 100 kilometrów od wybrzeży Islandii. Jak przekazał rzecznik Ministerstwa Spraw Zagranicznych Maciej Wewiór, w katastrofie zginął Polak."
+      "title": "Sikorski chce reakcji NATO po incydencie z rosyjskimi rakietami. Oczekuje \"namacalnych działań\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33151746,sikorski-chce-reakcji-nato-po-incydencie-z-rosyjskimi-rakietami.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-26T12:06+00:00",
+      "teaser": "Radosław Sikorski podkreślił, że reakcja dyplomacji na naruszenie polskiej przestrzeni powietrznej była natychmiastowa. Przekazał też, że Polska potrzebuje wsparcia w zakresie obrony przeciwlotniczej i przeciwrakietowej."
      }
     ]
    },
@@ -440,11 +427,24 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Katastrofa statku u wybrzeży Islandii. Nie żyją trzy osoby, w tym Polak",
-      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33151662,katastrofa-statku-u-wybrzezy-islandii-nie-zyja-trzy-osoby.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T10:19+00:00",
-      "teaser": "U wschodnich wybrzeży Islandii zatonął statek rybacki. W katastorfie zginął obywatel Polski - potwierdził dla radia Eska rzecznik Ministerstwa Spraw Zagranicznych Maciej Wiewiór."
+      "title": "Donald Tusk mówił w środę, że ceny benzyny są w Polsce najniższe. Dziś znów spadają",
+      "url": "https://energia.rp.pl/paliwa/art45546491-donald-tusk-mowil-w-srode-ze-ceny-benzyny-sa-w-polsce-najnizsze-dzis-znow-spadaja",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T13:04+01:00",
+      "teaser": "Obwieszczenie Ministra Energii ustalające maksymalne ceny paliw na 27 listopada, ukazało się w Monitorze Polskim."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Algierskie Herculesy nad Polską. Regularnie latają do Rosji. Wojsko odpowiada",
+      "url": "https://www.rp.pl/wojsko/art45493581-algierskie-herculesy-nad-polska-regularnie-lataja-do-rosji-wojsko-odpowiada",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T13:03+01:00",
+      "teaser": "Nad Polską odbywają się regularne przeloty wojskowych statków powietrznych z Algierii, które kierują się na wschód. Czy łamią one sankcje nałożone na Rosję i przewożą broń? Stanowisko Ministerstwa Spraw Zagranicznych jest jednoznaczne."
      }
     ]
    },
@@ -453,11 +453,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Bogusław Chrabota: Państwowe firmy nie mają miejsca na menedżerów spoza polityki",
-      "url": "https://www.rp.pl/plus-minus/art45545561-boguslaw-chrabota-panstwowe-firmy-nie-maja-miejsca-na-menedzerow-spoza-polityki",
+      "title": "Dziewięciu chętnych do budowy systemów sterowania ruchem na liniach CPK",
+      "url": "https://logistyka.rp.pl/szynowy/art45547011-dziewieciu-chetnych-do-budowy-systemow-sterowania-ruchem-na-liniach-cpk",
       "source": "Rzeczpospolita",
-      "date": "2026-11-26T11:07+01:00",
-      "teaser": "Wokół rządzących wytworzyła się klasa zorientowanych partyjnie menedżerów."
+      "date": "2026-11-26T12:56+01:00",
+      "teaser": "Nowatorskie podejście CPK do sterowania – jeden kontrakt na całej linii, wykonawca odpowiedzialny za cały proces: od projektu po rozruch."
      }
     ]
    },
@@ -466,11 +466,11 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Radosław Sikorski: Władimir Putin przejdzie do historii, jako ten, któremu się nie udało",
-      "url": "https://www.rp.pl/dyplomacja/art45546181-radoslaw-sikorski-wladimir-putin-przejdzie-do-historii-jako-ten-ktoremu-sie-nie-udalo",
+      "title": "Motor na dwa lata opuszcza Lublin. Przenosi się do Wielkopolski",
+      "url": "https://sport.rp.pl/zuzel/art45546811-motor-na-dwa-lata-opuszcza-lublin-przenosi-sie-do-wielkopolski",
       "source": "Rzeczpospolita",
-      "date": "2026-11-26T11:05+01:00",
-      "teaser": "Ćwiczenia na naszym własnym terytorium to nasze suwerenne prawo - tak wicepremier i szef MSZ Radosław Sikorski skomentował doniesienia dziennika „Wall Street Journal”."
+      "date": "2026-11-26T12:50+01:00",
+      "teaser": "Orlen Oil Motor Lublin, trzykrotny mistrz Polski na żużlu, brązowy medalista sezonu 2026, przez najbliższe dwa lata jako gospodarz będzie występował na stadionie w Gnieźnie."
      }
     ]
    },
@@ -479,98 +479,105 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Niemiecka prasa: Polski rynek kluczowy dla fuzji UniCredit i Commerzbanku",
-      "url": "https://www.dw.com/pl/niemiecka-prasa-polski-rynek-kluczowy-dla-fuzji-unicredit-i-commerzbanku/a-80057165?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-26T10:00+00:00",
-      "teaser": "Włoski UniCredit przejmuje niemiecki Commerzbank m.in po to, by wrócić na szybko rosnący polski rynek – pisze „Frankfurter Allgemeine Zeitung” i chwali polską gospodarkę."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Biegły: Reforma ministerstwa jeszcze pogorszy sytuację. Biegli będą rezygnować",
-      "url": "https://www.rp.pl/zawody-prawnicze/art45541411-biegly-reforma-ministerstwa-jeszcze-pogorszy-sytuacje-biegli-beda-rezygnowac",
+      "title": "Jarosław Kaczyński napisał list do Donalda Tuska. W tle sprawa budżetu UE",
+      "url": "https://www.rp.pl/polityka/art45546911-jaroslaw-kaczynski-napisal-list-do-donalda-tuska-w-tle-sprawa-budzetu-ue",
       "source": "Rzeczpospolita",
-      "date": "2026-11-26T10:50+01:00",
-      "teaser": "Niemal 90 proc. uwag środowiska do projektu reformy o biegłych sądowych nie zostało uwzględnionych przez Ministerstwo Sprawiedliwości – mówi „Rzeczpospolitej” dr Krzysztof Konopka, prezes Polskiego Towarzystwa Ekspertów i Biegłych Sądowych."
+      "date": "2026-11-26T12:44+01:00",
+      "teaser": "Prezes PiS Jarosław Kaczyński napisał list do premiera Donalda Tuska. Apeluje w nim o zmianę unijnego budżetu, który zdaniem lidera PiS jest zły dla Polski. Kaczyński proponuje także uchwałę wzywającą rząd do weta budżetu UE."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.97,
     "items": [
      {
-      "title": "TSUE po stronie banków w sprawie braku górnej granicy wzrostu WIBOR-u",
-      "url": "https://www.rp.pl/orzecznictwo/art45545911-tsue-po-stronie-bankow-w-sprawie-braku-gornej-granicy-wzrostu-wibor-u",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T10:49+01:00",
-      "teaser": "Bank nie musi określać maksymalnej wysokości oprocentowania kredytu udzielonego na 30 lat. Trybunał Sprawiedliwości Unii Europejskiej odpowiedział na pytania krakowskiego sądu nie po myśli kredytobiorców."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Pomoc dla Ukrainy i unijny budżet. Prezydent Litwy o złych stronach projektu Costy",
-      "url": "https://www.rp.pl/polityka/art45546061-pomoc-dla-ukrainy-i-unijny-budzet-prezydent-litwy-o-zlych-stronach-projektu-costy",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T10:47+01:00",
-      "teaser": "Szanse na zakończenie wojny w Ukrainie jeszcze w tym roku są niewielkie, a perspektywa rozmów pokojowych pojawi się najwcześniej wiosną – ocenił w czwartek prezydent Litwy Gitanas Nauseda. Litewski przywódca apelował w Brukseli o solidarne wzmocnienie Kijowa oraz skrytykował założenia nowego unijneg"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Trybunał Konstytucyjny będzie finansowany przez BGK. Domański: TK będzie działał",
-      "url": "https://www.rp.pl/sady-i-trybunaly/art45545961-trybunal-konstytucyjny-bedzie-finansowany-przez-bgk-domanski-tk-bedzie-dzialal",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-26T10:38+01:00",
-      "teaser": "Decyzją premiera Donalda Tuska Trybunał Konstytucyjny będzie finansowany przez Bank Gospodarstwa Krajowego — przekazał w TVN24 szef kancelarii premiera Jan Grabiec."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Reset w TK. Bielan: Podczas rozmów w Pałacu była perspektywa zmiany rządu",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33151363,reset-w-tk-bielan-podczas-rozmow-w-palacu-byla-perspektywa.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "title": "Uciekał przed policją i uderzył w radiowóz. Trwają poszukiwania 41-latka",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33151974,uciekal-przed-policja-i-uderzyl-w-radiowoz-trwaja-poszukiania.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T09:29+00:00",
-      "teaser": "Jarosław Kaczyński nie wyklucza resetu w Trybunale Konstytucyjnym. \"Bez powołania rządu technicznego proponowane rozwiązania są dla PiS nie do przyjęcia\" - podkreślił lider PiS."
+      "date": "2026-11-26T11:44+00:00",
+      "teaser": "Poszukiwany przez policję 41-letni mężczyzna uciekał w Kielcach przed policją. Podczas pościgu uderzył w policyjny radiowóz, a także jechał pod prąd i chodnikiem."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.95,
     "items": [
      {
-      "title": "Zarobki w tej branży sięgają 40 tys. zł miesięcznie. Nowy raport ujawnia stawki",
-      "url": "https://www.rp.pl/praca/art45545321-zarobki-w-tej-branzy-siegaja-40-tys-zl-miesiecznie-nowy-raport-ujawnia-stawki",
+      "title": "Rosja oskarża Ukrainę o próbę rozszerzenia konfliktu na Morze Śródziemne i Bałtyk",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45546671-rosja-oskarza-ukraine-o-probe-rozszerzenia-konfliktu-na-morze-srodziemne-i-baltyk",
       "source": "Rzeczpospolita",
-      "date": "2026-11-26T10:21+01:00",
-      "teaser": "Inżynierowie w branży transportowej, zatrudnieni w sektorach motoryzacji, elektromobilności oraz kolejnictwa, mogą liczyć na wynagrodzenia dochodzące do 40 tys. zł brutto miesięcznie – wynika z najnowszego raportu Manpower."
+      "date": "2026-11-26T12:32+01:00",
+      "teaser": "Donald Trump i Mark Rutte zaapelowali do Rosji, by nie przenosiła wojny poza obszar Ukrainy. Tymczasem rzecznik Kremla Dmitrij Pieskow oskarżył Kijów o takie działania, wskazując m.in. na atak przeprowadzony na rosyjską korwetę, zniszczoną przez ukraińskie drony na wodach Libii."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Budżet UE. Kanclerz Merz odrzuca projekt kompromisu i stawia warunek",
+      "url": "https://www.dw.com/pl/budżet-ue-kanclerz-merz-odrzuca-projekt-kompromisu-i-stawia-warunek/a-80059024?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-26T11:30+00:00",
+      "teaser": "Propozycje ws. budżetu UE, które leżą na stole, nie są podstawą do porozumienia – oświadczył kanclerz Niemiec przed unijnym szczytem budżetowym."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Były agent CBA idzie do aresztu na trzy miesiące. Chodzi o jego rolę w aferze Zondacrypto",
+      "url": "https://www.rp.pl/prawo-karne/art45546651-byly-agent-cba-idzie-do-aresztu-na-trzy-miesiace-chodzi-o-jego-role-w-aferze-zondacrypto",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T12:21+01:00",
+      "teaser": "Sąd Rejonowy Warszawa-Mokotów zgodził się na zastosowanie trzymiesięcznego aresztu tymczasowego wobec Artura Chodzińskiego. Były agent CBA miał współpracować z szefem Zondacrypto Przemysławem Kralem."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Katastrofa tankowca u wybrzeży Ibizy. Jeden z członków załogi nie żyje",
+      "url": "https://www.rp.pl/wypadki/art45546531-katastrofa-tankowca-u-wybrzezy-ibizy-jeden-z-czlonkow-zalogi-nie-zyje",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-26T12:16+01:00",
+      "teaser": "U wybrzeży Ibizy zatonął maltański tankowiec Med Emre, który mógł przewozić nawet 7 tys. ton oleju napędowego. Jeden z 17 członków załogi zmarł po akcji ratunkowej. Jak informują Reuters i Euronews, hiszpańskie służby sprawdzają, czy doszło do wycieku paliwa."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "\"Intensywne opady śniegu\". IMGW wydał ostrzeżenie",
+      "url": "https://wiadomosci.gazeta.pl/pogoda-i-klimat/7,198071,33151529,intensywne-opady-sniegu-imgw-wydal-ostrzezenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-26T11:17+00:00",
+      "teaser": "Instytut Meteorologii i Gospodarki Wodnej wydał ostrzeżenie pierwszego stopnia o intensywnych opadach śniegu w Polsce od czwartkowego wieczoru do końca popołudnia w piątek."
      }
     ]
    }
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 3,
-    "score": 5.9,
+    "sourceCount": 4,
+    "score": 7.88,
     "items": [
+     {
+      "title": "Unicredit ist bei Commerzbank am Ziel – und will schnell Personal austauschen",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-ist-bei-commerzbank-am-ziel-und-will-schnell-personal-austauschen-a-ca320f98-a8ad-4687-a3e5-e6930ac6ff09#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T11:19+01:00",
+      "teaser": "Nachdem alle Behörden der Commerzbank-Übernahme zugestimmt haben, drücken die künftigen Eigentümer aus Italien aufs Tempo. Den Aufsichtsrat soll Unicredit-Chef Orcel führen, den bisherigen Vorständen wird das Vertrauen entzogen."
+     },
      {
       "title": "UniCredit beantragt Hauptversammlung bei Commerzbank",
       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-commerzbank-hauptversammlung-100.html",
@@ -579,24 +586,57 @@
       "teaser": "Die UniCredit will den Einstieg bei der Commerzbank umsetzen und dafür die Macht im Aufsichtsrat übernehmen. Darum hat die italienische Bank eine Hauptversammlung beantragt, um eigene Vertreter zu entsenden."
      },
      {
-      "title": "Unicredit: Orcel will Aufsichtsratschef der Commerzbank werden und fordert außerordentliche Hauptversammlung",
+      "title": "Unicredit: Orcel will Aufsichtsratschef der Commerzbank werden und Vorstände rasch austauschen",
       "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/unicredit-orcel-will-aufsichtsratschef-der-commerzbank-werden/100272891.html",
       "source": "Handelsblatt",
-      "date": "2026-11-26T08:00+00:00",
-      "teaser": "Nach der Zustimmung der polnischen Behörden hat Unicredit alle Genehmigungen für die Übernahme der Commerzbank. Dort wollen die Italiener insgesamt neun Aufsichtsräte austauschen."
-     },
-     {
-      "title": "Übernahme der Commerzbank: Unicredit-CEO soll Aufsichtsratschef bei Commerzbank werden",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/unicredit-commerzbank-uebernahme-andrea-orcel-aufsichtsrat-gxe",
-      "source": "Zeit",
-      "date": "2026-11-26T09:10+00:00",
-      "teaser": "Die Übernahme der Commerzbank durch Unicredit nimmt Formen an. Auf einer außerordentlichen Hauptversammlung soll der Aufsichtsrat der Commerzbank neu besetzt werden."
+      "date": "2026-11-26T10:38+00:00",
+      "teaser": "Unicredit hat alle Genehmigungen für die Übernahme der Commerzbank und will neun Aufsichtsratsmitglieder austauschen. Auch im Vorstand wollen die Italiener schnell Fakten schaffen."
      }
     ]
    },
    {
     "sourceCount": 2,
     "score": 3.97,
+    "items": [
+     {
+      "title": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
+      "url": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
+      "source": "The Guardian",
+      "date": "2026-11-26T10:15+00:00",
+      "teaser": "Norwegian airline says its finances are ‘critical’ and it will file for bankruptcy if it cannot secure short-term backing Business live – latest updates Norse Atlantic Airways has suspended all flights and said it will file for bankruptcy if it cannot secure short-term financing urgently. The Norweg"
+     },
+     {
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-26T11:43+00:00",
+      "teaser": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "Ministers ‘fail to make case’ for Heathrow third runway, MPs report says",
+      "url": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+      "source": "The Guardian",
+      "date": "2026-11-26T11:00+00:00",
+      "teaser": "Transport committee says policy papers show expanding airport would fall short of pledges on economy and climate Ministers have “failed to make the case” for a third runway at Heathrow , according to a damning report by MPs. The Commons transport committee said on Thursday that the detailed policy p"
+     },
+     {
+      "title": "UK government has ‘failed’ to make case for third Heathrow runway, say MPs",
+      "url": "https://www.ft.com/content/9c271b6d-3280-4abc-9e8f-a93caf594d21?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-26T11:05+00:00",
+      "teaser": "Transport committee warns ambitious scheme would only create ‘modest’ economic growth as PM Andy Burnham weighs decision on £33bn project"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.83,
     "items": [
      {
       "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
@@ -616,14 +656,14 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.94,
+    "score": 3.79,
     "items": [
      {
       "title": "UK regulator admits error in calculating car finance compensation payments",
       "url": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
       "source": "The Guardian",
       "date": "2026-11-26T09:18+00:00",
-      "teaser": "FCA also tells Barclays to stop making settlement offers while it works through data problems Business live – latest updates The financial regulator has admitted that it has miscalculated part of the compensation scheme for victims of the car finance scandal, and told Barclays to stop making settlem"
+      "teaser": "FCA also tells Barclays to stop making settlement offers while it works through data problems Business live – latest updates The financial regulator has admitted that it has miscalculated part of the compensation scheme for victims of the car finance scandal and told Barclays to stop making settleme"
      },
      {
       "title": "Car finance compensation payments explained",
@@ -635,34 +675,14 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.8,
-    "items": [
-     {
-      "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-      "source": "The Guardian",
-      "date": "2026-11-26T06:10+00:00",
-      "teaser": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political "
-     },
-     {
-      "title": "China hits back at Trump tariff threat",
-      "url": "https://www.ft.com/content/31ae0162-f946-4e2c-b656-1930baea19d0?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-26T08:02+00:00",
-      "teaser": "Levies follow investigation into whether countries give their own companies unfair subsidies"
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
     "score": 2.0,
     "items": [
      {
-      "title": "Dax aktuell: Dax folgt Erholung an der Wall Street und öffnet im Plus",
-      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-folgt-erholung-an-der-wall-street-und-oeffnet-im-plus/100272884.html",
+      "title": "Dax aktuell: Dax folgt Erholung an der Wall Street und notiert im Plus",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-folgt-erholung-an-der-wall-street-und-notiert-im-plus/100272884.html",
       "source": "Handelsblatt",
-      "date": "2026-11-26T10:24+00:00",
+      "date": "2026-11-26T12:06+00:00",
       "teaser": "Anleger greifen bei zuletzt stark gefallenen Aktien zu. Im Tagesverlauf richten sich die Blicke auf das EZB-Protokoll und den EU-Gipfel."
      }
     ]
@@ -672,11 +692,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Gewerbeimmobilien: Büromieten steigen in guten Lagen – Ladenmieten sinken",
-      "url": "https://www.handelsblatt.com/finanzen/immobilien/gewerbeimmobilien-bueromieten-steigen-in-guten-lagen-ladenmieten-sinken/100272962.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-26T10:18+00:00",
-      "teaser": "In Düsseldorf fallen sogar die Preise für gute Büros um gut 14 Prozent. Ein neues Bundesprogramm soll leere Büros zu Wohnungen machen – doch nicht jedes Gebäude eignet sich dafür."
+      "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "source": "The Guardian",
+      "date": "2026-11-26T12:00+00:00",
+      "teaser": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’ Trump proposing new tariffs on 14 partners including China and EU Beijing has said it reserves the right to take “necessary measures” after Donald Trump’s administration proposed new tari"
      }
     ]
    },
@@ -685,76 +705,63 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Unicredit ist bei Commerzbank am Ziel – und will schnell Personal austauschen",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-ist-bei-commerzbank-am-ziel-und-will-schnell-personal-austauschen-a-ca320f98-a8ad-4687-a3e5-e6930ac6ff09#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T11:19+01:00",
-      "teaser": "Nachdem alle Behörden der Commerzbank-Übernahme zugestimmt haben, drücken die künftigen Eigentümer aus Italien aufs Tempo. Den Aufsichtsrat soll Unicredit-Chef Orcel führen, den bisherigen Vorständen wird das Vertrauen entzogen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Jensen Huang: Was genau hat der Nvidia-Chef falsch gemacht?",
-      "url": "https://www.spiegel.de/wirtschaft/jensen-huang-was-genau-hat-der-nvidia-chef-falsch-gemacht-a-557707a4-35ac-4f45-aeda-32058f3e1b9b#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T11:18+01:00",
-      "teaser": "Als Frau kann man sich über das Comeback des Nvidia-Chefs fürchterlich aufregen. Am Ende ist das aber nur Penisneid."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "What's gone wrong at Poundland?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-26T10:15+00:00",
-      "teaser": "Poundland has collapse into administration. Why?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Geld. Leben. Looman.: Auch ein abgezahltes Eigenheim kann im Alter zur Last werden",
-      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/immobilien-wann-das-abbezahlte-eigenheim-im-alter-zur-last-wird/100272467.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-26T10:04+00:00",
-      "teaser": "Ein Haus im Millionenwert hilft wenig, wenn zum Bestreiten des Lebensunterhalts kaum liquide Mittel bleiben. Ein Verkauf kann befreiend wirken – auch wenn es schwerfällt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Edeka ruft Kartoffeln zurück",
-      "url": "https://www.spiegel.de/wirtschaft/service/edeka-ruft-kartoffeln-zurueck-a-c151194d-a0ba-4491-b9ec-3ba7be3953bc#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T11:02+01:00",
-      "teaser": "Kartoffeln enthalten eine natürliche Substanz, die zu Beschwerden führen kann. Der Lebensmittelhändler Edeka meldet nun erhöhte Werte bei einer Sorte."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "‘Avengers’ and ‘Dune’ Have Hollywood Dreaming of a December Windfall",
-      "url": "https://www.nytimes.com/2026/11/26/business/media/avengers-infinity-vision-dune.html",
+      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+      "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
       "source": "New York Times",
-      "date": "2026-11-26T10:02+00:00",
-      "teaser": "“Avengers: Doomsday” and “Dune: Part Three” are expected to open to at least $350 million in ticket sales. Some forecasts approach $500 million."
+      "date": "2026-11-26T12:04+00:00",
+      "teaser": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+      "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "source": "CNBC",
+      "date": "2026-11-26T12:00+00:00",
+      "teaser": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Bank of England warns of growing financial risks from ‘opaque’ AI financing – business live",
+      "url": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates",
+      "source": "The Guardian",
+      "date": "2026-11-26T11:45+00:00",
+      "teaser": "UK central bank says the very rapid expansion and broadening of funding for AI industry poses a threat to financial stability A shopping centre in London that was due to be knocked down and replaced with a retail emporium and more than 1,000 apartments has been paused , dealing another blow to the g"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Geldanlage: So entsteht ein ETF-Portfolio, das wenig Arbeit macht",
+      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/geldanlage-so-bauen-sie-mit-wenigen-etfs-ein-starkes-depot-auf-01/100263502.html",
+      "source": "Handelsblatt (Finanzen)",
+      "date": "2026-11-26T11:28+00:00",
+      "teaser": "Ein bis zwei ETFs – und das Depot ist fertig? Das funktioniert. Eine Anleitung in vier Schritten, mit welchen ETFs das gelingt und welcher bekannte Indexfonds außen vor bleiben sollte."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Lululemon: Chip Wilson kritisiert Kanadas Frauen für niedrige Geburtenrate",
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/lululemon-chip-wilson-kritisiert-kanadas-frauen-fuer-niedrige-geburtenrate-a-7c6a208b-8462-43df-afb8-c82338e36a3b#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T12:26+01:00",
+      "teaser": "Angekündigt war ein »intimes Kamingespräch«, heraus kam offenbar eine Schuldzuweisung an kanadische Frauen. Chip Wilson, Chef der Yoga-Firma Lululemon, hat auf einer Konferenz für Aufsehen gesorgt. Es war nicht das erste Mal."
      }
     ]
    }
@@ -762,13 +769,13 @@
   "Sport": [
    {
     "sourceCount": 2,
-    "score": 9.83,
+    "score": 9.68,
     "favorite": true,
     "items": [
      {
       "title": "Champions League: Lille comeback adds to Bayern woes, Gordon leads Barcelona rout",
       "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
-      "source": "The Guardian",
+      "source": "The Guardian (Barcelona)",
       "date": "2026-11-25T22:38+00:00",
       "teaser": "Lille 2-1 Bayern Munich, Sabah 1-4 Barcelona Malen penalty earns Roma 2-2 draw at PSG Bayern Munich endured their first defeat of the season on Wednesday, losing 2-1 at Lille in the Champions League as a tough week for the German giants worsened. Dayot Upamecano opened the scoring for Bayern but Aya"
      },
@@ -783,35 +790,35 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.95,
+    "score": 7.96,
     "favorite": true,
     "items": [
      {
-      "title": "Los datos impecables del debut de Àlex Campos",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004255722/datos-impecables-debut-alex-campos.html",
+      "title": "Optimismo con Rodri y Christensen",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004255789/optimismo-rodri-christensen.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-26T10:46+01:00",
-      "teaser": "El partido de Champions League contra el Sabah (1-4) será inolvidable para Àlex Campos (18 años). El joven central se estrenó con el primer equipo del Barça y se convirtió en el duodécimo debutante desde la llegada de Hansi Flick al banquillo azulgrana. Fruto de las lesiones de Koundé , Eric Garcia "
+      "date": "2026-11-26T12:42+01:00",
+      "teaser": "La plantilla del FC Barcelona no se ejercitó este jueves para recuperar energías tras el largo viaje desde Bakú, aunque en el vestuario azulgrana hay optimismo con los posibles retornos de Rodri y Christensen para el partido del domingo (16.15 horas) contra el Deportivo en Riazor."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.88,
+    "score": 7.95,
     "favorite": true,
     "items": [
      {
-      "title": "Tres destinos para una cesión de Bisiwu",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004255703/tres-destinos-cesion-bisiwu.html",
+      "title": "'Barça Team': Gordon lidera el triunfo en Bakú",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261126/1004255626/barca-team-gordon-lidera-triunfo-baku.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-26T09:56+01:00",
-      "teaser": "Jesse Bisiwu (18 años) fue una de las sorpresas en la lista de convocados del primer equipo del FC Barcelona para el duelo de Champions League ante el Sabah . Era el estreno del joven belga en una convocatoria de Hansi Flick en partido oficial, aunque el extremo no llegó a saltar al terreno de juego"
+      "date": "2026-11-26T12:30+01:00",
+      "teaser": "El Barça sigue avanzando en Europa y lo hace con una victoria contundente en Bakú . El equipo de Hansi Flick resolvió con autoridad su compromiso de Champions League, donde se impuso por 1-4 al Sabah con una destacada actuación del tridente formado por Anthony Gordon, Karim Adeyemi y Gabriel Jesus ."
      }
     ]
    },
    {
     "sourceCount": 4,
-    "score": 7.78,
+    "score": 7.87,
     "items": [
      {
       "title": "Jamal Musiala: Das Statement des FC Bayern zwischen den Zeilen",
@@ -838,7 +845,34 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.84,
+    "score": 5.85,
+    "items": [
+     {
+      "title": "Joshua Kimmich über Fall Jamal Musiala: „Das ist ein absolutes No-Go und nicht Bayern-like“",
+      "url": "https://www.11freunde.de/bundesliga/joshua-kimmich-ueber-die-causa-musiala-das-ist-ein-absolutes-no-go-und-nicht-bayern-like-a-9d0f9439-56c2-48c2-bd72-316f34632926#ref=rss",
+      "source": "11 Freunde",
+      "date": "2026-11-26T08:31+01:00",
+      "teaser": "Viel wurde in den letzten Tagen über die öffentlichen Aussagen der Bayern-Verantwortlichen um Karl-Heinz-Rummenigge über Jamal Musiala und seine Erkrankung diskutiert. Am Rande der Champions-League-Partie gegen Lille äußerte sich auch Bayerns Kapitän Joshua Kimmich. Und macht den Klubbossen eine kla"
+     },
+     {
+      "title": "‘Not Bayern-like’: Joshua Kimmich fumes at club’s treatment of Jamal Musiala",
+      "url": "https://www.theguardian.com/football/2026/nov/26/bayern-munich-joshua-kimmich-jamal-musiala",
+      "source": "The Guardian",
+      "date": "2026-11-26T10:19+00:00",
+      "teaser": "Bundesliga champions lost 2-1 to Lille on Wednesday Kimmich defends Musiala’s neurological condition The Bayern Munich midfielder Joshua Kimmich has launched a stinging attack on the club’s “not Bayern-like” treatment of his teammate Jamal Musiala, who has a condition which causes seizures. Senior B"
+     },
+     {
+      "title": "Kritik von Kimmich: „Das ist ein absolutes No-Go und auch nicht Bayern-like“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/joshua-kimmichs-kritik-an-fc-bayern-bossen-im-fall-jamal-musiala-accg-201718387.html",
+      "source": "FAZ",
+      "date": "2026-11-26T08:11+00:00",
+      "teaser": "Der Wirbel um Jamal Musialas Gesundheitszustand ist groß. Nach der ersten Saisonniederlage in Lille äußert sich auch Joshua Kimmich. Er kritisiert die Bayern-Bosse scharf."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.7,
     "items": [
      {
       "title": "Champions League: FC Bayern München verliert nach Führung gegen OSC Lille",
@@ -865,7 +899,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 4.97,
+    "score": 4.83,
     "items": [
      {
       "title": "Champions League: Florian Wirtz trifft schon wieder, VFB Stuttgart scheitert in Mailand",
@@ -892,34 +926,14 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.81,
-    "items": [
-     {
-      "title": "Joshua Kimmich über die Causa Musiala: „Das ist ein absolutes No-Go und nicht Bayern-like“",
-      "url": "https://www.11freunde.de/bundesliga/joshua-kimmich-ueber-die-causa-musiala-das-ist-ein-absolutes-no-go-und-nicht-bayern-like-a-9d0f9439-56c2-48c2-bd72-316f34632926#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-26T08:31+01:00",
-      "teaser": "Viel wurde in den letzten Tagen über die öffentlichen Aussagen der Bayern-Verantwortlichen um Karl-Heinz-Rummenigge über Jamal Musiala und seine Erkrankung diskutiert. Am Rande der Champions-League-Partie gegen Lille äußerte sich auch Bayerns Kapitän Joshua Kimmich. Und macht den Klubbossen eine kla"
-     },
-     {
-      "title": "Kritik von Kimmich: „Das ist ein absolutes No-Go und auch nicht Bayern-like“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/joshua-kimmichs-kritik-an-fc-bayern-bossen-im-fall-jamal-musiala-accg-201718387.html",
-      "source": "FAZ",
-      "date": "2026-11-26T08:11+00:00",
-      "teaser": "Der Wirbel um Jamal Musialas Gesundheitszustand ist groß. Nach der ersten Saisonniederlage in Lille äußert sich auch Joshua Kimmich. Er kritisiert die Bayern-Bosse scharf."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.91,
+    "score": 2.76,
     "items": [
      {
       "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
       "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
       "source": "The Guardian",
       "date": "2026-11-25T21:17+00:00",
-      "teaser": "‘Players are here for four years and can’t speak English’ Glasner has held talks with owner over January moves Nottingham Forest’s manager, Oliver Glasner, believes standards at the club were not good enough prior to his arrival as he questioned why some of his squad cannot speak English after a num"
+      "teaser": "‘Players are here for four years and can’t speak English’ Glasner has held talks with owner over January moves Nottingham Forest’s manager, Oliver Glasner, believes standards at the club were not good enough before his arrival as he questioned why some of his squad cannot speak English after a numbe"
      },
      {
       "title": "Glasner criticises Forest players yet to learn English",
@@ -931,22 +945,28 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 2.57,
+    "sourceCount": 1,
+    "score": 1.98,
     "items": [
      {
-      "title": "Champions League: Borussia Dortmund punktet beim FC Arsenal",
-      "url": "https://www.spiegel.de/sport/fussball/champions-league-dortmund-punktet-beim-fc-arsenal-maximilian-beier-trifft-a-e5d9487d-3b7e-4256-a911-c5e89b58c0cf#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-24T23:43+01:00",
-      "teaser": "Wie zäh ist dieser BVB? Niko Kovačs Borussia gelingt beim Premier-League-Tabellenführer dank des vom DFB verschmähten Maxi Beier das Comeback. Auch Abwehr-Youngster Joane Gadou bringt seine Kollegen ins Schwärmen."
-     },
+      "title": "Gladbach beurlaubt Geschäftsführer Stegemann mit sofortiger Wirkung",
+      "url": "https://www.kicker.de/gladbach-beurlaubt-geschaeftsfuehrer-stegemann-mit-sofortiger-wirkung-1273821/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-26T11:57+00:00",
+      "teaser": "Das Bundesliga-Schlusslicht Borussia Mönchengladbach kommt nicht zur Ruhe. Am Donnerstag vermeldete der Klub die Trennung von Geschäftsführer Dr. Stefan Stegemann."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
      {
-      "title": "Borussia Dortmund vs. FC Arsenal: Was das Remis über die Kovac-Elf verrät",
-      "url": "https://www.11freunde.de/international/champions-league/borussia-dortmund-vs-fc-arsenal-was-das-remis-ueber-die-kovac-elf-verraet-a-7718250d-59fe-4f6d-bed1-6537061a099b#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-25T18:12+01:00",
-      "teaser": "Borussia Dortmund besteht auch beim FC Arsenal und ein Jungspund erlebt seinen Durchbruch. Bespricht den Chsampions-League-Abend: das Themenfrühstück."
+      "title": "Europa League: Unwetter zwingt Besiktas-Flieger zur Notlandung",
+      "url": "https://www.spiegel.de/sport/fussball/europa-league-unwetter-zwingt-besiktas-flieger-zur-notlandung-a-f963c468-7c20-425f-a9c5-f8a108938edd#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T12:51+01:00",
+      "teaser": "Das Team von Besiktas Istanbul hat bei der Anreise nach Georgien ein Drama erlebt. Ein Unwetter sorgte für eine Notlandung. Die Reise musste per Bus fortgeführt werden."
      }
     ]
    },
@@ -955,37 +975,24 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Eintracht ist trotz Ebnoutalib-Gerüchten um Ruhe bemüht",
-      "url": "https://www.sportschau.de/regional/hr/hr-interesse-der-bayern-wirbel-um-ebnoutalib-geruechte-bei-der-eintracht-102.html",
-      "source": "Sportschau",
-      "date": "2026-11-26T11:01+01:00",
-      "teaser": "Younes Ebnoutalib ist bekannt dafür, Unruhe in gegnerischen Abwehrreihen zu verursachen. Aktuell sorgen aber eher Gerüchte um einen Abschied von Eintracht Frankfurt für Aufsehen. Der Versuch einer Einordnung."
+      "title": "Bellingham lobt, hadert und stichelt: So lief seine England-Rückkehr",
+      "url": "https://www.kicker.de/bellingham-lobt-hadert-und-stichelt-so-lief-seine-england-rueckkehr-1275171/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-26T11:47+00:00",
+      "teaser": "Jobe Bellingham stand beim Gastspiel von Borussia Dortmund beim FC Arsenal besonders im Fokus. Worüber sich der Engländer ärgerte und warum er auch neben dem Platz eine gute Figur abgab."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.97,
     "items": [
      {
-      "title": "Jetzt live - Struff verliert den ersten Satz gegen Norrie",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/tennis/davis-cup/ma12661067/cameron-norrie_jan-lennard-struff/liveticker",
+      "title": "Jetzt live - Zverev führt gegen Fery",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/tennis/davis-cup/ma12661070/arthur-fery_alexander-zverev/liveticker",
       "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-26T10:57+01:00",
-      "teaser": "Deutschland trifft im Viertelfinale des Davis Cup auf Großbrittanien. Jan-Lennard Struff liegt im ersten Einzel gegen die ehemalige Nummer acht der Welt, Cameron Norrie, zurück."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Weltfußballverband bestätigt: Hacker haben die FIFA angegriffen",
-      "url": "https://www.11freunde.de/wm/weltfussballverband-bestaetigt-hacker-haben-die-fifa-angegriffen-a-f6840883-e720-4ffa-866b-6329590a219f#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-26T10:51+01:00",
-      "teaser": "Wie der Weltverband bestätigt, ist die FIFA Opfer eines cyberkriminellen Hacker-Angriffs geworden. Welche Daten entwendet worden sind, ist unklar. Die Organisation verurteilt das Vorgehen aufs Schärfste."
+      "date": "2026-11-26T12:45+01:00",
+      "teaser": "Deutschland liegt im Viertelfinale des Davis Cup mit 0:1 gegen Großbritannien zurück. Gelingt Alexander Zverev der Ausgleich gegen Arthur Fery?"
      }
     ]
    }
@@ -993,7 +1000,27 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.91,
+    "items": [
+     {
+      "title": "Offiziell bestätigt: Sparkassen unterstützen Google Pay nach Jahren der Wartezeit",
+      "url": "https://www.golem.de/news/offiziell-bestaetigt-sparkassen-unterstuetzen-google-pay-auf-android-smartphones-2611-215688.html",
+      "source": "Golem",
+      "date": "2026-11-26T12:03+01:00",
+      "teaser": "Darauf hat die Sparkassenkundschaft seit vielen Jahren gewartet: Unterstützung von Google Pay auf Android-Smartphones und passenden Smartwatches. ( Sparkasse , Smartphone )"
+     },
+     {
+      "title": "Sparkassen bringen Unterstützung für Google Pay",
+      "url": "https://www.heise.de/news/Sparkassen-bringen-Unterstuetzung-fuer-Google-Pay-11538771.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-26T10:45+01:00",
+      "teaser": "In Updates der Sparkassen-App wurden Hinweise auf eine Google-Pay-Anbindung entdeckt. Der Sparkassenverband bestätigt die Funktion."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.78,
     "items": [
      {
       "title": "Musk's plan to send a million SpaceX data satellites into space approved",
@@ -1013,7 +1040,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.51,
+    "score": 2.37,
     "items": [
      {
       "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
@@ -1036,11 +1063,76 @@
     "score": 1.99,
     "items": [
      {
-      "title": "The Best Bed Frames, Tested in Our Own Rooms (2026)",
-      "url": "https://www.wired.com/story/best-bed-frames/",
+      "title": "Deichmann, Office Partner und Co.: Warum sich gerade die Meldungen über Datenlecks häufen",
+      "url": "https://t3n.de/news/deichmann-office-partner-und-co-warum-sich-gerade-die-meldungen-ueber-datenlecks-haeufen-1775538/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-26T13:00+01:00",
+      "teaser": "In den vergangenen Wochen mussten gleich mehrere prominente Onlinehändler über Sicherheitsvorfälle und mögliche Datenabflüsse informieren. Was müssen Unternehmen in solchen Fällen tun, wie sollten Kund:innen reagieren – und welche Rolle könnte die Black Week dabei spielen? weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+      "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+      "source": "New York Times",
+      "date": "2026-11-26T12:04+00:00",
+      "teaser": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+      "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+      "source": "Ars Technica",
+      "date": "2026-11-26T12:00+00:00",
+      "teaser": "Our home offices range from tasteful to \"please explain yourself.\""
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
+      "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
+      "source": "The Verge",
+      "date": "2026-11-26T07:00-05:00",
+      "teaser": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway Patrol cruisers during a traffic break, a moving v"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
       "source": "Wired",
-      "date": "2026-11-26T10:19+00:00",
-      "teaser": "Looking for the best bed frame? Our top recommendation is the Classic Bed from Thuma, but we’ve got options for all budgets and tastes."
+      "date": "2026-11-26T12:00+00:00",
+      "teaser": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "8 Best Keyboards (2026): My Honest Picks After Testing Dozens",
+      "url": "https://www.wired.com/gallery/best-keyboards/",
+      "source": "Wired",
+      "date": "2026-11-26T12:00+00:00",
+      "teaser": "As a professional keyboard nerd, I’ve tested dozens and dozens of models. One of these eight picks should suit your needs—no matter your budget."
      }
     ]
    },
@@ -1049,115 +1141,37 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Auch in Deutschland: 22 Organisationen über Check-Point-Server gehackt",
-      "url": "https://www.golem.de/news/auch-in-deutschland-22-organisationen-ueber-check-point-server-gehackt-2611-215682.html",
+      "title": "Anzeige: Black Weeks bei o2 - iPhone 18 Pro Max und Airpods Pro 3 im Tarif für nur 1 Euro",
+      "url": "https://www.golem.de/news/anzeige-black-weeks-bei-o2-iphone-18-pro-max-und-airpods-pro-3-im-tarif-fuer-nur-1-euro-2611-215693.html",
       "source": "Golem",
-      "date": "2026-11-26T11:14+01:00",
-      "teaser": "Angreifer haben es auf Check-Point-Server abgesehen. Durch teils seit Monaten bekannte Sicherheitslücken konnten sie in mehrere IT-Umgebungen eindringen. ( Sicherheitslücke , KI )"
+      "date": "2026-11-26T12:57+01:00",
+      "teaser": "Volle Apple-Power bei o2: im Rahmen der Black Weeks ist das iPhone 18 Pro Max mit den Airpods Pro 3 besonders günstig erhältlich. ( iPhone 18 , Apple )"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.98,
     "items": [
      {
-      "title": "Bug in Office 365: Word zeigt nach Start nur leeres Pop-up an",
-      "url": "https://www.golem.de/news/bug-in-office-365-word-zeigt-nach-start-nur-leeres-pop-up-an-2611-215685.html",
-      "source": "Golem",
-      "date": "2026-11-26T11:01+01:00",
-      "teaser": "Die Office-Community ist verwirrt über das merkwürdige Fenster. Microsoft hat es als einen Bug identifiziert. ( Microsoft 365 , Microsoft )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Octopuses Use a Multi-Step Process to Squeeze Into Tiny Spaces",
-      "url": "https://www.wired.com/story/octopuses-use-a-multi-step-process-to-squeeze-into-tiny-spaces/",
-      "source": "Wired",
-      "date": "2026-11-26T10:00+00:00",
-      "teaser": "This flexible movement could potentially be applied to the design of soft robots that operate in confined spaces."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "source": "The Verge",
-      "date": "2026-11-26T04:54-05:00",
-      "teaser": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Destillation: Tim Sweeney bezeichnet Claude als Müll",
-      "url": "https://www.golem.de/news/destillation-tim-sweeney-bezeichnet-claude-als-muell-2611-215681.html",
-      "source": "Golem",
-      "date": "2026-11-26T10:48+01:00",
-      "teaser": "Ausgerechnet der als KI-Befürworter bekannte Chef von Epic Games hat ein spezielles Problem mit Claude. ( Tim Sweeney , KI )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Sparkassen bringen Unterstützung für Google Pay",
-      "url": "https://www.heise.de/news/Sparkassen-bringen-Unterstuetzung-fuer-Google-Pay-11538771.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "source": "heise online",
-      "date": "2026-11-26T10:45+01:00",
-      "teaser": "In Updates der Sparkassen-App wurden Hinweise auf eine Google-Pay-Anbindung entdeckt. Der Sparkassenverband bestätigt die Funktion."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Anzeige: Tragbarer Monitor mit 4K am Black Friday zum Tiefpreis bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-tragbarer-monitor-mit-4k-am-black-friday-zum-tiefpreis-bei-amazon-2611-215680.html",
-      "source": "Golem",
-      "date": "2026-11-26T10:34+01:00",
-      "teaser": "Ein tragbarer Monitor mit 16''-IPS-Display, 4K-Auflösung, 1.200 Nits und Lautsprechern ist am Black Friday bei Amazon stark reduziert. ( TV & Monitore , Display )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Neue Funktion in Whatsapp: So versendest du Geburtstagsgrüße bis zu 14 Tage im Voraus",
-      "url": "https://t3n.de/news/neue-funktion-in-whatsapp-so-versendest-du-geburtstagsgruesse-bis-zu-14-tage-im-voraus-1775472/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "title": "Alarm nach globalem IT-Ausfall: Microsoft ruft intern Code Red aus",
+      "url": "https://t3n.de/news/microsoft-code-red-it-ausfall-1775106/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n",
-      "date": "2026-11-26T10:30+01:00",
-      "teaser": "Der Messenger baut seinen Funktionsumfang stetig aus. Nutzer:innen können den Versandzeitpunkt von Nachrichten jetzt vorab einplanen. Diese werden in Whatsapp versendet, auch wenn sie selbst offline sind. weiterlesen auf t3n.de"
+      "date": "2026-11-26T12:55+01:00",
+      "teaser": "Ein rund 24 Stunden dauernder weltweiter Ausfall von zentralen Diensten wie Outlook, Teams oder Copilot hat bei Microsoft die Alarmglocken schrillen lassen. Der Softwarekonzern löste Code Red aus und will Störungen künftig schneller beheben. weiterlesen auf t3n.de"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.97,
     "items": [
      {
-      "title": "Attacken auf Danfoss-Geräte, HPE-Juniper-Router, Mitel MiCollab und XO",
-      "url": "https://www.heise.de/news/Angriffswarnung-auf-Danfoss-Geraete-HPE-Juniper-Router-Mitel-MiCollab-und-XO-11538657.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "source": "heise online",
-      "date": "2026-11-26T10:12+01:00",
-      "teaser": "Die US-IT-Sicherheitsbehörde warnt vor laufenden Angriffen auf zehn Sicherheitslücken in mehreren Produkten."
+      "title": "A First Drive With the Fiat Topolino in New York City",
+      "url": "https://www.wired.com/story/fiat-topolino-first-drive/",
+      "source": "Wired",
+      "date": "2026-11-26T11:45+00:00",
+      "teaser": "Fiat’s $15,000, 25-mph electric quadricycle is built for beach towns and gated communities. Naturally, I took it across the Manhattan Bridge."
      }
     ]
    }
@@ -1234,7 +1248,7 @@
    "topic": "Welt & Politik",
    "source": "NPR (Politik)",
    "ok": true,
-   "items": 4
+   "items": 6
   },
   {
    "topic": "Welt & Politik",
@@ -1414,7 +1428,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "CNBC",
    "ok": true,
-   "items": 2
+   "items": 3
   },
   {
    "topic": "Wirtschaft & Börse",
@@ -1444,7 +1458,7 @@
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Sport",
