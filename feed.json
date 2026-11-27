@@ -1,18 +1,11 @@
 {
- "fetchedAt": "2026-11-27T04:12:36+00:00",
+ "fetchedAt": "2026-11-27T05:19:54+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 5,
-    "score": 9.86,
+    "sourceCount": 4,
+    "score": 7.53,
     "items": [
-     {
-      "title": "Iran denies role in drone attack that killed Italians in Kuwait",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3375970/iran-denies-launching-drone-attack-killed-italians-kuwait",
-      "source": "South China Morning Post",
-      "date": "2026-11-27T02:28+00:00",
-      "teaser": "A drone attack in Kuwait killed two Italian technicians working on an air defence system on Thursday, marking the first fatal strike in the Gulf state for months. Both Italy and Kuwait confirmed the deaths, blaming the attack on Iran. But Tehran’s foreign minister Abbas Araghchi insisted in calls to"
-     },
      {
       "title": "Two Italians killed in drone attack in Kuwait",
       "url": "https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece",
@@ -26,12 +19,46 @@
       "source": "New York Times",
       "date": "2026-11-26T19:33+00:00",
       "teaser": "The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall."
+     },
+     {
+      "title": "Iran denies involvement after 2 Italian technicians killed in attack on Kuwait site",
+      "url": "https://www.cbc.ca/news/world/italian-workers-killed-kuwait-iran-strike-9.7437089?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-26T11:03-05:00",
+      "teaser": "Two Italians were killed in a drone attack in Kuwait on Thursday that Italy and Kuwait blamed on Iran, although Tehran has denied any involvement."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.91,
+    "score": 5.99,
+    "items": [
+     {
+      "title": "Neuseeland: Konservatives Bündnis verpasst Mehrheit um einen Sitz",
+      "url": "https://www.spiegel.de/ausland/neuseeland-konservatives-buendnis-verpasst-mehrheit-um-einen-sitz-a-9783f65d-4955-4ef5-8905-feecd02e7340#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-27T03:48+01:00",
+      "teaser": "Um einen Sitz verpasst: Christopher Luxon kann in Neuseeland nicht so einfach als Regierungschef weitermachen. Dafür braucht er die Opportunity-Partei. Und deren Chefin hat so gar keine Lust auf rechte Populisten."
+     },
+     {
+      "title": "Parlamentswahl in Neuseeland ohne klare Mehrheit",
+      "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
+      "source": "Tagesschau",
+      "date": "2026-11-27T06:09+01:00",
+      "teaser": "Nach der Parlamentswahl zeichnete sich ein äußerst knappes Rennen ab. Nun ist klar: Neuseelands rechtsgerichtete Regierungskoalition unter Premierminister Luxon hat ihre Mehrheit verloren."
+     },
+     {
+      "title": "Parlamentswahl: Regierungsbündnis in Neuseeland verliert Mehrheit",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/wahl-neuseeland-ergebnis-regierung-verliert-mehrheit-qiulae-wong-opportunity-party",
+      "source": "Zeit",
+      "date": "2026-11-27T05:11+00:00",
+      "teaser": "Wochen nach dem knappen Wahlausgang in Neuseeland steht das Endergebnis fest. Demnach hat keine Partei eine Mehrheit erzielt. Die Regierungsbildung könnte Monate dauern."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.93,
     "items": [
      {
       "title": "Libyen: Libyen und Italien kritisieren ukrainischen Angriff auf russische Schiffe",
@@ -44,7 +71,7 @@
       "title": "Krieg gegen die Ukraine: Ukraine verteidigt Angriffe auf russische Schiffe vor Libyen",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
       "source": "Zeit",
-      "date": "2026-11-27T03:10+00:00",
+      "date": "2026-11-27T04:26+00:00",
       "teaser": "Die Ukraine habe nicht die Absicht, den Krieg auf ein anderes Land auszuweiten, sagt Außenminister Sybiha. Russland verhaftet einen Luftwaffenkommandeur. Das Liveblog"
      },
      {
@@ -58,7 +85,47 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.92,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "US-Vizepräsident: Wenn Trump nicht durchhält, was würde JD Vance als Präsident tun?",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/us-vizepraesident-jd-vance-donald-trump-ok-america",
+      "source": "Zeit",
+      "date": "2026-11-27T05:05+00:00",
+      "teaser": "Müsste Europa auch einen JD Vance als Präsidenten fürchten? Ein Thema der Bonusfolge des US-Podcasts. Und wir beantworten Fragen zu AOC und unseren Lieblingspräsidenten."
+     },
+     {
+      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-27T01:44+00:00",
+      "teaser": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Former RAAF pilot convicted of murder after staging wife’s death as lawnmower accident",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+      "source": "The Guardian",
+      "date": "2026-11-27T04:56+00:00",
+      "teaser": "Brisbane supreme court jury finds Robert John Crawford guilty of murder after he stood to lose financially in divorce settlement Former air force pilot Robert John Crawford has been found guilty of the murder of his wife after a jury accepted her death was staged as a fatal lawnmower accident. Gasps"
+     },
+     {
+      "title": "Former RAAF pilot Robert Crawford found guilty of wife's murder",
+      "url": "https://www.abc.net.au/news/2026-11-27/qld-robert-crawford-murder-trial-verdict/107430874",
+      "source": "ABC Australia",
+      "date": "2026-11-27T04:07+00:00",
+      "teaser": "Frances Crawford was found dead near a toppled ride-on lawnmower at the couple's property in 2024."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.9,
     "items": [
      {
       "title": "Trump says he urged Putin to pull back ‘all military aggression’ in Europe",
@@ -68,17 +135,17 @@
       "teaser": "US President Donald Trump said Thursday he had asked Vladimir Putin to “pull back all military aggression” against Europe, in a fresh shift in tone towards the Russian leader he called his friend just last week. Trump said he had made the request to Putin when they met in China last week, adding tha"
      },
      {
-      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
-      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-27T02:14+00:00",
-      "teaser": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks."
+      "title": "Donald Trump urges Vladimir Putin to end ‘military aggression’ in Europe",
+      "url": "https://www.thehindu.com/news/international/donald-trump-urges-vladimir-putin-to-end-military-aggression-in-europe/article71749343.ece",
+      "source": "The Hindu",
+      "date": "2026-11-27T09:41+05:30",
+      "teaser": "Donald Trump said he had requested Vladimir Putin when they met in China last week, adding that he thought it would help lead to a deal to end Moscow's grinding war in Ukraine"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.68,
+    "score": 3.59,
     "items": [
      {
       "title": "Pregnant Inmate Escapes in New Mexico Prison Transport Vehicle",
@@ -98,7 +165,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.5,
+    "score": 3.41,
     "items": [
      {
       "title": "Strobe Talbott, Journalist Who Joined Clinton’s State Department, Has Died",
@@ -118,7 +185,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.47,
+    "score": 3.37,
     "items": [
      {
       "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
@@ -138,27 +205,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.36,
-    "items": [
-     {
-      "title": "Hamas weighs response after Israel kills 10 people in Gaza",
-      "url": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
-      "source": "France 24",
-      "date": "2026-11-26T20:35+00:00",
-      "teaser": "Five Israeli strikes and a shooting overnight and on Thursday killed 10 Palestinians across Gaza, according to officials at Shifa and Al-Aqsa Martyrs hospitals, where the casualties were taken. A strike on a residential apartment in Deir Al-Balah in central Gaza killed a man and his wife, the offici"
-     },
-     {
-      "title": "Israel kills nine in Gaza, including Hamas-appointed deputy Education Minister, officials say",
-      "url": "https://www.thehindu.com/news/international/israel-kills-nine-in-gaza-including-hamas-appointed-deputy-education-minister-officials-say/article71747983.ece",
-      "source": "The Hindu",
-      "date": "2026-11-26T23:05+05:30",
-      "teaser": "Medics said an Israeli airstrike hit an apartment in Deir Al-Balah in central Gaza Strip, killing ‌Khaled Abu Nada, the Deputy Gaza Education Minister, and his wife."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.22,
+    "score": 3.12,
     "items": [
      {
       "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
@@ -178,7 +225,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.93,
+    "score": 2.84,
     "items": [
      {
       "title": "Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows",
@@ -198,7 +245,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.88,
+    "score": 2.78,
     "items": [
      {
       "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
@@ -215,45 +262,12 @@
       "teaser": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
      }
     ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.8,
-    "items": [
-     {
-      "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
-      "url": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-26T14:51+01:00",
-      "teaser": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert. Bei dem Unglück kam ein Seemann ums Leben."
-     },
-     {
-      "title": "Tanker vor Ibiza gekentert: Ein Besatzungsmitglied tot",
-      "url": "https://www.dw.com/de/tanker-vor-ibiza-gekentert-ein-besatzungsmitglied-tot/a-80062333?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-26T13:43+00:00",
-      "teaser": "Mit 8,2 Millionen Litern Dieseltreibstoff in den Tanks geriet die \"Med Emre\" vor der spanischen Insel Ibiza in Seenot. Dann kenterte das Schiff. Wird es sinken?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Breaking: Former RAAF pilot Robert Crawford found guilty for the murder of his wife",
-      "url": "https://www.abc.net.au/news/2026-11-27/qld-robert-crawford-murder-trial-verdict/107430874",
-      "source": "ABC Australia",
-      "date": "2026-11-27T04:07+00:00",
-      "teaser": "Frances Crawford was found dead near a toppled ride-on lawnmower at the couple's property in 2024."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 4,
-    "score": 7.9,
+    "score": 7.81,
     "items": [
      {
       "title": "Urteil in Köln: Missbrauchsopfer erhält mehr als eine halbe Million Euro Schmerzensgeld",
@@ -280,20 +294,98 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.99,
     "items": [
      {
-      "title": "Keine Einigung: EU-Sondergipfel zum Haushalt endet vorzeitig",
-      "url": "https://www.zdfheute.de/politik/ausland/eu-gipfel-haushalt-bruessel-europaeische-union-merz-abbruch-100.html",
-      "source": "ZDF",
-      "date": "2026-11-27T03:46+01:00",
-      "teaser": "Sparen oder nicht sparen, das war die Frage beim EU-Sondergipfel zum Haushalt in Brüssel. Ein Ergebnis gab es nicht. Der Gipfel wurde frühzeitig beendet."
+      "title": "++ Gericht entscheidet: Augenscreenings bei Drogeriemarkt dm erlaubt ++ Beim Walldorfer Software-Konzern SAP könnten tausende Stellen wegfallen ++ Tarifeinigung in der Metall- und Elektroindustrie ++",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-11-27-102.html",
+      "source": "SWR",
+      "date": "2026-11-27T06:14+01:00",
+      "teaser": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.78,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Ungewöhnliches Duo beim Zeitungen austragen: Katze Kitty ist jeden Morgen mit dabei",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/katze-auf-zeitungstour-in-kuenzelsau-100.html",
+      "source": "SWR",
+      "date": "2026-11-27T05:55+01:00",
+      "teaser": "Während andere noch schlafen, sind viele Zeitungsboten bereits unterwegs. In der Regel allein - außer in Künzelsau-Gaisbach. Dort wird eine Austrägerin von einer Katze begleitet."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-27T05:50+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "News: Bundestag stimmt über umstrittenen Haushalt 2027 ab, Black Friday, Tech-Bros",
+      "url": "https://www.spiegel.de/politik/deutschland/news-bundestag-stimmt-ueber-umstrittenen-haushalt-2027-ab-black-friday-tech-bros-a-0b1477f8-87c0-41a9-a19e-58a8f241fb36#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-27T05:44+01:00",
+      "teaser": "Der Bundestag stimmt über den umstrittenen Etat für 2027 ab. Ein Vordenker der US-Demokraten will die Macht der Techmilliardäre brechen. Der Black Friday lockt Schnäppchenjäger – und alarmiert Gewerkschaften. Das ist die Lage am Freitagmorgen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Rekordhohe Arbeitslosigkeit bei Menschen mit Schwerbehinderung",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/schwerbehinderung-arbeitslose-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-27T05:13+01:00",
+      "teaser": "Menschen mit Schwerbehinderung bekommen die gesamtwirtschaftliche Lage besonders stark zu spüren. Die Arbeitslosenquote bei ihnen lag im Jahresdurchschnitt 2025 mit zwölf Prozent fast doppelt so hoch wie im gesamten Arbeitsmarkt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "Neuseeland: Wahlergebnis macht Newcomerin zur Königsmacherin",
+      "url": "https://www.sueddeutsche.de/politik/wahlen-kompromiss-koalition-ozeanien-maori-li.3586980",
+      "source": "Süddeutsche",
+      "date": "2026-11-27T04:08+00:00",
+      "teaser": "Ein Sitz fehlt zur Mehrheit: Neuseelands Ministerpräsident Luxon muss nach der Parlamentswahl verhandeln. Die 38-jährige Qiulae Wong hält die Schlüssel zur Macht in der Hand."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "Das wird im Dezember wichtig in Baden-Württemberg und Rheinland-Pfalz",
+      "url": "https://www.swr.de/swraktuell/was-im-dezember-2026-wichtig-wird-in-bw-rlp-100.html",
+      "source": "SWR",
+      "date": "2026-11-27T05:00+01:00",
+      "teaser": "Personal in Regionalzügen kann Ton aufnehmen, Weihnachtsbäume kosten mehr und KI-Systeme werden ins Produkthaftungsgesetz aufgenommen. Wichtiges für den letzten Monat des Jahres."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.68,
     "items": [
      {
       "title": "Rente mit 63: Frei verteidigt Kompromissangebot im Rentenstreit",
@@ -306,7 +398,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.72,
+    "score": 1.62,
     "items": [
      {
       "title": "Quentin Gärtner: \"Als wäre Weihnachten statt Wirtschaftskrise\"",
@@ -319,7 +411,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.61,
+    "score": 1.6,
+    "items": [
+     {
+      "title": "Brosius-Gersdorf: Sozialer Aufstieg nicht mehr möglich",
+      "url": "https://www.zdfheute.de/politik/deutschland/lanz-reform-grundgesetz-brosius-gersdorf-100.html",
+      "source": "ZDF",
+      "date": "2026-11-27T01:34+01:00",
+      "teaser": "Frauke Brosius-Gersdorf fordert mehrere \"Updates des Grundgesetzes\". Der Bundespolitik wirft sie vor, gegenwartsverliebt, zukunftsvergessen und generationenungerecht zu agieren."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.51,
     "items": [
      {
       "title": "Sachsen-Anhalt: BSW hält sich Zustimmung zu Kündigung von MDR-Rundfunkvertrag offen",
@@ -329,162 +434,71 @@
       "teaser": "AfD-Politiker Ulrich Siegmund will den MDR-Staatsvertrag kündigen, sollte er Ministerpräsident in Sachsen-Anhalt werden. Dazu braucht er aber die Stimmen der Partei BSW."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.51,
-    "items": [
-     {
-      "title": "Weihnachtsmarkt im Schnelldurchlauf: Ravennaschlucht im Gästefieber",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/weihnachtsmarkt-ravennaschlucht-eroeffnet-gaestefieber-im-schnelldurchlauf-100.html",
-      "source": "SWR",
-      "date": "2026-11-26T23:21+01:00",
-      "teaser": "100.000 Menschen haben für einen zeitlich stark beschränkten Besuch Tickets für den beliebten Weihnachtsmarkt im Schwarzwald gekauft. Jetzt hat der Weihnachtsmarkt eröffnet."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.47,
-    "items": [
-     {
-      "title": "EU-Gipfel: Europas Geld und Deutschlands Beitrag",
-      "url": "https://www.sueddeutsche.de/politik/bruessel-eu-haushalt-gipfel-merz-li.3584884",
-      "source": "Süddeutsche",
-      "date": "2026-11-26T21:50+00:00",
-      "teaser": "Bei den Verhandlungen um den EU-Haushalt schenken sich die Länder nichts und ringen um die Ukraine-Hilfe. In Brüssel kommen sie einem Kompromiss schon näher, als es schien – und lassen den Gipfel trotzdem platzen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.44,
-    "items": [
-     {
-      "title": "EU-Gipfel: Merz kündigt vorzeitiges Ende der Haushaltsberatungen an",
-      "url": "https://www.spiegel.de/politik/deutschland/eu-gipfel-merz-kuendigt-vorzeitiges-ende-der-haushaltsberatungen-an-a-7a483887-37b0-474f-9aeb-59cc2f83db36#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T22:28+01:00",
-      "teaser": "Die Staats- und Regierungschefs der EU beenden ihre Beratungen über den künftigen Haushalt laut Kanzler Merz bereits am Donnerstag. Die Mitgliedstaaten liegen mit ihren Forderungen weiterhin auseinander."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.44,
-    "items": [
-     {
-      "title": "Schwerer Lkw-Unfall auf A8 bei Pforzheim - Fahrbahn Richtung Stuttgart gesperrt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/schwerer-lkw-unfall-auf-a8-bei-pforzheim-100.html",
-      "source": "SWR",
-      "date": "2026-11-26T22:32+01:00",
-      "teaser": "Ein 38-jähriger Lkw-Fahrer wurde auf der A8 bei Pforzheim schwer verletzt. Ein Pkw, der den Unfall vermeintlich verursachte, flüchtete."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.42,
-    "items": [
-     {
-      "title": "Psychotherapeut wegen Missbrauchs einer Patientin verurteilt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/urteil-psychotherapeut-missbrauch-patientin-heidelberg-100.html",
-      "source": "SWR",
-      "date": "2026-11-26T22:17+01:00",
-      "teaser": "Ein früherer Psychotherapeut ist in Heidelberg wegen des Missbrauchs einer Patientin zu einer Freiheitsstrafe von drei Jahren und sechs Monaten verurteilt worden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.37,
-    "items": [
-     {
-      "title": "USA: Medien: Entscheidung über US-Truppenabzug aus Europa verschiebt sich",
-      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-us-truppen-abzug-europa-hegseth-bruessel-nato-li.3578585",
-      "source": "Süddeutsche",
-      "date": "2026-11-26T20:38+00:00",
-      "teaser": "Die USA benötigen für die Überprüfung ihrer Militärpräsenz anscheinend länger als geplant. Ursprünglich sollten der Nato bereits im Dezember Entscheidungen vorliegen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.32,
-    "items": [
-     {
-      "title": "Rente: Union überrumpelt SPD mit überraschendem Kompromissvorschlag",
-      "url": "https://www.spiegel.de/politik/deutschland/rente-union-ueberrumpelt-spd-mit-ueberraschendem-kompromissvorschlag-a-da8cd897-8042-462c-a892-98fbe6dce2ea#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T21:02+01:00",
-      "teaser": "Der Kompromissvorschlag der Unionsfraktion bringt Bewegung in die festgefahrene Rentendebatte. Die SPD reagiert verschnupft."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "Fragmenty egipskich papirusów leżały na śmietniku. Odczytali klątwy sprzed 3400 lat",
-      "url": "https://www.rp.pl/archeologia/art45546331-fragmenty-egipskich-papirusow-lezaly-na-smietniku-odczytali-klatwy-sprzed-3400-lat",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T05:11+01:00",
-      "teaser": "Wyjątkowe znalezisko na śmietniku na terenie świątyni w starożytnych Tebach. Naukowcy w czasie wykopalisk odkryli tam 40 fragmentów nadpalonych i podziurawionych egipskich papirusów sprzed 3400 lat. To pozostałości rytuału klątwy Apophisa, który – jak się okazuje – praktykowano znacznie wcześniej, n"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "Sprzedaż majątku przed upadłością. Kiedy dłużnik ryzykuje?",
-      "url": "https://pro.rp.pl/biznes/art45542871-sprzedaz-majatku-przed-upadloscia-kiedy-dluznik-ryzykuje",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T05:10+01:00",
-      "teaser": "Przedsiębiorca zagrożony upadłością może sprzedać część majątku, ale musi liczyć się z oceną takiej decyzji. Znaczenie mają cena, cel transakcji, interes wierzycieli i sposób wykorzystania uzyskanych środków."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
     "score": 1.98,
     "items": [
      {
-      "title": "Kary umowne w zamówieniach. Co sprawdzić przed zawarciem ugody?",
-      "url": "https://pro.rp.pl/biznes/art45542881-kary-umowne-w-zamowieniach-co-sprawdzic-przed-zawarciem-ugody",
+      "title": "Ukraińcy atakują obwód leningradzki. UE nadal bez budżetu na lata 2028-2034",
+      "url": "https://www.rp.pl/przeglad-wydarzen-z-nocy/art45551101-ukraincy-atakuja-obwod-leningradzki-ue-nadal-bez-budzetu-na-lata-2028-2034",
       "source": "Rzeczpospolita",
-      "date": "2026-11-27T05:00+01:00",
-      "teaser": "Ugoda dotycząca kar umownych może być sposobem rozliczenia kontraktu publicznego, ale samo obniżenie kar nie wystarczy. Trzeba sprawdzić zasadność roszczeń, dopuszczalność ustępstw oraz skutki porozumienia dla obu stron."
+      "date": "2026-11-27T06:02+01:00",
+      "teaser": "Przedstawiamy przegląd najważniejszych wydarzeń mijającej nocy: W nocy celem ataku ukraińskich dronów był obwód leningradzki; państwa UE nie porozumiały się w sprawie budżetu; Wołodymyr Zełenski krytykuje Donalda Trumpa za zdjęcie z Władimirem Putinem; centroprawicowa koalicja straciła większość w n"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
     "items": [
      {
-      "title": "Nowe największe centrum sztuki w Europie. Kiedyś była tu „katedra dla samochodów”",
-      "url": "https://sukces.rp.pl/sztuka/art45546821-nowe-najwieksze-centrum-sztuki-w-europie-kiedys-byla-tu-katedra-dla-samochodow",
+      "title": "Hiszpańska linia lotnicza walczy o przetrwanie. Zawiesza wszystkie loty",
+      "url": "https://turystyka.rp.pl/linie-lotnicze/art45547971-hiszpanska-linia-lotnicza-walczy-o-przetrwanie-zawiesza-wszystkie-loty",
       "source": "Rzeczpospolita",
-      "date": "2026-11-27T05:00+01:00",
-      "teaser": "Wielkie zakłady przemysłowe nie mają dzisiaj sensu w centrach miast. A wielkie centra sztuki? Jak najbardziej. W Brukseli rusza Kanal, centrum architektury oraz sztuki. Zajmie 40 tysięcy metrów kwadratowych, a jego przestrzeń wystawiennicza to niemal trzy razy więcej niż w MSN w Warszawie."
+      "date": "2026-11-27T06:00+01:00",
+      "teaser": "Hiszpańskie linie lotnicze Plus Ultra Líneas Aéreas zawiesiły wszystkie loty do odwołania. Decyzja weszła w życie 23 listopada, po tym jak przewoźnik wstrzymał sprzedaż biletów i zredukował siatkę połączeń do ostatniej obsługiwanej trasy między Madrytem a Caracas."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
     "items": [
      {
-      "title": "Wołodymyr Zełenski o zdjęciu Donalda Trumpa z Władimirem Putinem: To jakby robić zdjęcie z Adolfem Hitlerem",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45551121-wolodymyr-zelenski-o-zdjeciu-donalda-trumpa-z-wladimirem-putinem-to-jakby-robic-zdjecie-z-adolfem-hitlerem",
+      "title": "Rynek mieszkaniowy. Czy to już wyprostowana ścieżka?",
+      "url": "https://www.rp.pl/debaty-rzeczpospolitej/art45545941-rynek-mieszkaniowy-czy-to-juz-wyprostowana-sciezka",
       "source": "Rzeczpospolita",
-      "date": "2026-11-27T04:57+01:00",
-      "teaser": "To jest dziwne - powiedział w rozmowie z BBC prezydent Ukrainy Wołodymyr Zełenski, komentując zdjęcie opublikowane przez Donalda Trumpa w serwisie Truth Social. Chodzi o fotografię ze spotkania z Władimirem Putinem w Shenzhen, przedstawiającą Trumpa obejmującego Putina, czemu towarzyszył opis „mój p"
+      "date": "2026-11-27T06:00+01:00",
+      "teaser": "Budownictwo społeczne i komercyjne oraz rynek kredytów – jakich zmian jeszcze potrzeba? Panel dyskusyjny „Rzeczpospolitej”"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Teresa Siudem: Kto skontroluje sztuczną inteligencję w firmie?",
+      "url": "https://pro.rp.pl/biznes/art45542811-teresa-siudem-kto-skontroluje-sztuczna-inteligencje-w-firmie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-27T06:00+01:00",
+      "teaser": "Przedsiębiorcy wykorzystujący sztuczną inteligencję w działalności powinni zadbać o zgodność z prawem. Od 28 października 2026 r. obowiązują przepisy ustawy o systemach sztucznej inteligencji dotyczące kontroli związanych ze stosowaniem AI."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Monika Borkowska z TV Republika wtargnęła przed kamerę TVP Info. \"Teraz porozmawiamy\"",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33152937,monika-borkowska-z-tv-republika-wtargnela-przed-kamere-tvp-info.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-27T04:55+00:00",
+      "teaser": "Monika Borkowska z TV Republika wtargnęła przed kamerę TVP Info podczas transmisji na żywo i zaczęła przepytywać reportera stacji. - Dlaczego w TVP Info nie było transmisji z wydarzeń z 30 na 31 października? - dociekała."
      }
     ]
    },
@@ -493,37 +507,11 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Za miesiąc zmienią się kody PKD definiujące biznes. Trzeba zmienić umowy spółek i skorygować wpisy",
-      "url": "https://pro.rp.pl/prawo-w-firmie/art45547121-za-miesiac-zmienia-sie-kody-pkd-definiujace-biznes-trzeba-zmienic-umowy-spolek-i-skorygowac-wpisy",
+      "title": "Przed kontrolą KRiBSI. Jak uporządkować używanie AI w firmie",
+      "url": "https://pro.rp.pl/biznes/art45542831-przed-kontrola-kribsi-jak-uporzadkowac-uzywanie-ai-w-firmie",
       "source": "Rzeczpospolita",
-      "date": "2026-11-27T04:44+01:00",
-      "teaser": "Nowa klasyfikacja działalności gospodarczej może oznaczać konieczność zmiany umów spółek i uzupełnienia danych w rejestrach. Niektórym małym firmom grozi wykreślenie z rejestru, jeśli tego nie zrobią."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Dariusz Gawin: „Dzień świra” był wielkim wołaniem o formę po bezforemnych latach 90.",
-      "url": "https://www.rp.pl/opinie-polityczno-spoleczne/art45542481-dariusz-gawin-dzien-swira-byl-wielkim-wolaniem-o-forme-po-bezforemnych-latach-90",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T04:44+01:00",
-      "teaser": "„Dzień świra” to jeden z pierwszych filmów, w których dokonano próby bilansu transformacji i wszystkich procesów, które zaszły w Polsce od upadku komunizmu. Mimo że Adaś Miauczyński żył w świecie, który uważał tradycję romantyczną za coś zbędnego, została w nim łączność z prawdziwym etosem inteligen"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "300 wysłanych CV i półtora roku bez pracy. Tak zmienia się rynek IT w erze AI",
-      "url": "https://www.rp.pl/rynek-pracy/art45537881-300-wyslanych-cv-i-poltora-roku-bez-pracy-tak-zmienia-sie-rynek-it-w-erze-ai",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T04:41+01:00",
-      "teaser": "Choć liczba ofert rośnie, firmy jednocześnie zwalniają i zatrudniają, stawiając na specjalistów od AI i danych. Najtrudniej o pracę juniorom, programistom stron i aplikacji internetowych oraz twórcom gier. Eksperci ostrzegają, że rok 2027 może przynieść redukcje zatrudnienia, gdy firmy zaczną dostos"
+      "date": "2026-11-27T05:50+01:00",
+      "teaser": "Funkcje AI mogą pojawić się w firmie wraz z aktualizacją używanego od lat oprogramowania. Przygotowanie do kontroli KRiBSI zaczyna się więc od ustalenia, które z nich są rzeczywiście wykorzystywane i do jakich zadań."
      }
     ]
    },
@@ -532,11 +520,11 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Zajęcie rachunków przedsiębiorcy – jak odzyskać środki na pensje?",
-      "url": "https://pro.rp.pl/biznes/art45542901-zajecie-rachunkow-przedsiebiorcy-jak-odzyskac-srodki-na-pensje",
+      "title": "Donald Trump jednostronnie zmienił treść komunikatu po spotkaniu z sekretarzem generalnym NATO",
+      "url": "https://www.rp.pl/dyplomacja/art45551191-donald-trump-jednostronnie-zmienil-tresc-komunikatu-po-spotkaniu-z-sekretarzem-generalnym-nato",
       "source": "Rzeczpospolita",
-      "date": "2026-11-27T04:40+01:00",
-      "teaser": "Zajęcie lub zabezpieczenie rachunku bankowego nie zawsze oznacza wstrzymanie wypłat dla pracowników. Przepisy pozwalają uwolnić część środków na wynagrodzenia, ale wymagają szybkiej reakcji i dopełnienia formalności."
+      "date": "2026-11-27T05:44+01:00",
+      "teaser": "Po spotkaniu Donalda Trumpa z sekretarzem generalnym NATO Markiem Ruttem obie strony wydały wspólny komunikat, którego treść kilka godzin później prezydent USA jednostronnie zmienił wpisem na Truth Social - pisze „Politico”."
      }
     ]
    },
@@ -545,37 +533,63 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Robert Gwiazdowski: Dlaczego prawnicy wolą erystykę od logiki",
-      "url": "https://www.rp.pl/opinie-polityczno-spoleczne/art45546541-robert-gwiazdowski-dlaczego-prawnicy-wola-erystyke-od-logiki",
+      "title": "Źle policzyli głosy w wyborach prezydenckich. Jest wniosek o umorzenie sprawy",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33152912,zle-policzyli-glosy-w-wyborach-prezydenckich-jest-wniosek-o.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-27T04:45+00:00",
+      "teaser": "Prokuratura Okręgowa w Gdańsku skierowała do sądu wniosek o warunkowe umorzenie postępowania karnego wobec 11 członków komisji wyborczej w Gościcinie. Sprawa dotyczy pomyłki przy liczeniu głosów oddanych na Karola Nawrockiego i Rafała Trzaskowskiego podczas wyborów prezydenckich w czerwcu 2025 roku."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Sztuczna inteligencja w projektach R&D. Jak nie stracić kontroli nad innowacją?",
+      "url": "https://pro.rp.pl/biznes/art45542841-sztuczna-inteligencja-w-projektach-r-d-jak-nie-stracic-kontroli-nad-innowacja",
       "source": "Rzeczpospolita",
-      "date": "2026-11-27T04:40+01:00",
-      "teaser": "Acht und achtzig Professoren – Vaterland, du bist verloren! (osiemdziesięciu ośmiu profesorów – ojczyzno, jesteś zgubiona!) – miał powiedzieć Otto von Bismarck, choć nie on to powiedział. I nie wiem, czy większą powagę mają te słowa włożone w usta kanclerza Rzeszy, czy większą miałyby w ustach ludu."
+      "date": "2026-11-27T05:40+01:00",
+      "teaser": "AI przyspiesza prace badawczo-rozwojowe, zwiększa ryzyko błędów, wycieku poufnych danych i sporów o prawa do wyników. Dlatego kluczowe są nadzór człowieka i jasne procedury."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.42,
+    "score": 1.93,
     "items": [
      {
-      "title": "Brauniści ubiegli Morawieckiego. Zakładają partię Rozwój Plus",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33152886,braunisci-ubiegli-morawieckiego-zakladaja-partie-rozwoj-plus.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T21:17+00:00",
-      "teaser": "Sąd Okręgowy w Warszawie wydał nieprawomocne postanowienie o rejestracji partii Rozwój Plus. Jej założycielem nie jest jednak Mateusz Morawiecki, a troje członków Konfederacji Korony Polskiej Grzegorza Brauna."
+      "title": "Od 1 grudnia zmiany w OZE. Co oznaczają dla przedsiębiorców?",
+      "url": "https://pro.rp.pl/biznes/art45542851-od-1-grudnia-zmiany-w-oze-co-oznaczaja-dla-przedsiebiorcow",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-27T05:30+01:00",
+      "teaser": "Nowelizacja ustawy o OZE ułatwi montaż większych magazynów energii bez dodatkowych formalności. Inwestorzy muszą jednak uważać na nowe terminy i zasady bilansowania."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.39,
+    "score": 1.93,
     "items": [
      {
-      "title": "Protest przed TK. Prezydent Warszawy zakazał, sąd wydał decyzję",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33152928,protest-przed-tk-prezydent-warszawy-zakazal-sad-wydal-decyzje.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "title": "Sąd Dyscyplinarny zdecydował ws. Święczkowskiego. Wiadomo też, co z protestem przed TK [NA POCZĄTEK DNIA]",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33152850,sad-dyscyplinarny-zdecydowal-ws-swieczkowskiego-wiadomo-tez.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "source": "Gazeta Wyborcza",
-      "date": "2026-11-26T20:54+00:00",
-      "teaser": "Prezydent Warszawy Rafał Trzaskowski odmówił zgody na przedłużenie protestów przed Trybunałem Konstytucyjnym. Jednak organizatorzy odwołali się, a sąd w czwartek wydał decyzję."
+      "date": "2026-11-27T04:30+00:00",
+      "teaser": "Dla tych, którzy w czwartek 26 listopada nie mieli czasu śledzić wiadomości, przygotowaliśmy skróconą wersję najważniejszych informacji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Oszustwa na AML – dlaczego przedsiębiorcy tracą najwięcej?",
+      "url": "https://pro.rp.pl/biznes/art45542861-oszustwa-na-aml-dlaczego-przedsiebiorcy-traca-najwiecej",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-27T05:20+01:00",
+      "teaser": "Oszuści coraz częściej podszywają się pod bankowe działy AML i pod pretekstem ochrony środków nakłaniają do przelewów lub instalacji aplikacji. Dla przedsiębiorców skutki takich oszustw mogą być szczególnie dotkliwe."
      }
     ]
    }
@@ -583,7 +597,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 4,
-    "score": 7.12,
+    "score": 7.03,
     "items": [
      {
       "title": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
@@ -610,7 +624,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.29,
+    "score": 5.2,
     "items": [
      {
       "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
@@ -637,7 +651,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.15,
+    "score": 5.06,
     "items": [
      {
       "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
@@ -664,7 +678,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.86,
     "items": [
      {
       "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
@@ -684,7 +698,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.79,
     "items": [
      {
       "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
@@ -704,7 +718,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.77,
     "items": [
      {
       "title": "Business-Ticker: SAP: Haben „verdächtige Aktivitäten identifiziert“",
@@ -724,27 +738,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.59,
-    "items": [
-     {
-      "title": "UK to pay additional ‘participation fee’ as price of EU reset deal",
-      "url": "https://www.ft.com/content/00e41702-b11f-4a28-9233-16ce4cff99c7?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-26T18:57+00:00",
-      "teaser": "Terms of agreement signed with Brussels last week include what EU diplomats call a ‘pay-to-play’ financial settlement"
-     },
-     {
-      "title": "UK to pay 'participation' fee to deliver EU deals",
-      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-26T23:17+00:00",
-      "teaser": "Details of the contribution towards EU running costs have been revealed in new legal documents."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.51,
+    "score": 3.42,
     "items": [
      {
       "title": "EU-Haushalt: EU-Sondergipfel zum Haushalt wird vorzeitig beendet",
@@ -764,27 +758,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.13,
-    "items": [
-     {
-      "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
-      "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
-      "source": "The Guardian",
-      "date": "2026-11-26T17:44+00:00",
-      "teaser": "Shares in UK tobacco company jump by more than 14% on news US rival is looking into making offer Business live – latest updates Imperial Brands could become the next UK company to fall to a foreign takeover after its US rival Altria announced a possible bid for the tobacco firm. Altria, whose Philip"
-     },
-     {
-      "title": "Altria explores takeover bid for Imperial Brands",
-      "url": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-26T17:46+00:00",
-      "teaser": "Deal would remove another of the UK’s large listed companies from the London stock market"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.51,
+    "score": 2.42,
     "items": [
      {
       "title": "UniCredit ist bei Commerzbank am Ziel – und will schnell Personal austauschen",
@@ -804,27 +778,53 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.98,
     "items": [
      {
-      "title": "Technologie: Nvidia ist nur der Anfang – Sechs Warnsignale, warum das Silicon Valley in der Krise steckt",
-      "url": "https://www.handelsblatt.com/technik/it-internet/nvidia-chef-jensen-huang-und-der-offenbarungseid-des-silicon-valley/100248894.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-27T03:00+00:00",
-      "teaser": "Der Huang-Skandal zeigt die Abhängigkeiten der Tech-Industrie – von dem Chipkonzern, aber auch von Donald Trump. Und das sind nur zwei der Risiken, mit denen die wertvollsten Firmen der Welt kämpfen."
+      "title": "Trump media group splashes out to woo shareholders before merger vote",
+      "url": "https://www.ft.com/content/10a28fed-3825-4e07-804d-3c80c35229e5?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-27T05:02+00:00",
+      "teaser": "TMTG expected to pay between $8mn and $13mn in fees plus expenses for proxy solicitation services"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.97,
     "items": [
      {
-      "title": "Aktie im Blick: Nach dem größten Börsengang aller Zeiten kommt es zur Glaubensfrage",
-      "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anthropic-der-groesste-boersengang-aller-zeiten-wird-zur-glaubensfrage/100272712.html",
-      "source": "Handelsblatt (Finanzen)",
-      "date": "2026-11-27T03:00+00:00",
-      "teaser": "Anthropic enttäuscht seine Erstaktionäre. Ein Blick in die Bilanz lohnt, hilft aber nur bedingt, wie der Fall einer einst verlustreichen und jetzigen Erfolgsgeschichte zeigt."
+      "title": "AI data centre boom piles pressure on stressed US defence sector",
+      "url": "https://www.ft.com/content/76143592-b1c8-42d2-bf4c-17aa87255467?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-27T05:01+00:00",
+      "teaser": "Boeing and leading defence contractors wrestle with ballooning backlogs fuelled by a surge in air travel and military spending"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Venezuelan oil magnate defends contentious deal with Trump",
+      "url": "https://www.ft.com/content/2586bde3-a1e1-463c-b5fc-0775e8512d28?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-27T05:01+00:00",
+      "teaser": "Alejandro Betancourt tells FT he welcomes scrutiny of agreement that hands huge share of country’s crude supply to US"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "The Ellisons’ debt-fuelled takeover of Hollywood",
+      "url": "https://www.ft.com/content/627323de-7ad0-4600-97c6-daac931c7ee1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-27T05:00+00:00",
+      "teaser": "The billionaire family has pushed credit markets to their limits with $87bn in obligations"
      }
     ]
    }
@@ -832,7 +832,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.49,
+    "score": 7.39,
     "favorite": true,
     "items": [
      {
@@ -846,7 +846,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.45,
+    "score": 7.35,
     "favorite": true,
     "items": [
      {
@@ -860,7 +860,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.43,
+    "score": 7.34,
     "favorite": true,
     "items": [
      {
@@ -874,7 +874,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 6.78,
+    "score": 6.69,
     "items": [
      {
       "title": "Joshua Kimmich über Fall Jamal Musiala: „Das ist ein absolutes No-Go und nicht Bayern-like“",
@@ -901,34 +901,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.52,
-    "items": [
-     {
-      "title": "Europa League – Gazakrieg: Schwere Ausschreitungen bei Beşiktaş gegen Hapoel Beer-Sheva",
-      "url": "https://www.spiegel.de/sport/fussball/europa-league-gazakrieg-schwere-ausschreitungen-bei-besiktas-gegen-hapoel-beer-sheva-a-0f1e8425-c88a-4e90-a2f0-d787f15297c3#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T21:19+01:00",
-      "teaser": "Der Gazakrieg wirft seine Schatten auch auf den Fußball. Die Partie zwischen Beşiktaş und Beer-Sheva wurde schon nach Georgien verlegt. Offenbar wegen eines Plakats eskalierte die Situation dennoch."
-     },
-     {
-      "title": "Heftige Ausschreitungen überschatten Besiktas-Sieg gegen Beer Sheva",
-      "url": "https://www.kicker.de/besiktas-gegen-hap-beer-sheva-2026-europa-league-5264550/spielbericht#omrss",
-      "source": "kicker",
-      "date": "2026-11-26T20:35+00:00",
-      "teaser": "Besiktas hat Hapoel Beer Sheva verdient mit 2:1 besiegt und seinen Platz in den Top 8 der Europa League gefestigt. Am frühen Donnerstagabend geriet der Fußball allerdings in den Hintergrund."
-     },
-     {
-      "title": "Europa League: Randale und Unterbrechung bei Besiktas-Sieg über Hapoel Beer-Sheva",
-      "url": "https://www.sportschau.de/fussball/europaleague/randale-und-unterbrechung-trueben-besiktas-sieg,besiktas-randale-unterbrechung-100.html",
-      "source": "Sportschau",
-      "date": "2026-11-26T23:28+01:00",
-      "teaser": "Heftige Randale und eine lange Unterbrechung haben den Sieg von Besiktas Istanbul in der Europa League gegen den israelischen Club Hapoel Beer-Sheva überschattet."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.08,
+    "score": 4.99,
     "items": [
      {
       "title": "Laura Freigang: 16 Monate Sperre für Nationalspielerin und die Folgen",
@@ -955,7 +928,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.93,
+    "score": 3.43,
+    "items": [
+     {
+      "title": "Europa League – Gazakrieg: Schwere Ausschreitungen bei Beşiktaş gegen Hapoel Beer-Sheva",
+      "url": "https://www.spiegel.de/sport/fussball/europa-league-gazakrieg-schwere-ausschreitungen-bei-besiktas-gegen-hapoel-beer-sheva-a-0f1e8425-c88a-4e90-a2f0-d787f15297c3#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T21:19+01:00",
+      "teaser": "Der Gazakrieg wirft seine Schatten auch auf den Fußball. Die Partie zwischen Beşiktaş und Beer-Sheva wurde schon nach Georgien verlegt. Offenbar wegen eines Plakats eskalierte die Situation dennoch."
+     },
+     {
+      "title": "Europa League: Randale und Unterbrechung bei Besiktas-Sieg über Hapoel Beer-Sheva",
+      "url": "https://www.sportschau.de/fussball/europaleague/randale-und-unterbrechung-trueben-besiktas-sieg,besiktas-randale-unterbrechung-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-26T23:28+01:00",
+      "teaser": "Heftige Randale und eine lange Unterbrechung haben den Sieg von Besiktas Istanbul in der Europa League gegen den israelischen Club Hapoel Beer-Sheva überschattet."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.84,
     "items": [
      {
       "title": "FC Bayern München: Wie es nach der Kimmich-Kritik weitergeht – „Die Würde des Funktionärs ist unantastbar“",
@@ -975,7 +968,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.36,
+    "score": 2.26,
     "items": [
      {
       "title": "Champions League: FC Bayern München verliert nach Führung gegen OSC Lille",
@@ -995,7 +988,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Eiskunstlauf in Tokio",
+      "url": "https://www.sportschau.de/wintersport/eiskunstlauf-in-tokio,livestream-eiskunstlauf-118.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-27T06:17+01:00",
+      "teaser": "Eiskunstlauf in Tokio - mit den Kurzprogrammen der Paare, Frauen und Männer. Daniel Weiss kommentiert."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Wer überträgt Werder Bremen gegen Borussia Mönchengladbach live im TV und Stream?",
+      "url": "https://www.kicker.de/wer-uebertraegt-werder-bremen-gegen-borussia-moenchengladbach-live-im-tv-und-stream-1275051/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-27T05:00+00:00",
+      "teaser": "Nach dem erfolgreichen Nordderby steht für Werder Bremen gegen Borussia Mönchengladbach das nächste Heimspiel an. Wo ihr die Partei live im TV und Stream verfolgen könnt, erfahrt ihr hier."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.81,
+    "items": [
+     {
+      "title": "Im Schatten der Musiala-Debatte: Bayerns \"Fehler, die nicht passieren dürfen\"",
+      "url": "https://www.kicker.de/im-schatten-der-musiala-debatte-bayerns-fehler-die-nicht-passieren-duerfen-1275494/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-27T03:00+00:00",
+      "teaser": "Die neue Folge kicker Daily!"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.66,
     "items": [
      {
       "title": "Krawalle: Europa-League-Duell zwischen israelischem und türkischem Klub unterbrochen",
@@ -1005,51 +1037,12 @@
       "teaser": "Besiktas-Anhänger schwenken Palästina-Flaggen, geraten mit Sicherheitskräften aneinander. In der 26. Minute schickt der Schiedsrichter die Mannschaften in die Kabinen. Die Vorfälle beschäftigen inzwischen auch die Politik."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.68,
-    "items": [
-     {
-      "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62klz1wwdn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-27T00:18+00:00",
-      "teaser": "Camilo Duran's 15-goal haul this season has made him an invaluable player for a Celtic side fighting for European progression."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.65,
-    "items": [
-     {
-      "title": "Hearts' European hopes hang by a thread but Vrancken proud",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-26T23:59+00:00",
-      "teaser": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.65,
-    "items": [
-     {
-      "title": "Premier League: 10 things to look out for this weekend",
-      "url": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
-      "source": "The Guardian",
-      "date": "2026-11-27T00:00+00:00",
-      "teaser": "Liam Delap can exploit Chelsea’s defensive woes while Senne Lammens is under pressure against Brentford Nottingham Forest’s last couple of seasons have been a story of good runs and bad runs, but it may help to know that last season’s encounters with Chelsea both presaged changes of fortune. After t"
-     }
-    ]
    }
   ],
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.88,
+    "score": 3.79,
     "items": [
      {
       "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
@@ -1069,7 +1062,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.63,
     "items": [
      {
       "title": "The best Black Friday deals we’ve already found",
@@ -1089,7 +1082,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.44,
+    "score": 2.34,
     "items": [
      {
       "title": "Musk's plan to send a million SpaceX data satellites into space approved",
@@ -1109,7 +1102,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.56,
     "items": [
      {
       "title": "Why is there a shortage of 'wizard' elevator mechanics?",
@@ -1122,7 +1115,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.43,
+    "score": 1.34,
     "items": [
      {
       "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
@@ -1135,7 +1128,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.4,
+    "score": 1.31,
     "items": [
      {
       "title": "Netflix’s coziest show has made a very quiet return",
@@ -1148,7 +1141,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.37,
+    "score": 1.28,
     "items": [
      {
       "title": "Telefonieren und Chatten auf Reisen: Whatsapp bekommt E-Sim-Funktion",
@@ -1161,20 +1154,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.23,
-    "items": [
-     {
-      "title": "Abgetaucht mit Kokain: Wie Kartelle ihre Drogen mit autonomen U-Booten schmuggeln",
-      "url": "https://t3n.de/news/abgetaucht-kokain-kartelle-autonome-u-boote-1773705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-26T19:55+01:00",
-      "teaser": "Ein Drogen-U-Boot ohne Besatzung, gesteuert per Starlink und Autopilot von der Stange: Autonome U-Boote könnten Tonnen von Kokain transportieren und sind der Al weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.23,
+    "score": 1.14,
     "items": [
      {
       "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
@@ -1187,7 +1167,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.19,
+    "score": 1.13,
+    "items": [
+     {
+      "title": "Abgetaucht mit Kokain: Wie Kartelle ihre Drogen mit autonomen U-Booten schmuggeln",
+      "url": "https://t3n.de/news/abgetaucht-kokain-kartelle-autonome-u-boote-1773705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-26T19:55+01:00",
+      "teaser": "Ein Drogen-U-Boot ohne Besatzung, gesteuert per Starlink und Autopilot von der Stange: Autonome U-Boote könnten Tonnen von Kokain transportieren und sind der Al weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.1,
     "items": [
      {
       "title": "KI-orientierte Umstrukturierung: SAP erwägt erneut Abbau von mindestens 10.000 Arbeitsplätzen",
@@ -1200,7 +1193,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.15,
+    "score": 1.06,
     "items": [
      {
       "title": "„Glosslighting“ bei KI: Warum wir von „Halluzination“ sprechen – und nicht von Fehlern",
@@ -1213,7 +1206,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.15,
+    "score": 1.06,
     "items": [
      {
       "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
@@ -1357,7 +1350,7 @@
    "topic": "Deutschland",
    "source": "Tagesschau",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Deutschland",
@@ -1519,7 +1512,7 @@
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "topic": "Sport",
@@ -1585,7 +1578,7 @@
    "topic": "Tech & KI",
    "source": "Ars Technica",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "topic": "Tech & KI",
