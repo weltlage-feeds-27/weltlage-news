@@ -1,11 +1,18 @@
 {
- "fetchedAt": "2026-11-27T01:27:02+00:00",
+ "fetchedAt": "2026-11-27T03:04:06+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 4,
-    "score": 7.85,
+    "sourceCount": 5,
+    "score": 9.95,
     "items": [
+     {
+      "title": "Iran denies role in drone attack that killed Italians in Kuwait",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3375970/iran-denies-launching-drone-attack-killed-italians-kuwait",
+      "source": "South China Morning Post",
+      "date": "2026-11-27T02:28+00:00",
+      "teaser": "A drone attack in Kuwait killed two Italian technicians working on an air defence system on Thursday, marking the first fatal strike in the Gulf state for months. Both Italy and Kuwait confirmed the deaths, blaming the attack on Iran. But Tehran’s foreign minister Abbas Araghchi insisted in calls to"
+     },
      {
       "title": "Two Italians killed in drone attack in Kuwait",
       "url": "https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece",
@@ -19,19 +26,59 @@
       "source": "New York Times",
       "date": "2026-11-26T19:33+00:00",
       "teaser": "The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.97,
+    "items": [
+     {
+      "title": "Libyen: Libyen und Italien kritisieren ukrainischen Angriff auf russische Schiffe",
+      "url": "https://www.spiegel.de/ausland/libyen-libyen-und-italien-kritisieren-ukrainischen-angriff-auf-russische-schiffe-a-6534c9d8-90ef-4e6b-9845-63a0937c11d4#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-27T02:39+01:00",
+      "teaser": "Die Attacken auf russische Schiffe im Mittelmeer haben Anrainerstaaten aufgeschreckt. Nun versichert die ukrainische Regierung: Kyjiw will den Krieg nicht ausweiten. Scharfe Kritik gibt es trotzdem, unter anderem aus Rom."
      },
      {
-      "title": "Iran denies involvement after 2 Italian technicians killed in attack on Kuwait site",
-      "url": "https://www.cbc.ca/news/world/italian-workers-killed-kuwait-iran-strike-9.7437089?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-26T11:03-05:00",
-      "teaser": "Two Italians were killed in a drone attack in Kuwait on Thursday that Italy and Kuwait blamed on Iran, although Tehran has denied any involvement."
+      "title": "Krieg gegen die Ukraine: Ukraine verteidigt Angriffe auf russische Schiffe vor Libyen",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "source": "Zeit",
+      "date": "2026-11-27T02:42+00:00",
+      "teaser": "Sein Land habe nicht die Absicht, den Krieg auf ein anderes Land auszuweiten, sagt Ukraines Außenminister. Russland verhaftet einen Luftwaffenkommandeur. Das Liveblog"
+     },
+     {
+      "title": "Liveblog Ukrainekrieg: Libyen und Italien kritisieren ukrainischen Angriff auf russische Schiffe",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-libyen-und-italien-kritisieren-ukrainischen-angriff-auf-russische-schiffe-faz-110683325.html",
+      "source": "FAZ",
+      "date": "2026-11-27T02:16+00:00",
+      "teaser": "Nach Drohnenangriffen: Ukraine will Libyen nicht in Krieg hineinziehen +++ Merz: Artikel-5-ähnliche Sicherheitsgarantien für Ukraine +++ alle Neuigkeiten im Liveblog"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.93,
+    "items": [
+     {
+      "title": "Major storm batters US on Thanksgiving holiday, disrupting flights and power",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3375968/major-storm-batters-us-thanksgiving-holiday-disrupting-flights-and-power",
+      "source": "South China Morning Post",
+      "date": "2026-11-27T01:44+00:00",
+      "teaser": "A powerful storm disrupted Thanksgiving celebrations for millions of Americans on Thursday, as New York’s famed Macy’s parade was postponed for the first time in its 100-year history. Heavy rain and strong winds from the “Nor-easter” battered the central and eastern United States, creating treachero"
+     },
+     {
+      "title": "Major storm batters U.S. on Thanksgiving holiday; 400 flights cancelled",
+      "url": "https://www.thehindu.com/news/international/major-storm-batters-us-on-thanksgiving-holiday-400-flights-cancelled/article71749233.ece",
+      "source": "The Hindu",
+      "date": "2026-11-27T07:41+05:30",
+      "teaser": "New York’s famed Macy’s parade was postponed for the first time in its 100-year history"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.78,
     "items": [
      {
       "title": "Pregnant Inmate Escapes in New Mexico Prison Transport Vehicle",
@@ -51,7 +98,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.73,
+    "score": 3.6,
     "items": [
      {
       "title": "Strobe Talbott, Journalist Who Joined Clinton’s State Department, Has Died",
@@ -71,7 +118,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.7,
+    "score": 3.56,
     "items": [
      {
       "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
@@ -91,27 +138,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.64,
-    "items": [
-     {
-      "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
-      "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
-      "source": "The Guardian",
-      "date": "2026-11-26T00:39+00:00",
-      "teaser": "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said. The blaze on the ring road, a key"
-     },
-     {
-      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-26T21:08+00:00",
-      "teaser": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.59,
+    "score": 3.46,
     "items": [
      {
       "title": "Hamas weighs response after Israel kills 10 people in Gaza",
@@ -131,7 +158,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.45,
+    "score": 3.31,
     "items": [
      {
       "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
@@ -151,27 +178,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.45,
-    "items": [
-     {
-      "title": "U.K. net migration falls to lowest since 1997; Indians largest foreign group entering and leaving the country",
-      "url": "https://www.thehindu.com/news/international/uk-net-migration-falls-to-lowest-since-1997-indians-largest-foreign-group-entering-and-leaving-the-country/article71746576.ece",
-      "source": "The Hindu",
-      "date": "2026-11-26T21:48+05:30",
-      "teaser": "Some 44,000 Indians arrived in the U.K. for work-related reasons, 77,000 to study, and 5,000 for other reasons. Some 28,000 Indians on work visas left the U.K. and 55,000 on study visas departed"
-     },
-     {
-      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
-      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
-      "source": "New York Times",
-      "date": "2026-11-26T18:52+00:00",
-      "teaser": "The drop was largely driven by fewer people arriving from outside the European Union. It reflects government action to restrict immigration after a public backlash."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.16,
+    "score": 3.03,
     "items": [
      {
       "title": "Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows",
@@ -191,7 +198,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.11,
+    "score": 2.97,
     "items": [
      {
       "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
@@ -211,27 +218,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.09,
-    "items": [
-     {
-      "title": "Israel: Staatsanwältin im Netanjahu-Prozess vor Dilemma",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-26T14:02+01:00",
-      "teaser": "Im Korruptionsprozess gegen Israels Premier Netanjahu haben die Richter empfohlen, den Vorwurf wegen Bestechlichkeit fallen zu lassen. Netanjahus Lager feiert das als Triumph - und die Staatsanwaltschaft steht massiv unter Zugzwang. Von J. Segador."
-     },
-     {
-      "title": "prozess in Israel: Richter wollen Korruptionsvorwürfe gegen Netanjahu weitgehend fallen lassen",
-      "url": "https://www.faz.net/aktuell/politik/ausland/korruptionsprozess-richter-empfehlen-vorwuerfe-gegen-netanjahu-fallen-zu-lassen-201719142.html",
-      "source": "FAZ",
-      "date": "2026-11-26T14:31+00:00",
-      "teaser": "Richter in Jerusalem glauben nicht an eine Verurteilung Netanjahus. Der noch amtierende Regierungschef feiert das als Ende des Verfahrens. Doch alle Vorwürfe wären damit nicht aus dem Weg geräumt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.03,
+    "score": 2.9,
     "items": [
      {
       "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
@@ -248,12 +235,25 @@
       "teaser": "Mit 8,2 Millionen Litern Dieseltreibstoff in den Tanks geriet die \"Med Emre\" vor der spanischen Insel Ibiza in Seenot. Dann kenterte das Schiff. Wird es sinken?"
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-27T02:55+00:00",
+      "teaser": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern."
+     }
+    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 3,
-    "score": 5.12,
+    "score": 4.98,
     "items": [
      {
       "title": "Urteil in Köln: Missbrauchsopfer erhält mehr als eine halbe Million Euro Schmerzensgeld",
@@ -280,7 +280,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Keine Einigung: EU-Sondergipfel zum Haushalt endet vorzeitig",
+      "url": "https://www.zdfheute.de/politik/ausland/eu-gipfel-haushalt-bruessel-europaeische-union-merz-abbruch-100.html",
+      "source": "ZDF",
+      "date": "2026-11-27T03:46+01:00",
+      "teaser": "Sparen oder nicht sparen, das war die Frage beim EU-Sondergipfel zum Haushalt in Brüssel. Ein Ergebnis gab es nicht. Der Gipfel wurde frühzeitig beendet."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
+    "items": [
+     {
+      "title": "Rente mit 63: Frei verteidigt Kompromissangebot im Rentenstreit",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/rente-mit-63-cdu-spd-thorsten-frei-tim-kluessendorf",
+      "source": "Zeit",
+      "date": "2026-11-27T01:31+00:00",
+      "teaser": "Unionsfraktionschef Thorsten Frei sieht den Vorstoß zu einer abschlagsfreien Frührente für Geringverdiener als Gesprächsangebot an die SPD. Diese bleibt skeptisch."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.81,
     "items": [
      {
       "title": "Quentin Gärtner: \"Als wäre Weihnachten statt Wirtschaftskrise\"",
@@ -293,7 +319,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.7,
     "items": [
      {
       "title": "Sachsen-Anhalt: BSW hält sich Zustimmung zu Kündigung von MDR-Rundfunkvertrag offen",
@@ -306,7 +332,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.77,
+    "score": 1.64,
     "items": [
      {
       "title": "Deutsche Autobauer am Ende? \"Wenn wir so weitermachen, ja\"",
@@ -319,20 +345,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.77,
-    "items": [
-     {
-      "title": "Keine Einigung: EU-Sondergipfel zum Haushalt endet vorzeitig",
-      "url": "https://www.zdfheute.de/politik/ausland/eu-gipfel-haushalt-bruessel-europaeische-union-merz-abbruch-100.html",
-      "source": "ZDF",
-      "date": "2026-11-26T23:45+01:00",
-      "teaser": "Sparen oder nicht sparen, das war die Frage beim EU-Sondergipfel zum Haushalt in Brüssel. Ein Ergebnis gab es nicht. Der Gipfel wurde frühzeitig beendet."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.74,
+    "score": 1.61,
     "items": [
      {
       "title": "Weihnachtsmarkt im Schnelldurchlauf: Ravennaschlucht im Gästefieber",
@@ -345,7 +358,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.56,
     "items": [
      {
       "title": "EU-Gipfel: Europas Geld und Deutschlands Beitrag",
@@ -358,20 +371,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.67,
-    "items": [
-     {
-      "title": "EU-Gipfel: Merz kündigt vorzeitiges Ende der Haushaltsberatungen an",
-      "url": "https://www.spiegel.de/politik/deutschland/eu-gipfel-merz-kuendigt-vorzeitiges-ende-der-haushaltsberatungen-an-a-7a483887-37b0-474f-9aeb-59cc2f83db36#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T22:28+01:00",
-      "teaser": "Die Staats- und Regierungschefs der EU beenden ihre Beratungen über den künftigen Haushalt laut Kanzler Merz bereits am Donnerstag. Die Mitgliedstaaten liegen mit ihren Forderungen weiterhin auseinander."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.67,
+    "score": 1.54,
     "items": [
      {
       "title": "Schwerer Lkw-Unfall auf A8 bei Pforzheim - Fahrbahn Richtung Stuttgart gesperrt",
@@ -384,7 +384,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.53,
+    "items": [
+     {
+      "title": "EU-Gipfel: Merz kündigt vorzeitiges Ende der Haushaltsberatungen an",
+      "url": "https://www.spiegel.de/politik/deutschland/eu-gipfel-merz-kuendigt-vorzeitiges-ende-der-haushaltsberatungen-an-a-7a483887-37b0-474f-9aeb-59cc2f83db36#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-26T22:28+01:00",
+      "teaser": "Die Staats- und Regierungschefs der EU beenden ihre Beratungen über den künftigen Haushalt laut Kanzler Merz bereits am Donnerstag. Die Mitgliedstaaten liegen mit ihren Forderungen weiterhin auseinander."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.52,
     "items": [
      {
       "title": "Psychotherapeut wegen Missbrauchs einer Patientin verurteilt",
@@ -397,7 +410,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.46,
     "items": [
      {
       "title": "USA: Medien: Entscheidung über US-Truppenabzug aus Europa verschiebt sich",
@@ -407,25 +420,51 @@
       "teaser": "Die USA benötigen für die Überprüfung ihrer Militärpräsenz anscheinend länger als geplant. Ursprünglich sollten der Nato bereits im Dezember Entscheidungen vorliegen."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.55,
-    "items": [
-     {
-      "title": "Rente: Union überrumpelt SPD mit überraschendem Kompromissvorschlag",
-      "url": "https://www.spiegel.de/politik/deutschland/rente-union-ueberrumpelt-spd-mit-ueberraschendem-kompromissvorschlag-a-da8cd897-8042-462c-a892-98fbe6dce2ea#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-26T21:02+01:00",
-      "teaser": "Der Kompromissvorschlag der Unionsfraktion bringt Bewegung in die festgefahrene Rentendebatte. Die SPD reagiert verschnupft."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Saski Park, czyli kameralny luksus w Śródmieściu Warszawy",
+      "url": "https://www.rp.pl/nieruchomosci/art45523051-saski-park-czyli-kameralny-luksus-w-srodmiesciu-warszawy",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-27T04:04+01:00",
+      "teaser": "Na rynek wchodzi apartamentowiec z widokiem na najstarszy park w Polsce. W ofercie jest zaledwie 48 przestronnych apartamentów. Na rosnącym rynku stołecznych nieruchomości premium Saski Park wyróżnia się niepowtarzalnością. Nabywcy zyskają komfort i prestiż."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "Magazyn to dziś za mało. CTP gwarantuje najemcom moce przyłączeniowe",
+      "url": "https://www.rp.pl/nieruchomosci/art45532961-magazyn-to-dzis-za-malo-ctp-gwarantuje-najemcom-moce-przylaczeniowe",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-27T04:02+01:00",
+      "teaser": "Nową walutą na rynku magazynowym są megawaty i gotowość pod automatyzację. CTP dysponuje zabezpieczonymi mocami przyłączeniowymi w kluczowych lokalizacjach magazynowych w kraju."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Można stwierdzić, że handel stacjonarny jest w najlepszej kondycji w historii",
+      "url": "https://www.rp.pl/nieruchomosci/art45540871-mozna-stwierdzic-ze-handel-stacjonarny-jest-w-najlepszej-kondycji-w-historii",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-27T04:00+01:00",
+      "teaser": "Skupiamy się na zarządzaniu galeriami, ale nie wykluczamy przejęć. Do rozwoju portfela parków handlowych podchodzimy racjonalnie – mówi Agnieszka Baczyńska, head of leasing & office asset management w CPI Property Group."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.75,
     "items": [
      {
       "title": "Rozwój zaczyna się od rozmowy, nie od oceny",
@@ -438,7 +477,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.74,
     "items": [
      {
       "title": "Polski pomidor może konkurować z włoskim",
@@ -451,7 +490,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.7,
     "items": [
      {
       "title": "Tak FEnIKS zmienia Polskę",
@@ -464,7 +503,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.7,
     "items": [
      {
       "title": "Nie każdy korzysta z MultiSport w ten sam sposób. I bardzo dobrze",
@@ -477,7 +516,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.68,
     "items": [
      {
       "title": "Wellbeing to nie benefity. Co decyduje o dobrostanie w pracy",
@@ -490,7 +529,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.67,
     "items": [
      {
       "title": "Potrzebujemy własnych technologii. Czas na sojusz nauki i biznesu",
@@ -503,7 +542,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.67,
     "items": [
      {
       "title": "Kupić, sprzedać i zarobić. Jak mogą robić to ciepłownie?",
@@ -516,46 +555,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Jak skorzystać z siły transformacji, a nie jej ulec?",
-      "url": "https://energia.rp.pl/nowa-energia/art45540921-jak-skorzystac-z-sily-transformacji-a-nie-jej-ulec",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T00:04+01:00",
-      "teaser": "U progu nowego roku warto sprawdzić, czy decyzje dotyczące energii są spójne ze strategią biznesową firmy. Jedna firma chce zmniejszyć zużycie energii, druga lepiej planować wydatki, a trzecia przygotowuje się do rozbudowy zakładu. Każda podejmuje decyzje dotyczące energii, ale nie każda powinna zac"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Z nielegalnym hazardem trzeba walczyć skuteczniej",
-      "url": "https://www.rp.pl/wydarzenia-gospodarcze/art45549781-z-nielegalnym-hazardem-trzeba-walczyc-skuteczniej",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T00:03+01:00",
-      "teaser": "Nielegalne kasyna internetowe, działalność patostreamerów i przepływ pieniędzy do operatorów działających poza polskim systemem prawnym – to główne wyzwania związane z rynkiem hazardowym."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Jak wybrać najlepszy sposób na tańszą energię? To możliwe",
-      "url": "https://energia.rp.pl/nowa-energia/art45549061-jak-wybrac-najlepszy-sposob-na-tansza-energie-to-mozliwe",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T00:03+01:00",
-      "teaser": "Umowa ze stałą a może elastyczną ceną? Maksymalny poziom dostaw czy transzowy? A może każdy z tych modeli naraz? Firmy kupujące energię na 2027 rok stoją przed trudnym dylematem, a wysokie ceny energii na giełdzie nie ułatwiają decyzji. Rynek jednak podpowiada."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.52,
     "items": [
      {
       "title": "Brauniści ubiegli Morawieckiego. Zakładają partię Rozwój Plus",
@@ -568,7 +568,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.62,
+    "score": 1.49,
     "items": [
      {
       "title": "Protest przed TK. Prezydent Warszawy zakazał, sąd wydał decyzję",
@@ -583,34 +583,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 4,
-    "score": 7.52,
-    "items": [
-     {
-      "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
-      "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-      "source": "The Guardian",
-      "date": "2026-11-26T17:50+00:00",
-      "teaser": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countries Spain’s Pablo Hernández de Cos has been chosen as the next president of the European Central Bank, to succeed Christine Lagarde, after winning support from the EU’s biggest countries. Th"
-     },
-     {
-      "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-26T17:12+01:00",
-      "teaser": "Der Spanier Pablo Hernández de Cos bringt viel geldpolitische Erfahrung mit. Welcher Kurs ist von dem 55-Jährigen Ökonomen zu erwarten, wenn er an die Spitze der Europäischen Zentralbank rückt?"
-     },
-     {
-      "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
-      "url": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
-      "source": "New York Times",
-      "date": "2026-11-26T19:41+00:00",
-      "teaser": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution."
-     }
-    ]
-   },
-   {
-    "sourceCount": 4,
-    "score": 7.35,
+    "score": 7.22,
     "items": [
      {
       "title": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
@@ -637,7 +610,34 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.38,
+    "score": 5.39,
+    "items": [
+     {
+      "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+      "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+      "source": "The Guardian",
+      "date": "2026-11-26T17:50+00:00",
+      "teaser": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countries Spain’s Pablo Hernández de Cos has been chosen as the next president of the European Central Bank, to succeed Christine Lagarde, after winning support from the EU’s biggest countries. Th"
+     },
+     {
+      "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-26T17:12+01:00",
+      "teaser": "Der Spanier Pablo Hernández de Cos bringt viel geldpolitische Erfahrung mit. Welcher Kurs ist von dem 55-Jährigen Ökonomen zu erwarten, wenn er an die Spitze der Europäischen Zentralbank rückt?"
+     },
+     {
+      "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+      "url": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
+      "source": "New York Times",
+      "date": "2026-11-26T19:41+00:00",
+      "teaser": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution."
+     }
+    ]
+   },
+   {
+    "sourceCount": 3,
+    "score": 5.25,
     "items": [
      {
       "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
@@ -664,7 +664,47 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+      "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+      "source": "New York Times",
+      "date": "2026-11-27T02:45+00:00",
+      "teaser": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips."
+     },
+     {
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-26T23:08+00:00",
+      "teaser": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Business-Ticker: SAP: Haben „verdächtige Aktivitäten identifiziert“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-sap-haben-verdaechtige-aktivitaeten-identifiziert-faz-200452404.html",
+      "source": "FAZ",
+      "date": "2026-11-27T02:37+00:00",
+      "teaser": "Gericht stoppt Übernahme der irischen Bank PTSB durch Bawag +++ Chinesischer Online-Händler Temu sagt EU mehr Verbraucherschutz zu +++ Nvidia stoppt offenbar Export in vier südostasiatische Länder +++ alle Neuigkeiten im Unternehmen-Liveblog"
+     },
+     {
+      "title": "SAP: IT-Sicherheitsvorfall bei SAP – „Haben verdächtige Aktivitäten identifiziert“",
+      "url": "https://www.handelsblatt.com/technik/ki/sap-it-sicherheitsvorfall-bei-sap-haben-verdaechtige-aktivitaeten-identifiziert/100273138.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-26T23:21+00:00",
+      "teaser": "„Verdächtige Aktivitäten“ bei SAP: Der Softwarehersteller meldet einen Zwischenfall. Die Angreifer haben es nach Handelsblatt-Informationen auf die Softwareentwicklung abgesehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.68,
     "items": [
      {
       "title": "UK to pay additional ‘participation fee’ as price of EU reset deal",
@@ -684,27 +724,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.81,
-    "items": [
-     {
-      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-      "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-      "source": "New York Times",
-      "date": "2026-11-26T12:04+00:00",
-      "teaser": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips."
-     },
-     {
-      "title": "Asia made a big AI bet on Nvidia. What happens now?",
-      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-26T23:08+00:00",
-      "teaser": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.74,
+    "score": 3.61,
     "items": [
      {
       "title": "EU-Haushalt: EU-Sondergipfel zum Haushalt wird vorzeitig beendet",
@@ -724,7 +744,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.36,
+    "score": 3.23,
     "items": [
      {
       "title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
@@ -744,7 +764,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.03,
+    "score": 2.89,
     "items": [
      {
       "title": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
@@ -764,7 +784,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.74,
+    "score": 2.6,
     "items": [
      {
       "title": "UniCredit ist bei Commerzbank am Ziel – und will schnell Personal austauschen",
@@ -784,40 +804,27 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.87,
     "items": [
      {
-      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-27T00:54+00:00",
-      "teaser": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
-      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-27T00:02+00:00",
-      "teaser": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Tribunal upholds decision to ban two Iran-linked figures from UK charities",
-      "url": "https://www.ft.com/content/fb39f67c-cdd4-4322-895f-e069c95a6166?syn-25a6b1a6=1",
+      "title": "India’s electricity demand to rise fivefold in 25 years, says Suzlon’s Girish Tanti",
+      "url": "https://www.ft.com/content/a342f53c-c323-4fa1-bdc2-16d504c1dd10?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-26T23:36+00:00",
-      "teaser": "Judgments mark a victory for the Charity Commission’s efforts to combat alleged Iranian state support for extremism in Britain"
+      "date": "2026-11-27T01:30+00:00",
+      "teaser": "Renewables can match coal power for reliability at lower cost, insists wind power pioneer"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.83,
+    "items": [
+     {
+      "title": "Lula names banker as Brazil finance minister in attempt to calm markets",
+      "url": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-27T00:59+00:00",
+      "teaser": "Luiz Carlos Trabuco’s appointment follows a sell-off in the country’s assets"
      }
     ]
    }
@@ -825,7 +832,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.72,
+    "score": 7.58,
     "favorite": true,
     "items": [
      {
@@ -839,7 +846,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.68,
+    "score": 7.54,
     "favorite": true,
     "items": [
      {
@@ -853,7 +860,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.66,
+    "score": 7.53,
     "favorite": true,
     "items": [
      {
@@ -867,7 +874,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.01,
+    "score": 6.88,
     "items": [
      {
       "title": "Joshua Kimmich über Fall Jamal Musiala: „Das ist ein absolutes No-Go und nicht Bayern-like“",
@@ -894,7 +901,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.75,
+    "score": 5.62,
     "items": [
      {
       "title": "Europa League – Gazakrieg: Schwere Ausschreitungen bei Beşiktaş gegen Hapoel Beer-Sheva",
@@ -921,7 +928,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.31,
+    "score": 5.18,
     "items": [
      {
       "title": "Laura Freigang: 16 Monate Sperre für Nationalspielerin und die Folgen",
@@ -948,7 +955,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.16,
+    "score": 3.02,
     "items": [
      {
       "title": "FC Bayern München: Wie es nach der Kimmich-Kritik weitergeht – „Die Würde des Funktionärs ist unantastbar“",
@@ -968,7 +975,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.59,
+    "score": 2.45,
     "items": [
      {
       "title": "Champions League: FC Bayern München verliert nach Führung gegen OSC Lille",
@@ -988,7 +995,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.84,
     "items": [
      {
       "title": "Krawalle: Europa-League-Duell zwischen israelischem und türkischem Klub unterbrochen",
@@ -1001,7 +1008,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.77,
     "items": [
      {
       "title": "'Priceless' Duran proves 'the man' but is he papering over cracks at Celtic?",
@@ -1014,20 +1021,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Hearts' European hopes hang by a thread but Vrancken proud",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-26T23:59+00:00",
-      "teaser": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.75,
     "items": [
      {
       "title": "Premier League: 10 things to look out for this weekend",
@@ -1037,12 +1031,45 @@
       "teaser": "Liam Delap can exploit Chelsea’s defensive woes while Senne Lammens is under pressure against Brentford Nottingham Forest’s last couple of seasons have been a story of good runs and bad runs, but it may help to know that last season’s encounters with Chelsea both presaged changes of fortune. After t"
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.74,
+    "items": [
+     {
+      "title": "Hearts' European hopes hang by a thread but Vrancken proud",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-26T23:59+00:00",
+      "teaser": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco."
+     }
+    ]
    }
   ],
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.97,
+    "items": [
+     {
+      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+      "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+      "source": "New York Times",
+      "date": "2026-11-27T02:45+00:00",
+      "teaser": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips."
+     },
+     {
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-26T23:08+00:00",
+      "teaser": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.82,
     "items": [
      {
       "title": "The best Black Friday deals we’ve already found",
@@ -1062,27 +1089,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.81,
-    "items": [
-     {
-      "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-      "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-      "source": "New York Times",
-      "date": "2026-11-26T12:04+00:00",
-      "teaser": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips."
-     },
-     {
-      "title": "Asia made a big AI bet on Nvidia. What happens now?",
-      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-26T23:08+00:00",
-      "teaser": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.67,
+    "score": 2.53,
     "items": [
      {
       "title": "Musk's plan to send a million SpaceX data satellites into space approved",
@@ -1102,7 +1109,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.75,
     "items": [
      {
       "title": "Why is there a shortage of 'wizard' elevator mechanics?",
@@ -1115,7 +1122,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.53,
     "items": [
      {
       "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
@@ -1128,7 +1135,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.49,
     "items": [
      {
       "title": "Netflix’s coziest show has made a very quiet return",
@@ -1141,7 +1148,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
+    "score": 1.47,
     "items": [
      {
       "title": "Telefonieren und Chatten auf Reisen: Whatsapp bekommt E-Sim-Funktion",
@@ -1154,20 +1161,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.46,
-    "items": [
-     {
-      "title": "Abgetaucht mit Kokain: Wie Kartelle ihre Drogen mit autonomen U-Booten schmuggeln",
-      "url": "https://t3n.de/news/abgetaucht-kokain-kartelle-autonome-u-boote-1773705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-26T19:55+01:00",
-      "teaser": "Ein Drogen-U-Boot ohne Besatzung, gesteuert per Starlink und Autopilot von der Stange: Autonome U-Boote könnten Tonnen von Kokain transportieren und sind der Al weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.46,
+    "score": 1.33,
     "items": [
      {
       "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
@@ -1180,7 +1174,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.42,
+    "score": 1.32,
+    "items": [
+     {
+      "title": "Abgetaucht mit Kokain: Wie Kartelle ihre Drogen mit autonomen U-Booten schmuggeln",
+      "url": "https://t3n.de/news/abgetaucht-kokain-kartelle-autonome-u-boote-1773705/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-26T19:55+01:00",
+      "teaser": "Ein Drogen-U-Boot ohne Besatzung, gesteuert per Starlink und Autopilot von der Stange: Autonome U-Boote könnten Tonnen von Kokain transportieren und sind der Al weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.29,
     "items": [
      {
       "title": "KI-orientierte Umstrukturierung: SAP erwägt erneut Abbau von mindestens 10.000 Arbeitsplätzen",
@@ -1193,7 +1200,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.38,
+    "score": 1.25,
     "items": [
      {
       "title": "„Glosslighting“ bei KI: Warum wir von „Halluzination“ sprechen – und nicht von Fehlern",
@@ -1206,7 +1213,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.38,
+    "score": 1.24,
     "items": [
      {
       "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
@@ -1284,7 +1291,7 @@
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 4
+   "items": 3
   },
   {
    "topic": "Welt & Politik",
@@ -1470,7 +1477,7 @@
    "topic": "Wirtschaft & Börse",
    "source": "CNBC",
    "ok": true,
-   "items": 3
+   "items": 2
   },
   {
    "topic": "Wirtschaft & Börse",
