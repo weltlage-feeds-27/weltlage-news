@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-27T12:03:39+00:00",
+ "fetchedAt": "2026-11-27T13:23:40+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 2,
-    "score": 3.98,
+    "sourceCount": 3,
+    "score": 5.87,
     "items": [
      {
       "title": "Spain election: Housing crisis and immigration dominate final campaign debate",
@@ -12,6 +12,13 @@
       "source": "France 24",
       "date": "2026-11-27T11:51+00:00",
       "teaser": "Spain goes to the polls on Sunday in an early parliamentary election that may usher in a right-wing coalition to replace the Socialist-led minority government of Prime Minister Pedro Sanchez, one of Europe's last leftist leaders. Our correspondent Sarah Morris tells us more."
+     },
+     {
+      "title": "What Spain’s election means for Morocco",
+      "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-27T11:33+00:00",
+      "teaser": "The vote could reshape diplomatic relations, but shared strategic interests will continue to bind the two countries."
      },
      {
       "title": "Leaders clash in final Spain election debate as housing dominates run-in",
@@ -23,8 +30,8 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.98,
+    "sourceCount": 3,
+    "score": 5.87,
     "items": [
      {
       "title": "Kuwait: Two Italians killed in drone attack",
@@ -39,12 +46,59 @@
       "source": "CBC",
       "date": "2026-11-26T11:03-05:00",
       "teaser": "Two Italians were killed in a drone attack in Kuwait on Thursday that Italy and Kuwait blamed on Iran, although Tehran has denied any involvement."
+     },
+     {
+      "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+      "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-27T11:51+00:00",
+      "teaser": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Hackers breach US Air Force Cloud One platform, putting military data at risk",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3376087/hackers-breach-us-air-force-cloud-one-platform-putting-military-data-risk",
+      "source": "South China Morning Post",
+      "date": "2026-11-27T12:25+00:00",
+      "teaser": "Hackers have breached the US Air Force’s flagship cloud computing platform, three people familiar with the matter said, in a development that could jeopardise a vast swathe of sensitive tactical, personnel and logistics data. The intrusion at Cloud One was discovered within the past month or so duri"
+     },
+     {
+      "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+      "url": "https://www.thehindu.com/news/international/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/article71750783.ece",
+      "source": "The Hindu",
+      "date": "2026-11-27T18:25+05:30",
+      "teaser": "The intrusion at Cloud One was discovered within the past month or so ⁠during work to upgrade the system, two people familiar with the matter said"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Thanksgiving storm on U.S. East Coast knocks out power, disrupts flights",
+      "url": "https://www.cbc.ca/news/world/u-s-thanksgiving-storm-power-flight-delays-9.7438358?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-27T04:57-05:00",
+      "teaser": "A powerful storm disrupted the Thanksgiving holiday along much of the U.S. East Coast on Thursday, knocking out power to nearly one million customers at one point as wind gusts of up to 112 km/h toppled trees and power lines."
+     },
+     {
+      "title": "Thanksgiving Storm Leaves Half a Million Without Power on the East Coast",
+      "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-27T12:48+00:00",
+      "teaser": "The storm brought heavy rain and strong winds from Virginia to New York, disrupting travel during the holiday season. Conditions were expected to gradually improve on Friday."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.86,
     "items": [
      {
       "title": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
@@ -64,7 +118,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.86,
+    "items": [
+     {
+      "title": "EU: Leaders fail to reach agreement on next budget after tense summit",
+      "url": "https://www.france24.com/en/video/20261127-eu-leaders-fail-to-reach-agreement-on-next-budget-after-tense-summit",
+      "source": "France 24",
+      "date": "2026-11-27T11:42+00:00",
+      "teaser": "At the bloc headquarters in Brussels on Thursday, EU leaders failed to reach a consensus after more than 12 hours of talks over the budget and a new $49 billion loan for Ukraine’s economic and military needs next year. France 24's Dave Keating tells us more."
+     },
+     {
+      "title": "EU leaders fail to bridge budget splits as talks stall",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-27T06:11+00:00",
+      "teaser": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.82,
     "items": [
      {
       "title": "USA: Schwerer Sturm sorgt an Thanksgiving für massive Einschränkungen",
@@ -84,47 +158,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.9,
-    "items": [
-     {
-      "title": "The corruption case against Benjamin Netanyahu just suffered a serious blow. What comes next?",
-      "url": "https://www.cbc.ca/news/world/benjamin-netanyahu-corruption-trial-9.7437235?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-27T04:00-05:00",
-      "teaser": "Israeli Prime Minister Benjamin Netanyahu was handed a major legal victory this week when the judges in the years-long corruption trial against him suggested the prosecution reconsider one case, work out a plea deal in another and entirely drop the third. Here's a look at the cases, the charges, wha"
-     },
-     {
-      "title": "Why Benjamin Netanyahu’s corruption trial could be unravelling",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-27T10:54+00:00",
-      "teaser": "Could Netanyahu escape his most serious corruption charges? Al Jazeera's Lina-Serene explains."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.87,
-    "items": [
-     {
-      "title": "Thanksgiving storm on U.S. East Coast knocks out power, disrupts flights",
-      "url": "https://www.cbc.ca/news/world/u-s-thanksgiving-storm-power-flight-delays-9.7438358?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-27T04:57-05:00",
-      "teaser": "A powerful storm disrupted the Thanksgiving holiday along much of the U.S. East Coast on Thursday, knocking out power to nearly one million customers at one point as wind gusts of up to 112 km/h toppled trees and power lines."
-     },
-     {
-      "title": "Thanksgiving Storm Leaves Half a Million Without Power on the East Coast",
-      "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-27T10:31+00:00",
-      "teaser": "The storm brought heavy rain and strong winds from Virginia to New York, disrupting travel during the holiday season. Conditions were expected to gradually improve on Friday."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.75,
     "items": [
      {
       "title": "Ukraine-Russland-Krieg: Frau bei Drohnenangriff auf St. Petersburg verletzt",
@@ -144,27 +178,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
-    "items": [
-     {
-      "title": "Live: Trump calls on Putin to end all 'military aggression' against Europe",
-      "url": "https://www.france24.com/en/europe/20261127-live-trump-calls-on-putin-to-end-all-military-aggression-against-europe",
-      "source": "France 24",
-      "date": "2026-11-27T10:22+00:00",
-      "teaser": "US President Donald Trump said on Thursday that he had urged his Russian counterpart Vladimir Putin to \"pull back all military aggression against territories throughout Europe\". Although Trump did not provide any further details, he added that he hoped this would pave the way for a peace deal to be "
-     },
-     {
-      "title": "Donald Trump urges Vladimir Putin to end ‘military aggression’ in Europe",
-      "url": "https://www.thehindu.com/news/international/donald-trump-urges-vladimir-putin-to-end-military-aggression-in-europe/article71749343.ece",
-      "source": "The Hindu",
-      "date": "2026-11-27T13:21+05:30",
-      "teaser": "Donald Trump said he had requested Vladimir Putin when they met in China last week, adding that he thought it would help lead to a deal to end Moscow's grinding war in Ukraine"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.51,
+    "score": 3.4,
     "items": [
      {
       "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
@@ -184,7 +198,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.81,
+    "score": 3.38,
+    "items": [
+     {
+      "title": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
+      "source": "The Guardian",
+      "date": "2026-11-27T05:31+00:00",
+      "teaser": "Patterson, 52, seeks leave to appeal to Australia’s highest court over deaths of estranged family members after fatal beef wellington lunch Get our breaking news email , free app or daily news podcast Erin Patterson has applied to the high court seeking leave to appeal after a failed bid last month "
+     },
+     {
+      "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+      "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-27T05:54+00:00",
+      "teaser": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.7,
     "items": [
      {
       "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
@@ -207,24 +241,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Ukraine: Residents brace for another difficult winter",
-      "url": "https://www.france24.com/en/video/20261127-ukraine-residents-brace-for-another-difficult-winter",
-      "source": "France 24",
-      "date": "2026-11-27T11:54+00:00",
-      "teaser": "As Russia continues to target Ukraine's energy infrastructure, residents are preparing for another difficult winter of strikes and power cuts. With supply chains under pressure, food prices are also rising, forcing many Ukrainians to cut back on essentials or stock up ahead of the coming months."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Verteidigungsabkommen: Türkei ratifiziert Verteidigungspakt mit Saudi-Arabien und Pakistan",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/verteidigungsabkommen-tuerkei-saudi-arabien-pakistan-recep-tayyip-erdogan-gxe",
-      "source": "Zeit",
-      "date": "2026-11-27T11:46+00:00",
-      "teaser": "Die Türkei verpflichtet sich, im Angriffsfall Saudi-Arabien und Pakistan Beistand zu leisten. Die Opposition warnt vor Verwicklungen in regionale Kriege."
+      "title": "Ursachensuche: EU streitet weiter ums Geld",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-27T14:18+01:00",
+      "teaser": "Druck aus Frankreich, Widerstand aus Deutschland und der Gastgeber mit einer ungewöhnlichen Verhandlungsstrategie. Es gibt mehrere Gründe, warum der EU-Sondergipfel zum Haushalt gescheitert ist. Von Sabrina Fritz."
      }
     ]
    }
@@ -232,7 +253,7 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.81,
     "items": [
      {
       "title": "Parteitag in Dresden: Wie hält es das BSW mit der AfD?",
@@ -251,22 +272,15 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.59,
+    "sourceCount": 1,
+    "score": 1.99,
     "items": [
      {
-      "title": "Deutschland Liveblog: Frei mahnt zu schneller Renteneinigung: „Es geht um unser Land“",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-frei-dringt-auf-renteneinigung-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-27T07:04+00:00",
-      "teaser": "SPD-Generalsekretär: CDU-Vorschlag „ein bisschen vergiftet“ +++ Bundestag stimmt über Haushalt ab +++ Linke fordert mehr Einsatz gegen Femizide +++ alle Entwicklungen im Liveblog"
-     },
-     {
-      "title": "Bundespolitik: Frei mahnt zur Renteneinigung: „Es geht um unser Land“",
-      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-merz-weidel-linke-rente-mit-63-rentenreform-li.3473361",
+      "title": "Sondergipfel in Brüssel: EU-Haushalt: Den Sparsamen zu teuer, den Empfängern zu wenig",
+      "url": "https://www.sueddeutsche.de/politik/eu-haushalt-merz-macron-gipfel-bruessel-nettozahler-costa-li.3587062",
       "source": "Süddeutsche",
-      "date": "2026-11-27T06:14+00:00",
-      "teaser": "Die Beratungen im Kanzleramt gehen weiter. Im Fernsehen zeigen der Unionsfraktionschef und der SPD-Generalsekretär erneut, wo die Differenzen liegen."
+      "date": "2026-11-27T13:16+00:00",
+      "teaser": "Die europäischen Staats- und Regierungschefs haben ihre Haushaltsverhandlungen vorzeitig abgebrochen – und beweisen damit, dass wie schwer es ist, ihre Zielkonflikte zu lösen."
      }
     ]
    },
@@ -275,11 +289,24 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Politbarometer: Die Union verliert leicht",
-      "url": "https://www.sueddeutsche.de/politik/politbarometer-die-union-verliert-leicht-li.3587060",
+      "title": "USA: Und plötzlich bezeichnet Trump ihn als „sehr smart“",
+      "url": "https://www.sueddeutsche.de/politik/abdul-el-sayed-donald-trump-trumpcare-usa-li.3586836",
       "source": "Süddeutsche",
-      "date": "2026-11-27T11:56+00:00",
-      "teaser": "Die Befragten des Politbarometers lehnen mehrheitlich höhere Schulden ab und trauen der Koalition eher keine Einigung bei der Rentenreform zu. Nur bei einem Punkt ist das Meinungsbild recht klar."
+      "date": "2026-11-27T13:14+00:00",
+      "teaser": "Im Wahlkampf wurde Abdul El-Sayed vom Präsidenten als Dschihadist beschimpft. Doch jetzt hat der frisch gewählte Senator aus Michigan ihm ein Angebot gemacht, das er offenbar nicht ausschlagen kann."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "\"Steinewerfer\" von Neckarsulm wegen versuchten Mordes zu Haft verurteilt",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/urteil-haftstrafe-7-jahre-versuchter-mord-stein-schildermast-auf-autos-geworfen-100.html",
+      "source": "SWR",
+      "date": "2026-11-27T14:18+01:00",
+      "teaser": "Das Landgericht Heilbronn hat einen Mann, der Gegenstände von einer Brücke auf fahrende Autos geworfen haben soll, wegen versuchten Mordes zu einer Haftstrafe verurteilt."
      }
     ]
    },
@@ -288,11 +315,24 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Zentralrat der Juden: Josef Schuster widerspricht AfD-Chefin Alice Weidel",
-      "url": "https://www.spiegel.de/politik/deutschland/zentralrat-der-juden-josef-schuster-widerspricht-afd-chefin-alice-weidel-a-683a456b-c93e-4d37-aefb-14602532e3fa#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-27T12:46+01:00",
-      "teaser": "In einem Podcast inszeniert Alice Weidel ihre Partei als Kämpferin für jüdisches Leben in Deutschland. Der Präsident des Zentralrats will davon nichts wissen."
+      "title": "FALL Hanning: Beamte im Ruhestand haben kaum etwas zu befürchten",
+      "url": "https://www.faz.net/aktuell/politik/inland/august-hanning-und-die-kontrollluecken-bei-beamten-im-ruhestand-accg-201722966.html",
+      "source": "FAZ",
+      "date": "2026-11-27T13:08+00:00",
+      "teaser": "Die Affäre um den ehemaligen BND-Chef zeigte eklatante Sicherheitslücken auf. Eine Anfrage der Grünen beweist: Die Regierung hat kaum einen Überblick über ihre Beamten im Ruhestand."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-27T14:11+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
      }
     ]
    },
@@ -301,102 +341,76 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Jusos fordern mehr \"Klassenkampf\" und weniger Klingbeil",
-      "url": "https://www.zdfheute.de/politik/jusos-bundeskongress-spd-klingbeil-schweitzer-heil-100.html",
-      "source": "ZDF",
-      "date": "2026-11-27T12:39+01:00",
-      "teaser": "Die Jusos treffen sich ab heute in Bochum. Sie fordern Klassenkampf und eine Frau an der Spitze der SPD. Mit der Koalition hadert der Parteinachwuchs schon lange."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-27T12:09+01:00",
-      "teaser": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Ukraine: Korruption und fehlende Reformen belasten das Verhältnis zur EU",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-korruption-eu-beitritt-reformen-justiz-li.3584987",
-      "source": "Süddeutsche",
-      "date": "2026-11-27T11:10+00:00",
-      "teaser": "Wegen betrügerischer Callcenter, Drogenhandels und Falschgelds wird gegen hohe ukrainische Beamte ermittelt. Die EU verlangt schon länger umfassende Änderungen im Justizrsystem – macht aber kaum Druck."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Weihnachtsmarkt im Schnelldurchlauf: Ravennaschlucht im Gästefieber",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/weihnachtsmarkt-ravennaschlucht-eroeffnet-gaestefieber-im-schnelldurchlauf-100.html",
+      "title": "Freikirche mit konservativem Weltbild: Influencerin will Vive-Gemeinde gründen und Pastorin werden",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/vive-church-freikirche-influencerin-lisa-pastorin-100.html",
       "source": "SWR",
-      "date": "2026-11-27T12:11+01:00",
-      "teaser": "100.000 Menschen haben für einen zeitlich stark beschränkten Besuch Tickets für den beliebten Weihnachtsmarkt im Schwarzwald gekauft. Jetzt hat der Weihnachtsmarkt eröffnet."
+      "date": "2026-11-27T14:01+01:00",
+      "teaser": "Kirche statt Tanzvideos: Lisa Haigis von \"Lisa und Lena\" will in Stuttgart eine Gemeinde für die neue Freikirche \"Vive Church\" gründen. Ein neuer Treffpunkt für junge Christen?"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.95,
     "items": [
      {
-      "title": "Streit um Rentenreform: Arbeitsminister Schweitzer optimistisch",
-      "url": "https://www.tagesschau.de/inland/bundestag-haushalt-rentenreform-schweitzer-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-27T12:07+01:00",
-      "teaser": "Die Koalition ringt weiter um die Rentenreform. Arbeitsminister Schweitzer ist optimistisch, dass es bald zu einer Einigung kommt. Es lägen gute Vorschläge auf dem Tisch, sagte er im Bundestag. Dort wurde des Etat seines Ministeriums debattiert."
+      "title": "Politiker streuen Codewort in Bundestags-Debatte ein",
+      "url": "https://www.zdfheute.de/politik/haushalt-codewort-muschel-quaggamuschel-100.html",
+      "source": "ZDF",
+      "date": "2026-11-27T13:50+01:00",
+      "teaser": "Es ist eine Tradition im Bundestag: Haushaltspolitiker streuen in ihren Reden ein Codewort ein. In diesem Jahr ist es offenbar ein Weichtier."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.95,
     "items": [
      {
-      "title": "Tesla übernimmt Maschinenbauer EMAG: Spezialteile für humanoide Roboter",
+      "title": "Tesla übernimmt Maschinenbauer EMAG: Spezialwerkzeug für humanoide Roboter",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/tesla-kauf-emag-kartellamt-100.html",
       "source": "SWR",
-      "date": "2026-11-27T12:03+01:00",
-      "teaser": "Der US-Konzern Tesla von Milliardär Elon Musk hat beim Bundeskartellamt den Kauf der EMAG Gruppe beantragt."
+      "date": "2026-11-27T13:49+01:00",
+      "teaser": "Der US-Konzern Tesla von Milliardär Elon Musk hat beim Kartellamt den Kauf der EMAG Gruppe beantragt. Zuletzt hieß es, dass Tesla Teile des Stammsitzes in Salach übernehmen wolle."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.94,
     "items": [
      {
-      "title": "Hausfassade bei Straßenarbeiten eingestürzt, jetzt \"gammelt alles vor sich hin\": Ehepaar fühlt sich alleingelassen",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/erster-winter-familie-jaeger-nach-fassadensturz-iffezheim-102.html",
+      "title": "August Hanning: Bundesgerichtshof verwirft Haftbeschwerde von früherem BND-Chef",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/august-hanning-bnd-spionageverdacht-untersuchungshaft-bundesgerichtshof-gxe",
+      "source": "Zeit",
+      "date": "2026-11-27T12:38+00:00",
+      "teaser": "Der 80-jährige August Hanning sitzt seit fast zwei Monaten wegen mutmaßlicher Spionage in Untersuchungshaft. Mit einer Beschwerde dagegen hat er keinen Erfolg."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Streit in Landespartei: Hessische SPD-Generalsekretärin kündigt Rücktritt an",
+      "url": "https://www.faz.net/aktuell/politik/inland/spd-hessen-generalsekretaerin-josefine-koebe-kuendigt-ruecktritt-an-accg-201723160.html",
+      "source": "FAZ",
+      "date": "2026-11-27T12:42+00:00",
+      "teaser": "Der Machtkampf in der hessischen SPD soll in einer Urwahl münden. Nun will Generalsekretärin Koebe zurücktreten – sie ist die Partnerin eines der beiden Kontrahenten."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Trinkwasserspeicher in Künzelsau verunreinigt: Wasser muss abgekocht werden",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/trinkwasser-in-kuenzelsau-muss-abgekocht-werden-trinkwasserspeicher-kontamination-100.html",
       "source": "SWR",
-      "date": "2026-11-27T12:03+01:00",
-      "teaser": "Im Januar bricht eine Hausfassade weg, ein Wohnzimmer liegt offen. Seitdem leben Uschi und Thomas Jäger im Keller der Tochter. Sie halten durch und kämpfen weiter - trotz allem."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "\"Wetten, dass..?\": Diese Stars sind in der Show zu Gast",
-      "url": "https://www.zdfheute.de/panorama/wetten-dass-gaeste-stars-bill-tom-kaulitz-groenemeyer-chuba-leandros-100.html",
-      "source": "ZDF",
-      "date": "2026-11-27T12:00+01:00",
-      "teaser": "Neben den Wetten gehören große Stars zur DNA von \"Wetten, dass..?\". In diesem Jahr dabei: Eine Musik-Legende, ein britischer Songwriter sowie bekannte Gesichter aus Pop und Comedy."
+      "date": "2026-11-27T13:40+01:00",
+      "teaser": "In Teilen von Künzelsau muss bis auf Weiteres das Trinkwasser abgekocht werden. Grund ist eine mikrobiologische Verunreinigung in einem Trinkwasserspeicher."
      }
     ]
    }
@@ -407,63 +421,37 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Interpretacje podatkowe na nowych zasadach. Jest projekt zmian w ordynacji",
-      "url": "https://www.rp.pl/podatki/art45553271-interpretacje-podatkowe-na-nowych-zasadach-jest-projekt-zmian-w-ordynacji",
+      "title": "Ryczałt, amortyzacja, ulga IP Box. Będą uszczelnienia, prezydent podpisał ustawę",
+      "url": "https://pro.rp.pl/podatki/art45554011-ryczalt-amortyzacja-ulga-ip-box-beda-uszczelnienia-prezydent-podpisal-ustawe",
       "source": "Rzeczpospolita",
-      "date": "2026-11-27T12:56+01:00",
-      "teaser": "Interpretacje prawa podatkowego mają być ważne tylko przez pięć lat, ale za to ochronią podatnika także wstecz. To tylko niektóre zmiany proponowane przez Ministerstwo Finansów w najnowszym projekcie zmian ordynacji podatkowej."
+      "date": "2026-11-27T14:16+01:00",
+      "teaser": "Wzrośnie podatek dla wspólników wynajmujących majątek spółce, będzie zakaz żonglowania stawkami amortyzacji, dobrze zarabiający informatycy zapłacą daninę solidarnościową – takie nowości czekają podatników w przyszłym roku."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
     "items": [
      {
-      "title": "Jaka jest szansa na białe święta? Synoptyk IMGW o najnowszych prognozach",
-      "url": "https://www.rp.pl/kraj/art45552881-jaka-jest-szansa-na-biale-swieta-synoptyk-imgw-o-najnowszych-prognozach",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T12:49+01:00",
-      "teaser": "Do Bożego Narodzenia pozostał niecały miesiąc. W związku z tym synoptycy coraz chętniej wypowiadają się na temat pogody na ten okres. Czy możemy liczyć na białe święta? Czy najnowsze prognozy pokazują siarczysty mróz?"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Prezydent Karol Nawrocki zawetował ustawę o nowych progach podatkowych",
-      "url": "https://www.rp.pl/podatki/art45553521-prezydent-karol-nawrocki-zawetowal-ustawe-o-nowych-progach-podatkowych",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T12:48+01:00",
-      "teaser": "Nie podpiszę ustawy, która dodaje nową, 24-proc. stawkę w PIT, zmienia progi podatkowe i podnosi stawkę CIT dla największych firm do 22 proc. - ogłosił w piątek prezydent Karol Nawrocki."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Dwa psy uciekły z Rosji do Polski. Straż Graniczna: Zostaną zwrócone",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33153712,dwa-psy-uciekly-z-rosji-do-polski-straz-graniczna-zostana.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "title": "Wojsko podpisało umowę z Palantirem. Szef MON: Będą się pojawiać ataki",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33154032,wojsko-podpisalo-umowe-z-palantirem-szef-mon-beda-sie-pojawiac.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "source": "Gazeta Wyborcza",
-      "date": "2026-11-27T11:48+00:00",
-      "teaser": "Na przejściu granicznym w Grzechotkach polscy strażnicy graniczni przekażą Rosji dwa psy znalezione w Polsce. Zwierzęta uciekły ze swoich domów po rosyjskiej stronie granicy."
+      "date": "2026-11-27T13:18+00:00",
+      "teaser": "Ministerstwo Obrony Narodowej oraz amerykańska firma Palantir podpisały umowę na dostawę oprogramowania opartego na sztucznej inteligencji, które wesprze wojsko. - Naszą ambicją jest budowa najnowocześniejszej armii na świecie - powiedział szef MON Władysław Kosiniak-Kamysz."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.98,
     "items": [
      {
-      "title": "Wybory w Polsce mogą zmienić układ sił w Europie. Niemiecki tygodnik wskazuje na polityczne zagrożenia 2027 roku",
-      "url": "https://www.dw.com/pl/wybory-w-polsce-mogą-zmienić-układ-sił-w-europie-niemiecki-tygodnik-wskazuje-na-polityczne-zagrożenia-2027-roku/a-80073450?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-27T11:44+00:00",
-      "teaser": "Niemiecki tygodnik „Focus” zaliczył Polskę do „dziesięciu największych punktów zapalnych 2027 roku”. Zdaniem magazynu, wyniki przyszłorocznych wyborów do Sejmu mogą mieć spory wpływ na sytuację polityczną w Europie."
+      "title": "\"Operacja Matrioszka\". Tajemnicze zaginięcie Rosjanina w Lizbonie. Aresztowano pięć osób",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33153283,operacja-matrioszka-tajemnicze-zaginiecie-rosjanina-w-lizbonie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-27T13:12+00:00",
+      "teaser": "Portugalska policja ujęła pięciu domniemanych porywaczy Rosjanina Michaiła Gordiejewa. Mężczyzna zaginął w Lizbonie 2025 roku. Według policji przestępcy zamordowali 32-latka, choć pierwotnie porwali go dla okupu."
      }
     ]
    },
@@ -472,11 +460,89 @@
     "score": 1.96,
     "items": [
      {
-      "title": "Disputed Polish constitutional court announces 12-month suspension of chief justice",
-      "url": "https://notesfrompoland.com/2026/11/27/disputed-polish-constitutional-court-announces-12-month-suspension-of-chief-justice/",
-      "source": "Notes from Poland",
-      "date": "2026-11-27T11:37+00:00",
-      "teaser": "Bogdan Święczkowski rejected the decision by \"robed usurpers\" as \"illegal and having no legal effect\"."
+      "title": "Tyle lat żyjemy w dobrym zdrowiu. Wiek jest inny dla Polek i Polaków",
+      "url": "https://www.rp.pl/zdrowie/art45553031-tyle-lat-zyjemy-w-dobrym-zdrowiu-wiek-jest-inny-dla-polek-i-polakow",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-27T13:54+01:00",
+      "teaser": "Dziewczynki urodzone w 2025 r. mogą spodziewać się ponad trzech lat życia w zdrowiu więcej niż chłopcy – wynika z najnowszego raportu GUS. Prognozowany wskaźnik wynosi odpowiednio ponad 65 i 62 lata."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Prokuratura wszczęła śledztwo ws. samopodpalenia na Krakowskim Przedmieściu",
+      "url": "https://www.rp.pl/prawo-karne/art45553341-prokuratura-wszczela-sledztwo-ws-samopodpalenia-na-krakowskim-przedmiesciu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-27T13:41+01:00",
+      "teaser": "Prokuratura Rejonowa Warszawa-Śródmieście Północ wszczęła w piątek śledztwo w sprawie próby samobójczej obywatela Ukrainy, który dokonał samopodpalenia na Krakowskim Przedmieściu w Warszawie."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Benzyna tanieje, diesel w górę. Nowe maksymalne ceny paliw",
+      "url": "https://energia.rp.pl/paliwa/art45553381-benzyna-tanieje-diesel-w-gore-nowe-maksymalne-ceny-paliw",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-27T13:41+01:00",
+      "teaser": "Minister Energii opublikował nowe obwieszczenie ustalające maksymalne ceny paliw na 28 listopada. Benzyna Pb95 i Pb98 będą tańsze, natomiast olej napędowy podrożeje."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Ostatni moment na skorzystanie z ulgi w ZUS. Na ten cel poszło już ponad 5 mld zł",
+      "url": "https://pro.rp.pl/zus/art45553111-ostatni-moment-na-skorzystanie-z-ulgi-w-zus-na-ten-cel-poszlo-juz-ponad-5-mld-zl",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-27T13:40+01:00",
+      "teaser": "Tylko do poniedziałku 30 listopada przedsiębiorcy, którzy chcą w tym roku skorzystać z wakacji składkowych, mogą złożyć wniosek o zwolnienie z opłacania należności do Zakładu Ubezpieczeń Społecznych."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Nowe zagrożenie ze strony Rosji. Ukraiński wywiad: Mogłaby wykorzystywać je na całym świecie",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,33153963,nowe-zagrozenie-ze-strony-rosji-ukrainski-wywiad-moglaby-wykorzystywac.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-27T12:44+00:00",
+      "teaser": "Opracowywany przez Rosję system satelitarny dałby Władimirowi Putinowi niebezpieczne możliwości - twierdzi zastępca szefa ukraińskiego wywiadu wojskowego Wadym Skibicki."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Weidel ogłasza partię AfD obrończynią żydowskiego życia w Niemczech",
+      "url": "https://www.dw.com/pl/weidel-ogłasza-partię-afd-obrończynią-żydowskiego-życia-w-niemczech/a-80074381?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-27T12:41+00:00",
+      "teaser": "Szefowa AfD Alice Weidel przedstawia swoją partię jako obrończynię żydowskiego życia w Niemczech. Przewodniczący Centralnej Rady Żydów Josef Schuster zdecydowanie odrzuca tę deklarację."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Polska i Niemcy przeciw kradzieży dzieł przez AI",
+      "url": "https://www.dw.com/pl/polska-i-niemcy-przeciw-kradzieży-dzieł-przez-ai/a-80073424?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-27T12:41+00:00",
+      "teaser": "15 państw UE domaga się wprowadzenia wynagrodzeń dla autorów, których dzieła wykorzystuje AI. Berlin ujawnia szczegóły."
      }
     ]
    },
@@ -485,11 +551,11 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Znika uciążliwa przeszkoda na trasie z Polski w czeskie Karkonosze",
-      "url": "https://turystyka.rp.pl/zanim-wyjedziesz/art45553161-znika-uciazliwa-przeszkoda-na-trasie-z-polski-w-czeskie-karkonosze",
+      "title": "Gdzie wyrzucić popiół z pieca lub kominka? Za złamanie zasad grozi nawet 30 tys. zł kary",
+      "url": "https://www.rp.pl/prawo-dla-ciebie/art45553901-gdzie-wyrzucic-popiol-z-pieca-lub-kominka-za-zlamanie-zasad-grozi-nawet-30-tys-zl-kary",
       "source": "Rzeczpospolita",
-      "date": "2026-11-27T12:15+01:00",
-      "teaser": "Od dziś kierowcy mogą wjeżdżać do Czech autostradą S3 (D11) z ominięciem Lubawki. 3,3- kilometrowy odcinek skraca podróż o 7-15 minut. Na dalszym przebiegu autostrady D11 powstało lub jest w budowie 28 mostów i dwa tunele. Pozostałe odcinki będą gotowe w latach 2028 i 2029."
+      "date": "2026-11-27T13:36+01:00",
+      "teaser": "W sezonie grzewczym w domach ogrzewanych piecem lub kominkiem trzeba regularnie usuwać popiół z paleniska. Taki odpad należy następnie wyrzucić do odpowiedniego pojemnika, zgodnie z przepisami. O tym, do którego kontenera powinien trafić, decydują zasady obowiązujące w danej gminie."
      }
     ]
    },
@@ -498,63 +564,11 @@
     "score": 1.93,
     "items": [
      {
-      "title": "Najlepsze restauracje na świecie. 6 lokali z Polski w ścisłej czołówce",
-      "url": "https://sukces.rp.pl/restauracje/art45551751-najlepsze-restauracje-na-swiecie-6-lokali-z-polski-w-scislej-czolowce",
+      "title": "Karol Nawrocki wetuje zmianę w progach PIT. Andrzej Domański: wstyd",
+      "url": "https://www.rp.pl/polityka/art45553911-karol-nawrocki-wetuje-zmiane-w-progach-pit-andrzej-domanski-wstyd",
       "source": "Rzeczpospolita",
-      "date": "2026-11-27T12:15+01:00",
-      "teaser": "Są powody do zadowolenia – w ubiegłym roku w prestiżowym zestawieniu La Liste znalazły się trzy restauracje z Polski. W tym roku jest ich dwa razy więcej."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "„Dobrze, że jesteś!” – Iwona Durek laureatką Nagrody „Za naprawianie świata” im. Ireny Sendlerowej”",
-      "url": "https://www.rp.pl/kultura/art45553181-dobrze-ze-jestes-iwona-durek-laureatka-nagrody-za-naprawianie-swiata-im-ireny-sendlerowej",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T12:08+01:00",
-      "teaser": "Świat, w którym każdy człowiek jest ważny, nikt nie zostaje pominięty, a różnorodność nie dzieli, lecz wzbogaca wspólnotę. Taki świat kreuje w szkole Iwona Durek, laureatka jubileuszowej, 20. edycji Nagrody „Za naprawianie świata” im. Ireny Sendlerowej. Podczas gali w Muzeum Historii Polski w Warsza"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Koniec patologii we franczyzie? Rząd analizuje problem",
-      "url": "https://www.rp.pl/biznes/art45551641-koniec-patologii-we-franczyzie-rzad-analizuje-problem",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T12:03+01:00",
-      "teaser": "Przez lata rozwoju systemów franczyzowych, w ramach których działa dziś kilkadziesiąt tysięcy sklepów i punktów usługowych, kolejne rządy nie widziały potrzeby uregulowania takich umów. Próbowano raz, ustawę szybko utrącono. Możliwa jest kolejna próba – dowiedziała się „Rzeczpospolita”."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Tusk o Kierwińskim: Jeśli to okazałoby się faktem, oczywiście kończę współpracę",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33153657,tusk-o-kierwinskim-jesli-to-okazaloby-sie-faktem-oczywiscie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-27T11:07+00:00",
-      "teaser": "Donald Tusk powiedział, że obecnie nie ma \"żadnego powodu, aby stracić zaufanie do Marcina Kierwińskiego\". Premier odniósł się w ten sposób do informacji dotyczących wpłat na kampanię szefa MSWiA."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Ciała trzech mężczyzn w pustostanie w Tychach. W środku było palenisko",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33153490,ciala-trzech-mezczyzn-w-pustostanie-w-tychach-w-srodku-bylo.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-27T11:03+00:00",
-      "teaser": "Zmarli przebywali w niewielkim pomieszczeniu bez wentylacji z prowizorycznym paleniskiem. Żaden z nich nie posiadał stałego miejsca zamieszkania."
+      "date": "2026-11-27T13:31+01:00",
+      "teaser": "Prezydent Karol Nawrocki zawetował ustawę zmieniającą progi w PIT oraz podwyżkę CIT dla największych przedsiębiorstw. „Prezydent ponownie stanął po stronie wielkich koncernów, a nie po stronie Polaków” – skomentował minister finansów Andrzej Domański."
      }
     ]
    }
@@ -562,7 +576,27 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Nvidia: Die Familien-AG von Jensen Huang",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-wird-zum-familienbetrieb-plant-jensen-huang-seine-nachfolge-accg-201717897.html",
+      "source": "FAZ",
+      "date": "2026-11-27T12:48+00:00",
+      "teaser": "Der alte und neue Nvidia-Chef hat seine beiden Kinder und seinen Schwiegersohn eng ins Unternehmen eingebunden. Das wirft gerade jetzt die Frage auf, ob er sie als mögliche Nachfolger sieht."
+     },
+     {
+      "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+      "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+      "source": "New York Times",
+      "date": "2026-11-27T10:17+00:00",
+      "teaser": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., where he is said to have developed the idea for Nvidia."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.81,
     "items": [
      {
       "title": "SAP erwägt Abbau von mehr als 10.000 Stellen",
@@ -582,27 +616,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
-    "items": [
-     {
-      "title": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
-      "url": "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
-      "source": "The Guardian",
-      "date": "2026-11-27T08:39+00:00",
-      "teaser": "Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Podcast: are resignations next? Labour’s internal divisions over the giant Rosebank oilfield have spilled into the open, with nearly 100 Labour M"
-     },
-     {
-      "title": "92 Labour MPs call for Rosebank oilfield to be rejected",
-      "url": "https://www.ft.com/content/76befc28-cba3-4c9b-bdc3-cced4b304ab1?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-27T10:21+00:00",
-      "teaser": "Letter addressed to prime minister says approving the project would ‘permanently damage our climate credentials’"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.45,
     "items": [
      {
       "title": "SAP meldet verdächtige Aktivitäten",
@@ -622,7 +636,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.64,
+    "score": 2.52,
     "items": [
      {
       "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
@@ -642,7 +656,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.5,
+    "score": 2.39,
     "items": [
      {
       "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
@@ -665,11 +679,37 @@
     "score": 1.99,
     "items": [
      {
+      "title": "Annika Steiner: „Wärmepumpen oder KI machen ein Gebäude nicht zukunftsfähig“",
+      "url": "https://www.handelsblatt.com/finanzen/immobilien/annika-steiner-waermepumpen-oder-ki-machen-ein-gebaeude-nicht-zukunftsfaehig/100271497.html",
+      "source": "Handelsblatt (Finanzen)",
+      "date": "2026-11-27T13:18+00:00",
+      "teaser": "Warum Technik allein als Lösung für nachhaltige Gebäude überschätzt wird, erklärt die Managerin bei Wüest Partner. Was es außerdem braucht und warum die Immobilienbranche mutiger sein sollte."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
       "title": "US tech stocks set to jump at open as volatile trading takes hold",
       "url": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "date": "2026-11-27T11:58+00:00",
+      "date": "2026-11-27T13:15+00:00",
       "teaser": "All-powerful AI trade has been eclipsed by wild swings in a market struggling to price future earnings"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Brexit bear traps for Labour, Tories and Reform",
+      "url": "https://www.ft.com/content/8de00d12-8965-41e0-929a-76e80b1ada8e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-27T13:13+00:00",
+      "teaser": "Plus, influencer row engulfs No 10"
      }
     ]
    },
@@ -678,76 +718,50 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Black Week: „Wer Schnäppchenjäger in der Black Week pauschal verurteilt, trifft auch Arme“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/black-week-warum-ist-die-rabattschlacht-so-beliebt-accg-201699913.html",
+      "title": "Uber sichert sich fast 90 Prozent der Anteile von Delivery Hero",
+      "url": "https://www.spiegel.de/wirtschaft/uber-sichert-sich-fast-90-prozent-der-anteile-von-delivery-hero-a-e3ce4aeb-2c38-4e99-9069-dc1159a62ca3#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-27T14:08+01:00",
+      "teaser": "Das US-Start-up Uber setzt seine aggressive Wachstumspolitik fort. Die milliardenschwere Übernahme des Berliner Essenskuriers Delivery Hero ist fast abgeschlossen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Dax aktuell: Dax legt weiter zu – Adidas und Puma unter Druck",
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-legt-weiter-zu-adidas-und-puma-unter-druck/100273204.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-27T12:56+00:00",
+      "teaser": "Die Erholung an den Märkten setzt sich weiter fort. Unterstützung kommt dabei aus Asien und von den US-Futures. Anleger greifen bei hiesigen Tech-Aktien zu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Tarifabschluss in der Metall- und Elektroindustrie: Das Herz der deutschen Wirtschaft schlägt noch",
+      "url": "https://www.spiegel.de/wirtschaft/tarifabschluss-in-der-metall-und-elektroindustrie-das-herz-der-deutschen-wirtschaft-schlaegt-noch-a-866a0dba-a8ab-471b-bdc7-ace99989afb2#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-27T13:54+01:00",
+      "teaser": "Nach erbitterten Auseinandersetzungen haben Arbeitgeber und IG Metall die Grundlage geschaffen, damit sich die deutsche Industrie erholen kann. Jetzt ist die Politik dran."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "EU-Haushalt: Zu denken gibt, wie dieser Gipfel gescheitert ist",
+      "url": "https://www.faz.net/aktuell/wirtschaft/eu-gipfel-mit-merz-und-macron-scheitern-nach-plan-201722832.html",
       "source": "FAZ",
-      "date": "2026-11-27T11:45+00:00",
-      "teaser": "Die Schnäppchenjagd ist so beliebt wie nie, obwohl sich die Durchschnittsersparnis in Grenzen hält. Die Konsumfachfrau Vera Klocke erklärt die Anziehungskraft der Black Week – und warum Moralisierung Fehl am Platz ist."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "French economy shrinks 0.2% in third quarter",
-      "url": "https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-27T11:38+00:00",
-      "teaser": "Quarterly GDP reduction was worse than initially estimated"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Business-Ticker: Ramona Pop verlässt Verbraucherzentrale Bundesverband",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ramona-pop-verlaesst-verbraucherzentrale-bundesverband-faz-200452404.html",
-      "source": "FAZ",
-      "date": "2026-11-27T11:32+00:00",
-      "teaser": "IG-Metall über Industrietarifabschluss: „Volkswagen sollte sich daran ein Beispiel nehmen“ +++ SAP: Haben „verdächtige Aktivitäten identifiziert“ +++ alle Neuigkeiten im Unternehmen-Liveblog"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Europe joins global stock market rally as AI trade rebounds - business live",
-      "url": "https://www.theguardian.com/business/live/2026/nov/27/uk-bank-tax-borrowers-savers-andrew-bailey-stocks-economy-businses-news-live-updates-latest",
-      "source": "The Guardian",
-      "date": "2026-11-27T11:33+00:00",
-      "teaser": "Rolling coverage of the latest economic and financial news It looks like it will be a strong open later in the US market – futures for the tech-heavy Nasdaq 100 are up 2.7% as optimism around the AI trade returns. Shares in the memory company SanDisk are up 11% in pre-market trading. Nvidia is up 4%"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Stocks Set to Rally at End of a Week of Wild Swings",
-      "url": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
-      "source": "New York Times",
-      "date": "2026-11-27T11:32+00:00",
-      "teaser": "Volatility has buffeted investors in an eventful but holiday-shortened series of trading sessions."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Japanese carmakers’ sales collapse amid China market plunge",
-      "url": "https://www.ft.com/content/f627ff39-58e4-4def-8e79-794d3dc2996b?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-27T11:31+00:00",
-      "teaser": "Nissan’s October sales in the country tumbled 67%, the lowest monthly figure since the Covid-19 pandemic"
+      "date": "2026-11-27T12:36+00:00",
+      "teaser": "Der abgebrochene Sondergipfel zum EU-Haushalt ist kein Drama. Ob sich die Staaten bis zum Jahresende einigen, ist leider nicht ausgemacht."
      }
     ]
    }
@@ -755,7 +769,7 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.99,
+    "score": 7.88,
     "favorite": true,
     "items": [
      {
@@ -769,7 +783,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.91,
+    "score": 7.8,
     "items": [
      {
       "title": "Joshua Kimmich: Warum seine Verteidigung Jamal Musiala beim FC Bayern München stärkt",
@@ -796,7 +810,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.63,
+    "score": 7.52,
     "favorite": true,
     "items": [
      {
@@ -810,7 +824,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.49,
+    "score": 7.38,
     "favorite": true,
     "items": [
      {
@@ -824,7 +838,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.84,
+    "score": 5.73,
     "items": [
      {
       "title": "Europa League: Istanbul Beşiktaş gegen Hapoel Beer-Sheva wegen Ausschreitungen unterbrochen",
@@ -851,7 +865,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.55,
+    "score": 5.44,
     "items": [
      {
       "title": "Jamal Musiala: Oliver Kahn lobt Joshua Kimmich und kritisiert FC-Bayern-Bosse",
@@ -878,7 +892,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 4.43,
+    "score": 4.32,
     "items": [
      {
       "title": "Laura Freigang: 16 Monate Sperre für Nationalspielerin und die Folgen",
@@ -905,13 +919,13 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.97,
     "items": [
      {
-      "title": "Macron condemns Marseille violence; Olise adds to Bayern woes; Premier League latest – football live",
+      "title": "Macron condemns Marseille violence; Fernandes misses Manchester United training – football live",
       "url": "https://www.theguardian.com/football/live/2026/nov/27/premier-league-news-levski-fans-marseille-violence-football",
       "source": "The Guardian",
-      "date": "2026-11-27T11:46+00:00",
+      "date": "2026-11-27T13:05+00:00",
       "teaser": "⚽ All the latest football news going into the weekend ⚽ Fixtures | Tables | Ten things to look out for | Mail Niall Let’s stay in quiz mode. Plenty of football questions in our weekly offering. I got the first seven right and then fell apart – a bit like Manchester City. Here’s the latest edition of"
      },
      {
@@ -925,27 +939,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.97,
-    "items": [
-     {
-      "title": "Kritik an Bossen: Geldstrafe gegen Kimmich? „Nie ein Thema“ beim FC Bayern",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-freund-und-kompany-zu-kimmich-kritik-im-fall-musiala-accg-201723334.html",
-      "source": "FAZ",
-      "date": "2026-11-27T11:43+00:00",
-      "teaser": "Die Debatte um Jamal Musiala lässt den FC Bayern nicht los. Vor dem Spiel beim Hamburger SV ist die scharfe Kritik von Joshua Kimmich das große Thema. Nun reagieren der Sportdirektor und der Trainer."
-     },
-     {
-      "title": "Geldstrafe für Kimmich? Freund: \"Es war nie ein Thema\"",
-      "url": "https://www.kicker.de/geldstrafe-fuer-kimmich-freund-es-war-nie-ein-thema-1275575/video#omrss",
-      "source": "kicker",
-      "date": "2026-11-27T09:59+00:00",
-      "teaser": "Joshua Kimmich kritisierte die Bayern-Bosse für ihren öffentlichen Umgang mit Jamal Musiala. Sportdirektor Christoph Freund schloss eine Geldstrafe aus."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.75,
+    "score": 3.64,
     "items": [
      {
       "title": "Conference League: SC Freiburg-Kapitän Christian Günter fordert Rote Karte für Elfmeterpunkt-Sabotage",
@@ -965,14 +959,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.99,
     "items": [
      {
-      "title": "Fernsehverträge, Schadenersatz und juristische Fragen",
-      "url": "https://www.sportschau.de/fussball/amateurfussball/fernsehvertraege-schadenersatz-und-juristische-fragen,regionalliga-reform-190.html",
+      "title": "Livestream: Wintersport im Ersten",
+      "url": "https://www.sportschau.de/wintersport/wintersport-im-ersten,livestream-wintersport-im-ersten-114.html",
       "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-27T13:01+01:00",
-      "teaser": "Die Regionalliga-Reform erhitzt weiter die Gemüter: Die Befürworter des Kompassmodells warnen vor den wirtschaftlichen Folgen des alternativen 22/5-Modells für die Vereine der 3. Liga."
+      "date": "2026-11-27T14:13+01:00",
+      "teaser": "Der Wintersport im Ersten unter anderem mit Langlauf, Eiskunstlauf, Biathlon und Rodeln."
      }
     ]
    },
@@ -981,11 +975,24 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Brahim Diaz bindet sich bis 2031 an Real - Ex-Fortune Tanaka bleibt in Leeds",
-      "url": "https://www.kicker.de/transferticker-953155/artikel#omrss",
+      "title": "Deutscher Doppelsieg im Monobob - Durchwachsener Langlauf",
+      "url": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-27T14:19+01:00",
+      "teaser": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "\"Keine Gründe für Kritik\": El Mala stärkt Kölns Trainer Wagner",
+      "url": "https://www.kicker.de/keine-gruende-fuer-kritik-el-mala-staerkt-koelns-trainer-wagner-1275615/artikel#omrss",
       "source": "kicker",
-      "date": "2026-11-27T11:59+00:00",
-      "teaser": "Wer wechselt wohin? Wer ist wo im Gespräch? Wer verlängert? In unserem Transferticker bleibst du auf dem Laufenden."
+      "date": "2026-11-27T13:00+00:00",
+      "teaser": "Mit zehn Punkten nach zehn Spieltagen absolviert der 1. FC Köln bislang eine durchwachsene Saison. Doch Nationalspieler Said El Mala sieht keinerlei Gründe, Trainer René Wagner infrage zu stellen."
      }
     ]
    }
@@ -993,7 +1000,7 @@
   "Tech & KI": [
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.91,
     "items": [
      {
       "title": "The absolute best Black Friday deals we’ve found (so far)",
@@ -1003,17 +1010,17 @@
       "teaser": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’"
      },
      {
-      "title": "Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off",
-      "url": "https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-2026/",
+      "title": "Best Black Friday Google Pixel Deals (2026): Up to $400 Off",
+      "url": "https://www.wired.com/story/best-google-pixel-black-friday-deals-11-27-2026/",
       "source": "Wired",
-      "date": "2026-11-27T11:05+00:00",
-      "teaser": "Whether you’re shopping for a new Kindle or looking to break free from Amazon’s ecosystem, Black Friday is one of the best times to shop for a new e-reader."
+      "date": "2026-11-27T11:24+00:00",
+      "teaser": "Upgrade to the smartest Android smartphones. Google’s latest Pixel 11 phones are all on sale at their lowest prices to date for Black Friday."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.23,
+    "score": 3.11,
     "items": [
      {
       "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
@@ -1036,11 +1043,24 @@
     "score": 1.99,
     "items": [
      {
-      "title": "iPhone Duo: Apple bringt Gesichtserkennung per Software-Update",
-      "url": "https://t3n.de/news/iphone-duo-gesichtserkennung-software-update-1773891/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-27T12:55+01:00",
-      "teaser": "Das Fehlen von Face-ID ist einer der größten Kritikpunkte am iPhone Duo. Mit iOS 27.3 will Apple nun eine Gesichtserkennung nachliefern. Doch die hat ihre Grenzen. weiterlesen auf t3n.de"
+      "title": "Anzeige: Apple Airpods Pro 3 mit dritter Amazon-Preissenkung zum Black Friday",
+      "url": "https://www.golem.de/news/anzeige-apple-airpods-pro-3-mit-dritter-amazon-preissenkung-zum-black-friday-2611-215747.html",
+      "source": "Golem",
+      "date": "2026-11-27T14:20+01:00",
+      "teaser": "So günstig gab es Apples ANC-In-Ears Airpods Pro 3 noch nie bei Amazon. Auch bei anderen Händlern sind sie nicht preiswerter zu bekommen. ( Black Friday , Amazon )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "GTA 6: Rockstar-Mitarbeiter stimmen gegen Gewerkschaft",
+      "url": "https://www.golem.de/news/gta-6-rockstar-mitarbeiter-stimmen-gegen-gewerkschaft-2611-215749.html",
+      "source": "Golem",
+      "date": "2026-11-27T14:17+01:00",
+      "teaser": "Die Beschäftigten von Rockstar Games in Großbritannien haben gegen die Anerkennung einer Gewerkschaft gestimmt. Einige loben ihren Arbeitgeber. ( Rockstar , Spiele )"
      }
     ]
    },
@@ -1049,11 +1069,11 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Ökonomie: Forscher sieht 97-prozentige Wahrscheinlichkeit für KI-Blase",
-      "url": "https://www.golem.de/news/oekonomie-forscher-sieht-97-prozentige-wahrscheinlichkeit-fuer-ki-blase-2611-215732.html",
-      "source": "Golem",
-      "date": "2026-11-27T12:50+01:00",
-      "teaser": "Finanzblasen werden oft vorhergesagt. Ein Forscher will aus diesem Rauschen die reale Wahrscheinlichkeit schätzen können - und ist bei KI besorgt. ( Wirtschaft , Nvidia )"
+      "title": "Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale",
+      "url": "https://www.wired.com/story/unbound-merino-black-friday-sale-2026/",
+      "source": "Wired",
+      "date": "2026-11-27T13:10+00:00",
+      "teaser": "WIRED’s pick for the best travel T-shirt is on sale for Black Friday. Expand your merino wardrobe with these deals. Hurry though, the sale ends tonight."
      }
     ]
    },
@@ -1062,102 +1082,89 @@
     "score": 1.97,
     "items": [
      {
-      "title": "GTA 6 läuft bereits auf dem PC – aber Rockstar hat damit nichts zu tun",
-      "url": "https://t3n.de/news/gta-6-laeuft-bereits-auf-dem-pc-aber-rockstar-hat-damit-nichts-zu-tun-1775701/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "title": "Gedanken lesen und Krankheiten heilen: Diese Tech-Trends sieht der Amazon-Technikchef für 2027",
+      "url": "https://t3n.de/news/gedanken-lesen-und-krankheiten-heilen-diese-tech-trends-sieht-der-amazon-technikchef-fuer-2027-1775774/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n",
-      "date": "2026-11-27T12:45+01:00",
-      "teaser": "Bastler kommen mit der Portierung des Hitspiels von den Konsolen schneller voran als der Hersteller selbst. Zuvor war Code ins Netz entfleucht. weiterlesen auf t3n.de"
+      "date": "2026-11-27T14:00+01:00",
+      "teaser": "Seit Jahren wagt Technikchef Werner Vogels immer zum Jahreswechsel einen Ausblick in die technologische Zukunft – und hat oft recht behalten. In diesem Jahr schaut der Visionär vor allem auf die Neurowissenschaften und das Lesen von Gedanken. weiterlesen auf t3n.de"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.97,
     "items": [
      {
-      "title": "Bodeneffekt: Batteriebetriebener Seegleiter soll Fähren ersetzen",
-      "url": "https://www.golem.de/news/bodeneffekt-batteriebetriebener-seegleiter-soll-faehren-ersetzen-2611-215738.html",
-      "source": "Golem",
-      "date": "2026-11-27T12:35+01:00",
-      "teaser": "Dank Bodeneffekt, großer Tragflächen und Leichtbau soll sich der Gleiter schneller und vor allem effizienter als eine Fähre auf Wasser bewegen. ( Flugzeug , Akku )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Bewusstseins-Debatte über Anthropics KI: Warum dieser Philosoph einem Trugschluss aufsitzt",
-      "url": "https://t3n.de/news/bewusstseins-debatte-ueber-anthropics-ki-warum-dieser-philosoph-einem-trugschluss-aufsitzt-1775582/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-27T12:30+01:00",
-      "teaser": "Es ist eigentlich ein Drahtseilakt, den Anthropic vollführt: Das KI-Unternehmen warnt Investoren vor Sprachmodellen mit Bewusstsein, treibt diese Entwicklung ab weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
-      "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
-      "source": "Ars Technica",
-      "date": "2026-11-27T11:30+00:00",
-      "teaser": "We polled the Ars staff about their favorite pickups this year; here's the list."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "The SE 3 is the Apple Watch most people should buy on Black Friday",
-      "url": "https://www.theverge.com/gadgets/1040313/apple-watch-se-3-black-friday-2026-deal-sale",
+      "title": "Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending",
+      "url": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
       "source": "The Verge",
-      "date": "2026-11-27T06:30-05:00",
-      "teaser": "During Black Friday, the Apple Watch SE 3 is on sale in the 40mm / GPS configuration at Amazon, Walmart, and Target starting around $179 ($70 off), $20 less than its previous lowest price. The 44mm variant, meanwhile, is on sale at Amazon, Walmart, and Target starting at around $209 (also $70 off), "
+      "date": "2026-11-27T08:00-05:00",
+      "teaser": "In most Grand Theft Auto games, and most open-world games for that matter, the world is left open for you to explore once the credits roll. It could be Los Santos or a twisted take on Manhattan, but the idea is that the main story is just one part of the experience. After that's done, […]"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.93,
     "items": [
      {
-      "title": "Welcome to the Repair Café, Where Neighbors Fight Throwaway Culture",
-      "url": "https://www.wired.com/story/welcome-to-the-repair-cafe-where-neighbors-fight-throw-away-culture/",
-      "source": "Wired",
-      "date": "2026-11-27T11:30+00:00",
-      "teaser": "In church basements and warehouses, Americans are building cozy yet radical spaces to encourage each other to fix broken items instead of throwing them away."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
-    "items": [
-     {
-      "title": "Astra und Sol: Nach OpenAI-Panne werden Nutzungslimits schneller erreicht",
-      "url": "https://www.golem.de/news/astra-und-sol-nach-openai-panne-werden-nutzungslimits-schneller-erreicht-2611-215737.html",
+      "title": "(g+) Datensicherheit unter Linux: Cloudspeicher nutzen, ohne dem Anbieter vertrauen zu müssen",
+      "url": "https://www.golem.de/news/datensicherheit-unter-linux-cloudspeicher-nutzen-ohne-dem-anbieter-vertrauen-zu-muessen-2611-215699.html",
       "source": "Golem",
-      "date": "2026-11-27T12:20+01:00",
-      "teaser": "Die Modelle GPT-6.2 Astra und Sol wurden seit ihrer Einführung durch OpenAI falsch abgerechnet. ( KI , Wirtschaft )"
+      "date": "2026-11-27T13:30+01:00",
+      "teaser": "Vier freie Verschlüsselungstools schützen vertrauliche Dateien mit digitalen Tresoren. Wir zeigen, welche Lösung sich für wen eignet. Ein Ratgebertext von Erik Bärwaldt ( Linux , Verschlüsselung )"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.93,
     "items": [
      {
-      "title": "Aufwind für Sammelklage: Weiteres Gericht erklärt Vodafone-Preiserhöhungsklausel für unwirksam",
-      "url": "https://www.golem.de/news/aufwind-fuer-sammelklage-weiteres-gericht-erklaert-vodafone-preiserhoehungsklausel-fuer-unwirksam-2611-215736.html",
+      "title": "Our favorite headphones and earbuds are cheaper than ever for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
+      "source": "The Verge",
+      "date": "2026-11-27T05:30-05:00",
+      "teaser": "If you haven’t already caved and bought a fresh set of wireless earbuds, over-ear headphones, or bone conduction headphones this year, Black Friday is rewarding you with a colossal amount of deals, including discounts on the best models available. Apple, Beats, Soundcore, Sony, Nothing, and other ma"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Einschränkungen bei T-online-Mail: Telekom blockiert IMAP- und POP3-Zugriffe aus dem Ausland",
+      "url": "https://www.golem.de/news/einschraenkungen-bei-t-online-mail-telekom-blockiert-imap-und-pop3-zugriffe-aus-dem-ausland-2611-215740.html",
       "source": "Golem",
-      "date": "2026-11-27T12:04+01:00",
-      "teaser": "Verbraucherschützer feiern den Erfolg gegen Vodafone und sehen das als gutes Signal für die laufende Sammelklage. Betroffene können so Geld zurückerhalten. ( Vodafone , Verbraucherschutz )"
+      "date": "2026-11-27T13:20+01:00",
+      "teaser": "Wer sein T-online.de-Postfach aus dem Ausland über externe Mailprogramme abrufen will, scheitert. Die Deutsche Telekom bestätigt die Einschränkung. ( Telekom , Server )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
+    "items": [
+     {
+      "title": "Anzeige: Ryzen 7 7800X3D Prozessor zum Bestpreis bei Amazon",
+      "url": "https://www.golem.de/news/anzeige-ryzen-7-7800x3d-prozessor-zum-bestpreis-bei-amazon-2611-215742.html",
+      "source": "Golem",
+      "date": "2026-11-27T13:09+01:00",
+      "teaser": "Amazon verkauft den Ryzen 7 7800X3D für rund 270 Euro im Black Friday Angebot. Günstiger ist der Prozessor nirgendwo sonst. ( Black Friday , Prozessor )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "NFS2Root: 12 Jahre alter Kernel-Bug gewährt Root-Zugriff unter Linux",
+      "url": "https://www.golem.de/news/nfs2root-12-jahre-alter-kernel-bug-gewaehrt-root-zugriff-unter-linux-2611-215735.html",
+      "source": "Golem",
+      "date": "2026-11-27T13:05+01:00",
+      "teaser": "Eine kritische Sicherheitslücke gefährdet unzählige Linux-Systeme. Angreifer können per NFS Schadcode einschleusen und gleich als Root ausführen. ( Sicherheitslücke , Ubuntu )"
      }
     ]
    }
@@ -1492,7 +1499,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "topic": "Tech & KI",
@@ -1522,7 +1529,7 @@
    "topic": "Tech & KI",
    "source": "Ars Technica",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Tech & KI",
