@@ -1,18 +1,11 @@
 {
- "fetchedAt": "2026-11-28T01:22:34+00:00",
+ "fetchedAt": "2026-11-28T02:58:51+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 5,
-    "score": 9.66,
+    "sourceCount": 4,
+    "score": 7.53,
     "items": [
-     {
-      "title": "Canada’s top court upholds Quebec ban on religious symbols for public servants",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants",
-      "source": "South China Morning Post",
-      "date": "2026-11-27T20:25+00:00",
-      "teaser": "Canada’s Supreme Court on Friday upheld Quebec’s ban on religious symbols for public servants, prompting rights groups to warn the ruling unfairly targets Muslim women and weakens legal protections for fundamental rights. The decision is a political win for Quebec’s sovereigntist government and coul"
-     },
      {
       "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
       "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
@@ -26,32 +19,19 @@
       "source": "PBS NewsHour",
       "date": "2026-11-27T15:48-05:00",
       "teaser": "The 2019 law, known as Bill 21, bans religious symbols — including Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses — for workers covered by it."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.94,
-    "items": [
-     {
-      "title": "Thanksgiving storm on U.S. East Coast knocks out power, disrupts flights",
-      "url": "https://www.cbc.ca/news/world/u-s-thanksgiving-storm-power-flight-delays-9.7438358?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-27T04:57-05:00",
-      "teaser": "A powerful storm disrupted the Thanksgiving holiday along much of the U.S. East Coast on Thursday, knocking out power to nearly one million customers at one point as wind gusts of up to 112 km/h toppled trees and power lines."
      },
      {
-      "title": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
-      "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-28T00:35+00:00",
-      "teaser": "Conditions continued to improve on Friday after heavy rain and strong winds lashed the coast from Virginia to New York. But many remained without power and travel disruptions persisted."
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-27T16:53+00:00",
+      "teaser": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights."
      }
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 3.9,
+    "sourceCount": 3,
+    "score": 5.89,
     "items": [
      {
       "title": "Costa Rica verweigert Francesca Albanese die Einreise",
@@ -59,6 +39,13 @@
       "source": "Spiegel",
       "date": "2026-11-27T17:01+01:00",
       "teaser": "Terrorverdacht oder politische Abrechnung? Costa Rica verbietet einer israelkritischen Uno-Sonderberichterstatterin die Einreise und verweist auf »Verbindungen zu terroristischen Handlungen«. Es laufen mehrere Beschwerden."
+     },
+     {
+      "title": "UN rapporteur Francesca Albanese denied entry at Costa Rica Airport",
+      "url": "https://www.abc.net.au/news/2026-11-28/francesca-albanese-detained-at-costa-rica-airport/107437818",
+      "source": "ABC Australia",
+      "date": "2026-11-28T01:39+00:00",
+      "teaser": "The high-profile independent investigator, who was invited to Costa Rica to receive an honorary degree, is spending her second night stranded at the airport while a petition to enter the country is pending."
      },
      {
       "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
@@ -71,27 +58,87 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.6,
+    "score": 3.93,
     "items": [
      {
-      "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
-      "url": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-26T14:51+01:00",
-      "teaser": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert. Bei dem Unglück kam ein Seemann ums Leben."
+      "title": "Thanksgiving storm on U.S. East Coast knocks out power, disrupts flights",
+      "url": "https://www.cbc.ca/news/world/u-s-thanksgiving-storm-power-flight-delays-9.7438358?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-27T04:57-05:00",
+      "teaser": "A powerful storm disrupted the Thanksgiving holiday along much of the U.S. East Coast on Thursday, knocking out power to nearly one million customers at one point as wind gusts of up to 112 km/h toppled trees and power lines."
      },
      {
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-27T20:34+00:00",
-      "teaser": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact."
+      "title": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
+      "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-28T02:11+00:00",
+      "teaser": "Conditions continued to improve on Friday after heavy rain and strong winds lashed the coast from Virginia to New York. But many remained without power and travel disruptions persisted."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 2.4,
+    "score": 3.75,
+    "items": [
+     {
+      "title": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade",
+      "url": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
+      "source": "The Hindu",
+      "date": "2026-11-28T01:05+05:30",
+      "teaser": "Mohammad Mokhber, an adviser to ⁠Iran’s Supreme Leader Ayatollah Mojtaba Khamenei, said: “Neither will the Strait of Hormuz be ‌reopened, nor will we allow the blockade to remain in place,” Iranian state media reported"
+     },
+     {
+      "title": "US disables ship attempting to breach Iran blockade",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-27T23:55+00:00",
+      "teaser": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.74,
+    "items": [
+     {
+      "title": "Son of Hamas chief survived Israeli strike, group says",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3376106/son-hamas-chief-survives-israeli-strike-group-says",
+      "source": "South China Morning Post",
+      "date": "2026-11-27T23:52+00:00",
+      "teaser": "The son of Hamas ⁠chief Khalil al-Hayya survived an assassination attempt ⁠by the Israeli military on Friday, senior Hamas official ⁠Basem Naim said. He said that Izzeldeen al-Hayya and his family had survived a dawn air strike and Hamas sources said several people, including Hayya’s daughter-in-law"
+     },
+     {
+      "title": "Hamas says Israel tried to kill chief’s son in Gaza",
+      "url": "https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece",
+      "source": "The Hindu",
+      "date": "2026-11-28T03:48+05:30",
+      "teaser": "‘Izz al-Din al-Hayya, the youngest surviving son of Hamas political bureau chief Khalil al-Hayya, along with his family and the family of his late brother Azzam, survived an Israeli assassination attempt,’ a security source in Gaza told AFP"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.68,
+    "items": [
+     {
+      "title": "Schwerer Sturm sorgt in den USA an Thanksgiving für massive Einschränkungen",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-27T07:55+01:00",
+      "teaser": "Gestrichene Flüge, Stromausfälle und Überschwemmungen: Ausgerechnet an Thanksgiving haben Starkregen und heftige Winde in vielen Teilen der USA für Chaos gesorgt. In einigen Bundesstaaten gilt der Notstand."
+     },
+     {
+      "title": "Thanksgiving-Sturm in den USA: Hunderttausende ohne Strom",
+      "url": "https://www.dw.com/de/thanksgiving-sturm-in-den-usa-hunderttausende-ohne-strom/a-80073073?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-27T11:11+00:00",
+      "teaser": "Ausgerechnet die 100. Ausgabe der New Yorker Thanksgiving-Parade musste wegen starker Windböen verschoben werden. Hunderte Flüge fielen aus, entlang der Ostküste gab es Überschwemmungen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.27,
     "items": [
      {
       "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
@@ -111,92 +158,66 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "2 American Airlines Jets Clip Wings at Reagan Airport",
+      "url": "https://www.nytimes.com/2026/11/27/us/wings-clipped-american-reagan-airport.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-28T02:55+00:00",
+      "teaser": "No injuries were reported after two Boeing 737s made contact while taxiing at the airport outside Washington, D.C., during the busy Thanksgiving holiday weekend."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
     "items": [
      {
       "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian",
-      "date": "2026-11-28T01:02+00:00",
+      "date": "2026-11-28T02:46+00:00",
       "teaser": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all of our Victorian sta"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Trade, gold and culture: Russian envoy pushes for closer ties with Hong Kong",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3376084/trade-gold-and-culture-russian-envoy-pushes-closer-ties-hong-kong",
-      "source": "South China Morning Post",
-      "date": "2026-11-28T01:00+00:00",
-      "teaser": "Russian businesses in Hong Kong are finding ways to overcome hurdles brought about by Western-led sanctions, the country’s top diplomat in the city has said, noting that the issue is part of an “ongoing dialogue” with authorities and he hopes more Russian cultural events will take centre stage in th"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "As convenience stores face pressure, 7-Eleven set to open largest China outlet in Kunming",
-      "url": "https://www.scmp.com/business/companies/article/3376061/convenience-stores-face-pressure-7-eleven-set-open-largest-china-outlet-kunming",
-      "source": "South China Morning Post",
-      "date": "2026-11-28T01:00+00:00",
-      "teaser": "Convenience store giant 7-Eleven is expected to open its biggest outlet in China in Kunming, the capital of southwestern Yunnan province, next month. About 20 times larger than one of its regular shops, the 1,800 square metre (19,375 square foot) 7-Market store near the Dianchi Convention and Exhibi"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-28T00:56+00:00",
-      "teaser": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.98,
     "items": [
      {
       "title": "Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them",
       "url": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html",
       "source": "New York Times (USA)",
-      "date": "2026-11-28T00:43+00:00",
+      "date": "2026-11-28T02:46+00:00",
       "teaser": "Decisions on voting rights, immigration and corruption generated a backlash that helped spur turnout that drove the Democratic sweep of Congress."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.98,
     "items": [
      {
-      "title": "Police investigating death of 47yo man in remote NT town",
-      "url": "https://www.abc.net.au/news/2026-11-28/police-investigate-death-pine-creek-nt/107437938",
+      "title": "Calls for AI road signs after increased cassowary road deaths",
+      "url": "https://www.abc.net.au/news/2026-11-28/calls-for-cassowary-ai-signs-amid-deaths/107435502",
       "source": "ABC Australia",
-      "date": "2026-11-28T00:32+00:00",
-      "teaser": "Police are investigating the death of a 47-year-old man south-east of Darwin after an alleged altercation with another man."
+      "date": "2026-11-28T02:43+00:00",
+      "teaser": "Cassowary advocates in Far North Queensland are questioning why a successful AI road sign trial hasn't been rolled out, as road deaths of the endangered bird almost double this year."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.97,
     "items": [
      {
-      "title": "A Journalist Fights for Free Speech in Egypt, and to Stay Out of Jail",
-      "url": "https://www.nytimes.com/2026/11/27/world/middleeast/egypt-journalist-trial-lina-attalah-mada-masr.html",
-      "source": "New York Times",
-      "date": "2026-11-28T00:21+00:00",
-      "teaser": "The fate of Lina Attalah and her news outlet, Mada Masr, in two court cases is seen as a test of whether the country’s independent press can survive."
+      "title": "Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction",
+      "url": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-28T02:33+00:00",
+      "teaser": "President Trump will lose control over the National Capital Planning Commission after Democrats take control of Congress in January. It could give final approval to some of his prized projects."
      }
     ]
    }
@@ -204,7 +225,7 @@
   "Deutschland": [
    {
     "sourceCount": 4,
-    "score": 7.26,
+    "score": 7.13,
     "items": [
      {
       "title": "Streit um Rentenreform: Arbeitsminister Schweitzer optimistisch",
@@ -231,7 +252,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.14,
+    "score": 3.88,
+    "items": [
+     {
+      "title": "Bundespolitik: Klimawandel: Umweltminister plädiert für Umbau am Rhein",
+      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-klingbeil-einkommensteuer-haushalt-rente-mit-63-umweltschutz-kiima-li.3473361",
+      "source": "Süddeutsche",
+      "date": "2026-11-28T01:35+00:00",
+      "teaser": "Der Fluss soll den Güterverkehr auch in Dürrezeiten sichern. Umweltminister Carsten Schneider geht es nicht nur um eine Vertiefung der Fahrrinne, sondern auch um Wasserspeicherung."
+     },
+     {
+      "title": "Rhein: Umweltminister setzt sich für Umbau des Rheins ein",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/rhein-umbau-klimawandel-gueterverkehr-carsten-schneider",
+      "source": "Zeit",
+      "date": "2026-11-28T01:30+00:00",
+      "teaser": "Carsten Schneider will dem Rhein mehr Platz geben, statt ihn zu vertiefen. Mit Blick auf die Kosten erinnert der Umweltminister an hitzebedingte Wirtschaftseinbußen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.0,
     "items": [
      {
       "title": "News: Bundestag stimmt über umstrittenen Haushalt 2027 ab, Black Friday, Tech-Bros",
@@ -251,7 +292,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.07,
+    "score": 2.94,
     "items": [
      {
       "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
@@ -271,7 +312,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.72,
     "items": [
      {
       "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
@@ -284,7 +325,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.69,
     "items": [
      {
       "title": "Rentenreform: Heidi Reichinnek kritisiert Rentenpläne als »Kürzungsprogramm«",
@@ -297,7 +338,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.67,
     "items": [
      {
       "title": "Schweitzer: Renten-Vorschlag \"nicht ganz ohne Schmerzen\"",
@@ -310,7 +351,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.62,
     "items": [
      {
       "title": "USA: Noch immer Hunderttausende nach Sturm ohne Strom",
@@ -323,7 +364,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.73,
+    "score": 1.6,
     "items": [
      {
       "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
@@ -336,20 +377,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
-    "items": [
-     {
-      "title": "Die Gästeliste der Kaulitz-Brüder",
-      "url": "https://www.zdfheute.de/video/panorama-wetten-dass-promi-gaeste-kaulitz-brueder-100.html",
-      "source": "ZDF",
-      "date": "2026-11-27T22:00+01:00",
-      "teaser": "Am 5. Dezember moderieren Bill und Tom Kaulitz „Wetten, dass..?“. Jetzt steht fest, welche Prominenten alle in der Show zu Gast sein werden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.51,
     "items": [
      {
       "title": "Mann soll Ex-Freundin auf Pferdekoppel getötet haben",
@@ -362,7 +390,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.61,
+    "score": 1.5,
+    "items": [
+     {
+      "title": "Die Gästeliste der Kaulitz-Brüder",
+      "url": "https://www.zdfheute.de/video/panorama-wetten-dass-promi-gaeste-kaulitz-brueder-100.html",
+      "source": "ZDF",
+      "date": "2026-11-27T22:00+01:00",
+      "teaser": "Am 5. Dezember moderieren Bill und Tom Kaulitz „Wetten, dass..?“. Jetzt steht fest, welche Prominenten alle in der Show zu Gast sein werden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.47,
     "items": [
      {
       "title": "Warum der einst \"größte Ladepark der Welt\" in Merklingen kaum genutzt wird",
@@ -372,25 +413,12 @@
       "teaser": "Der Ladepark am Bahnhalt in Merklingen wurde 2023 als der größte Ladepark der Welt eröffnet. Nach drei Jahren wird er von E-Auto-Fahrern weitgehend ignoriert. Aber woran liegt das?"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.59,
-    "items": [
-     {
-      "title": "Zugang zu Kitas: Unwürdiges Feilschen um die frühe Bildung",
-      "url": "https://www.faz.net/aktuell/politik/inland/kita-plaetze-warum-armutsgefaehrdete-kinder-oft-leer-ausgehen-201719382.html",
-      "source": "FAZ",
-      "date": "2026-11-27T20:27+00:00",
-      "teaser": "Kinder ohne Deutschkenntnisse finden oft keinen Kita-Platz. Währenddessen verrennen sich Bund und Länder im Feilschen um das Qualitätsgesetz."
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.61,
     "items": [
      {
       "title": "Pomogli Niemcy: Polscy koszykarze jadą na mistrzostwa świata",
@@ -403,7 +431,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.73,
+    "score": 1.59,
     "items": [
      {
       "title": "Atak Ukrainy na okręt w Libii odstraszył rosyjski konwój z pojazdami wojskowymi",
@@ -416,7 +444,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.69,
+    "score": 1.56,
     "items": [
      {
       "title": "Troje młodych ludzi zginęło w wypadku w Łomiankach. Kierowca uciekł. Jest akt oskarżenia",
@@ -429,7 +457,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.5,
     "items": [
      {
       "title": "President vetoes Polish government’s middle-class tax cuts",
@@ -442,7 +470,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.5,
     "items": [
      {
       "title": "Marine Le Pen grozi mediom. Po wygranej zakaże publikacji z tajemnicy śledztwa",
@@ -455,7 +483,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.62,
+    "score": 1.49,
     "items": [
      {
       "title": "Liderka AfD mówiła o \"zamachu stanu\" w Ukrainie. Sikorski: Powtarza rosyjskie kłamstwa",
@@ -468,7 +496,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.61,
+    "score": 1.48,
     "items": [
      {
       "title": "Podejrzany o wysadzenie Nord Stream znów wygrywa w sądzie. Tym razem w Chorwacji",
@@ -481,7 +509,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.59,
+    "score": 1.45,
     "items": [
      {
       "title": "Chińska rakieta przeleci nad Polską. Jej fragmenty mogą spaść na Ziemię. \"Śledź komunikaty\"",
@@ -494,7 +522,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.55,
+    "score": 1.42,
     "items": [
      {
       "title": "Grupa Wagnera podbija afrykański rynek tanim alkoholem. Przełamuje francuski monopol",
@@ -507,7 +535,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.54,
+    "score": 1.41,
     "items": [
      {
       "title": "Poland signs $300m deal with Palantir for AI-powered battlefield software platform",
@@ -520,7 +548,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.54,
+    "score": 1.4,
     "items": [
      {
       "title": "Przywódcy UE gotowi na starcie z Trumpem. \"Co mamy do stracenia?\"",
@@ -533,7 +561,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.5,
+    "score": 1.36,
     "items": [
      {
       "title": "Sikorski odpowiada liderce AfD. „W Kijowie nie było żadnego zamachu stanu”",
@@ -548,7 +576,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.77,
+    "score": 3.64,
     "items": [
      {
       "title": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
@@ -568,7 +596,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.05,
+    "score": 2.92,
     "items": [
      {
       "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
@@ -588,7 +616,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.82,
+    "score": 2.68,
     "items": [
      {
       "title": "SAP erwägt Abbau von mehr als 10.000 Stellen",
@@ -608,7 +636,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.45,
+    "score": 2.32,
     "items": [
      {
       "title": "SAP meldet verdächtige Aktivitäten",
@@ -628,7 +656,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.84,
     "items": [
      {
       "title": "The Chinese car champion turning to police and nurse robots",
@@ -641,7 +669,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.82,
     "items": [
      {
       "title": "NBC Pulls an Ad That Some Described as Antisemitic",
@@ -654,7 +682,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.74,
     "items": [
      {
       "title": "Künstliche Intelligenz: OpenAI reicht im KI-Wettkampf Gegenklage gegen Apple ein",
@@ -667,7 +695,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.74,
     "items": [
      {
       "title": "The ‘diehard separatist’ shaking up Taipei’s election",
@@ -680,7 +708,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.69,
     "items": [
      {
       "title": "South Africa’s credit rating upgraded after years of economic stagnation",
@@ -693,7 +721,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.67,
     "items": [
      {
       "title": "OpenAI countersues Apple for stealing trade secrets",
@@ -706,20 +734,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "Schuldenkrise: Hohe Schulden, Politikrisiken: S&P droht Frankreich mit Abstufung",
-      "url": "https://www.handelsblatt.com/politik/international/schuldenkrise-hohe-schulden-politikrisiken-sp-droht-frankreich-mit-abstufung/100273395.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-27T22:40+00:00",
-      "teaser": "Sozialproteste für höhere Löhne und gegen Sozialkürzungen und in wenigen Monaten eine Präsidentschaftswahl. Dazu kommen historisch hohe Schulden – und die könnten künftig noch teurer werden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
+    "score": 1.65,
     "items": [
      {
       "title": "S&P cuts France outlook to negative",
@@ -729,12 +744,25 @@
       "teaser": "Rating agency says political instability will make it harder for the country to tackle its public deficit"
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.64,
+    "items": [
+     {
+      "title": "Schuldenkrise: Hohe Schulden, Politikrisiken: S&P droht Frankreich mit Abstufung",
+      "url": "https://www.handelsblatt.com/politik/international/schuldenkrise-hohe-schulden-politikrisiken-sp-droht-frankreich-mit-abstufung/100273395.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-27T22:40+00:00",
+      "teaser": "Sozialproteste für höhere Löhne und gegen Sozialkürzungen und in wenigen Monaten eine Präsidentschaftswahl. Dazu kommen historisch hohe Schulden – und die könnten künftig noch teurer werden."
+     }
+    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.84,
+    "score": 7.71,
     "favorite": true,
     "items": [
      {
@@ -748,7 +776,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.8100000000000005,
+    "score": 7.68,
     "favorite": true,
     "items": [
      {
@@ -762,7 +790,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.46,
+    "score": 7.33,
     "favorite": true,
     "items": [
      {
@@ -776,7 +804,7 @@
    },
    {
     "sourceCount": 3,
-    "score": 5.14,
+    "score": 5.0,
     "items": [
      {
       "title": "Jamal Musiala: Oliver Kahn lobt Joshua Kimmich und kritisiert FC-Bayern-Bosse",
@@ -803,7 +831,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.81,
+    "score": 3.68,
     "items": [
      {
       "title": "Die Sportschau vom Freitag mit Bremen gegen Mönchengladbach",
@@ -823,7 +851,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.78,
+    "score": 3.65,
     "items": [
      {
       "title": "Fußball-Bundesliga: Niclas Füllkrug rettet Werder Bremen spät Punkt gegen Gladbach",
@@ -843,7 +871,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.24,
+    "score": 3.11,
     "items": [
      {
       "title": "Renée Slegers leaves job as Arsenal Women’s coach after dismal run of results",
@@ -863,7 +891,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.17,
+    "score": 3.03,
     "items": [
      {
       "title": "Nächster Rückschlag: Bayerns Musiala erneut verletzt",
@@ -883,20 +911,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Mohya kritisiert \"Nachlässigkeiten\" - und sieht \"total ärgerliches\" Remis",
-      "url": "https://www.kicker.de/mohya-kritisiert-nachlaessigkeiten-und-sieht-total-aergerliches-remis-1275760/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-27T22:57+00:00",
-      "teaser": "Gladbach war in Bremen lange das bessere Team und führte schon mit 3:1, ehe die Fohlen den Sieg noch aus der Hand gaben. Wieder einmal wurden späte Gegentore zum Problem. Im Abstiegskampf wird das zur gefährlichen Hypothek für die Borussia."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
+    "score": 1.67,
     "items": [
      {
       "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
@@ -909,7 +924,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.78,
+    "score": 1.66,
+    "items": [
+     {
+      "title": "Mohya kritisiert \"Nachlässigkeiten\" - und sieht \"total ärgerliches\" Remis",
+      "url": "https://www.kicker.de/mohya-kritisiert-nachlaessigkeiten-und-sieht-total-aergerliches-remis-1275760/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-27T22:57+00:00",
+      "teaser": "Gladbach war in Bremen lange das bessere Team und führte schon mit 3:1, ehe die Fohlen den Sieg noch aus der Hand gaben. Wieder einmal wurden späte Gegentore zum Problem. Im Abstiegskampf wird das zur gefährlichen Hypothek für die Borussia."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.65,
     "items": [
      {
       "title": "Füllkrug: \"Jetzt kam es so, dass ich durchspielen durfte - toll!\"",
@@ -922,7 +950,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.63,
     "items": [
      {
       "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
@@ -937,14 +965,14 @@
   "Tech & KI": [
    {
     "sourceCount": 4,
-    "score": 7.95,
+    "score": 7.88,
     "items": [
      {
-      "title": "The absolute best Black Friday deals we’ve found (so far)",
-      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
       "source": "The Verge",
-      "date": "2026-11-27T19:44-05:00",
-      "teaser": "This year's Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we've seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can'"
+      "date": "2026-11-27T20:30-05:00",
+      "teaser": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of gre"
      },
      {
       "title": "Anzeige: Schwenkbare Überwachungskamera am Black Friday für unter 20 Euro",
@@ -964,7 +992,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.12,
+    "score": 1.98,
     "items": [
      {
       "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
@@ -984,7 +1012,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-28T01:30+00:00",
+      "teaser": "With an official PC version potentially still months away, fans are getting impatient."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.83,
     "items": [
      {
       "title": "Tech Now",
@@ -997,20 +1038,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
-      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "date": "2026-11-27T19:30-05:00",
-      "teaser": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.76,
     "items": [
      {
       "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
@@ -1023,7 +1051,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.74,
     "items": [
      {
       "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
@@ -1036,7 +1064,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.71,
     "items": [
      {
       "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
@@ -1049,7 +1077,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.71,
+    "items": [
+     {
+      "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+      "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "date": "2026-11-27T18:32-05:00",
+      "teaser": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.71,
     "items": [
      {
       "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
@@ -1062,7 +1103,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.71,
     "items": [
      {
       "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
@@ -1075,7 +1116,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.76,
+    "score": 1.63,
     "items": [
      {
       "title": "The new iPad Mini is getting its first major discount for Black Friday",
@@ -1088,7 +1129,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.71,
+    "score": 1.57,
     "items": [
      {
       "title": "Allstate has been suffering an outage since Monday",
@@ -1096,19 +1137,6 @@
       "source": "The Verge",
       "date": "2026-11-27T16:52-05:00",
       "teaser": "On Monday, November 23rd, Allstate began dealing with an outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffer an outage in the last few weeks. As of Friday afternoon, access to accounts thr"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.51,
-    "items": [
-     {
-      "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
-      "url": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
-      "source": "Wired",
-      "date": "2026-11-27T19:26+00:00",
-      "teaser": "We found deals on diapers, paper towels, and toys for yourself or your community this holiday season."
      }
     ]
    }
@@ -1173,13 +1201,13 @@
    "topic": "Welt & Politik",
    "source": "New York Times (Politik)",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Welt & Politik",
    "source": "NPR",
    "ok": true,
-   "items": 5
+   "items": 3
   },
   {
    "topic": "Welt & Politik",
@@ -1220,9 +1248,8 @@
   {
    "topic": "Welt & Politik",
    "source": "The Hindu",
-   "ok": false,
-   "items": 0,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "items": 10
   },
   {
    "topic": "Welt & Politik",
@@ -1288,7 +1315,7 @@
    "topic": "Polen",
    "source": "Notes from Poland",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "topic": "Polen",
@@ -1390,13 +1417,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 9
+   "items": 8
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Sport",
@@ -1444,7 +1471,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 6
+   "items": 5
   },
   {
    "topic": "Tech & KI",
@@ -1462,7 +1489,7 @@
    "topic": "Tech & KI",
    "source": "BBC",
    "ok": true,
-   "items": 3
+   "items": 4
   },
   {
    "topic": "Tech & KI",
