@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-28T11:55:11+00:00",
+ "fetchedAt": "2026-11-28T13:05:57+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 4,
-    "score": 7.98,
+    "sourceCount": 6,
+    "score": 11.98,
     "items": [
      {
       "title": "Afghanistan school explosion kills 7 pupils, over 90 injured",
@@ -14,24 +14,24 @@
       "teaser": "An explosion near a school in Afghanistan’s northeastern Kunar province killed seven students and injured up ‌to 99 others on Saturday, a spokesperson for the Taliban Interior Ministry said. Preliminary reports indicated the explosion originated at a depot storing explosives belonging to mining ⁠com"
      },
      {
+      "title": "Explosion at a middle school in Afghanistan kills at least 7, injures more than 90",
+      "url": "https://www.cbc.ca/news/world/afghanistan-school-explosion-9.7440205?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-28T05:29-05:00",
+      "teaser": "An explosion at a school in the eastern Afghan province of Kunar Saturday killed seven people and wounded more than 90, the province’s culture and information director said, adding that the blast appeared to have originated in a neighbouring depot for explosives."
+     },
+     {
       "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
       "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-28T11:18+00:00",
+      "date": "2026-11-28T12:49+00:00",
       "teaser": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby."
-     },
-     {
-      "title": "Explosion at Afghanistan school kills seven students, wounds 97 people",
-      "url": "https://www.abc.net.au/news/2026-11-28/explosion-at-afghanistan-school/107438626",
-      "source": "ABC Australia",
-      "date": "2026-11-28T11:43+00:00",
-      "teaser": "An explosion at a school in Afghanistan has killed seven students and wounded more than 90 people, officials say."
      }
     ]
    },
    {
-    "sourceCount": 4,
-    "score": 7.98,
+    "sourceCount": 3,
+    "score": 5.88,
     "items": [
      {
       "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
@@ -48,17 +48,17 @@
       "teaser": "MSF said the two men, who worked as security guards at a clinic, were killed in “a direct hit”, while the Israeli army called them Hamas “terrorists”"
      },
      {
-      "title": "Israeli air strike on Doctors Without Borders Gaza office kills two",
-      "url": "https://www.abc.net.au/news/2026-11-28/two-killed-israeli-air-strike-gaza-msf/107438266",
-      "source": "ABC Australia",
-      "date": "2026-11-28T06:20+00:00",
-      "teaser": "The World Health Organization condemns attacks on health facilities after an Israeli air strike on an MSF building in Gaza killed two people."
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-28T10:34+00:00",
+      "teaser": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 5.84,
+    "score": 5.74,
     "items": [
      {
       "title": "Liveblog Nahost: Ärzte ohne Grenzen: Zwei Mitarbeiter in Gaza getötet",
@@ -84,35 +84,48 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 4.74,
+    "sourceCount": 2,
+    "score": 3.99,
     "items": [
      {
-      "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
-      "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+      "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb",
       "source": "The Guardian",
-      "date": "2026-11-27T16:13+00:00",
-      "teaser": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing conspicuous religious symbols, in a closely"
+      "date": "2026-11-27T14:00+00:00",
+      "teaser": "Former ALP strategist says Ben Carroll government at risk of losing more than 30 seats in Saturday’s election, to fall behind Pauline Hanson’s party Victoria election live results: votes tracker, map and seat counts Live: Victorian election 2026 – latest news Victorian election 2026 guide: what you "
      },
      {
-      "title": "Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
-      "url": "https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants",
-      "source": "PBS NewsHour",
-      "date": "2026-11-27T15:48-05:00",
-      "teaser": "The 2019 law, known as Bill 21, bans religious symbols — including Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses — for workers covered by it."
-     },
-     {
-      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-27T16:53+00:00",
-      "teaser": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights."
+      "title": "Labor MPs are in 'disbelief' after electoral annihilation in Victoria",
+      "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-result-analysis-rachel-eddie/107438514",
+      "source": "ABC Australia",
+      "date": "2026-11-28T12:56+00:00",
+      "teaser": "Not long ago, Labor seemed to be the natural owners of Victorian politics."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.91,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "The nation’s cartoonists on the week in politics",
+      "url": "https://www.politico.com/gallery/2026/11/27/the-nations-cartoonists-on-the-week-in-politics-01184228",
+      "source": "Politico",
+      "date": "2026-11-27T05:00-05:00",
+      "teaser": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage r"
+     },
+     {
+      "title": "Week in Politics: Trump's Thanksgiving messaging; Congress' pre-holiday to-do list",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6052169/week-in-politics-trumps-thanksgiving-messaging-congress-pre-holiday-to-do-list",
+      "source": "NPR (Politik)",
+      "date": "2026-11-28T07:39-05:00",
+      "teaser": "We look at President Trump's messaging over Thanksgiving, as well as what Congress can get done before the holidays."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.82,
     "items": [
      {
       "title": "More children reunited with their families amid war in Ukraine",
@@ -122,37 +135,17 @@
       "teaser": "Nine ​additional ​children have been reunited with ​their ‌families ⁠amid ‌the war ⁠in Ukraine, bringing the ​total to ‌43 amid an ‌effort ​led by US first lady Melania ​Trump, ​the ​White House ​said on Wednesday."
      },
      {
-      "title": "9 Ukrainian children returned from Russian-occupied territories, Russia through Melania Trump's mediation, Zelensky says",
-      "url": "https://kyivindependent.com/9-ukrainian-children-returned-from-russian-occupied-territories-russia-through-melania-trumps-mediation-zelensky-says/",
-      "source": "Kyiv Independent",
-      "date": "2026-11-27T14:05+00:00",
-      "teaser": "The children were brought back from Russia, Russian-occupied Crimea, as well as parts of Zaporizhzhia and Kherson oblasts."
+      "title": "Melania Trump says she helped another group of children return to Ukraine. The reality is more complicated",
+      "url": "https://www.cbc.ca/news/world/ukraine-russia-children-return-9.7438984?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-28T04:00-05:00",
+      "teaser": "Nine children and a 29-year-old woman with disabilites returned to Ukraine on Friday via Belarus, part of a reunification mission to unite families separated by Russia's war with Ukraine."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.84,
-    "items": [
-     {
-      "title": "Kenya cult leader found guilty of manslaughter of 123 followers asked to starve to meet Jesus",
-      "url": "https://www.thehindu.com/news/international/kenya-cult-leader-found-guilty-of-manslaughter-of-123-followers-asked-to-starve-to-meet-jesus/article71753625.ece",
-      "source": "The Hindu",
-      "date": "2026-11-28T10:55+05:30",
-      "teaser": "Kenyan cult leader Paul Mackenzie, already sentenced to 200 years in prison this month for the murder of 191 people, was convicted along with 29 followers, including his wife"
-     },
-     {
-      "title": "Kenyan starvation cult leader found guilty over deaths of 123 followers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/28-11-sv-kenya-cult-leader-paul-mackenzie?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-28T09:59+00:00",
-      "teaser": "Paul Mackenzie was convicted of manslaughter over the deaths of 123 followers."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.68,
+    "score": 3.58,
     "items": [
      {
       "title": "Marine Le Pen: Polizei durchsuchte Büro und Wohnung von Ex-Büroleiter Ambroise de Rancourt",
@@ -172,7 +165,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.41,
+    "score": 3.32,
     "items": [
      {
       "title": "Costa Rica verweigert Francesca Albanese die Einreise",
@@ -192,21 +185,21 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.38,
+    "score": 2.64,
     "items": [
      {
-      "title": "Threat from China looms large over Taiwan’s local elections",
-      "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+      "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+      "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
       "source": "The Guardian",
-      "date": "2026-11-27T01:00+00:00",
-      "teaser": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasing"
+      "date": "2026-11-27T16:13+00:00",
+      "teaser": "Closely watched decision exposes tensions between minority rights and the power of government to override those rights Canada’s top court has largely upheld a controversial secularism law in the province of Quebec barring public sector workers from wearing conspicuous religious symbols, in a closely"
      },
      {
-      "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate",
-      "url": "https://www.thehindu.com/news/international/taiwan-votes-in-key-local-elections-as-china-looks-on/article71753506.ece",
-      "source": "The Hindu",
-      "date": "2026-11-28T10:01+05:30",
-      "teaser": "The main race to watch is for the Taipei mayorship, where Chiang ‌has faced a stiff challenge from Shen, an academic-turned-lawmaker and an expert on China’s information warfare"
+      "title": "Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+      "url": "https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants",
+      "source": "PBS NewsHour",
+      "date": "2026-11-27T15:48-05:00",
+      "teaser": "The 2019 law, known as Bill 21, bans religious symbols — including Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses — for workers covered by it."
      }
     ]
    },
@@ -215,11 +208,24 @@
     "score": 2.0,
     "items": [
      {
-      "title": "KMT holds Taipei as Mayor Wayne Chiang fends off fierce DPP challenge",
-      "url": "https://www.scmp.com/news/china/politics/article/3376140/kmt-holds-taipei-mayor-wayne-chiang-fends-fierce-dpp-challenge",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-28T13:02+00:00",
+      "teaser": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.0,
+    "items": [
+     {
+      "title": "KMT extends 21-year grip on New Taipei as Lee Shu-chuan beats DPP’s Su Chiao-hui",
+      "url": "https://www.scmp.com/news/china/politics/article/3376145/kmt-extends-21-year-grip-new-taipei-lee-shu-chuan-beats-dpps-su-chiao-hui",
       "source": "South China Morning Post",
-      "date": "2026-11-28T11:52+00:00",
-      "teaser": "Taipei Mayor Wayne Chiang Wan-an secured a second term on Saturday, fending off an unexpectedly strong challenge from the ruling Democratic Progressive Party (DPP) in a closely watched election. The victory marked a major boost for the main opposition Kuomintang (KMT) ahead of Taiwan’s 2028 leadersh"
+      "date": "2026-11-28T13:03+00:00",
+      "teaser": "Kuomintang candidate Lee Shu-chuan won the New Taipei City mayoral election on Saturday, extending the party’s 21-year leadership in Taiwan’s most populous municipality, which has more than 4 million residents. Democratic Progressive Party lawmaker Su Chiao-hui conceded defeat in the key electoral b"
      }
     ]
    },
@@ -228,24 +234,11 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Rätselraten um UN-Sonderberichterstatterin Albanese",
-      "url": "https://www.dw.com/de/rätselraten-um-un-sonderberichterstatterin-albanese/a-80084232?maca=de-rss-de-all-1119-xml-mrss",
-      "source": "Deutsche Welle",
-      "date": "2026-11-28T11:50+00:00",
-      "teaser": "Costa Rica hatte ihr die Einreise verweigert. Anschließend saß die UN-Sonderberichterstatterin für die Palästinensergebiete, Francesca Albanese, am Flughafen der Hauptstadt San José fest. Unklar ist, wie es weitergeht."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Victorian election 2026 live results: Jess Wilson vows to ‘bring back hope’ to Victoria after historic victory over Labor",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
-      "source": "The Guardian",
-      "date": "2026-11-28T11:49+00:00",
-      "teaser": "Follow live updates and results tonight as Jess Wilson becomes state’s 51st premier, with Labor leader Ben Carroll projected to lose seat Full report: Ben Carroll concedes Victorian election to Jess Wilson, ending 12 years of Labor government Victoria election live results: votes tracker, map and se"
+      "title": "Mehrere Opfer bei Explosion nahe einer Schule in Afghanistan",
+      "url": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-28T13:59+01:00",
+      "teaser": "Nahe einer Schule im Osten Afghanistans hat es eine Explosion gegeben. Durch die Detonation sind offenbar mehrere Schüler getötet worden. Die Behörden sprechen von Fahrlässigkeit."
      }
     ]
    }
@@ -253,7 +246,47 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 2.19,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "BSW-Parteitag lehnt schärfere Abgrenzung gegen AfD ab",
+      "url": "https://www.zdfheute.de/politik/bsw-afd-sachsen-anhalt-100.html",
+      "source": "ZDF",
+      "date": "2026-11-28T13:51+01:00",
+      "teaser": "Auf dem BSW-Parteitag in Dresden stimmen die Delegierten gegen eine schärfere AfD-Abgrenzung. Sahra Wagenknecht wirbt für sachbezogene Mehrheiten."
+     },
+     {
+      "title": "Parteitag in Dresden: „Noch habe ich Hoffnung, dass eine klare Abgrenzung zur AfD möglich ist“",
+      "url": "https://www.faz.net/aktuell/politik/inland/bsw-parteitag-streit-ueber-zusammenarbeit-mit-afd-accg-201721261.html",
+      "source": "FAZ",
+      "date": "2026-11-27T09:58+00:00",
+      "teaser": "Auf einem Bundesparteitag in Dresden berät das BSW über seinen künftigen Kurs. Über den Umgang mit der AfD ist ein heftiger Streit entbrannt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "BSW-Chef Fabio de Masi wirbt für Zusammenarbeit mit der AfD",
+      "url": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-28T13:20+01:00",
+      "teaser": "Das BSW berät in Dresden an diesem Wochenende über seinen künftigen Kurs. Der Streit um den Umgang mit der AfD droht die Partei zu entzweien. BSW-Chef de Masi wirbt für mehr Spielraum bei der Zusammenarbeit."
+     },
+     {
+      "title": "BSW und AfD: Fabio De Masi wirbt für sachbezogene Zusammenarbeit",
+      "url": "https://www.spiegel.de/politik/deutschland/bsw-und-afd-fabio-de-masi-wirbt-fuer-sachbezogene-zusammenarbeit-a-858dd2c9-8a00-41ef-925a-90558ed76c30#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-28T13:27+01:00",
+      "teaser": "Die Zusammenarbeit mit der AfD rettet das BSW vor der Bedeutungslosigkeit, so sehen es offenbar viele in der Partei. Ihr Co-Chef De Masi spricht sich deshalb dafür aus, »strategisch klug« vorzugehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.09,
     "items": [
      {
       "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
@@ -273,14 +306,27 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "SPD: Jusos fordern Trennung von Regierungsämtern und Parteiführung",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/jusos-spd-regierungsamt-parteivorsitz-lars-klingbeil-gxe",
+      "title": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-28T13:48+01:00",
+      "teaser": "Es ist ausreichend Schnee gefallen, es ist kalt genug und das Wetter spielt auch mit: In Deutschland hat Ski-Saison begonnen - in Bayern, im Sauerland und im Schwarzwald. Wintersportler müssen allerdings wieder tiefer in die Tasche greifen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "BSW stimmt gegen stärkere Abgrenzung von der AfD",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bsw-stimmt-gegen-staerkere-abgrenzung-von-der-afd",
       "source": "Zeit",
-      "date": "2026-11-28T11:44+00:00",
-      "teaser": "Bei ihrem Bundeskongress fordert die Jugendorganisation der SPD die Trennung wichtiger Ämter. »Wer zwei Vollzeitjobs hat, macht einen nur zur Hälfte.«"
+      "date": "2026-11-28T12:50+00:00",
+      "teaser": ""
      }
     ]
    },
@@ -289,50 +335,24 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Frankreich: Durchsuchung im Umfeld von Marine Le Pen",
-      "url": "https://www.sueddeutsche.de/politik/marine-le-pen-frankreich-durchsuchung-parteizentrale-li.3587608",
-      "source": "Süddeutsche",
-      "date": "2026-11-28T11:43+00:00",
-      "teaser": "Gelangten vertrauliche Details über Justizverfahren an den Rassemblement National? Im Zentrum der Ermittlungen steht der frühere Bürochef Marine Le Pens."
+      "title": "Deutschland Liveblog: Wagenknecht will „Zeitfenster für Zusammenarbeit“ mit der AfD nutzen",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-wagenknecht-will-zeitfenster-fuer-zusammenarbeit-mit-der-afd-nutzen-faz-110093143.html",
+      "source": "FAZ",
+      "date": "2026-11-28T12:48+00:00",
+      "teaser": "Parteitag unterstützt Pläne des BSW in Sachsen-Anhalt +++ mehrere Delegierte erklären Parteiaustritt +++ Scharfe Kritik der Union am Gesetzentwurf zur Rente +++ alle Entwicklungen im Liveblog"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Wenn nichts mehr geht: Wie ein Landwirt sein Burnout überwunden hat",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/wenn-nichts-mehr-geht-wie-ein-landwirt-sein-burnout-ueberwunden-hat-100.html",
-      "source": "SWR",
-      "date": "2026-11-28T12:41+01:00",
-      "teaser": "Landwirt Ulrich Kober spricht offen über seinen Zusammenbruch und Depressionen. Dass er geschafft hat, damit umzugehen, verdankt er auch seinem Umfeld."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Großeinsatz in Tuttlingen nach Verpuffung in Wohnhaus - Mann lebensgefährlich verletzt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/tuebingen/bei-verpuffung-in-tuttlingen-wird-mann-lebensgefaehrlich-verletzt-100.html",
-      "source": "SWR",
-      "date": "2026-11-28T12:32+01:00",
-      "teaser": "In einem Mehrfamilienhaus in Tuttlingen hat es am Freitagabend eine Verpuffung mit anschließendem Feuer gegeben. Ein 63-Jähriger wird schwer verletzt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.96,
     "items": [
      {
       "title": "BSW-Parteitag: BSW-Chef De Masi warnt vor Spaltung der Partei über AfD-Streit",
       "url": "https://www.zeit.de/politik/deutschland/2026-11/bsw-parteitag-fabio-de-masi-afd-magdeburger-weg-sachsen-anhalt-gxe",
       "source": "Zeit",
-      "date": "2026-11-28T11:15+00:00",
-      "teaser": "Im Richtungsstreit über den Umgang des BSW mit der AfD hat Parteichef Fabio De Masi zur Einigkeit aufgerufen. Kritiker bat er, die Partei nicht zu verlassen."
+      "date": "2026-11-28T12:38+00:00",
+      "teaser": "Im Streit über den Umgang des BSW mit der AfD hat Parteichef Fabio De Masi zur Einigkeit aufgerufen. Gründerin Sahra Wagenknecht wies »Schmusekurs«-Vorwürfe zurück."
      }
     ]
    },
@@ -341,11 +361,24 @@
     "score": 1.95,
     "items": [
      {
-      "title": "Abschied statt Weihnachtsstimmung: Landliebe-Werk in Heilbronn schließt zum Jahresende",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/molkerei-landliebe-betrieb-ende-letzte-produkte-mitarbeiter-100.html",
+      "title": "Live: Spaltet die AfD-Frage das BSW?",
+      "url": "https://www.zdfheute.de/video/zdfheute-live/bsw-parteitag-wagenknecht-video-100.html",
+      "source": "ZDF",
+      "date": "2026-11-28T13:30+01:00",
+      "teaser": "Das BSW diskutiert über die künftige Zusammenarbeit mit der AfD und wie es für das Bündnis weitergeht. Die Analyse des Parteitags und Sahra Wagenknecht im Interview bei ZDFheute live."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Traumjob Autobauer trotz Krise? Das bieten Mercedes-Benz und Porsche Auszubildenden noch",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/traumjob-autobauer-trotz-krise-100.html",
       "source": "SWR",
-      "date": "2026-11-28T12:20+01:00",
-      "teaser": "Das Werk des Molkereiprodukte-Herstellers Landliebe in Heilbronn schließt am 31.Dezember. Rund 180 Mitarbeiter verlieren ihre Jobs und tun sich schwer, eine neue Arbeit zu finden."
+      "date": "2026-11-28T13:27+01:00",
+      "teaser": "Eine Lehre bei Mercedes-Benz, Porsche oder Audi bedeutete lange: Gute Bezahlung, hochwertige Ausbildung und ein sicherer Arbeitsplatz. Doch diese Gewissheit ist Geschichte."
      }
     ]
    },
@@ -354,24 +387,24 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Zentralrat der Juden: Josef Schuster sieht AfD-Regierungsbeteiligung als Auswanderungsgrund",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/josef-schuster-zentralrat-der-juden-afd-rechtsextremismus-gxe",
+      "title": "Rentenreform: Thorsten Frei stellt Finanzierbarkeit von SPD-Rentenplänen infrage",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/rentenreform-alexander-schweitzer-spd-rente-mit-63-cdu-thorsten-frei-gxe",
       "source": "Zeit",
-      "date": "2026-11-28T11:09+00:00",
-      "teaser": "Der Präsident des Zentralrats der Juden in Deutschland warnt vor einer AfD-Regierungsbeteiligung im Bund. Für Juden könne dies ein Grund zur Auswanderung sein, sagte er."
+      "date": "2026-11-28T12:22+00:00",
+      "teaser": "Unionsfraktionschef Frei reagiert skeptisch auf die Reformvorschläge der SPD zur Rente. Matthias Miersch hält sie für gelungen, die Arbeitgeber nennen sie »vermurkst«."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.92,
     "items": [
      {
-      "title": "Bundespolitik: Mitglied der Rentenkommission: Schweitzer-Vorschläge nicht tragfähig",
-      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-rentenkommission-schweitzer-vorschlaege-kritik-union-li.3587609",
-      "source": "Süddeutsche",
-      "date": "2026-11-28T11:10+00:00",
-      "teaser": "„Ein Entwurf, der die Rente nicht nachhaltig stabilisiert und die junge Generation zusätzlich belastet, ist für mich daher bisher nicht tragfähig“, sagt CSU-Abgeordneter Dorn."
+      "title": "SPD: Jusos fordern Trennung von Regierungsämtern und Parteiführung",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/jusos-spd-regierungsamt-parteivorsitz-lars-klingbeil-gxe",
+      "source": "Zeit",
+      "date": "2026-11-28T12:11+00:00",
+      "teaser": "Bei ihrem Bundeskongress fordert die SPD-Jugend die Trennung wichtiger Ämter: »Wer zwei Vollzeitjobs hat, macht einen nur zur Hälfte.« Das zielt auf Parteichef Klingbeil."
      }
     ]
    },
@@ -380,37 +413,11 @@
     "score": 1.91,
     "items": [
      {
-      "title": "Zug wird in Senden wegen Messerstecherei gestoppt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/grosseinsatz-am-bahnhof-in-senden-102.html",
-      "source": "SWR",
-      "date": "2026-11-28T11:52+01:00",
-      "teaser": "Ein Notruf aus einem fahrenden Zug hat in der Nacht einen Großeinsatz bei Senden ausgelöst. In einem Zug gab es einen blutigen Streit zwischen zwei Personengruppen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.9,
-    "items": [
-     {
-      "title": "Rentenreform: Thorsten Frei stellt Finanzierbarkeit von SPD-Rentenplänen infrage",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/rentenreform-alexander-schweitzer-spd-rente-mit-63-cdu-thorsten-frei-gxe",
-      "source": "Zeit",
-      "date": "2026-11-28T10:44+00:00",
-      "teaser": "Unionsfraktionschef Frei reagiert skeptisch auf die Reformvorschläge der SPD zur Rente. Matthias Miersch hält sie für gelungen, die Arbeitgeber nennen sie »vermurkst«."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Festnahme: Mann wollte mit zwei Beilen zum Stuttgarter Weihnachtsmarkt",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/festnahme-mann-zwei-beile-stuttgart-weihnachtsmarkt-100.html",
-      "source": "SWR",
-      "date": "2026-11-28T11:33+01:00",
-      "teaser": "Ein 27-Jähriger wurde in der Innenstadt gestoppt. Er war zuvor Sicherheitskräften aufgefallen. Laut Polizei gab es keine Hinweise auf einen Anschlag oder eine Gewalttat."
+      "title": "Krieg in der Ukraine: Selenskij: Angriff auf russisches Schiff in Libyen nicht abgesprochen",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kritik-selenskij-meloni-kritik-angriff-russisches-schiff-libyen-li.3585810",
+      "source": "Süddeutsche",
+      "date": "2026-11-28T12:04+00:00",
+      "teaser": "Damit relativiert der Präsident eine frühere Aussage. Die italienische Ministerpräsidentin Meloni hatte die Regierung in Kiew davor gewarnt, den Krieg auf das Mittelmeer auszuweiten."
      }
     ]
    }
@@ -418,7 +425,33 @@
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Przyszłość Tuska po wyborach w 2027 roku. Sondaż: Ponad połowa Polaków nie chce go, jako premiera",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33154962,przyszlosc-tuska-po-wyborach-w-2027-roku-sondaz-ponad.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-28T12:44+00:00",
+      "teaser": "Tuska w fotelu szefa rządu nie chcą widzieć też mieszkańcy miejscowości liczących do 20 tys. mieszkańców - wynika z sondażu SW Research dla \"Rzeczpospolitej\". Taką odpowiedź wybrało 54 proc. uczestników badania z tej grupy."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Sikorski zarzuca byłemu ambasadorowi działanie na szkodę rządu",
+      "url": "https://www.rp.pl/dyplomacja/art45557711-sikorski-zarzuca-bylemu-ambasadorowi-dzialanie-na-szkode-rzadu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T13:08+01:00",
+      "teaser": "Wobec braku odwołania przez prezydenta jest Pan teoretycznie nadal ambasadorem - odpowiedział Pawłowi Solochowi, który zrezygnował z funkcji w placówce RP w Rumunii, szef MSZ Radosław Sikorski. Sikorski zakończył tym wpisem spór o ambasadorów - skomentował minister z kancelarii Karola Nawrockiego."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Donald Tusk ma plan na utrzymanie się przy władzy w 2027 r. Koalicjanci mogą nie mieć wyjścia",
@@ -431,7 +464,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.9,
     "items": [
      {
       "title": "„Slava UPA” na pomnikach. Rafał Trzaskowski: Farbę da się zmyć. Tego, co wyszło na jaw – już nie",
@@ -444,7 +477,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.89,
     "items": [
      {
       "title": "Samopodpalenie 22-latka. Teza o manifeście politycznym jest na wyrost",
@@ -457,7 +490,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.85,
     "items": [
      {
       "title": "Drony nad największą bazą amerykańskich myśliwców w Europie. \"FT\": Podejrzenia padają na Iran",
@@ -470,7 +503,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.84,
     "items": [
      {
       "title": "Marcin Przydacz mówi jednym głosem z niemiecką Lewicą i Zielonymi. Chodzi o polskie ofiary wojny",
@@ -483,7 +516,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.84,
     "items": [
      {
       "title": "Świat to za mało, by przestać wierzyć w Bonda. Nawet jeśli gra go Robert Pattinson",
@@ -496,7 +529,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.83,
     "items": [
      {
       "title": "Konrad Szymański: Europa gra w „gorące krzesła”. Bardziej liczy się, kto odpadnie",
@@ -509,7 +542,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.75,
     "items": [
      {
       "title": "Most Krymski do całkowitej likwidacji. Media: Ukraina planuje akcję wojskową",
@@ -522,7 +555,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.72,
     "items": [
      {
       "title": "Złota Waga 2026 dla dziennikarza „Rzeczpospolitej” Piotra Szymaniaka",
@@ -535,7 +568,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.72,
     "items": [
      {
       "title": "Strajk kobiet pójdzie przed Pałac Prezydencki. \"Poniesie się głos naszego gniewu\"",
@@ -545,38 +578,12 @@
       "teaser": "Strajk kobiet wyruszy spod Sejmu i dotrze przed Pałac Prezydencki. Tam manifestantki i manifestanci będą chcieli skłonić Karola Nawrockiego, by ten podpisał ustawy aborcyjne."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.78,
-    "items": [
-     {
-      "title": "OpenAI pozywa Apple. W tle zarzuty o kradzież tajemnic handlowych i walka o pracowników",
-      "url": "https://www.rp.pl/prawo-na-swiecie/art45557521-openai-pozywa-apple-w-tle-zarzuty-o-kradziez-tajemnic-handlowych-i-walka-o-pracownikow",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-28T10:13+01:00",
-      "teaser": "OpenAI złożyło w piątek pozew przeciwko Apple, zarzucając koncernowi kradzież tajemnic handlowych oraz wywieranie presji na dostawców sprzętu, by nie podejmowali współpracy przy opracowywaniu przyszłych urządzeń OpenAI. To reakcja na wcześniejszy pozew Apple, które oskarżyło twórcę ChatGPT o nakłani"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.74,
-    "items": [
-     {
-      "title": "Ukraina i Europa łączą siły w produkcji dronów",
-      "url": "https://www.dw.com/pl/ukraina-i-europa-łączą-siły-w-produkcji-dronów/a-80081598?maca=pol-rss-pol-all-1492-xml-mrss",
-      "source": "Deutsche Welle (Polen)",
-      "date": "2026-11-28T08:48+00:00",
-      "teaser": "Niemcy i inne państwa rozwijają z Ukrainą produkcję dronów. Kijów wnosi technologie sprawdzone na froncie, partnerzy – kapitał i moce produkcyjne. Współpraca zmienia również europejski przemysł zbrojeniowy."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.93,
+    "score": 3.83,
     "items": [
      {
       "title": "Business-Ticker: Umweltminister Schneider plädiert für Umbau des Rheins",
@@ -596,7 +603,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.9,
+    "score": 2.8,
     "items": [
      {
       "title": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
@@ -615,8 +622,99 @@
     ]
    },
    {
-    "sourceCount": 2,
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Jensen Huang: Ist dieser Mann eine Billion Dollar wert?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/jensen-huang-ist-nvidias-chef-eine-billion-dollar-wert-accg-201716112.html",
+      "source": "FAZ",
+      "date": "2026-11-28T12:39+00:00",
+      "teaser": "Nach der Rückkehr von Nvidia-Chef Jensen Huang erholt sich auch schlagartig der Aktienkurs des Unternehmens. Das wirft Fragen auf."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Energie: Uniper könnte mit bis zu 16 Milliarden Euro bewertet werden",
+      "url": "https://www.handelsblatt.com/unternehmen/energie/energie-uniper-koennte-mit-bis-zu-16-milliarden-euro-bewertet-werden/100273352.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-28T12:32+00:00",
+      "teaser": "Die Bundesregierung kann darauf hoffen, den Gashändler mit Gewinn für den Steuerzahler zu privatisieren. Rund um die verbleibenden Bieter tauchen neue – teils umstrittene – Interessenten auf."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Luxusmarke: Gucci wagt das Unglaubliche",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/gucci-luxus-mode-branche-preis-senkung-strategie",
+      "source": "Zeit",
+      "date": "2026-11-28T12:30+00:00",
+      "teaser": "Der Luxusmarkt steckt in der Krise. Jetzt geht das Modehaus Gucci einen außergewöhnlichen Schritt: Es senkt die Preise. Das könnte nach hinten losgehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
     "score": 1.94,
+    "items": [
+     {
+      "title": "500 Jahre Firmengeschichte: So alt wie die Mona Lisa",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/so-alt-wie-die-mona-lisa-wie-bestehen-diese-deutschen-familienunternehmen-accg-201694256.html",
+      "source": "FAZ",
+      "date": "2026-11-28T12:23+00:00",
+      "teaser": "Christoph Kolumbus hatte gerade Amerika entdeckt, als die beiden ältesten industriellen Familienunternehmen Deutschlands gegründet wurden. Coatinc und Prym bestehen durch alle Epochen-, Zeit- und Technikwenden hindurch."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Christmas market 'absolutely vital' for businesses",
+      "url": "https://www.bbc.co.uk/news/videos/cx1l0evzj54qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-28T12:09+00:00",
+      "teaser": "The Truro market began on 21 November."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Poundland closure 'big loss' for former mining town",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20jj2r1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-28T12:07+00:00",
+      "teaser": "Shoppers and staff reflect on the possible closure of the Poundland store in Camborne."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "The outsider from Cannes shaking up France’s presidential race",
+      "url": "https://www.ft.com/content/7f3900c2-bce6-495e-a6c4-e1133a3c46e9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "date": "2026-11-28T12:00+00:00",
+      "teaser": "Rightwing mayor David Lisnard has surged in polls with punchy attacks on the bloated state and promises of radical spending cuts"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 1.84,
     "items": [
      {
       "title": "SAP erwägt Abbau von mehr als 10.000 Stellen",
@@ -636,7 +734,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.84,
     "items": [
      {
       "title": "+++ Ukraine-Krieg +++: Russland stellt Atom-U-Boot mit Hyperschallraketen in Dienst",
@@ -649,7 +747,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "Under the influence: how creator marketing upended advertising",
@@ -659,145 +757,94 @@
       "teaser": "Brands are piggybacking off the potential sales that targeting millions of ardent followers can bring – but there are risks From the Avon ladies to the former Sex Pistols lead singer John Lydon selling butter , personal endorsement of products is a well-trodden form of marketing with significant gai"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "El Guapo’s last gasp?",
-      "url": "https://www.ft.com/content/19dd970c-6258-49ad-8f2d-df90bff90ef2?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-28T11:00+00:00",
-      "teaser": "The polls look grim for Pedro Sánchez — but a rightwing coalition won’t be smooth sailing if his opponents triumph"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "DWP cyber incident ‘probably an attack’, says former UK chief technology officer",
-      "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
-      "source": "The Guardian",
-      "date": "2026-11-28T10:52+00:00",
-      "teaser": "Government took down pensions and benefits portal on Thursday but said regular payments will not be affected A serious cyber incident that forced ministers to take down online benefits and pension services was “probably an attack”, the UK’s former chief technology officer has said. The Department fo"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Gut gerüstet für die Rente?: „Das erste Mal in meinem Leben, dass ich keine Existenzängste habe“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/heinrich-schafmeister-wie-der-schauspieler-altersarmut-vermied-accg-201628672.html",
-      "source": "FAZ",
-      "date": "2026-11-28T10:28+00:00",
-      "teaser": "Viele Schauspieler leben in Altersarmut. „Ich bin eine Ausnahme“, sagt Heinrich Schafmeister. Wie viel ihm im Alter übrig bleibt und was viele seiner Kollegen falsch machen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Sennder: Das deutsche „Uber für Lastwagen“ will mehr",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/sennder-gruender-david-nothacker-forciert-den-einstieg-ins-softwaregeschaeft-accg-201683489.html",
-      "source": "FAZ",
-      "date": "2026-11-28T10:23+00:00",
-      "teaser": "Die Berliner Digitalspedition Sennder hat es mit ambitionierten Übernahmen vom Start-up zum Milliardenunternehmen gebracht. Um zu den Logistikriesen aufzuschließen, wagt das Unternehmen jetzt einen riskanten Schritt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.86,
-    "items": [
-     {
-      "title": "Israeli strike kills two Médecins Sans Frontières workers in Gaza",
-      "url": "https://www.ft.com/content/b50e55af-58a3-452b-a282-4d4be735229c?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-28T10:14+00:00",
-      "teaser": "Medical charity calls for accountability as Israeli military claims men were involved in Hamas"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Woman ‘traumatised’ by Sainsbury’s shoplifting ban after staff facial recognition error",
-      "url": "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
-      "source": "The Guardian",
-      "date": "2026-11-28T10:00+00:00",
-      "teaser": "Monia Indge, 58, who has terminal cancer, escorted from supermarket after staff using FaceWatch technology misidentified her A woman with terminal cancer has been left “traumatised and violated” after being falsely accused of shoplifting and banned from Sainsbury’s by staff using facial recognition "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "A.I. Companies Race for Space in New York, a City That Doesn’t Have Much of It",
-      "url": "https://www.nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html",
-      "source": "New York Times",
-      "date": "2026-11-28T10:00+00:00",
-      "teaser": "The artificial intelligence boom is on track to help lift Manhattan’s office market to its strongest year since 2000. But as the market tightens, A.I. companies have had to get creative for real estate."
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.91,
+    "score": 7.98,
     "favorite": true,
     "items": [
      {
-      "title": "Sesión con Rodri y Christensen, pero sin Balde ni Bernal",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256539/entrenamiento-barcelona-deportivo-coruna.html",
+      "title": "Díaz de Mera pitará el Deportivo-Barça",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256595/diaz-mera-pitara-deportivo-barca.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T11:47+01:00",
-      "teaser": "El Barcelona saltó al campo Tito Vilanova esta mañana para llevar a cabo la última sesión preparatoria antes de volar el domingo a A Coruña para enfrentarse al Deportivo . Fue el segundo entrenamiento, tras la vuelta del largo viaje a Bakú, en que Hansi Flick pudo preparar el duelo liguero. Las ause"
+      "date": "2026-11-28T13:54+01:00",
+      "teaser": "Ya se conoce el colegiado que pitará mañana (16.15 h./DAZN) el duelo en el Estadio de Riazor entre el Depor y el Barcelona de la jornada 14. Se trata de Isidro Díaz de Mera Escuderos , del Comité de Árbitros de Castilla-La Mancha. En el VAR estará Daniel Jesús Trujillo , del Comité Tinerfeño."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.7,
+    "score": 7.98,
     "favorite": true,
     "items": [
      {
-      "title": "ADN azulgrana para derrotar al Barça",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004255108/adn-azulgrana-derrotar-barca.html",
+      "title": "Flick explica su enfado en Bakú",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256590/flick-explica-enfado-baku.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T09:19+01:00",
-      "teaser": "Menos de diez minutos en coche separan los municipios donde nacieron Antonio Hidalgo y Òscar Hernández , Canovelles y Ametlla del Vallès . A pesar de su proximidad y su amplia experiencia en el mundo del fútbol, no se conocieron hasta que coincidieron en el curso de entrenadores. Hidalgo llamó a Òsc"
+      "date": "2026-11-28T13:50+01:00",
+      "teaser": "El Barcelona encarriló la victoria en el largo desplazamiento a Bakú sin tener que pisar a fondo el acelerador, pero Hansi Flick no regresó plenamente satisfecho. Justo después de marcar el cuarto gol, el Barça encajó uno. El entrenador, en el área técnica y visiblemente irritado, se quitó y lanzó c"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.51,
+    "score": 7.97,
     "favorite": true,
     "items": [
      {
-      "title": "Amarillo marcó el \"gol de Eurovisión\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256429/amarillo-marco-gol-eurovision.html",
+      "title": "Flick descarta a Bernal para dos partidos",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256596/flick-descarta-bernal-dos-partidos.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T07:00+01:00",
-      "teaser": "Fue uno de los dos únicos goles que marcó aquella temporada con la camiseta del Barça , pero al uruguayo Alfredo Amarillo le valió ser encumbrado como el autor del mejor gol del mes en Europa, elegido por Eurovisión entre todos los partidos de las ligas continentales televisados en directo aquel mes"
+      "date": "2026-11-28T13:44+01:00",
+      "teaser": "Días después de su holgado triunfo ante el Sabah en Bakú , en la quinta jornada de la Champions League , Hansi Flick se ha visto obligado a hacer un parte médico sobre la enfermería del Barça en la previa del partido ante el Depor de la 14ª jornada de LaLiga . El técnico alemán ha asegurado que Bern"
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 2.88,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "LIVE! Hertha kontert sich zur Führung - Viele Chancen in Dresden - Diskussionen um Harres",
+      "url": "https://www.kicker.de/live-hertha-kontert-sich-zur-fuehrung-viele-chancen-in-dresden-diskussionen-um-harres-1275252/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-28T11:12+00:00",
+      "teaser": "Bleibt Hertha unantastbar? Die Alte Dame empfängt den KSC. Schlusslicht Kiel braucht unter Neu-Trainer Kniat einen Sieg gegen Lautern. Des Weiteren trifft Dresden auf den FC St. Pauli."
+     },
+     {
+      "title": "Jetzt live - Hertha kontert den KSC aus, Kieler Tor zählt nicht",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3966/",
+      "source": "Sportschau",
+      "date": "2026-11-28T13:55+01:00",
+      "teaser": "Während Dresden den ungeliebten FC St. Pauli empfängt, wird bei Hertha BSC die Freundschaft mit Karlsruhe gefeiert. Außerdem steht das Heim-Debüt von Mitch Kniat in Kiel an."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.96,
+    "items": [
+     {
+      "title": "Premier League: Chelsea-Profi Wesley Fofana von eigenen Fans ausgepfiffen",
+      "url": "https://www.spiegel.de/sport/fussball/premier-league-chelsea-profi-wesley-fofana-von-eigenen-fans-ausgepfiffen-a-c872d14b-6ccc-4c06-92ac-fa41bb8f9c31#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-28T13:35+01:00",
+      "teaser": "»Fuck off Fofana, you’re not welcome here«: Diesen Gesang musste sich Fußballer Wesley Fofana anhören – von wütenden Anhängern seines eigenen Clubs. Hintergrund ist offenbar ein umstrittenes Interview."
+     },
+     {
+      "title": "Premier League: Chelsea-Fans beschimpfen eigenen Spieler",
+      "url": "https://www.faz.net/aktuell/sport/fussball/premier-league-chealseas-wesley-fofana-von-eigenen-fans-attackiert-accg-201725794.html",
+      "source": "FAZ",
+      "date": "2026-11-28T11:59+00:00",
+      "teaser": "Xabi Alonso und der FC Chelsea geraten in der Premier League immer tiefer in die Krise. Beim 2:3 gegen Nottingham bekommt auch noch Verteidiger Wesley Fofana Wut und Häme der eigenen Fans zu spüren."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.78,
     "items": [
      {
       "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
@@ -817,7 +864,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.26,
+    "score": 2.16,
     "items": [
      {
       "title": "Jamal Musiala: Offensivstar des FC Bayern München fällt bis Jahresende aus",
@@ -840,89 +887,63 @@
     "score": 2.0,
     "items": [
      {
-      "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-28T11:53+00:00",
-      "teaser": "Cole Palmer's dip in form mirrors Chelsea's recent slump and his frustration was evident after his side's recent defeat against Leeds - but will he ever get back to his best?"
+      "title": "Ab 16.30 Uhr live - Duisburg klarer Favorit in Großaspach",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/ma12242671/sg-sonnenhof-grossaspach_msv-duisburg/liveticker",
+      "source": "Sportschau",
+      "date": "2026-11-28T14:04+01:00",
+      "teaser": "In der 3. Liga empfängt Sonnenhof-Großaspach den Tabellenführer MSV Duisburg und kämpft um Punkte im Tabellenkeller."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
     "items": [
      {
-      "title": "Rodeln: Deutsche Männer-Doppelsitzer straucheln zum Auftakt",
-      "url": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
+      "title": "Biathlon: Furioser Strelow führt Single-Mixed-Staffel auf Platz zwei",
+      "url": "https://www.sportschau.de/wintersport/biathlon/furioser-strelow-fuehrt-single-mixed-staffel-auf-platz-zwei,biathlon-single-mixed-staffel-100.html",
       "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-28T12:48+01:00",
-      "teaser": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27."
+      "date": "2026-11-28T13:50+01:00",
+      "teaser": "Die deutschen Biathleten haben ihren starken Auftakt in die Weltcup-Saison auch in der Single-Mixed-Staffel bestätigt. Marlene Fichtner und Justus Strelow liefen in Kontiolahti auf Rang zwei."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
     "items": [
      {
-      "title": "Jetzt live - Freundschaftsduell in Berlin, Dynamo gegen St. Pauli",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3966/",
-      "source": "Sportschau",
-      "date": "2026-11-28T11:34+01:00",
-      "teaser": "Während Dresden den ungeliebten FC St. Pauli empfängt, wird bei Hertha BSC die Freundschaft mit Karlsruhe gefeiert. Außerdem steht das Heim-Debüt von Mitch Kniat in Kiel an."
+      "title": "Eiskunstlauf: Wunderkind Malinin triumphiert nach Weltrekord in Tokio",
+      "url": "https://www.sportschau.de/wintersport/eiskunstlauf/malinin-triumphiert-nach-wltrekord-in-tokio,malinin-116.html",
+      "source": "Sportschau (alle Sportarten)",
+      "date": "2026-11-28T13:42+01:00",
+      "teaser": "Es war ein Feuerwerk der Eiskunstlaufkunst, aber einer thronte über allen: Ilia Malinin. Der \"Vierfachgott\" lief beim Grand Prix in Tokio zum Sieg."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.96,
     "items": [
      {
-      "title": "Live hören: Hertha BSC gegen Karlsruher SC - 2. Bundesliga",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/hertha-bsc-gegen-karlsruher-sc,audiostream-hertha-bsc-gegen-karlsruher-sc-106.html",
-      "source": "Sportschau",
-      "date": "2026-11-28T12:40+01:00",
-      "teaser": "13. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 13:00 Uhr. Karlsruher SC spielt in Berlin."
+      "title": "Work in progress but Liverpool find belief again with Iraola",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7vdqx4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-28T12:36+00:00",
+      "teaser": "With the attack finally firing and Liverpool looking more solid at the back, Andoni Iraola has got the fans believing again. Just in time for derby day."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Live hören: Holstein Kiel gegen 1. FC Kaiserslautern - 2. Bundesliga",
-      "url": "https://www.sportschau.de/fussball/bundesliga2/holstein-kiel-gegen-1-fc-kaiserslautern,audiostream-holstein-kiel-gegen-1-fc-kaiserslautern-106.html",
-      "source": "Sportschau",
-      "date": "2026-11-28T12:40+01:00",
-      "teaser": "13. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 13:00 Uhr. 1. FC Kaiserslautern spielt in Kiel."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.96,
     "items": [
      {
       "title": "Manchester United v Brentford buildup, Premier League news and more – matchday live",
       "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-buildup-premier-league-news-and-more-matchday-live",
       "source": "The Guardian",
-      "date": "2026-11-28T11:41+00:00",
+      "date": "2026-11-28T12:39+00:00",
       "teaser": "Latest team news, Premier League buildup and more Get in touch: email the matchday live team In today’s Krillion (a fun little daily online quiz, if you’re not familiar, in which the most obscure answers are the best answers): “Name a player who won a league title in the NBA, Premier League, La Liga"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Skeleton: Kreher führt historischen Vierfach-Erfolg an",
-      "url": "https://www.sportschau.de/wintersport/skeleton/debuetsiegerin-kreher-fuehrt-deutschen-vierfach-erfolg-in-altenberg-an,skeleton-frauen-altenberg-102.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-28T12:39+01:00",
-      "teaser": "Nach den Männern brillieren auch die deutschen Skeleton-Frauen beim Heimweltcup in Altenberg: Susanne Kreher führt einen deutschen Vierfacherfolg an - und kann über ihren ersten Weltcupsieg im Einzel jubeln."
      }
     ]
    }
@@ -930,7 +951,7 @@
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 5.85,
+    "score": 5.99,
     "items": [
      {
       "title": "The absolute best Black Friday deals you can still get",
@@ -940,11 +961,11 @@
       "teaser": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through"
      },
      {
-      "title": "Best Kindle and E-Reader Black Friday Deals (2026): Up to $180 Off",
-      "url": "https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-28-2026/",
+      "title": "I Found the 26 Best Black Friday Tech Deals, Up to 50% Off (2026)",
+      "url": "https://www.wired.com/story/best-black-friday-tech-deals-11-28-26/",
       "source": "Wired",
-      "date": "2026-11-28T09:15+00:00",
-      "teaser": "Whether you’re shopping for a new Kindle or looking to break free from Amazon’s ecosystem, Black Friday is one of the best times to shop for a new e-reader."
+      "date": "2026-11-28T10:09+00:00",
+      "teaser": "Why pay more? The best Black Friday tech deals offer deep discounts on great WIRED-tested gear."
      },
      {
       "title": "The best Black Friday deals Ars could find",
@@ -957,7 +978,111 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Pensions and benefits services still down after 'cyber incident'",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-28T13:02+00:00",
+      "teaser": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "The 29 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
+      "url": "https://www.wired.com/story/amazon-black-friday-deals-11-28-2026/",
+      "source": "Wired",
+      "date": "2026-11-28T12:00+00:00",
+      "teaser": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is still ongoing. Score discounts on our favorite (and tested) products through November 30."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Anzeige: Black Friday bei it-nerd24 - Dauerlizenzen von Microsoft und Windows zum halben Preis ...",
+      "url": "https://www.golem.de/news/anzeige-black-friday-bei-it-nerd24-dauerlizenzen-von-microsoft-und-windows-zum-halben-preis-sichern-2611-215744.html",
+      "source": "Golem",
+      "date": "2026-11-28T13:40+01:00",
+      "teaser": "Mit Dauerlizenzen lassen sich laufende Kosten für Software reduzieren. Bei it-nerd24 gibt es Microsoft-Dauerlizenzen mit 50 Prozent Black-Friday-Rabatt. ( Black Friday , Microsoft )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Pirelli treibt Sensorik voran: Reifen, die mit dem Auto sprechen",
+      "url": "https://www.golem.de/news/pirelli-treibt-sensorik-voran-reifen-die-mit-dem-auto-sprechen-2611-215781.html",
+      "source": "Golem",
+      "date": "2026-11-28T13:23+01:00",
+      "teaser": "Ein winziger Sensor in der Reifeninnenseite misst Temperatur, Druck und Fahrbahnzustand und funkt die Daten ans Fahrzeug. Die Serienreife rückt näher. ( Auto , Patent )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "Einstöpseln und Ruhe haben: Warum mich Boses neue Kabel-Kopfhörer im Büro überzeugen – und unterwegs manchmal nerven",
+      "url": "https://t3n.de/news/bose-kopfhoerer-kabel-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-28T13:05+01:00",
+      "teaser": "Kabelgebundene In-Ears sind wieder im Trend. Aber wie ist das so, die Airpods beiseite zu legen und wieder über die Strippe Musik und Podcasts zu hören? Unser Autor hat es mit Boses kabelgebundenen Noise-Cancelling-Earbuds ausprobiert. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Kryptografie: KI-Labore sollen brisanten Durchbruch zurückhalten",
+      "url": "https://www.golem.de/news/kryptografie-ki-labore-sollen-brisanten-durchbruch-zurueckhalten-2611-215780.html",
+      "source": "Golem",
+      "date": "2026-11-28T13:00+01:00",
+      "teaser": "Der Informatikprofessor Scott Aaronson erwartet, dass KI einige der heutigen Verschlüsselungssysteme knackt. Auch die Bank of England sieht Risiken. ( Verschlüsselung , KI )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+      "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+      "source": "Ars Technica",
+      "date": "2026-11-28T12:00+00:00",
+      "teaser": "Kindles are getting costlier faster than they're getting better."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "7 Pro Tips to Get More Out of the Google Health App",
+      "url": "https://www.wired.com/story/7-pro-tips-to-get-more-out-of-the-google-health-app/",
+      "source": "Wired",
+      "date": "2026-11-28T12:00+00:00",
+      "teaser": "Google has replaced the fitness tracking software for your Fitbit or Wear OS watch with an app called Google Health. Here’s how to make it do more than just the basics."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
     "items": [
      {
       "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
@@ -970,20 +1095,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
-    "items": [
-     {
-      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Up to $50 Off Bundles, Games, Accessories",
-      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-28-2026/",
-      "source": "Wired",
-      "date": "2026-11-28T11:33+00:00",
-      "teaser": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.87,
     "items": [
      {
       "title": "Swift Saw the Secrets of Space Before Falling to Earth",
@@ -996,7 +1108,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.85,
     "items": [
      {
       "title": "Neues Macbook Pro: Löst Apples OLED-Display Kopfschmerzen aus?",
@@ -1004,97 +1116,6 @@
       "source": "Golem",
       "date": "2026-11-28T12:20+01:00",
       "teaser": "Kopfschmerzen, Schwindel, Übelkeit: Seit dem Umstieg auf OLED beim Macbook Pro häufen sich Klagen in Onlineforen. ( Macbook , Apple )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "E-Barometer: VWs Anteil beim E-Auto-Umstieg mehr als halbiert",
-      "url": "https://www.golem.de/news/e-barometer-vws-anteil-beim-e-auto-umstieg-mehr-als-halbiert-2611-215777.html",
-      "source": "Golem",
-      "date": "2026-11-28T11:55+01:00",
-      "teaser": "Tesla führt jetzt das HUK-Ranking an. Auch Skoda und BMW verlieren Anteile, während Opel zulegt. ( Elektroauto , Tesla )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Warum du für einen smarten Weihnachtsbaum keine 170-Euro-Lichterkette brauchst – sondern nur dieses 8-Euro-Bauteil",
-      "url": "https://t3n.de/news/smarter-weihnachtsbaum-ratgeber-1661855/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-28T11:35+01:00",
-      "teaser": "Ein schön geschmückter Tannenbaum gehört zu Weihnachten dazu. Damit er auch im Dunkeln gut aussieht, ist eine Lichterkette Pflicht. Doch wer will die schon immer wieder ein- und ausstecken? Mit diesen smarten Gadgets sparst du dir die Mühe. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Biodrohnen: Diese Tauben fotografieren mit Elektroden im Gehirn",
-      "url": "https://www.golem.de/news/biodrohnen-diese-tauben-fotografieren-mit-elektroden-im-gehirn-2611-215778.html",
-      "source": "Golem",
-      "date": "2026-11-28T11:28+01:00",
-      "teaser": "Eine russische Firma lässt Tauben mit Kameras Luftbilder aufnehmen. Wohin die Vögel fliegen, soll ein Implantat in ihrem Gehirn steuern. ( Innovation & Forschung , Russland )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Verbraucherpreise: Festplatten kosten 40,8 Prozent mehr als vor einem Jahr",
-      "url": "https://www.golem.de/news/verbraucherpreise-festplatten-kosten-40-8-prozent-mehr-als-vor-einem-jahr-2611-215776.html",
-      "source": "Golem",
-      "date": "2026-11-28T11:06+01:00",
-      "teaser": "PC-Hardware ist teuer geworden, das spüren viele. Nun zeigen amtliche Zahlen, wie heftig der Anstieg tatsächlich ausfällt. ( Statistisches Bundesamt , Speichermedien )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "250.000 Seiten, die niemand ganz versteht: Anthropic-Mitarbeiter will mit Claude die Riemannsche Vermutung bewiesen haben",
-      "url": "https://t3n.de/news/riemannsche-vermutung-claude-beweis-250000-seite-1774754/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-28T11:00+01:00",
-      "teaser": "Der „Heilige Gral“ der Mathematik könnte gefunden sein. Das Problem: Der Beweis wäre für Menschen mehr als 250.000 Seiten lang – und selbst ihr Urheber versteht ihn noch nicht ganz. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Dark Matter Might Have Its Own Periodic Table of Invisible Particles",
-      "url": "https://www.wired.com/story/dark-matter-might-have-its-own-periodic-table-of-invisible-particles/",
-      "source": "Wired",
-      "date": "2026-11-28T10:00+00:00",
-      "teaser": "Although it remains within the realm of theoretical physics, a new study hints at a parallel chemistry that would force us to rethink how we organize the fundamental components of the universe."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.82,
-    "items": [
-     {
-      "title": "Erneuerbare Energie: Finnland hat Zeiten mit negativen Strompreisen minimiert",
-      "url": "https://www.golem.de/news/erneuerbare-energie-finnland-hat-zeiten-mit-negativen-strompreisen-minimiert-2611-215761.html",
-      "source": "Golem",
-      "date": "2026-11-28T10:45+01:00",
-      "teaser": "Negative Strom-Preise ergeben sich nicht nur aus Produktionsüberschuss, sie deuten strukturelle Probleme an. Finnland zeigt, wie das zu lösen ist. ( Energiewende , Solarenergie )"
      }
     ]
    }
@@ -1171,7 +1192,7 @@
    "topic": "Welt & Politik",
    "source": "NPR (Politik)",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Welt & Politik",
@@ -1183,7 +1204,7 @@
    "topic": "Welt & Politik",
    "source": "Politico",
    "ok": true,
-   "items": 2
+   "items": 1
   },
   {
    "topic": "Welt & Politik",
@@ -1201,7 +1222,7 @@
    "topic": "Welt & Politik",
    "source": "CBC",
    "ok": true,
-   "items": 6
+   "items": 8
   },
   {
    "topic": "Welt & Politik",
@@ -1375,7 +1396,7 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 6
+   "items": 7
   },
   {
    "topic": "Sport",
@@ -1393,7 +1414,7 @@
    "topic": "Sport",
    "source": "11 Freunde",
    "ok": true,
-   "items": 8
+   "items": 9
   },
   {
    "topic": "Sport",
@@ -1447,7 +1468,7 @@
    "topic": "Tech & KI",
    "source": "BBC",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Tech & KI",
@@ -1459,7 +1480,7 @@
    "topic": "Tech & KI",
    "source": "Ars Technica",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Tech & KI",
