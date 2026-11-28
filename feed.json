@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-28T04:02:11+00:00",
+ "fetchedAt": "2026-11-28T05:07:58+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.44,
+    "score": 7.35,
     "items": [
      {
       "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
@@ -30,8 +30,48 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.91,
+    "sourceCount": 2,
+    "score": 3.98,
+    "items": [
+     {
+      "title": "Costa Rica verweigert Francesca Albanese die Einreise",
+      "url": "https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-27T17:01+01:00",
+      "teaser": "Terrorverdacht oder politische Abrechnung? Costa Rica verbietet einer israelkritischen Uno-Sonderberichterstatterin die Einreise und verweist auf »Verbindungen zu terroristischen Handlungen«. Es laufen mehrere Beschwerden."
+     },
+     {
+      "title": "Francesca Albanese: Costa Rica verweigert UN-Menschenrechtskommissarin die Einreise",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/un-sonderberichterstatterin-palaestina-francesca-albanese-costa-rica-einreiseverweigerung",
+      "source": "Zeit",
+      "date": "2026-11-28T04:52+00:00",
+      "teaser": "Die Israel-kritische UN-Sonderberichterstatterin sollte in Costa Rica die Ehrendoktorwürde einer Uni entgegennehmen. Doch das Land ließ sie am Flughafen ausharren."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Threat from China looms large over Taiwan’s local elections",
+      "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+      "source": "The Guardian",
+      "date": "2026-11-27T01:00+00:00",
+      "teaser": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasing"
+     },
+     {
+      "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate",
+      "url": "https://www.thehindu.com/news/international/taiwan-votes-in-key-local-elections-as-china-looks-on/article71753506.ece",
+      "source": "The Hindu",
+      "date": "2026-11-28T10:01+05:30",
+      "teaser": "The main race to watch is for the Taipei mayorship, where Chiang ‌has faced a stiff challenge from Shen, an academic-turned-lawmaker and an expert on China’s information warfare"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.82,
     "items": [
      {
       "title": "Thanksgiving storm on U.S. East Coast knocks out power, disrupts flights",
@@ -39,13 +79,6 @@
       "source": "CBC",
       "date": "2026-11-27T04:57-05:00",
       "teaser": "A powerful storm disrupted the Thanksgiving holiday along much of the U.S. East Coast on Thursday, knocking out power to nearly one million customers at one point as wind gusts of up to 112 km/h toppled trees and power lines."
-     },
-     {
-      "title": "Thanksgiving Storm Leaves More Than 400,000 Without Power on the East Coast",
-      "url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-28T02:11+00:00",
-      "teaser": "Conditions continued to improve on Friday after heavy rain and strong winds lashed the coast from Virginia to New York. But many remained without power and travel disruptions persisted."
      },
      {
       "title": "Parts of US clean up after Thanksgiving storm lashes East Coast",
@@ -57,55 +90,8 @@
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.8,
-    "items": [
-     {
-      "title": "Costa Rica verweigert Francesca Albanese die Einreise",
-      "url": "https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-27T17:01+01:00",
-      "teaser": "Terrorverdacht oder politische Abrechnung? Costa Rica verbietet einer israelkritischen Uno-Sonderberichterstatterin die Einreise und verweist auf »Verbindungen zu terroristischen Handlungen«. Es laufen mehrere Beschwerden."
-     },
-     {
-      "title": "UN rapporteur Francesca Albanese denied entry at Costa Rica Airport",
-      "url": "https://www.abc.net.au/news/2026-11-28/francesca-albanese-detained-at-costa-rica-airport/107437818",
-      "source": "ABC Australia",
-      "date": "2026-11-28T01:39+00:00",
-      "teaser": "The high-profile independent investigator, who was invited to Costa Rica to receive an honorary degree, is spending her second night stranded at the airport while a petition to enter the country is pending."
-     },
-     {
-      "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-28T00:12+00:00",
-      "teaser": "UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry."
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.92,
-    "items": [
-     {
-      "title": "Threat from China looms large over Taiwan’s local elections",
-      "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
-      "source": "The Guardian",
-      "date": "2026-11-27T01:00+00:00",
-      "teaser": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasing"
-     },
-     {
-      "title": "Taiwan votes in key local elections as China looks on",
-      "url": "https://www.thehindu.com/news/international/taiwan-votes-in-key-local-elections-as-china-looks-on/article71753506.ece",
-      "source": "The Hindu",
-      "date": "2026-11-28T08:34+05:30",
-      "teaser": "Campaigning in the races in all of Taiwan's ‌22 cities and counties focused on local issues such as transport and the environment; But while the results will not directly affect China ‌policy, Beijing has repeatedly weighed in"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.18,
+    "score": 2.09,
     "items": [
      {
       "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
@@ -125,27 +111,40 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.99,
     "items": [
      {
-      "title": "In Southeast Asia, China’s split personality stands out",
-      "url": "https://www.scmp.com/week-asia/opinion/article/3376068/southeast-asia-chinas-split-personality-stands-out",
-      "source": "South China Morning Post",
-      "date": "2026-11-28T04:00+00:00",
-      "teaser": "Countries, like people, can have several identities at once. They are a source of strength, but also of tension when different identities pull in different directions. China is reaching that point, with Southeast Asia confronting growing gaps between the Global South identity that Beijing claims, th"
+      "title": "Markus Reisner: »Russland erdrückt die Ukraine langsam, wie eine Würgeschlange«",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/markus-reisner-oberst-oesterreich-ukraine-krieg",
+      "source": "Zeit",
+      "date": "2026-11-28T04:58+00:00",
+      "teaser": "Putin kann den Krieg noch lange durchhalten, warnt Oberst Markus Reisner. Er erklärt, warum die Front ein »gläsernes Gefechtsfeld« ist und er Europa für wehrlos hält."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 1.99,
     "items": [
      {
-      "title": "Cambodia’s Ream Naval Base back in spotlight after Chinese radar features in joint drill",
-      "url": "https://www.scmp.com/news/china/military/article/3376023/cambodias-ream-naval-base-back-spotlight-after-chinese-radar-features-joint-drill",
-      "source": "South China Morning Post",
-      "date": "2026-11-28T04:00+00:00",
-      "teaser": "Chinese-made long-range radar equipment has been spotted at Cambodia’s Ream Naval Base during the ongoing Golden Dragon 2026 exercises, a move likely to draw fresh attention to the air surveillance capabilities at the Chinese-funded naval facility. Photos and video released to local media showed an "
+      "title": "Trump’s Embrace of Xi and Huang Stun China Critics in Washington",
+      "url": "https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html",
+      "source": "New York Times (USA)",
+      "date": "2026-11-28T05:01+00:00",
+      "teaser": "Warnings from hard-liners have grown more urgent amid what some call a winner-take-all race for A.I. dominance."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+      "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-28T04:57+00:00",
+      "teaser": "Heavy rains affect 2,000 families in Peru's Piura and 47,000 people in Ecuador, where 34 deaths have been reported."
      }
     ]
    },
@@ -154,78 +153,65 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Liveblog Nahost: Ärzte ohne Grenzen: Zwei Mitarbeiter in Gaza getötet",
-      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-aerzte-ohne-grenzen-mitarbeiter-in-gaza-getoetet-israel-spricht-von-terroristen-faz-200583539.html",
-      "source": "FAZ",
-      "date": "2026-11-28T03:48+00:00",
-      "teaser": "Israels Armee spricht von Angriff auf „Terroristen“ der islamistischen Hamas +++ Eisenkot wirft Likud vor, Koalitionsverhandlungen in die Länge zu ziehen +++ Syrien: Al-Scharaa ernennt kurdische Politikerin zur Abgeordneten +++ alle Entwicklungen im Liveblog"
+      "title": "Saudi Arabia, Houthis trade attacks on rival capitals",
+      "url": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece",
+      "source": "The Hindu",
+      "date": "2026-11-28T10:21+05:30",
+      "teaser": "A Saudi-led coalition backing Yemen's internationally recognised government has been regularly bombing areas controlled by the Iran-backed group since Yemen's civil war reignited over the summer"
      }
     ]
    },
    {
     "sourceCount": 1,
     "score": 1.98,
+    "items": [
+     {
+      "title": "US military says cyber systems secure after reports of Air Force hack",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3376113/us-military-says-cyber-systems-secure-after-reports-air-force-hack",
+      "source": "South China Morning Post",
+      "date": "2026-11-28T04:53+00:00",
+      "teaser": "The US military denied on Friday any issues with its computer security following media reports that the Air Force’s cloud-based system was hacked, in what would be the latest high-profile breach of US digital infrastructure in recent weeks. Asked whether the Air Force’s Cloud One platform had been h"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
     "items": [
      {
       "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian",
-      "date": "2026-11-28T03:45+00:00",
+      "date": "2026-11-28T04:46+00:00",
       "teaser": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all of our Victorian sta"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
     "items": [
      {
-      "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
-      "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+      "title": "UN chief frontrunner urged to speak out over Albanese detention",
+      "url": "https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2?traffic_source=rss",
       "source": "Al Jazeera",
-      "date": "2026-11-28T03:45+00:00",
-      "teaser": "MSF says Israeli attack on Gaza clinic a 'direct hit' and calls for those responsible to be held accountable."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "AI micro dramas turn China's entertainment industry on its head",
-      "url": "https://www.abc.net.au/news/2026-11-28/ai-microdramas-disrupt-china-entertainment-industry/107421952",
-      "source": "ABC Australia",
-      "date": "2026-11-28T03:50+00:00",
-      "teaser": "AI has transformed China's entertainment industry, and even those who have lost their jobs to it still find themselves captured by its allure."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
-      "url": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-28T04:34+01:00",
-      "teaser": "Malawi leidet unter einer extremen Treibstoffkrise. Die fragile Wirtschaft hängt vom Tabakexport ab - zu schwachen Deviseneinnahmen kommt die Lage an der Straße von Hormus hinzu. Die Krise wirkt sich auf alle Lebensbereiche aus. Von C. Hauck."
+      "date": "2026-11-28T04:46+00:00",
+      "teaser": "Albanese's detention poses a test for Costa Rica's candidate, Rebeca Grynspan, who has led the UN's recent straw poll."
      }
     ]
    }
   ],
   "Deutschland": [
    {
-    "sourceCount": 4,
-    "score": 7.04,
+    "sourceCount": 2,
+    "score": 3.99,
     "items": [
      {
-      "title": "Streit um Rentenreform: Arbeitsminister Schweitzer optimistisch",
-      "url": "https://www.tagesschau.de/inland/bundestag-haushalt-rentenreform-schweitzer-100.html",
+      "title": "Das plant Arbeitsminister Schweitzer für die Rente",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
       "source": "Tagesschau",
-      "date": "2026-11-27T12:07+01:00",
-      "teaser": "Die Koalition ringt weiter um die Rentenreform. Arbeitsminister Schweitzer ist optimistisch, dass es bald zu einer Einigung kommt. Es lägen gute Vorschläge auf dem Tisch, sagte er im Bundestag. Dort wurde der Etat seines Ministeriums debattiert."
+      "date": "2026-11-27T17:30+01:00",
+      "teaser": "Seit Monaten ringt die Koalition um einen Kompromiss bei der Rente. Arbeitsminister Schweitzer hat nun einen ersten Entwurf vorgelegt. Einer der Punkte: Die \"Rente mit 63\" soll im Kern bestehen bleiben. Von Jan-Peter Bartels und Tim Aßmann."
      },
      {
       "title": "Schweitzer will \"Rente mit 63\" erhalten - aber verändern",
@@ -233,19 +219,12 @@
       "source": "ZDF",
       "date": "2026-11-27T15:30+01:00",
       "teaser": "Arbeitsminister Alexander Schweitzer legt einen eigenen Vorschlag zur \"Rente mit 63\" vor. Sie soll demnach erhalten bleiben - wenn auch verändert. Die Union reagiert zurückhaltend."
-     },
-     {
-      "title": "Rente: Arbeitsminister Alexander Schweitzer legt Gesetzentwurf zur Rentenreform vor",
-      "url": "https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-27T16:18+01:00",
-      "teaser": "Gibt es einen Kompromiss im Rentenstreit? Der Arbeitsminister prescht mit einem Gesetzentwurf vor. Dieser sei jedoch, sagt das Kanzleramt, noch im Stadium der »Frühkoordinierung«."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.71,
     "items": [
      {
       "title": "Bundespolitik: Klimawandel: Umweltminister plädiert für Umbau am Rhein",
@@ -265,7 +244,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.92,
+    "score": 2.86,
+    "items": [
+     {
+      "title": "Rente: Arbeitsminister Alexander Schweitzer legt Gesetzentwurf zur Rentenreform vor",
+      "url": "https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-27T16:18+01:00",
+      "teaser": "Gibt es einen Kompromiss im Rentenstreit? Der Arbeitsminister prescht mit einem Gesetzentwurf vor. Dieser sei jedoch, sagt das Kanzleramt, noch im Stadium der »Frühkoordinierung«."
+     },
+     {
+      "title": "Rente mit 63: Arbeitsminister Schweitzer legt Entwurf zu Rentenreform vor",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/arbeitsminister-schweitzer-legt-entwurf-zu-rentenreform-vor",
+      "source": "Zeit",
+      "date": "2026-11-27T15:24+00:00",
+      "teaser": "Alexander Schweitzer will die Rente mit 63 in »modifizierter Form« erhalten. Einig sind sich Union und SPD weiter nicht."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.82,
     "items": [
      {
       "title": "News: Bundestag stimmt über umstrittenen Haushalt 2027 ab, Black Friday, Tech-Bros",
@@ -285,7 +284,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.85,
+    "score": 2.76,
     "items": [
      {
       "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
@@ -305,7 +304,46 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Reaktion auf Rentenpläne: Vizeleiter der Rentenkommission kritisiert Reformentwurf",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/rentenreform-alexander-schweitzer-rente-mit-63-kapitalrente",
+      "source": "Zeit",
+      "date": "2026-11-28T04:44+00:00",
+      "teaser": "Aus der Rentenkommission kommt Lob und Tadel. Linke und Gewerkschaften warnen vor einer Kündigungswelle. Ein CDU-Politiker stellt die Koalitionstreue der SPD infrage."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Deutschland Liveblog: Reaktionen auf Schweitzers Pläne: Ringen um Rente geht weiter",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-reaktionen-auf-schweitzers-plaene-ringen-um-rente-geht-weiter-faz-110093143.html",
+      "source": "FAZ",
+      "date": "2026-11-28T04:48+00:00",
+      "teaser": "Union reagiert reserviert auf die Rentenpläne des Arbeitsministers +++ Schweitzer bezeichnet seine Rentenpläne als einen „guten Kompromiss“ +++ Linken-Fraktionsvorsitzende Reichinnek kritisiert Pläne als „einziges Kürzungsprogramm“ +++ alle Entwicklungen im Liveblog"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Eichbaum Bier Ausverkauf lockt hunderte Schnäppchenjäger",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/fans-sichern-sich-die-letzten-kisten-eichbaum-100.html",
+      "source": "SWR",
+      "date": "2026-11-28T05:37+01:00",
+      "teaser": "Auf dem Gelände der insolventen Brauerei Eichbaum in Mannheim werden die letzten Bier- und Limo-Kisten für fünf Euro verkauft. Was Kunden mit der Traditionsmarke verbinden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.54,
     "items": [
      {
       "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
@@ -318,20 +356,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.6,
-    "items": [
-     {
-      "title": "Rentenreform: Heidi Reichinnek kritisiert Rentenpläne als »Kürzungsprogramm«",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/rentenreform-alexander-schweitzer-rente-mit-63-kapitalrente",
-      "source": "Zeit",
-      "date": "2026-11-27T23:15+00:00",
-      "teaser": "Die Linke und Gewerkschaften kritisieren Schweitzers Rentenpaket und warnen vor einer Kündigungswelle. Ein CDU-Politiker stellt die Koalitionstreue der SPD infrage."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.58,
+    "score": 1.49,
     "items": [
      {
       "title": "Schweitzer: Renten-Vorschlag \"nicht ganz ohne Schmerzen\"",
@@ -344,7 +369,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.54,
+    "score": 1.45,
     "items": [
      {
       "title": "USA: Noch immer Hunderttausende nach Sturm ohne Strom",
@@ -357,7 +382,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.51,
+    "score": 1.42,
     "items": [
      {
       "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
@@ -367,51 +392,77 @@
       "teaser": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange gearbeitet haben\"."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.42,
-    "items": [
-     {
-      "title": "Mann soll Ex-Freundin auf Pferdekoppel getötet haben",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/mann-soll-ex-freundin-auf-pferdekoppel-getoetet-haben-100.html",
-      "source": "SWR",
-      "date": "2026-11-27T22:02+01:00",
-      "teaser": "Ein 32-Jähriger soll seine ehemalige Freundin auf einer Pferdekoppel in Ettlingen getötet haben. Polizei und Staatsanwaltschaft ermitteln."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.41,
-    "items": [
-     {
-      "title": "Die Gästeliste der Kaulitz-Brüder",
-      "url": "https://www.zdfheute.de/video/panorama-wetten-dass-promi-gaeste-kaulitz-brueder-100.html",
-      "source": "ZDF",
-      "date": "2026-11-27T22:00+01:00",
-      "teaser": "Am 5. Dezember moderieren Bill und Tom Kaulitz „Wetten, dass..?“. Jetzt steht fest, welche Prominenten alle in der Show zu Gast sein werden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.39,
-    "items": [
-     {
-      "title": "Warum der einst \"größte Ladepark der Welt\" in Merklingen kaum genutzt wird",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ladepark-merklingen-wird-kaum-genutzt-100.html",
-      "source": "SWR",
-      "date": "2026-11-27T21:39+01:00",
-      "teaser": "Der Ladepark am Bahnhalt in Merklingen wurde 2023 als der größte Ladepark der Welt eröffnet. Nach drei Jahren wird er von E-Auto-Fahrern weitgehend ignoriert. Aber woran liegt das?"
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.53,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Nowe linie podziału świata. Porażka szczytu klimatycznego pokazuje zmianę w myśleniu",
+      "url": "https://klimat.rp.pl/klimat-i-ludzie/art45555131-nowe-linie-podzialu-swiata-porazka-szczytu-klimatycznego-pokazuje-zmiane-w-mysleniu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T06:00+01:00",
+      "teaser": "Zakończony w tureckiej Antalyi szczyt klimatyczny COP31 miał być spotkaniem technicznym, mało spektakularnym. Wyszedł skandal, który pokazuje, że na świecie nie ma obecnie zgody na temat tego, jak zatrzymać zmiany klimatu."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Kupiła PRL-owski ośrodek wypoczynkowy na Mazurach. „Moje serce mocniej zabiło”",
+      "url": "https://sukces.rp.pl/ludzie/art45520751-kupila-prl-owski-osrodek-wypoczynkowy-na-mazurach-moje-serce-mocniej-zabilo",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T06:00+01:00",
+      "teaser": "Miała kupić dom na Maderze, kupiła ośrodek na Mazurach. Kiedy zobaczyła zdjęcie kaskadowych balkonów mazurskiego ośrodka, powiedziała do swojego partnera: „Jedziemy. Muszę zobaczyć to miejsce”. Kilka miesięcy później była jego właścicielką. Porzuciła Warszawę, karierę w dużej firmie i życie w dużym "
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Prawicowy zajazd na Unię",
+      "url": "https://www.rp.pl/plus-minus/art45556851-prawicowy-zajazd-na-unie",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T06:00+01:00",
+      "teaser": "Zanim prezes PiS ujawnił swoje pomysły na zreformowaną UE, uczyniły to partia Marine Le Pen i przewodnicząca AfD Alice Weidel, kładąc nacisk na ograniczenie władzy brukselskich organów i redukcję zakresu unijnego prawa. Niechętni Jarosławowi Kaczyńskiemu komentatorzy przedstawiają go więc jako naśla"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Witamina D zmniejsza ryzyko choroby Alzheimera? Naukowcy wykazali związek",
+      "url": "https://www.rp.pl/choroby/art45545661-witamina-d-zmniejsza-ryzyko-choroby-alzheimera-naukowcy-wykazali-zwiazek",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T05:19+01:00",
+      "teaser": "Naukowcy wykazali, że wyższy poziom witaminy D w średnim wieku po latach wiąże się z niższym poziomem białka tau, biomarkera choroby Alzheimera. Wyniki muszą jednak zostać jeszcze potwierdzone dodatkowymi badaniami."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
+    "items": [
+     {
+      "title": "Dariusz Gawin: „Dzień świra” był wielkim wołaniem o formę po bezforemnych latach 90.",
+      "url": "https://www.rp.pl/opinie-polityczno-spoleczne/art45542481-dariusz-gawin-dzien-swira-byl-wielkim-wolaniem-o-forme-po-bezforemnych-latach-90",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T04:44+01:00",
+      "teaser": "„Dzień świra” to jeden z pierwszych filmów, w których dokonano próby bilansu transformacji i wszystkich procesów, które zaszły w Polsce od upadku komunizmu. Mimo że Adaś Miauczyński żył w świecie, który uważał tradycję romantyczną za coś zbędnego, została w nim łączność z prawdziwym etosem inteligen"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.44,
     "items": [
      {
       "title": "Pomogli Niemcy: Polscy koszykarze jadą na mistrzostwa świata",
@@ -424,7 +475,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.51,
+    "score": 1.42,
     "items": [
      {
       "title": "Atak Ukrainy na okręt w Libii odstraszył rosyjski konwój z pojazdami wojskowymi",
@@ -437,7 +488,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.47,
+    "score": 1.38,
     "items": [
      {
       "title": "Troje młodych ludzi zginęło w wypadku w Łomiankach. Kierowca uciekł. Jest akt oskarżenia",
@@ -450,7 +501,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.42,
+    "score": 1.33,
     "items": [
      {
       "title": "President vetoes Polish government’s middle-class tax cuts",
@@ -463,7 +514,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.41,
+    "score": 1.32,
     "items": [
      {
       "title": "Marine Le Pen grozi mediom. Po wygranej zakaże publikacji z tajemnicy śledztwa",
@@ -476,7 +527,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.4,
+    "score": 1.31,
     "items": [
      {
       "title": "Liderka AfD mówiła o \"zamachu stanu\" w Ukrainie. Sikorski: Powtarza rosyjskie kłamstwa",
@@ -489,7 +540,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.39,
+    "score": 1.3,
     "items": [
      {
       "title": "Podejrzany o wysadzenie Nord Stream znów wygrywa w sądzie. Tym razem w Chorwacji",
@@ -499,77 +550,32 @@
       "teaser": "Wysoki Sąd Karny Republiki Chorwacji uchylił decyzję o przekazaniu Niemcom Wołodymyra Żurawlowa, obywatela Ukrainy podejrzanego o udział w wysadzeniu gazociągów Nord Stream. Sprawa trafi do ponownego rozpatrzenia."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.37,
-    "items": [
-     {
-      "title": "Chińska rakieta przeleci nad Polską. Jej fragmenty mogą spaść na Ziemię. \"Śledź komunikaty\"",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33154675,chinska-rakieta-przeleci-nad-polska-jej-fragmenty-moga-spasc.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-27T20:25+00:00",
-      "teaser": "Ważący pięć ton człon chińskiej rakiety wejdzie w atmosferę Ziemi między 29 listopada a 1 grudnia. Trajektoria jego lotu przebiega m.in. nad Polską. Jego fragmenty mogą spaść na Ziemię - poinformowała Polska Agencja Kosmiczna."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.33,
-    "items": [
-     {
-      "title": "Grupa Wagnera podbija afrykański rynek tanim alkoholem. Przełamuje francuski monopol",
-      "url": "https://www.rp.pl/biznes/art45556981-grupa-wagnera-podbija-afrykanski-rynek-tanim-alkoholem-przelamuje-francuski-monopol",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T21:01+01:00",
-      "teaser": "Rosyjscy najemnicy z Grupy Wagnera rozszerzają wpływy gospodarcze w Republice Środkowoafrykańskiej. Po uzyskaniu dostępu do złóż złota i diamentów weszli na rynek produkcji i dystrybucji alkoholu."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.32,
-    "items": [
-     {
-      "title": "Poland signs $300m deal with Palantir for AI-powered battlefield software platform",
-      "url": "https://notesfrompoland.com/2026/11/27/poland-signs-300m-deal-with-palantir-for-ai-powered-battlefield-software-platform/",
-      "source": "Notes from Poland",
-      "date": "2026-11-27T19:52+00:00",
-      "teaser": "The system will help Poland \"build a modern army, ready for the challenges of the future\", says the defence minister."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.32,
-    "items": [
-     {
-      "title": "Przywódcy UE gotowi na starcie z Trumpem. \"Co mamy do stracenia?\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33154633,przywodcy-ue-gotowi-na-starcie-z-trumpem-co-mamy-do-stracenia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-27T19:49+00:00",
-      "teaser": "Przywódcy państw UE są coraz bardziej skłonni do konfrontacji z prezydentem USA Donaldem Trumpem w kwestiach dotyczących dalszego finansowania Ukrainy, podatku cyfrowego oraz zasad zamówień wojskowych - pisze Politico."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.27,
-    "items": [
-     {
-      "title": "Sikorski odpowiada liderce AfD. „W Kijowie nie było żadnego zamachu stanu”",
-      "url": "https://www.rp.pl/polityka/art45556891-sikorski-odpowiada-liderce-afd-w-kijowie-nie-bylo-zadnego-zamachu-stanu",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T20:20+01:00",
-      "teaser": "Radosław Sikorski krytycznie odniósł się do wypowiedzi współprzewodniczącej AfD Alice Weidel, która nazwała wydarzenia w Kijowie w 2014 roku zamachem stanu. Szef polskiego MSZ przypomniał, że Wiktor Janukowycz został odwołany przez demokratycznie wybrany ukraiński parlament."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.55,
+    "score": 3.86,
+    "items": [
+     {
+      "title": "Künstliche Intelligenz: OpenAI reicht im KI-Wettkampf Gegenklage gegen Apple ein",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/openai-apple-klage-geschaeftsgeheimnisse-mitarbeiter-abwerbung",
+      "source": "Zeit",
+      "date": "2026-11-28T03:28+00:00",
+      "teaser": "Der ChatGPT-Entwickler soll Geheimwissen von Apple abgezapft haben, um neuartige Geräte zu entwickeln. Apple hatte dagegen geklagt. Nun erhebt OpenAI ähnliche Vorwürfe."
+     },
+     {
+      "title": "Künstliche Intelligenz: OpenAI reicht im Streit um KI-Technologie Gegenklage gegen Apple ein",
+      "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-openai-reicht-im-streit-um-ki-technologie-gegenklage-gegen-apple-ein/100273392.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-27T22:13+00:00",
+      "teaser": "OpenAI wirft Apple den Diebstahl von Geschäftsgeheimnissen vor. Apple hatte zuvor ähnliche Vorwürfe gegen den ChatGPT-Entwickler erhoben."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.46,
     "items": [
      {
       "title": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
@@ -589,7 +595,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.83,
+    "score": 2.74,
     "items": [
      {
       "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
@@ -609,7 +615,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.59,
+    "score": 2.5,
     "items": [
      {
       "title": "SAP erwägt Abbau von mehr als 10.000 Stellen",
@@ -629,7 +635,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.23,
+    "score": 2.14,
     "items": [
      {
       "title": "SAP meldet verdächtige Aktivitäten",
@@ -649,7 +655,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Altersvorsorgedepot: Weiter Riestern – oder doch Vorsorgedepot?",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/altersvorsorgedepot-riester-rente-geldanlage-finanzen-tipps",
+      "source": "Zeit",
+      "date": "2026-11-28T04:59+00:00",
+      "teaser": "Das Altersvorsorgedepot löst ab Januar die Riester-Rente ab. Diese drei Fälle zeigen, wann ein Wechsel sinnvoll ist – und wann man besser schön im Riester-Vertrag bleibt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.86,
     "items": [
      {
       "title": "+++ Bundespolitik +++: Umweltminister plädiert für Umbau des Rheins",
@@ -662,20 +681,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Künstliche Intelligenz: OpenAI reicht im KI-Wettkampf Gegenklage gegen Apple ein",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/openai-apple-klage-geschaeftsgeheimnisse-mitarbeiter-abwerbung",
-      "source": "Zeit",
-      "date": "2026-11-28T03:28+00:00",
-      "teaser": "Der ChatGPT-Entwickler soll Geheimwissen von Apple abgezapft haben, um neuartige Geräte zu entwickeln. Apple hatte dagegen geklagt. Nun erhebt OpenAI ähnliche Vorwürfe."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "+++ Ukraine-Krieg +++: Russland stellt Atom-U-Boot mit Hyperschallraketen in Dienst",
@@ -688,7 +694,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.66,
     "items": [
      {
       "title": "Copper thieves prey on Japan’s ancient shrines in AI frenzy",
@@ -701,7 +707,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.66,
     "items": [
      {
       "title": "The Chinese car champion turning to police and nurse robots",
@@ -714,7 +720,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.73,
+    "score": 1.64,
     "items": [
      {
       "title": "NBC Pulls an Ad That Some Described as Antisemitic",
@@ -727,7 +733,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.65,
+    "score": 1.56,
     "items": [
      {
       "title": "The ‘diehard separatist’ shaking up Taipei’s election",
@@ -737,25 +743,26 @@
       "teaser": "Local polls across Taiwan are a test of support for the governing DPP ahead of crucial presidential vote in 2028"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.6,
-    "items": [
-     {
-      "title": "South Africa’s credit rating upgraded after years of economic stagnation",
-      "url": "https://www.ft.com/content/892ffe2f-1641-4e3d-b0d6-2693ca15cc95?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-27T23:13+00:00",
-      "teaser": "S&P says Pretoria’s ‘fiscal performance has consistently outperformed budget targets’"
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
     "score": 7.91,
+    "favorite": true,
+    "items": [
+     {
+      "title": "El Barça dejará visitar el vestuario del primer equipo en el Spotify Camp Nou",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256271/barca-dejara-visitar-vestuario-primer-equipo-spotify-camp-nou.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-28T05:00+01:00",
+      "teaser": "Uno de los grandes atractivos de la reapertura del nuevo Museu del Barça en el primer trimestre de 2027 será entrar en el vestuario del primer equipo. En el tour anterior, hasta mayo de 2023, antes de las obras, la ruta pasaba por el visitante. Ahora, sin embargo, como el primer equipo solo hace ‘vi"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.82,
     "favorite": true,
     "items": [
      {
@@ -769,7 +776,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.62,
+    "score": 7.53,
     "favorite": true,
     "items": [
      {
@@ -782,22 +789,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.59,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Vitor Roque, crítico sobre su etapa en el Barça: \"Apenas me hablaban\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256479/vitor-roque-critico-sobre-etapa-barca-apenas-me-hablaban.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T00:07+01:00",
-      "teaser": "Vitor Roque (21 años) ha pasado página de su etapa en el FC Barcelona, pero no ha olvidado las dificultades que vivió durante los meses que vistió de azulgrana. El delantero brasileño, que actualmente juega en el Palmeiras, con quien jugará la final de la Copa Libertadores ante Estudiantes (21.00h),"
-     }
-    ]
-   },
-   {
     "sourceCount": 3,
-    "score": 4.92,
+    "score": 4.82,
     "items": [
      {
       "title": "Jamal Musiala: Oliver Kahn lobt Joshua Kimmich und kritisiert FC-Bayern-Bosse",
@@ -824,7 +817,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.59,
+    "score": 3.99,
+    "items": [
+     {
+      "title": "Eintracht Frankfurt kritisiert fehlende Aufarbeitung der Polizei nach Krawallen gegen Stuttgart",
+      "url": "https://www.11freunde.de/bundesliga/eintracht-frankfurt-kritisiert-fehlende-aufarbeitung-der-polizei-nach-krawallen-im-spiel-gegen-stuttgart-a-17df0a31-3940-4e74-b7b4-0a03ddc4fe2d#ref=rss",
+      "source": "11 Freunde",
+      "date": "2026-11-27T10:43+01:00",
+      "teaser": "Drei Jahre nach den Auseinandersetzungen im Frankfurter Waldstadion beim Spiel gegen den VfB Stuttgart summieren sich die verhängten Freiheitsstrafen auf fast 50 Jahre. Die Eintracht bemängelt die fehlende Aufarbeitung des Vorgehens der Polizei."
+     },
+     {
+      "title": "Wer überträgt VfB Stuttgart gegen Eintracht Frankfurt heute live im TV & Stream?",
+      "url": "https://www.kicker.de/wer-uebertraegt-vfb-stuttgart-gegen-eintracht-frankfurt-heute-live-im-tv-stream-1275578/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-28T05:00+00:00",
+      "teaser": "Das Samstagabendspiel am 11. Spieltag der Bundesliga steigt in Stuttgart: Der VfB empfängt Tabellennachbar Eintracht Frankfurt. Wo du die Partie heute live im TV und Stream sehen kannst, erfährst du hier."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.5,
     "items": [
      {
       "title": "Die Sportschau vom Freitag mit Bremen gegen Mönchengladbach",
@@ -844,7 +857,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.56,
+    "score": 3.47,
     "items": [
      {
       "title": "Fußball-Bundesliga: Niclas Füllkrug rettet Werder Bremen spät Punkt gegen Gladbach",
@@ -864,7 +877,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.02,
+    "score": 2.93,
     "items": [
      {
       "title": "Renée Slegers leaves job as Arsenal Women’s coach after dismal run of results",
@@ -884,7 +897,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.95,
+    "score": 2.86,
     "items": [
      {
       "title": "Nächster Rückschlag: Bayerns Musiala erneut verletzt",
@@ -904,53 +917,41 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.58,
+    "score": 1.93,
     "items": [
      {
-      "title": "Mohya kritisiert \"Nachlässigkeiten\" - und sieht \"total ärgerliches\" Remis",
-      "url": "https://www.kicker.de/mohya-kritisiert-nachlaessigkeiten-und-sieht-total-aergerliches-remis-1275760/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-27T22:57+00:00",
-      "teaser": "Gladbach war in Bremen lange das bessere Team und führte schon mit 3:1, ehe die Fohlen den Sieg noch aus der Hand gaben. Wieder einmal wurden späte Gegentore zum Problem. Im Abstiegskampf wird das zur gefährlichen Hypothek für die Borussia."
+      "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
+      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
+      "source": "The Guardian",
+      "date": "2026-11-28T04:14+00:00",
+      "teaser": "US goes up 7-0 over El Salvador by half-time Win secures spot at 2027 World Cup and 2028 Olympics The United States’ place at a Women’s World Cup is treated as a foregone conclusion, but Friday’s all-or-nothing qualifier against El Salvador gave some reason for nerves. This was the first competitive"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.58,
+    "score": 1.9,
     "items": [
      {
-      "title": "Wilshere v Ramsey - Arsenal legends treading similar managerial paths",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm1dvn9w1px4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-27T22:58+00:00",
-      "teaser": "Eighteen years after making their Premier League debuts two minutes apart, Jack Wilshere and Aaron Ramsey meet as managers."
+      "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
+      "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
+      "source": "The Guardian",
+      "date": "2026-11-28T03:53+00:00",
+      "teaser": "Santiago Rodríguez strikes in stoppage time to seal win Inter Miami fail to defend 2025 MLS Cup title. Messi retired internationally earlier this year Inter Miami’s quest to defend their MLS Cup title is over. The South Florida side had two gilt-edged chances to take the lead in Game 2 of their best"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.56,
+    "score": 1.5,
+    "favorite": true,
     "items": [
      {
-      "title": "Füllkrug: \"Jetzt kam es so, dass ich durchspielen durfte - toll!\"",
-      "url": "https://www.kicker.de/fuellkrug-jetzt-kam-es-so-dass-ich-durchspielen-durfte-toll-1275757/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-27T22:44+00:00",
-      "teaser": "Werder Bremen kam gegen Schlusslicht Gladbach nicht über ein Remis hinaus, war ob des Spielverlaufs am Ende aber froh über das 3:3. Niclas Füllkrug freute sich sogar über mehr als das Unentschieden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.54,
-    "items": [
-     {
-      "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-27T22:30+00:00",
-      "teaser": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row."
+      "title": "Vitor Roque, crítico sobre su etapa en el Barça: \"Apenas me hablaban\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256479/vitor-roque-critico-sobre-etapa-barca-apenas-me-hablaban.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-28T00:07+01:00",
+      "teaser": "Vitor Roque (21 años) ha pasado página de su etapa en el FC Barcelona, pero no ha olvidado las dificultades que vivió durante los meses que vistió de azulgrana. El delantero brasileño, que actualmente juega en el Palmeiras, con quien jugará la final de la Copa Libertadores ante Estudiantes (21.00h),"
      }
     ]
    }
@@ -958,7 +959,7 @@
   "Tech & KI": [
    {
     "sourceCount": 4,
-    "score": 7.95,
+    "score": 7.86,
     "items": [
      {
       "title": "The absolute best Black Friday deals you can still get",
@@ -985,7 +986,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.86,
     "items": [
      {
       "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
@@ -998,7 +999,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 1.89,
+    "score": 1.8,
     "items": [
      {
       "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
@@ -1018,7 +1019,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.79,
+    "score": 1.7,
     "items": [
      {
       "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
@@ -1031,7 +1032,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.75,
+    "score": 1.66,
     "items": [
      {
       "title": "Tech Now",
@@ -1044,7 +1045,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.67,
+    "score": 1.58,
     "items": [
      {
       "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
@@ -1057,7 +1058,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.63,
+    "score": 1.53,
     "items": [
      {
       "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
@@ -1070,7 +1071,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.62,
+    "score": 1.53,
     "items": [
      {
       "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
@@ -1083,7 +1084,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.62,
+    "score": 1.53,
     "items": [
      {
       "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
@@ -1096,7 +1097,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.62,
+    "score": 1.53,
     "items": [
      {
       "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
@@ -1109,7 +1110,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.54,
+    "score": 1.45,
     "items": [
      {
       "title": "The new iPad Mini is getting its first major discount for Black Friday",
@@ -1122,7 +1123,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.28,
+    "score": 1.19,
     "items": [
      {
       "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
@@ -1194,7 +1195,7 @@
    "topic": "Welt & Politik",
    "source": "New York Times (Politik)",
    "ok": true,
-   "items": 9
+   "items": 10
   },
   {
    "topic": "Welt & Politik",
@@ -1464,7 +1465,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Tech & KI",
