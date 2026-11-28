@@ -1,10 +1,10 @@
 {
- "fetchedAt": "2026-11-28T05:07:58+00:00",
+ "fetchedAt": "2026-11-28T06:06:34+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 4,
-    "score": 7.35,
+    "score": 7.26,
     "items": [
      {
       "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
@@ -31,7 +31,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 4.0,
+    "items": [
+     {
+      "title": "US military says cyber systems secure after reports of Air Force hack",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3376113/us-military-says-cyber-systems-secure-after-reports-air-force-hack",
+      "source": "South China Morning Post",
+      "date": "2026-11-28T04:53+00:00",
+      "teaser": "The US military denied on Friday any issues with its computer security following media reports that the Air Force’s cloud-based system was hacked, in what would be the latest high-profile breach of US digital infrastructure in recent weeks. Asked whether the Air Force’s Cloud One platform had been h"
+     },
+     {
+      "title": "US military cloud platform reportedly hacked as Pentagon insists systems are secure",
+      "url": "https://www.france24.com/en/americas/20261128-us-military-cloud-platform-reportedly-hacked-as-pentagon-insists-systems-are-secure",
+      "source": "France 24",
+      "date": "2026-11-28T06:04+00:00",
+      "teaser": "Hackers reportedly breached the US Air Force's Cloud One platform late Friday, potentially exposing sensitive military data. The Pentagon did not specifically deny that the system had been accessed, but insists its networks remain secure amid an ongoing spate of cyber-related data incidents."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.9,
     "items": [
      {
       "title": "Costa Rica verweigert Francesca Albanese die Einreise",
@@ -41,7 +61,7 @@
       "teaser": "Terrorverdacht oder politische Abrechnung? Costa Rica verbietet einer israelkritischen Uno-Sonderberichterstatterin die Einreise und verweist auf »Verbindungen zu terroristischen Handlungen«. Es laufen mehrere Beschwerden."
      },
      {
-      "title": "Francesca Albanese: Costa Rica verweigert UN-Menschenrechtskommissarin die Einreise",
+      "title": "Francesca Albanese: Costa Rica verweigert UN-Sonderberichterstatterin die Einreise",
       "url": "https://www.zeit.de/politik/ausland/2026-11/un-sonderberichterstatterin-palaestina-francesca-albanese-costa-rica-einreiseverweigerung",
       "source": "Zeit",
       "date": "2026-11-28T04:52+00:00",
@@ -51,7 +71,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.87,
     "items": [
      {
       "title": "Threat from China looms large over Taiwan’s local elections",
@@ -71,7 +91,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.74,
     "items": [
      {
       "title": "Thanksgiving storm on U.S. East Coast knocks out power, disrupts flights",
@@ -91,7 +111,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.09,
+    "score": 2.01,
     "items": [
      {
       "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
@@ -114,75 +134,23 @@
     "score": 1.99,
     "items": [
      {
-      "title": "Markus Reisner: »Russland erdrückt die Ukraine langsam, wie eine Würgeschlange«",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/markus-reisner-oberst-oesterreich-ukraine-krieg",
-      "source": "Zeit",
-      "date": "2026-11-28T04:58+00:00",
-      "teaser": "Putin kann den Krieg noch lange durchhalten, warnt Oberst Markus Reisner. Er erklärt, warum die Front ein »gläsernes Gefechtsfeld« ist und er Europa für wehrlos hält."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Trump’s Embrace of Xi and Huang Stun China Critics in Washington",
-      "url": "https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html",
-      "source": "New York Times (USA)",
-      "date": "2026-11-28T05:01+00:00",
-      "teaser": "Warnings from hard-liners have grown more urgent amid what some call a winner-take-all race for A.I. dominance."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
-      "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-28T04:57+00:00",
-      "teaser": "Heavy rains affect 2,000 families in Peru's Piura and 47,000 people in Ecuador, where 34 deaths have been reported."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Saudi Arabia, Houthis trade attacks on rival capitals",
-      "url": "https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece",
-      "source": "The Hindu",
-      "date": "2026-11-28T10:21+05:30",
-      "teaser": "A Saudi-led coalition backing Yemen's internationally recognised government has been regularly bombing areas controlled by the Iran-backed group since Yemen's civil war reignited over the summer"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "US military says cyber systems secure after reports of Air Force hack",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3376113/us-military-says-cyber-systems-secure-after-reports-air-force-hack",
+      "title": "Chinese engineers defy Hormuz blockade to install Abu Dhabi drilling rigs",
+      "url": "https://www.scmp.com/news/china/article/3376116/chinese-engineers-defy-hormuz-blockade-install-abu-dhabi-drilling-rigs",
       "source": "South China Morning Post",
-      "date": "2026-11-28T04:53+00:00",
-      "teaser": "The US military denied on Friday any issues with its computer security following media reports that the Air Force’s cloud-based system was hacked, in what would be the latest high-profile breach of US digital infrastructure in recent weeks. Asked whether the Air Force’s Cloud One platform had been h"
+      "date": "2026-11-28T06:00+00:00",
+      "teaser": "As fighter jets screamed just above, a group of Chinese engineers defied wartime blockades in the Strait of Hormuz to deliver and install drilling rigs on an Abu Dhabi island. A team from Honghua Group, a unit of state-owned Dongfang Electric Group, transited the strait into the Persian Gulf to deli"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.98,
     "items": [
      {
-      "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
+      "title": "Victorian election 2026 live updates: polls point to Coalition win over Labor in state election results – latest news",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian",
-      "date": "2026-11-28T04:46+00:00",
+      "date": "2026-11-28T05:50+00:00",
       "teaser": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all of our Victorian sta"
      }
     ]
@@ -192,11 +160,50 @@
     "score": 1.97,
     "items": [
      {
-      "title": "UN chief frontrunner urged to speak out over Albanese detention",
-      "url": "https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "date": "2026-11-28T04:46+00:00",
-      "teaser": "Albanese's detention poses a test for Costa Rica's candidate, Rebeca Grynspan, who has led the UN's recent straw poll."
+      "title": "Breaking: North Melbourne AFLW duo announce retirement after historic three-peat",
+      "url": "https://www.abc.net.au/news/2026-11-28/emma-kearney-kate-shierlaw-annouce-retirement-afl/107438332",
+      "source": "ABC Australia",
+      "date": "2026-11-28T05:43+00:00",
+      "teaser": "Inaugural AFLW Kangaroos captain and eight-time All Australian Emma Kearney has announced her retirement following North Melbourne's third straight premiership victory alongside teammate and partner Kate Shierlaw."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Kenya cult leader found guilty of manslaughter of 123 followers asked to starve to meet Jesus",
+      "url": "https://www.thehindu.com/news/international/kenya-cult-leader-found-guilty-of-manslaughter-of-123-followers-asked-to-starve-to-meet-jesus/article71753625.ece",
+      "source": "The Hindu",
+      "date": "2026-11-28T10:55+05:30",
+      "teaser": "Kenyan cult leader Paul Mackenzie, already sentenced to 200 years in prison this month for the murder of 191 people, was convicted along with 29 followers, including his wife"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Hamas says Israel tried to kill chief’s son in Gaza",
+      "url": "https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece",
+      "source": "The Hindu",
+      "date": "2026-11-28T10:55+05:30",
+      "teaser": "‘Izz al-Din al-Hayya, the youngest surviving son of Hamas political bureau chief Khalil al-Hayya, along with his family and the family of his late brother Azzam, survived an Israeli assassination attempt,’ a security source in Gaza told AFP"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Sarawak state election: retreat by Anwar and rivals brings ruling GPS closer to victory",
+      "url": "https://www.scmp.com/week-asia/politics/article/3376115/sarawak-state-election-retreat-anwar-and-rivals-brings-ruling-gps-closer-victory",
+      "source": "South China Morning Post",
+      "date": "2026-11-28T05:21+00:00",
+      "teaser": "The move by Malaysia’s Prime Minister Anwar Ibrahim and his political rivals to sit out next month’s election in Sarawak has led to the state’s ruling coalition, Gabungan Parti Sarawak (GPS), coming in striking distance of victory on Saturday even before a single ballot is cast. Anwar and his federa"
      }
     ]
    }
@@ -204,7 +211,7 @@
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.91,
     "items": [
      {
       "title": "Das plant Arbeitsminister Schweitzer für die Rente",
@@ -224,7 +231,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.71,
+    "score": 3.62,
     "items": [
      {
       "title": "Bundespolitik: Klimawandel: Umweltminister plädiert für Umbau am Rhein",
@@ -244,7 +251,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.86,
+    "score": 2.78,
     "items": [
      {
       "title": "Rente: Arbeitsminister Alexander Schweitzer legt Gesetzentwurf zur Rentenreform vor",
@@ -264,14 +271,14 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.82,
+    "score": 2.74,
     "items": [
      {
-      "title": "News: Bundestag stimmt über umstrittenen Haushalt 2027 ab, Black Friday, Tech-Bros",
-      "url": "https://www.spiegel.de/politik/deutschland/news-bundestag-stimmt-ueber-umstrittenen-haushalt-2027-ab-black-friday-tech-bros-a-0b1477f8-87c0-41a9-a19e-58a8f241fb36#ref=rss",
+      "title": "Haushalt: Bundestag beschließt Etat für 2027",
+      "url": "https://www.spiegel.de/politik/deutschland/haushalt-bundestag-beschliesst-etat-fuer-2027-a-a42c379c-74eb-4ecc-9b63-71105aed94f0#ref=rss",
       "source": "Spiegel",
-      "date": "2026-11-27T05:44+01:00",
-      "teaser": "Der Bundestag stimmt über den umstrittenen Etat für 2027 ab. Ein Vordenker der US-Demokraten will die Macht der Techmilliardäre brechen. Der Black Friday lockt Schnäppchenjäger – und alarmiert Gewerkschaften. Das ist die Lage am Freitagmorgen."
+      "date": "2026-11-27T14:47+01:00",
+      "teaser": "Zähe Verhandlungen, nicht enden wollende Debatten – und dann doch ein Beschluss: Der Staatsetat für das kommende Jahr ist vom Bundestag abgesegnet worden."
      },
      {
       "title": "Haushalt 2027: Bundestag beschließt Haushalt für 2027",
@@ -284,7 +291,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.76,
+    "score": 2.68,
     "items": [
      {
       "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
@@ -304,14 +311,27 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 2.0,
     "items": [
      {
-      "title": "Reaktion auf Rentenpläne: Vizeleiter der Rentenkommission kritisiert Reformentwurf",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/rentenreform-alexander-schweitzer-rente-mit-63-kapitalrente",
-      "source": "Zeit",
-      "date": "2026-11-28T04:44+00:00",
-      "teaser": "Aus der Rentenkommission kommt Lob und Tadel. Linke und Gewerkschaften warnen vor einer Kündigungswelle. Ein CDU-Politiker stellt die Koalitionstreue der SPD infrage."
+      "title": "Mann soll Ex-Freundin auf Pferdekoppel getötet haben",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/mann-soll-ex-freundin-auf-pferdekoppel-getoetet-haben-100.html",
+      "source": "SWR",
+      "date": "2026-11-28T07:04+01:00",
+      "teaser": "Ein 32-Jähriger soll seine ehemalige Freundin auf einer Pferdekoppel in Ettlingen getötet haben. Polizei und Staatsanwaltschaft ermitteln."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-28T06:51+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
      }
     ]
    },
@@ -320,76 +340,63 @@
     "score": 1.97,
     "items": [
      {
-      "title": "Deutschland Liveblog: Reaktionen auf Schweitzers Pläne: Ringen um Rente geht weiter",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-reaktionen-auf-schweitzers-plaene-ringen-um-rente-geht-weiter-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-28T04:48+00:00",
-      "teaser": "Union reagiert reserviert auf die Rentenpläne des Arbeitsministers +++ Schweitzer bezeichnet seine Rentenpläne als einen „guten Kompromiss“ +++ Linken-Fraktionsvorsitzende Reichinnek kritisiert Pläne als „einziges Kürzungsprogramm“ +++ alle Entwicklungen im Liveblog"
+      "title": "Nachbarschaftshilfe für mehr Miteinander: In dieser Stadt gibt es eine Bank für Zeit",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/zeit-statt-geld-spenden-100.html",
+      "source": "SWR",
+      "date": "2026-11-28T06:48+01:00",
+      "teaser": "Rund 270 Menschen spenden in Lörrach Zeit statt Geld. Die sogenannte Zeitbank in Lörrach koordiniert Nachbarschaftshilfe. Und ihre Gründerin sieht ein Modell für die Zukunft."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.95,
     "items": [
      {
-      "title": "Eichbaum Bier Ausverkauf lockt hunderte Schnäppchenjäger",
+      "title": "News: Pedro Sánchez unter Druck, Welthungerkrise, Streit um Arbeitsminister Schweitzer",
+      "url": "https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-28T06:34+01:00",
+      "teaser": "In Spanien muss der Linke Pedro Sánchez seine Abwahl fürchten. Die Weltgemeinschaft versagt im Kampf gegen den Hunger. Und Arbeitsminister Alexander Schweitzer bringt die Union gegen sich auf. Das ist die Lage am Samstagmorgen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Bier-Ausverkauf bei Eichbaum lockt hunderte Schnäppchenjäger",
       "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/fans-sichern-sich-die-letzten-kisten-eichbaum-100.html",
       "source": "SWR",
-      "date": "2026-11-28T05:37+01:00",
+      "date": "2026-11-28T06:29+01:00",
       "teaser": "Auf dem Gelände der insolventen Brauerei Eichbaum in Mannheim werden die letzten Bier- und Limo-Kisten für fünf Euro verkauft. Was Kunden mit der Traditionsmarke verbinden."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.54,
+    "score": 1.95,
     "items": [
      {
-      "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-28T00:35+01:00",
-      "teaser": "Ein werktags berechneter Höchstpreis, Bußgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden."
+      "title": "Von Springfield nach Waiblingen: \"Die Simpsons\" bekommen eigene Ausstellung in der Galerie Stihl",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/simpsons-ausstellung-galerie-stihl-waiblingen-100.html",
+      "source": "SWR",
+      "date": "2026-11-28T06:27+01:00",
+      "teaser": "Wie erschafft man eine Animationsserie? Die Galerie Stihl Waiblingen zeigt, mit wie viel analogem Aufwand die TV-Serie \"Die Simpsons\" in ihrer Anfangszeit entstanden ist."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.49,
+    "score": 1.91,
     "items": [
      {
-      "title": "Schweitzer: Renten-Vorschlag \"nicht ganz ohne Schmerzen\"",
-      "url": "https://www.zdfheute.de/politik/deutschland/alexander-schweitzer-rente-reform-vorschlag-spd-cdu-kritik-koalition-100.html",
+      "title": "Goldpreis auf Tiefstand: Was Anleger jetzt wissen sollten",
+      "url": "https://www.zdfheute.de/wirtschaft/goldpreis-gold-kaufen-goldkurs-aktuell-anleger-100.html",
       "source": "ZDF",
-      "date": "2026-11-28T00:01+01:00",
-      "teaser": "Mit seinem Konzept für die Rente hat SPD-Arbeitsminister Schweitzer die Union irritiert. Im ZDF-Interview verteidigt er die Pläne - und auch die Einschnitte bei der \"Rente mit 63\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.45,
-    "items": [
-     {
-      "title": "USA: Noch immer Hunderttausende nach Sturm ohne Strom",
-      "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-sturm-stromausfall-ostkueste-pennsylvania-li.3578585",
-      "source": "Süddeutsche",
-      "date": "2026-11-27T22:28+00:00",
-      "teaser": "An den Stränden im Nordosten des Landes ist weiterhin mit Überschwemmungen zu rechnen. In New York musste erstmals die Thanksgiving-Parade verschoben werden."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.42,
-    "items": [
-     {
-      "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-27T23:10+01:00",
-      "teaser": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange gearbeitet haben\"."
+      "date": "2026-11-28T06:00+01:00",
+      "teaser": "Gold hat seit seinem Allzeithoch rund 38 Prozent seines Wertes verloren. In Krisenzeiten ist das Edelmetall normalerweise ein sicherer Hafen. Warum das diesmal nicht so ist."
      }
     ]
    }
@@ -398,6 +405,71 @@
    {
     "sourceCount": 1,
     "score": 1.99,
+    "items": [
+     {
+      "title": "Rosjanie urządzają polowanie na ukraińskiej kolei. Kilkaset lokomotyw tylko w tym roku",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198077,33154368,rosjanie-urzadzaja-polowanie-na-ukrainskiej-kolei-kilkaset.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-28T06:00+00:00",
+      "teaser": "Dzięki rozwojowi technologii dronów, Rosjanie byli w stanie znacznie zwiększyć skalę ataków na ukraińską kolej. I to nie w postaci uderzeń na duże cele jak lokomotywownie, ale na małe i ruchome jak pojedyncze lokomotywy. Skutki dla ukraińskiego systemu nie są znane, ale muszą być odczuwalne."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Sondaż: Niemal połowy Polaków chce zmiany premiera, jeśli obecna koalicja utrzyma władzę",
+      "url": "https://www.rp.pl/polityka/art45557331-sondaz-niemal-polowy-polakow-chce-zmiany-premiera-jesli-obecna-koalicja-utrzyma-wladze",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T06:47+01:00",
+      "teaser": "Niemal połowa Polaków uważa, że w przypadku utrzymania władzy przez obecną koalicję rządzącą powinno dojść do zmiany na stanowisku premiera - wynika z sondażu SW Research dla rp.pl."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Arka Noego 9 metrów pod ziemią? Przełomowe wyniki badań wskazują biblijne daty",
+      "url": "https://www.rp.pl/archeologia/art45547431-arka-noego-9-metrow-pod-ziemia-przelomowe-wyniki-badan-wskazuja-biblijne-daty",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T06:32+01:00",
+      "teaser": "Zespół ekspertów badający formację Durupınar w pobliżu góry Ararat we wschodniej Turcji poinformował o wynikach badań laboratoryjnych dwóch fragmentów zwęglonego drewna wydobytych z głębokości ponad 9 metrów. Analiza wskazuje, że materiał pochodzi sprzed około 4300 lat."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "Katastrofa smoleńska. Prokuratura przekazała wnioski z opinii biegłych [NA POCZĄTEK DNIA]",
+      "url": "https://wiadomosci.gazeta.pl/polska/7,198072,33154650,katastrofa-smolenska-prokuratura-przekazala-wnioski-z-opinii.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-28T05:30+00:00",
+      "teaser": "Dla tych, którzy w piątek 27 listopada nie mieli czasu śledzić wiadomości, przygotowaliśmy skróconą wersję najważniejszych informacji."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Putin pokazał nową broń Rosji. Okręt z hipersonicznymi rakietami rusza na Pacyfik",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33154709,putin-pokazal-nowa-bron-rosji-okret-z-hipersonicznymi-rakietami.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-28T05:15+00:00",
+      "teaser": "Władimir Putin wziął udział w ceremonii podniesienia bandery na okręcie podwodnym o napędzie atomowym Perm. Okręt jako pierwszy w Marynarce Wojennej Rosji jest uzbrojony w pociski hipersoniczne Cyrkon."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Nowe linie podziału świata. Porażka szczytu klimatycznego pokazuje zmianę w myśleniu",
@@ -410,7 +482,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.91,
     "items": [
      {
       "title": "Kupiła PRL-owski ośrodek wypoczynkowy na Mazurach. „Moje serce mocniej zabiło”",
@@ -423,7 +495,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.91,
     "items": [
      {
       "title": "Prawicowy zajazd na Unię",
@@ -436,7 +508,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.85,
     "items": [
      {
       "title": "Witamina D zmniejsza ryzyko choroby Alzheimera? Naukowcy wykazali związek",
@@ -449,7 +521,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.8,
     "items": [
      {
       "title": "Dariusz Gawin: „Dzień świra” był wielkim wołaniem o formę po bezforemnych latach 90.",
@@ -462,7 +534,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.44,
+    "score": 1.35,
     "items": [
      {
       "title": "Pomogli Niemcy: Polscy koszykarze jadą na mistrzostwa świata",
@@ -475,7 +547,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.42,
+    "score": 1.33,
     "items": [
      {
       "title": "Atak Ukrainy na okręt w Libii odstraszył rosyjski konwój z pojazdami wojskowymi",
@@ -485,77 +557,12 @@
       "teaser": "Rosyjski konwój transportujący sprzęt wojskowy do Libii zmienił kurs po zatopieniu korwety Merkury w porcie w Bengazi. Jak donosi Reuters, pojazdy militarne mogły być przeznaczone dla rosyjskiego Korpusu Afrykańskiego, który zastąpił na kontynencie Grupę Wagnera."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.38,
-    "items": [
-     {
-      "title": "Troje młodych ludzi zginęło w wypadku w Łomiankach. Kierowca uciekł. Jest akt oskarżenia",
-      "url": "https://wiadomosci.gazeta.pl/polska/7,198073,33154705,troje-mlodych-ludzi-zginelo-w-wypadku-w-lomiankach-jest-akt.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-27T21:39+00:00",
-      "teaser": "Prokuratura oskarżyła kierującego Audi 44-letniego Patryka R. między innymi o spowodowanie śmiertelnego wypadku pod wpływem alkoholu i ucieczkę z miejsca zdarzenia. Wraz z nim jechał 33-letni Piotr B., który - według śledczych - nie udzielił pomocy poszkodowanym."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.33,
-    "items": [
-     {
-      "title": "President vetoes Polish government’s middle-class tax cuts",
-      "url": "https://notesfrompoland.com/2026/11/27/president-vetoes-polish-governments-middle-class-tax-cuts/",
-      "source": "Notes from Poland",
-      "date": "2026-11-27T21:02+00:00",
-      "teaser": "The measures would have been funded by increasing taxes on large companies and the highest earners."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.32,
-    "items": [
-     {
-      "title": "Marine Le Pen grozi mediom. Po wygranej zakaże publikacji z tajemnicy śledztwa",
-      "url": "https://www.rp.pl/polityka/art45557151-marine-le-pen-grozi-mediom-po-wygranej-zakaze-publikacji-z-tajemnicy-sledztwa",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T22:00+01:00",
-      "teaser": "Przewodnicząca Zjednoczenia Narodowego Marine Le Pen zapowiada ograniczenia dla mediów, jeśli wygra wybory prezydenckie we Francji w przyszłym roku. Jej zdaniem dziennikarze nie powinni korzystać z informacji pochodzących z naruszenia tajemnicy śledztwa."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.31,
-    "items": [
-     {
-      "title": "Liderka AfD mówiła o \"zamachu stanu\" w Ukrainie. Sikorski: Powtarza rosyjskie kłamstwa",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33154682,liderka-afd-mowila-o-zamachu-stanu-w-ukrainie-sikorski-powtarza.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-27T20:49+00:00",
-      "teaser": "Rada Najwyższa Ukrainy w 2014 roku odsunęła od władzy prezydenta Wiktora Janukowycza. Radosław Sikorski - jako uczestnik negocjacji między politykiem a opozycją - zdementował twierdzenia Alice Weidel, że doszło tam do \"zamachu stanu\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.3,
-    "items": [
-     {
-      "title": "Podejrzany o wysadzenie Nord Stream znów wygrywa w sądzie. Tym razem w Chorwacji",
-      "url": "https://www.rp.pl/przestepczosc/art45557121-podejrzany-o-wysadzenie-nord-stream-znow-wygrywa-w-sadzie-tym-razem-w-chorwacji",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-27T21:43+01:00",
-      "teaser": "Wysoki Sąd Karny Republiki Chorwacji uchylił decyzję o przekazaniu Niemcom Wołodymyra Żurawlowa, obywatela Ukrainy podejrzanego o udział w wysadzeniu gazociągów Nord Stream. Sprawa trafi do ponownego rozpatrzenia."
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.78,
     "items": [
      {
       "title": "Künstliche Intelligenz: OpenAI reicht im KI-Wettkampf Gegenklage gegen Apple ein",
@@ -575,7 +582,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.46,
+    "score": 3.38,
     "items": [
      {
       "title": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
@@ -595,7 +602,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.74,
+    "score": 2.66,
     "items": [
      {
       "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
@@ -615,7 +622,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.5,
+    "score": 2.42,
     "items": [
      {
       "title": "SAP erwägt Abbau von mehr als 10.000 Stellen",
@@ -635,7 +642,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.14,
+    "score": 2.06,
     "items": [
      {
       "title": "SAP meldet verdächtige Aktivitäten",
@@ -655,7 +662,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.91,
     "items": [
      {
       "title": "Altersvorsorgedepot: Weiter Riestern – oder doch Vorsorgedepot?",
@@ -668,7 +675,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.78,
     "items": [
      {
       "title": "+++ Bundespolitik +++: Umweltminister plädiert für Umbau des Rheins",
@@ -681,7 +688,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.75,
     "items": [
      {
       "title": "+++ Ukraine-Krieg +++: Russland stellt Atom-U-Boot mit Hyperschallraketen in Dienst",
@@ -694,7 +701,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.58,
     "items": [
      {
       "title": "Copper thieves prey on Japan’s ancient shrines in AI frenzy",
@@ -707,7 +714,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.57,
     "items": [
      {
       "title": "The Chinese car champion turning to police and nurse robots",
@@ -720,7 +727,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.64,
+    "score": 1.56,
     "items": [
      {
       "title": "NBC Pulls an Ad That Some Described as Antisemitic",
@@ -733,7 +740,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.56,
+    "score": 1.48,
     "items": [
      {
       "title": "The ‘diehard separatist’ shaking up Taipei’s election",
@@ -748,49 +755,49 @@
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.91,
+    "score": 7.99,
     "favorite": true,
     "items": [
      {
-      "title": "El Barça dejará visitar el vestuario del primer equipo en el Spotify Camp Nou",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256271/barca-dejara-visitar-vestuario-primer-equipo-spotify-camp-nou.html",
+      "title": "Amarillo marcó el \"gol de Eurovisión\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256429/amarillo-marco-gol-eurovision.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T05:00+01:00",
-      "teaser": "Uno de los grandes atractivos de la reapertura del nuevo Museu del Barça en el primer trimestre de 2027 será entrar en el vestuario del primer equipo. En el tour anterior, hasta mayo de 2023, antes de las obras, la ruta pasaba por el visitante. Ahora, sin embargo, como el primer equipo solo hace ‘vi"
+      "date": "2026-11-28T07:00+01:00",
+      "teaser": "Fue uno de los dos únicos goles que marcó aquella temporada con la camiseta del Barça , pero al uruguayo Alfredo Amarillo le valió ser encumbrado como el autor del mejor gol del mes en Europa, elegido por Eurovisión entre todos los partidos de las ligas continentales televisados en directo aquel mes"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.82,
+    "score": 7.99,
     "favorite": true,
     "items": [
      {
-      "title": "El Barça lleva 10 victorias seguidas en el aniversario de su fundación",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256313/barca-lleva-10-victorias-seguidas-aniversario-fundacion.html",
+      "title": "El Barça Atlètic recibe al Terrassa con el liderato en juego",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256363/barca-atletic-recibe-terrassa-liderato-juego.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T04:00+01:00",
-      "teaser": "Escribiendo cada día más páginas de gloria, el FC Barcelona celebra este domingo su 127º aniversario y, como el año pasado, volverá a coincidir con un partido de Liga , esta vez en Riazor ante el recién ascendido Deportivo de A Coruña (16.15 h./DAZN) en plena jornada electoral. El reto es mantener e"
+      "date": "2026-11-28T07:00+01:00",
+      "teaser": "Partidazo por el liderato del Grupo 2 de Segunda RFEF en el Estadi Johan Cruyff. El Barça Atlètic , líder con 26 puntos, recibe este sábado (17.30 horas/Esport3, YouTube FCB) al Terrassa , segundo con dos puntos menos, en un duelo vibrante."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 7.53,
+    "score": 7.99,
     "favorite": true,
     "items": [
      {
-      "title": "Así será el nuevo Museu del Barça",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256263/asi-sera-nuevo-museu-barca.html",
+      "title": "La estadística que más mosquea a Flick",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256359/estadistica-mosquea-flick.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T00:30+01:00",
-      "teaser": "Los récords de 1,9 millones de visitantes en 2016 y los 42 millones de euros de facturación en 2019 justo antes de que la Covid mermara la economía del club quedarán seguramente atrás cuando vea la luz el nuevo Museu del FC Barcelona . En las entrañas del Spotify Camp Nou está ya muy cerca de ser un"
+      "date": "2026-11-28T07:00+01:00",
+      "teaser": "Una de las imágenes de la goleada por 1-4 del Barça ante el Sabah en Bakú (Azerbaiyán) en la Champions League fue ver a Hansi Flick enfurecido al recibir el tanto en contra, cuando tenían el partido controlado por 0-4, quitándose el anorak que le protegía del frío y tirándolo al banquillo. Al técnic"
      }
     ]
    },
    {
     "sourceCount": 3,
-    "score": 4.82,
+    "score": 4.74,
     "items": [
      {
       "title": "Jamal Musiala: Oliver Kahn lobt Joshua Kimmich und kritisiert FC-Bayern-Bosse",
@@ -817,7 +824,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.91,
     "items": [
      {
       "title": "Eintracht Frankfurt kritisiert fehlende Aufarbeitung der Polizei nach Krawallen gegen Stuttgart",
@@ -837,14 +844,14 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.5,
+    "score": 3.42,
     "items": [
      {
-      "title": "Die Sportschau vom Freitag mit Bremen gegen Mönchengladbach",
-      "url": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2711-100.html",
+      "title": "Natürlich Füllkrug - Mönchengladbach verspielt Sieg in Bremen",
+      "url": "https://www.sportschau.de/fussball/bundesliga/natuerlich-fuellkrug-gladbach-verspielt-sieg-in-bremen,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
       "source": "Sportschau",
-      "date": "2026-11-28T00:05+01:00",
-      "teaser": "Sehen Sie hier die Sportschau am Freitag mit den Highlights vom Spiel Werder Bremen gegen Borussia Mönchengladbach, der 2. Bundesliga, der 3. Liga und der Frauen-Bundesliga."
+      "date": "2026-11-27T23:37+01:00",
+      "teaser": "Werder Bremen und Borussia Mönchengladbach liefern sich in der Fußball-Bundesliga ein rasantes und hoch emotionales Spiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen."
      },
      {
       "title": "Bundesliga, 11. Spieltag – Freitag: Schlusslicht Mönchengladbach verpasst Sieg bei Werder Bremen",
@@ -857,27 +864,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.47,
-    "items": [
-     {
-      "title": "Fußball-Bundesliga: Niclas Füllkrug rettet Werder Bremen spät Punkt gegen Gladbach",
-      "url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-27T23:46+01:00",
-      "teaser": "Gladbach führte in Bremen dreimal, doch am Ende reichte es nicht für einen Sieg. Niclas Füllkrug hat Werder mit seinem Treffer in der Nachspielzeit vor einer Niederlage bewahrt."
-     },
-     {
-      "title": "Natürlich Füllkrug - Gladbach verspielt Sieg in Bremen",
-      "url": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
-      "source": "Sportschau",
-      "date": "2026-11-27T23:37+01:00",
-      "teaser": "Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.93,
+    "score": 2.84,
     "items": [
      {
       "title": "Renée Slegers leaves job as Arsenal Women’s coach after dismal run of results",
@@ -897,7 +884,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.86,
+    "score": 2.77,
     "items": [
      {
       "title": "Nächster Rückschlag: Bayerns Musiala erneut verletzt",
@@ -917,49 +904,62 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.99,
     "items": [
      {
-      "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
-      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
-      "source": "The Guardian",
-      "date": "2026-11-28T04:14+00:00",
-      "teaser": "US goes up 7-0 over El Salvador by half-time Win secures spot at 2027 World Cup and 2028 Olympics The United States’ place at a Women’s World Cup is treated as a foregone conclusion, but Friday’s all-or-nothing qualifier against El Salvador gave some reason for nerves. This was the first competitive"
+      "title": "Wer überträgt VfL Osnabrück gegen Hannover 96 heute live im Free-TV & Stream?",
+      "url": "https://www.kicker.de/wer-uebertraegt-vfl-osnabrueck-gegen-hannover-96-heute-live-im-free-tv-stream-1274987/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-28T06:00+00:00",
+      "teaser": "Das Samstagabendspiel in der 2. Bundesliga steigt dieses Mal bei Aufsteiger Osnabrück. Der VfL empfängt Hannover 96 zum Niedersachsen-Duell. Wo ihr die Partie heute live im TV und Stream verfolgen könnt, erfahrt ihr hier."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.99,
     "items": [
      {
-      "title": "Columbus Crew eliminate Messi and Inter Miami from MLS playoffs with stoppage-time strike",
-      "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
-      "source": "The Guardian",
-      "date": "2026-11-28T03:53+00:00",
-      "teaser": "Santiago Rodríguez strikes in stoppage time to seal win Inter Miami fail to defend 2025 MLS Cup title. Messi retired internationally earlier this year Inter Miami’s quest to defend their MLS Cup title is over. The South Florida side had two gilt-edged chances to take the lead in Game 2 of their best"
+      "title": "Querido Palau",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256437/querido-palau.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-28T07:00+01:00",
+      "teaser": "El viejo Palau Blaugrana no se resigna a jubilarse. El entrañable recinto inaugurado en 1971 es historia cívica y cultural de la ciudad, además de deportiva. En 1976 el mitin ‘Guanyem la Llibertat’ fue el primer acto reivindicativo de masas desde la Guerra Civil. Títulos y camisetas sagradas forman "
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.5,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "No está feo, Gavi: dilo más fuerte",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256406/no-esta-feo-gavi-dilo-mas-fuerte.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-28T06:30+01:00",
+      "teaser": "Un equipo que aspira a ganar todos los títulos no lo pueden componer sólo los once titulares que la gente suele tener en mente, sino también una docena más de futbolistas que deben estar preparados para echar una mano cuando se les necesita. A veces acaban siendo más importantes que algunos de los p"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
     "favorite": true,
     "items": [
      {
-      "title": "Vitor Roque, crítico sobre su etapa en el Barça: \"Apenas me hablaban\"",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256479/vitor-roque-critico-sobre-etapa-barca-apenas-me-hablaban.html",
+      "title": "Casadó: \"A los laterales ya les he dicho qué es lo que desquicia a Lamine\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256317/casado-laterales-les-he-dicho-desquicia-lamine.html",
       "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T00:07+01:00",
-      "teaser": "Vitor Roque (21 años) ha pasado página de su etapa en el FC Barcelona, pero no ha olvidado las dificultades que vivió durante los meses que vistió de azulgrana. El delantero brasileño, que actualmente juega en el Palmeiras, con quien jugará la final de la Copa Libertadores ante Estudiantes (21.00h),"
+      "date": "2026-11-28T06:30+01:00",
+      "teaser": "Marc Casadó (23 años) se mide mañana al Barça , el equipo de su vida, tras salir el pasado verano como cedido al Deportivo . “Será muy especial”, confiesa el catalán en su entrevista con Mundo Deportivo . “He hablado con los laterales para decirles lo que le desquicia a Lamine”, dijo."
      }
     ]
    }
   ],
   "Tech & KI": [
    {
-    "sourceCount": 4,
-    "score": 7.86,
+    "sourceCount": 3,
+    "score": 5.78,
     "items": [
      {
       "title": "The absolute best Black Friday deals you can still get",
@@ -976,17 +976,69 @@
       "teaser": "Eine schwenkbare Überwachungskamera für den Innenbereich mit FHD, Nachtsicht und Alexa gibt es am Black Friday zum Sparpreis bei Amazon. ( Videoüberwachung , Black Friday )"
      },
      {
-      "title": "Best Amazon Device Black Friday Deals I’ve Found (2026): Kindles, Echo Speakers",
-      "url": "https://www.wired.com/story/best-amazon-device-black-friday-deals-11-27-2026/",
-      "source": "Wired",
-      "date": "2026-11-27T20:51+00:00",
-      "teaser": "From Kindle e-readers to Alexa-powered smart speakers, these are the Amazon device Black Friday sales you won't want to miss."
+      "title": "The best Black Friday deals Ars could find",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "source": "Ars Technica",
+      "date": "2026-11-27T17:05+00:00",
+      "teaser": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Altra Running Promo Codes: 10% Off November 2026",
+      "url": "https://www.wired.com/story/altra-promo-code/",
+      "source": "Wired",
+      "date": "2026-11-28T06:00+00:00",
+      "teaser": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Govee Discount Codes and Deals: 30% Off",
+      "url": "https://www.wired.com/story/govee-discount-code/",
+      "source": "Wired",
+      "date": "2026-11-28T06:00+00:00",
+      "teaser": "New to Govee? Get a $5 coupon on your first purchase just for signing up."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Rockstar verzichtet bei GTA 6 auf generative KI – und sendet damit ein Signal an andere Branchen",
+      "url": "https://t3n.de/news/gta-6-ohne-generative-ki-rockstar-1774449/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-28T06:15+01:00",
+      "teaser": "Grand Theft Auto 6 ist ein gigantisches und ein bedeutendes Spiel. Aber wird es auch beeinflussen, wie Videospiele zukünftig aussehen? Das wahrscheinlich eher nicht – dafür dürften andere Branchen aber genau hinschauen. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Ghost Core: 19-Jähriger baut lokale KI ohne Bildschirm, gesteuert per Smartphone",
+      "url": "https://t3n.de/news/ghost-core-lokaler-ki-computer-ohne-bildschirm-1767111/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-28T06:05+01:00",
+      "teaser": "Während die etablierte Tech-Branche bei autonomen KI-Programmen auf Rechenzentren setzt, wählt ein neunzehnjähriger Entwickler den exakt entgegengesetzten Weg. Seine bildschirmlose Spezialhardware für den Heimeinsatz ist jedoch recht kostspielig. weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.78,
     "items": [
      {
       "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
@@ -999,7 +1051,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 1.8,
+    "score": 1.72,
     "items": [
      {
       "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
@@ -1019,7 +1071,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.7,
+    "score": 1.62,
     "items": [
      {
       "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
@@ -1032,7 +1084,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.66,
+    "score": 1.57,
     "items": [
      {
       "title": "Tech Now",
@@ -1045,7 +1097,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.58,
+    "score": 1.49,
     "items": [
      {
       "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
@@ -1058,7 +1110,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.53,
+    "score": 1.45,
     "items": [
      {
       "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
@@ -1071,7 +1123,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.53,
+    "score": 1.45,
     "items": [
      {
       "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
@@ -1079,58 +1131,6 @@
       "source": "The Verge",
       "date": "2026-11-27T18:32-05:00",
       "teaser": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.53,
-    "items": [
-     {
-      "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
-      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
-      "source": "The Verge",
-      "date": "2026-11-27T18:30-05:00",
-      "teaser": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to any additional platforms for the foreseeable future.\" In a "
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.53,
-    "items": [
-     {
-      "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
-      "url": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
-      "source": "Wired",
-      "date": "2026-11-27T23:27+00:00",
-      "teaser": "If you’ve been eyeing Shark’s beauty tools, consider this your sign."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.45,
-    "items": [
-     {
-      "title": "The new iPad Mini is getting its first major discount for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
-      "source": "The Verge",
-      "date": "2026-11-27T17:30-05:00",
-      "teaser": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.19,
-    "items": [
-     {
-      "title": "Black Friday Deals on Household Essentials and Affordable Toys to Donate",
-      "url": "https://www.wired.com/story/black-friday-deals-essentials-11-27-2026/",
-      "source": "Wired",
-      "date": "2026-11-27T19:26+00:00",
-      "teaser": "We found deals on diapers, paper towels, and toys for yourself or your community this holiday season."
      }
     ]
    }
@@ -1285,7 +1285,7 @@
    "topic": "Deutschland",
    "source": "FAZ",
    "ok": true,
-   "items": 10
+   "items": 9
   },
   {
    "topic": "Deutschland",
@@ -1411,13 +1411,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 7
+   "items": 6
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Sport",
@@ -1495,7 +1495,7 @@
    "topic": "Tech & KI",
    "source": "Ars Technica",
    "ok": true,
-   "items": 5
+   "items": 4
   },
   {
    "topic": "Tech & KI",
