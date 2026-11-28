@@ -1,10 +1,37 @@
 {
- "fetchedAt": "2026-11-28T14:11:23+00:00",
+ "fetchedAt": "2026-11-28T14:57:00+00:00",
  "topics": {
   "Welt & Politik": [
    {
     "sourceCount": 5,
-    "score": 10.0,
+    "score": 9.96,
+    "items": [
+     {
+      "title": "Gaza strike kills two Doctors Without Borders staff Israel links to Hamas",
+      "url": "https://www.france24.com/en/gaza-strike-kills-two-doctors-without-borders-staff-israel-links-to-hamas",
+      "source": "France 24",
+      "date": "2026-11-28T14:31+00:00",
+      "teaser": "Doctors Without Borders (MSF) voiced outrage on Saturday after an Israeli strike killed two staff members at a clinic in Gaza, while the Israeli military said the pair were Hamas \"terrorists\". The Friday night strike in Gaza City drew swift condemnation from the head of the UN's World Health Organiz"
+     },
+     {
+      "title": "Hamas says Israel tried to kill chief’s son in Gaza",
+      "url": "https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece",
+      "source": "The Hindu",
+      "date": "2026-11-28T10:55+05:30",
+      "teaser": "‘Izz al-Din al-Hayya, the youngest surviving son of Hamas political bureau chief Khalil al-Hayya, along with his family and the family of his late brother Azzam, survived an Israeli assassination attempt,’ a security source in Gaza told AFP"
+     },
+     {
+      "title": "Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says",
+      "url": "https://www.nytimes.com/2026/11/28/world/middleeast/israeli-strike-kills-two-workers-at-gaza-clinic.html",
+      "source": "New York Times",
+      "date": "2026-11-28T14:25+00:00",
+      "teaser": "The aid group condemned the attack on a medical facility. Israel said it had conducted a targeted strike that killed two security guards it said were Hamas operatives."
+     }
+    ]
+   },
+   {
+    "sourceCount": 5,
+    "score": 9.93,
     "items": [
      {
       "title": "Explosion at a middle school in Afghanistan kills at least 7, injures more than 90",
@@ -31,7 +58,7 @@
    },
    {
     "sourceCount": 4,
-    "score": 7.96,
+    "score": 7.89,
     "items": [
      {
       "title": "Liveblog Nahost: Ärzte ohne Grenzen: Zwei Mitarbeiter in Gaza getötet",
@@ -52,13 +79,13 @@
       "url": "https://www.spiegel.de/ausland/israel-zwei-mitarbeiter-von-aerzte-ohne-grenzen-im-gazastreifen-getoetet-a-b7f92961-db16-4829-947d-77893f9d6ca5#ref=rss",
       "source": "Spiegel",
       "date": "2026-11-28T14:39+01:00",
-      "teaser": "Bei einem israelischen Luftangriff auf eine Klinik in Gaza-Stadt sind zwei Wachleute der Hilfsorganisation Ärzte ohne Grenzen getötet worden. Israel hatte die Männer zuvor als Terroristen bezeichnet."
+      "teaser": "Bei einem israelischen Luftangriff auf eine Klinik in Gaza-Stadt sind zwei Wachleute der Hilfsorganisation Ärzte ohne Grenzen getötet worden. Israel erklärte, es habe sich bei den Männern um Hamas-Terroristen gehandelt."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 3.92,
     "items": [
      {
       "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate",
@@ -78,7 +105,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.89,
     "items": [
      {
       "title": "Argentina's bid to stop Falklands oil drilling rejected",
@@ -98,27 +125,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
-    "items": [
-     {
-      "title": "Israeli strike kills 2 staff outside Gaza medical clinic, MSF says",
-      "url": "https://www.cbc.ca/news/world/israeli-strike-killed-two-msf-staff-9.7440201?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-28T08:32-05:00",
-      "teaser": "Medical charity Médecins Sans Frontières has voiced outrage after an Israeli strike killed two of its staff outside a medical clinic in Gaza ‌late on Friday."
-     },
-     {
-      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-28T10:34+00:00",
-      "teaser": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.88,
     "items": [
      {
       "title": "US Navy pushes ahead with submarine-launched nuclear cruise missile programme",
@@ -138,27 +145,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
-    "items": [
-     {
-      "title": "Israeli strike on Gaza kills two medics from Doctors Without Borders",
-      "url": "https://www.france24.com/en/middle-east/20261128-israeli-strike-on-gaza-kills-two-medics-from-doctors-without-borders",
-      "source": "France 24",
-      "date": "2026-11-28T13:32+00:00",
-      "teaser": "An Israeli strike killed two doctors who were working members of Doctors Without Borders in Gaza City on Friday night, drawing widespread condemnation, including from the UN's World Health Organization. Israeli military claims the pair were Hamas \"terrorists\"."
-     },
-     {
-      "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
-      "url": "https://www.thehindu.com/news/international/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza/article71754241.ece",
-      "source": "The Hindu",
-      "date": "2026-11-28T17:11+05:30",
-      "teaser": "MSF said the two men, who worked as security guards at a clinic, were killed in “a direct hit”, while the Israeli army called them Hamas “terrorists”"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.81,
     "items": [
      {
       "title": "Jess Wilson vows to bring back hope after election win",
@@ -178,7 +165,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.81,
     "items": [
      {
       "title": "The nation’s cartoonists on the week in politics",
@@ -198,7 +185,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.8,
+    "score": 3.74,
     "items": [
      {
       "title": "Rätselraten um UN-Sonderberichterstatterin Albanese",
@@ -218,7 +205,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.49,
+    "score": 3.43,
     "items": [
      {
       "title": "Marine Le Pen: Polizei durchsuchte Büro und Wohnung von Ex-Büroleiter Ambroise de Rancourt",
@@ -238,7 +225,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.55,
+    "score": 2.49,
     "items": [
      {
       "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
@@ -255,6 +242,19 @@
       "teaser": "The 2019 law, known as Bill 21, bans religious symbols — including Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses — for workers covered by it."
      }
     ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Gericht stoppt britisches Öl-Projekt vor Falklandinseln vorerst nicht",
+      "url": "https://www.dw.com/de/gericht-stoppt-britisches-öl-projekt-vor-falklandinseln-vorerst-nicht/a-80085241?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-28T14:49+00:00",
+      "teaser": "Argentinien erhebt Anspruch auf die Falklandinseln und will die von London unterstützte Erschließung von Öl- und Gasvorkommen verhindern. Der Internationale Seegerichtshof wies nun jedoch einen Eilantrag des Landes ab."
+     }
+    ]
    }
   ],
   "Deutschland": [
@@ -266,21 +266,21 @@
       "title": "Bundesparteitag: BSW gegen Abgrenzung von AfD - mehrere Austritte",
       "url": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-102.html",
       "source": "Tagesschau",
-      "date": "2026-11-28T15:07+01:00",
-      "teaser": "Das BSW will mit der AfD zusammenarbeiten - ein Antrag, sich stärker abzugrenzen, fand auf dem Parteitag keine Mehrheit. Daraufhin traten mehrere Mitglieder aus der Partei aus - darunter Mitgründer Ernst."
+      "date": "2026-11-28T15:29+01:00",
+      "teaser": "Das BSW will mit der AfD zusammenarbeiten - ein Antrag, sich stärker abzugrenzen, fand auf dem Bundesparteitag keine Mehrheit. Daraufhin traten mehrere Mitglieder aus der Partei aus - darunter Mitgründer Ernst."
      },
      {
       "title": "BSW-Bundesparteitag: BSW stimmt gegen stärkere Abgrenzung von der AfD",
       "url": "https://www.zeit.de/politik/deutschland/2026-11/bsw-stimmt-gegen-staerkere-abgrenzung-von-der-afd",
       "source": "Zeit",
-      "date": "2026-11-28T13:36+00:00",
-      "teaser": "Der BSW-Parteitag hat sich hinter die Zusammenarbeit mit der AfD in Magdeburg gestellt. Damit scheiterte die Forderung mehrerer Gründungsmitglieder nach mehr Abgrenzung."
+      "date": "2026-11-28T14:53+00:00",
+      "teaser": "Der BSW-Parteitag hat für eine Zusammenarbeit mit der AfD in Magdeburg gestimmt. 30 Parteimitglieder, die mehr Distanz zur AfD forderten, erklärten ihren Austritt."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.86,
+    "score": 3.79,
     "items": [
      {
       "title": "BSW-Chef Fabio de Masi wirbt für Zusammenarbeit mit der AfD",
@@ -299,8 +299,73 @@
     ]
    },
    {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-28T15:40+01:00",
+      "teaser": "Ein werktags berechneter Höchstpreis, Bußgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "BSW-Parteitag: „What the fuck! Seit wann sind wir Partner der AfD?“",
+      "url": "https://www.sueddeutsche.de/politik/bsw-parteitag-dresden-afd-sahra-wagenknecht-abgrenzung-zusammenarbeit-klaus-ernst-austritte-li.3587237",
+      "source": "Süddeutsche",
+      "date": "2026-11-28T14:41+00:00",
+      "teaser": "Auf dem Parteitag des BSW in Dresden eskaliert der Streit über den Umgang mit der AfD. Nachdem eine Mehrheit eine scharfe Abgrenzung abgeschmettert hat, erklären mehrere Delegierte ihren Austritt – darunter einer der Gründer."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Nach Parteiaustritten: Wagenknecht verteidigt Magdeburger Weg",
+      "url": "https://www.zdfheute.de/politik/deutschland/interview-sahra-wagenknecht-bsw-parteitag-100.html",
+      "source": "ZDF",
+      "date": "2026-11-28T15:33+01:00",
+      "teaser": "Das Votum für sachbezogene Zusammenarbeit mit der AfD spaltet das BSW auf seinem Parteitag. Im ZDF verteidigt Sahra Wagenknecht ihren Kurs und bestätigt ein Treffen mit Chrupalla."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "BSW-Entscheidung zu AfD: 30 Mitglieder erklären Austritt",
+      "url": "https://www.zdfheute.de/politik/bsw-afd-sachsen-anhalt-100.html",
+      "source": "ZDF",
+      "date": "2026-11-28T15:26+01:00",
+      "teaser": "Nach der Entscheidung gegen eine stärkere Abgrenzung von der AfD haben 30 BSW-Mitglieder ihren Austritt aus der Partei erklärt - auch Mitgründer Klaus Ernst."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Wie Frank Elstner \"Wetten, dass..?\" erfand",
+      "url": "https://www.zdfheute.de/panorama/wetten-dass-frank-elstner-100.html",
+      "source": "ZDF",
+      "date": "2026-11-28T15:30+01:00",
+      "teaser": "Es war eine schlaflose Nacht, an deren Ende die Erfindung einer ganz neuen Unterhaltungsshow stand: Erfinder Frank Elstner erzählt von der ersten Ausgabe von \"Wetten, dass..?\"."
+     }
+    ]
+   },
+   {
     "sourceCount": 2,
-    "score": 2.0,
+    "score": 1.94,
     "items": [
      {
       "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
@@ -320,7 +385,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.92,
+    "items": [
+     {
+      "title": "BSW: Mehrheit für AfD-Zusammenarbeit",
+      "url": "https://www.zdfheute.de/video/zdfheute-xpress/bsw-mehrheit-afd-video-100.html",
+      "source": "ZDF",
+      "date": "2026-11-28T15:00+01:00",
+      "teaser": "Die Mehrheit der Delegierten hat auf dem Bundesparteitag des BSW für eine Zusammenarbeit mit der AfD in Sachsen-Anhalt gestimmt. Einige Mitglieder traten deshalb bereits aus der Partei aus."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Schlagzeilen",
@@ -333,7 +411,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.91,
     "items": [
      {
       "title": "Polizei stoppt Zug in Senden wegen Messerstecherei - drei Verletzte",
@@ -346,20 +424,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "BSW-Parteitag: „What the fuck! Seit wann sind wir Partner der AfD?“",
-      "url": "https://www.sueddeutsche.de/politik/bsw-parteitag-dresden-afd-sahra-wagenknecht-abgrenzung-zusammenarbeit-klaus-ernst-austritte-li.3587237",
-      "source": "Süddeutsche",
-      "date": "2026-11-28T13:41+00:00",
-      "teaser": "Auf dem Parteitag des BSW in Dresden eskaliert der Streit über den Umgang mit der AfD. Nachdem eine Mehrheit eine scharfe Abgrenzung abschmettert, erklären mehrere Delegierte ihren Austritt – darunter einer der Gründer."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.88,
     "items": [
      {
       "title": "AfD: BSW lehnt Antrag auf schärfere Abgrenzung von AfD ab",
@@ -369,77 +434,64 @@
       "teaser": "Das BSW macht auch künftig gemeinsame Sache mit der AfD. Beim Bundesparteitag lehnte es eine Mehrheit ab, sich schärfer von der Partei zu distanzieren. Mehrere Delegierte, darunter Gründungsmitglied Klaus Ernst, erklärten ihren Parteiaustritt."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.93,
-    "items": [
-     {
-      "title": "Tanken: Spritpreisdeckel soll von Anfang 2027 an greifen",
-      "url": "https://www.sueddeutsche.de/politik/bundesregierung-spritpreisdeckel-2027-tanken-hoechstpreise-li.3587637",
-      "source": "Süddeutsche",
-      "date": "2026-11-28T13:22+00:00",
-      "teaser": "Dann sollen täglich bundesweite Höchstpreise je Liter Super und Diesel gelten – aber nicht an jeder Tankstelle."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "Jusos wollen Frau ohne Regierungsamt an SPD-Spitze",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-jusos-tuermer-klingbeil-bundeskongress-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-28T14:05+01:00",
-      "teaser": "Regieren und gleichzeitig die Partei führen: Das passt für die Jusos nicht mehr zusammen. Auf seinem Bundeskongress fordert der SPD-Nachwuchs eine klare Trennung der Ämter - und eine Frau an der Spitze."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "BSW-Streit um AfD: Klaus Ernst und Josephine Thyrêt treten aus",
-      "url": "https://www.zdfheute.de/politik/bsw-afd-sachsen-anhalt-100.html",
-      "source": "ZDF",
-      "date": "2026-11-28T13:51+01:00",
-      "teaser": "BSW-Mitgründer Klaus Ernst und Parteimitglied Josephine Thyrêt treten aus dem BSW aus. Kurz zuvor wurde auf dem Parteitag in Dresden gegen eine schärfere AfD-Abgrenzung gestimmt."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.89,
-    "items": [
-     {
-      "title": "Letzter Überlebender des Elsässer KZ Natzweiler-Struthof gestorben",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/roland-boulanger-letzter-franzoesische-zeitzeuge-des-konzentrationslagers-natzweiler-struthof-im-elsass-gestorben-100.html",
-      "source": "SWR",
-      "date": "2026-11-28T13:55+01:00",
-      "teaser": "Roland Boulanger, letzter französischer Überlebender des KZ Natzweiler-Struthof, ist mit 100 Jahren gestorben. Jahrzehntelang setzte er sich für die Erinnerung ein."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.88,
-    "items": [
-     {
-      "title": "Deutschland Liveblog: Wagenknecht will „Zeitfenster für Zusammenarbeit“ mit der AfD nutzen",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-wagenknecht-will-zeitfenster-fuer-zusammenarbeit-mit-der-afd-nutzen-faz-110093143.html",
-      "source": "FAZ",
-      "date": "2026-11-28T12:48+00:00",
-      "teaser": "Parteitag unterstützt Pläne des BSW in Sachsen-Anhalt +++ mehrere Delegierte erklären Parteiaustritt +++ Scharfe Kritik der Union am Gesetzentwurf zur Rente +++ alle Entwicklungen im Liveblog"
-     }
-    ]
    }
   ],
   "Polen": [
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Piotr Aleksiejuk: Fundacja rodzinna po nowelizacji. Dobre i złe skutki podpisu prezydenta",
+      "url": "https://www.rp.pl/opinie-prawne/art45557721-piotr-aleksiejuk-fundacja-rodzinna-po-nowelizacji-dobre-i-zle-skutki-podpisu-prezydenta",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T15:51+01:00",
+      "teaser": "Uszczelniajmy system tam, gdzie dochodzi do rzeczywistych nadużyć. Nie zmieniajmy jednak reguł gry dla tych, którzy wykorzystują fundację rodzinną zgodnie z jej przeznaczeniem — do ochrony, pomnażania i przekazywania majątku kolejnym pokoleniom."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Po zamachu na jarmark w Berlinie zmieniono system pomocy ofiarom. W ciągu dekady wypłacono 16,5 mln euro",
+      "url": "https://www.dw.com/pl/po-zamachu-na-jarmark-w-berlinie-zmieniono-system-pomocy-ofiarom-w-ciągu-dekady-wypłacono-16-5-mln-euro/a-80085822?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-28T14:39+00:00",
+      "teaser": "Dziesięć lat po zamachu na berlińskim jarmarku bożonarodzeniowym Niemcy podsumowują zmiany w pomocy ofiarom. W ciągu dekady wypłacono ok. 16,5 mln euro poszkodowanym w różnych zamachach."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.95,
+    "items": [
+     {
+      "title": "\"Miasteczko\" zostaje przed TK. Sąd Apelacyjny w Warszawie oddalił zażalenie Trzaskowskiego",
+      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33155059,miasteczko-zostaje-przed-tk-sad-apelacyjny-w-warszawie-oddalil.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "source": "Gazeta Wyborcza",
+      "date": "2026-11-28T14:20+00:00",
+      "teaser": "Sąd Apelacyjny oddalił zażalenie Prezydenta Warszawy Rafała Trzaskowskiego na postanowienie Sądu Okręgowego w Warszawie w sprawie zgromadzenia przed Trybunałem Konstytucyjnym."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Manifestacja przed Trybunałem Konstytucyjnym. Jest nowa decyzja sądu",
+      "url": "https://www.rp.pl/sady-i-trybunaly/art45557921-manifestacja-przed-trybunalem-konstytucyjnym-jest-nowa-decyzja-sadu",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T15:17+01:00",
+      "teaser": "Sąd Apelacyjny w Warszawie oddalił zażalenie stołecznego ratusza na postanowienie Sądu Okręgowego, który uchylił decyzję o odmowie przedłużenia zgody na zgromadzenie przed Trybunałem Konstytucyjnym. Oznacza to, że manifestacja będzie mogła odbywać się również po 30 listopada."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Posadzenie pisarza na ławie oskarżonych rzadko przynosi pożytek debacie publicznej",
@@ -452,7 +504,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.9,
     "items": [
      {
       "title": "Niemieckie korporacje maszerowały we Wrocławiu. Jaką rolę odgrywają te organizacje w Polsce i Niemczech?",
@@ -465,7 +517,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.88,
     "items": [
      {
       "title": "Atak na Most Krymski. Ukrainie pomogła izraelska technologia",
@@ -478,7 +530,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.93,
+    "score": 1.87,
     "items": [
      {
       "title": "Tani prąd z Rosji dla USA, Chin czy Niemiec. Dziś to mrzonka, jutro narzędzie nacisku",
@@ -491,7 +543,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.84,
     "items": [
      {
       "title": "Prof. Chwalba o relacjach Polska-Niemcy: „Trzeba otworzyć nową kartę w relacjach między sąsiadami”",
@@ -504,7 +556,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.88,
+    "score": 1.82,
     "items": [
      {
       "title": "Przyszłość Tuska po wyborach w 2027 roku. Sondaż: Ponad połowa Polaków nie chce go, jako premiera",
@@ -517,7 +569,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.77,
     "items": [
      {
       "title": "Sikorski zarzuca byłemu ambasadorowi działanie na szkodę rządu",
@@ -530,7 +582,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.81,
+    "score": 1.75,
     "items": [
      {
       "title": "Donald Tusk ma plan na utrzymanie się przy władzy w 2027 r. Koalicjanci mogą nie mieć wyjścia",
@@ -540,117 +592,77 @@
       "teaser": "Lider KO naciska PSL i Lewicę na wspólne listy w wyborach do Sejmu i Senatu. Koalicjanci mogą nie mieć wyjścia i będą zmuszeni iść do wyborów na jednej liście koalicji 15 października, ale jeszcze walczą o poparcie i samodzielny start. Jaki scenariusz jest najbardziej prawdopodobny?"
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.81,
-    "items": [
-     {
-      "title": "„Slava UPA” na pomnikach. Rafał Trzaskowski: Farbę da się zmyć. Tego, co wyszło na jaw – już nie",
-      "url": "https://www.rp.pl/spoleczenstwo/art45557701-slava-upa-na-pomnikach-rafal-trzaskowski-farbe-da-sie-zmyc-tego-co-wyszlo-na-jaw-juz-nie",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-28T12:51+01:00",
-      "teaser": "Tysiąc złotych – tyle kosztowało zbezczeszczenie pamięci Bohaterów Getta, żołnierzy Wojska Polskiego i ofiar Wołynia. O sprawie poinformował w sobotę na platformie X prezydent Warszawy Rafał Trzaskowski, który dodał, że właśnie na taką kwotę wyceniono „próbę skłócenia Polaków z Ukraińcami”."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.8,
-    "items": [
-     {
-      "title": "Samopodpalenie 22-latka. Teza o manifeście politycznym jest na wyrost",
-      "url": "https://www.rp.pl/spoleczenstwo/art45557061-samopodpalenie-22-latka-teza-o-manifescie-politycznym-jest-na-wyrost",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-28T12:44+01:00",
-      "teaser": "Z tablicy zostały pojedyncze, przypadkowe słowa. Resztę strawił ogień. Miał ją ze sobą młody Ukrainiec, który w centrum Warszawy oblał się cieczą i podpalił. Trudno będzie ustalić motyw dramatycznej decyzji."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.76,
-    "items": [
-     {
-      "title": "Drony nad największą bazą amerykańskich myśliwców w Europie. \"FT\": Podejrzenia padają na Iran",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198013,33154835,drony-nad-najwieksza-baza-amerykanskich-mysliwcow-w-europie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-28T11:20+00:00",
-      "teaser": "Około sześciu dronów zaatakowało 13 listopada brytyjską bazę lotniczą RAF Lakenheath, jednak zostały one odparte przez stacjonujące tam amerykańskie systemy obronne - podał w sobotę (28 listopada) dziennik \"Financial Times\"."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.75,
-    "items": [
-     {
-      "title": "Marcin Przydacz mówi jednym głosem z niemiecką Lewicą i Zielonymi. Chodzi o polskie ofiary wojny",
-      "url": "https://www.rp.pl/polityka/art45557661-marcin-przydacz-mowi-jednym-glosem-z-niemiecka-lewica-i-zielonymi-chodzi-o-polskie-ofiary-wojny",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-28T12:09+01:00",
-      "teaser": "Niemiecki Bundestag uchwalił rekordowy budżet na 2027 rok, ale nie przewidział w nim pieniędzy na zadośćuczynienia dla żyjących polskich ofiar niemieckiej okupacji. Decyzję rządu Friedricha Merza skrytykowali nie tylko polski prezydencki minister Marcin Przydacz, ale również przedstawiciele niemieck"
-     }
-    ]
    }
   ],
   "Wirtschaft & Börse": [
    {
-    "sourceCount": 2,
-    "score": 3.74,
-    "items": [
-     {
-      "title": "Business-Ticker: Umweltminister Schneider plädiert für Umbau des Rheins",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-umweltminister-schneider-plaediert-fuer-umbau-des-rheins-faz-200452404.html",
-      "source": "FAZ",
-      "date": "2026-11-28T11:01+00:00",
-      "teaser": "Weiteres Urteil gegen Benko: nun drei Jahre Haft +++ Norse Atlantic meldet Insolvenz an und streicht alle Flüge +++ Deutsche Börse darf Fondsdienstleister Allfonds übernehmen +++ alle Neuigkeiten im Unternehmen-Liveblog"
-     },
-     {
-      "title": "+++ Bundespolitik +++: Umweltminister plädiert für Umbau des Rheins",
-      "url": "https://www.handelsblatt.com/politik/deutschland/bundespolitik-umweltminister-plaediert-fuer-umbau-des-rheins/100137034.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-28T09:54+00:00",
-      "teaser": "Reaktionen auf Rentenentwurf +++ Bundestag verabschiedet Haushaltsbegleitgesetz für 2027 +++ Klingbeil warnt Koalition vor Blockade bei Einkommensteuerentlastung +++ Der Newsblog."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.71,
-    "items": [
-     {
-      "title": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
-      "url": "https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-27T23:40+01:00",
-      "teaser": "Der Arbeitsminister schickt einen Rentenentwurf ohne Abstimmung an die Ressorts, nun ist die Aufregung wieder groß. Es geht auch um politische Mechanik, mediale Wirkung und die Frage: Wer ist schuld, wenn's nicht gut wird?"
-     },
-     {
-      "title": "Koalition: „Maximale Eskalation“: Arbeitsminister Schweitzer legt unabgestimmt Gesetzentwurf zur Rente vor",
-      "url": "https://www.handelsblatt.com/politik/deutschland/rentenreform-schweitzer-legt-neuen-gesetzentwurf-vor-union-laeuft-sturm/100273340.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-27T15:34+00:00",
-      "teaser": "Auf 287 Seiten plant der SPD-Minister zahlreiche neue Regeln. Die „Rente mit 63“ soll demnach bleiben – was die Union erzürnt. Geeint sei der Entwurf nicht, so das Kanzleramt."
-     }
-    ]
-   },
-   {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 2.0,
     "items": [
      {
-      "title": "Luxusmarke: Gucci wagt das Unglaubliche",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/gucci-luxus-mode-branche-preis-senkung-strategie",
-      "source": "Zeit",
-      "date": "2026-11-28T13:54+00:00",
-      "teaser": "Der Luxusmarkt steckt in der Krise. Jetzt geht das Modehaus Gucci einen außergewöhnlichen Schritt: Es senkt die Preise. Das könnte nach hinten losgehen."
+      "title": "Insight Innovation: Eine Million Satelliten für SpaceX: Wie viel Platz ist im erdnahen Weltraum?",
+      "url": "https://www.handelsblatt.com/technik/forschung-innovation/insight-innovation-wie-viel-platz-ist-im-erdnahen-weltraum/100266681.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-28T14:53+00:00",
+      "teaser": "SpaceX darf eine Million Satelliten ins All schießen. Im Orbit entsteht einer der wichtigsten Wirtschaftsräume des 21. Jahrhunderts – mit zahllosen Satelliten. Kann das gut gehen?"
      }
     ]
    },
    {
     "sourceCount": 1,
     "score": 1.97,
+    "items": [
+     {
+      "title": "Wahl in Spanien: Kürzung statt Wachstum?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wahl-in-spanien-kuerzungen-und-ende-der-energiewende-accg-201722436.html",
+      "source": "FAZ",
+      "date": "2026-11-28T14:36+00:00",
+      "teaser": "Gewinnt die spanische Rechte am Sonntag die Wahl? Dann könnte dem Wachstumsmotor Europas ein wirtschaftspolitischer Kurswechsel bevorstehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "Parteitag: BSW-Delegierte lehnen schärfere Abgrenzung gegen AfD ab – 30 Mitglieder erklären Austritt",
+      "url": "https://www.handelsblatt.com/politik/deutschland/parteitag-bsw-delegierte-lehnen-schaerfere-abgrenzung-gegen-afd-ab/100273431.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-28T14:25+00:00",
+      "teaser": "Dem BSW droht im Streit um einen strikteren Kurs gegen die AfD eine Spaltung. Ein entsprechender Antrag scheiterte. Mehrere Mitglieder erklärten daraufhin ihren Austritt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "+++ Ukraine-Krieg +++: Russland stellt Atom-U-Boot mit Hyperschallraketen in Dienst",
+      "url": "https://www.handelsblatt.com/politik/international/ukraine-bietet-waffenruhe-im-schwarzen-meer-an/27982126.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-28T14:30+00:00",
+      "teaser": "Neun Tote bei Angriffen in Ukraine gemeldet +++ Selenskyj: Angriff auf Schiff in Libyen war nicht abgesprochen +++ Russland meldet Abschuss von mehr als 1200 Drohnen +++ Der Newsblog."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "Immobilien: Was die Bundesbaugesellschaft für Käufer und Mieter bedeutet",
+      "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-was-die-bundesbaugesellschaft-fuer-kaeufer-und-mieter-bedeutet/100270518.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-28T14:17+00:00",
+      "teaser": "Mit einer neuen staatlichen Wohnungsbaugesellschaft will die Bundesregierung 2027 an den Start gehen. Die Idee hat mehrere Vorteile – und mindestens zwei Haken."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
     "items": [
      {
       "title": "Palantir-Chef rechnet ab: „Wir können nicht investieren, wenn das Gegenüber ein Halbidiot ist“",
@@ -663,7 +675,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Luxusmarke: Gucci wagt das Unglaubliche",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/gucci-luxus-mode-branche-preis-senkung-strategie",
+      "source": "Zeit",
+      "date": "2026-11-28T13:54+00:00",
+      "teaser": "Der Luxusmarkt steckt in der Krise. Jetzt geht das Modehaus Gucci einen außergewöhnlichen Schritt: Es senkt die Preise. Das könnte nach hinten losgehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.83,
+    "items": [
+     {
+      "title": "Schweiz: Volksabstimmung könnte Rüstungsexporte erleichtern",
+      "url": "https://www.handelsblatt.com/politik/international/schweiz-volksabstimmung-koennte-ruestungsexporte-erleichtern/100272916.html",
+      "source": "Handelsblatt",
+      "date": "2026-11-28T12:55+00:00",
+      "teaser": "Die Schweiz will von der Aufrüstung in Europa profitieren und dazu ihre Exportregeln lockern. Allerdings schließt sie die Ukraine explizit aus."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.81,
     "items": [
      {
       "title": "Jensen Huang: Ist dieser Mann eine Billion Dollar wert?",
@@ -676,7 +714,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.86,
+    "score": 1.8,
     "items": [
      {
       "title": "Energie: Uniper könnte mit bis zu 16 Milliarden Euro bewertet werden",
@@ -689,20 +727,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "500 Jahre Firmengeschichte: So alt wie die Mona Lisa",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/so-alt-wie-die-mona-lisa-wie-bestehen-diese-deutschen-familienunternehmen-accg-201694256.html",
-      "source": "FAZ",
-      "date": "2026-11-28T12:23+00:00",
-      "teaser": "Christoph Kolumbus hatte gerade Amerika entdeckt, als die beiden ältesten industriellen Familienunternehmen Deutschlands gegründet wurden. Coatinc und Prym bestehen durch alle Epochen-, Zeit- und Technikwenden hindurch."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.77,
     "items": [
      {
       "title": "Christmas market 'absolutely vital' for businesses",
@@ -715,7 +740,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.83,
+    "score": 1.76,
     "items": [
      {
       "title": "Poundland closure 'big loss' for former mining town",
@@ -725,58 +750,26 @@
       "teaser": "Shoppers and staff reflect on the possible closure of the Poundland store in Camborne."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.82,
-    "items": [
-     {
-      "title": "The outsider from Cannes shaking up France’s presidential race",
-      "url": "https://www.ft.com/content/7f3900c2-bce6-495e-a6c4-e1133a3c46e9?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "date": "2026-11-28T12:00+00:00",
-      "teaser": "Rightwing mayor David Lisnard has surged in polls with punchy attacks on the bloated state and promises of radical spending cuts"
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 1.75,
-    "items": [
-     {
-      "title": "SAP erwägt Abbau von mehr als 10.000 Stellen",
-      "url": "https://www.spiegel.de/wirtschaft/sap-erwaegt-den-abbau-von-mehr-als-10-000-stellen-a-c4a7caff-a097-4ccb-867a-da1e469855fc#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-27T11:08+01:00",
-      "teaser": "Der Softwarekonzern SAP ist mit der rasanten Veränderung des Marktes durch künstliche Intelligenz konfrontiert. Das Management lässt offenbar schon Pläne für einen umfangreichen Stellenabbau schmieden."
-     },
-     {
-      "title": "SAP erwägt offenbar Abbau von Tausenden Stellen",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-27T12:09+01:00",
-      "teaser": "Der Software-Konzern SAP will Medienberichten zufolge Tausende Stellen streichen. Hintergrund soll auch die Automatisierung durch Künstliche Intelligenz sein."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.75,
-    "items": [
-     {
-      "title": "+++ Ukraine-Krieg +++: Russland stellt Atom-U-Boot mit Hyperschallraketen in Dienst",
-      "url": "https://www.handelsblatt.com/politik/international/ukraine-bietet-waffenruhe-im-schwarzen-meer-an/27982126.html",
-      "source": "Handelsblatt",
-      "date": "2026-11-28T11:09+00:00",
-      "teaser": "Selenskyj: Angriff auf Schiff in Libyen war nicht abgesprochen +++ Russland meldet Abschuss von mehr als 1200 Drohnen +++ Ukraine bietet Waffenruhe im Schwarzen Meer an +++ Der Newsblog."
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.95,
+    "score": 7.9399999999999995,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Seis ex del Barça en Riazor",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256536/seis-ex-barca-riazor.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-28T15:13+01:00",
+      "teaser": "Un total de seis jugadores con pasado azulgrana se enfrentarán este domingo al Barcelona. Uno de ellos, Marc Casadó , juega este curso cedido en el Dépor. Del resto, Aubameyang y Adama Traoré estuvieron en el primer equipo, mientras que Arnau Comas , Luismi Cruz y Adrià Altimira jugaron en categoría"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.89,
     "favorite": true,
     "items": [
      {
@@ -790,7 +783,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 7.92,
+    "score": 7.86,
     "favorite": true,
     "items": [
      {
@@ -803,22 +796,28 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.89,
-    "favorite": true,
+    "sourceCount": 2,
+    "score": 3.99,
     "items": [
      {
-      "title": "Díaz de Mera pitará el Deportivo-Barça",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256595/diaz-mera-pitara-deportivo-barca.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T13:54+01:00",
-      "teaser": "Ya se conoce el colegiado que pitará mañana (16.15 h./DAZN) el duelo en el Estadio de Riazor entre el Depor y el Barcelona de la jornada 14. Se trata de Isidro Díaz de Mera Escuderos , del Comité de Árbitros de Castilla-La Mancha. En el VAR estará Daniel Jesús Trujillo , del Comité Tinerfeño."
+      "title": "FC Bayern München: Max Eberl nennt den Fall Musiala »eine menschliche Tragödie«",
+      "url": "https://www.zeit.de/sport/2026-11/jamal-musiala-max-eberl-fc-bayern-krankheit-muskelfaserriss-gxe",
+      "source": "Zeit",
+      "date": "2026-11-28T14:50+00:00",
+      "teaser": "Bayern-Sportvorstand Max Eberl will, dass sich die Verantwortlichen im Verein um Jamal Musiala kümmern. Es sei »unmenschlich, was der arme Kerl zu ertragen hat«."
+     },
+     {
+      "title": "Eberl über Musialas Rückschlag: \"Es ist eine menschliche Tragödie\"",
+      "url": "https://www.kicker.de/eberl-ueber-musialas-rueckschlag-es-ist-eine-menschliche-tragoedie-1275866/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-28T14:24+00:00",
+      "teaser": "Jamal Musiala fehlt dem FC Bayern erneut wochenlang. Vor dem Spiel beim Hamburger SV äußerte sich Sportvorstand Max Eberl unter anderem über den 23-Jährigen."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.87,
+    "score": 3.8,
     "items": [
      {
       "title": "Premier League: Chelsea-Profi Wesley Fofana von eigenen Fans ausgepfiffen",
@@ -838,7 +837,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.74,
+    "score": 2.68,
     "items": [
      {
       "title": "Die Sportschau vom Freitag mit Bremen gegen Mönchengladbach",
@@ -858,7 +857,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.69,
+    "score": 2.63,
     "items": [
      {
       "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
@@ -877,87 +876,67 @@
     ]
    },
    {
-    "sourceCount": 2,
-    "score": 2.07,
+    "sourceCount": 1,
+    "score": 2.0,
     "items": [
      {
-      "title": "Jamal Musiala: Offensivstar des FC Bayern München fällt bis Jahresende aus",
-      "url": "https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss",
+      "title": "LIVE! Kraus erhöht gegen Fortuna - Schroers schlägt im Verfolgerduell zu - Essen übernimmt Platz 1",
+      "url": "https://www.kicker.de/live-kraus-erhoeht-gegen-fortuna-schroers-schlaegt-im-verfolgerduell-zu-essen-uebernimmt-platz-1-1275393/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-28T14:53+00:00",
+      "teaser": "Fünf Partien stehen am Samstagmittag ab 14 Uhr am 15. Spieltag der 3. Liga an. Während Fortuna Düsseldorf zum Aufsteiger Würzburger Kickers muss, stehen sich die beiden Verfolger Saarbrücken und Alemannia Aachen im direkten Duell gegenüber. In Münster gastiert der SC Verl derweil zum Kellerduell."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Das nächste, bitte: Noch ein Modell für die Regionalliga-Reform?",
+      "url": "https://www.kicker.de/das-naechste-bitte-noch-ein-modell-fuer-die-regionalliga-reform-1275867/artikel#omrss",
+      "source": "kicker",
+      "date": "2026-11-28T14:52+00:00",
+      "teaser": "Kommt noch eine Volte in der Regionalliga-Reform? Hinter den Kulissen wird nun neben Kompass und Drittligaaufstockung ein weiteres Modell diskutiert."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Jetzt live - Köln legt gegen SVE nach, Paderborn führt gegen Schalke",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3918/",
+      "source": "Sportschau",
+      "date": "2026-11-28T15:52+01:00",
+      "teaser": "In der Bundesliga muss der verletzungsgeplagte FC Bayern nach Hamburg, für Schalke steht ein wichtiges Spiel beim SC Paderborn an und der 1. FC Köln trifft auf Elversberg."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Betis - Rayo: Tor zum 0:1 durch de Frutos in der 72. Minute",
+      "url": "https://www.kicker.de/betis-rayo-tor-zum-0-1-durch-de-frutos-in-der-72-minute-1275881/video#omrss",
+      "source": "kicker",
+      "date": "2026-11-28T14:39+00:00",
+      "teaser": "Szene aus dem Spiel Real Betis Sevilla - Rayo Vallecano (La Liga 2026/27, 14. Spieltag)."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "2. Fußball-Bundesliga: Dynamo Dresden gewinnt 2:1 gegen St. Pauli, Hertha BSC und Holstein Kiel siegen",
+      "url": "https://www.spiegel.de/sport/fussball/2-fussball-bundesliga-dynamo-dresden-gewinnt-2-1-gegen-st-pauli-hertha-bsc-und-holstein-kiel-siegen-a-6e047f7f-cd90-429c-ab3a-ebbc50dcd0a2#ref=rss",
       "source": "Spiegel",
-      "date": "2026-11-27T15:49+01:00",
-      "teaser": "Der nächste Rückschlag für Jamal Musiala: Zwei Spiele nach seinem Comeback nach Muskelfaserriss muss der zuletzt viel diskutierte Offensivstar erneut lange pausieren."
-     },
-     {
-      "title": "FC Bayern München: Jamal Musiala fällt wegen einer Muskelverletzung vorläufig aus",
-      "url": "https://www.zeit.de/sport/2026-11/jamal-musiala-verletzung-fc-bayern-muskelfaserriss-ausfall-gxe",
-      "source": "Zeit",
-      "date": "2026-11-27T15:01+00:00",
-      "teaser": "Mitten in der Debatte um die Leistungsfähigkeit von Jamal Musiala und den Umgang damit hat sich der Nationalspieler erneut verletzt. Er fällt »bis auf Weiteres« aus."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.01,
-    "items": [
-     {
-      "title": "Live hören: SC Paderborn 07 gegen FC Schalke 04 - Bundesliga",
-      "url": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-07-gegen-fc-schalke-04,audiostream-sc-paderborn-07-gegen-fc-schalke-04-106.html",
-      "source": "Sportschau",
-      "date": "2026-11-28T15:15+01:00",
-      "teaser": "11. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 15:30 Uhr. FC Schalke 04 spielt in Paderborn."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.01,
-    "items": [
-     {
-      "title": "Live hören: Hamburger SV gegen Bayern München - Bundesliga",
-      "url": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-bayern-muenchen,audiostream-hamburger-sv-gegen-bayern-muenchen-102.html",
-      "source": "Sportschau",
-      "date": "2026-11-28T15:15+01:00",
-      "teaser": "11. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 15:30 Uhr. Bayern München spielt in Hamburg."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.01,
-    "items": [
-     {
-      "title": "Live hören: 1. FSV Mainz 05 gegen 1. FC Union Berlin - Bundesliga",
-      "url": "https://www.sportschau.de/fussball/bundesliga/1-fsv-mainz-05-gegen-1-fc-union-berlin,audiostream-1-fsv-mainz-05-gegen-1-fc-union-berlin-108.html",
-      "source": "Sportschau",
-      "date": "2026-11-28T15:15+01:00",
-      "teaser": "11. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 15:30 Uhr. 1. FC Union Berlin spielt in Mainz."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Schach-WM 2026: Jetzt live: Die vierte Partie der Schach-WM",
-      "url": "https://www.zeit.de/sport/2026-11/schach-wm-2026-vierte-partie",
-      "source": "Zeit",
-      "date": "2026-11-28T13:58+00:00",
-      "teaser": "Die bisherigen Partien endeten remis. Nun trifft der Weltmeister Gukesh zum vierten Mal auf den usbekischen Herausforderer Javokhir Sindarov. Die Partie im Livestream"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.98,
-    "items": [
-     {
-      "title": "Max Merkels „Bild“-Kolumne: Hart – nicht gegen sich selbst, aber gegen andere",
-      "url": "https://www.11freunde.de/bundesliga/max-merkels-bild-kolumne-hart-nicht-gegen-sich-selbst-aber-gegen-andere-a-a7247d92-cb52-4d67-a1cc-f107de02cbb5#ref=rss",
-      "source": "11 Freunde",
-      "date": "2026-11-28T15:00+01:00",
-      "teaser": "Vor 20 Jahren starb Max Merkel. Viele Jahre lang testete er in der „Bild“-Zeitung die Bundesliga und nahm dabei kein Blatt vor den Mund. Die überfällige Würdigung des humoristischen Gesamtwerkes."
+      "date": "2026-11-28T15:39+01:00",
+      "teaser": "Bis kurz vor Schluss sieht alles nach einer Niederlage für Dynamo Dresden gegen den FC St. Pauli aus. Dann gelingt den Gastgebern ein spektakuläres Comeback. Tabellenführer Hertha BSC baut seine Siegesserie aus."
      }
     ]
    }
@@ -965,7 +944,7 @@
   "Tech & KI": [
    {
     "sourceCount": 3,
-    "score": 5.99,
+    "score": 5.93,
     "items": [
      {
       "title": "The absolute best Black Friday deals you can still get",
@@ -992,7 +971,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.99,
+    "items": [
+     {
+      "title": "Kritik an elektronischer Patientenakte: „Es brennt bei der ePA“",
+      "url": "https://www.heise.de/news/Kritik-an-elektronischer-Patientenakte-Es-brennt-bei-der-ePA-11541550.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "source": "heise online",
+      "date": "2026-11-28T15:51+01:00",
+      "teaser": "Ex-Datenschützer Ulrich Kelber sieht gravierende Mängel bei der elektronischen Patientenakte und fordert stattdessen föderale Datenhaltung."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.92,
     "items": [
      {
       "title": "Anzeige: IT-Jobs in SAP, Datenanalyse und Systemadministration",
@@ -1005,7 +997,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.92,
     "items": [
      {
       "title": "The Alexa Photo Frame is the Echo Show without the bits you hate",
@@ -1018,7 +1010,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.92,
     "items": [
      {
       "title": "Almost every great Black Friday deal is still happening this weekend",
@@ -1031,7 +1023,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.85,
     "items": [
      {
       "title": "Ladepreise: ADAC rügt hohe Aufpreise an Schnellladern",
@@ -1044,7 +1036,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.84,
     "items": [
      {
       "title": "Studio-Sound für unter 100 Euro: 6 kleine Podcast-Tools mit großer Wirkung",
@@ -1057,7 +1049,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.84,
     "items": [
      {
       "title": "Pensions and benefits services still down after 'cyber incident'",
@@ -1070,7 +1062,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.83,
     "items": [
      {
       "title": "Sie schnuppert es: So will ein US-Startup einer KI das Riechen beibringen",
@@ -1083,7 +1075,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.87,
+    "score": 1.81,
     "items": [
      {
       "title": "Anzeige: Black Friday bei it-nerd24 - Dauerlizenzen von Microsoft und Windows zum halben Preis ...",
@@ -1096,7 +1088,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.79,
     "items": [
      {
       "title": "Pirelli treibt Sensorik voran: Reifen, die mit dem Auto sprechen",
@@ -1109,20 +1101,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.82,
-    "items": [
-     {
-      "title": "Kryptografie: KI-Labore sollen brisanten Durchbruch zurückhalten",
-      "url": "https://www.golem.de/news/kryptografie-ki-labore-sollen-brisanten-durchbruch-zurueckhalten-2611-215780.html",
-      "source": "Golem",
-      "date": "2026-11-28T13:00+01:00",
-      "teaser": "Der Informatikprofessor Scott Aaronson erwartet, dass KI einige der heutigen Verschlüsselungssysteme knackt. Auch die Bank of England sieht Risiken. ( Verschlüsselung , KI )"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.82,
+    "score": 1.76,
     "items": [
      {
       "title": "Einstöpseln und Ruhe haben: Warum mich Boses neue Kabel-Kopfhörer im Büro überzeugen – und unterwegs manchmal nerven",
@@ -1410,13 +1389,13 @@
    "topic": "Sport",
    "source": "Spiegel",
    "ok": true,
-   "items": 7
+   "items": 8
   },
   {
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 5
+   "items": 6
   },
   {
    "topic": "Sport",
@@ -1464,7 +1443,7 @@
    "topic": "Tech & KI",
    "source": "heise online",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Tech & KI",
@@ -1488,7 +1467,7 @@
    "topic": "Tech & KI",
    "source": "New York Times",
    "ok": true,
-   "items": 4
+   "items": 3
   },
   {
    "topic": "Tech & KI",
