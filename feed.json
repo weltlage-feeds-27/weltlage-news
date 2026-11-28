@@ -1,64 +1,37 @@
 {
- "fetchedAt": "2026-11-28T13:05:57+00:00",
+ "fetchedAt": "2026-11-28T14:11:23+00:00",
  "topics": {
   "Welt & Politik": [
    {
-    "sourceCount": 6,
-    "score": 11.98,
+    "sourceCount": 5,
+    "score": 10.0,
     "items": [
-     {
-      "title": "Afghanistan school explosion kills 7 pupils, over 90 injured",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3376136/afghanistan-school-explosion-kills-7-pupils-over-90-injured",
-      "source": "South China Morning Post",
-      "date": "2026-11-28T11:07+00:00",
-      "teaser": "An explosion near a school in Afghanistan’s northeastern Kunar province killed seven students and injured up ‌to 99 others on Saturday, a spokesperson for the Taliban Interior Ministry said. Preliminary reports indicated the explosion originated at a depot storing explosives belonging to mining ⁠com"
-     },
      {
       "title": "Explosion at a middle school in Afghanistan kills at least 7, injures more than 90",
       "url": "https://www.cbc.ca/news/world/afghanistan-school-explosion-9.7440205?cmp=rss",
       "source": "CBC",
       "date": "2026-11-28T05:29-05:00",
-      "teaser": "An explosion at a school in the eastern Afghan province of Kunar Saturday killed seven people and wounded more than 90, the province’s culture and information director said, adding that the blast appeared to have originated in a neighbouring depot for explosives."
+      "teaser": "An explosion at a school in the eastern Afghan province of Kunar on Saturday killed seven people and wounded more than 90, the province’s culture and information director said, adding that the blast appeared to have originated in a neighbouring depot for explosives."
      },
      {
       "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
       "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "date": "2026-11-28T12:49+00:00",
+      "date": "2026-11-28T14:10+00:00",
       "teaser": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby."
+     },
+     {
+      "title": "Explosion at Afghanistan school kills seven students, wounds 97 people",
+      "url": "https://www.abc.net.au/news/2026-11-28/explosion-at-afghanistan-school/107438626",
+      "source": "ABC Australia",
+      "date": "2026-11-28T11:43+00:00",
+      "teaser": "An explosion at a school in Afghanistan has killed seven students and wounded more than 90 people, officials say."
      }
     ]
    },
    {
-    "sourceCount": 3,
-    "score": 5.88,
-    "items": [
-     {
-      "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
-      "url": "https://www.france24.com/en/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza",
-      "source": "France 24",
-      "date": "2026-11-28T11:23+00:00",
-      "teaser": "Doctors Without Borders (MSF) said Saturday an Israeli strike killed two staff members at a clinic in Gaza, with the Israeli army labelling the pair as Hamas \"terrorists\". Noga Tarnopolsky is live from Jerusalem."
-     },
-     {
-      "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
-      "url": "https://www.thehindu.com/news/international/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza/article71754241.ece",
-      "source": "The Hindu",
-      "date": "2026-11-28T17:11+05:30",
-      "teaser": "MSF said the two men, who worked as security guards at a clinic, were killed in “a direct hit”, while the Israeli army called them Hamas “terrorists”"
-     },
-     {
-      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-28T10:34+00:00",
-      "teaser": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
-     }
-    ]
-   },
-   {
-    "sourceCount": 3,
-    "score": 5.74,
+    "sourceCount": 4,
+    "score": 7.96,
     "items": [
      {
       "title": "Liveblog Nahost: Ärzte ohne Grenzen: Zwei Mitarbeiter in Gaza getötet",
@@ -75,37 +48,137 @@
       "teaser": "Israel wirft der Hamas im Gazastreifen immer wieder vor, sich als humanitäre Helfer auszugeben. Nun hat das Militär bei einem Angriff zwei Wachleute von Ärzte ohne Grenzen getötet. Die Hilfsorganisation zeigt sich empört."
      },
      {
-      "title": "Ärzte ohne Grenzen: Israel tötet zwei Mitarbeiter von Ärzte ohne Grenzen im Gazastreifen",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/medecins-sans-frontieres-gaza-israel-luftangriff-tote-gxe",
-      "source": "Zeit",
-      "date": "2026-11-28T09:22+00:00",
-      "teaser": "Bei einem Angriff Israels auf eine Klinik in Gaza sind zwei zivile Wachleute getötet worden, die für Ärzte ohne Grenzen arbeiteten. Laut Israel waren sie Terroristen."
+      "title": "Israel: Zwei Mitarbeiter von Ärzte ohne Grenzen im Gazastreifen getötet",
+      "url": "https://www.spiegel.de/ausland/israel-zwei-mitarbeiter-von-aerzte-ohne-grenzen-im-gazastreifen-getoetet-a-b7f92961-db16-4829-947d-77893f9d6ca5#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-28T14:39+01:00",
+      "teaser": "Bei einem israelischen Luftangriff auf eine Klinik in Gaza-Stadt sind zwei Wachleute der Hilfsorganisation Ärzte ohne Grenzen getötet worden. Israel hatte die Männer zuvor als Terroristen bezeichnet."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.99,
+    "score": 3.98,
     "items": [
      {
-      "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "date": "2026-11-27T14:00+00:00",
-      "teaser": "Former ALP strategist says Ben Carroll government at risk of losing more than 30 seats in Saturday’s election, to fall behind Pauline Hanson’s party Victoria election live results: votes tracker, map and seat counts Live: Victorian election 2026 – latest news Victorian election 2026 guide: what you "
+      "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate",
+      "url": "https://www.thehindu.com/news/international/taiwan-votes-in-key-local-elections-as-china-looks-on/article71753506.ece",
+      "source": "The Hindu",
+      "date": "2026-11-28T10:01+05:30",
+      "teaser": "The main race to watch is for the Taipei mayorship, where Chiang ‌has faced a stiff challenge from Shen, an academic-turned-lawmaker and an expert on China’s information warfare"
      },
      {
-      "title": "Labor MPs are in 'disbelief' after electoral annihilation in Victoria",
-      "url": "https://www.abc.net.au/news/2026-11-28/victorian-election-result-analysis-rachel-eddie/107438514",
+      "title": "Taiwan elections: Candidate criticised by China concedes Taipei mayoral race",
+      "url": "https://www.abc.net.au/news/2026-11-29/taiwan-election-results-chiang-wan-an/107438794",
       "source": "ABC Australia",
-      "date": "2026-11-28T12:56+00:00",
-      "teaser": "Not long ago, Labor seemed to be the natural owners of Victorian politics."
+      "date": "2026-11-28T13:57+00:00",
+      "teaser": "Taiwan's ruling party candidate concedes defeat in the Taipei mayoral election as results emerge from local elections across the island's 22 cities and counties."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-28T13:36+00:00",
+      "teaser": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty."
+     },
+     {
+      "title": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
+      "url": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-28T13:24+00:00",
+      "teaser": "An international tribunal refuses Buenos Aires's application, giving the green light to the project off the disputed region."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Israeli strike kills 2 staff outside Gaza medical clinic, MSF says",
+      "url": "https://www.cbc.ca/news/world/israeli-strike-killed-two-msf-staff-9.7440201?cmp=rss",
+      "source": "CBC",
+      "date": "2026-11-28T08:32-05:00",
+      "teaser": "Medical charity Médecins Sans Frontières has voiced outrage after an Israeli strike killed two of its staff outside a medical clinic in Gaza ‌late on Friday."
+     },
+     {
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "date": "2026-11-28T10:34+00:00",
+      "teaser": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "US Navy pushes ahead with submarine-launched nuclear cruise missile programme",
+      "url": "https://www.scmp.com/news/china/military/article/3376032/us-navy-pushes-ahead-submarine-launched-nuclear-cruise-missile-programme",
+      "source": "South China Morning Post",
+      "date": "2026-11-28T12:00+00:00",
+      "teaser": "The United States is a step closer to restoring atomic weapons to its attack submarines, with Raytheon announcing on Tuesday it has a US Navy deal to advance development of a nuclear-armed cruise missile – a capability Washington retired in 2013. The agreement will see Raytheon – one of several defe"
+     },
+     {
+      "title": "Putin unveils new nuclear submarine",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "date": "2026-11-28T13:32+00:00",
+      "teaser": "Russian President Vladimir Putin attended the commissioning of the nuclear-powered submarine in Russia."
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.95,
+    "items": [
+     {
+      "title": "Israeli strike on Gaza kills two medics from Doctors Without Borders",
+      "url": "https://www.france24.com/en/middle-east/20261128-israeli-strike-on-gaza-kills-two-medics-from-doctors-without-borders",
+      "source": "France 24",
+      "date": "2026-11-28T13:32+00:00",
+      "teaser": "An Israeli strike killed two doctors who were working members of Doctors Without Borders in Gaza City on Friday night, drawing widespread condemnation, including from the UN's World Health Organization. Israeli military claims the pair were Hamas \"terrorists\"."
+     },
+     {
+      "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+      "url": "https://www.thehindu.com/news/international/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza/article71754241.ece",
+      "source": "The Hindu",
+      "date": "2026-11-28T17:11+05:30",
+      "teaser": "MSF said the two men, who worked as security guards at a clinic, were killed in “a direct hit”, while the Israeli army called them Hamas “terrorists”"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.87,
+    "items": [
+     {
+      "title": "Jess Wilson vows to bring back hope after election win",
+      "url": "https://www.abc.net.au/news/2026-11-28/jess-wilson-victorian-liberals-form-government-state-election/107438320",
+      "source": "ABC Australia",
+      "date": "2026-11-28T08:44+00:00",
+      "teaser": "Liberal leader Jess Wilson will become Victoria's first popularly elected female premier as the Coalition dislodges Labor from state government after 12 years. In her first speech, the 36-year-old promises to govern for all Victorians and immediately begin work to take the state in a fresh direction"
+     },
+     {
+      "title": "Wilson vows to ‘bring back hope’ after historic victory in Vic election – as it happened",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+      "source": "The Guardian",
+      "date": "2026-11-28T12:38+00:00",
+      "teaser": "This blog is now closed. Full report: Victorian Coalition wins majority government as Labor suffers historic defeat Victoria election live results: votes tracker, map and seat counts ‘Worse than anyone feared’: how Victorian Labor unravelled after 12 years in government Jess Wilson’s rapid rise is h"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 3.87,
     "items": [
      {
       "title": "The nation’s cartoonists on the week in politics",
@@ -125,27 +198,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.82,
+    "score": 3.8,
     "items": [
      {
-      "title": "More children reunited with their families amid war in Ukraine",
-      "url": "https://www.france24.com/en/more-children-reunited-with-their-families-amid-war-in-ukraine",
-      "source": "France 24",
-      "date": "2026-11-28T10:53+00:00",
-      "teaser": "Nine ​additional ​children have been reunited with ​their ‌families ⁠amid ‌the war ⁠in Ukraine, bringing the ​total to ‌43 amid an ‌effort ​led by US first lady Melania ​Trump, ​the ​White House ​said on Wednesday."
+      "title": "Rätselraten um UN-Sonderberichterstatterin Albanese",
+      "url": "https://www.dw.com/de/rätselraten-um-un-sonderberichterstatterin-albanese/a-80084232?maca=de-rss-de-all-1119-xml-mrss",
+      "source": "Deutsche Welle",
+      "date": "2026-11-28T11:50+00:00",
+      "teaser": "Costa Rica hatte ihr die Einreise verweigert. Anschließend saß die UN-Sonderberichterstatterin für die Palästinensergebiete, Francesca Albanese, am Flughafen der Hauptstadt San José fest. Unklar ist, wie es weitergeht."
      },
      {
-      "title": "Melania Trump says she helped another group of children return to Ukraine. The reality is more complicated",
-      "url": "https://www.cbc.ca/news/world/ukraine-russia-children-return-9.7438984?cmp=rss",
-      "source": "CBC",
-      "date": "2026-11-28T04:00-05:00",
-      "teaser": "Nine children and a 29-year-old woman with disabilites returned to Ukraine on Friday via Belarus, part of a reunification mission to unite families separated by Russia's war with Ukraine."
+      "title": "Francesca Albanese: Costa Rica verweigert UN-Sonderberichterstatterin die Einreise",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/un-sonderberichterstatterin-palaestina-francesca-albanese-costa-rica-einreiseverweigerung",
+      "source": "Zeit",
+      "date": "2026-11-28T04:52+00:00",
+      "teaser": "Die Israel-kritische UN-Sonderberichterstatterin sollte in Costa Rica die Ehrendoktorwürde einer Uni entgegennehmen. Doch das Land ließ sie am Flughafen ausharren."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.58,
+    "score": 3.49,
     "items": [
      {
       "title": "Marine Le Pen: Polizei durchsuchte Büro und Wohnung von Ex-Büroleiter Ambroise de Rancourt",
@@ -165,27 +238,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 3.32,
-    "items": [
-     {
-      "title": "Costa Rica verweigert Francesca Albanese die Einreise",
-      "url": "https://www.spiegel.de/ausland/costa-rica-verweigert-francesca-albanese-die-einreise-a-e8aad6e9-045d-4255-abdf-71bf6485fad5#ref=rss",
-      "source": "Spiegel",
-      "date": "2026-11-27T17:01+01:00",
-      "teaser": "Terrorverdacht oder politische Abrechnung? Costa Rica verbietet einer israelkritischen Uno-Sonderberichterstatterin die Einreise und verweist auf »Verbindungen zu terroristischen Handlungen«. Es laufen mehrere Beschwerden."
-     },
-     {
-      "title": "Francesca Albanese: Costa Rica verweigert UN-Sonderberichterstatterin die Einreise",
-      "url": "https://www.zeit.de/politik/ausland/2026-11/un-sonderberichterstatterin-palaestina-francesca-albanese-costa-rica-einreiseverweigerung",
-      "source": "Zeit",
-      "date": "2026-11-28T04:52+00:00",
-      "teaser": "Die Israel-kritische UN-Sonderberichterstatterin sollte in Costa Rica die Ehrendoktorwürde einer Uni entgegennehmen. Doch das Land ließ sie am Flughafen ausharren."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 2.64,
+    "score": 2.55,
     "items": [
      {
       "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
@@ -202,71 +255,32 @@
       "teaser": "The 2019 law, known as Bill 21, bans religious symbols — including Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses — for workers covered by it."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "Argentina's bid to stop Falklands oil drilling rejected",
-      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-28T13:02+00:00",
-      "teaser": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 2.0,
-    "items": [
-     {
-      "title": "KMT extends 21-year grip on New Taipei as Lee Shu-chuan beats DPP’s Su Chiao-hui",
-      "url": "https://www.scmp.com/news/china/politics/article/3376145/kmt-extends-21-year-grip-new-taipei-lee-shu-chuan-beats-dpps-su-chiao-hui",
-      "source": "South China Morning Post",
-      "date": "2026-11-28T13:03+00:00",
-      "teaser": "Kuomintang candidate Lee Shu-chuan won the New Taipei City mayoral election on Saturday, extending the party’s 21-year leadership in Taiwan’s most populous municipality, which has more than 4 million residents. Democratic Progressive Party lawmaker Su Chiao-hui conceded defeat in the key electoral b"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.99,
-    "items": [
-     {
-      "title": "Mehrere Opfer bei Explosion nahe einer Schule in Afghanistan",
-      "url": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-28T13:59+01:00",
-      "teaser": "Nahe einer Schule im Osten Afghanistans hat es eine Explosion gegeben. Durch die Detonation sind offenbar mehrere Schüler getötet worden. Die Behörden sprechen von Fahrlässigkeit."
-     }
-    ]
    }
   ],
   "Deutschland": [
    {
     "sourceCount": 2,
-    "score": 3.98,
+    "score": 4.0,
     "items": [
      {
-      "title": "BSW-Parteitag lehnt schärfere Abgrenzung gegen AfD ab",
-      "url": "https://www.zdfheute.de/politik/bsw-afd-sachsen-anhalt-100.html",
-      "source": "ZDF",
-      "date": "2026-11-28T13:51+01:00",
-      "teaser": "Auf dem BSW-Parteitag in Dresden stimmen die Delegierten gegen eine schärfere AfD-Abgrenzung. Sahra Wagenknecht wirbt für sachbezogene Mehrheiten."
+      "title": "Bundesparteitag: BSW gegen Abgrenzung von AfD - mehrere Austritte",
+      "url": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-102.html",
+      "source": "Tagesschau",
+      "date": "2026-11-28T15:07+01:00",
+      "teaser": "Das BSW will mit der AfD zusammenarbeiten - ein Antrag, sich stärker abzugrenzen, fand auf dem Parteitag keine Mehrheit. Daraufhin traten mehrere Mitglieder aus der Partei aus - darunter Mitgründer Ernst."
      },
      {
-      "title": "Parteitag in Dresden: „Noch habe ich Hoffnung, dass eine klare Abgrenzung zur AfD möglich ist“",
-      "url": "https://www.faz.net/aktuell/politik/inland/bsw-parteitag-streit-ueber-zusammenarbeit-mit-afd-accg-201721261.html",
-      "source": "FAZ",
-      "date": "2026-11-27T09:58+00:00",
-      "teaser": "Auf einem Bundesparteitag in Dresden berät das BSW über seinen künftigen Kurs. Über den Umgang mit der AfD ist ein heftiger Streit entbrannt."
+      "title": "BSW-Bundesparteitag: BSW stimmt gegen stärkere Abgrenzung von der AfD",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/bsw-stimmt-gegen-staerkere-abgrenzung-von-der-afd",
+      "source": "Zeit",
+      "date": "2026-11-28T13:36+00:00",
+      "teaser": "Der BSW-Parteitag hat sich hinter die Zusammenarbeit mit der AfD in Magdeburg gestellt. Damit scheiterte die Forderung mehrerer Gründungsmitglieder nach mehr Abgrenzung."
      }
     ]
    },
    {
     "sourceCount": 2,
-    "score": 3.95,
+    "score": 3.86,
     "items": [
      {
       "title": "BSW-Chef Fabio de Masi wirbt für Zusammenarbeit mit der AfD",
@@ -286,7 +300,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.09,
+    "score": 2.0,
     "items": [
      {
       "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
@@ -309,30 +323,108 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
-      "source": "Tagesschau",
-      "date": "2026-11-28T13:48+01:00",
-      "teaser": "Es ist ausreichend Schnee gefallen, es ist kalt genug und das Wetter spielt auch mit: In Deutschland hat Ski-Saison begonnen - in Bayern, im Sauerland und im Schwarzwald. Wintersportler müssen allerdings wieder tiefer in die Tasche greifen."
+      "title": "Schlagzeilen",
+      "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html",
+      "source": "ZDF",
+      "date": "2026-11-28T14:58+01:00",
+      "teaser": "Schlagzeilen zu aktuellen Ereignissen - kurze Nachrichten im Ticker"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.97,
     "items": [
      {
-      "title": "BSW stimmt gegen stärkere Abgrenzung von der AfD",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/bsw-stimmt-gegen-staerkere-abgrenzung-von-der-afd",
-      "source": "Zeit",
-      "date": "2026-11-28T12:50+00:00",
-      "teaser": ""
+      "title": "Polizei stoppt Zug in Senden wegen Messerstecherei - drei Verletzte",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/grosseinsatz-am-bahnhof-in-senden-102.html",
+      "source": "SWR",
+      "date": "2026-11-28T14:50+01:00",
+      "teaser": "Ein Notruf aus einem fahrenden Zug hat in der Nacht einen Großeinsatz bei Senden ausgelöst. In einem Zug gab es einen blutigen Streit zwischen zwei Personengruppen."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.96,
+    "items": [
+     {
+      "title": "BSW-Parteitag: „What the fuck! Seit wann sind wir Partner der AfD?“",
+      "url": "https://www.sueddeutsche.de/politik/bsw-parteitag-dresden-afd-sahra-wagenknecht-abgrenzung-zusammenarbeit-klaus-ernst-austritte-li.3587237",
+      "source": "Süddeutsche",
+      "date": "2026-11-28T13:41+00:00",
+      "teaser": "Auf dem Parteitag des BSW in Dresden eskaliert der Streit über den Umgang mit der AfD. Nachdem eine Mehrheit eine scharfe Abgrenzung abschmettert, erklären mehrere Delegierte ihren Austritt – darunter einer der Gründer."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.94,
+    "items": [
+     {
+      "title": "AfD: BSW lehnt Antrag auf schärfere Abgrenzung von AfD ab",
+      "url": "https://www.spiegel.de/politik/deutschland/afd-bsw-lehnt-antrag-auf-schaerfere-abgrenzung-von-afd-ab-a-7498235e-a24f-464f-92ef-8e1194d23ce7#ref=rss",
+      "source": "Spiegel",
+      "date": "2026-11-28T14:28+01:00",
+      "teaser": "Das BSW macht auch künftig gemeinsame Sache mit der AfD. Beim Bundesparteitag lehnte es eine Mehrheit ab, sich schärfer von der Partei zu distanzieren. Mehrere Delegierte, darunter Gründungsmitglied Klaus Ernst, erklärten ihren Parteiaustritt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.93,
+    "items": [
+     {
+      "title": "Tanken: Spritpreisdeckel soll von Anfang 2027 an greifen",
+      "url": "https://www.sueddeutsche.de/politik/bundesregierung-spritpreisdeckel-2027-tanken-hoechstpreise-li.3587637",
+      "source": "Süddeutsche",
+      "date": "2026-11-28T13:22+00:00",
+      "teaser": "Dann sollen täglich bundesweite Höchstpreise je Liter Super und Diesel gelten – aber nicht an jeder Tankstelle."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Jusos wollen Frau ohne Regierungsamt an SPD-Spitze",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-jusos-tuermer-klingbeil-bundeskongress-100.html",
+      "source": "Tagesschau",
+      "date": "2026-11-28T14:05+01:00",
+      "teaser": "Regieren und gleichzeitig die Partei führen: Das passt für die Jusos nicht mehr zusammen. Auf seinem Bundeskongress fordert der SPD-Nachwuchs eine klare Trennung der Ämter - und eine Frau an der Spitze."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "BSW-Streit um AfD: Klaus Ernst und Josephine Thyrêt treten aus",
+      "url": "https://www.zdfheute.de/politik/bsw-afd-sachsen-anhalt-100.html",
+      "source": "ZDF",
+      "date": "2026-11-28T13:51+01:00",
+      "teaser": "BSW-Mitgründer Klaus Ernst und Parteimitglied Josephine Thyrêt treten aus dem BSW aus. Kurz zuvor wurde auf dem Parteitag in Dresden gegen eine schärfere AfD-Abgrenzung gestimmt."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.89,
+    "items": [
+     {
+      "title": "Letzter Überlebender des Elsässer KZ Natzweiler-Struthof gestorben",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/roland-boulanger-letzter-franzoesische-zeitzeuge-des-konzentrationslagers-natzweiler-struthof-im-elsass-gestorben-100.html",
+      "source": "SWR",
+      "date": "2026-11-28T13:55+01:00",
+      "teaser": "Roland Boulanger, letzter französischer Überlebender des KZ Natzweiler-Struthof, ist mit 100 Jahren gestorben. Jahrzehntelang setzte er sich für die Erinnerung ein."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.88,
     "items": [
      {
       "title": "Deutschland Liveblog: Wagenknecht will „Zeitfenster für Zusammenarbeit“ mit der AfD nutzen",
@@ -342,43 +434,32 @@
       "teaser": "Parteitag unterstützt Pläne des BSW in Sachsen-Anhalt +++ mehrere Delegierte erklären Parteiaustritt +++ Scharfe Kritik der Union am Gesetzentwurf zur Rente +++ alle Entwicklungen im Liveblog"
      }
     ]
+   }
+  ],
+  "Polen": [
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Posadzenie pisarza na ławie oskarżonych rzadko przynosi pożytek debacie publicznej",
+      "url": "https://www.rp.pl/plus-minus/art45555991-posadzenie-pisarza-na-lawie-oskarzonych-rzadko-przynosi-pozytek-debacie-publicznej",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T14:58+01:00",
+      "teaser": "Władza karania za niepożądane treści jest bronią, po którą sięgnąć może każdy."
+     }
+    ]
    },
    {
     "sourceCount": 1,
     "score": 1.96,
     "items": [
      {
-      "title": "BSW-Parteitag: BSW-Chef De Masi warnt vor Spaltung der Partei über AfD-Streit",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/bsw-parteitag-fabio-de-masi-afd-magdeburger-weg-sachsen-anhalt-gxe",
-      "source": "Zeit",
-      "date": "2026-11-28T12:38+00:00",
-      "teaser": "Im Streit über den Umgang des BSW mit der AfD hat Parteichef Fabio De Masi zur Einigkeit aufgerufen. Gründerin Sahra Wagenknecht wies »Schmusekurs«-Vorwürfe zurück."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Live: Spaltet die AfD-Frage das BSW?",
-      "url": "https://www.zdfheute.de/video/zdfheute-live/bsw-parteitag-wagenknecht-video-100.html",
-      "source": "ZDF",
-      "date": "2026-11-28T13:30+01:00",
-      "teaser": "Das BSW diskutiert über die künftige Zusammenarbeit mit der AfD und wie es für das Bündnis weitergeht. Die Analyse des Parteitags und Sahra Wagenknecht im Interview bei ZDFheute live."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Traumjob Autobauer trotz Krise? Das bieten Mercedes-Benz und Porsche Auszubildenden noch",
-      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/traumjob-autobauer-trotz-krise-100.html",
-      "source": "SWR",
-      "date": "2026-11-28T13:27+01:00",
-      "teaser": "Eine Lehre bei Mercedes-Benz, Porsche oder Audi bedeutete lange: Gute Bezahlung, hochwertige Ausbildung und ein sicherer Arbeitsplatz. Doch diese Gewissheit ist Geschichte."
+      "title": "Niemieckie korporacje maszerowały we Wrocławiu. Jaką rolę odgrywają te organizacje w Polsce i Niemczech?",
+      "url": "https://www.dw.com/pl/niemieckie-korporacje-maszerowały-we-wrocławiu-jaką-rolę-odgrywają-te-organizacje-w-polsce-i-niemczech/a-80085076?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-28T13:46+00:00",
+      "teaser": "Marsz niemieckich korporantów z pochodniami we Wrocławiu wywołał kontrowersje. Kim są organizatorzy, jakie mają związki ze skrajną prawicą i jaką rolę odgrywają korporacje akademickie we współczesnej Europie?"
      }
     ]
    },
@@ -387,24 +468,24 @@
     "score": 1.94,
     "items": [
      {
-      "title": "Rentenreform: Thorsten Frei stellt Finanzierbarkeit von SPD-Rentenplänen infrage",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/rentenreform-alexander-schweitzer-spd-rente-mit-63-cdu-thorsten-frei-gxe",
-      "source": "Zeit",
-      "date": "2026-11-28T12:22+00:00",
-      "teaser": "Unionsfraktionschef Frei reagiert skeptisch auf die Reformvorschläge der SPD zur Rente. Matthias Miersch hält sie für gelungen, die Arbeitgeber nennen sie »vermurkst«."
+      "title": "Atak na Most Krymski. Ukrainie pomogła izraelska technologia",
+      "url": "https://www.rp.pl/konflikty-zbrojne/art45557891-atak-na-most-krymski-ukrainie-pomogla-izraelska-technologia",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T14:27+01:00",
+      "teaser": "System Starlink przestaje wystarczać ukraińskiej armii. Według „Wall Street Journal” przy ataku na Most Krymski Siły Zbrojne Ukrainy wykorzystały izraelski system HiSKY."
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.93,
     "items": [
      {
-      "title": "SPD: Jusos fordern Trennung von Regierungsämtern und Parteiführung",
-      "url": "https://www.zeit.de/politik/deutschland/2026-11/jusos-spd-regierungsamt-parteivorsitz-lars-klingbeil-gxe",
-      "source": "Zeit",
-      "date": "2026-11-28T12:11+00:00",
-      "teaser": "Bei ihrem Bundeskongress fordert die SPD-Jugend die Trennung wichtiger Ämter: »Wer zwei Vollzeitjobs hat, macht einen nur zur Hälfte.« Das zielt auf Parteichef Klingbeil."
+      "title": "Tani prąd z Rosji dla USA, Chin czy Niemiec. Dziś to mrzonka, jutro narzędzie nacisku",
+      "url": "https://energia.rp.pl/energetyka-zawodowa/art45557791-tani-prad-z-rosji-dla-usa-chin-czy-niemiec-dzis-to-mrzonka-jutro-narzedzie-nacisku",
+      "source": "Rzeczpospolita",
+      "date": "2026-11-28T14:22+01:00",
+      "teaser": "Kreml szykuje nowe narzędzie nacisku politycznego. Kusi największe gospodarki świata dostawą prądu na potrzeby rozwoju AI za przysłowiowe grosze. Ta oferta ma jednego głównego adresata."
      }
     ]
    },
@@ -413,19 +494,17 @@
     "score": 1.91,
     "items": [
      {
-      "title": "Krieg in der Ukraine: Selenskij: Angriff auf russisches Schiff in Libyen nicht abgesprochen",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-kritik-selenskij-meloni-kritik-angriff-russisches-schiff-libyen-li.3585810",
-      "source": "Süddeutsche",
-      "date": "2026-11-28T12:04+00:00",
-      "teaser": "Damit relativiert der Präsident eine frühere Aussage. Die italienische Ministerpräsidentin Meloni hatte die Regierung in Kiew davor gewarnt, den Krieg auf das Mittelmeer auszuweiten."
+      "title": "Prof. Chwalba o relacjach Polska-Niemcy: „Trzeba otworzyć nową kartę w relacjach między sąsiadami”",
+      "url": "https://www.dw.com/pl/prof-chwalba-o-relacjach-polska-niemcy-trzeba-otworzyć-nową-kartę-w-relacjach-między-sąsiadami/a-80064011?maca=pol-rss-pol-all-1492-xml-mrss",
+      "source": "Deutsche Welle (Polen)",
+      "date": "2026-11-28T13:04+00:00",
+      "teaser": "Niemcy nie wiedzieli, co się dzieje za żelazną kurtyną, a i dziś niewielu chce wracać do historii – mówi historyk. Uważa, że w relacjach polsko-niemieckich trzeba otworzyć nową kartę i „zacząć ją redagować”. WYWIAD"
      }
     ]
-   }
-  ],
-  "Polen": [
+   },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.88,
     "items": [
      {
       "title": "Przyszłość Tuska po wyborach w 2027 roku. Sondaż: Ponad połowa Polaków nie chce go, jako premiera",
@@ -438,7 +517,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "Sikorski zarzuca byłemu ambasadorowi działanie na szkodę rządu",
@@ -451,7 +530,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.81,
     "items": [
      {
       "title": "Donald Tusk ma plan na utrzymanie się przy władzy w 2027 r. Koalicjanci mogą nie mieć wyjścia",
@@ -464,7 +543,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.9,
+    "score": 1.81,
     "items": [
      {
       "title": "„Slava UPA” na pomnikach. Rafał Trzaskowski: Farbę da się zmyć. Tego, co wyszło na jaw – już nie",
@@ -477,7 +556,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.89,
+    "score": 1.8,
     "items": [
      {
       "title": "Samopodpalenie 22-latka. Teza o manifeście politycznym jest na wyrost",
@@ -490,7 +569,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.85,
+    "score": 1.76,
     "items": [
      {
       "title": "Drony nad największą bazą amerykańskich myśliwców w Europie. \"FT\": Podejrzenia padają na Iran",
@@ -503,79 +582,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.75,
     "items": [
      {
       "title": "Marcin Przydacz mówi jednym głosem z niemiecką Lewicą i Zielonymi. Chodzi o polskie ofiary wojny",
       "url": "https://www.rp.pl/polityka/art45557661-marcin-przydacz-mowi-jednym-glosem-z-niemiecka-lewica-i-zielonymi-chodzi-o-polskie-ofiary-wojny",
       "source": "Rzeczpospolita",
       "date": "2026-11-28T12:09+01:00",
-      "teaser": "W uchwalonym przez Bundestag rekordowym budżecie na 2027 rok nie przewidziano pieniędzy na zadośćuczynienia dla żyjących jeszcze polskich ofiar niemieckiej okupacji. Decyzję krytykują przedstawiciele niemieckiej Lewicy i Zielonych, a także Marcin Przydacz z Kancelarii Prezydenta."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.84,
-    "items": [
-     {
-      "title": "Świat to za mało, by przestać wierzyć w Bonda. Nawet jeśli gra go Robert Pattinson",
-      "url": "https://www.rp.pl/plus-minus/art45554241-swiat-to-za-malo-by-przestac-wierzyc-w-bonda-nawet-jesli-gra-go-robert-pattinson",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-28T12:09+01:00",
-      "teaser": "Wybór Roberta Pattinsona do roli Jamesa Bonda wywołał sporo kontrowersji. Bo jak to, Wampir i Batman mieliby się wcielić w postać agenta Jego Królewskiej Mości? Ja jednak uważam, że świat może potrzebować właśnie takiej postaci."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Konrad Szymański: Europa gra w „gorące krzesła”. Bardziej liczy się, kto odpadnie",
-      "url": "https://www.rp.pl/plus-minus/art45553401-konrad-szymanski-europa-gra-w-gorace-krzesla-bardziej-liczy-sie-kto-odpadnie",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-28T12:03+01:00",
-      "teaser": "Dzisiejsza gra europejska przypomina „Czarnego Piotrusia”, gdzie bardziej liczy się nie to, kto wygra, ale to, kto z tą jedną kartą nie do pary w ręku przegra. Podobnie jak w grze z gorącym krzesłem o romantycznej niemieckiej nazwie „Reise nach Jerusalem”, w której gdy muzyka cichnie, ktoś nie znajd"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.75,
-    "items": [
-     {
-      "title": "Most Krymski do całkowitej likwidacji. Media: Ukraina planuje akcję wojskową",
-      "url": "https://www.rp.pl/konflikty-zbrojne/art45557581-most-krymski-do-calkowitej-likwidacji-media-ukraina-planuje-akcje-wojskowa",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-28T11:06+01:00",
-      "teaser": "Prezydent Zełenski chce, by most został całkowicie zniszczony – przekazało brytyjskiemu dziennikowi źródło w ukraińskiej armii. Ukraina planuje ostateczną likwidację przeprawy, otwartej osobiście przez Władimira Putina w 2018 roku."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.72,
-    "items": [
-     {
-      "title": "Złota Waga 2026 dla dziennikarza „Rzeczpospolitej” Piotra Szymaniaka",
-      "url": "https://www.rp.pl/zawody-prawnicze/art45557561-zlota-waga-2026-dla-dziennikarza-rzeczpospolitej-piotra-szymaniaka",
-      "source": "Rzeczpospolita",
-      "date": "2026-11-28T10:47+01:00",
-      "teaser": "Dziennikarz „Rzeczpospolitej” Piotr Szymaniak został laureatem Złotej Wagi 2026 – nagrody przyznawanej przez Naczelną Radę Adwokacką za rzetelne i obiektywne publikacje poświęcone tematyce prawnej."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.72,
-    "items": [
-     {
-      "title": "Strajk kobiet pójdzie przed Pałac Prezydencki. \"Poniesie się głos naszego gniewu\"",
-      "url": "https://wiadomosci.gazeta.pl/polityka/7,198012,33154815,strajk-kobiet-pojdzie-przed-palac-prezydencki-poniesie-sie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "source": "Gazeta Wyborcza",
-      "date": "2026-11-28T09:45+00:00",
-      "teaser": "Strajk kobiet wyruszy spod Sejmu i dotrze przed Pałac Prezydencki. Tam manifestantki i manifestanci będą chcieli skłonić Karola Nawrockiego, by ten podpisał ustawy aborcyjne."
+      "teaser": "Niemiecki Bundestag uchwalił rekordowy budżet na 2027 rok, ale nie przewidział w nim pieniędzy na zadośćuczynienia dla żyjących polskich ofiar niemieckiej okupacji. Decyzję rządu Friedricha Merza skrytykowali nie tylko polski prezydencki minister Marcin Przydacz, ale również przedstawiciele niemieck"
      }
     ]
    }
@@ -583,7 +597,7 @@
   "Wirtschaft & Börse": [
    {
     "sourceCount": 2,
-    "score": 3.83,
+    "score": 3.74,
     "items": [
      {
       "title": "Business-Ticker: Umweltminister Schneider plädiert für Umbau des Rheins",
@@ -603,7 +617,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.8,
+    "score": 2.71,
     "items": [
      {
       "title": "Rente: Riskanter Alleingang von Arbeitsminister Alexander Schweitzer",
@@ -623,7 +637,33 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Luxusmarke: Gucci wagt das Unglaubliche",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/gucci-luxus-mode-branche-preis-senkung-strategie",
+      "source": "Zeit",
+      "date": "2026-11-28T13:54+00:00",
+      "teaser": "Der Luxusmarkt steckt in der Krise. Jetzt geht das Modehaus Gucci einen außergewöhnlichen Schritt: Es senkt die Preise. Das könnte nach hinten losgehen."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.97,
+    "items": [
+     {
+      "title": "Palantir-Chef rechnet ab: „Wir können nicht investieren, wenn das Gegenüber ein Halbidiot ist“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/palantir-chef-karp-wir-koennen-nicht-investieren-wenn-der-gegenueber-ein-halbidiot-ist-accg-201725705.html",
+      "source": "FAZ",
+      "date": "2026-11-28T13:49+00:00",
+      "teaser": "Alex Karp kritisiert Deutschland und einige Nachbarländer scharf dafür, seine Sicherheitssoftware nicht einzusetzen und warnt vor einer ernsten Krise in Europa. Nun soll Polen zum Technologie-Hub ausgebaut werden."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.87,
     "items": [
      {
       "title": "Jensen Huang: Ist dieser Mann eine Billion Dollar wert?",
@@ -636,7 +676,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
+    "score": 1.86,
     "items": [
      {
       "title": "Energie: Uniper könnte mit bis zu 16 Milliarden Euro bewertet werden",
@@ -649,20 +689,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.95,
-    "items": [
-     {
-      "title": "Luxusmarke: Gucci wagt das Unglaubliche",
-      "url": "https://www.zeit.de/wirtschaft/2026-11/gucci-luxus-mode-branche-preis-senkung-strategie",
-      "source": "Zeit",
-      "date": "2026-11-28T12:30+00:00",
-      "teaser": "Der Luxusmarkt steckt in der Krise. Jetzt geht das Modehaus Gucci einen außergewöhnlichen Schritt: Es senkt die Preise. Das könnte nach hinten losgehen."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.85,
     "items": [
      {
       "title": "500 Jahre Firmengeschichte: So alt wie die Mona Lisa",
@@ -675,7 +702,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "Christmas market 'absolutely vital' for businesses",
@@ -688,7 +715,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
+    "score": 1.83,
     "items": [
      {
       "title": "Poundland closure 'big loss' for former mining town",
@@ -701,7 +728,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.82,
     "items": [
      {
       "title": "The outsider from Cannes shaking up France’s presidential race",
@@ -714,7 +741,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 1.84,
+    "score": 1.75,
     "items": [
      {
       "title": "SAP erwägt Abbau von mehr als 10.000 Stellen",
@@ -734,7 +761,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.84,
+    "score": 1.75,
     "items": [
      {
       "title": "+++ Ukraine-Krieg +++: Russland stellt Atom-U-Boot mit Hyperschallraketen in Dienst",
@@ -744,25 +771,40 @@
       "teaser": "Selenskyj: Angriff auf Schiff in Libyen war nicht abgesprochen +++ Russland meldet Abschuss von mehr als 1200 Drohnen +++ Ukraine bietet Waffenruhe im Schwarzen Meer an +++ Der Newsblog."
      }
     ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.83,
-    "items": [
-     {
-      "title": "Under the influence: how creator marketing upended advertising",
-      "url": "https://www.theguardian.com/media/2026/nov/28/influencer-marketing-advertising-brands-millions-followers-social-media",
-      "source": "The Guardian",
-      "date": "2026-11-28T11:00+00:00",
-      "teaser": "Brands are piggybacking off the potential sales that targeting millions of ardent followers can bring – but there are risks From the Avon ladies to the former Sex Pistols lead singer John Lydon selling butter , personal endorsement of products is a well-trodden form of marketing with significant gai"
-     }
-    ]
    }
   ],
   "Sport": [
    {
     "sourceCount": 1,
-    "score": 7.98,
+    "score": 7.95,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Preocupación con Hamza Abdelkarim",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256614/malas-noticias-hamza-abdelkarim.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-28T14:37+01:00",
+      "teaser": "Hamza Abdelkarim (18 años) no atraviesa un momento afortunado. Y es que el delantero egipcio puede perderse varios partidos por lesión. A caballo entre el primer equipo y el filial últimamente, Hamza sufrió ayer un contratiempo físico en el entrenamiento del Barça Atlètic previo al partido de hoy co"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.92,
+    "favorite": true,
+    "items": [
+     {
+      "title": "Flick se frota las manos con Ebrima: \"Tendrá un gran futuro en el Barça\"",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256600/flick-frota-manos-ebrima-tendra-gran-futuro-barca.html",
+      "source": "Mundo Deportivo (Barça)",
+      "date": "2026-11-28T14:16+01:00",
+      "teaser": "El barcelonismo ha ido conociendo el nombre de Ebrima Tunkara (16 años) durante los últimos meses. Hansi Flick decidió llevárselo a la pretemporada para poder ver de cerca al que está considerado como uno de los grandes proyectos de La Masia . Durante estas semanas, lidera a la selección española en"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 7.89,
     "favorite": true,
     "items": [
      {
@@ -775,56 +817,8 @@
     ]
    },
    {
-    "sourceCount": 1,
-    "score": 7.98,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Flick explica su enfado en Bakú",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256590/flick-explica-enfado-baku.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T13:50+01:00",
-      "teaser": "El Barcelona encarriló la victoria en el largo desplazamiento a Bakú sin tener que pisar a fondo el acelerador, pero Hansi Flick no regresó plenamente satisfecho. Justo después de marcar el cuarto gol, el Barça encajó uno. El entrenador, en el área técnica y visiblemente irritado, se quitó y lanzó c"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 7.97,
-    "favorite": true,
-    "items": [
-     {
-      "title": "Flick descarta a Bernal para dos partidos",
-      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256596/flick-descarta-bernal-dos-partidos.html",
-      "source": "Mundo Deportivo (Barça)",
-      "date": "2026-11-28T13:44+01:00",
-      "teaser": "Días después de su holgado triunfo ante el Sabah en Bakú , en la quinta jornada de la Champions League , Hansi Flick se ha visto obligado a hacer un parte médico sobre la enfermería del Barça en la previa del partido ante el Depor de la 14ª jornada de LaLiga . El técnico alemán ha asegurado que Bern"
-     }
-    ]
-   },
-   {
     "sourceCount": 2,
-    "score": 3.98,
-    "items": [
-     {
-      "title": "LIVE! Hertha kontert sich zur Führung - Viele Chancen in Dresden - Diskussionen um Harres",
-      "url": "https://www.kicker.de/live-hertha-kontert-sich-zur-fuehrung-viele-chancen-in-dresden-diskussionen-um-harres-1275252/artikel#omrss",
-      "source": "kicker",
-      "date": "2026-11-28T11:12+00:00",
-      "teaser": "Bleibt Hertha unantastbar? Die Alte Dame empfängt den KSC. Schlusslicht Kiel braucht unter Neu-Trainer Kniat einen Sieg gegen Lautern. Des Weiteren trifft Dresden auf den FC St. Pauli."
-     },
-     {
-      "title": "Jetzt live - Hertha kontert den KSC aus, Kieler Tor zählt nicht",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3966/",
-      "source": "Sportschau",
-      "date": "2026-11-28T13:55+01:00",
-      "teaser": "Während Dresden den ungeliebten FC St. Pauli empfängt, wird bei Hertha BSC die Freundschaft mit Karlsruhe gefeiert. Außerdem steht das Heim-Debüt von Mitch Kniat in Kiel an."
-     }
-    ]
-   },
-   {
-    "sourceCount": 2,
-    "score": 3.96,
+    "score": 3.87,
     "items": [
      {
       "title": "Premier League: Chelsea-Profi Wesley Fofana von eigenen Fans ausgepfiffen",
@@ -844,7 +838,27 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.78,
+    "score": 2.74,
+    "items": [
+     {
+      "title": "Die Sportschau vom Freitag mit Bremen gegen Mönchengladbach",
+      "url": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2711-100.html",
+      "source": "Sportschau",
+      "date": "2026-11-28T00:05+01:00",
+      "teaser": "Sehen Sie hier die Sportschau am Freitag mit den Highlights vom Spiel Werder Bremen gegen Borussia Mönchengladbach, der 2. Bundesliga, der 3. Liga und der Frauen-Bundesliga."
+     },
+     {
+      "title": "Bundesliga, 11. Spieltag – Freitag: Schlusslicht Mönchengladbach verpasst Sieg bei Werder Bremen",
+      "url": "https://www.zeit.de/sport/2026-11/bundesliga-11-spieltag-werder-bremen-borussia-moenchengladbach",
+      "source": "Zeit",
+      "date": "2026-11-27T22:05+00:00",
+      "teaser": "Der Tabellenletzte Mönchengladbach führt in Bremen bis kurz vor Schluss – und verpasst dennoch den Sieg. Gleich zwei Spielern gelingt ein Doppelpack. Der Spielbericht"
+     }
+    ]
+   },
+   {
+    "sourceCount": 2,
+    "score": 2.69,
     "items": [
      {
       "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
@@ -864,7 +878,7 @@
    },
    {
     "sourceCount": 2,
-    "score": 2.16,
+    "score": 2.07,
     "items": [
      {
       "title": "Jamal Musiala: Offensivstar des FC Bayern München fällt bis Jahresende aus",
@@ -884,14 +898,40 @@
    },
    {
     "sourceCount": 1,
-    "score": 2.0,
+    "score": 2.01,
     "items": [
      {
-      "title": "Ab 16.30 Uhr live - Duisburg klarer Favorit in Großaspach",
-      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/ma12242671/sg-sonnenhof-grossaspach_msv-duisburg/liveticker",
+      "title": "Live hören: SC Paderborn 07 gegen FC Schalke 04 - Bundesliga",
+      "url": "https://www.sportschau.de/fussball/bundesliga/sc-paderborn-07-gegen-fc-schalke-04,audiostream-sc-paderborn-07-gegen-fc-schalke-04-106.html",
       "source": "Sportschau",
-      "date": "2026-11-28T14:04+01:00",
-      "teaser": "In der 3. Liga empfängt Sonnenhof-Großaspach den Tabellenführer MSV Duisburg und kämpft um Punkte im Tabellenkeller."
+      "date": "2026-11-28T15:15+01:00",
+      "teaser": "11. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 15:30 Uhr. FC Schalke 04 spielt in Paderborn."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.01,
+    "items": [
+     {
+      "title": "Live hören: Hamburger SV gegen Bayern München - Bundesliga",
+      "url": "https://www.sportschau.de/fussball/bundesliga/hamburger-sv-gegen-bayern-muenchen,audiostream-hamburger-sv-gegen-bayern-muenchen-102.html",
+      "source": "Sportschau",
+      "date": "2026-11-28T15:15+01:00",
+      "teaser": "11. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 15:30 Uhr. Bayern München spielt in Hamburg."
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 2.01,
+    "items": [
+     {
+      "title": "Live hören: 1. FSV Mainz 05 gegen 1. FC Union Berlin - Bundesliga",
+      "url": "https://www.sportschau.de/fussball/bundesliga/1-fsv-mainz-05-gegen-1-fc-union-berlin,audiostream-1-fsv-mainz-05-gegen-1-fc-union-berlin-108.html",
+      "source": "Sportschau",
+      "date": "2026-11-28T15:15+01:00",
+      "teaser": "11. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 15:30 Uhr. 1. FC Union Berlin spielt in Mainz."
      }
     ]
    },
@@ -900,50 +940,24 @@
     "score": 1.98,
     "items": [
      {
-      "title": "Biathlon: Furioser Strelow führt Single-Mixed-Staffel auf Platz zwei",
-      "url": "https://www.sportschau.de/wintersport/biathlon/furioser-strelow-fuehrt-single-mixed-staffel-auf-platz-zwei,biathlon-single-mixed-staffel-100.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-28T13:50+01:00",
-      "teaser": "Die deutschen Biathleten haben ihren starken Auftakt in die Weltcup-Saison auch in der Single-Mixed-Staffel bestätigt. Marlene Fichtner und Justus Strelow liefen in Kontiolahti auf Rang zwei."
+      "title": "Schach-WM 2026: Jetzt live: Die vierte Partie der Schach-WM",
+      "url": "https://www.zeit.de/sport/2026-11/schach-wm-2026-vierte-partie",
+      "source": "Zeit",
+      "date": "2026-11-28T13:58+00:00",
+      "teaser": "Die bisherigen Partien endeten remis. Nun trifft der Weltmeister Gukesh zum vierten Mal auf den usbekischen Herausforderer Javokhir Sindarov. Die Partie im Livestream"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.97,
+    "score": 1.98,
     "items": [
      {
-      "title": "Eiskunstlauf: Wunderkind Malinin triumphiert nach Weltrekord in Tokio",
-      "url": "https://www.sportschau.de/wintersport/eiskunstlauf/malinin-triumphiert-nach-wltrekord-in-tokio,malinin-116.html",
-      "source": "Sportschau (alle Sportarten)",
-      "date": "2026-11-28T13:42+01:00",
-      "teaser": "Es war ein Feuerwerk der Eiskunstlaufkunst, aber einer thronte über allen: Ilia Malinin. Der \"Vierfachgott\" lief beim Grand Prix in Tokio zum Sieg."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Work in progress but Liverpool find belief again with Iraola",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7vdqx4vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-28T12:36+00:00",
-      "teaser": "With the attack finally firing and Liverpool looking more solid at the back, Andoni Iraola has got the fans believing again. Just in time for derby day."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.96,
-    "items": [
-     {
-      "title": "Manchester United v Brentford buildup, Premier League news and more – matchday live",
-      "url": "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-buildup-premier-league-news-and-more-matchday-live",
-      "source": "The Guardian",
-      "date": "2026-11-28T12:39+00:00",
-      "teaser": "Latest team news, Premier League buildup and more Get in touch: email the matchday live team In today’s Krillion (a fun little daily online quiz, if you’re not familiar, in which the most obscure answers are the best answers): “Name a player who won a league title in the NBA, Premier League, La Liga"
+      "title": "Max Merkels „Bild“-Kolumne: Hart – nicht gegen sich selbst, aber gegen andere",
+      "url": "https://www.11freunde.de/bundesliga/max-merkels-bild-kolumne-hart-nicht-gegen-sich-selbst-aber-gegen-andere-a-a7247d92-cb52-4d67-a1cc-f107de02cbb5#ref=rss",
+      "source": "11 Freunde",
+      "date": "2026-11-28T15:00+01:00",
+      "teaser": "Vor 20 Jahren starb Max Merkel. Viele Jahre lang testete er in der „Bild“-Zeitung die Bundesliga und nahm dabei kein Blatt vor den Mund. Die überfällige Würdigung des humoristischen Gesamtwerkes."
      }
     ]
    }
@@ -958,14 +972,14 @@
       "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
       "source": "The Verge",
       "date": "2026-11-27T22:28-05:00",
-      "teaser": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through"
+      "teaser": "Editor’s note: It’s no longer Black Friday, but given how many great deals are still happening, the shopping holiday didn’t really go away overnight. Still, we’ve focused our attention to a new post, and this one will no longer be updated. Black Friday is nearly over, but many of this year’s best de"
      },
      {
-      "title": "I Found the 26 Best Black Friday Tech Deals, Up to 50% Off (2026)",
-      "url": "https://www.wired.com/story/best-black-friday-tech-deals-11-28-26/",
+      "title": "The 29 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
+      "url": "https://www.wired.com/story/amazon-black-friday-deals-11-28-2026/",
       "source": "Wired",
-      "date": "2026-11-28T10:09+00:00",
-      "teaser": "Why pay more? The best Black Friday tech deals offer deep discounts on great WIRED-tested gear."
+      "date": "2026-11-28T12:00+00:00",
+      "teaser": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is still ongoing. Score discounts on our favorite (and tested) products through November 30."
      },
      {
       "title": "The best Black Friday deals Ars could find",
@@ -978,7 +992,72 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.99,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Anzeige: IT-Jobs in SAP, Datenanalyse und Systemadministration",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-sap-datenanalyse-und-systemadministration-2611-215730.html",
+      "source": "Golem",
+      "date": "2026-11-28T15:00+01:00",
+      "teaser": "SAP-Anwendungen optimieren, Datenbanken gestalten oder IT-Systeme betreuen: Sechs offene Stellen bieten neue berufliche Perspektiven. ( Golem Karrierewelt , Unternehmenssoftware )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "The Alexa Photo Frame is the Echo Show without the bits you hate",
+      "url": "https://www.theverge.com/tech/1043764/amazon-alexa-photo-frame-review",
+      "source": "The Verge",
+      "date": "2026-11-28T09:00-05:00",
+      "teaser": "I have to face facts: I'm a digital hoarder. My son graduated high school this year, and to mark the occasion, I made him a scrapbook of his 12 years of school. He loved it, but one reaction surprised me: He said he'd never seen most of these photos. Unlike my childhood - documented in […]"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.98,
+    "items": [
+     {
+      "title": "Almost every great Black Friday deal is still happening this weekend",
+      "url": "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge",
+      "date": "2026-11-28T08:57-05:00",
+      "teaser": "Black Friday has passed, but that doesn’t mean you missed out. Far from it. Almost all of the same deals from yesterday are still available, but some retailers plan to end theirs once the clock turns to early Sunday morning. True, expired deals you had your eye on are likely to return for Cyber Mond"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Ladepreise: ADAC rügt hohe Aufpreise an Schnellladern",
+      "url": "https://www.golem.de/news/ladepreise-adac-ruegt-hohe-aufpreise-an-schnellladern-2611-215782.html",
+      "source": "Golem",
+      "date": "2026-11-28T14:06+01:00",
+      "teaser": "Verglichen mit den Spritpreisen vom Oktober lädt es sich im Schnitt günstiger. Einige Schnelllader sind dennoch teurer. ( Elektromobilität , Auto )"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.91,
+    "items": [
+     {
+      "title": "Studio-Sound für unter 100 Euro: 6 kleine Podcast-Tools mit großer Wirkung",
+      "url": "https://t3n.de/news/podcast-tools-studio-sound-1727936/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-28T14:05+01:00",
+      "teaser": "Von der Podcast-Idee zur fertigen Audiodatei ist es ein langer Weg – und manchmal ein teurer. Wir zeigen euch für jeden der wichtigsten Schritte Tool-Alternativ weiterlesen auf t3n.de"
+     }
+    ]
+   },
+   {
+    "sourceCount": 1,
+    "score": 1.9,
     "items": [
      {
       "title": "Pensions and benefits services still down after 'cyber incident'",
@@ -991,20 +1070,20 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.98,
+    "score": 1.89,
     "items": [
      {
-      "title": "The 29 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
-      "url": "https://www.wired.com/story/amazon-black-friday-deals-11-28-2026/",
-      "source": "Wired",
-      "date": "2026-11-28T12:00+00:00",
-      "teaser": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is still ongoing. Score discounts on our favorite (and tested) products through November 30."
+      "title": "Sie schnuppert es: So will ein US-Startup einer KI das Riechen beibringen",
+      "url": "https://t3n.de/news/osmo-ki-riechen-1774212/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-28T13:55+01:00",
+      "teaser": "Das Geruchsmodell von Osmo wird bereits in der Parfümindustrie eingesetzt. Künftig soll sie auch für medizinische Diagnostik und das Erschnüffeln von Gefahren g weiterlesen auf t3n.de"
      }
     ]
    },
    {
     "sourceCount": 1,
-    "score": 1.96,
+    "score": 1.87,
     "items": [
      {
       "title": "Anzeige: Black Friday bei it-nerd24 - Dauerlizenzen von Microsoft und Windows zum halben Preis ...",
@@ -1017,7 +1096,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.94,
+    "score": 1.85,
     "items": [
      {
       "title": "Pirelli treibt Sensorik voran: Reifen, die mit dem Auto sprechen",
@@ -1030,20 +1109,7 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.92,
-    "items": [
-     {
-      "title": "Einstöpseln und Ruhe haben: Warum mich Boses neue Kabel-Kopfhörer im Büro überzeugen – und unterwegs manchmal nerven",
-      "url": "https://t3n.de/news/bose-kopfhoerer-kabel-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n",
-      "date": "2026-11-28T13:05+01:00",
-      "teaser": "Kabelgebundene In-Ears sind wieder im Trend. Aber wie ist das so, die Airpods beiseite zu legen und wieder über die Strippe Musik und Podcasts zu hören? Unser Autor hat es mit Boses kabelgebundenen Noise-Cancelling-Earbuds ausprobiert. weiterlesen auf t3n.de"
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.82,
     "items": [
      {
       "title": "Kryptografie: KI-Labore sollen brisanten Durchbruch zurückhalten",
@@ -1056,66 +1122,14 @@
    },
    {
     "sourceCount": 1,
-    "score": 1.91,
+    "score": 1.82,
     "items": [
      {
-      "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
-      "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
-      "source": "Ars Technica",
-      "date": "2026-11-28T12:00+00:00",
-      "teaser": "Kindles are getting costlier faster than they're getting better."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.91,
-    "items": [
-     {
-      "title": "7 Pro Tips to Get More Out of the Google Health App",
-      "url": "https://www.wired.com/story/7-pro-tips-to-get-more-out-of-the-google-health-app/",
-      "source": "Wired",
-      "date": "2026-11-28T12:00+00:00",
-      "teaser": "Google has replaced the fitness tracking software for your Fitbit or Wear OS watch with an app called Google Health. Here’s how to make it do more than just the basics."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
-      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "date": "2026-11-28T11:35+00:00",
-      "teaser": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.87,
-    "items": [
-     {
-      "title": "Swift Saw the Secrets of Space Before Falling to Earth",
-      "url": "https://www.wired.com/story/swift-saw-the-secrets-of-space-before-falling-to-earth/",
-      "source": "Wired",
-      "date": "2026-11-28T11:30+00:00",
-      "teaser": "Designed for a two-year mission, the Neil Gehrels Swift Observatory saw thousands of gamma-ray bursts and stars being torn apart by black holes over 22 years before burning up in Earth’s atmosphere."
-     }
-    ]
-   },
-   {
-    "sourceCount": 1,
-    "score": 1.85,
-    "items": [
-     {
-      "title": "Neues Macbook Pro: Löst Apples OLED-Display Kopfschmerzen aus?",
-      "url": "https://www.golem.de/news/neues-macbook-pro-loest-apples-oled-display-kopfschmerzen-aus-2611-215779.html",
-      "source": "Golem",
-      "date": "2026-11-28T12:20+01:00",
-      "teaser": "Kopfschmerzen, Schwindel, Übelkeit: Seit dem Umstieg auf OLED beim Macbook Pro häufen sich Klagen in Onlineforen. ( Macbook , Apple )"
+      "title": "Einstöpseln und Ruhe haben: Warum mich Boses neue Kabel-Kopfhörer im Büro überzeugen – und unterwegs manchmal nerven",
+      "url": "https://t3n.de/news/bose-kopfhoerer-kabel-1773306/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n",
+      "date": "2026-11-28T13:05+01:00",
+      "teaser": "Kabelgebundene In-Ears sind wieder im Trend. Aber wie ist das so, die Airpods beiseite zu legen und wieder über die Strippe Musik und Podcasts zu hören? Unser Autor hat es mit Boses kabelgebundenen Noise-Cancelling-Earbuds ausprobiert. weiterlesen auf t3n.de"
      }
     ]
    }
@@ -1222,7 +1236,7 @@
    "topic": "Welt & Politik",
    "source": "CBC",
    "ok": true,
-   "items": 8
+   "items": 10
   },
   {
    "topic": "Welt & Politik",
@@ -1402,7 +1416,7 @@
    "topic": "Sport",
    "source": "Zeit",
    "ok": true,
-   "items": 4
+   "items": 5
   },
   {
    "topic": "Sport",
